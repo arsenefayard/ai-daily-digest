@@ -1,0 +1,31 @@
+name: Daily AI News Digest
+
+on:
+  schedule:
+    - cron: '0 7 * * *'  # Tous les jours à 8h en France (hiver) / 9h (été)
+  workflow_dispatch:  # Permet de tester manuellement
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v3
+      
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Installer les dépendances
+        run: |
+          pip install -r requirements.txt
+      
+      - name: Exécuter le script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
+        run: python ai_digest.py
