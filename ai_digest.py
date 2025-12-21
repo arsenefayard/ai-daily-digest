@@ -1,59 +1,50 @@
 """
-Script de digest quotidien IA avec OpenAI GPT-4o-mini
+Script de digest quotidien IA avec Perplexity API
 
-INSTRUCTIONS POUR CURSOR :
-
-1. Installe les dépendances : pip install openai
-
+INSTRUCTIONS :
+1. pip install requests
 2. Crée un fichier .env avec :
-
-   OPENAI_API_KEY=ta_clé_ici
-
+   PERPLEXITY_API_KEY=ta_clé_ici
    SENDER_EMAIL=ton_email@gmail.com
-
    EMAIL_PASSWORD=ton_mot_de_passe_application_gmail
-
    RECEIVER_EMAIL=email_destination@gmail.com
-
-3. Lance le script : python ai_digest.py
-
 """
 
 import os
 import smtplib
+import requests
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
-from openai import OpenAI
 
 
 def get_ai_news_summaries():
-    """Utilise OpenAI pour rechercher et résumer les actualités IA du jour"""
-
-    api_key = os.environ.get('OPENAI_API_KEY')
-
+    """Utilise Perplexity pour rechercher et résumer les actualités IA du jour"""
+    
+    api_key = os.environ.get('PERPLEXITY_API_KEY')
+    
     if not api_key:
-        print("❌ Erreur : OPENAI_API_KEY non trouvée")
-        print("💡 Crée un fichier .env avec : OPENAI_API_KEY=ta_clé")
+        print("❌ Erreur : PERPLEXITY_API_KEY non trouvée")
+        print("💡 Crée un fichier .env avec : PERPLEXITY_API_KEY=ta_clé")
         return None
-
-    print("🔍 Recherche des actualités IA en cours...")
-
-    client = OpenAI(api_key=api_key)
-
-    try:
-        response = client.chat.completions.create(
-            model='gpt-4o-mini',
-            messages=[
-                {
-                    'role': 'system',
-                    'content': '''Tu es un assistant spécialisé dans la recherche d'actualités IA.
-
-IMPORTANT : Tu DOIS utiliser tes capacités de RECHERCHE WEB pour trouver les actualités IA publiées AUJOURD'HUI ou dans les derniers jours (décembre 2024). 
-
-NE te limite PAS à tes données d'entraînement qui s'arrêtent en 2021. CHERCHE SUR LE WEB les informations les plus récentes.
-
-Trouve les 5 actualités les plus importantes et récentes sur l'intelligence artificielle en CHERCHANT SUR INTERNET.
+    
+    print("🔍 Recherche des actualités IA avec Perplexity...")
+    
+    url = "https://api.perplexity.ai/chat/completions"
+    
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "model": "llama-3.1-sonar-small-128k-online",  # Modèle avec recherche web
+        "messages": [
+            {
+                "role": "system",
+                "content": """Tu es un assistant spécialisé dans les actualités IA.
+                
+Recherche sur le web les 5 actualités les plus importantes et récentes (dernières 48h) sur l'intelligence artificielle.
 
 Pour chacune, fournis :
 1. Un titre clair
@@ -64,35 +55,43 @@ Formate comme ça :
 
 ## 1. [TITRE]
 
-Résumé : [ton résumé]
+Résumé : [résumé détaillé]
 
 Pourquoi c'est important : [explication]
 
 ---
 
-Répète pour les 5 actualités. UTILISE LA RECHERCHE WEB pour avoir des infos à jour !'''
-                },
-                {
-                    'role': 'user',
-                    'content': f"Quelles sont les 5 actualités IA les plus importantes récentes ? Date du jour : {datetime.now().strftime('%d/%m/%Y')}"
-                }
-            ],
-            temperature=0.7,
-            max_tokens=2000
-        )
-
-        summaries = response.choices[0].message.content
+Concentre-toi sur : nouveaux modèles, annonces d'entreprises, avancées scientifiques, applications pratiques, régulations."""
+            },
+            {
+                "role": "user",
+                "content": f"Quelles sont les 5 actualités IA les plus importantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"
+            }
+        ],
+        "temperature": 0.2,
+        "max_tokens": 2000
+    }
+    
+    try:
+        response = requests.post(url, json=payload, headers=headers)
+        response.raise_for_status()
+        
+        result = response.json()
+        summaries = result['choices'][0]['message']['content']
+        
         print("✅ Résumés générés avec succès")
         return summaries
-
-    except Exception as e:
-        print(f"❌ Erreur API OpenAI : {e}")
+        
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Erreur API Perplexity : {e}")
+        if hasattr(e.response, 'text'):
+            print(f"Détails : {e.response.text}")
         return None
 
 
 def create_email_body(summaries):
     """Crée le corps de l'email"""
-
+    
     body = f"""Bonjour,
 
 Voici votre digest IA quotidien du {datetime.now().strftime('%d/%m/%Y')} 🤖
@@ -101,41 +100,41 @@ Voici votre digest IA quotidien du {datetime.now().strftime('%d/%m/%Y')} 🤖
 
 ---
 
-Bonne journée !
+Ce digest a été généré automatiquement via Perplexity AI avec recherche web en temps réel.
 
+Bonne journée !
 """
     return body
 
 
 def send_email(body):
     """Envoie l'email via Gmail"""
-
+    
     sender = os.environ.get('SENDER_EMAIL')
     password = os.environ.get('EMAIL_PASSWORD')
     receiver = os.environ.get('RECEIVER_EMAIL')
-
+    
     if not all([sender, password, receiver]):
         print("❌ Erreur : Variables d'environnement email manquantes")
-        print("💡 Ajoute dans .env : SENDER_EMAIL, EMAIL_PASSWORD, RECEIVER_EMAIL")
         return False
-
+    
     print(f"📧 Envoi de l'email à {receiver}...")
-
+    
     try:
         msg = MIMEMultipart()
         msg['Subject'] = f"🤖 Digest IA du {datetime.now().strftime('%d/%m/%Y')}"
         msg['From'] = sender
         msg['To'] = receiver
-
+        
         msg.attach(MIMEText(body, 'plain', 'utf-8'))
-
+        
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(sender, password)
             server.send_message(msg)
-
+        
         print("✅ Email envoyé avec succès !")
         return True
-
+        
     except Exception as e:
         print(f"❌ Erreur lors de l'envoi : {e}")
         return False
@@ -143,36 +142,34 @@ def send_email(body):
 
 def main():
     """Fonction principale"""
-
+    
     print("\n" + "="*50)
     print("🤖 AI DAILY DIGEST - Démarrage")
     print("="*50 + "\n")
-
-    # Récupère les résumés
+    
+    # Récupère les résumés avec Perplexity
     summaries = get_ai_news_summaries()
-
+    
     if not summaries:
         print("\n❌ Impossible de générer les résumés")
         return
-
-    # Affiche les résumés dans le terminal
+    
+    # Affiche les résumés
     print("\n" + "="*50)
     print("📰 RÉSUMÉS GÉNÉRÉS :")
     print("="*50 + "\n")
     print(summaries)
     print("\n" + "="*50 + "\n")
-
+    
     # Crée et envoie l'email
     email_body = create_email_body(summaries)
     success = send_email(email_body)
-
+    
     if success:
         print("\n✅ Processus terminé avec succès !")
     else:
         print("\n⚠️ Résumés générés mais email non envoyé")
-        print("💡 Vérifie tes paramètres Gmail")
 
 
 if __name__ == "__main__":
     main()
-
