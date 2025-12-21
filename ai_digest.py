@@ -47,11 +47,15 @@ def get_ai_news_summaries():
             messages=[
                 {
                     'role': 'system',
-                    'content': '''Tu es un assistant spécialisé dans les actualités IA.
+                    'content': '''Tu es un assistant spécialisé dans la recherche d'actualités IA.
 
-Trouve les 5 actualités les plus importantes et récentes sur l'intelligence artificielle.
+IMPORTANT : Tu DOIS utiliser tes capacités de RECHERCHE WEB pour trouver les actualités IA publiées AUJOURD'HUI ou dans les derniers jours (décembre 2024). 
+
+NE te limite PAS à tes données d'entraînement qui s'arrêtent en 2021. CHERCHE SUR LE WEB les informations les plus récentes.
+
+Trouve les 5 actualités les plus importantes et récentes sur l'intelligence artificielle en CHERCHANT SUR INTERNET.
+
 Pour chacune, fournis :
-
 1. Un titre clair
 2. Un résumé de 3-4 phrases en français
 3. Pourquoi c'est important
@@ -66,7 +70,7 @@ Pourquoi c'est important : [explication]
 
 ---
 
-Répète pour les 5 actualités.'''
+Répète pour les 5 actualités. UTILISE LA RECHERCHE WEB pour avoir des infos à jour !'''
                 },
                 {
                     'role': 'user',
