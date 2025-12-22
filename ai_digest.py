@@ -90,21 +90,63 @@ Concentre-toi sur : nouveaux modèles, annonces d'entreprises, avancées scienti
 
 
 def create_email_body(summaries):
-    """Crée le corps de l'email"""
+    """Crée le corps de l'email avec mise en forme HTML"""
     
-    body = f"""Bonjour,
-
-Voici votre digest IA quotidien du {datetime.now().strftime('%d/%m/%Y')} 🤖
-
-{summaries}
-
----
-
-Ce digest a été généré automatiquement via Perplexity AI avec recherche web en temps réel.
-
-Bonne journée !
-"""
-    return body
+    # Nettoie les résumés en retirant les ** et "Résumé :" / "Pourquoi c'est important :"
+    cleaned = summaries.replace('**', '')
+    cleaned = cleaned.replace('Résumé : ', '')
+    cleaned = cleaned.replace('Pourquoi c\'est important : ', '💡 ')
+    
+    # Convertit en HTML pour une meilleure mise en forme
+    html = f"""
+    <html>
+    <head>
+        <style>
+            body {{
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                color: #333;
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }}
+            h2 {{
+                color: #2563eb;
+                border-bottom: 2px solid #e5e7eb;
+                padding-bottom: 10px;
+                margin-top: 30px;
+            }}
+            h3 {{
+                color: #1e40af;
+                margin-top: 25px;
+            }}
+            .lightbulb {{
+                color: #059669;
+                font-weight: 500;
+            }}
+            hr {{
+                border: none;
+                border-top: 1px solid #e5e7eb;
+                margin: 25px 0;
+            }}
+        </style>
+    </head>
+    <body>
+        <h2>🤖 Votre digest IA quotidien - {datetime.now().strftime('%d/%m/%Y')}</h2>
+        <p>Voici les 5 actualités IA les plus importantes du jour :</p>
+        
+        {cleaned.replace('## ', '<h3>').replace('---', '<hr>')}
+        
+        <hr>
+        <p style="color: #6b7280; font-size: 0.9em;">
+            Bonne journée !<br>
+            <em>Généré automatiquement par Perplexity AI</em>
+        </p>
+    </body>
+    </html>
+    """
+    
+    return html
 
 
 def send_email(body):
