@@ -168,7 +168,7 @@ def send_email(body):
         msg['From'] = sender
         msg['To'] = receiver
         
-        msg.attach(MIMEText(body, 'plain', 'utf-8'))
+        msg.attach(MIMEText(body, 'html', 'utf-8'))
         
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(sender, password)
