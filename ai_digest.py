@@ -38,7 +38,7 @@ def get_ai_news_summaries():
     }
     
     payload = {
-        "model": "llama-3.1-sonar-small-128k-online",  # Modèle avec recherche web
+        "model": "sonar",  # Modèle avec recherche web
         "messages": [
             {
                 "role": "system",
