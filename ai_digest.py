@@ -43,25 +43,26 @@ def get_ai_news_summaries():
             {
                 "role": "system",
                 "content": """Tu es un assistant spécialisé dans les actualités IA.
-                
-Recherche sur le web les 5 actualités les plus importantes et récentes (dernières 48h) sur l'intelligence artificielle.
 
-Pour chacune, fournis :
-1. Un titre clair
-2. Un résumé de 3-4 phrases en français
-3. Pourquoi c'est important
+Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.
 
-Formate comme ça :
+IMPORTANT : Réponds UNIQUEMENT en HTML pur, sans aucun texte Markdown, sans ``` et sans préambule.
 
-## 1. [TITRE]
+Format HTML strict à respecter pour CHAQUE actualité :
 
-Résumé : [résumé détaillé]
+<div style="margin-bottom: 30px;">
+  <h3 style="color: #2563eb; margin-bottom: 10px;">1. [Titre de l'actualité]</h3>
+  <p style="line-height: 1.6; margin-bottom: 10px;">[Résumé en 3-4 phrases]</p>
+  <p style="color: #059669; font-weight: 500;">💡 [Pourquoi c'est important]</p>
+</div>
 
-Pourquoi c'est important : [explication]
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 25px 0;">
 
----
+Répète exactement ce format pour les 5 actualités (numérotées 1, 2, 3, 4, 5).
 
-Concentre-toi sur : nouveaux modèles, annonces d'entreprises, avancées scientifiques, applications pratiques, régulations."""
+Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
+
+Réponds UNIQUEMENT avec le HTML, pas de texte avant ou après."""
             },
             {
                 "role": "user",
@@ -92,15 +93,10 @@ Concentre-toi sur : nouveaux modèles, annonces d'entreprises, avancées scienti
 def create_email_body(summaries):
     """Crée le corps de l'email avec mise en forme HTML"""
     
-    # Nettoie les résumés en retirant les ** et "Résumé :" / "Pourquoi c'est important :"
-    cleaned = summaries.replace('**', '')
-    cleaned = cleaned.replace('Résumé : ', '')
-    cleaned = cleaned.replace('Pourquoi c\'est important : ', '💡 ')
-    
-    # Convertit en HTML pour une meilleure mise en forme
     html = f"""
     <html>
     <head>
+        <meta charset="UTF-8">
         <style>
             body {{
                 font-family: Arial, sans-serif;
@@ -109,45 +105,40 @@ def create_email_body(summaries):
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 20px;
+                background-color: #f9fafb;
+            }}
+            .container {{
+                background-color: white;
+                padding: 30px;
+                border-radius: 8px;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.1);
             }}
             h2 {{
-                color: #2563eb;
-                border-bottom: 2px solid #e5e7eb;
-                padding-bottom: 10px;
-                margin-top: 30px;
-            }}
-            h3 {{
                 color: #1e40af;
-                margin-top: 25px;
-            }}
-            .lightbulb {{
-                color: #059669;
-                font-weight: 500;
-            }}
-            hr {{
-                border: none;
-                border-top: 1px solid #e5e7eb;
-                margin: 25px 0;
+                border-bottom: 3px solid #2563eb;
+                padding-bottom: 15px;
+                margin-bottom: 25px;
             }}
         </style>
     </head>
     <body>
-        <h2>🤖 Votre digest IA quotidien - {datetime.now().strftime('%d/%m/%Y')}</h2>
-        <p>Voici les 5 actualités IA les plus importantes du jour :</p>
-        
-        {cleaned.replace('## ', '<h3>').replace('---', '<hr>')}
-        
-        <hr>
-        <p style="color: #6b7280; font-size: 0.9em;">
-            Bonne journée !<br>
-            <em>Généré automatiquement par Perplexity AI</em>
-        </p>
+        <div class="container">
+            <h2>🤖 Votre digest IA quotidien - {datetime.now().strftime('%d/%m/%Y')}</h2>
+            <p style="color: #6b7280; margin-bottom: 30px;">Voici les 5 actualités IA les plus importantes du jour :</p>
+            
+            {summaries}
+            
+            <hr style="border: none; border-top: 2px solid #e5e7eb; margin: 30px 0;">
+            <p style="color: #6b7280; font-size: 0.9em;">
+                Bonne journée !<br>
+                <em>Généré automatiquement par Perplexity AI</em>
+            </p>
+        </div>
     </body>
     </html>
     """
     
     return html
-
 
 def send_email(body):
     """Envoie l'email via Gmail"""
