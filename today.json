@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Opus 4.6 marque un bond spectaculaire en capacités IA, dépassant les évaluations de risques",
-      "summary": "La version 4.6 d'Opus montre des progrès énormes sur ARC-AGI-2 (de 37.6% à 68.8%) et un gain de 200 points ELO sur GPQA. Les capacités du modèle dépassent désormais les outils d'évaluation des risques, aggravant la course aux capacités entre acteurs IA. Yoshua Bengio commente ces avancées accélérées.",
-      "why": "Cela confirme une accélération des tendances de scaling IA, avec des implications critiques sur la sécurité et la régulation.",
-      "category": "Modèle"
+      "title": "Apple annonce le MacBook Neo et d'autres produits le 4 mars 2026",
+      "summary": "Apple a dévoilé une série de nouveaux produits lors de son événement du 2 au 4 mars 2026, incluant l'iPhone 17e, l'iPad Air M4, les MacBook Air M5 et Pro M5, et potentiellement le MacBook Neo low-cost et coloré. L'événement met l'accent sur les mises à jour hardware avec puces M5. Le MacBook Neo est très attendu pour son prix abordable et son design innovant.",
+      "why": "Ces annonces marquent le renouveau hardware d'Apple en 2026 avec intégration probable d'IA avancée, impactant le marché des ordinateurs et tablettes.",
+      "category": "Entreprise"
     },
     {
-      "title": "Google publie Lyria 3, son nouveau modèle génératif de musique",
-      "summary": "Google a lancé Lyria 3, un modèle avancé pour la génération musicale. Cette sortie s'inscrit dans les avancées récentes de février 2026 en IA créative. Elle vise à concurrencer les outils existants dans le domaine audio.",
-      "why": "Renforce la position de Google en IA générative multimodale, ouvrant des applications commerciales en musique.",
-      "category": "Modèle"
+      "title": "Mistral AI acquiert la startup française Koyeb",
+      "summary": "Mistral AI, champion français des modèles d'IA, a racheté Koyeb, un fournisseur de cloud serverless. Cette acquisition suit l'annonce d'un investissement de 1,2 milliard d'euros pour des centres de données en Suède. Elle vise à renforcer les capacités d'infrastructure de Mistral.",
+      "why": "Première acquisition majeure de Mistral, renforçant sa position européenne face aux géants américains et accélérant le déploiement de ses modèles.",
+      "category": "Entreprise"
     },
     {
-      "title": "OpenAI met à jour son modèle de programmation GPT-5.3-Codex",
-      "summary": "OpenAI a publié une mise à jour mineure de GPT-5.3-Codex, spécialisé en programmation. Cette version améliore les performances dans les tâches de codage. Elle fait suite aux progrès observés en février.",
-      "why": "Améliore l'efficacité des outils IA pour les développeurs, impactant directement la productivité logicielle.",
-      "category": "Modèle"
+      "title": "Commission européenne cible Meta et Google pour abus sur l'IA générative",
+      "summary": "La Commission européenne enquête sur Meta et Google pour pratiques verrouillant le marché de l'IA générative, avec risque d'amendes jusqu'à 10% de leur CA mondial. Des mesures conservatoires sont possibles. Cela s'inscrit dans la régulation de l'AI Act.",
+      "why": "Poursuite concrète de la régulation européenne, pouvant remodeler la concurrence dans l'IA générative.",
+      "category": "Régulation"
     },
     {
-      "title": "Gouvernement canadien soutient une entreprise albertaine en IA avec l'IRIA",
-      "summary": "Le Canada annonce un investissement via l'Initiative régionale en IA pour aider une entreprise à scaler ses technologies IA. Cela s'inscrit dans un budget de 2,4 milliards pour l'IA, visant compétitivité mondiale et souveraineté numérique. L'accent est mis sur des applications à double usage.",
-      "why": "Démontre l'engagement gouvernemental en soutien à l'innovation IA, créant emplois et avancées pratiques.",
-      "category": "Application"
-    },
-    {
-      "title": "AISI Royaume-Uni publie une méthode systématique de jailbreak pour IA",
-      "summary": "L'AISI du Royaume-Uni a rendu publique une méthode systématique pour jailbreaker les modèles IA. Cela vise à exposer les vulnérabilités des systèmes actuels. Publication récente dans le contexte des avancées de février.",
-      "why": "Augmente la transparence sur les risques de sécurité IA, influençant les pratiques de développement et régulation.",
+      "title": "Karim Beguir prédit l'IA générale comme réalité tangible en 2026",
+      "summary": "Karim Beguir annonce que l'IA générale (IAG) deviendra réalité en 2026, avec des modèles atteignant 50% sur ARC-AGI2 et une accélération exponentielle. Cela boostera productivité x2-3, innovation scientifique et énergies renouvelables pour le calcul. Le déploiement équitable est crucial.",
+      "why": "Prévision d'un tournant majeur en recherche IA, avec impacts profonds sur économie et société.",
       "category": "Recherche"
+    },
+    {
+      "title": "Gouvernement français lance commission sur dangers de l'IA générative",
+      "summary": "Le ministère du Numérique et de l'IA a mandaté une commission d'experts pour étudier les risques des outils IA génératifs grand public comme ChatGPT, avec rapport attendu en mai. Cela répond à l'essor des usages (48% des Français).",
+      "why": "Initiative nationale pour évaluer et mitiger les vulnérabilités, influençant futures régulations en France.",
+      "category": "Régulation"
     }
   ]
 }
