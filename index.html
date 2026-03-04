@@ -54,11 +54,48 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
 
 .card-title { font-family:'Fraunces',serif; font-size:clamp(16px,4.2vw,21px); font-weight:600; line-height:1.3; letter-spacing:-.3px; flex-shrink:0; }
 
-.card-body { font-size:14px; line-height:1.78; color:rgba(232,228,220,0.72); font-weight:300; flex:3 0 0; min-height:0; overflow:hidden; }
-
-.why-box { background:rgba(200,240,100,0.05); border:1px solid rgba(200,240,100,0.13); border-radius:10px; padding:11px 13px; display:flex; gap:9px; align-items:flex-start; flex:1 0 0; min-height:0; overflow:hidden; }
+.card-content {
+  flex: 1 1 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  gap: 10px;
+}
+.card-body {
+  font-size: 14px;
+  line-height: 1.78;
+  color: rgba(232,228,220,0.72);
+  font-weight: 300;
+  flex: 3 1 0;
+  min-height: 0;
+  overflow: hidden;
+}
+.why-box {
+  background: rgba(200,240,100,0.05);
+  border: 1px solid rgba(200,240,100,0.13);
+  border-radius: 10px;
+  padding: 10px 13px;
+  display: flex;
+  gap: 9px;
+  align-items: center;
+  flex: 1 1 0;
+  min-height: 0;
+  max-height: 25%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.why-text {
+  font-size: 13px;
+  line-height: 1.5;
+  color: rgba(200,240,100,0.85);
+  font-weight: 400;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
 .why-icon { font-size:13px; flex-shrink:0; margin-top:2px; }
-.why-text { font-size:13px; line-height:1.6; color:rgba(200,240,100,0.85); font-weight:400; }
 
 footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-index:50; display:flex; align-items:center; justify-content:center; gap:16px; pointer-events:none; }
 .hint { font-family:'DM Mono',monospace; font-size:11px; letter-spacing:.5px; color:rgba(255,255,255,0.12); transition:color .3s; }
@@ -139,8 +176,10 @@ function makeCard(slide, idx) {
     </div>
     <div class="divider"></div>
     <div class="card-title">${item.title}</div>
-    <div class="card-body">${item.summary}</div>
-    <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
+    <div class="card-content">
+      <div class="card-body">${item.summary}</div>
+      <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
+    </div>
   `;
   return div;
 }
