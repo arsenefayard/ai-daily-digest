@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "États-Unis rejettent totalement la gouvernance mondiale de l'IA",
-      "summary": "Michael Kratsios, conseiller de la Maison Blanche, a déclaré que les États-Unis rejettent toute gouvernance mondiale de l'IA, craignant une bureaucratie et un contrôle centralisé. Cette position s'inscrit dans l'évolution des sommets internationaux, passés de la sécurité à l'impact de l'IA. Le sommet pour l'action sur l'IA a réuni dirigeants et patrons de tech, avec une prochaine édition en 2027 à Genève.",
-      "why": "Cette déclaration marque une tension géopolitique majeure sur la régulation de l'IA, opposant l'approche américaine à celles de l'Europe et de l'ONU.",
+      "title": "Accélération spectaculaire des capacités des modèles IA : Claude Opus 4.6 dépasse les évaluations",
+      "summary": "Claude Opus 4.6 affiche des progrès remarquables avec un bond spectaculaire sur ARC-AGI-2 (37.6% à 68.8%) et un gain de 200 points ELO sur GPDval. Les capacités du modèle commencent à dépasser les capacités d'évaluation des risques, confirmant une tendance d'accélération approchant un doublement tous les 5 mois. Trois nouveaux modèles dépassent les prévisions avec un résultat statistiquement significatif à 95%.",
+      "why": "Cette accélération des capacités soulève des questions critiques sur la sécurité de l'IA, car les modèles évoluent plus vite que les méthodes pour les évaluer et les contrôler. C'est un tournant majeur dans la course aux capacités entre les acteurs de l'IA.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Février 2026 : tensions entre gouvernements et entreprises d'IA sur la régulation",
+      "summary": "Février a cristallisé un conflit fondamental entre régulation et innovation. Le Pentagone américain a tenté de forcer la main aux labos IA, l'Europe a concrétisé les premières règles de l'AI Act, et le Sommet IA de New Delhi a réuni une centaine de pays cherchant un terrain d'entente. Les États-Unis rejettent totalement toute gouvernance mondiale de l'IA.",
+      "why": "Cette tension entre sécurité, innovation et souveraineté nationale définit le cadre géopolitique de l'IA en 2026. Les trois approches (dérégulation américaine, cadre strict européen, contrôle chinois) entrent en collision directe.",
       "category": "Régulation"
     },
     {
-      "title": "Gouvernement canadien soutient une entreprise albertaine en IA avec l'IRIA",
-      "summary": "Le Canada annonce un investissement via l'Initiative régionale en IA pour aider une entreprise albertaine à améliorer ses technologies IA et à concurrencer les marchés mondiaux. Cela s'inscrit dans un budget de 2,4 milliards de dollars pour renforcer l'avantage canadien en IA, en favorisant l'emploi et la productivité. L'accent est mis sur des technologies à double usage pour la souveraineté numérique.",
-      "why": "Cet investissement illustre l'engagement gouvernemental concret pour l'innovation IA appliquée, renforçant la compétitivité nationale.",
+      "title": "Adoption massive de l'IA générative en France : 48% des utilisateurs en un an",
+      "summary": "Le baromètre numérique 2026 révèle que 48% des Français utilisent désormais l'IA générative, soit un doublement en un an. Le programme Pionniers de l'IA a sélectionné 23 lauréats avec 10 millions d'euros de financement, et Macron a reçu la French Tech à l'Élysée pour un bilan du Sommet IA de Paris.",
+      "why": "Cette adoption rapide montre que l'IA générative est passée du stade de curiosité technologique à celui d'outil mainstream. Elle reflète aussi l'engagement politique français à maintenir sa compétitivité dans le secteur.",
+      "category": "Application"
+    },
+    {
+      "title": "CES 2026 : pénurie de composants due à l'IA, sacrifiant l'électronique grand public",
+      "summary": "Le CES 2026 a révélé que la construction massive de centres de données pour l'IA crée une pénurie de semi-conducteurs affectant toute l'industrie. Les prix augmentent, et l'électronique grand public est sacrifiée au profit des supercalculateurs IA (Nvidia Vera Rubin avec 54 To de RAM, AMD Helios avec 31 To).",
+      "why": "Cette pénurie a des impacts économiques directs sur les consommateurs et les constructeurs de PC. Elle illustre comment la course à l'IA redessine les chaînes d'approvisionnement mondiales et les priorités industrielles.",
       "category": "Entreprise"
     },
     {
-      "title": "Wall Street en baisse face aux doutes sur l'impact de l'IA",
-      "summary": "La Bourse de New York a terminé en recul vendredi, avec le Nasdaq à -0,92%, le Dow Jones à -1,05% et le S&P 500 à -0,43%, crispée par les craintes d'un chamboulement provoqué par l'IA sur fond d'inflation. Les investisseurs expriment des doutes sur les retours économiques de l'IA.",
-      "why": "Cette réaction boursière reflète une maturation du marché IA, passant de l'euphorie à une évaluation critique des risques et bénéfices.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "2026 : Passage à l'IA agentique comme standard opérationnel",
-      "summary": "En 2026, l'IA agentique, capable de prendre des décisions autonomes et d'exécuter des workflows complexes, devient le standard en entreprise, marquant la fin de l'IA récréative et l'urgence d'industrialisation. Les PoC sont révolus, et l'attentisme est vu comme un risque compétitif majeur.",
-      "why": "Ce basculement vers l'IA agentique transforme les modèles économiques, imposant une industrialisation rapide pour la survie compétitive.",
-      "category": "Recherche"
-    },
-    {
-      "title": "Régulation IA de février 2026 : Bras de fer gouvernements vs entreprises",
-      "summary": "Février 2026 a vu des tensions avec le Pentagone forçant les labos US, les premières règles de l'AI Act en Europe, et une explosion des cyberattaques IA. Macron a reçu la French Tech, et 48% des Français utilisent l'IA générative. Le Sommet de New Delhi pousse une 'quatrième voie' globale.",
-      "why": "Ce recapitulatif cristallise le contrôle de l'IA comme enjeu stratégique mondial, influençant mars 2026.",
-      "category": "Régulation"
+      "title": "2026 : fin de l'IA récréative et passage obligatoire à l'IA agentique en entreprise",
+      "summary": "L'année 2026 marque la fin des projets pilotes et de l'IA générative comme simple outil. Les entreprises basculent vers l'IA agentique qui prend des décisions autonomes et exécute des workflows complexes. L'écart entre démonstrations techniques et systèmes en production devient critique.",
+      "why": "Ce passage de l'IA générative à l'IA agentique représente une mutation fondamentale : l'IA passe de l'assistance à l'autonomie décisionnelle. Les entreprises qui n'industrialisent pas rapidement risquent un déclassement technologique irréversible.",
+      "category": "Application"
     }
   ]
 }
