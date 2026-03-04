@@ -1,0 +1,35 @@
+{
+  "date": "04/03/2026",
+  "news": [
+    {
+      "title": "Opus 4.6 marque un bond spectaculaire en capacités IA, dépassant les évaluations de risques",
+      "summary": "La version 4.6 d'Opus montre des progrès énormes sur ARC-AGI-2 (de 37.6% à 68.8%) et un gain de 200 points ELO sur GPQA. Les capacités du modèle dépassent désormais les outils d'évaluation des risques, aggravant la course aux capacités entre acteurs IA. Yoshua Bengio commente ces avancées accélérées.",
+      "why": "Cela confirme une accélération des tendances de scaling IA, avec des implications critiques sur la sécurité et la régulation.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Google publie Lyria 3, son nouveau modèle génératif de musique",
+      "summary": "Google a lancé Lyria 3, un modèle avancé pour la génération musicale. Cette sortie s'inscrit dans les avancées récentes de février 2026 en IA créative. Elle vise à concurrencer les outils existants dans le domaine audio.",
+      "why": "Renforce la position de Google en IA générative multimodale, ouvrant des applications commerciales en musique.",
+      "category": "Modèle"
+    },
+    {
+      "title": "OpenAI met à jour son modèle de programmation GPT-5.3-Codex",
+      "summary": "OpenAI a publié une mise à jour mineure de GPT-5.3-Codex, spécialisé en programmation. Cette version améliore les performances dans les tâches de codage. Elle fait suite aux progrès observés en février.",
+      "why": "Améliore l'efficacité des outils IA pour les développeurs, impactant directement la productivité logicielle.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Gouvernement canadien soutient une entreprise albertaine en IA avec l'IRIA",
+      "summary": "Le Canada annonce un investissement via l'Initiative régionale en IA pour aider une entreprise à scaler ses technologies IA. Cela s'inscrit dans un budget de 2,4 milliards pour l'IA, visant compétitivité mondiale et souveraineté numérique. L'accent est mis sur des applications à double usage.",
+      "why": "Démontre l'engagement gouvernemental en soutien à l'innovation IA, créant emplois et avancées pratiques.",
+      "category": "Application"
+    },
+    {
+      "title": "AISI Royaume-Uni publie une méthode systématique de jailbreak pour IA",
+      "summary": "L'AISI du Royaume-Uni a rendu publique une méthode systématique pour jailbreaker les modèles IA. Cela vise à exposer les vulnérabilités des systèmes actuels. Publication récente dans le contexte des avancées de février.",
+      "why": "Augmente la transparence sur les risques de sécurité IA, influençant les pratiques de développement et régulation.",
+      "category": "Recherche"
+    }
+  ]
+}
