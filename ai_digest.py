@@ -98,48 +98,90 @@ Réponds UNIQUEMENT avec le JSON, rien d'autre."""
         return None
 
 
-def push_json_to_github(data):
-    """Pousse le JSON sur GitHub Pages (branche gh-pages, fichier today.json)"""
+def ensure_gh_pages_branch(repo, headers):
+    """Crée la branche gh-pages si elle n'existe pas encore"""
 
-    token = os.environ.get('GITHUB_TOKEN')
-    repo = os.environ.get('GITHUB_REPO')  # ex: username/repo
-
-    if not token or not repo:
-        print("❌ GITHUB_TOKEN ou GITHUB_REPO manquant")
+    # Récupère le SHA du dernier commit de main
+    r = requests.get(f"https://api.github.com/repos/{repo}/git/ref/heads/main", headers=headers)
+    if r.status_code != 200:
+        # Essaie master si main n'existe pas
+        r = requests.get(f"https://api.github.com/repos/{repo}/git/ref/heads/master", headers=headers)
+    if r.status_code != 200:
+        print("❌ Impossible de trouver la branche principale (main/master)")
         return False
 
-    api_url = f"https://api.github.com/repos/{repo}/contents/today.json"
+    sha = r.json()["object"]["sha"]
 
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json"
-    }
+    # Crée gh-pages à partir de ce SHA
+    payload = {"ref": "refs/heads/gh-pages", "sha": sha}
+    r = requests.post(f"https://api.github.com/repos/{repo}/git/refs", json=payload, headers=headers)
+    if r.status_code in (201, 422):  # 422 = existe déjà, ok
+        print("✅ Branche gh-pages créée")
+        return True
 
-    content = json.dumps(data, ensure_ascii=False, indent=2)
-    encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+    print(f"❌ Erreur création gh-pages : {r.text}")
+    return False
 
-    # Vérifie si le fichier existe déjà pour récupérer son SHA
+
+def push_file_to_gh_pages(repo, headers, filename, content_str, commit_message):
+    """Pousse un fichier sur la branche gh-pages"""
+
+    api_url = f"https://api.github.com/repos/{repo}/contents/{filename}"
+    encoded = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
+
+    # Récupère le SHA existant si le fichier existe déjà
     sha = None
-    try:
-        r = requests.get(api_url, headers=headers, params={"ref": "gh-pages"})
-        if r.status_code == 200:
-            sha = r.json().get("sha")
-    except Exception:
-        pass
+    r = requests.get(api_url, headers=headers, params={"ref": "gh-pages"})
+    if r.status_code == 200:
+        sha = r.json().get("sha")
 
     payload = {
-        "message": f"digest: {data.get('date', datetime.now().strftime('%d/%m/%Y'))}",
+        "message": commit_message,
         "content": encoded,
         "branch": "gh-pages"
     }
     if sha:
         payload["sha"] = sha
 
+    r = requests.put(api_url, json=payload, headers=headers)
+    r.raise_for_status()
+
+
+def push_json_to_github(data):
+    """Pousse today.json et index.html sur la branche gh-pages"""
+
+    token = os.environ.get('GITHUB_TOKEN')
+    repo = os.environ.get('GITHUB_REPO')
+
+    if not token or not repo:
+        print("❌ GITHUB_TOKEN ou GITHUB_REPO manquant")
+        return False
+
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json"
+    }
+
+    # Crée gh-pages si elle n'existe pas
+    ensure_gh_pages_branch(repo, headers)
+
+    date_str = data.get('date', datetime.now().strftime('%d/%m/%Y'))
+
     try:
-        r = requests.put(api_url, json=payload, headers=headers)
-        r.raise_for_status()
-        print("✅ JSON publié sur GitHub Pages")
+        # 1. Pousse today.json
+        json_content = json.dumps(data, ensure_ascii=False, indent=2)
+        push_file_to_gh_pages(repo, headers, "today.json", json_content, f"digest: {date_str}")
+        print("✅ today.json publié sur gh-pages")
+
+        # 2. Pousse index.html s'il existe dans le répertoire courant
+        if os.path.exists("index.html"):
+            with open("index.html", "r", encoding="utf-8") as f:
+                html_content = f.read()
+            push_file_to_gh_pages(repo, headers, "index.html", html_content, "chore: update index.html")
+            print("✅ index.html publié sur gh-pages")
+
         return True
+
     except Exception as e:
         print(f"❌ Erreur push GitHub : {e}")
         if hasattr(e, 'response') and e.response is not None:
