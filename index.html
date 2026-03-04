@@ -39,6 +39,7 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   user-select:none; will-change:transform,opacity;
   box-shadow: 0 0 0 1px rgba(255,255,255,0.03), 0 20px 50px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05);
   opacity:0; pointer-events:none; transform:translateX(54px) scale(0.97);
+  overflow:hidden;
 }
 .card.active  { opacity:1; pointer-events:auto; transform:translateX(0) scale(1); z-index:2; }
 .card.prev    { opacity:0; transform:translateX(-54px) scale(0.97); z-index:1; }
@@ -53,9 +54,9 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
 
 .card-title { font-family:'Fraunces',serif; font-size:clamp(16px,4.2vw,21px); font-weight:600; line-height:1.3; letter-spacing:-.3px; flex-shrink:0; }
 
-.card-body { font-size:14px; line-height:1.78; color:rgba(232,228,220,0.72); font-weight:300; flex-shrink:0; }
+.card-body { font-size:14px; line-height:1.78; color:rgba(232,228,220,0.72); font-weight:300; flex:3 1 0; min-height:0; overflow:hidden; }
 
-.why-box { background:rgba(200,240,100,0.05); border:1px solid rgba(200,240,100,0.13); border-radius:10px; padding:11px 13px; display:flex; gap:9px; align-items:flex-start; flex-shrink:0; }
+.why-box { background:rgba(200,240,100,0.05); border:1px solid rgba(200,240,100,0.13); border-radius:10px; padding:11px 13px; display:flex; gap:9px; align-items:flex-start; flex:1 1 0; min-height:0; overflow:hidden; }
 .why-icon { font-size:13px; flex-shrink:0; margin-top:2px; }
 .why-text { font-size:13px; line-height:1.6; color:rgba(200,240,100,0.85); font-weight:400; }
 
@@ -141,44 +142,7 @@ function makeCard(slide, idx) {
     <div class="card-body">${item.summary}</div>
     <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
   `;
-  // Après insertion dans le DOM, ajuste la taille du why-box selon l'espace restant
-  requestAnimationFrame(() => adjustWhyBox(div));
   return div;
-}
-
-function adjustWhyBox(card) {
-  const whyBox  = card.querySelector('.why-box');
-  const whyText = card.querySelector('.why-text');
-  const whyIcon = card.querySelector('.why-icon');
-  if (!whyBox) return;
-
-  // Hauteur totale disponible dans la carte (padding compris)
-  const cardH    = card.clientHeight;
-  const usedH    = card.scrollHeight - whyBox.offsetHeight;
-  const remaining = cardH - usedH;
-
-  if (remaining >= whyBox.scrollHeight) {
-    // Assez de place — taille normale
-    whyBox.style.padding   = '';
-    whyText.style.fontSize = '';
-    whyIcon.style.fontSize = '';
-  } else if (remaining >= 36) {
-    // Place réduite — compresse
-    const ratio = Math.max(0.7, remaining / whyBox.scrollHeight);
-    const pad   = Math.max(6, Math.round(11 * ratio));
-    const fs    = Math.max(11, Math.round(13 * ratio));
-    whyBox.style.padding   = `${pad}px ${pad+2}px`;
-    whyText.style.fontSize = `${fs}px`;
-    whyIcon.style.fontSize = `${fs}px`;
-    whyBox.style.gap       = '6px';
-  } else {
-    // Très peu de place — mini
-    whyBox.style.padding   = '5px 8px';
-    whyText.style.fontSize = '11px';
-    whyIcon.style.fontSize = '11px';
-    whyBox.style.lineHeight= '1.4';
-    whyBox.style.gap       = '5px';
-  }
 }
 
 function renderAll() {
