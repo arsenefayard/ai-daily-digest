@@ -55,7 +55,7 @@ Format JSON strict :
   "news": [
     {
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 5-6 phrases avec contexte, détails techniques et implications concrètes.",
+      "summary": "Résumé détaillé en 4 phrases avec contexte, détails techniques et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Modèle|Entreprise|Recherche|Application|Régulation"
     }
