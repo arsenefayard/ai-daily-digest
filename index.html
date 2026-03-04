@@ -114,32 +114,26 @@ const SPRING = 'transform 0.44s cubic-bezier(0.175,0.885,0.32,1.08), opacity 0.3
 
 let slides = [], cur = 0;
 
-/* Mesure si tout le contenu (résumé + why-box) tient dans une carte.
-   La carte fantôme est insérée avec les vraies dimensions et on force un reflow. */
-function measureFits(item) {
+
+
+function buildSlides(news) {
+  slides = [];
+  news.forEach((item, i) => {
+    slides.push({ newsIdx:i, part:'single', item });
+  });
+}
+
+const stage = document.getElementById('stage');
+
+function makeCard(slide, idx) {
+  const { newsIdx, item } = slide;
   const color = COLORS[item.category] || 'var(--accent)';
-
-  // Calcule les vraies dimensions de la carte (stage - insets)
-  const headerH = 62, footerH = 46, inset = 20;
-  const cardH = window.innerHeight - headerH - footerH - inset;
-  const cardW = Math.min(window.innerWidth - 28, 480 - 28); // 14px inset chaque côté
-
-  const ghost = document.createElement('div');
-  ghost.className = 'card';
-  ghost.style.cssText = `
-    position:fixed;
-    visibility:hidden;
-    pointer-events:none;
-    top:-9999px;
-    left:0;
-    width:${cardW}px;
-    height:auto;
-    max-height:none;
-    opacity:0;
-  `;
-  ghost.innerHTML = `
+  const div = document.createElement('div');
+  div.className = 'card';
+  div.dataset.idx = idx;
+  div.innerHTML = `
     <div class="card-meta">
-      <span class="card-num">01</span>
+      <span class="card-num">0${newsIdx+1}</span>
       <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
     </div>
     <div class="divider"></div>
@@ -147,51 +141,44 @@ function measureFits(item) {
     <div class="card-body">${item.summary}</div>
     <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
   `;
-  document.body.appendChild(ghost);
-  // Force reflow pour que le navigateur calcule la vraie hauteur
-  const h = ghost.getBoundingClientRect().height;
-  document.body.removeChild(ghost);
-  return h <= cardH;
-}
-
-function buildSlides(news) {
-  slides = [];
-  news.forEach((item, i) => {
-    if (measureFits(item)) {
-      slides.push({ newsIdx:i, part:'single', item });
-    } else {
-      slides.push({ newsIdx:i, part:'main', item });
-      slides.push({ newsIdx:i, part:'why',  item });
-    }
-  });
-}
-
-const stage = document.getElementById('stage');
-
-function makeCard(slide, idx) {
-  const { newsIdx, part, item } = slide;
-  const color = COLORS[item.category] || 'var(--accent)';
-  const div = document.createElement('div');
-  div.className = 'card';
-  div.dataset.idx = idx;
-  const isWhy   = part === 'why';
-  const isSingle = part === 'single';
-  div.innerHTML = `
-    <div class="card-meta">
-      <span class="card-num">0${newsIdx+1}</span>
-      <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
-      ${isWhy ? '<span class="cont-badge">suite</span>' : ''}
-    </div>
-    <div class="divider"></div>
-    <div class="card-title">${item.title}</div>
-    ${isWhy
-      ? `<div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>`
-      : `<div class="card-body">${item.summary}</div>`}
-    ${isSingle
-      ? `<div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>`
-      : ''}
-  `;
+  // Après insertion dans le DOM, ajuste la taille du why-box selon l'espace restant
+  requestAnimationFrame(() => adjustWhyBox(div));
   return div;
+}
+
+function adjustWhyBox(card) {
+  const whyBox  = card.querySelector('.why-box');
+  const whyText = card.querySelector('.why-text');
+  const whyIcon = card.querySelector('.why-icon');
+  if (!whyBox) return;
+
+  // Hauteur totale disponible dans la carte (padding compris)
+  const cardH    = card.clientHeight;
+  const usedH    = card.scrollHeight - whyBox.offsetHeight;
+  const remaining = cardH - usedH;
+
+  if (remaining >= whyBox.scrollHeight) {
+    // Assez de place — taille normale
+    whyBox.style.padding   = '';
+    whyText.style.fontSize = '';
+    whyIcon.style.fontSize = '';
+  } else if (remaining >= 36) {
+    // Place réduite — compresse
+    const ratio = Math.max(0.7, remaining / whyBox.scrollHeight);
+    const pad   = Math.max(6, Math.round(11 * ratio));
+    const fs    = Math.max(11, Math.round(13 * ratio));
+    whyBox.style.padding   = `${pad}px ${pad+2}px`;
+    whyText.style.fontSize = `${fs}px`;
+    whyIcon.style.fontSize = `${fs}px`;
+    whyBox.style.gap       = '6px';
+  } else {
+    // Très peu de place — mini
+    whyBox.style.padding   = '5px 8px';
+    whyText.style.fontSize = '11px';
+    whyIcon.style.fontSize = '11px';
+    whyBox.style.lineHeight= '1.4';
+    whyBox.style.gap       = '5px';
+  }
 }
 
 function renderAll() {
@@ -209,8 +196,7 @@ function updateChrome() {
   dotsEl.innerHTML = '';
   slides.forEach((s, i) => {
     const d = document.createElement('div');
-    d.className = (s.part === 'why' ? 'dot sub' : 'dot') + (i === cur ? ' active' : '');
-    if (s.part === 'single') d.className = 'dot' + (i === cur ? ' active' : '');
+    d.className = 'dot' + (i === cur ? ' active' : '');
     dotsEl.appendChild(d);
   });
   const newsTotal = slides.filter(s => s.part === 'main').length;
