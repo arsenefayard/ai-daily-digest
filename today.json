@@ -2,33 +2,33 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "OpenAI lance Frontier pour déployer des armées d'agents IA",
-      "summary": "Le 5 février 2026, OpenAI a lancé Frontier, une plateforme permettant de déployer des armées d'agents IA autonomes au sein des entreprises, marquant le passage de l'IA d'un simple outil à une force de travail complète. Des partenariats avec McKinsey, BCG et Accenture restructurent déjà les opérations des grandes firmes, où la question évolue vers 'quel rôle complet déléguer ?'. Cette avancée s'inscrit dans un contexte où l'IA agentique devient standard, exécutant des workflows complexes de manière autonome et responsable. Les implications incluent une transformation radicale des business models, avec des risques de disruption massive pour les emplois traditionnels.",
-      "why": "Ce lancement redéfinit l'IA comme un département autonome, accélérant l'industrialisation et potentiellement multiplant les productivités d'entreprise.",
+      "title": "ByteDance publie Seedance 2.0, modèle génératif audio-vidéo",
+      "summary": "ByteDance a lancé Seedance 2.0, un modèle capable de générer des contenus audio-vidéo synchronisés de haute qualité, marquant une avancée dans la création multimédia automatisée. Ce modèle excelle dans la production de vidéos réalistes accompagnées de sons cohérents, surpassant les versions précédentes en fluidité et fidélité. Il intègre des techniques d'apprentissage profond optimisées pour des rendus immersifs. Les implications incluent une démocratisation des outils de production pour créateurs et industries du divertissement.",
+      "why": "Cette sortie renforce la concurrence dans les modèles multimodaux et accélère l'adoption de l'IA générative dans les médias.",
       "category": "Modèle"
     },
     {
-      "title": "Sortie de 4 modèles frontier en 14 jours : Claude 4.6, GPT-5.3, Gemini 3.1",
-      "summary": "En février 2026, quatre modèles frontier majeurs ont été lancés en seulement 14 jours : Claude Opus 4.6 le 5 février, GPT-5.3 le même jour, Claude Sonnet 4.6 le 17 février, et Gemini 3.1 Pro le 19 février par Google. Chacun excelle dans sa spécialité, rendant obsolète la quête du 'meilleur' modèle unique. La Chine domine avec 61% du volume de tokens sur OpenRouter, soulignant une compétition globale intense. L'enjeu passe désormais à l'architecture hybride combinant les modèles optimaux par tâche.",
-      "why": "Cette explosion de modèles de pointe démocratise l'accès à des IA ultra-performantes et force les entreprises à adopter des stacks multi-modèles pour rester compétitives.",
+      "title": "Google publie Lyria 3, son modèle génératif de musique avancé",
+      "summary": "Google a dévoilé Lyria 3, un modèle spécialisé dans la génération musicale, capable de composer des morceaux originaux avec styles variés et harmonies complexes. Il progresse significativement sur des benchmarks d'évaluation non saturés, démontrant une créativité accrue. Basé sur des architectures transformers améliorées, il gère des prompts textuels pour produire de la musique de longue durée. Cela ouvre des perspectives pour la personnalisation musicale et les applications en production artistique.",
+      "why": "Lyria 3 élève les standards de l'IA musicale, influençant l'industrie du divertissement et les outils créatifs.",
       "category": "Modèle"
     },
     {
-      "title": "Bras de fer réglementaire : Pentagone vs labos IA et AI Act en Europe",
-      "summary": "Février 2026 a vu le Pentagone américain tenter de forcer les labos IA à collaborer sur des armes autonomes, tandis qu'en Europe, les premières règles concrètes de l'AI Act entrent en vigueur avec des garde-fous stricts. Le Sommet IA de New Delhi a réuni 100 pays pour une 'quatrième voie' équilibrant innovation et sécurité, au-delà des approches US, UE et chinoise. Parallèlement, les cyberattaques assistées par IA ont explosé, accentuant l'urgence. En France, Macron a lancé 23 projets Pionniers de l'IA avec 10 M€.",
-      "why": "Ces tensions géopolitiques définissent qui contrôlera l'IA stratégique, impactant directement l'innovation et la sécurité mondiale.",
-      "category": "Régulation"
+      "title": "OpenAI met à jour GPT-5.3-Codex pour la programmation",
+      "summary": "OpenAI a publié une mise à jour de GPT-5.3-Codex, son modèle dédié au codage, améliorant la génération de code précis et la résolution de bugs complexes. Bien que mineure, elle optimise les performances sur des tâches réelles comme le développement logiciel. Elle intègre des gains sur des évaluations comme GPDval avec +200 points ELO. Les développeurs bénéficient d'une productivité accrue dans les environnements professionnels.",
+      "why": "Cette mise à jour consolide la position d'OpenAI dans l'IA appliquée au développement, un secteur clé de l'économie numérique.",
+      "category": "Modèle"
     },
     {
-      "title": "Apple annonce MacBook avec puces M5 et prépare MacBook Neo",
-      "summary": "Du 2 au 3 mars 2026, Apple a lancé l'iPhone 17e avec MagSafe, iPad Air M4, MacBook Air M5, MacBook Pro M5 Pro/Max avec architecture modulaire inédite, et Studio Display 2, tous disponibles dès le 11 mars. Le MacBook Neo low-cost et coloré est attendu le 4 mars, potentiellement avec un format innovant. Ces mises à jour intègrent des optimisations IA natives pour une meilleure efficacité. Cela renforce la position d'Apple dans l'écosystème IA embarquée.",
-      "why": "Ces annonces massives propulsent l'IA dans les devices grand public, accélérant l'adoption quotidienne et les applications pratiques.",
-      "category": "Entreprise"
+      "title": "Gouvernement canadien soutient une entreprise albertaine en IA",
+      "summary": "Le gouvernement du Canada annonce un investissement via l'IRIA pour aider une entreprise albertaine à scaler ses technologies IA dual-use, visant la compétitivité mondiale. Cela s'inscrit dans un budget de 2,4 milliards pour l'IA, favorisant l'innovation et l'emploi. L'aide cible des applications concrètes renforçant la souveraineté numérique. Elle accélère le déploiement d'IA responsable dans l'industrie.",
+      "why": "Cet engagement public illustre la course mondiale à la souveraineté IA et le soutien étatique à l'innovation.",
+      "category": "Application"
     },
     {
-      "title": "Doutes persistants sur l'IA pèsent sur Wall Street, Nvidia et AMD en baisse",
-      "summary": "Le 27 février 2026, Wall Street a chuté avec des doutes sur l'IA : Nvidia -1,6%, AMD -1,7%, Broadcom -1%, malgré des perspectives optimistes chez Dell (+20%) via sa transition IA. Block (+17%) supprime 4000 postes pour pivoter vers l'IA. L'inflation surprise amplifie la prudence des investisseurs sur les semi-conducteurs IA. Cela reflète un marché volatil face à la maturité attendue de l'IA en 2026.",
-      "why": "Cette correction boursière signale un tournant : fin de l'euphorie spéculative, exigence de ROI concret pour les investissements IA.",
+      "title": "Doutes persistants sur l'IA pèsent sur Wall Street",
+      "summary": "Wall Street a clôturé en baisse le 27 février 2026, avec des reculs chez Nvidia (-1,6%), AMD et Broadcom, dus à des craintes sur la rentabilité des investissements IA. Malgré cela, Dell grimpe de 20% grâce à des perspectives positives liées à l'IA. Les investisseurs questionnent l'impact économique réel de l'IA face à l'inflation. Cela reflète une prudence croissante sur le secteur tech.",
+      "why": "Les fluctuations boursières signalent un tournant dans la perception des valorisations IA, impactant les géants du secteur.",
       "category": "Entreprise"
     }
   ]
