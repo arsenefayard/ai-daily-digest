@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Apple annonce une série de nouveaux produits incluant MacBook Air M5 et MacBook Pro M5",
-      "summary": "Apple a lancé son événement du 2 au 4 mars 2026 avec l'annonce de l'iPhone 17e, iPad Air M4 le 2 mars, suivis du MacBook Air M5, MacBook Pro M5 Pro/Max et Studio Display 2 le 3 mars. Le MacBook Neo low-cost est attendu le 4 mars. Ces lancements marquent le début de l'année produit 2026 après l'AirTag 2 en janvier.",
-      "why": "Ces annonces renforcent la position d'Apple dans l'intégration IA avec ses puces M5 optimisées pour l'IA, impactant le marché des appareils intelligents.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Mistral AI acquiert la startup française Koyeb pour renforcer son infrastructure cloud",
-      "summary": "Mistral AI, champion français des modèles IA, rachète Koyeb, fournisseur de cloud serverless. Cette acquisition suit l'annonce d'un investissement de 1,2 milliard d'euros pour des centres de données en Suède. Elle vise à accélérer le déploiement de ses modèles.",
-      "why": "Première acquisition majeure de Mistral, elle consolide sa souveraineté technologique européenne face aux géants américains.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "La Commission européenne cible Meta et Google pour abus de position dominante en IA générative",
-      "summary": "Bruxelles poursuit Meta et Google pour pratiques verrouillant le marché de l'IA générative, avec des enquêtes en cours. Des amendes jusqu'à 10% du CA mondial sont possibles, ainsi que des mesures conservatoires.",
-      "why": "Cette action renforce la régulation européenne de l'IA, protégeant la concurrence et l'innovation ouverte.",
+      "title": "États-Unis rejettent totalement la gouvernance mondiale de l'IA",
+      "summary": "Michael Kratsios, conseiller de la Maison Blanche, a déclaré que les États-Unis rejettent toute gouvernance mondiale de l'IA, craignant une bureaucratie et un contrôle centralisé. Cette position s'inscrit dans l'évolution des sommets internationaux, passés de la sécurité à l'impact de l'IA. Le sommet pour l'action sur l'IA a réuni dirigeants et patrons de tech, avec une prochaine édition en 2027 à Genève.",
+      "why": "Cette déclaration marque une tension géopolitique majeure sur la régulation de l'IA, opposant l'approche américaine à celles de l'Europe et de l'ONU.",
       "category": "Régulation"
     },
     {
-      "title": "Gouvernement français lance une commission d'experts sur les dangers de l'IA générative",
-      "summary": "Le ministère du Numérique et de l'IA a mandaté une commission pour étudier les risques des outils IA génératifs grand public comme ChatGPT, avec rapport attendu en mai. L'objectif est d'identifier vulnérabilités et usages risqués.",
-      "why": "Initiative clé pour anticiper les menaces sociétales et guider les politiques publiques en France.",
-      "category": "Régulation"
+      "title": "Gouvernement canadien soutient une entreprise albertaine en IA avec l'IRIA",
+      "summary": "Le Canada annonce un investissement via l'Initiative régionale en IA pour aider une entreprise albertaine à améliorer ses technologies IA et à concurrencer les marchés mondiaux. Cela s'inscrit dans un budget de 2,4 milliards de dollars pour renforcer l'avantage canadien en IA, en favorisant l'emploi et la productivité. L'accent est mis sur des technologies à double usage pour la souveraineté numérique.",
+      "why": "Cet investissement illustre l'engagement gouvernemental concret pour l'innovation IA appliquée, renforçant la compétitivité nationale.",
+      "category": "Entreprise"
     },
     {
-      "title": "Karim Beguir prédit l'IA générale comme réalité tangible dès 2026 avec accélération exponentielle",
-      "summary": "Karim Beguir annonce que l'IA générale (IAG) deviendra tangible en 2026, boostée par des performances atteignant 50% sur ARC-AGI2. Cela accélérera l'innovation scientifique, la productivité x2-3 en entreprise, limitée seulement par la puissance de calcul et l'énergie renouvelable.",
-      "why": "Prévision d'expert soulignant un tournant vers l'autonomie IA, impactant science, économie et énergie.",
+      "title": "Wall Street en baisse face aux doutes sur l'impact de l'IA",
+      "summary": "La Bourse de New York a terminé en recul vendredi, avec le Nasdaq à -0,92%, le Dow Jones à -1,05% et le S&P 500 à -0,43%, crispée par les craintes d'un chamboulement provoqué par l'IA sur fond d'inflation. Les investisseurs expriment des doutes sur les retours économiques de l'IA.",
+      "why": "Cette réaction boursière reflète une maturation du marché IA, passant de l'euphorie à une évaluation critique des risques et bénéfices.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "2026 : Passage à l'IA agentique comme standard opérationnel",
+      "summary": "En 2026, l'IA agentique, capable de prendre des décisions autonomes et d'exécuter des workflows complexes, devient le standard en entreprise, marquant la fin de l'IA récréative et l'urgence d'industrialisation. Les PoC sont révolus, et l'attentisme est vu comme un risque compétitif majeur.",
+      "why": "Ce basculement vers l'IA agentique transforme les modèles économiques, imposant une industrialisation rapide pour la survie compétitive.",
       "category": "Recherche"
+    },
+    {
+      "title": "Régulation IA de février 2026 : Bras de fer gouvernements vs entreprises",
+      "summary": "Février 2026 a vu des tensions avec le Pentagone forçant les labos US, les premières règles de l'AI Act en Europe, et une explosion des cyberattaques IA. Macron a reçu la French Tech, et 48% des Français utilisent l'IA générative. Le Sommet de New Delhi pousse une 'quatrième voie' globale.",
+      "why": "Ce recapitulatif cristallise le contrôle de l'IA comme enjeu stratégique mondial, influençant mars 2026.",
+      "category": "Régulation"
     }
   ]
 }
