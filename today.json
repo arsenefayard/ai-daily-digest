@@ -2,33 +2,33 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Apple annonce le MacBook Neo et d'autres produits le 4 mars 2026",
-      "summary": "Apple a dévoilé une série de nouveaux produits lors de son événement du 2 au 4 mars 2026, incluant l'iPhone 17e, l'iPad Air M4, les MacBook Air M5 et Pro M5, et potentiellement le MacBook Neo low-cost et coloré. L'événement met l'accent sur les mises à jour hardware avec puces M5. Le MacBook Neo est très attendu pour son prix abordable et son design innovant.",
-      "why": "Ces annonces marquent le renouveau hardware d'Apple en 2026 avec intégration probable d'IA avancée, impactant le marché des ordinateurs et tablettes.",
+      "title": "OpenAI lance Frontier : l'IA devient une force de travail autonome",
+      "summary": "Le 5 février 2026, OpenAI a lancé Frontier, une plateforme de déploiement d'agents IA autonomes, marquant le passage de l'IA d'outil consultatif à force de travail. Des partenariats stratégiques avec McKinsey, BCG et Accenture restructurent les opérations des grandes entreprises. La question centrale n'est plus quelle tâche automatiser, mais quel rôle complet déléguer à l'IA.",
+      "why": "Ce lancement représente un basculement fondamental dans l'utilisation de l'IA en entreprise, transformant le modèle opérationnel des organisations et redéfinissant les stratégies de déploiement à grande échelle.",
       "category": "Entreprise"
     },
     {
-      "title": "Mistral AI acquiert la startup française Koyeb",
-      "summary": "Mistral AI, champion français des modèles d'IA, a racheté Koyeb, un fournisseur de cloud serverless. Cette acquisition suit l'annonce d'un investissement de 1,2 milliard d'euros pour des centres de données en Suède. Elle vise à renforcer les capacités d'infrastructure de Mistral.",
-      "why": "Première acquisition majeure de Mistral, renforçant sa position européenne face aux géants américains et accélérant le déploiement de ses modèles.",
-      "category": "Entreprise"
+      "title": "Quatre modèles frontier lancés en 14 jours : fin de la domination d'un seul modèle",
+      "summary": "Entre le 5 et le 19 février 2026, quatre modèles frontier ont été déployés : Claude Opus 4.6 (5 février), GPT-5.3 Codex (5 février), Claude Sonnet 4.6 (17 février) et Gemini 3.1 Pro (19 février). Chacun possède ses spécialités distinctes, marquant la fin de la quête du « meilleur » modèle unique.",
+      "why": "Cette accélération sans précédent démontre que la compétitivité réside désormais dans l'architecture optimale combinant les bons modèles pour les bonnes tâches, plutôt que dans la supériorité d'un seul modèle.",
+      "category": "Modèle"
     },
     {
-      "title": "Commission européenne cible Meta et Google pour abus sur l'IA générative",
-      "summary": "La Commission européenne enquête sur Meta et Google pour pratiques verrouillant le marché de l'IA générative, avec risque d'amendes jusqu'à 10% de leur CA mondial. Des mesures conservatoires sont possibles. Cela s'inscrit dans la régulation de l'AI Act.",
-      "why": "Poursuite concrète de la régulation européenne, pouvant remodeler la concurrence dans l'IA générative.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Karim Beguir prédit l'IA générale comme réalité tangible en 2026",
-      "summary": "Karim Beguir annonce que l'IA générale (IAG) deviendra réalité en 2026, avec des modèles atteignant 50% sur ARC-AGI2 et une accélération exponentielle. Cela boostera productivité x2-3, innovation scientifique et énergies renouvelables pour le calcul. Le déploiement équitable est crucial.",
-      "why": "Prévision d'un tournant majeur en recherche IA, avec impacts profonds sur économie et société.",
+      "title": "L'IA générale (AGI) atteint 50% de performance sur le test ARC-AGI2",
+      "summary": "Les derniers modèles d'IA ont atteint 50% de performance sur le test ARC-AGI2, considéré comme une barrière technologique infranchissable, contre 20% quelques mois auparavant. Selon Karim Beguir, l'IA générale devient une réalité tangible en 2026, avec une progression exponentielle plutôt que linéaire.",
+      "why": "Cette avancée majeure indique que l'IA générale n'est plus théorique mais opérationnelle, capable de réaliser 90% du travail cognitif des employés et d'accélérer exponentiellement l'innovation scientifique.",
       "category": "Recherche"
     },
     {
-      "title": "Gouvernement français lance commission sur dangers de l'IA générative",
-      "summary": "Le ministère du Numérique et de l'IA a mandaté une commission d'experts pour étudier les risques des outils IA génératifs grand public comme ChatGPT, avec rapport attendu en mai. Cela répond à l'essor des usages (48% des Français).",
-      "why": "Initiative nationale pour évaluer et mitiger les vulnérabilités, influençant futures régulations en France.",
+      "title": "Mistral AI acquiert Koyeb pour renforcer son infrastructure cloud",
+      "summary": "Mistral AI, champion français de l'IA, a racheté la start-up française Koyeb, fournisseur de cloud sans serveur. Cette première acquisition intervient après l'annonce d'un investissement de 1,2 milliard d'euros pour la construction de centres de données en Suède.",
+      "why": "Cette acquisition stratégique consolide la position de Mistral en tant que leader européen de l'IA en intégrant les capacités d'infrastructure cloud, essentielle pour supporter la croissance exponentielle des besoins en puissance de calcul.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "La Commission européenne poursuit Meta et Google pour pratiques anticoncurrentielles en IA",
+      "summary": "La Commission européenne a lancé deux procédures contre Meta et Google pour pratiques susceptibles de verrouiller le marché de l'IA générative. En cas d'abus de position dominante avéré, les deux géants risquent des amendes jusqu'à 10% de leur chiffre d'affaires annuel mondial.",
+      "why": "Cette action réglementaire majeure marque l'intensification de la stratégie européenne de régulation de l'IA générative et vise à prévenir la concentration du marché entre quelques géants technologiques.",
       "category": "Régulation"
     }
   ]
