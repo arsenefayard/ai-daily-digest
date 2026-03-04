@@ -497,51 +497,94 @@ function goTo(index) {
 
 // ── DRAG / SWIPE ──
 let startX = 0, startY = 0, dx = 0;
-let dragging = false;
-let lockAxis = null;
+let isSwiping = false;   // axe confirmé comme horizontal
+let isTracking = false;  // touch/mouse actif
+let animFrame = null;
 
 const stage = document.getElementById('stage');
 
+// Désactive le scroll natif sur toute la page mobile
+document.body.addEventListener('touchmove', e => {
+  if (isSwiping) e.preventDefault();
+}, { passive: false });
+
+function getActiveCard() { return document.querySelector('.card.active'); }
+function getCardAt(i) { return document.querySelectorAll('.card')[i]; }
+
 function onStart(x, y) {
-  startX = x; startY = y; dx = 0; dragging = true; lockAxis = null;
-  const card = document.querySelector('.card.active');
-  if (card) card.classList.add('dragging');
+  startX = x; startY = y; dx = 0;
+  isTracking = true; isSwiping = false;
 }
 
 function onMove(x, y) {
-  if (!dragging) return;
+  if (!isTracking) return;
   const diffX = x - startX;
   const diffY = y - startY;
 
-  if (!lockAxis) {
-    if (Math.abs(diffX) > 6 || Math.abs(diffY) > 6) {
-      lockAxis = Math.abs(diffX) > Math.abs(diffY) ? 'x' : 'y';
-    }
-    return;
+  // Détection axe dès 8px de mouvement
+  if (!isSwiping) {
+    if (Math.abs(diffX) < 8 && Math.abs(diffY) < 8) return;
+    if (Math.abs(diffY) > Math.abs(diffX)) { isTracking = false; return; } // scroll vertical → abandon
+    isSwiping = true;
   }
-  if (lockAxis !== 'x') return;
 
   dx = diffX;
-  const card = document.querySelector('.card.active');
-  if (!card) return;
 
-  const resistance = 0.4;
-  const translateX = dx * (Math.abs(dx) > 80 ? resistance : 1);
-  const rotate = (dx / window.innerWidth) * 8;
-  card.style.transform = `translateX(${translateX}px) rotate(${rotate}deg) scale(1)`;
+  // Animation RAF pour fluidité maximale
+  if (animFrame) cancelAnimationFrame(animFrame);
+  animFrame = requestAnimationFrame(() => {
+    const card = getActiveCard();
+    if (!card) return;
+
+    // Carte active suit le doigt 1:1
+    const rotate = (dx / window.innerWidth) * 6;
+    card.style.transition = 'none';
+    card.style.transform = `translateX(${dx}px) rotate(${rotate}deg)`;
+
+    // Carte suivante/précédente se révèle en parallèle
+    const progress = Math.abs(dx) / window.innerWidth; // 0 → 1
+    const peekScale = 0.96 + 0.04 * progress;
+    const peekOpacity = 0.4 + 0.6 * progress;
+    const peekOffset = 60 * (1 - progress);
+
+    if (dx < 0 && current < news.length - 1) {
+      const next = getCardAt(current + 1);
+      if (next) {
+        next.style.transition = 'none';
+        next.style.transform = `translateX(${peekOffset}px) scale(${peekScale})`;
+        next.style.opacity = peekOpacity;
+      }
+    } else if (dx > 0 && current > 0) {
+      const prev = getCardAt(current - 1);
+      if (prev) {
+        prev.style.transition = 'none';
+        prev.style.transform = `translateX(${-peekOffset}px) scale(${peekScale})`;
+        prev.style.opacity = peekOpacity;
+      }
+    }
+  });
 }
 
 function onEnd() {
-  if (!dragging) return;
-  dragging = false;
-  lockAxis = null;
+  if (!isTracking) return;
+  isTracking = false;
+  if (!isSwiping) return;
+  isSwiping = false;
+  if (animFrame) cancelAnimationFrame(animFrame);
 
-  const card = document.querySelector('.card.active');
+  const card = getActiveCard();
   if (!card) return;
-  card.classList.remove('dragging');
-  card.style.transform = '';
 
-  const threshold = 60;
+  const threshold = window.innerWidth * 0.25; // 25% de l'écran
+  const velocity = Math.abs(dx);
+
+  // Reset toutes les cartes avec transition fluide
+  document.querySelectorAll('.card').forEach(c => {
+    c.style.transition = '';
+    c.style.transform = '';
+    c.style.opacity = '';
+  });
+
   if (dx < -threshold && current < news.length - 1) {
     goTo(current + 1);
   } else if (dx > threshold && current > 0) {
@@ -550,17 +593,15 @@ function onEnd() {
   dx = 0;
 }
 
-// Touch
+// Touch — passive:false uniquement sur start pour pouvoir preventDefault dans move
 stage.addEventListener('touchstart', e => onStart(e.touches[0].clientX, e.touches[0].clientY), { passive: true });
-stage.addEventListener('touchmove', e => {
-  onMove(e.touches[0].clientX, e.touches[0].clientY);
-  if (lockAxis === 'x') e.preventDefault();
-}, { passive: false });
-stage.addEventListener('touchend', onEnd);
+stage.addEventListener('touchmove', e => onMove(e.touches[0].clientX, e.touches[0].clientY), { passive: true });
+stage.addEventListener('touchend', onEnd, { passive: true });
+stage.addEventListener('touchcancel', onEnd, { passive: true });
 
 // Mouse
 stage.addEventListener('mousedown', e => onStart(e.clientX, e.clientY));
-window.addEventListener('mousemove', e => { if (dragging) onMove(e.clientX, e.clientY); });
+window.addEventListener('mousemove', e => { if (isTracking) onMove(e.clientX, e.clientY); });
 window.addEventListener('mouseup', onEnd);
 
 // Keyboard
