@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Claude Opus 4.6 dépasse les capacités d'évaluation des risques",
-      "summary": "Anthropic a publié Claude Opus 4.6, marquant un tournant critique dans le développement de l'IA. Le modèle affiche une progression spectaculaire sur les benchmarks non-saturés, avec un bond de 37,6% à 68,8% sur ARC-AGI-2 et un gain de 200 points d'ELO sur GPDval. Plus significativement, les capacités du modèle commencent à dépasser les capacités d'évaluation des risques existantes, soulevant des questions fondamentales sur la capacité de la communauté à évaluer correctement les systèmes IA avancés. Cette accélération confirme la tendance spéculative de 2025 d'un doublement des capacités tous les 5 mois, avec des résultats statistiquement significatifs.",
-      "why": "C'est un moment charnière : pour la première fois, les modèles IA devancent les outils conçus pour les évaluer, créant un décalage dangereux entre les capacités réelles et notre compréhension de celles-ci. Cela remet en question la stratégie même de sécurité de l'IA.",
+      "title": "OpenAI lance Frontier pour déployer des armées d’agents IA",
+      "summary": "Le 5 février 2026, OpenAI a lancé Frontier, une plateforme qui transforme l'IA en force de travail autonome capable de gérer des rôles complets dans les entreprises. Des partenariats avec McKinsey, BCG et Accenture restructurent les opérations des grandes firmes en déléguant des départements entiers à ces agents IA. Cette évolution passe d'une IA outil à une IA agentique qui exécute des workflows complexes de manière responsable. Les implications incluent une automatisation massive des tâches humaines, forçant les entreprises à repenser leurs structures organisationnelles.",
+      "why": "Ce lancement marque le basculement de l'IA d'assistant à force de travail, redéfinissant la productivité et la concurrence mondiale.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Sortie de quatre modèles frontier en 14 jours : Claude 4.6, GPT-5.3, Gemini 3.1",
+      "summary": "Entre le 5 et le 19 février 2026, Anthropic a lancé Claude Opus 4.6, OpenAI GPT-5.3 Codex, suivi de Claude Son 4.6 et Google Gemini 3.1 Pro, établissant un rythme inédit d'innovation. Chaque modèle excelle dans des spécialités distinctes, rendant obsolète la quête du 'meilleur' modèle unique. La Chine domine avec 61% du volume de tokens sur OpenRouter, soulignant une compétition globale. L'enjeu est désormais l'architecture hybride combinant les forces de ces modèles pour des tâches spécifiques.",
+      "why": "Cette accélération érode les barrières technologiques et force une recomposition stratégique des architectures IA.",
       "category": "Modèle"
     },
     {
-      "title": "OpenAI lance Frontier : l'IA passe d'outil à force de travail",
-      "summary": "Le 5 février, OpenAI a lancé Frontier, une plateforme dédiée au déploiement d'armées d'agents IA autonomes, marquant un basculement fondamental dans l'utilisation de l'IA en entreprise. Contrairement aux chatbots traditionnels, Frontier permet aux organisations de déléguer des rôles complets plutôt que des tâches isolées. Les partenariats stratégiques avec McKinsey, BCG et Accenture restructurent déjà les opérations des grandes entreprises. Cette transition redéfinit la question centrale : ce n'est plus « quelle tâche automatiser ? » mais « quel rôle complet déléguer ? ».",
-      "why": "Ce changement représente la fin de l'IA comme assistant consultatif et le début de l'IA comme acteur autonome dans les processus métier. Les organisations qui ne s'adaptent pas risquent un déclassement technologique irréversible face à leurs concurrents.",
-      "category": "Application"
-    },
-    {
-      "title": "Quatre modèles frontier en 14 jours : fin de la domination d'un seul modèle",
-      "summary": "Entre le 5 et le 19 février, quatre modèles frontier ont été lancés en deux semaines : Claude Opus 4.6 (Anthropic), GPT-5.3 Codex (OpenAI), une réplique de Claude (Anthropic), et Gemini 3.1 Pro (Google). Chacun possède ses spécialités distinctes, mettant fin à l'ère du « meilleur modèle unique ». La Chine représente désormais 61% du volume de tokens sur OpenRouter, reflétant une compétition mondiale intensifiée. Le secret stratégique n'est plus le modèle isolé mais l'architecture optimale qui combine les bons modèles pour les bonnes tâches.",
-      "why": "Cette fragmentation du marché des modèles accélère l'innovation mais crée une complexité nouvelle : les organisations doivent maîtriser l'orchestration multi-modèles plutôt que de dépendre d'une solution unique, redéfinissant les stratégies d'adoption de l'IA.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Février 2026 : bras de fer entre gouvernements et entreprises IA sur la régulation",
-      "summary": "Février a cristallisé une tension fondamentale entre les acteurs de l'IA. Aux États-Unis, le Pentagone a tenté de forcer la main aux laboratoires pour accéder à des capacités IA militaires. En Europe, les premières règles concrètes de l'AI Act ont pris forme. Le Sommet IA de New Delhi a réuni une centaine de pays autour d'une « quatrième voie » entre la dérégulation américaine, le cadre strict européen et le contrôle étatique chinois. Les cyberattaques assistées par IA ont explosé, illustrant les risques concrets. En France, 48% des citoyens utilisent désormais l'IA générative, doublant en un an.",
-      "why": "La question n'est plus « faut-il réguler l'IA ? » mais « qui contrôle l'IA ? ». Cette lutte de pouvoir entre gouvernements, entreprises et acteurs malveillants déterminera le cadre géopolitique de l'IA pour les années à venir.",
+      "title": "Premières règles concrètes de l'AI Act en Europe et tensions réglementaires mondiales",
+      "summary": "En février 2026, l'Europe a activé les premières dispositions de l'AI Act, tandis que le Pentagone US poussait pour des armes IA et Macron recevait la French Tech post-Sommet IA de Paris. Le Sommet de New Delhi a réuni 100 pays pour une 'quatrième voie' équilibrant innovation et régulation. Les cyberattaques IA ont explosé, et 48% des Français utilisent l'IA générative, doublant en un an. Ces développements cristallisent le contrôle de l'IA entre gouvernements et entreprises.",
+      "why": "La régulation devient un bras de fer géopolitique déterminant l'avenir de l'innovation IA.",
       "category": "Régulation"
     },
     {
-      "title": "2026 : fin de l'IA récréative et passage obligatoire à l'IA agentique industrialisée",
-      "summary": "L'année 2026 marque la fin de l'euphorie autour de l'IA générative et l'urgence de l'industrialisation. Les milliards investis saturent les budgets sans générer les revenus attendus, créant un écart flagrant entre les démonstrations techniques et la réalité des systèmes en production. L'ère des « Petits Projets Pilotes » (PoC) est officiellement révolue. L'IA agentique devient le standard opérationnel : elle ne suggère plus, elle décide et exécute des workflows complexes de manière autonome. Les organisations qui prolongent la phase d'expérimentation risquent un déclassement compétitif irréversible.",
-      "why": "C'est le moment critique où l'IA passe de la curiosité de laboratoire au pivot de survie compétitive. Les entreprises doivent transformer leurs prototypes en actifs industriels ou rester spectatrices d'une révolution qu'elles n'auront pas su opérer.",
+      "title": "Apple annonce MacBook Neo et nouveaux produits avec puces M5 le 2-4 mars 2026",
+      "summary": "Du 2 au 4 mars 2026, Apple a dévoilé l'iPhone 17e avec MagSafe, iPad Air M4, MacBook Air M5, MacBook Pro M5 Pro/Max et le MacBook Neo low-cost coloré. Ces lancements intègrent des avancées en IA via les puces M5 optimisées pour l'IA agentique et la génération. Commercialisation dès le 11 mars, ils visent à démocratiser l'accès à l'IA embarquée. Cela renforce la position d'Apple dans l'écosystème IA mobile et professionnel.",
+      "why": "Ces annonces accélèrent l'intégration massive de l'IA dans les appareils grand public, boostant l'adoption quotidienne.",
       "category": "Application"
+    },
+    {
+      "title": "Babcock & Wilcox approuvé pour projet de 2,4 milliards $ alimentant les campus IA",
+      "summary": "Babcock & Wilcox a obtenu l'approbation pour un projet de 2,4 milliards de dollars visant à fournir de l'énergie dédiée aux campus d'IA. Ce financement souligne l'explosion de la demande énergétique due aux data centers IA massifs. Les implications incluent une infrastructure critique pour scaler les modèles frontier. Cela met en lumière les défis logistiques de l'IA à grande échelle.",
+      "why": "L'énergie devient le goulot d'étranglement de l'IA, rendant ces projets essentiels pour la croissance future.",
+      "category": "Entreprise"
     }
   ]
 }
