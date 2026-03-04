@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Annonces Apple du 2-4 mars 2026 : iPhone 17e, iPad Air M4, MacBook Air/Pro M5 et MacBook Neo imminent",
-      "summary": "Apple a lancé sa semaine d'annonces le 2 mars avec l'iPhone 17e supportant MagSafe et 256 Go de stockage de base, ainsi que l'iPad Air M4 avec nouvelle puce, disponibles dès le 11 mars. Le 3 mars, révélation du MacBook Air M5, MacBook Pro M5 Pro/Max et Studio Display 2. Le MacBook Neo low-cost et coloré est attendu pour le 4 mars, potentiellement avec un format différent. Ces lancements marquent le début de l'année produit 2026 d'Apple après l'AirTag 2 en janvier. Les puces M5 intègrent des avancées IA pour une meilleure performance on-device. Commercialisation rapide souligne la stratégie d'Apple pour dominer le marché premium avec IA embarquée.",
-      "why": "Ces annonces massives propulsent l'IA dans les appareils grand public, renforçant la position d'Apple face à la concurrence Android et PC avec des puces optimisées IA.",
-      "category": "Entreprise"
+      "title": "Claude Opus 4.6 dépasse les capacités d'évaluation des risques",
+      "summary": "Anthropic a publié Claude Opus 4.6, marquant un tournant critique dans le développement de l'IA. Le modèle affiche une progression spectaculaire sur les benchmarks non-saturés, avec un bond de 37,6% à 68,8% sur ARC-AGI-2 et un gain de 200 points d'ELO sur GPDval. Plus significativement, les capacités du modèle commencent à dépasser les capacités d'évaluation des risques existantes, soulevant des questions fondamentales sur la capacité de la communauté à évaluer correctement les systèmes IA avancés. Cette accélération confirme la tendance spéculative de 2025 d'un doublement des capacités tous les 5 mois, avec des résultats statistiquement significatifs.",
+      "why": "C'est un moment charnière : pour la première fois, les modèles IA devancent les outils conçus pour les évaluer, créant un décalage dangereux entre les capacités réelles et notre compréhension de celles-ci. Cela remet en question la stratégie même de sécurité de l'IA.",
+      "category": "Modèle"
     },
     {
-      "title": "Gouvernement canadien investit 1,16 M$ dans une entreprise albertaine pour technologies IA avancées",
-      "summary": "Le gouvernement du Canada annonce un investissement remboursable de 1 161 500 $ via l'Initiative régionale en IA (IRIA) pour une entreprise albertaine. L'objectif est d'améliorer ses technologies IA à double usage pour la compétitivité mondiale et la souveraineté numérique. Cela s'inscrit dans un budget 2024 de 2,4 milliards $ pour l'IA, visant emplois, productivité et adoption responsable. L'entreprise développe des solutions IA appliquées à des défis concrets comme la défense et l'industrie. Cet soutien accélère la mise à l'échelle et renforce la position du Canada en IA. Contexte : IA crée révolution mondiale, entreprises canadiennes en pointe.",
-      "why": "Illustre l'engagement gouvernemental croissant pour l'IA souveraine et industrielle, avec implications pour la croissance économique et la concurrence globale.",
+      "title": "OpenAI lance Frontier : l'IA passe d'outil à force de travail",
+      "summary": "Le 5 février, OpenAI a lancé Frontier, une plateforme dédiée au déploiement d'armées d'agents IA autonomes, marquant un basculement fondamental dans l'utilisation de l'IA en entreprise. Contrairement aux chatbots traditionnels, Frontier permet aux organisations de déléguer des rôles complets plutôt que des tâches isolées. Les partenariats stratégiques avec McKinsey, BCG et Accenture restructurent déjà les opérations des grandes entreprises. Cette transition redéfinit la question centrale : ce n'est plus « quelle tâche automatiser ? » mais « quel rôle complet déléguer ? ».",
+      "why": "Ce changement représente la fin de l'IA comme assistant consultatif et le début de l'IA comme acteur autonome dans les processus métier. Les organisations qui ne s'adaptent pas risquent un déclassement technologique irréversible face à leurs concurrents.",
       "category": "Application"
     },
     {
-      "title": "États-Unis rejettent totalement une gouvernance mondiale de l'IA lors du Sommet pour l'action sur l'IA",
-      "summary": "Les États-Unis refusent catégoriquement toute gouvernance mondiale de l'IA, arguant que la bureaucratie freinerait l'innovation. Déclaration lors du 4e Sommet pour l'action sur l'IA, réunissant dirigeants, ministres et patrons tech. JD Vance avait déjà averti l'an dernier à Paris contre une régulation excessive tuant l'industrie. Prochaine édition à Genève en 2027. Tensions croissantes entre USA (dérégulation), Europe (cadre strict) et Chine (contrôle étatique). Le sommet pousse impacts concrets en emploi, santé, éducation.",
-      "why": "Accentue les fractures géopolitiques sur la régulation IA, influençant futurs accords internationaux et course à l'innovation.",
+      "title": "Quatre modèles frontier en 14 jours : fin de la domination d'un seul modèle",
+      "summary": "Entre le 5 et le 19 février, quatre modèles frontier ont été lancés en deux semaines : Claude Opus 4.6 (Anthropic), GPT-5.3 Codex (OpenAI), une réplique de Claude (Anthropic), et Gemini 3.1 Pro (Google). Chacun possède ses spécialités distinctes, mettant fin à l'ère du « meilleur modèle unique ». La Chine représente désormais 61% du volume de tokens sur OpenRouter, reflétant une compétition mondiale intensifiée. Le secret stratégique n'est plus le modèle isolé mais l'architecture optimale qui combine les bons modèles pour les bonnes tâches.",
+      "why": "Cette fragmentation du marché des modèles accélère l'innovation mais crée une complexité nouvelle : les organisations doivent maîtriser l'orchestration multi-modèles plutôt que de dépendre d'une solution unique, redéfinissant les stratégies d'adoption de l'IA.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Février 2026 : bras de fer entre gouvernements et entreprises IA sur la régulation",
+      "summary": "Février a cristallisé une tension fondamentale entre les acteurs de l'IA. Aux États-Unis, le Pentagone a tenté de forcer la main aux laboratoires pour accéder à des capacités IA militaires. En Europe, les premières règles concrètes de l'AI Act ont pris forme. Le Sommet IA de New Delhi a réuni une centaine de pays autour d'une « quatrième voie » entre la dérégulation américaine, le cadre strict européen et le contrôle étatique chinois. Les cyberattaques assistées par IA ont explosé, illustrant les risques concrets. En France, 48% des citoyens utilisent désormais l'IA générative, doublant en un an.",
+      "why": "La question n'est plus « faut-il réguler l'IA ? » mais « qui contrôle l'IA ? ». Cette lutte de pouvoir entre gouvernements, entreprises et acteurs malveillants déterminera le cadre géopolitique de l'IA pour les années à venir.",
       "category": "Régulation"
     },
     {
-      "title": "2026 marque la maturité de l'IA en entreprise : fin des PoC, bascule vers IA agentique et industrialisation",
-      "summary": "En 2026, l'IA passe de l'euphorie générative à l'industrialisation opérationnelle, avec fin des projets pilotes (PoC). L'IA agentique devient standard : elle agit autonome, prend décisions et exécute workflows complexes. Directions générales confrontées à la reddition de comptes après investissements massifs sans ROI clair. Attentisme sur données ou régulation mène à déclassement compétitif. Exemple : Ivanti pousse transformation prototypes en actifs industriels. IA quitte slides pour contraintes réelles comme systèmes d'info complexes.",
-      "why": "Signale un tournant décisif pour l'adoption massive en business, déterminant la survie compétitive des entreprises.",
+      "title": "2026 : fin de l'IA récréative et passage obligatoire à l'IA agentique industrialisée",
+      "summary": "L'année 2026 marque la fin de l'euphorie autour de l'IA générative et l'urgence de l'industrialisation. Les milliards investis saturent les budgets sans générer les revenus attendus, créant un écart flagrant entre les démonstrations techniques et la réalité des systèmes en production. L'ère des « Petits Projets Pilotes » (PoC) est officiellement révolue. L'IA agentique devient le standard opérationnel : elle ne suggère plus, elle décide et exécute des workflows complexes de manière autonome. Les organisations qui prolongent la phase d'expérimentation risquent un déclassement compétitif irréversible.",
+      "why": "C'est le moment critique où l'IA passe de la curiosité de laboratoire au pivot de survie compétitive. Les entreprises doivent transformer leurs prototypes en actifs industriels ou rester spectatrices d'une révolution qu'elles n'auront pas su opérer.",
       "category": "Application"
-    },
-    {
-      "title": "Sommet IA de New Delhi et tensions réglementaires : Pentagone pousse armes IA, Europe applique AI Act",
-      "summary": "Février 2026 voit bras de fer : Pentagone force labos US pour armes IA, Europe déploie premières règles AI Act, cyberattaques IA explosent. Sommet New Delhi réunit 100 pays pour 'quatrième voie' impacts concrets (emploi, santé), entre USA, UE, Chine. En France, Macron bilan Sommet Paris avec French Tech, 23 lauréats Pionniers IA (10 M€), 48% Français utilisent IA générative (doublement). Baromètre numérique 2026 confirme adoption massive. Mois cristallise : qui contrôle l'IA ? Mars promet plus de tensions.",
-      "why": "Résume évolutions géopolitiques critiques des dernières semaines, avec retombées immédiates sur innovation et sécurité.",
-      "category": "Régulation"
     }
   ]
 }
