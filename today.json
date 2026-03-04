@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "ByteDance publie Seedance 2.0, modèle génératif audio-vidéo",
-      "summary": "ByteDance a lancé Seedance 2.0, un modèle capable de générer des contenus audio-vidéo synchronisés de haute qualité. Ce modèle marque un progrès significatif dans la multimodalité IA, intégrant traitement audio, vidéo et texte pour des applications créatives avancées. Les évaluations montrent des améliorations notables sur des benchmarks comme ARC-AGI-2 avec un score passant de 37.6% à 68.8%. Les implications incluent une accélération des outils de production multimédia automatisés pour l'industrie du divertissement.",
-      "why": "Ce lancement démontre l'accélération des capacités multimodales des IA, renforçant la concurrence chinoise face aux géants occidentaux.",
+      "title": "OpenAI lance Frontier pour déployer des armées d'agents IA",
+      "summary": "Le 5 février 2026, OpenAI a lancé Frontier, une plateforme permettant de déployer des armées d'agents IA autonomes au sein des entreprises, marquant le passage de l'IA d'un simple outil à une force de travail complète. Des partenariats avec McKinsey, BCG et Accenture restructurent déjà les opérations des grandes firmes, où la question évolue vers 'quel rôle complet déléguer ?'. Cette avancée s'inscrit dans un contexte où l'IA agentique devient standard, exécutant des workflows complexes de manière autonome et responsable. Les implications incluent une transformation radicale des business models, avec des risques de disruption massive pour les emplois traditionnels.",
+      "why": "Ce lancement redéfinit l'IA comme un département autonome, accélérant l'industrialisation et potentiellement multiplant les productivités d'entreprise.",
       "category": "Modèle"
     },
     {
-      "title": "Google publie Lyria 3, son modèle génératif de musique avancé",
-      "summary": "Google a dévoilé Lyria 3, une version améliorée de son modèle de génération musicale, capable de composer des morceaux complexes avec styles variés et haute fidélité. Ce modèle intègre des avancées en apprentissage profond pour une meilleure cohérence rythmique et harmonique. Il s'inscrit dans la tendance des progrès sur les évaluations comme un gain de 200 points ELO sur GPDval pour des tâches réelles. Les applications potentielles touchent la musique personnalisée et les outils pour compositeurs.",
-      "why": "Lyria 3 élève les standards de l'IA musicale, impactant l'industrie créative et les revenus des artistes.",
+      "title": "Sortie de 4 modèles frontier en 14 jours : Claude 4.6, GPT-5.3, Gemini 3.1",
+      "summary": "En février 2026, quatre modèles frontier majeurs ont été lancés en seulement 14 jours : Claude Opus 4.6 le 5 février, GPT-5.3 le même jour, Claude Sonnet 4.6 le 17 février, et Gemini 3.1 Pro le 19 février par Google. Chacun excelle dans sa spécialité, rendant obsolète la quête du 'meilleur' modèle unique. La Chine domine avec 61% du volume de tokens sur OpenRouter, soulignant une compétition globale intense. L'enjeu passe désormais à l'architecture hybride combinant les modèles optimaux par tâche.",
+      "why": "Cette explosion de modèles de pointe démocratise l'accès à des IA ultra-performantes et force les entreprises à adopter des stacks multi-modèles pour rester compétitives.",
       "category": "Modèle"
     },
     {
-      "title": "Mistral AI acquiert la startup Koyeb pour renforcer son infrastructure cloud",
-      "summary": "Mistral AI, champion français des modèles IA, a racheté Koyeb, un fournisseur de cloud serverless, pour optimiser le déploiement de ses modèles à grande échelle. Cette acquisition suit l'annonce d'un investissement de 1,2 milliard d'euros en centres de données en Suède. Elle vise à réduire la dépendance aux clouds américains et à accélérer l'industrialisation des IA européennes. Cela positionne Mistral comme leader en souveraineté numérique.",
-      "why": "Cet achat stratégique consolide la position de l'Europe dans l'IA, favorisant l'indépendance infrastructurelle face aux US et Chine.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Commission européenne cible Meta et Google pour abus de position dominante en IA générative",
-      "summary": "La Commission européenne a lancé deux procédures contre Meta et Google pour pratiques verrouillant le marché de l'IA générative, risquant des amendes jusqu'à 10% de leur CA mondial. Ces enquêtes s'inscrivent dans l'application de l'AI Act et visent à promouvoir la concurrence. Des mesures conservatoires pourraient être imposées rapidement. Cela reflète la tension croissante entre régulation et innovation.",
-      "why": "Cette action marque l'entrée en vigueur concrète de l'AI Act, influençant la gouvernance mondiale de l'IA.",
+      "title": "Bras de fer réglementaire : Pentagone vs labos IA et AI Act en Europe",
+      "summary": "Février 2026 a vu le Pentagone américain tenter de forcer les labos IA à collaborer sur des armes autonomes, tandis qu'en Europe, les premières règles concrètes de l'AI Act entrent en vigueur avec des garde-fous stricts. Le Sommet IA de New Delhi a réuni 100 pays pour une 'quatrième voie' équilibrant innovation et sécurité, au-delà des approches US, UE et chinoise. Parallèlement, les cyberattaques assistées par IA ont explosé, accentuant l'urgence. En France, Macron a lancé 23 projets Pionniers de l'IA avec 10 M€.",
+      "why": "Ces tensions géopolitiques définissent qui contrôlera l'IA stratégique, impactant directement l'innovation et la sécurité mondiale.",
       "category": "Régulation"
     },
     {
-      "title": "Gouvernement du Canada investit 1,16 million $ dans une entreprise albertaine pour technologies IA",
-      "summary": "Le gouvernement canadien a accordé un prêt remboursable de 1 161 500 $ à une entreprise de l'Alberta via l'Initiative régionale en IA pour améliorer ses technologies IA à double usage. Cet investissement s'inscrit dans un plan de 2,4 milliards $ du budget 2024 pour booster l'emploi et la productivité IA. Il cible la compétitivité mondiale et la souveraineté numérique. Les technologies visent des défis concrets comme l'innovation industrielle.",
-      "why": "Il illustre l'engagement gouvernemental croissant pour l'IA appliquée, renforçant la position du Canada dans la course mondiale.",
-      "category": "Application"
+      "title": "Apple annonce MacBook avec puces M5 et prépare MacBook Neo",
+      "summary": "Du 2 au 3 mars 2026, Apple a lancé l'iPhone 17e avec MagSafe, iPad Air M4, MacBook Air M5, MacBook Pro M5 Pro/Max avec architecture modulaire inédite, et Studio Display 2, tous disponibles dès le 11 mars. Le MacBook Neo low-cost et coloré est attendu le 4 mars, potentiellement avec un format innovant. Ces mises à jour intègrent des optimisations IA natives pour une meilleure efficacité. Cela renforce la position d'Apple dans l'écosystème IA embarquée.",
+      "why": "Ces annonces massives propulsent l'IA dans les devices grand public, accélérant l'adoption quotidienne et les applications pratiques.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Doutes persistants sur l'IA pèsent sur Wall Street, Nvidia et AMD en baisse",
+      "summary": "Le 27 février 2026, Wall Street a chuté avec des doutes sur l'IA : Nvidia -1,6%, AMD -1,7%, Broadcom -1%, malgré des perspectives optimistes chez Dell (+20%) via sa transition IA. Block (+17%) supprime 4000 postes pour pivoter vers l'IA. L'inflation surprise amplifie la prudence des investisseurs sur les semi-conducteurs IA. Cela reflète un marché volatil face à la maturité attendue de l'IA en 2026.",
+      "why": "Cette correction boursière signale un tournant : fin de l'euphorie spéculative, exigence de ROI concret pour les investissements IA.",
+      "category": "Entreprise"
     }
   ]
 }
