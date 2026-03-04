@@ -2,34 +2,34 @@
   "date": "04/03/2026",
   "news": [
     {
-      "title": "Accélération spectaculaire des capacités des modèles IA : Claude Opus 4.6 dépasse les évaluations",
-      "summary": "Claude Opus 4.6 affiche des progrès remarquables avec un bond spectaculaire sur ARC-AGI-2 (37.6% à 68.8%) et un gain de 200 points ELO sur GPDval. Les capacités du modèle commencent à dépasser les capacités d'évaluation des risques, confirmant une tendance d'accélération approchant un doublement tous les 5 mois. Trois nouveaux modèles dépassent les prévisions avec un résultat statistiquement significatif à 95%.",
-      "why": "Cette accélération des capacités soulève des questions critiques sur la sécurité de l'IA, car les modèles évoluent plus vite que les méthodes pour les évaluer et les contrôler. C'est un tournant majeur dans la course aux capacités entre les acteurs de l'IA.",
+      "title": "Anthropic lance Claude Opus 4.6 avec des avancées spectaculaires sur ARC-AGI-2",
+      "summary": "Claude Opus 4.6 marque un bond énorme sur les évaluations non saturées comme ARC-AGI-2 (de 37.6% à 68.8%) et un gain de 200 points ELO sur GPQAval. Les capacités du modèle dépassent désormais les évaluations de risques, soulignant l'accélération des progrès. Ce lancement s'inscrit dans une série de 4 modèles frontier en 14 jours.",
+      "why": "Ce progrès confirme l'accélération exponentielle des capacités IA, avec un doublement des performances tous les 5 mois, rendant urgentes les questions de sécurité et d'évaluation.",
       "category": "Modèle"
     },
     {
-      "title": "Février 2026 : tensions entre gouvernements et entreprises d'IA sur la régulation",
-      "summary": "Février a cristallisé un conflit fondamental entre régulation et innovation. Le Pentagone américain a tenté de forcer la main aux labos IA, l'Europe a concrétisé les premières règles de l'AI Act, et le Sommet IA de New Delhi a réuni une centaine de pays cherchant un terrain d'entente. Les États-Unis rejettent totalement toute gouvernance mondiale de l'IA.",
-      "why": "Cette tension entre sécurité, innovation et souveraineté nationale définit le cadre géopolitique de l'IA en 2026. Les trois approches (dérégulation américaine, cadre strict européen, contrôle chinois) entrent en collision directe.",
+      "title": "OpenAI lance Frontier, plateforme pour armées d'agents IA",
+      "summary": "Le 5 février 2026, OpenAI a lancé Frontier, une plateforme permettant de déployer des armées d'agents IA autonomes. Cela transforme l'IA d'un outil en force de travail complète, avec des partenariats chez McKinsey, BCG et Accenture pour restructurer les opérations d'entreprises. La question évolue vers la délégation de rôles entiers.",
+      "why": "Ce basculement marque la fin de l'IA récréative et l'essor de l'IA agentique industrielle, impactant directement la compétitivité des entreprises.",
+      "category": "Application"
+    },
+    {
+      "title": "Quatre modèles frontier sortis en 14 jours : Claude 4.6, GPT-5.3, Gemini 3.1",
+      "summary": "En février 2026, Anthropic (Claude Opus 4.6 et Sonnet 4.6 les 5 et 17 février), OpenAI (GPT-5.3-Codex) et Google (Gemini 3.1 Pro le 19 février) ont lancé quatre modèles frontier en deux semaines. Chacun excelle dans des domaines spécifiques, avec la Chine dominant 61% des tokens sur OpenRouter.",
+      "why": "Cette salve illustre la fin du 'meilleur modèle unique' au profit d'architectures hybrides, intensifiant la course aux parts de marché.",
+      "category": "Modèle"
+    },
+    {
+      "title": "ByteDance publie Seedance 2.0, modèle génératif audio-vidéo",
+      "summary": "ByteDance a publié Seedance 2.0, un modèle génératif multimodal combinant audio et vidéo. Google a simultanément lancé Lyria 3 pour la génération de musique. Ces avancées élargissent les applications créatives de l'IA.",
+      "why": "Ces modèles renforcent la multimodalité IA, accélérant son adoption dans les industries créatives et médiatiques.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Bras de fer réglementaire : Pentagone force les labos, AI Act se concrétise en Europe",
+      "summary": "En février 2026, le Pentagone US a tenté de contraindre les labos IA pour des armes autonomes, tandis que les premières règles de l'AI Act entrent en vigueur en Europe. Le Sommet IA de New Delhi réunit 100 pays pour une 'quatrième voie' équilibrée, au milieu d'une explosion des cyberattaques IA.",
+      "why": "Ces tensions cristallisent le contrôle de l'IA entre gouvernements et entreprises, définissant les cadres futurs pour sécurité et innovation.",
       "category": "Régulation"
-    },
-    {
-      "title": "Adoption massive de l'IA générative en France : 48% des utilisateurs en un an",
-      "summary": "Le baromètre numérique 2026 révèle que 48% des Français utilisent désormais l'IA générative, soit un doublement en un an. Le programme Pionniers de l'IA a sélectionné 23 lauréats avec 10 millions d'euros de financement, et Macron a reçu la French Tech à l'Élysée pour un bilan du Sommet IA de Paris.",
-      "why": "Cette adoption rapide montre que l'IA générative est passée du stade de curiosité technologique à celui d'outil mainstream. Elle reflète aussi l'engagement politique français à maintenir sa compétitivité dans le secteur.",
-      "category": "Application"
-    },
-    {
-      "title": "CES 2026 : pénurie de composants due à l'IA, sacrifiant l'électronique grand public",
-      "summary": "Le CES 2026 a révélé que la construction massive de centres de données pour l'IA crée une pénurie de semi-conducteurs affectant toute l'industrie. Les prix augmentent, et l'électronique grand public est sacrifiée au profit des supercalculateurs IA (Nvidia Vera Rubin avec 54 To de RAM, AMD Helios avec 31 To).",
-      "why": "Cette pénurie a des impacts économiques directs sur les consommateurs et les constructeurs de PC. Elle illustre comment la course à l'IA redessine les chaînes d'approvisionnement mondiales et les priorités industrielles.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "2026 : fin de l'IA récréative et passage obligatoire à l'IA agentique en entreprise",
-      "summary": "L'année 2026 marque la fin des projets pilotes et de l'IA générative comme simple outil. Les entreprises basculent vers l'IA agentique qui prend des décisions autonomes et exécute des workflows complexes. L'écart entre démonstrations techniques et systèmes en production devient critique.",
-      "why": "Ce passage de l'IA générative à l'IA agentique représente une mutation fondamentale : l'IA passe de l'assistance à l'autonomie décisionnelle. Les entreprises qui n'industrialisent pas rapidement risquent un déclassement technologique irréversible.",
-      "category": "Application"
     }
   ]
 }
