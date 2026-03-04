@@ -232,9 +232,10 @@ header {
   line-height: 1.75;
   color: rgba(232,228,220,0.7);
   font-weight: 300;
-  flex: 1;
+  flex: 1 1 0;
   min-height: 0;
-  overflow: hidden;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* ── WHY BOX ── */
@@ -242,13 +243,11 @@ header {
   background: rgba(200,240,100,0.05);
   border: 1px solid rgba(200,240,100,0.12);
   border-radius: 10px;
-  padding: 14px 16px;
+  padding: 12px 14px;
   display: flex;
   gap: 10px;
   flex-shrink: 0;
-  overflow: hidden;
   align-items: flex-start;
-  margin-top: auto;
 }
 
 .why-icon {
@@ -578,29 +577,80 @@ function onMove(x, y) {
 function onEnd() {
   if (!isTracking) return;
   isTracking = false;
-  if (!isSwiping) return;
+  if (!isSwiping) { dx = 0; return; }
   isSwiping = false;
   if (animFrame) cancelAnimationFrame(animFrame);
 
   const threshold = window.innerWidth * 0.25;
-
   const nextIndex = dx < -threshold && current < news.length - 1 ? current + 1
     : dx > threshold && current > 0 ? current - 1
     : current;
 
-  // Reset tous les styles inline, PUIS applique la transition settling
-  document.querySelectorAll('.card').forEach(c => {
-    c.style.transition = 'none';
-    c.style.transform = '';
-    c.style.opacity = '';
-  });
+  const cards = document.querySelectorAll('.card');
+  const SPRING = 'transform 0.45s cubic-bezier(0.175,0.885,0.32,1.1), opacity 0.35s ease';
 
-  // Force reflow pour que le reset soit appliqué avant l'animation
-  document.body.offsetHeight;
+  if (nextIndex !== current) {
+    // Swipe confirmé : anime la carte active qui quitte l'écran
+    const leaving = getActiveCard();
+    const arriving = getCardAt(nextIndex);
+    const dir = nextIndex > current ? -1 : 1; // -1 = part à gauche, 1 = part à droite
+
+    if (leaving) {
+      leaving.style.transition = SPRING;
+      leaving.style.transform = `translateX(${dir * 110}%) scale(0.92)`;
+      leaving.style.opacity = '0';
+    }
+    if (arriving) {
+      // Part de sa position actuelle (déjà bougée par onMove) vers 0
+      arriving.style.transition = SPRING;
+      arriving.style.transform = 'translateX(0) scale(1)';
+      arriving.style.opacity = '1';
+    }
+
+    // Nettoie les autres cartes silencieusement
+    cards.forEach((c, i) => {
+      if (c !== leaving && c !== arriving) {
+        c.style.transition = 'none';
+        c.style.transform = '';
+        c.style.opacity = '';
+      }
+    });
+
+    current = nextIndex;
+
+    // Après l'animation, remet les classes proprement sans transition
+    setTimeout(() => {
+      cards.forEach(c => {
+        c.style.transition = 'none';
+        c.style.transform = '';
+        c.style.opacity = '';
+      });
+      document.body.offsetHeight; // reflow
+      updateUI(false);
+    }, 460);
+
+  } else {
+    // Swipe annulé : rebond de la carte vers sa position
+    const card = getActiveCard();
+    if (card) {
+      card.style.transition = SPRING;
+      card.style.transform = 'translateX(0) scale(1)';
+    }
+    // Remet la carte voisine à sa place
+    const neighbor = dx < 0 ? getCardAt(current + 1) : getCardAt(current - 1);
+    if (neighbor) {
+      neighbor.style.transition = SPRING;
+      neighbor.style.transform = dx < 0 ? 'translateX(60px) scale(0.96)' : 'translateX(-60px) scale(0.96)';
+      neighbor.style.opacity = '0';
+    }
+    setTimeout(() => {
+      cards.forEach(c => { c.style.transition = 'none'; c.style.transform = ''; c.style.opacity = ''; });
+      document.body.offsetHeight;
+      updateUI(false);
+    }, 460);
+  }
 
   dx = 0;
-  current = nextIndex;
-  updateUI(true);
 }
 
 // Touch — passive:false uniquement sur start pour pouvoir preventDefault dans move
