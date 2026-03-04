@@ -132,11 +132,11 @@ header {
   padding: 32px 28px 28px;
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 16px;
   cursor: grab;
   user-select: none;
-  transition: transform 0.05s linear, box-shadow 0.3s ease;
   will-change: transform;
+  overflow: hidden;
   box-shadow:
     0 0 0 1px rgba(255,255,255,0.03),
     0 24px 60px rgba(0,0,0,0.5),
@@ -150,15 +150,21 @@ header {
   opacity: 1;
   pointer-events: auto;
   transform: translateX(0) scale(1);
-  transition: transform 0.4s cubic-bezier(0.22,1,0.36,1), opacity 0.4s ease, box-shadow 0.3s ease;
   z-index: 2;
+}
+
+.card.active.settling {
+  transition: transform 0.42s cubic-bezier(0.22,1,0.36,1), opacity 0.4s ease;
 }
 
 .card.prev {
   opacity: 0;
   transform: translateX(-60px) scale(0.96);
-  transition: transform 0.4s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
   z-index: 1;
+}
+
+.card.prev.settling {
+  transition: transform 0.42s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
 }
 
 .card.next-peek {
@@ -167,9 +173,8 @@ header {
   z-index: 1;
 }
 
-.card.dragging {
-  transition: none !important;
-  cursor: grabbing;
+.card.next-peek.settling {
+  transition: transform 0.42s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
 }
 
 /* ── CARD TOP ── */
@@ -228,6 +233,8 @@ header {
   color: rgba(232,228,220,0.7);
   font-weight: 300;
   flex: 1;
+  min-height: 0;
+  overflow: hidden;
 }
 
 /* ── WHY BOX ── */
@@ -238,6 +245,8 @@ header {
   padding: 14px 16px;
   display: flex;
   gap: 10px;
+  flex-shrink: 0;
+  overflow: hidden;
   align-items: flex-start;
   margin-top: auto;
 }
@@ -466,13 +475,14 @@ function buildDots() {
 }
 
 // ── UPDATE UI STATE ──
-function updateUI() {
+function updateUI(animate) {
   const cards = document.querySelectorAll('.card');
   cards.forEach((c, i) => {
     c.className = 'card';
     if (i === current) c.classList.add('active');
     else if (i < current) c.classList.add('prev');
     else c.classList.add('next-peek');
+    if (animate) c.classList.add('settling');
   });
 
   // Dots
@@ -489,10 +499,10 @@ function updateUI() {
 }
 
 // ── NAVIGATE ──
-function goTo(index) {
+function goTo(index, animate = true) {
   if (index < 0 || index >= news.length) return;
   current = index;
-  updateUI();
+  updateUI(animate);
 }
 
 // ── DRAG / SWIPE ──
@@ -572,25 +582,25 @@ function onEnd() {
   isSwiping = false;
   if (animFrame) cancelAnimationFrame(animFrame);
 
-  const card = getActiveCard();
-  if (!card) return;
+  const threshold = window.innerWidth * 0.25;
 
-  const threshold = window.innerWidth * 0.25; // 25% de l'écran
-  const velocity = Math.abs(dx);
+  const nextIndex = dx < -threshold && current < news.length - 1 ? current + 1
+    : dx > threshold && current > 0 ? current - 1
+    : current;
 
-  // Reset toutes les cartes avec transition fluide
+  // Reset tous les styles inline, PUIS applique la transition settling
   document.querySelectorAll('.card').forEach(c => {
-    c.style.transition = '';
+    c.style.transition = 'none';
     c.style.transform = '';
     c.style.opacity = '';
   });
 
-  if (dx < -threshold && current < news.length - 1) {
-    goTo(current + 1);
-  } else if (dx > threshold && current > 0) {
-    goTo(current - 1);
-  }
+  // Force reflow pour que le reset soit appliqué avant l'animation
+  document.body.offsetHeight;
+
   dx = 0;
+  current = nextIndex;
+  updateUI(true);
 }
 
 // Touch — passive:false uniquement sur start pour pouvoir preventDefault dans move
@@ -606,8 +616,8 @@ window.addEventListener('mouseup', onEnd);
 
 // Keyboard
 window.addEventListener('keydown', e => {
-  if (e.key === 'ArrowRight' || e.key === 'ArrowDown') goTo(current + 1);
-  if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') goTo(current - 1);
+  if (e.key === 'ArrowRight' || e.key === 'ArrowDown') goTo(current + 1, true);
+  if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') goTo(current - 1, true);
 });
 
 // ── INIT ──
