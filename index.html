@@ -115,12 +115,28 @@ const SPRING = 'transform 0.44s cubic-bezier(0.175,0.885,0.32,1.08), opacity 0.3
 let slides = [], cur = 0;
 
 /* Mesure si tout le contenu (résumé + why-box) tient dans une carte.
-   On crée une carte fantôme hors écran, on mesure, on la supprime. */
+   La carte fantôme est insérée avec les vraies dimensions et on force un reflow. */
 function measureFits(item) {
   const color = COLORS[item.category] || 'var(--accent)';
+
+  // Calcule les vraies dimensions de la carte (stage - insets)
+  const headerH = 62, footerH = 46, inset = 20;
+  const cardH = window.innerHeight - headerH - footerH - inset;
+  const cardW = Math.min(window.innerWidth - 28, 480 - 28); // 14px inset chaque côté
+
   const ghost = document.createElement('div');
   ghost.className = 'card';
-  ghost.style.cssText = 'position:fixed;visibility:hidden;pointer-events:none;top:0;left:0;opacity:0;';
+  ghost.style.cssText = `
+    position:fixed;
+    visibility:hidden;
+    pointer-events:none;
+    top:-9999px;
+    left:0;
+    width:${cardW}px;
+    height:auto;
+    max-height:none;
+    opacity:0;
+  `;
   ghost.innerHTML = `
     <div class="card-meta">
       <span class="card-num">01</span>
@@ -132,24 +148,18 @@ function measureFits(item) {
     <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
   `;
   document.body.appendChild(ghost);
-  // Hauteur disponible pour une carte (stage height - insets)
-  const stageH = window.innerHeight
-    - parseInt(getComputedStyle(document.documentElement).getPropertyValue('--header-h'))
-    - parseInt(getComputedStyle(document.documentElement).getPropertyValue('--footer-h'))
-    - 20; // 10px inset top + bottom
-  const fits = ghost.scrollHeight <= stageH;
+  // Force reflow pour que le navigateur calcule la vraie hauteur
+  const h = ghost.getBoundingClientRect().height;
   document.body.removeChild(ghost);
-  return fits;
+  return h <= cardH;
 }
 
 function buildSlides(news) {
   slides = [];
   news.forEach((item, i) => {
     if (measureFits(item)) {
-      // Tout tient : une seule slide avec résumé + why-box
       slides.push({ newsIdx:i, part:'single', item });
     } else {
-      // Trop long : slide 1 = résumé, slide 2 = why-box
       slides.push({ newsIdx:i, part:'main', item });
       slides.push({ newsIdx:i, part:'why',  item });
     }
