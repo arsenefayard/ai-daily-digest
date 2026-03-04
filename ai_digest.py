@@ -1,44 +1,45 @@
 """
 Script de digest quotidien IA avec Perplexity API
+Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 
 INSTRUCTIONS :
 1. pip install requests
-2. Crée un fichier .env avec :
-   PERPLEXITY_API_KEY=ta_clé_ici
-   SENDER_EMAIL=ton_email@gmail.com
-   EMAIL_PASSWORD=ton_mot_de_passe_application_gmail
-   RECEIVER_EMAIL=email_destination@gmail.com
+2. Variables GitHub Actions à configurer :
+   PERPLEXITY_API_KEY, SENDER_EMAIL, EMAIL_PASSWORD, RECEIVER_EMAIL
+   GITHUB_TOKEN (déjà disponible automatiquement dans GitHub Actions)
+   GITHUB_REPO (ex: tonusername/tonrepo)
 """
 
 import os
+import json
 import smtplib
 import requests
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
+import base64
 
 
 def get_ai_news_summaries():
-    """Utilise Perplexity pour rechercher et résumer les actualités IA du jour"""
-    
+    """Utilise Perplexity pour rechercher et résumer les actualités IA du jour en JSON"""
+
     api_key = os.environ.get('PERPLEXITY_API_KEY')
-    
+
     if not api_key:
         print("❌ Erreur : PERPLEXITY_API_KEY non trouvée")
-        print("💡 Crée un fichier .env avec : PERPLEXITY_API_KEY=ta_clé")
         return None
-    
+
     print("🔍 Recherche des actualités IA avec Perplexity...")
-    
+
     url = "https://api.perplexity.ai/chat/completions"
-    
+
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-    
+
     payload = {
-        "model": "sonar",  # Modèle avec recherche web
+        "model": "sonar",
         "messages": [
             {
                 "role": "system",
@@ -46,23 +47,24 @@ def get_ai_news_summaries():
 
 Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.
 
-IMPORTANT : Réponds UNIQUEMENT en HTML pur, sans aucun texte Markdown, sans ``` et sans préambule.
+Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
-Format HTML strict à respecter pour CHAQUE actualité :
+Format JSON strict :
+{
+  "date": "JJ/MM/AAAA",
+  "news": [
+    {
+      "title": "Titre de l'actualité",
+      "summary": "Résumé en 3-4 phrases.",
+      "why": "Pourquoi c'est important en 1-2 phrases.",
+      "category": "Modèle|Entreprise|Recherche|Application|Régulation"
+    }
+  ]
+}
 
-<div style="margin-bottom: 30px;">
-  <h3 style="color: #2563eb; margin-bottom: 10px;">1. [Titre de l'actualité]</h3>
-  <p style="line-height: 1.6; margin-bottom: 10px;">[Résumé en 3-4 phrases]</p>
-  <p style="color: #059669; font-weight: 500;">💡 [Pourquoi c'est important]</p>
-</div>
-
-<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 25px 0;">
-
-Répète exactement ce format pour les 5 actualités (numérotées 1, 2, 3, 4, 5).
-
+Génère exactement 5 objets dans "news".
 Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
-
-Réponds UNIQUEMENT avec le HTML, pas de texte avant ou après."""
+Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
             {
                 "role": "user",
@@ -72,136 +74,155 @@ Réponds UNIQUEMENT avec le HTML, pas de texte avant ou après."""
         "temperature": 0.2,
         "max_tokens": 2000
     }
-    
+
     try:
         response = requests.post(url, json=payload, headers=headers)
         response.raise_for_status()
-        
+
         result = response.json()
-        summaries = result['choices'][0]['message']['content']
-        
+        raw = result['choices'][0]['message']['content']
+
+        # Nettoyage au cas où Perplexity ajouterait des backticks
+        raw = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+
+        data = json.loads(raw)
         print("✅ Résumés générés avec succès")
-        return summaries
-        
+        return data
+
     except requests.exceptions.RequestException as e:
         print(f"❌ Erreur API Perplexity : {e}")
-        if hasattr(e.response, 'text'):
-            print(f"Détails : {e.response.text}")
+        return None
+    except json.JSONDecodeError as e:
+        print(f"❌ Erreur parsing JSON : {e}")
+        print(f"Contenu reçu : {raw}")
         return None
 
 
-def create_email_body(summaries):
-    """Crée le corps de l'email avec mise en forme HTML"""
-    
-    html = f"""
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <style>
-            body {{
-                font-family: Arial, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 20px;
-                background-color: #f9fafb;
-            }}
-            .container {{
-                background-color: white;
-                padding: 30px;
-                border-radius: 8px;
-                box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            }}
-            h2 {{
-                color: #1e40af;
-                border-bottom: 3px solid #2563eb;
-                padding-bottom: 15px;
-                margin-bottom: 25px;
-            }}
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <h2>🤖 Votre digest IA quotidien - {datetime.now().strftime('%d/%m/%Y')}</h2>
-            <p style="color: #6b7280; margin-bottom: 30px;">Voici les 5 actualités IA les plus importantes du jour :</p>
-            
-            {summaries}
-            
-            <hr style="border: none; border-top: 2px solid #e5e7eb; margin: 30px 0;">
-            <p style="color: #6b7280; font-size: 0.9em;">
-                Bonne journée !<br>
-                <em>Généré automatiquement par Perplexity AI</em>
-            </p>
-        </div>
-    </body>
-    </html>
-    """
-    
-    return html
+def push_json_to_github(data):
+    """Pousse le JSON sur GitHub Pages (branche gh-pages, fichier today.json)"""
 
-def send_email(body):
-    """Envoie l'email via Gmail"""
-    
+    token = os.environ.get('GITHUB_TOKEN')
+    repo = os.environ.get('GITHUB_REPO')  # ex: username/repo
+
+    if not token or not repo:
+        print("❌ GITHUB_TOKEN ou GITHUB_REPO manquant")
+        return False
+
+    api_url = f"https://api.github.com/repos/{repo}/contents/today.json"
+
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json"
+    }
+
+    content = json.dumps(data, ensure_ascii=False, indent=2)
+    encoded = base64.b64encode(content.encode("utf-8")).decode("utf-8")
+
+    # Vérifie si le fichier existe déjà pour récupérer son SHA
+    sha = None
+    try:
+        r = requests.get(api_url, headers=headers, params={"ref": "gh-pages"})
+        if r.status_code == 200:
+            sha = r.json().get("sha")
+    except Exception:
+        pass
+
+    payload = {
+        "message": f"digest: {data.get('date', datetime.now().strftime('%d/%m/%Y'))}",
+        "content": encoded,
+        "branch": "gh-pages"
+    }
+    if sha:
+        payload["sha"] = sha
+
+    try:
+        r = requests.put(api_url, json=payload, headers=headers)
+        r.raise_for_status()
+        print("✅ JSON publié sur GitHub Pages")
+        return True
+    except Exception as e:
+        print(f"❌ Erreur push GitHub : {e}")
+        if hasattr(e, 'response') and e.response is not None:
+            print(f"Détails : {e.response.text}")
+        return False
+
+
+def send_email(date_str, page_url):
+    """Envoie un email minimaliste avec le lien vers la page du jour"""
+
     sender = os.environ.get('SENDER_EMAIL')
     password = os.environ.get('EMAIL_PASSWORD')
     receiver = os.environ.get('RECEIVER_EMAIL')
-    
+
     if not all([sender, password, receiver]):
-        print("❌ Erreur : Variables d'environnement email manquantes")
+        print("❌ Variables d'environnement email manquantes")
         return False
-    
+
     print(f"📧 Envoi de l'email à {receiver}...")
-    
+
+    html = f"""
+    <html>
+    <head><meta charset="UTF-8"></head>
+    <body style="font-family: Georgia, serif; background: #f4f4f0; margin: 0; padding: 40px 20px;">
+      <div style="max-width: 480px; margin: 0 auto; background: white; border-radius: 12px; padding: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <p style="color: #999; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px;">AI Digest · {date_str}</p>
+        <h1 style="font-size: 26px; color: #111; margin: 0 0 16px; line-height: 1.3;">Vos 5 actualités IA du jour sont prêtes</h1>
+        <p style="color: #555; font-size: 15px; line-height: 1.7; margin: 0 0 32px;">Swipez pour découvrir les nouvelles les plus importantes dans le monde de l'intelligence artificielle.</p>
+        <a href="{page_url}" style="display: inline-block; background: #111; color: white; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 15px; font-weight: 500; letter-spacing: 0.5px;">
+          Ouvrir le digest →
+        </a>
+        <p style="color: #bbb; font-size: 12px; margin: 32px 0 0;">Généré automatiquement · Perplexity AI</p>
+      </div>
+    </body>
+    </html>
+    """
+
     try:
         msg = MIMEMultipart()
-        msg['Subject'] = f"🤖 Digest IA du {datetime.now().strftime('%d/%m/%Y')}"
+        msg['Subject'] = f"🤖 Digest IA — {date_str}"
         msg['From'] = sender
         msg['To'] = receiver
-        
-        msg.attach(MIMEText(body, 'html', 'utf-8'))
-        
+        msg.attach(MIMEText(html, 'html', 'utf-8'))
+
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(sender, password)
             server.send_message(msg)
-        
+
         print("✅ Email envoyé avec succès !")
         return True
-        
+
     except Exception as e:
         print(f"❌ Erreur lors de l'envoi : {e}")
         return False
 
 
 def main():
-    """Fonction principale"""
-    
     print("\n" + "="*50)
-    print("🤖 AI DAILY DIGEST - Démarrage")
+    print("🤖 AI DAILY DIGEST — Démarrage")
     print("="*50 + "\n")
-    
-    # Récupère les résumés avec Perplexity
-    summaries = get_ai_news_summaries()
-    
-    if not summaries:
-        print("\n❌ Impossible de générer les résumés")
+
+    # 1. Génère les news en JSON
+    data = get_ai_news_summaries()
+    if not data:
+        print("❌ Impossible de générer les résumés")
         return
-    
-    # Affiche les résumés
-    print("\n" + "="*50)
-    print("📰 RÉSUMÉS GÉNÉRÉS :")
-    print("="*50 + "\n")
-    print(summaries)
-    print("\n" + "="*50 + "\n")
-    
-    # Crée et envoie l'email
-    email_body = create_email_body(summaries)
-    success = send_email(email_body)
-    
-    if success:
-        print("\n✅ Processus terminé avec succès !")
-    else:
-        print("\n⚠️ Résumés générés mais email non envoyé")
+
+    # 2. Pousse sur GitHub Pages
+    pushed = push_json_to_github(data)
+    if not pushed:
+        print("⚠️  Données générées mais non publiées sur GitHub Pages")
+
+    # 3. Construit l'URL de la page
+    repo = os.environ.get('GITHUB_REPO', '')
+    username = repo.split('/')[0] if '/' in repo else ''
+    reponame = repo.split('/')[1] if '/' in repo else ''
+    page_url = f"https://{username}.github.io/{reponame}/"
+
+    # 4. Envoie l'email avec le lien
+    date_str = data.get('date', datetime.now().strftime('%d/%m/%Y'))
+    send_email(date_str, page_url)
+
+    print("\n✅ Processus terminé !")
 
 
 if __name__ == "__main__":
