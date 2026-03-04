@@ -54,9 +54,9 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
 
 .card-title { font-family:'Fraunces',serif; font-size:clamp(16px,4.2vw,21px); font-weight:600; line-height:1.3; letter-spacing:-.3px; flex-shrink:0; }
 
-.card-body { font-size:14px; line-height:1.78; color:rgba(232,228,220,0.72); font-weight:300; flex:3 1 0; min-height:0; overflow:hidden; }
+.card-body { font-size:14px; line-height:1.78; color:rgba(232,228,220,0.72); font-weight:300; flex:3 0 0; min-height:0; overflow:hidden; }
 
-.why-box { background:rgba(200,240,100,0.05); border:1px solid rgba(200,240,100,0.13); border-radius:10px; padding:11px 13px; display:flex; gap:9px; align-items:flex-start; flex:1 1 0; min-height:0; overflow:hidden; }
+.why-box { background:rgba(200,240,100,0.05); border:1px solid rgba(200,240,100,0.13); border-radius:10px; padding:11px 13px; display:flex; gap:9px; align-items:flex-start; flex:1 0 0; min-height:0; overflow:hidden; }
 .why-icon { font-size:13px; flex-shrink:0; margin-top:2px; }
 .why-text { font-size:13px; line-height:1.6; color:rgba(200,240,100,0.85); font-weight:400; }
 
@@ -267,6 +267,24 @@ window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='Arr
   renderAll();
   loading.style.opacity='0';
   setTimeout(()=>loading.style.display='none',500);
+
+  // Re-render on orientation change so layout recalculates cleanly
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      const c = cur;
+      renderAll();
+      cur = c;
+      // Restore active card without animation
+      stage.querySelectorAll('.card').forEach(card => {
+        const i = parseInt(card.dataset.idx);
+        card.style.cssText = '';
+        card.className = 'card ' + (i === cur ? 'active' : i < cur ? 'prev' : 'next');
+      });
+      updateChrome();
+    }, 150);
+  });
 })();
 </script>
 </body>
