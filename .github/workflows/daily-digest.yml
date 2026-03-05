@@ -1,4 +1,4 @@
-name: Daily AI News Digest
+name: Daily Digest (IA + Géopolitique)
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Nécessaire pour pusher sur gh-pages
+  contents: write
 
 jobs:
   send-digest:
@@ -24,12 +24,25 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Exécuter le script
+      - name: Générer le digest IA
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: python ai_digest.py
+
+      - name: Générer le digest Géopolitique
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: python geo_digest.py
+
+      - name: Envoyer l'email combiné
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           RECEIVER_EMAIL: ${{ secrets.RECEIVER_EMAIL }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
-        run: python ai_digest.py
+        run: python send_email.py
