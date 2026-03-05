@@ -1,13 +1,6 @@
 """
 Script de digest quotidien IA avec Perplexity API
 Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
-
-INSTRUCTIONS :
-1. pip install requests
-2. Variables GitHub Actions à configurer :
-   PERPLEXITY_API_KEY, SENDER_EMAIL, EMAIL_PASSWORD, RECEIVER_EMAIL
-   GITHUB_TOKEN (déjà disponible automatiquement dans GitHub Actions)
-   GITHUB_REPO (ex: tonusername/tonrepo)
 """
 
 import os
@@ -20,11 +13,50 @@ from datetime import datetime
 import base64
 
 
-def get_ai_news_summaries():
+# ─────────────────────────────────────────
+# HISTORIQUE
+# ─────────────────────────────────────────
+
+def fetch_history(repo, headers):
+    """Récupère history.json depuis gh-pages (7 derniers jours de titres)"""
+    api_url = f"https://api.github.com/repos/{repo}/contents/history.json"
+    r = requests.get(api_url, headers=headers, params={"ref": "gh-pages"})
+    if r.status_code == 200:
+        content = base64.b64decode(r.json()["content"]).decode("utf-8")
+        return json.loads(content)
+    return []  # Pas encore d'historique
+
+
+def update_history(history, new_news):
+    """Ajoute les titres du jour et garde seulement les 7 derniers jours"""
+    today = {
+        "date": datetime.now().strftime("%d/%m/%Y"),
+        "titles": [item["title"] for item in new_news]
+    }
+    history.append(today)
+    return history[-7:]  # Garde les 7 derniers jours
+
+
+def build_history_context(history):
+    """Formate l'historique en texte pour le prompt"""
+    if not history:
+        return ""
+    lines = ["Actualités déjà couvertes ces derniers jours (à éviter sauf changement majeur) :"]
+    for day in history:
+        lines.append(f"\n{day['date']} :")
+        for title in day["titles"]:
+            lines.append(f"  - {title}")
+    return "\n".join(lines)
+
+
+# ─────────────────────────────────────────
+# PERPLEXITY
+# ─────────────────────────────────────────
+
+def get_ai_news_summaries(history_context=""):
     """Utilise Perplexity pour rechercher et résumer les actualités IA du jour en JSON"""
 
     api_key = os.environ.get('PERPLEXITY_API_KEY')
-
     if not api_key:
         print("❌ Erreur : PERPLEXITY_API_KEY non trouvée")
         return None
@@ -32,35 +64,37 @@ def get_ai_news_summaries():
     print("🔍 Recherche des actualités IA avec Perplexity...")
 
     url = "https://api.perplexity.ai/chat/completions"
-
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
+
+    history_section = f"\n\n{history_context}\n" if history_context else ""
 
     payload = {
         "model": "sonar",
         "messages": [
             {
                 "role": "system",
-                "content": """Tu es un assistant spécialisé dans les actualités IA.
+                "content": f"""Tu es un assistant spécialisé dans les actualités IA.
 
-Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.
+Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
+RÈGLE IMPORTANTE : N'inclus pas d'actualités déjà couvertes récemment, sauf si un développement majeur et significatif a eu lieu sur ce sujet (nouvelle version, revirement, impact concret, etc.). Dans ce cas, précise clairement ce qui a changé.
 
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
-{
+{{
   "date": "JJ/MM/AAAA",
   "news": [
-    {
+    {{
       "title": "Titre de l'actualité",
       "summary": "Résumé détaillé en 4 phrases avec contexte, détails techniques et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Modèle|Entreprise|Recherche|Application|Régulation"
-    }
+    }}
   ]
-}
+}}
 
 Génère exactement 5 objets dans "news".
 Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
@@ -81,8 +115,6 @@ Réponds UNIQUEMENT avec le JSON, rien d'autre."""
 
         result = response.json()
         raw = result['choices'][0]['message']['content']
-
-        # Nettoyage au cas où Perplexity ajouterait des backticks
         raw = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
 
         data = json.loads(raw)
@@ -94,65 +126,47 @@ Réponds UNIQUEMENT avec le JSON, rien d'autre."""
         return None
     except json.JSONDecodeError as e:
         print(f"❌ Erreur parsing JSON : {e}")
-        print(f"Contenu reçu : {raw}")
         return None
 
 
-def ensure_gh_pages_branch(repo, headers):
-    """Crée la branche gh-pages si elle n'existe pas encore"""
+# ─────────────────────────────────────────
+# GITHUB
+# ─────────────────────────────────────────
 
-    # Récupère le SHA du dernier commit de main
+def ensure_gh_pages_branch(repo, headers):
     r = requests.get(f"https://api.github.com/repos/{repo}/git/ref/heads/main", headers=headers)
     if r.status_code != 200:
-        # Essaie master si main n'existe pas
         r = requests.get(f"https://api.github.com/repos/{repo}/git/ref/heads/master", headers=headers)
     if r.status_code != 200:
-        print("❌ Impossible de trouver la branche principale (main/master)")
+        print("❌ Impossible de trouver la branche principale")
         return False
-
     sha = r.json()["object"]["sha"]
-
-    # Crée gh-pages à partir de ce SHA
     payload = {"ref": "refs/heads/gh-pages", "sha": sha}
     r = requests.post(f"https://api.github.com/repos/{repo}/git/refs", json=payload, headers=headers)
-    if r.status_code in (201, 422):  # 422 = existe déjà, ok
-        print("✅ Branche gh-pages créée")
+    if r.status_code in (201, 422):
+        print("✅ Branche gh-pages prête")
         return True
-
     print(f"❌ Erreur création gh-pages : {r.text}")
     return False
 
 
 def push_file_to_gh_pages(repo, headers, filename, content_str, commit_message):
-    """Pousse un fichier sur la branche gh-pages"""
-
     api_url = f"https://api.github.com/repos/{repo}/contents/{filename}"
     encoded = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
-
-    # Récupère le SHA existant si le fichier existe déjà
     sha = None
     r = requests.get(api_url, headers=headers, params={"ref": "gh-pages"})
     if r.status_code == 200:
         sha = r.json().get("sha")
-
-    payload = {
-        "message": commit_message,
-        "content": encoded,
-        "branch": "gh-pages"
-    }
+    payload = {"message": commit_message, "content": encoded, "branch": "gh-pages"}
     if sha:
         payload["sha"] = sha
-
     r = requests.put(api_url, json=payload, headers=headers)
     r.raise_for_status()
 
 
-def push_json_to_github(data):
-    """Pousse today.json et index.html sur la branche gh-pages"""
-
+def push_to_github(data, history):
     token = os.environ.get('GITHUB_TOKEN')
-    repo = os.environ.get('GITHUB_REPO')
-
+    repo  = os.environ.get('GITHUB_REPO')
     if not token or not repo:
         print("❌ GITHUB_TOKEN ou GITHUB_REPO manquant")
         return False
@@ -162,23 +176,26 @@ def push_json_to_github(data):
         "Accept": "application/vnd.github+json"
     }
 
-    # Crée gh-pages si elle n'existe pas
     ensure_gh_pages_branch(repo, headers)
-
     date_str = data.get('date', datetime.now().strftime('%d/%m/%Y'))
 
     try:
-        # 1. Pousse today.json
-        json_content = json.dumps(data, ensure_ascii=False, indent=2)
-        push_file_to_gh_pages(repo, headers, "today.json", json_content, f"digest: {date_str}")
-        print("✅ today.json publié sur gh-pages")
+        # today.json
+        push_file_to_gh_pages(repo, headers, "today.json",
+            json.dumps(data, ensure_ascii=False, indent=2), f"digest: {date_str}")
+        print("✅ today.json publié")
 
-        # 2. Pousse index.html s'il existe dans le répertoire courant
+        # history.json
+        push_file_to_gh_pages(repo, headers, "history.json",
+            json.dumps(history, ensure_ascii=False, indent=2), f"history: {date_str}")
+        print("✅ history.json mis à jour")
+
+        # index.html
         if os.path.exists("index.html"):
             with open("index.html", "r", encoding="utf-8") as f:
                 html_content = f.read()
             push_file_to_gh_pages(repo, headers, "index.html", html_content, "chore: update index.html")
-            print("✅ index.html publié sur gh-pages")
+            print("✅ index.html publié")
 
         return True
 
@@ -189,10 +206,12 @@ def push_json_to_github(data):
         return False
 
 
-def send_email(date_str, page_url):
-    """Envoie un email minimaliste avec le lien vers la page du jour"""
+# ─────────────────────────────────────────
+# EMAIL
+# ─────────────────────────────────────────
 
-    sender = os.environ.get('SENDER_EMAIL')
+def send_email(date_str, page_url):
+    sender   = os.environ.get('SENDER_EMAIL')
     password = os.environ.get('EMAIL_PASSWORD')
     receiver = os.environ.get('RECEIVER_EMAIL')
 
@@ -222,46 +241,63 @@ def send_email(date_str, page_url):
     try:
         msg = MIMEMultipart()
         msg['Subject'] = f"🤖 Digest IA — {date_str}"
-        msg['From'] = sender
-        msg['To'] = receiver
+        msg['From']    = sender
+        msg['To']      = receiver
         msg.attach(MIMEText(html, 'html', 'utf-8'))
-
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(sender, password)
             server.send_message(msg)
-
         print("✅ Email envoyé avec succès !")
         return True
-
     except Exception as e:
         print(f"❌ Erreur lors de l'envoi : {e}")
         return False
 
+
+# ─────────────────────────────────────────
+# MAIN
+# ─────────────────────────────────────────
 
 def main():
     print("\n" + "="*50)
     print("🤖 AI DAILY DIGEST — Démarrage")
     print("="*50 + "\n")
 
-    # 1. Génère les news en JSON
-    data = get_ai_news_summaries()
+    token = os.environ.get('GITHUB_TOKEN')
+    repo  = os.environ.get('GITHUB_REPO')
+    gh_headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json"
+    } if token and repo else None
+
+    # 1. Récupère l'historique des 7 derniers jours
+    history = []
+    if gh_headers:
+        history = fetch_history(repo, gh_headers)
+        print(f"📚 Historique chargé : {len(history)} jour(s)")
+
+    history_context = build_history_context(history)
+
+    # 2. Génère les news en évitant les répétitions
+    data = get_ai_news_summaries(history_context)
     if not data:
         print("❌ Impossible de générer les résumés")
         return
 
-    # 2. Pousse sur GitHub Pages
-    pushed = push_json_to_github(data)
+    # 3. Met à jour l'historique avec les news du jour
+    history = update_history(history, data.get("news", []))
+
+    # 4. Pousse sur GitHub Pages
+    pushed = push_to_github(data, history)
     if not pushed:
         print("⚠️  Données générées mais non publiées sur GitHub Pages")
 
-    # 3. Construit l'URL de la page
-    repo = os.environ.get('GITHUB_REPO', '')
-    username = repo.split('/')[0] if '/' in repo else ''
-    reponame = repo.split('/')[1] if '/' in repo else ''
-    page_url = f"https://{username}.github.io/{reponame}/"
-
-    # 4. Envoie l'email avec le lien
-    date_str = data.get('date', datetime.now().strftime('%d/%m/%Y'))
+    # 5. Envoie l'email
+    repo_str  = os.environ.get('GITHUB_REPO', '')
+    username  = repo_str.split('/')[0] if '/' in repo_str else ''
+    reponame  = repo_str.split('/')[1] if '/' in repo_str else ''
+    page_url  = f"https://{username}.github.io/{reponame}/"
+    date_str  = data.get('date', datetime.now().strftime('%d/%m/%Y'))
     send_email(date_str, page_url)
 
     print("\n✅ Processus terminé !")
