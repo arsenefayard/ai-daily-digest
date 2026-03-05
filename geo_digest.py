@@ -77,17 +77,6 @@ def get_geo_news_summaries(history_context=""):
                 "content": f"""Tu es un assistant spécialisé dans la géopolitique mondiale.
 
 Recherche sur le web les 5 actualités géopolitiques les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
-RÈGLES SUR LES RÉPÉTITIONS :
-- N'inclus pas une actualité déjà couverte si c'est la même information sans évolution.
-- Inclus-la si l'un de ces critères est rempli :
-  * Escalade ou désescalade militaire significative
-  * Changement de position diplomatique d'un acteur majeur
-  * Accord, traité ou rupture diplomatique
-  * Sanctions économiques ou levée de sanctions
-  * Élection ou changement de pouvoir influençant les rapports de force
-  * Incident majeur (attaque, catastrophe, crise humanitaire) qui change la donne
-- Dans ce cas, place l'info dans le tableau "updates" du JSON, pas dans "news".
-
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -112,8 +101,22 @@ Format JSON strict :
   ]
 }}
 
-Génère exactement 5 objets dans "news" (nouvelles infos uniquement, jamais de sujets déjà couverts).
-Pour "updates" : entre 0 et 2 objets maximum. Laisse le tableau vide ([]) s'il n'y a pas de mise à jour significative.
+RÈGLES STRICTES :
+1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
+   - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
+   - Si l'actualité géopolitique est calme, prends les sujets les plus importants du moment même s'ils touchent des thèmes déjà vus, mais uniquement si c'est un événement ou une donnée nouvelle.
+   - "news" et "updates" ne doivent jamais couvrir le même sujet.
+
+2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
+   - Ne mettre une update que si l'un de ces critères est rempli :
+     * Escalade ou désescalade militaire significative
+     * Changement de position diplomatique d'un acteur majeur
+     * Accord, traité ou rupture diplomatique
+     * Sanctions économiques ou levée de sanctions
+     * Élection ou changement de pouvoir influençant les rapports de force
+     * Incident majeur (attaque, catastrophe, crise humanitaire) qui change la donne
+   - Si aucun critère n'est rempli, laisser "updates" vide : [].
+   - Ne jamais inventer une mise à jour.
 Concentre-toi sur : conflits armés, diplomatie internationale, économie mondiale, élections majeures, énergie et ressources, sécurité internationale.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
