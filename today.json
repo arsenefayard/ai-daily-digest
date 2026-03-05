@@ -1,34 +1,34 @@
 {
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "news": [
     {
-      "title": "ByteDance publie Seedance 2.0, modèle génératif audio-vidéo",
-      "summary": "ByteDance a lancé Seedance 2.0, un modèle avancé capable de générer des contenus audio-vidéo synchronisés de haute qualité. Ce modèle marque un progrès significatif dans la multimodalité IA, intégrant traitement audio, vidéo et texte pour des applications créatives immersives. Les évaluations montrent des performances supérieures sur des benchmarks non saturés comme ARC-AGI-2 avec un gain de 31,2 points. Les implications incluent une démocratisation des outils de production multimédia pour créateurs et entreprises.",
-      "why": "Ce lancement accélère la course aux modèles multimodaux, renforçant la position de ByteDance face à des géants comme Google et OpenAI.",
-      "category": "Modèle"
+      "title": "Amazon double ses investissements dans le cloud et l'IA en Espagne avec 18 milliards d'euros supplémentaires",
+      "summary": "Amazon annonce un doublement de ses investissements en Espagne, portant le total à 18 milliards d'euros supplémentaires dédiés au cloud et à l'IA. Cette décision vise à renforcer les infrastructures de données et à soutenir le développement de technologies IA avancées dans la région. Elle s'inscrit dans une stratégie européenne plus large pour concurrencer les leaders mondiaux. Les implications incluent la création d'emplois et une accélération de l'adoption de l'IA en Europe du Sud.",
+      "why": "Cet investissement massif souligne l'engagement des géants tech dans l'expansion IA en Europe, impactant la compétitivité géopolitique et économique.",
+      "category": "Entreprise"
     },
     {
-      "title": "Google publie Lyria 3, son modèle génératif de musique",
-      "summary": "Google a dévoilé Lyria 3, une version améliorée de son modèle de génération musicale, capable de composer des pistes complexes avec styles variés et cohérence émotionnelle. Ce modèle intègre des avancées en apprentissage profond pour simuler instruments et voix réalistes. Il surpasse les versions précédentes sur des métriques d'évaluation comme la similarité humaine et la diversité créative. Les applications couvrent la musique commerciale, les bandes-son et l'assistance aux compositeurs.",
-      "why": "Lyria 3 élève les standards de l'IA créative en musique, impactant l'industrie du divertissement et les outils de production artistique.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Anthropic lance Opus 4.6 avec capacités dépassant les évaluations de risques",
-      "summary": "La version 4.6 d'Opus d'Anthropic montre des bonds spectaculaires sur ARC-AGI-2 (68.8%) et 200 points ELO sur GPDval, indiquant une accélération des capacités vers l'AGI. Le modèle excède désormais les benchmarks de risques, posant des défis aux évaluateurs comme METR. Yoshua Bengio a commenté ces progrès comme confirmant une tendance de doublement des performances tous les 5 mois. Cela soulève des questions urgentes sur l'alignement et la sécurité à grande échelle.",
-      "why": "Ce saut qualitatif confirme l'accélération exponentielle de l'IA, aggravant les enjeux de course aux capacités et de régulation mondiale.",
+      "title": "Rapport Citrini Research provoque panique boursière sur impacts économiques de l'IA aux États-Unis",
+      "summary": "Un rapport de Citrini Research décrit un scénario où l'IA cause une destruction massive d'emplois, entraînant une spirale de baisse des salaires et du pouvoir d'achat. Les marchés financiers américains ont chuté suite à cette analyse prospective pour 2028, affectant actions de logiciels et banques. Bien que présenté comme un scénario hypothétique, il met en lumière les risques d'une 'spirale de remplacement de l'intelligence humaine'. Cela questionne l'optimisme autour de la révolution IA.",
+      "why": "Il révèle les craintes croissantes sur les conséquences socio-économiques de l'IA, influençant directement les marchés et les débats publics.",
       "category": "Recherche"
     },
     {
-      "title": "OpenAI met à jour GPT-5.3-Codex pour la programmation",
-      "summary": "OpenAI a publié une mise à jour de GPT-5.3-Codex, son modèle spécialisé en codage, améliorant la génération de code complexe et la résolution de bugs en temps réel. Bien que mineure, elle optimise les performances sur des tâches réelles comme GPDval. Le modèle supporte désormais plus de langages et intègre des workflows DevOps automatisés. Cela facilite l'adoption en entreprise pour accélérer le développement logiciel.",
-      "why": "Cette mise à jour renforce l'IA comme outil productif clé en programmation, boostant l'efficacité des développeurs et des équipes tech.",
-      "category": "Modèle"
+      "title": "MWC 2026 : Nokia et AWS déploient l'IA agentique pour les réseaux 5G, Orange premier client",
+      "summary": "Au Mobile World Congress 2026, Nokia et AWS annoncent une collaboration pour intégrer l'IA agentique dans les réseaux 5G, améliorant l'automatisation et l'efficacité. Orange figure parmi les premiers clients adoptants cette technologie. Cela prépare les infrastructures télécoms à l'ère post-5G et IA. Les avancées techniques promettent une gestion plus intelligente des flux de données massifs.",
+      "why": "Cette initiative marque l'industrialisation de l'IA dans les télécoms critiques, boostant l'innovation réseau mondiale.",
+      "category": "Application"
     },
     {
-      "title": "Wall Street en baisse persistante due aux doutes sur l'IA et Nvidia",
-      "summary": "Les marchés américains, notamment Nasdaq (-0.92%) et Dow Jones (-1.05%), ont chuté le 27/02/2026 en raison de craintes sur le chamboulement IA et résultats mitigés de Nvidia (-1.6%). Les investisseurs expriment une prudence sur les semi-conducteurs IA comme AMD et Broadcom. Malgré cela, Dell grimpe de 20% grâce à des perspectives IA positives pour 2027. Cela reflète une volatilité croissante autour des investissements massifs en IA.",
-      "why": "Les doutes des marchés signalent un possible ralentissement des investissements IA, impactant les valorisations des leaders tech.",
+      "title": "Géants tech prévoient jusqu'à 665 milliards de dollars d'investissements en IA pour 2026",
+      "summary": "Amazon, Alphabet, Microsoft et Meta accélèrent leurs dépenses en IA, avec un total projeté jusqu'à 665 milliards de dollars en 2026. Ces investissements massifs visent à développer des modèles plus puissants et des infrastructures scalables. Ils répondent à la course aux talents et aux capacités de calcul. Cela renforce la domination des Big Tech dans l'écosystème IA global.",
+      "why": "Ce niveau d'investissement historique accélère la maturité de l'IA mais soulève des questions sur la durabilité économique.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "La Chine mise sur une IA bon marché pour accroître son influence technologique mondiale",
+      "summary": "La Chine développe des solutions IA low-cost via ses laboratoires, visant à rendre le monde dépendant de sa technologie. Ces avancées marquent une période charnière dans la compétition IA sino-américaine. Les modèles abordables démocratisent l'accès mais posent des risques géopolitiques. Cela pourrait altérer les dynamiques de marché en faveur des acteurs chinois.",
+      "why": "Stratégie chinoise disruptive qui challenge la suprématie occidentale en IA et favorise une adoption massive globale.",
       "category": "Entreprise"
     }
   ]
