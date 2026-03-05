@@ -5,7 +5,10 @@ Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 
 import os
 import json
+import smtplib
 import requests
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import base64
 
@@ -79,17 +82,6 @@ def get_ai_news_summaries(history_context=""):
                 "content": f"""Tu es un assistant spécialisé dans les actualités IA.
 
 Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
-RÈGLES SUR LES RÉPÉTITIONS :
-- N'inclus pas une actualité déjà couverte si c'est la même information sans évolution.
-- Inclus-la si l'un de ces critères est rempli :
-  * Sortie officielle d'un modèle/produit annoncé précédemment
-  * Chiffres ou performances significativement différents de ce qui était connu
-  * Revirement stratégique d'une entreprise (rachat, partenariat, abandon)
-  * Réaction en chaîne : d'autres acteurs majeurs réagissent à l'info initiale
-  * Impact réglementaire ou légal nouveau sur le sujet
-  * Incident, faille ou controverse qui change la perception du sujet
-- Dans ce cas, place l'info dans le tableau "updates" du JSON, pas dans "news".
-
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -114,8 +106,22 @@ Format JSON strict :
   ]
 }}
 
-Génère exactement 5 objets dans "news" (nouvelles infos uniquement, jamais de sujets déjà couverts).
-Pour "updates" : entre 0 et 2 objets maximum. Laisse le tableau vide ([]) s'il n'y a pas de mise à jour significative. N'invente pas de mises à jour — inclus uniquement des évolutions réelles et importantes sur des sujets déjà couverts cette semaine.
+RÈGLES STRICTES :
+1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
+   - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
+   - Si le monde de l'IA est calme, prends les sujets les plus importants du moment même s'ils touchent des thèmes déjà vus, mais uniquement si c'est un événement ou une donnée nouvelle.
+   - "news" et "updates" ne doivent jamais couvrir le même sujet.
+
+2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
+   - Ne mettre une update que si l'un de ces critères est rempli :
+     * Sortie officielle d'un modèle/produit annoncé précédemment
+     * Chiffres ou performances significativement différents
+     * Revirement stratégique (rachat, partenariat, abandon)
+     * Réaction en chaîne d'acteurs majeurs
+     * Impact réglementaire ou légal nouveau
+     * Incident, faille ou controverse qui change la perception du sujet
+   - Si aucun critère n'est rempli, laisser "updates" vide : [].
+   - Ne jamais inventer une mise à jour.
 Critères pour une mise à jour : sortie officielle, nouveaux chiffres significatifs, revirement stratégique, réaction en chaîne majeure, impact légal nouveau, incident ou controverse.
 Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
@@ -230,6 +236,49 @@ def push_to_github(data, history):
 # EMAIL
 # ─────────────────────────────────────────
 
+def send_email(date_str, page_url):
+    sender   = os.environ.get('SENDER_EMAIL')
+    password = os.environ.get('EMAIL_PASSWORD')
+    receiver = os.environ.get('RECEIVER_EMAIL')
+
+    if not all([sender, password, receiver]):
+        print("❌ Variables d'environnement email manquantes")
+        return False
+
+    print(f"📧 Envoi de l'email à {receiver}...")
+
+    html = f"""
+    <html>
+    <head><meta charset="UTF-8"></head>
+    <body style="font-family: Georgia, serif; background: #f4f4f0; margin: 0; padding: 40px 20px;">
+      <div style="max-width: 480px; margin: 0 auto; background: white; border-radius: 12px; padding: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <p style="color: #999; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px;">AI Digest · {date_str}</p>
+        <h1 style="font-size: 26px; color: #111; margin: 0 0 16px; line-height: 1.3;">Vos 5 actualités IA du jour sont prêtes</h1>
+        <p style="color: #555; font-size: 15px; line-height: 1.7; margin: 0 0 32px;">Swipez pour découvrir les nouvelles les plus importantes dans le monde de l'intelligence artificielle.</p>
+        <a href="{page_url}" style="display: inline-block; background: #111; color: white; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 15px; font-weight: 500; letter-spacing: 0.5px;">
+          Ouvrir le digest →
+        </a>
+        <p style="color: #bbb; font-size: 12px; margin: 32px 0 0;">Généré automatiquement · Perplexity AI</p>
+      </div>
+    </body>
+    </html>
+    """
+
+    try:
+        msg = MIMEMultipart()
+        msg['Subject'] = f"🤖 Digest IA — {date_str}"
+        msg['From']    = sender
+        msg['To']      = receiver
+        msg.attach(MIMEText(html, 'html', 'utf-8'))
+        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
+            server.login(sender, password)
+            server.send_message(msg)
+        print("✅ Email envoyé avec succès !")
+        return True
+    except Exception as e:
+        print(f"❌ Erreur lors de l'envoi : {e}")
+        return False
+
 
 # ─────────────────────────────────────────
 # MAIN
@@ -268,6 +317,14 @@ def main():
     pushed = push_to_github(data, history)
     if not pushed:
         print("⚠️  Données générées mais non publiées sur GitHub Pages")
+
+    # 5. Envoie l'email
+    repo_str  = os.environ.get('GITHUB_REPO', '')
+    username  = repo_str.split('/')[0] if '/' in repo_str else ''
+    reponame  = repo_str.split('/')[1] if '/' in repo_str else ''
+    page_url  = f"https://{username}.github.io/{reponame}/"
+    date_str  = data.get('date', datetime.now().strftime('%d/%m/%Y'))
+    send_email(date_str, page_url)
 
     print("\n✅ Processus terminé !")
 
