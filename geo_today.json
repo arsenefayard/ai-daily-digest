@@ -2,33 +2,33 @@
   "date": "05/03/2026",
   "news": [
     {
-      "title": "Frappes américano-israéliennes massives contre l'Iran",
-      "summary": "Israël et les États-Unis ont lancé depuis le 1er mars une campagne de bombardements structurée visant les lieux de pouvoir politique, bases des Gardiens de la Révolution, sites militaires, navals et de missiles en Iran, causant au moins 800 morts côté iranien. L'Iran a riposté par des tirs de missiles sur Israël, les monarchies du Golfe, des ambassades américaines et centres de données aux Émirats et Bahreïn. Cette escalade marque une rupture avec les frappes ponctuelles passées, détruisant des capacités balistiques et navales iraniennes. Israël bombarde simultanément le Liban pour de nouveaux déploiements.",
-      "why": "Cette guerre ouverte au Moyen-Orient risque de déstabiliser la région entière, avec des menaces de généralisation impliquant proxies et alliés.",
+      "title": "La Chine fixe un objectif de croissance à 4,5-5% pour 2026, le plus bas en trois décennies",
+      "summary": "Le gouvernement chinois a publié un rapport fixant l'objectif de croissance économique à 4,5-5% pour 2026, le plus faible depuis plus de 30 ans, dans un contexte d'incertitudes intérieures et extérieures liées à la guerre au Moyen-Orient et à la conjoncture mondiale. Cette décision reflète les défis posés par le ralentissement de la consommation domestique, les tensions commerciales persistantes et l'impact des perturbations énergétiques globales. Géopolitiquement, cela pourrait accentuer la dépendance de Pékin aux exportations et influencer sa posture diplomatique plus assertive pour sécuriser les ressources. Les implications incluent un risque accru de tensions sino-américaines si les mesures de relance internes échouent.",
+      "why": "Cet objectif modeste signale une vulnérabilité économique majeure pour la deuxième puissance mondiale, potentiellement affaiblissant son influence géopolitique face aux crises actuelles.",
+      "category": "Économie"
+    },
+    {
+      "title": "L'Iran frappe des groupes kurdes en Irak, étendant la guerre au Moyen-Orient",
+      "summary": "L'Iran a lancé des missiles sur les quartiers généraux de forces kurdes en Irak, en riposte aux frappes américano-israéliennes, provoquant de nouvelles explosions à Téhéran et attisant les craintes d'escalade régionale. Cette action marque une extension du conflit vers l'Irak, impliquant des acteurs non étatiques et risquant d'embraser les zones kurdes transfrontalières. Les enjeux incluent une déstabilisation accrue de l'Irak post-2025 et une possible intervention turque contre les Kurdes. Géopolitiquement, cela complique les alliances US dans la région et renforce les appels à une médiation internationale.",
+      "why": "Cette extension du conflit vers l'Irak risque de transformer une guerre bilatérale en un chaos régional multi-fronts, impactant la stabilité énergétique mondiale.",
       "category": "Conflit"
     },
     {
-      "title": "Macron annonce renforcement de l'arsenal nucléaire français",
-      "summary": "Emmanuel Macron a ordonné l'augmentation du stock d'ogives nucléaires françaises et l'élargissement de la dissuasion à l'Europe, annoncé depuis Brest le 2 mars. Cette décision répond à la sécurité européenne mise à l'épreuve par la guerre russo-ukrainienne et les tensions au Moyen-Orient. Une base française aux Émirats a été ciblée dans les ripostes iraniennes. La France rapatrie ses ressortissants et renforce sa présence militaire régionale.",
-      "why": "Ce pivot nucléaire altère l'équilibre stratégique européen et OTAN, signalant une posture plus agressive face aux menaces multiples.",
-      "category": "Sécurité"
+      "title": "Attaques iraniennes contre des sites américains dans le Golfe persique",
+      "summary": "Téhéran a multiplié les frappes sur l'ambassade US à Ryad, des centres Amazon aux Émirats et à Bahreïn, en réponse à la campagne israélo-américaine lancée samedi. Ces attaques ciblées visent à punir les alliés de Washington dans le Golfe, perturbant les flux commerciaux et énergétiques. Les implications géopolitiques concernent une menace directe sur les monarchies sunnites et un test pour la cohésion de la coalition anti-iranienne. Cela accentue l'angoisse des marchés, avec Wall Street en baisse.",
+      "why": "Ces ripostes directes contre des intérêts US élèvent le risque d'une guerre totale dans le Golfe, menaçant 30% des exportations pétrolières mondiales.",
+      "category": "Conflit"
     },
     {
-      "title": "Flambée des prix de l'énergie due aux perturbations qataries",
-      "summary": "Le Qatar a stoppé ses exportations de GNL et pétrole, faisant bondir le gaz européen de 45% à 46€/MWh et le pétrole brut de 15%. Le trafic de cargos est à l'arrêt au détroit d'Ormuz, vital pour 14-15% des importations GNL européennes post-désengagement russe. L'Europe risque une inflation accrue de 0,3-0,5% en 2026 et concurrence asiatique pour les stocks hivernaux. Wall Street chute sous l'angoisse géopolitique.",
-      "why": "Cette crise énergétique menace la stabilité économique européenne, exacerbant l'inflation et forçant des ajustements monétaires comme des hausses de taux BCE.",
-      "category": "Énergie"
+      "title": "Wall Street chute sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
+      "summary": "La Bourse de New York a fortement baissé mardi, plombée par les craintes d'inflation due à la flambée des prix de l'énergie au quatrième jour du conflit israélo-américain avec l'Iran. Les opérateurs redoutent un impact sur l'économie US via des coûts énergétiques plus élevés et des perturbations logistiques. Géopolitiquement, cela expose la vulnérabilité des marchés occidentaux aux chocs moyen-orientaux et pourrait forcer des ajustements monétaires. Israël poursuit ses bombardements simultanés en Iran et au Liban.",
+      "why": "La panique boursière reflète les retombées économiques immédiates du conflit, potentiellement déclenchant une récession si les hostilités persistent.",
+      "category": "Économie"
     },
     {
-      "title": "Démocrates US dénoncent les frappes de Trump en Iran",
-      "summary": "Chuck Schumer a critiqué au Sénat les frappes américano-israéliennes, initialement visées sur un changement de régime mais recentrées sur des cibles militaires. Manifestations antiguerre éclatent dans les grandes villes US. Trump s'adresse aux médias depuis la Maison Blanche. Les démocrates accusent une escalade injustifiée.",
-      "why": "Cette division interne affaiblit la cohésion US face à l'Iran, influençant le soutien international à l'opération.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Pakistan sous pression entre Iran et Afghanistan",
-      "summary": "Des centaines de Pakistanais fuient les bombardements en Iran vers Islamabad, provoquant manifestations et colère anti-US. Le Pakistan navigue un équilibre délicat avec les affrontements récents contre les talibans afghans. La guerre moyen-orientale impacte directement sa frontière. Téhéran affirme des frappes sur groupes kurdes en Irak.",
-      "why": "Cette contagion risque d'instaurer un arc de crises de l'Afghanistan à l'Iran, déstabilisant l'Asie du Sud.",
+      "title": "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran",
+      "summary": "Israël continue de bombarder simultanément l'Iran et le Liban, avec un déploiement prévu de troupes sur de nouvelles positions libanaises pour contrer le Hezbollah. Cette double offensive vise à neutraliser les proxies iraniens et à sécuriser la frontière nord. Les enjeux incluent un risque d'escalade avec le Liban, déjà fragile, et une surcharge pour Tsahal. Géopolitiquement, cela teste la résolution de Washington et pourrait impliquer d'autres acteurs comme la Syrie.",
+      "why": "L'ouverture d'un front libanais multiplicateur les risques pour Israël et la région, rendant une désescalade diplomatique urgente.",
       "category": "Conflit"
     }
   ],
