@@ -27,11 +27,14 @@ def fetch_history(repo, headers):
     return []  # Pas encore d'historique
 
 
-def update_history(history, new_news):
+def update_history(history, new_news, updates=None):
     """Ajoute les titres du jour et garde seulement les 7 derniers jours"""
+    titles = [item["title"] for item in new_news]
+    if updates:
+        titles += [item["title"] for item in updates]
     today = {
         "date": datetime.now().strftime("%d/%m/%Y"),
-        "titles": [item["title"] for item in new_news]
+        "titles": titles
     }
     history.append(today)
     return history[-7:]  # Garde les 7 derniers jours
@@ -79,7 +82,16 @@ def get_ai_news_summaries(history_context=""):
                 "content": f"""Tu es un assistant spécialisé dans les actualités IA.
 
 Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
-RÈGLE IMPORTANTE : N'inclus pas d'actualités déjà couvertes récemment, sauf si un développement majeur et significatif a eu lieu sur ce sujet (nouvelle version, revirement, impact concret, etc.). Dans ce cas, précise clairement ce qui a changé.
+RÈGLES SUR LES RÉPÉTITIONS :
+- N'inclus pas une actualité déjà couverte si c'est la même information sans évolution.
+- Inclus-la si l'un de ces critères est rempli :
+  * Sortie officielle d'un modèle/produit annoncé précédemment
+  * Chiffres ou performances significativement différents de ce qui était connu
+  * Revirement stratégique d'une entreprise (rachat, partenariat, abandon)
+  * Réaction en chaîne : d'autres acteurs majeurs réagissent à l'info initiale
+  * Impact réglementaire ou légal nouveau sur le sujet
+  * Incident, faille ou controverse qui change la perception du sujet
+- Dans ce cas, place l'info dans le tableau "updates" du JSON, pas dans "news".
 
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
@@ -93,10 +105,21 @@ Format JSON strict :
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Modèle|Entreprise|Recherche|Application|Régulation"
     }}
+  ],
+  "updates": [
+    {{
+      "title": "Titre de la mise à jour",
+      "original": "Sujet original couvert récemment",
+      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "why": "Pourquoi ce changement est important.",
+      "category": "Modèle|Entreprise|Recherche|Application|Régulation"
+    }}
   ]
 }}
 
-Génère exactement 5 objets dans "news".
+Génère exactement 5 objets dans "news" (nouvelles infos uniquement, jamais de sujets déjà couverts).
+Pour "updates" : entre 0 et 2 objets maximum. Laisse le tableau vide ([]) s'il n'y a pas de mise à jour significative. N'invente pas de mises à jour — inclus uniquement des évolutions réelles et importantes sur des sujets déjà couverts cette semaine.
+Critères pour une mise à jour : sortie officielle, nouveaux chiffres significatifs, revirement stratégique, réaction en chaîne majeure, impact légal nouveau, incident ou controverse.
 Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
@@ -284,8 +307,8 @@ def main():
         print("❌ Impossible de générer les résumés")
         return
 
-    # 3. Met à jour l'historique avec les news du jour
-    history = update_history(history, data.get("news", []))
+    # 3. Met à jour l'historique avec les news et mises à jour du jour
+    history = update_history(history, data.get("news", []), data.get("updates", []))
 
     # 4. Pousse sur GitHub Pages
     pushed = push_to_github(data, history)
