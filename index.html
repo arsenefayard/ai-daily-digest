@@ -59,8 +59,9 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   min-height: 0;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow: visible;
   gap: 10px;
+  padding-bottom: 2px;
 }
 .card-body {
   font-size: 14px;
@@ -83,6 +84,7 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   min-height: 0;
   max-height: 30%;
   overflow: hidden;
+  margin-bottom: 2px;
 }
 .why-text {
   font-size: 13px;
@@ -94,6 +96,37 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
+/* ── UPDATE CARD ── */
+.card.update-card {
+  border-color: rgba(251,191,36,0.2);
+  background: #0f1008;
+}
+.update-badge {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px; letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 3px 8px; border-radius: 20px;
+  background: rgba(251,191,36,0.1);
+  border: 1px solid rgba(251,191,36,0.3);
+  color: #fbbf24;
+  flex-shrink: 0;
+}
+.update-origin {
+  font-size: 11px;
+  color: rgba(251,191,36,0.5);
+  font-family: 'DM Mono', monospace;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+.card.update-card .why-box {
+  background: rgba(251,191,36,0.05);
+  border-color: rgba(251,191,36,0.15);
+}
+.card.update-card .why-text {
+  color: rgba(251,191,36,0.85);
+}
+.card.update-card .why-icon::before { content: "🔄"; }
+.card.update-card .why-icon { font-style: normal; }
 .why-icon { font-size:13px; flex-shrink:0; margin-top:2px; }
 
 footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-index:50; display:flex; align-items:center; justify-content:center; gap:16px; pointer-events:none; }
@@ -153,27 +186,37 @@ let slides = [], cur = 0;
 
 
 
-function buildSlides(news) {
+function buildSlides(data) {
   slides = [];
+  const news    = data.news    || [];
+  const updates = data.updates || [];
   news.forEach((item, i) => {
-    slides.push({ newsIdx:i, part:'single', item });
+    slides.push({ newsIdx:i, part:'single', item, isUpdate:false });
+  });
+  updates.forEach((item, i) => {
+    slides.push({ newsIdx: news.length + i, part:'single', item, isUpdate:true });
   });
 }
 
 const stage = document.getElementById('stage');
 
 function makeCard(slide, idx) {
-  const { newsIdx, item } = slide;
+  const { newsIdx, item, isUpdate } = slide;
   const color = COLORS[item.category] || 'var(--accent)';
   const div = document.createElement('div');
-  div.className = 'card';
+  div.className = 'card' + (isUpdate ? ' update-card' : '');
   div.dataset.idx = idx;
+
+  const numLabel = isUpdate
+    ? '<span class="update-badge">Mise à jour</span>'
+    : `<span class="card-num">0${newsIdx+1}</span>`;
+
   div.innerHTML = `
     <div class="card-meta">
-      <span class="card-num">0${newsIdx+1}</span>
+      ${numLabel}
       <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
     </div>
-    <div class="divider"></div>
+    ${isUpdate && item.original ? `<div class="update-origin">↳ suite : ${item.original}</div>` : '<div class="divider"></div>'}
     <div class="card-title">${item.title}</div>
     <div class="card-content">
       <div class="card-body">${item.summary}</div>
@@ -218,7 +261,10 @@ function updateChrome() {
     dotsEl.appendChild(d);
   });
   const newsTotal = slides.length;
-  document.getElementById('counter').textContent = `${cur+1}/${newsTotal}`;
+  const isUpd = slides[cur] && slides[cur].isUpdate;
+  document.getElementById('counter').textContent = isUpd
+    ? `MAJ ${slides.filter((s,i) => s.isUpdate && i <= cur).length}/${slides.filter(s => s.isUpdate).length}`
+    : `${cur+1}/${slides.filter(s => !s.isUpdate).length}`;
   document.getElementById('hint-l').className = 'hint' + (cur > 0 ? ' on' : '');
   document.getElementById('hint-r').className = 'hint' + (cur < slides.length-1 ? ' on' : '');
 }
@@ -317,7 +363,7 @@ window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='Arr
   try { const r=await fetch('today.json?t='+Date.now()); if(!r.ok) throw new Error(); data=await r.json(); }
   catch { loading.style.opacity='0'; setTimeout(()=>{ loading.style.display='none'; errorState.style.display='flex'; },400); return; }
   document.getElementById('header-date').textContent=data.date||'';
-  buildSlides(data.news||[]);
+  buildSlides(data);
   renderAll();
   loading.style.opacity='0';
   setTimeout(()=>loading.style.display='none',500);
