@@ -1,0 +1,36 @@
+{
+  "date": "05/03/2026",
+  "news": [
+    {
+      "title": "Frappes américano-israéliennes massives contre l'Iran",
+      "summary": "Israël et les États-Unis ont lancé depuis le 1er mars une campagne de bombardements structurée visant les lieux de pouvoir politique, bases des Gardiens de la Révolution, sites militaires, navals et de missiles en Iran, causant au moins 800 morts côté iranien. L'Iran a riposté par des tirs de missiles sur Israël, les monarchies du Golfe, des ambassades américaines et centres de données aux Émirats et Bahreïn. Cette escalade marque une rupture avec les frappes ponctuelles passées, détruisant des capacités balistiques et navales iraniennes. Israël bombarde simultanément le Liban pour de nouveaux déploiements.",
+      "why": "Cette guerre ouverte au Moyen-Orient risque de déstabiliser la région entière, avec des menaces de généralisation impliquant proxies et alliés.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Macron annonce renforcement de l'arsenal nucléaire français",
+      "summary": "Emmanuel Macron a ordonné l'augmentation du stock d'ogives nucléaires françaises et l'élargissement de la dissuasion à l'Europe, annoncé depuis Brest le 2 mars. Cette décision répond à la sécurité européenne mise à l'épreuve par la guerre russo-ukrainienne et les tensions au Moyen-Orient. Une base française aux Émirats a été ciblée dans les ripostes iraniennes. La France rapatrie ses ressortissants et renforce sa présence militaire régionale.",
+      "why": "Ce pivot nucléaire altère l'équilibre stratégique européen et OTAN, signalant une posture plus agressive face aux menaces multiples.",
+      "category": "Sécurité"
+    },
+    {
+      "title": "Flambée des prix de l'énergie due aux perturbations qataries",
+      "summary": "Le Qatar a stoppé ses exportations de GNL et pétrole, faisant bondir le gaz européen de 45% à 46€/MWh et le pétrole brut de 15%. Le trafic de cargos est à l'arrêt au détroit d'Ormuz, vital pour 14-15% des importations GNL européennes post-désengagement russe. L'Europe risque une inflation accrue de 0,3-0,5% en 2026 et concurrence asiatique pour les stocks hivernaux. Wall Street chute sous l'angoisse géopolitique.",
+      "why": "Cette crise énergétique menace la stabilité économique européenne, exacerbant l'inflation et forçant des ajustements monétaires comme des hausses de taux BCE.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Démocrates US dénoncent les frappes de Trump en Iran",
+      "summary": "Chuck Schumer a critiqué au Sénat les frappes américano-israéliennes, initialement visées sur un changement de régime mais recentrées sur des cibles militaires. Manifestations antiguerre éclatent dans les grandes villes US. Trump s'adresse aux médias depuis la Maison Blanche. Les démocrates accusent une escalade injustifiée.",
+      "why": "Cette division interne affaiblit la cohésion US face à l'Iran, influençant le soutien international à l'opération.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Pakistan sous pression entre Iran et Afghanistan",
+      "summary": "Des centaines de Pakistanais fuient les bombardements en Iran vers Islamabad, provoquant manifestations et colère anti-US. Le Pakistan navigue un équilibre délicat avec les affrontements récents contre les talibans afghans. La guerre moyen-orientale impacte directement sa frontière. Téhéran affirme des frappes sur groupes kurdes en Irak.",
+      "why": "Cette contagion risque d'instaurer un arc de crises de l'Afghanistan à l'Iran, déstabilisant l'Asie du Sud.",
+      "category": "Conflit"
+    }
+  ],
+  "updates": []
+}
