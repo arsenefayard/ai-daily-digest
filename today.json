@@ -3,33 +3,34 @@
   "news": [
     {
       "title": "Amazon double ses investissements dans le cloud et l'IA en Espagne avec 18 milliards d'euros supplémentaires",
-      "summary": "Amazon annonce un doublement de ses investissements en Espagne, portant le total à 18 milliards d'euros supplémentaires dédiés au cloud et à l'IA. Cette décision vise à renforcer les infrastructures de données et à soutenir le développement de technologies IA avancées dans la région. Elle s'inscrit dans une stratégie européenne plus large pour concurrencer les leaders mondiaux. Les implications incluent la création d'emplois et une accélération de l'adoption de l'IA en Europe du Sud.",
-      "why": "Cet investissement massif souligne l'engagement des géants tech dans l'expansion IA en Europe, impactant la compétitivité géopolitique et économique.",
+      "summary": "Amazon a annoncé un doublement de ses investissements en Espagne, portant le total à 18 milliards d'euros supplémentaires dédiés au cloud et à l'intelligence artificielle. Cette injection massive vise à étendre les infrastructures AWS dans le pays, renforçant les capacités de calcul pour les applications IA. L'annonce intervient dans un contexte de compétition accrue pour les data centers en Europe, où l'Espagne bénéficie d'une énergie renouvelable abondante. Cela positionne Amazon comme un acteur clé pour soutenir les startups et entreprises européennes en IA.",
+      "why": "Cet investissement massif souligne la course aux infrastructures IA en Europe et pourrait accélérer l'adoption de l'IA dans la région, impactant la souveraineté numérique.",
       "category": "Entreprise"
     },
     {
-      "title": "Rapport Citrini Research provoque panique boursière sur impacts économiques de l'IA aux États-Unis",
-      "summary": "Un rapport de Citrini Research décrit un scénario où l'IA cause une destruction massive d'emplois, entraînant une spirale de baisse des salaires et du pouvoir d'achat. Les marchés financiers américains ont chuté suite à cette analyse prospective pour 2028, affectant actions de logiciels et banques. Bien que présenté comme un scénario hypothétique, il met en lumière les risques d'une 'spirale de remplacement de l'intelligence humaine'. Cela questionne l'optimisme autour de la révolution IA.",
-      "why": "Il révèle les craintes croissantes sur les conséquences socio-économiques de l'IA, influençant directement les marchés et les débats publics.",
-      "category": "Recherche"
-    },
-    {
-      "title": "MWC 2026 : Nokia et AWS déploient l'IA agentique pour les réseaux 5G, Orange premier client",
-      "summary": "Au Mobile World Congress 2026, Nokia et AWS annoncent une collaboration pour intégrer l'IA agentique dans les réseaux 5G, améliorant l'automatisation et l'efficacité. Orange figure parmi les premiers clients adoptants cette technologie. Cela prépare les infrastructures télécoms à l'ère post-5G et IA. Les avancées techniques promettent une gestion plus intelligente des flux de données massifs.",
-      "why": "Cette initiative marque l'industrialisation de l'IA dans les télécoms critiques, boostant l'innovation réseau mondiale.",
+      "title": "MWC 2026 : Nokia et AWS déploient l'IA agentique pour les réseaux 5G, avec Orange comme premier client",
+      "summary": "Au Mobile World Congress 2026, Nokia et Amazon Web Services ont présenté une solution intégrant l'IA agentique pour optimiser les réseaux 5G, permettant une gestion autonome et proactive des flux de données. Orange figure parmi les premiers clients à tester cette technologie, visant à améliorer la latence et l'efficacité des réseaux pour les applications IA en temps réel. Cette collaboration s'inscrit dans la transition vers des infrastructures 'IA-native' pour supporter l'explosion des usages comme la réalité augmentée et les véhicules autonomes. L'approche agentique permet aux IA de prendre des décisions indépendantes au sein des réseaux.",
+      "why": "Cette avancée marque l'industrialisation de l'IA dans les télécoms, essentielle pour les futures applications 6G et l'économie numérique.",
       "category": "Application"
     },
     {
-      "title": "Géants tech prévoient jusqu'à 665 milliards de dollars d'investissements en IA pour 2026",
-      "summary": "Amazon, Alphabet, Microsoft et Meta accélèrent leurs dépenses en IA, avec un total projeté jusqu'à 665 milliards de dollars en 2026. Ces investissements massifs visent à développer des modèles plus puissants et des infrastructures scalables. Ils répondent à la course aux talents et aux capacités de calcul. Cela renforce la domination des Big Tech dans l'écosystème IA global.",
-      "why": "Ce niveau d'investissement historique accélère la maturité de l'IA mais soulève des questions sur la durabilité économique.",
+      "title": "Qualcomm dévoile FastConnect 8800, première puce mobile Wi-Fi 8 pour l'ère de l'IA",
+      "summary": "Qualcomm a lancé le FastConnect 8800, sa première puce compatible Wi-Fi 8, offrant des vitesses doublées et une portée triplée par rapport à la génération précédente. Intégrant Bluetooth 7, UWB et Thread 1.5, elle est conçue pour supporter les exigences des appareils IA embarqués avec une connectivité ultra-fiable. Cette technologie prépare les smartphones et objets connectés à des usages intensifs en IA, comme le traitement edge computing. Présentée dans le cadre du MWC 2026, elle accélère l'adoption des réseaux next-gen.",
+      "why": "Le Wi-Fi 8 est crucial pour décentraliser l'IA sur les appareils mobiles, réduisant la dépendance au cloud et améliorant la privacy.",
+      "category": "Recherche"
+    },
+    {
+      "title": "Rapport choc aux USA : l'IA saccage l'emploi et ébranle l'optimisme économique",
+      "summary": "Un rapport de Citrini Research a provoqué une chute des bourses des secteurs logiciel et bancaire, décrivant l'IA comme responsable d'une destruction massive d'emplois et d'une économie 'mise à terre'. Analysé dans Le Figaro, il met en lumière les impacts sur le marché du travail américain, avec des usages militaires et économiques accélérés. Cette 'folle semaine' révèle un revirement d'optimisme envers la révolution IA, soulignant des inégalités croissantes. Les implications touchent aussi l'Europe, où des régulations sont débattues.",
+      "why": "Ce rapport remet en question le narratif positif de l'IA, influençant les politiques publiques et les investissements globaux.",
       "category": "Entreprise"
     },
     {
-      "title": "La Chine mise sur une IA bon marché pour accroître son influence technologique mondiale",
-      "summary": "La Chine développe des solutions IA low-cost via ses laboratoires, visant à rendre le monde dépendant de sa technologie. Ces avancées marquent une période charnière dans la compétition IA sino-américaine. Les modèles abordables démocratisent l'accès mais posent des risques géopolitiques. Cela pourrait altérer les dynamiques de marché en faveur des acteurs chinois.",
-      "why": "Stratégie chinoise disruptive qui challenge la suprématie occidentale en IA et favorise une adoption massive globale.",
+      "title": "La France s'impose comme leader numérique avec 322 data centers au cœur de la compétition IA",
+      "summary": "Science & Vie met en avant la position stratégique de la France dans la puissance numérique, avec 322 data centers attirant des capitaux étrangers grâce à sa géographie et ses infrastructures. L'essor de l'IA transforme cet enjeu en priorité géopolitique, équilibrant attractivité, techniques et contraintes énergétiques. Des initiatives comme le consortium Oréus près de Grenoble renforcent la souveraineté européenne. Cela positionne la France comme hub pour les géants tech investissant en calcul haute performance.",
+      "why": "La France émerge comme pivot européen en IA, crucial pour contrer la domination US-Chine en infrastructures critiques.",
       "category": "Entreprise"
     }
-  ]
+  ],
+  "updates": []
 }
