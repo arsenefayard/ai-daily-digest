@@ -5,10 +5,7 @@ Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 
 import os
 import json
-import smtplib
 import requests
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 import base64
 
@@ -233,49 +230,6 @@ def push_to_github(data, history):
 # EMAIL
 # ─────────────────────────────────────────
 
-def send_email(date_str, page_url):
-    sender   = os.environ.get('SENDER_EMAIL')
-    password = os.environ.get('EMAIL_PASSWORD')
-    receiver = os.environ.get('RECEIVER_EMAIL')
-
-    if not all([sender, password, receiver]):
-        print("❌ Variables d'environnement email manquantes")
-        return False
-
-    print(f"📧 Envoi de l'email à {receiver}...")
-
-    html = f"""
-    <html>
-    <head><meta charset="UTF-8"></head>
-    <body style="font-family: Georgia, serif; background: #f4f4f0; margin: 0; padding: 40px 20px;">
-      <div style="max-width: 480px; margin: 0 auto; background: white; border-radius: 12px; padding: 40px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-        <p style="color: #999; font-size: 13px; letter-spacing: 2px; text-transform: uppercase; margin: 0 0 16px;">AI Digest · {date_str}</p>
-        <h1 style="font-size: 26px; color: #111; margin: 0 0 16px; line-height: 1.3;">Vos 5 actualités IA du jour sont prêtes</h1>
-        <p style="color: #555; font-size: 15px; line-height: 1.7; margin: 0 0 32px;">Swipez pour découvrir les nouvelles les plus importantes dans le monde de l'intelligence artificielle.</p>
-        <a href="{page_url}" style="display: inline-block; background: #111; color: white; text-decoration: none; padding: 14px 28px; border-radius: 8px; font-size: 15px; font-weight: 500; letter-spacing: 0.5px;">
-          Ouvrir le digest →
-        </a>
-        <p style="color: #bbb; font-size: 12px; margin: 32px 0 0;">Généré automatiquement · Perplexity AI</p>
-      </div>
-    </body>
-    </html>
-    """
-
-    try:
-        msg = MIMEMultipart()
-        msg['Subject'] = f"🤖 Digest IA — {date_str}"
-        msg['From']    = sender
-        msg['To']      = receiver
-        msg.attach(MIMEText(html, 'html', 'utf-8'))
-        with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
-            server.login(sender, password)
-            server.send_message(msg)
-        print("✅ Email envoyé avec succès !")
-        return True
-    except Exception as e:
-        print(f"❌ Erreur lors de l'envoi : {e}")
-        return False
-
 
 # ─────────────────────────────────────────
 # MAIN
@@ -314,14 +268,6 @@ def main():
     pushed = push_to_github(data, history)
     if not pushed:
         print("⚠️  Données générées mais non publiées sur GitHub Pages")
-
-    # 5. Envoie l'email
-    repo_str  = os.environ.get('GITHUB_REPO', '')
-    username  = repo_str.split('/')[0] if '/' in repo_str else ''
-    reponame  = repo_str.split('/')[1] if '/' in repo_str else ''
-    page_url  = f"https://{username}.github.io/{reponame}/"
-    date_str  = data.get('date', datetime.now().strftime('%d/%m/%Y'))
-    send_email(date_str, page_url)
 
     print("\n✅ Processus terminé !")
 
