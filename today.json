@@ -1,20 +1,36 @@
 {
   "date": "05/03/2026",
-  "news": [],
-  "updates": [
+  "news": [
     {
-      "title": "Amazon double ses investissements dans le cloud et l'IA en Espagne avec 18 milliards d'euros supplémentaires",
-      "original": "Amazon double ses investissements dans le cloud et l'IA en Espagne avec 18 milliards d'euros supplémentaires",
-      "summary": "L'annonce d'Amazon est confirmée et relayée aujourd'hui par plusieurs sources comme Arcep et AFP, soulignant l'engagement massif dans le cloud et l'IA en Espagne. Cela s'inscrit dans une stratégie européenne plus large face à la concurrence accrue. Les implications incluent un renforcement des infrastructures IA en Europe du Sud.",
-      "why": "Confirme un investissement stratégique majeur qui booste la capacité IA européenne, avec écho persistant dans la presse du jour.",
+      "title": "Inde officialise la 'New Delhi Declaration on AI Impact' après l'AI Impact Summit",
+      "summary": "Le 21 février 2026, suite à l'AI Impact Summit des 18-19 février, l'Inde a publié la New Delhi Declaration on AI Impact, marquant l'entrée du Sud global dans la gouvernance de l'IA via des coalitions internationales. Ce document stratégique aligne les pays émergents sur des normes communes en matière d'impact sociétal et économique de l'IA. Il souligne une compétition non plus seulement technique mais géopolitique, avec des ralliements autour de principes éthiques et de développement inclusif. Cette déclaration positionne l'Inde comme leader des pays en développement dans la fabrique des règles mondiales de l'IA.",
+      "why": "Elle signale le basculement de la gouvernance IA vers des coalitions multipolaires, influençant les futures régulations globales.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Marché français de l'assurance s'organise face aux risques IA comme le data poisoning et les hallucinations",
+      "summary": "Publié le 3 mars 2026, un article détaille comment les assureurs français adaptent leurs couvertures aux nouveaux risques IA tels que le data poisoning et les hallucinations des modèles. Le marché reste fragmenté avec des conditions strictes, tandis que des acteurs comme AIG excluent ces risques aux USA, contrastant avec des offres émergentes en Europe. Les données manquent encore pour évaluer précisément ces menaces, freinant une tarification adéquate. La Geneva Association note un rôle croissant de l'assurance dans la mitigation des risques GenAI pour les entreprises.",
+      "why": "Cela révèle l'immaturité du secteur face à l'essor rapide de l'IA, avec des implications pour la cybersécurité et la responsabilité des entreprises.",
+      "category": "Application"
+    },
+    {
+      "title": "Février 2026 : l'IA devient une 'force de travail' avec le lancement d'OpenAI Frontier et 4 modèles frontier en 14 jours",
+      "summary": "En février 2026, OpenAI a lancé Frontier, une plateforme pour déployer des armées d'agents IA, transformant l'IA en force de travail complète plutôt qu'en simple outil. Quatre modèles frontier (Claude 4.6, GPT-5.3, Gemini 3.1) sont sortis en 14 jours, chacun spécialisé, rendant obsolète la quête du 'meilleur' modèle au profit d'architectures hybrides. La Chine domine avec 61% des tokens sur OpenRouter, et les investissements cloud atteignent 700 milliards de dollars. NVIDIA's Vera Rubin offre 10x d'efficacité énergétique, démocratisant la puissance de calcul.",
+      "why": "Ce basculement redéfinit les opérations d'entreprise, accélérant l'automatisation massive et la compétition mondiale.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Projet Stargate UAE : OpenAI, Oracle et NVIDIA construisent une infrastructure IA de 1 gigawatt à Abu Dhabi",
+      "summary": "Le projet Stargate UAE, partenariat entre OpenAI, Oracle, NVIDIA et d'autres, déploie à Abu Dhabi une infrastructure de calcul IA d'1 gigawatt, illustrant une géopolitique de l'IA. Ce méga-centre vise à positionner les Émirats comme hub computationnel mondial. Parallèlement, le consortium français Oréus lance un centre près de Grenoble pour la souveraineté européenne. Ces initiatives soulignent la course aux data centers hyperscalables pour soutenir les modèles frontier.",
+      "why": "Elles accentuent la fragmentation géopolitique des ressources IA, impactant l'accès à la puissance de calcul.",
       "category": "Entreprise"
     },
     {
-      "title": "Rapport choc aux USA : l'IA saccage l'emploi et ébranle l'optimisme économique",
-      "original": "Rapport choc aux USA : l'IA saccage l'emploi et ébranle l'optimisme économique",
-      "summary": "Le rapport de Citrini Research continue dimpacter les marchés, avec des chutes boursières prolongées chez les logiciels et banques, comme détaillé par Le Figaro et Futura-Sciences. Il décrit une spirale où l'IA accélère la perte d'emplois, réduisant le pouvoir d'achat et le PIB. Les auteurs insistent sur son caractère prospectif pour 2028, mais le panic persiste.",
-      "why": "L'écho amplifié aujourd'hui montre un revirement dans la perception économique de l'IA, influençant les investisseurs mondialement.",
+      "title": "MWC 2026 : Nokia et AWS déploient l'IA agentique pour les réseaux 5G avec Orange comme premier client",
+      "summary": "Au MWC 2026, Nokia et AWS annoncent le déploiement d'IA agentique pour optimiser les réseaux 5G, avec Orange comme premier client pilote. Cette technologie autonome gère dynamiquement la bande passante, la latence et la sécurité pour l'ère post-5G. L'événement marque aussi l'essor des terminaux 'post-smartphone' et l'industrialisation de l'IA. Qualcomm présente parallèlement le FastConnect 8800 pour Wi-Fi 8, adapté aux besoins IA.",
+      "why": "Cela propulse les télécoms dans l'ère agentique, habilitant des applications IA en temps réel à grande échelle.",
       "category": "Application"
     }
-  ]
+  ],
+  "updates": []
 }
