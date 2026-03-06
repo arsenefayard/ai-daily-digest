@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Festival Écrans Mixtes célèbre le cinéma queer à Lyon",
-      "summary": "La 16e édition du Festival Écrans Mixtes se tient du 4 au 12 mars 2026 dans 25 lieux de Lyon et sa métropole. Elle propose près de 60 films incluant courts-métrages, longs-métrages, documentaires et fictions explorant une large palette du cinéma queer. Ce rendez-vous immersif met en lumière des œuvres variées pour sensibiliser à la diversité des identités. Il attire un public curieux de découvertes cinématographiques audacieuses.",
-      "why": "Cet événement renforce la visibilité culturelle queer en France, favorisant l'inclusion et le dialogue sociétal autour de la diversité sexuelle.",
-      "category": "Cinéma"
+      "title": "La découverte de la structure de l'ADN par Watson et Crick",
+      "summary": "Le 25 avril 1953, James Watson et Francis Crick publient la structure en double hélice de l'ADN, fruit d'une collaboration avec Rosalind Franklin dont les données de diffraction des rayons X ont été cruciales. Cette molécule porteuse d'information génétique révolutionne la biologie moléculaire. Elle explique la réplication fidèle de l'information héréditaire lors de la division cellulaire. Ce modèle prédit les mécanismes de mutation et ouvre la voie à la génétique moderne.",
+      "why": "Cette avancée fondatrice de la biologie contemporaine permet aujourd'hui les thérapies géniques et la compréhension des maladies héréditaires.",
+      "category": "Science pop"
     },
     {
-      "title": "Exposition sur les momies au musée de l’Homme",
-      "summary": "Le musée de l’Homme présente une exposition temporaire sur les momies, dépassant l'imaginaire égyptien antique. Cette pratique ancestrale de momification est explorée à travers des traces découvertes dans plusieurs pays et époques du monde. L'exposition ravive un imaginaire riche tout en apportant un éclairage scientifique sur ces rituels funéraires. Elle invite à une réflexion sur les pratiques humaines universelles face à la mort.",
-      "why": "Elle déconstruit les stéréotypes pour offrir une vision globale et scientifique d'une pratique culturelle méconnue.",
-      "category": "Histoire"
+      "title": "Le paradoxe de Zénon d'Élée sur Achille et la tortue",
+      "summary": "Zénon d'Élée, philosophe présocratique du Ve siècle av. J.-C., formule ce paradoxe pour défendre l'idée que le mouvement est une illusion. Achille, plus rapide, ne peut rattraper une tortue partie avant lui car il doit d'abord parcourir la moitié de la distance, puis la moitié de la moitié, à l'infini. Mathématiquement, cela illustre les séries infinies convergentes résolues par les limites au XVIIe siècle. Ce casse-tête questionne la nature du temps et de l'espace.",
+      "why": "Il stimule la philosophie du mouvement et inspire les mathématiques modernes des infiniment petits.",
+      "category": "Philosophie"
     },
     {
-      "title": "Marcoville expose des sculptures en verre recyclé à Marseille",
-      "summary": "La cathédrale de la Major à Marseille accueille une exposition de Marcoville, artiste utilisant exclusivement des matériaux de rebut comme le verre. Ses installations gigantesques, composées de dizaines de milliers de pièces, créent une relation intime avec le spectateur. Cette démarche éco-responsable transforme les déchets en œuvres monumentales et poétiques. L'événement met en scène un souffle artistique unique dans un lieu patrimonial.",
-      "why": "Elle illustre l'art contemporain engagé pour le recyclage, inspirant une conscience écologique à travers la beauté.",
+      "title": "Le Minotaure, monstre mi-homme mi-taureau de la mythologie grecque",
+      "summary": "Enfermé dans le Labyrinthe de Crète par le roi Minos, le Minotaure naît de l'union contre-nature de Pasiphaé et d'un taureau envoyé par Poséidon. Chaque année, il dévore des jeunes Athéniens offerts en tribut jusqu'à ce que Thésée le tue avec l'aide d'Ariane et de son fil. Ce mythe symbolise la lutte contre les pulsions bestiales et l'astuce humaine. Il inspire de nombreuses œuvres artistiques et littéraires.",
+      "why": "Il explore les thèmes universels de la raison face à la sauvagerie et de la quête initiatique.",
+      "category": "Mythologie"
+    },
+    {
+      "title": "La plus longue rivière souterraine du monde au Mexique",
+      "summary": "Le Système Sac Actun, découvert en 2018 mais exploré depuis des décennies, s'étend sur 347 km dans le Yucatán mexicain, reliant 358 grottes. Formé par l'érosion karstique sous la jungle, il abrite des cenotes sacrés pour les Mayas. C'est un écosystème unique avec espèces endémiques adaptées à l'obscurité. Sa longueur dépasse celle de la rivière Puerto Princesa aux Philippines.",
+      "why": "Ce record souligne la vastitude cachée des mondes souterrains et l'importance de leur préservation.",
       "category": "Insolite"
     },
     {
-      "title": "Ematsuri : festival gratuit de culture japonaise en Val d'Oise",
-      "summary": "Les 7 et 8 mars 2026, Beaumont-sur-Oise devient un matsuri avec ateliers de cuisine japonaise, cosplay et manga à dessiner. Cet événement gratuit immerge le public dans la pop culture nippone de manière accessible et festive. Il propose une variété d'activités pour tous les âges, favorisant les échanges culturels. C'est une occasion rare de vivre l'énergie japonaise aux portes de Paris.",
-      "why": "Il démocratise la culture japonaise en rendant la pop culture gratuite et interactive, renforçant les liens franco-nippons.",
-      "category": "Société"
-    },
-    {
-      "title": "Urban Art Fair : Oli de Bigflo & Oli inaugure un espace dédié",
-      "summary": "Pour ses 10 ans, l'Urban Art Fair au Carreau du Temple du 19 au 22 mars 2026 met en avant Oli du duo Bigflo & Oli avec un espace dédié. De nombreux artistes urbains exposent leurs œuvres dans une ambiance festive. Cette édition anniversaire introduit des nouveautés pour célébrer le street art. Elle attire amateurs et collectionneurs dans un cadre dynamique.",
-      "why": "La participation d'une star du rap toulousain popularise l'art urbain auprès d'un public jeune et diversifié.",
-      "category": "Littérature"
+      "title": "L'effet Dunning-Kruger en psychologie cognitive",
+      "summary": "Décrit en 1999 par David Dunning et Justin Kruger, cet effet montre que les personnes les moins compétentes surestiment leurs aptitudes en raison d'une incapacité à évaluer leur propre incompétence. Inversement, les experts sous-estiment souvent leurs savoirs. Des expériences révèlent que l'entraînement améliore l'auto-évaluation. Il explique de nombreux biais dans les jugements sociaux et professionnels.",
+      "why": "Comprendre ce biais aide à promouvoir l'humilité et une meilleure prise de décision collective.",
+      "category": "Psychologie"
     }
   ],
   "updates": []
