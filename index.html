@@ -134,26 +134,11 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   line-height: 1.7;
   color: rgba(200,240,100,0.9);
   font-weight: 400;
-  padding-right: 28px;
 }
 #why-overlay.update-mode #why-expanded-text {
   color: rgba(251,191,36,0.9);
 }
-#why-close {
-  position: absolute;
-  top: 12px; right: 14px;
-  width: 26px; height: 26px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.08);
-  border: none;
-  color: rgba(255,255,255,0.5);
-  font-size: 14px;
-  cursor: pointer;
-  display: flex; align-items: center; justify-content: center;
-  line-height: 1;
-  transition: background 0.2s;
-}
-#why-close:hover { background: rgba(255,255,255,0.15); }
+
 
 /* ── WHY BOX CLICKABLE ── */
 .why-box {
@@ -256,7 +241,6 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 <!-- Why expanded overlay -->
 <div id="why-overlay">
   <div id="why-expanded">
-    <button id="why-close">✕</button>
     <p id="why-expanded-text"></p>
   </div>
 </div>
@@ -458,8 +442,6 @@ window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='Arr
 /* ── WHY OVERLAY ── */
 const whyOverlay = document.getElementById('why-overlay');
 const whyExpandedText = document.getElementById('why-expanded-text');
-const whyClose = document.getElementById('why-close');
-
 document.addEventListener('click', e => {
   const box = e.target.closest('.why-box');
   if (!box || !box.classList.contains('expandable')) return;
@@ -469,10 +451,6 @@ document.addEventListener('click', e => {
   const card = box.closest('.card');
   whyOverlay.classList.toggle('update-mode', card && card.classList.contains('update-card'));
   whyOverlay.classList.add('open');
-});
-
-whyClose.addEventListener('click', () => {
-  whyOverlay.classList.remove('open');
 });
 
 whyOverlay.addEventListener('click', e => {
