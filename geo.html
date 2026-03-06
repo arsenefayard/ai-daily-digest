@@ -96,7 +96,73 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
-/* ── UPDATE CARD ── */
+/* ── WHY EXPANDED OVERLAY ── */
+#why-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  background: rgba(6,8,13,0.85);
+  backdrop-filter: blur(8px);
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+#why-overlay.open {
+  display: flex;
+}
+#why-expanded {
+  background: rgba(96,200,240,0.05);
+  border: 1px solid rgba(96,200,240,0.2);
+  border-radius: 16px;
+  padding: 20px 20px 20px 20px;
+  max-width: 480px;
+  width: 100%;
+  position: relative;
+  animation: expandIn 0.25s cubic-bezier(0.22,1,0.36,1);
+}
+#why-overlay.update-mode #why-expanded {
+  background: rgba(251,191,36,0.05);
+  border-color: rgba(251,191,36,0.2);
+}
+@keyframes expandIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
+}
+#why-expanded-text {
+  font-size: 14px;
+  line-height: 1.7;
+  color: rgba(96,200,240,0.9);
+  font-weight: 400;
+}
+#why-overlay.update-mode #why-expanded-text {
+  color: rgba(251,191,36,0.9);
+}
+
+
+/* ── WHY BOX CLICKABLE ── */
+.why-box {
+  cursor: default;
+  transition: border-color 0.2s, background 0.2s;
+}
+.why-box.expandable {
+  cursor: pointer;
+  animation: pulseBorder 2s ease-in-out infinite;
+}
+.why-box.expandable:active { opacity: 0.8; }
+@keyframes pulseBorder {
+  0%, 100% { border-color: rgba(96,200,240,0.13); box-shadow: none; }
+  50%       { border-color: rgba(96,200,240,0.6);  box-shadow: 0 0 8px rgba(96,200,240,0.2); }
+}
+.card.update-card .why-box.expandable {
+  animation: pulseBorderUpdate 2s ease-in-out infinite;
+}
+@keyframes pulseBorderUpdate {
+  0%, 100% { border-color: rgba(251,191,36,0.15); box-shadow: none; }
+  50%       { border-color: rgba(251,191,36,0.6);  box-shadow: 0 0 8px rgba(251,191,36,0.2); }
+}
+
+/* ── UPDATE CARD ── *//* ── UPDATE CARD ── */
 .card.update-card {
   border-color: rgba(251,191,36,0.2);
   background: #0f1008;
@@ -172,6 +238,13 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 
 <div id="stage"></div>
 
+<!-- Why expanded overlay -->
+<div id="why-overlay">
+  <div id="why-expanded">
+    <p id="why-expanded-text"></p>
+  </div>
+</div>
+
 <footer>
   <span class="hint" id="hint-l">← préc.</span>
   <span class="hint-sep"></span>
@@ -211,30 +284,42 @@ function makeCard(slide, idx) {
     ? '<span class="update-badge">Mise à jour</span>'
     : `<span class="card-num">0${newsIdx+1}</span>`;
 
+  const cleanText = t => t ? t.replace(/\[\d+\]/g, '').trim() : t;
   div.innerHTML = `
     <div class="card-meta">
       ${numLabel}
       <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
     </div>
     ${isUpdate && item.original ? `<div class="update-origin">↳ suite : ${item.original}</div>` : '<div class="divider"></div>'}
-    <div class="card-title">${item.title}</div>
+    <div class="card-title">${cleanText(item.title)}</div>
     <div class="card-content">
-      <div class="card-body">${item.summary}</div>
-      <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
+      <div class="card-body">${cleanText(item.summary)}</div>
+      <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${cleanText(item.why)}</span></div>
     </div>
   `;
   return div;
 }
 
 function fitTextToBox(card) {
+  // Réduit la police du texte principal
   const body = card.querySelector('.card-body');
-  if (!body) return;
-  // Réduit la police jusqu'à ce que le contenu rentre dans 75% de card-content
-  let fs = 14;
-  body.style.fontSize = fs + 'px';
-  while (body.scrollHeight > body.clientHeight && fs > 9) {
-    fs -= 0.5;
+  if (body) {
+    let fs = 14;
     body.style.fontSize = fs + 'px';
+    while (body.scrollHeight > body.clientHeight && fs > 9) {
+      fs -= 0.5;
+      body.style.fontSize = fs + 'px';
+    }
+  }
+  // Marque why-box comme expandable si le texte est clampé (points de suspension)
+  const whyText = card.querySelector('.why-text');
+  const whyBox  = card.querySelector('.why-box');
+  if (whyText && whyBox) {
+    whyBox.classList.remove('expandable');
+    // scrollHeight > offsetHeight = texte tronqué par line-clamp
+    if (whyText.scrollHeight > whyText.offsetHeight + 2) {
+      whyBox.classList.add('expandable');
+    }
   }
 }
 
@@ -354,6 +439,24 @@ stage.addEventListener('mousedown',   e=>onStart(e.clientX,e.clientY));
 window.addEventListener('mousemove',  e=>{ if(tracking) onMove(e.clientX,e.clientY); });
 window.addEventListener('mouseup',    onEnd);
 window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='ArrowDown') goTo(cur+1); if(e.key==='ArrowLeft'||e.key==='ArrowUp') goTo(cur-1); });
+
+/* ── WHY OVERLAY ── */
+const whyOverlay = document.getElementById('why-overlay');
+const whyExpandedText = document.getElementById('why-expanded-text');
+document.addEventListener('click', e => {
+  const box = e.target.closest('.why-box');
+  if (!box || !box.classList.contains('expandable')) return;
+  const text = box.querySelector('.why-text');
+  if (!text) return;
+  whyExpandedText.textContent = text.textContent;
+  const card = box.closest('.card');
+  whyOverlay.classList.toggle('update-mode', card && card.classList.contains('update-card'));
+  whyOverlay.classList.add('open');
+});
+
+whyOverlay.addEventListener('click', e => {
+  if (e.target === whyOverlay) whyOverlay.classList.remove('open');
+});
 
 /* ── INIT ── */
 (async()=>{
