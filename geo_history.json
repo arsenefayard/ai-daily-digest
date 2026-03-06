@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Etats-Unis et Venezuela rétablissent leurs relations diplomatiques",
-      "Israël étend ses bombardements à Téhéran et déploie des forces au Liban",
-      "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
-      "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
-      "Participation de l'Iran à la Coupe du monde 2026 menacée par la guerre au Moyen-Orient"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
       "Déploiement du porte-avions français Charles-de-Gaulle en Méditerranée orientale",
       "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales pour refus de coopération militaire",
@@ -72,6 +62,16 @@
     "titles": [
       "Fermeture du détroit d'Ormuz par l'Iran",
       "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Israël poursuit ses bombardements sur Téhéran et étend ses opérations au Liban",
+      "Donald Trump impose un blocus commercial sur l'Espagne pour refus d'accès aux bases militaires",
+      "Emmanuel Macron annonce une 'dissuasion nucléaire avancée' avec huit pays européens",
+      "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
+      "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz face à la flambée des prix du pétrole"
     ]
   }
 ]
