@@ -2,50 +2,50 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
-      "summary": "Au cinquième jour du conflit Iran-Israël-États-Unis, un sous-marin américain a coulé un navire de guerre iranien dans l'océan Indien au large du Sri Lanka. Cet incident marque une escalade significative du conflit au-delà du Moyen-Orient, impliquant désormais les eaux stratégiques de l'océan Indien. L'événement démontre l'engagement militaire direct des États-Unis contre l'Iran et élargit le théâtre d'opérations bien au-delà de la région traditionnelle. Cette action renforce la domination navale américaine mais risque de perturber le commerce maritime mondial dans une région cruciale.",
-      "why": "Cet incident représente une escalade militaire majeure hors du Moyen-Orient et menace la sécurité des routes commerciales maritimes mondiales, avec des implications économiques globales.",
+      "title": "OTAN intercepte un missile iranien visant la Turquie",
+      "summary": "Un missile lancé depuis l'Iran en direction de la Turquie a été intercepté par l'OTAN, marquant une extension potentielle du conflit au-delà du Moyen-Orient direct. Le ministre turc des Affaires étrangères Hakan Fidan a confirmé l'incident, soulignant la vigilance accrue de l'Alliance atlantique face aux ripostes iraniennes. Cet événement teste l'unité de l'OTAN et pourrait impliquer la Turquie dans le conflit Iran-Israël-USA. Les implications incluent un risque d'élargissement régional impliquant des alliés de l'OTAN.",
+      "why": "Cela marque la première interception OTAN d'un missile iranien, risquant d'élargir le conflit à l'Europe de l'Est et de fracturer l'Alliance.",
       "category": "Conflit"
     },
     {
-      "title": "Déploiement du porte-avions français Charles-de-Gaulle en Méditerranée orientale",
-      "summary": "Emmanuel Macron a annoncé l'envoi du porte-avions Charles-de-Gaulle en Méditerranée orientale dans une logique qu'il qualifie de 'strictement défensive'. La France se positionne ainsi aux côtés de la Grande-Bretagne pour protéger ses bases militaires régionales et ses intérêts stratégiques. Ce déploiement marque l'engagement direct de l'Europe dans le conflit, malgré les tentatives de maintenir une posture défensive. L'action française contraste avec le refus de l'Espagne de mettre ses bases à disposition des États-Unis.",
-      "why": "Le déploiement français signale l'implication croissante de l'Europe dans le conflit moyen-oriental et redéfinit les alliances militaires régionales, avec des conséquences durables pour la politique étrangère européenne.",
+      "title": "Attaques iraniennes sur sites américains dans le Golfe, dont Amazon aux EAU",
+      "summary": "L'Iran a multiplié les attaques contre des sites liés aux USA dans le Golfe, touchant l'ambassade à Ryad, des centres Amazon aux EAU et à Bahreïn. Ces frappes visent à riposter aux bombardements israélo-américains sur l'Iran. Les dégâts sont limités mais perturbent les infrastructures critiques. Cela accentue les tensions dans le Golfe et menace les chaînes d'approvisionnement mondiales.",
+      "why": "Premières attaques iraniennes sur des cibles civiles high-tech US, signalant une escalade asymétrique au-delà des militaires.",
       "category": "Conflit"
     },
     {
-      "title": "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales pour refus de coopération militaire",
-      "summary": "Donald Trump s'en prend à l'Espagne après son refus de laisser Washington utiliser deux bases militaires américaines en Andalousie, et menace de rompre les relations commerciales. Le Royaume-Uni fait également face à des menaces après avoir initialement interdit l'utilisation d'une base militaire britannique dans l'océan Indien. Ces menaces commerciales reflètent la stratégie de Trump d'utiliser le levier économique pour forcer l'alignement militaire des alliés européens. La situation crée des tensions intra-OTAN et remet en question la solidarité atlantique.",
-      "why": "Ces menaces commerciales fragmentent l'alliance occidentale et utilisent l'arme économique pour imposer une participation militaire, risquant de déstabiliser les relations transatlantiques.",
+      "title": "USA et Venezuela rétablissent relations diplomatiques",
+      "summary": "Les États-Unis et le Venezuela ont annoncé le rétablissement de leurs relations diplomatiques, un revirement majeur après des années d'hostilité. Cette décision intervient au milieu de la crise au Moyen-Orient, potentiellement pour sécuriser des approvisionnements énergétiques alternatifs. Elle pourrait apaiser les tensions en Amérique latine et ouvrir des négociations sur le pétrole vénézuélien. Géopolitiquement, cela affaiblit l'isolement de Caracas et renforce la position US face à la crise énergétique mondiale.",
+      "why": "Changement diplomatique inattendu qui diversifie les sources pétrolières US au pic de la crise Ormuz.",
       "category": "Diplomatie"
     },
     {
-      "title": "Crise énergétique mondiale : flambée des prix du pétrole due au blocage du détroit d'Ormuz",
-      "summary": "Les prix du baril de pétrole flambent en raison de la situation bloquée dans le détroit d'Ormuz, passage stratégique crucial pour le commerce pétrolier mondial. L'administration Trump annonce que la marine américaine pourrait escorter les pétroliers dans ce couloir pour maintenir la navigation. Selon les experts, la plupart des pays disposent de stocks permettant de tenir deux à trois semaines, mais une perturbation prolongée aurait des conséquences graves sur l'inflation et la croissance économique mondiale. La crise énergétique affecte déjà les consommateurs américains et menace la stabilité économique globale.",
-      "why": "Le blocage du détroit d'Ormuz menace l'approvisionnement énergétique mondial et crée une instabilité économique majeure, avec des répercussions sur l'inflation et la croissance dans tous les pays importateurs de pétrole.",
-      "category": "Énergie"
+      "title": "Perturbations à l'aéroport de Dubaï dues à ripostes iraniennes",
+      "summary": "Des attaques iraniennes par missiles et drones ont causé des dégâts limités à l'aéroport international de Dubaï, provoquant des perturbations logistiques majeures. Cela affecte un hub aérien clé pour le commerce mondial et les voyages. Les EAU, hôtes de bases US, sont directement visés en représailles. Les enjeux incluent des retards dans les chaînes d'approvisionnement globales et une pression accrue sur les alliés US du Golfe.",
+      "why": "Première perturbation d'un hub aérien majeur, impactant directement l'économie mondiale.",
+      "category": "Sécurité"
     },
     {
-      "title": "Pénétration israélienne au sud du Liban et préparation d'opérations contre le Hezbollah",
-      "summary": "L'armée israélienne a pénétré le sud du Liban en prévision d'opérations militaires contre le Hezbollah, étendant le conflit au-delà des frontières iraniennes. Cette action marque l'ouverture d'un nouveau front régional et risque d'impliquer directement le Hezbollah, allié majeur de l'Iran. Le déploiement israélien au Liban complique la situation géopolitique régionale et menace de transformer le conflit Iran-Israël en conflit régional plus large. Les implications humanitaires pour la population libanaise sont considérables.",
-      "why": "L'expansion militaire israélienne au Liban ouvre un nouveau front du conflit et risque de transformer une crise bilatérale en conflit régional impliquant le Hezbollah et d'autres acteurs régionaux.",
-      "category": "Conflit"
+      "title": "Marine US propose d'escorter pétroliers dans le détroit d'Ormuz",
+      "summary": "Face à la flambée des prix du pétrole due au blocage partiel d'Ormuz, Donald Trump annonce que la marine américaine pourrait escorter les pétroliers pour sécuriser les flux. Cela répond à deux jours de hausse des prix du baril. L'initiative vise à prévenir une crise énergétique mondiale. Géopolitiquement, elle défie directement l'Iran et rassure les marchés.",
+      "why": "Mesure concrète pour contrer la crise énergétique, potentiellement provoquant une confrontation navale directe.",
+      "category": "Énergie"
     }
   ],
   "updates": [
     {
-      "title": "Escalade militaire directe des États-Unis contre l'Iran",
-      "original": "Frappes américano-israéliennes massives contre l'Iran (05/03/2026)",
-      "summary": "Au-delà des frappes aériennes initiales, les États-Unis engagent désormais des opérations navales directes contre l'Iran, avec le coulage d'un navire de guerre iranien par un sous-marin américain. L'administration Trump annonce également une escalade militaire supplémentaire dans les prochains jours selon Marco Rubio. Le conflit s'étend géographiquement bien au-delà du Moyen-Orient traditionnel, impliquant l'océan Indien et menaçant les routes commerciales mondiales. Cette escalade marque un passage d'une intervention aérienne à une confrontation militaire directe et prolongée.",
-      "why": "Cette escalade transforme le conflit d'une série de frappes ponctuelles en une confrontation militaire directe et prolongée, avec des implications majeures pour la sécurité maritime mondiale et l'économie globale.",
+      "title": "Israël poursuit bombardements sur Téhéran et étend au Liban",
+      "original": "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
+      "summary": "Israël a intensifié ses frappements simultanés sur Téhéran et le Liban, en réponse aux attaques du Hezbollah revendiquant venger la mort de Khamenei. Le déploiement de soldats israéliens sur de nouvelles positions au Liban est en préparation. Cela prolonge l'escalade au quatrième jour du conflit. Les infrastructures iraniennes du nord sont visées, sans toucher encore les sites pétroliers du sud.",
+      "why": "Escalade militaire significative avec extension terrestre au Liban, risquant une guerre régionale prolongée.",
       "category": "Conflit"
     },
     {
-      "title": "Fragmentation de l'alliance occidentale sur la participation au conflit",
-      "original": "UE et Macron soutiennent l'Espagne face aux menaces commerciales de Trump (06/03/2026)",
-      "summary": "Tandis que la France déploie le porte-avions Charles-de-Gaulle et s'engage militairement, l'Espagne refuse de mettre ses bases à disposition et fait face à des menaces commerciales de Trump. Le Royaume-Uni connaît une situation similaire. Cette divergence révèle une fracture majeure au sein de l'OTAN et de l'UE sur le niveau d'engagement dans le conflit moyen-oriental. Trump utilise les menaces commerciales pour forcer l'alignement, créant une tension entre solidarité atlantique et intérêts nationaux.",
-      "why": "La fragmentation de l'alliance occidentale affaiblit la cohésion transatlantique et crée des précédents dangereux d'utilisation de représailles commerciales pour imposer des choix militaires.",
-      "category": "Diplomatie"
+      "title": "Wall Street chute de plus de 2% sur angoisse géopolitique",
+      "original": "Wall Street chute sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
+      "summary": "Au quatrième jour du conflit, Wall Street a chuté : Dow Jones -2,22%, Nasdaq -2,13%, S&P 500 -2,07%. Les craintes d'une guerre prolongée et d'inflation énergétique dominent. Les opérateurs anticipent un impact sur l'économie US. Cela éclipse même les résultats d'entreprises positifs.",
+      "why": "Chute amplifiée confirmant l'impact économique mondial du conflit.",
+      "category": "Économie"
     }
   ]
 }
