@@ -2,50 +2,35 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "OTAN intercepte un missile iranien visant la Turquie",
-      "summary": "Un missile lancé depuis l'Iran en direction de la Turquie a été intercepté par l'OTAN, marquant une extension potentielle du conflit au-delà du Moyen-Orient direct. Le ministre turc des Affaires étrangères Hakan Fidan a confirmé l'incident, soulignant la vigilance accrue de l'Alliance atlantique face aux ripostes iraniennes. Cet événement teste l'unité de l'OTAN et pourrait impliquer la Turquie dans le conflit Iran-Israël-USA. Les implications incluent un risque d'élargissement régional impliquant des alliés de l'OTAN.",
-      "why": "Cela marque la première interception OTAN d'un missile iranien, risquant d'élargir le conflit à l'Europe de l'Est et de fracturer l'Alliance.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Attaques iraniennes sur sites américains dans le Golfe, dont Amazon aux EAU",
-      "summary": "L'Iran a multiplié les attaques contre des sites liés aux USA dans le Golfe, touchant l'ambassade à Ryad, des centres Amazon aux EAU et à Bahreïn. Ces frappes visent à riposter aux bombardements israélo-américains sur l'Iran. Les dégâts sont limités mais perturbent les infrastructures critiques. Cela accentue les tensions dans le Golfe et menace les chaînes d'approvisionnement mondiales.",
-      "why": "Premières attaques iraniennes sur des cibles civiles high-tech US, signalant une escalade asymétrique au-delà des militaires.",
-      "category": "Conflit"
-    },
-    {
-      "title": "USA et Venezuela rétablissent relations diplomatiques",
-      "summary": "Les États-Unis et le Venezuela ont annoncé le rétablissement de leurs relations diplomatiques, un revirement majeur après des années d'hostilité. Cette décision intervient au milieu de la crise au Moyen-Orient, potentiellement pour sécuriser des approvisionnements énergétiques alternatifs. Elle pourrait apaiser les tensions en Amérique latine et ouvrir des négociations sur le pétrole vénézuélien. Géopolitiquement, cela affaiblit l'isolement de Caracas et renforce la position US face à la crise énergétique mondiale.",
-      "why": "Changement diplomatique inattendu qui diversifie les sources pétrolières US au pic de la crise Ormuz.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Perturbations à l'aéroport de Dubaï dues à ripostes iraniennes",
-      "summary": "Des attaques iraniennes par missiles et drones ont causé des dégâts limités à l'aéroport international de Dubaï, provoquant des perturbations logistiques majeures. Cela affecte un hub aérien clé pour le commerce mondial et les voyages. Les EAU, hôtes de bases US, sont directement visés en représailles. Les enjeux incluent des retards dans les chaînes d'approvisionnement globales et une pression accrue sur les alliés US du Golfe.",
-      "why": "Première perturbation d'un hub aérien majeur, impactant directement l'économie mondiale.",
+      "title": "Coopération nucléaire franco-allemande émergente dans la crise Iran",
+      "summary": "Pour la première fois depuis la fin de la guerre froide, la France et l'Allemagne discutent officiellement d'une dissuasion nucléaire continentale autonome en réponse à l'escalade au Moyen-Orient. Cette initiative stratégique vise à renforcer l'autonomie européenne face aux divisions transatlantiques sur l'intervention en Iran. Elle pourrait redéfinir l'architecture de sécurité européenne, marginalisant potentiellement les pays comme l'Espagne si ceux-ci persistent dans leur ostracisme actuel. Les implications incluent une possible fragmentation de l'OTAN et un renforcement de l'Europe comme acteur indépendant.",
+      "why": "Cette coopération marque un tournant historique pour la défense européenne, potentiellement affaiblissant l'unité OTAN et redessinant les équilibres stratégiques en Europe.",
       "category": "Sécurité"
     },
     {
-      "title": "Marine US propose d'escorter pétroliers dans le détroit d'Ormuz",
-      "summary": "Face à la flambée des prix du pétrole due au blocage partiel d'Ormuz, Donald Trump annonce que la marine américaine pourrait escorter les pétroliers pour sécuriser les flux. Cela répond à deux jours de hausse des prix du baril. L'initiative vise à prévenir une crise énergétique mondiale. Géopolitiquement, elle défie directement l'Iran et rassure les marchés.",
-      "why": "Mesure concrète pour contrer la crise énergétique, potentiellement provoquant une confrontation navale directe.",
-      "category": "Énergie"
-    }
-  ],
-  "updates": [
+      "title": "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
+      "summary": "Donald Trump a annoncé un blocus commercial contre l'Espagne après le refus de Madrid d'autoriser l'utilisation des bases de Rota et Morón pour l'opération contre l'Iran. L'UE s'est unie autour de l'Espagne, avec la Commission européenne avertissant que le commerce se négocie avec l'ensemble du bloc. Pedro Sánchez qualifie l'opération américaine d'illégale et priorise la protection civile. Cette tension transatlantique risque d'élargir les fissures dans l'alliance occidentale.",
+      "why": "Ce conflit commercial direct entre les USA et un membre UE pourrait fracturer davantage l'Occident et booster l'unité européenne face à Washington.",
+      "category": "Diplomatie"
+    },
     {
-      "title": "Israël poursuit bombardements sur Téhéran et étend au Liban",
-      "original": "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
-      "summary": "Israël a intensifié ses frappements simultanés sur Téhéran et le Liban, en réponse aux attaques du Hezbollah revendiquant venger la mort de Khamenei. Le déploiement de soldats israéliens sur de nouvelles positions au Liban est en préparation. Cela prolonge l'escalade au quatrième jour du conflit. Les infrastructures iraniennes du nord sont visées, sans toucher encore les sites pétroliers du sud.",
-      "why": "Escalade militaire significative avec extension terrestre au Liban, risquant une guerre régionale prolongée.",
+      "title": "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
+      "summary": "Le Hezbollah a proclamé une 'guerre ouverte' contre Israël le 2 mars, lançant des attaques sur Haïfa, réouvrant le front libanais au milieu des frappes sur l'Iran. Cela multiplie la complexité stratégique pour Israël et les USA, avec un risque de guerre prolongée sans objectif clair. Les attaques iraniennes ont aussi visé une synagogue en Israël, causant 9 morts. La dégradation progressive de la puissance iranienne s'accompagne de représailles continues via missiles et drones.",
+      "why": "L'ouverture d'un second front au Liban élève le risque d'embrasement régional, compliquant les stratégies militaires et augmentant les pertes civiles.",
       "category": "Conflit"
     },
     {
-      "title": "Wall Street chute de plus de 2% sur angoisse géopolitique",
-      "original": "Wall Street chute sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
-      "summary": "Au quatrième jour du conflit, Wall Street a chuté : Dow Jones -2,22%, Nasdaq -2,13%, S&P 500 -2,07%. Les craintes d'une guerre prolongée et d'inflation énergétique dominent. Les opérateurs anticipent un impact sur l'économie US. Cela éclipse même les résultats d'entreprises positifs.",
-      "why": "Chute amplifiée confirmant l'impact économique mondial du conflit.",
-      "category": "Économie"
+      "title": "Pékin et Moscou exigent cessez-le-feu et appellent au multilatéralisme",
+      "summary": "La Chine et la Russie, via Wang Yi et Lavrov, ont condamné les frappes américano-israéliennes et exigé un cessez-le-feu immédiat lors d'un appel téléphonique. Pékin s'inquiète particulièrement du blocus d'Ormuz, vital pour 84% de son pétrole importé d'Asie. Cette position prudente met l'accent sur le multilatéralisme face à l'escalade unilatérale occidentale. Elle reflète les craintes économiques chinoises d'une crise énergétique prolongée.",
+      "why": "L'opposition sino-russe renforce un axe anti-occidental et pourrait compliquer les efforts diplomatiques pour contenir le conflit.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Macron déploie le Charles de Gaulle en Méditerranée pour défense anti-missiles",
+      "summary": "Emmanuel Macron a ordonné au porte-avions Charles de Gaulle de quitter la Baltique pour la Méditerranée orientale, afin d'aider à intercepter missiles iraniens et drones. Le Royaume-Uni déploie le destroyer HMS Dragon et des systèmes anti-drones à Chypre. L'Allemagne et l'Italie prévoient d'envoyer des navires et défenses similaires. Cette mobilisation européenne reste défensive, sans engagement offensif contre l'Iran.",
+      "why": "Ce déploiement marque un soutien européen limité mais concret, soulignant les divisions internes sur l'escalade tout en protégeant les intérêts régionaux.",
+      "category": "Sécurité"
     }
-  ]
+  ],
+  "updates": []
 }
