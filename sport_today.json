@@ -1,0 +1,36 @@
+{
+  "date": "06/03/2026",
+  "news": [
+    {
+      "title": "Quarts de finale de la Coupe de France disputés les 4 et 5 mars 2026",
+      "summary": "Les quarts de finale de la Coupe de France ont eu lieu mercredi 4 et jeudi 5 mars avec des affiches alléchantes: Strasbourg (L1) vs Reims (L2), Lorient (L1) vs Nice (L1), OM (L1) vs Toulouse (L1), et Lyon (L1) vs Lens (L1). Ces matchs opposent des clubs de Ligue 1 à des équipes de divisions inférieures ou concurrentes, créant des enjeux de surprise potentielle. Les vainqueurs se qualifieront pour les demi-finales, avec des implications pour le prestige et les primes financières. Les résultats influencent la dynamique des championnats respectifs en fin de saison.",
+      "why": "Ces quarts marquent une étape décisive vers la finale de la plus ancienne coupe nationale, avec des chocs entre cadors et outsiders qui captivent les fans français.",
+      "category": "Football"
+    },
+    {
+      "title": "Tournoi des 6 Nations: Écosse vs France prévu ce 7 mars 2026",
+      "summary": "Dans le cadre du Tournoi des 6 Nations 2026, l'équipe de France affronte l'Écosse le 7 mars au Murrayfield Stadium d'Édimbourg. Les Bleus, tenants du titre, visent une performance solide dans ce match crucial pour le classement final. Ce déplacement en Écosse représente un test majeur après l'ouverture face à l'Irlande. Une victoire renforcerait les ambitions françaises pour un back-to-back.",
+      "why": "Ce choc entre deux puissances européennes du rugby est pivotal pour le leadership du tournoi et motive des millions de supporters.",
+      "category": "Rugby"
+    },
+    {
+      "title": "Grand Prix d'Australie de Formule 1 ouvre la saison le 8 mars 2026",
+      "summary": "Le championnat de F1 2026 démarre avec le Grand Prix d'Australie à Melbourne le 8 mars, diffusé sur Canal+. Cette course inaugurale sur l'Albert Park réunit les top équipes comme Red Bull, Ferrari et McLaren dans une bataille pour le titre. Les nouveautés réglementaires sur les moteurs et aéro pourraient créer des surprises dès le coup d'envoi. Les résultats initiaux dicteront les favoris de la saison.",
+      "why": "Première épreuve majeure de F1, elle fixe le ton d'une saison compétitive avec de potentiels changements de hiérarchie.",
+      "category": "F1"
+    },
+    {
+      "title": "Paris-Nice débute le cyclisme mondial le 8 mars 2026",
+      "summary": "La 84e édition de Paris-Nice, course par étapes emblématique, s'élance le 8 mars pour une semaine intense jusqu'au 15 mars. Organisée par l'UCI, elle réunit les meilleurs grimpeurs et sprinteurs en préparation des classiques printanières. Le parcours vallonné en France offre des opportunités de général en chef précoce. Les performances influenceront les sélections pour les Tours majeurs.",
+      "why": "Première grande course WorldTour de l'année, elle identifie les leaders du peloton cycliste post-hiver.",
+      "category": "Autre"
+    },
+    {
+      "title": "Préparation intensive pour Roland-Garros 2026 confirmée dans les calendriers",
+      "summary": "Les Internationaux de France de tennis à Roland-Garros sont programmés du 18 mai au 7 juin 2026 au Stade Roland-Garros à Paris. Avec la terre battue comme surface, les joueurs top comme Alcaraz et Swiatek visent le titre dans ce Grand Chelem mythique. Les qualifications et wild-cards se profilent, avec un engouement croissant post-Australian Open. L'événement attire des millions de spectateurs et booste le tennis mondial.",
+      "why": "Grand Chelem majeur sur terre battue, son calendrier précoce motive les joueurs et fans pour la saison européenne.",
+      "category": "Tennis"
+    }
+  ],
+  "updates": []
+}
