@@ -1,0 +1,36 @@
+{
+  "date": "06/03/2026",
+  "news": [
+    {
+      "title": "Détection de silice cristallisée et minéraux réox sensibles sur Mars par le rover",
+      "summary": "Le rover Perseverance a détecté dans une roche du rebord de Jezero une forte concentration de silice sous formes d'opale, calcédoine et quartz bien cristallisé, indiquant des processus géologiques similaires à ceux de la Terre. Des minéraux réox sensibles aux conditions d'oxydation/réduction ont été identifiés pour la première fois via Supercam et analyses robotiques. Ces découvertes, publiées fin février 2025 mais mises en avant récemment, remettent en question des décennies de certitudes sur l'histoire martienne. Elles suggèrent un passé hydrothermal actif et des implications pour la recherche de traces de vie.",
+      "why": "Cela bouleverse notre compréhension de la géologie martienne et renforce les espoirs de détection de biosignatures passées.",
+      "category": "Espace"
+    },
+    {
+      "title": "Comète interstellaire 3I/Atlas éjecte des substances organiques volatiles",
+      "summary": "La comète 3I/Atlas, d'origine extrasolaire, éjecte des substances organiques détectées par spectroscopie, confirmant la présence de glaces volatiles qui se subliment à basses températures. Cette observation, rapportée autour du 3 mars 2026, marque les six derniers mois de 2025 comme période clé pour son étude. Elle indique une composition chimique unique par rapport aux objets du Système solaire interne. Les implications concernent la détection d'objets interstellaires et leur apport potentiel de matière organique.",
+      "why": "Première confirmation directe d'éjection organique d'une comète interstellaire, révolutionnant l'étude des visiteurs extrasolaires.",
+      "category": "Espace"
+    },
+    {
+      "title": "Lien direct découvert entre perte auditive et déclin cognitif",
+      "summary": "Une étude publiée le 3 mars 2026 établit un lien direct entre la perte auditive et l'accélération du déclin cognitif, potentiellement via des mécanismes neuroinflammatoires. Cette avancée, issue de recherches récentes, suggère que la surdité aggrave les risques de démence. Des interventions précoces comme les aides auditives pourraient ralentir ce processus. Elle s'inscrit dans une vague de découvertes reliant santé sensorielle et cerveau.",
+      "why": "Ouvre la voie à des stratégies préventives contre la démence via la correction auditive, impactant des millions de personnes âgées.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Micrécharges électrostatiques confirmées sur Mars dues à grains minéraux chargés",
+      "summary": "Des observations récentes confirment que des rencontres répétées de grains minéraux chargés dans l'air sec de Mars produisent des micrécharges électrostatiques, passant de l'hypothèse à la réalité. Ce phénomène, détecté via instruments du rover, explique des comportements atmosphériques inattendus. Il a des implications pour l'érosion des sols et la survie de particules organiques. Publiée dans les derniers jours, cette découverte affine les modèles martiens.",
+      "why": "Révélation d'un processus électrostatique actif sur Mars, essentiel pour futures missions robotiques et habitées.",
+      "category": "Espace"
+    },
+    {
+      "title": "Découverte de ribose, glucose et acides aminés dans échantillons de l'astéroïde Bennu",
+      "summary": "Les analyses des échantillons de Bennu rapportent la présence de ribose (squelette de l'ARN), glucose (sucre métabolique) et acides aminés, au-delà des composés basiques déjà connus. Ces molécules prébiotiques, annoncées récemment, indiquent un potentiel pour la formation génétique et énergétique cellulaire. Cela dépasse les météorites terrestres en complexité biochimique. Les implications pour l'exobiologie sont immédiates, suggérant un apport extraterrestre clé à la vie sur Terre.",
+      "why": "Premières détections directes de sucres et ribose dans un astéroïde, transformant les théories sur l'origine de la vie.",
+      "category": "Espace"
+    }
+  ],
+  "updates": []
+}
