@@ -2,13 +2,6 @@
   {
     "date": "05/03/2026",
     "titles": [
-      "Amazon double ses investissements dans le cloud et l'IA en Espagne avec 18 milliards d'euros supplémentaires",
-      "Rapport choc aux USA : l'IA saccage l'emploi et ébranle l'optimisme économique"
-    ]
-  },
-  {
-    "date": "05/03/2026",
-    "titles": [
       "Inde officialise la 'New Delhi Declaration on AI Impact' après l'AI Impact Summit",
       "Marché français de l'assurance s'organise face aux risques IA comme le data poisoning et les hallucinations",
       "Février 2026 : l'IA devient une 'force de travail' avec le lancement d'OpenAI Frontier et 4 modèles frontier en 14 jours",
@@ -64,6 +57,17 @@
       "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
       "Marchés doutent de la rentabilité IA malgré investissements massifs en 2026",
       "5 Mars 2026 : Synthèse des avancées clés en intelligence artificielle"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale",
+      "Palantir déploie Maven : un logiciel IA révolutionnant les frappes militaires américaines en Iran",
+      "Firefox 148 lance le « coupe-circuit » pour bloquer les fonctionnalités IA dans le navigateur",
+      "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
+      "Découverte de près de 3 000 clés d'API Google Cloud exposées dans du code côté client",
+      "Escalade du conflit Anthropic-Pentagone : du refus contractuel à l'interdiction fédérale"
     ]
   }
 ]
