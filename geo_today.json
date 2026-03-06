@@ -1,36 +1,44 @@
 {
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "news": [
     {
-      "title": "La Chine fixe un objectif de croissance à 4,5-5% pour 2026, le plus bas en trois décennies",
-      "summary": "Le gouvernement chinois a publié un rapport fixant l'objectif de croissance économique à 4,5-5% pour 2026, le plus faible depuis plus de 30 ans, dans un contexte d'incertitudes intérieures et extérieures liées à la guerre au Moyen-Orient et à la conjoncture mondiale. Cette décision reflète les défis posés par le ralentissement de la consommation domestique, les tensions commerciales persistantes et l'impact des perturbations énergétiques globales. Géopolitiquement, cela pourrait accentuer la dépendance de Pékin aux exportations et influencer sa posture diplomatique plus assertive pour sécuriser les ressources. Les implications incluent un risque accru de tensions sino-américaines si les mesures de relance internes échouent.",
-      "why": "Cet objectif modeste signale une vulnérabilité économique majeure pour la deuxième puissance mondiale, potentiellement affaiblissant son influence géopolitique face aux crises actuelles.",
+      "title": "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
+      "summary": "Israël a intensifié ses frappes aériennes sur la capitale iranienne Téhéran et lancé des opérations au Liban en réponse aux attaques du Hezbollah, qui revendique des représailles à la mort du guide suprême iranien Ali Khamenei lors des bombardements américano-israéliens. Les frappes visent les positions des Gardiens de la Révolution pour nettoyer la zone frontalière et préparer une potentielle intervention terrestre. L'Iran a riposté avec des missiles et drones contre Israël et des bases US dans le Golfe, causant des perturbations limitées comme à l'aéroport de Dubaï. Cela marque une escalade majeure risquant d'élargir le conflit régional.",
+      "why": "Cette extension des opérations menace de transformer le conflit en guerre ouverte multi-fronts impliquant le Liban, avec des implications pour la stabilité du Moyen-Orient entier.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
+      "summary": "Le secrétaire d'État américain Marco Rubio a annoncé une augmentation massive de l'intensité des attaques conjointes USA-Israël pour désarmer l'Iran et détruire son programme nucléaire. Il évoque un 'changement d'échelle' imminent, soulignant la nécessité de préparer une intervention terrestre après la neutralisation des forces conventionnelles iraniennes. Cette rhétorique hawkish s'inscrit dans une stratégie de soutien historique à l'intervention, malgré des oppositions internes aux USA. Les déclarations visent à consolider l'alliance avec Israël face à la riposte iranienne.",
+      "why": "Ces promesses d'escalade pourraient précipiter une guerre totale, affectant les marchés énergétiques mondiaux et les alliances internationales.",
+      "category": "Conflit"
+    },
+    {
+      "title": "UE et Macron soutiennent l'Espagne face aux menaces commerciales de Trump",
+      "summary": "Après le refus espagnol d'accès à ses bases en Andalousie, Donald Trump a menacé de rompre les relations commerciales avec l'Espagne, quatrième économie de l'UE. L'Union européenne et Emmanuel Macron ont exprimé un soutien ferme au Premier ministre Pedro Sanchez, renforçant la solidarité européenne. Cette tension diplomatique met en lumière les frictions transatlantiques sur les bases militaires dans le contexte du conflit iranien. Elle risque d'affaiblir la cohésion OTAN face aux crises au Moyen-Orient.",
+      "why": "Ce clash oppose directement les USA à l'UE, potentiellement fragmentant les alliances occidentales au pire moment géopolitique.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Canada et Inde signent accords majeurs sur terres rares et uranium, fin des tensions",
+      "summary": "Ottawa et New Delhi ont conclu une série d'accords économiques sur les terres rares et l'uranium, marquant une 'lune de miel' après des années de différends diplomatiques. Ces ententes visent à sécuriser des approvisionnements critiques pour les technologies vertes et nucléaires. Dans un contexte de tensions sino-américaines, cela diversifie les chaînes d'approvisionnement mondiales. Le rapprochement renforce les positions des deux pays dans l'Indo-Pacifique face à la Chine.",
+      "why": "Ces accords stratégiques altèrent les équilibres en ressources critiques, réduisant la dépendance envers la Chine et boostant les alliances anti-Pékin.",
       "category": "Économie"
     },
     {
-      "title": "L'Iran frappe des groupes kurdes en Irak, étendant la guerre au Moyen-Orient",
-      "summary": "L'Iran a lancé des missiles sur les quartiers généraux de forces kurdes en Irak, en riposte aux frappes américano-israéliennes, provoquant de nouvelles explosions à Téhéran et attisant les craintes d'escalade régionale. Cette action marque une extension du conflit vers l'Irak, impliquant des acteurs non étatiques et risquant d'embraser les zones kurdes transfrontalières. Les enjeux incluent une déstabilisation accrue de l'Irak post-2025 et une possible intervention turque contre les Kurdes. Géopolitiquement, cela complique les alliances US dans la région et renforce les appels à une médiation internationale.",
-      "why": "Cette extension du conflit vers l'Irak risque de transformer une guerre bilatérale en un chaos régional multi-fronts, impactant la stabilité énergétique mondiale.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Attaques iraniennes contre des sites américains dans le Golfe persique",
-      "summary": "Téhéran a multiplié les frappes sur l'ambassade US à Ryad, des centres Amazon aux Émirats et à Bahreïn, en réponse à la campagne israélo-américaine lancée samedi. Ces attaques ciblées visent à punir les alliés de Washington dans le Golfe, perturbant les flux commerciaux et énergétiques. Les implications géopolitiques concernent une menace directe sur les monarchies sunnites et un test pour la cohésion de la coalition anti-iranienne. Cela accentue l'angoisse des marchés, avec Wall Street en baisse.",
-      "why": "Ces ripostes directes contre des intérêts US élèvent le risque d'une guerre totale dans le Golfe, menaçant 30% des exportations pétrolières mondiales.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Wall Street chute sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
-      "summary": "La Bourse de New York a fortement baissé mardi, plombée par les craintes d'inflation due à la flambée des prix de l'énergie au quatrième jour du conflit israélo-américain avec l'Iran. Les opérateurs redoutent un impact sur l'économie US via des coûts énergétiques plus élevés et des perturbations logistiques. Géopolitiquement, cela expose la vulnérabilité des marchés occidentaux aux chocs moyen-orientaux et pourrait forcer des ajustements monétaires. Israël poursuit ses bombardements simultanés en Iran et au Liban.",
-      "why": "La panique boursière reflète les retombées économiques immédiates du conflit, potentiellement déclenchant une récession si les hostilités persistent.",
+      "title": "Air France suspend ses vols vers Cuba faute de carburant dû au blocus américain",
+      "summary": "Air France a annoncé la suspension de ses vols vers Cuba fin mars en raison d'une pénurie aiguë de kérosène, aucun pétrolier n'ayant accosté depuis janvier à cause du blocus renforcé par Washington. Cette crise humanitaire et logistique isole davantage l'île caraïbe, aggravant ses difficultés économiques. Elle illustre l'impact des sanctions US sur les partenaires européens et les chaînes aériennes mondiales. La pénurie devrait perdurer jusqu'en avril, affectant le tourisme et les échanges.",
+      "why": "Cette mesure souligne l'efficacité du blocus US et ses répercussions sur l'aviation civile européenne, amplifiant l'isolement cubain.",
       "category": "Économie"
-    },
-    {
-      "title": "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran",
-      "summary": "Israël continue de bombarder simultanément l'Iran et le Liban, avec un déploiement prévu de troupes sur de nouvelles positions libanaises pour contrer le Hezbollah. Cette double offensive vise à neutraliser les proxies iraniens et à sécuriser la frontière nord. Les enjeux incluent un risque d'escalade avec le Liban, déjà fragile, et une surcharge pour Tsahal. Géopolitiquement, cela teste la résolution de Washington et pourrait impliquer d'autres acteurs comme la Syrie.",
-      "why": "L'ouverture d'un front libanais multiplicateur les risques pour Israël et la région, rendant une désescalade diplomatique urgente.",
-      "category": "Conflit"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Mort présumée du guide suprême Khamenei et frappes israéliennes prolongées",
+      "original": "Frappes américano-israéliennes massives contre l'Iran",
+      "summary": "Les frappes initiales auraient éliminé Ali Khamenei et des hauts responsables des Gardiens de la Révolution, provoquant une riposte iranienne par missiles sur Israël et le Golfe. Israël a étendu ses bombardements à Téhéran et au Liban pour préparer une intervention terrestre, neutralisant les forces frontalières iraniennes. Trump appelle ouvertement au renversement du régime iranien. Cette escalade change la donne en visant un changement de pouvoir à Téhéran.",
+      "why": "La possible mort du leader suprême et l'extension au Liban représentent une escalade militaire significative, risquant une guerre régionale prolongée.",
+      "category": "Conflit"
+    }
+  ]
 }
