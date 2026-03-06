@@ -102,10 +102,11 @@ Format JSON strict :
 }}
 
 RÈGLES STRICTES :
-1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
-   - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
-   - Si l'actualité géopolitique est calme, prends les sujets les plus importants du moment même s'ils touchent des thèmes déjà vus, mais uniquement si c'est un événement ou une donnée nouvelle.
+1. "news" contient TOUJOURS exactement 5 actualités. JAMAIS VIDE. C'est une règle absolue.
+   - Si un sujet a déjà été couvert mais qu'il y a eu un développement nouveau (même mineur), inclus-le dans "news" avec l'angle nouveau.
+   - Si vraiment l'actualité est calme, prends les 5 sujets géopolitiques les plus importants du moment, qu'ils aient été couverts ou non.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
+   - En cas de doute : remplis "news" avec 5 éléments et laisse "updates" vide.
 
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si l'un de ces critères est rempli :
