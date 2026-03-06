@@ -1,15 +1,5 @@
 [
   {
-    "date": "05/03/2026",
-    "titles": [
-      "Inde officialise la 'New Delhi Declaration on AI Impact' après l'AI Impact Summit",
-      "Marché français de l'assurance s'organise face aux risques IA comme le data poisoning et les hallucinations",
-      "Février 2026 : l'IA devient une 'force de travail' avec le lancement d'OpenAI Frontier et 4 modèles frontier en 14 jours",
-      "Projet Stargate UAE : OpenAI, Oracle et NVIDIA construisent une infrastructure IA de 1 gigawatt à Abu Dhabi",
-      "MWC 2026 : Nokia et AWS déploient l'IA agentique pour les réseaux 5G avec Orange comme premier client"
-    ]
-  },
-  {
     "date": "06/03/2026",
     "titles": [
       "Anthropic refuse les conditions du Pentagone sur les armes autonomes et la surveillance de masse",
@@ -68,6 +58,16 @@
       "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
       "Découverte de près de 3 000 clés d'API Google Cloud exposées dans du code côté client",
       "Escalade du conflit Anthropic-Pentagone : du refus contractuel à l'interdiction fédérale"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
+      "CoreWeave signe partenariat pluriannuel avec Perplexity pour l'inférence IA",
+      "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
+      "Étude BCE : l'IA booste les embauches en R&D sans pertes massives d'emplois",
+      "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate"
     ]
   }
 ]
