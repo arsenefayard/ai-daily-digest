@@ -1,15 +1,5 @@
 [
   {
-    "date": "05/03/2026",
-    "titles": [
-      "La Chine fixe un objectif de croissance à 4,5-5% pour 2026, le plus bas en trois décennies",
-      "L'Iran frappe des groupes kurdes en Irak, étendant la guerre au Moyen-Orient",
-      "Attaques iraniennes contre des sites américains dans le Golfe persique",
-      "Wall Street chute sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
-      "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran"
-    ]
-  },
-  {
     "date": "06/03/2026",
     "titles": [
       "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
@@ -74,6 +64,18 @@
       "Crise énergétique : blocage partiel du détroit d'Ormuz provoque flambée des prix du pétrole",
       "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
       "USA et Venezuela rétablissent pleinement leurs relations diplomatiques"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Dissuasion nucléaire avancée : Macron annonce coopération avec huit pays européens",
+      "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
+      "OTAN intercepte un missile iranien visant la Turquie",
+      "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz",
+      "Coopération nucléaire franco-allemande émerge dans la crise iranienne",
+      "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
+      "Trump impose blocus commercial sur l'Espagne et menace le Royaume-Uni"
     ]
   }
 ]
