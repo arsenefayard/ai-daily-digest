@@ -2,49 +2,49 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
-      "summary": "Un sous-marin de l'US Navy a torpillé et coulé un destroyer iranien patrouillant dans l'océan Indien près du Sri Lanka, marquant la première confrontation navale directe loin du Moyen-Orient. Cette action s'inscrit dans l'escalade du conflit après les frappes américano-israéliennes sur l'Iran. Elle vise à neutraliser les capacités navales iraniennes de projection de puissance. Géopolitiquement, cela étend le théâtre d'opérations et expose les routes maritimes indiennes à des risques accrus.",
-      "why": "Cela démontre une extension mondiale du conflit, menaçant la stabilité des routes commerciales asiatiques vitales pour l'énergie mondiale.",
-      "category": "Conflit"
+      "title": "Dissuasion nucléaire avancée : Macron annonce coopération avec huit pays européens",
+      "summary": "Emmanuel Macron a dévoilé une initiative de 'dissuasion nucléaire avancée' impliquant la France et huit alliés européens pour renforcer la défense collective face aux menaces actuelles. Cette mesure vise à étendre le parapluie nucléaire français sans altérer la doctrine de dissuasion stricte. Annoncée dans un discours rare sur le sujet, elle répond à l'escalade au Moyen-Orient et aux tensions transatlantiques. Les enjeux incluent une possible fragmentation de l'OTAN et un renforcement de l'autonomie stratégique européenne.",
+      "why": "Cette initiative marque un tournant dans la défense européenne, potentiellement réduisant la dépendance vis-à-vis des États-Unis et influençant les équilibres au sein de l'OTAN.",
+      "category": "Sécurité"
     },
     {
-      "title": "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
-      "summary": "Le Hezbollah a officiellement déclaré la guerre à Israël, lançant une salve de roquettes sur Haïfa causant des dizaines de victimes civiles. Cette riposte suit les bombardements israéliens sur le Liban et la mort présumée de Khamenei. Israël répond par des frappes massives sur les infrastructures du Hezbollah au sud-Liban. Cela risque d'ouvrir un front nord majeur, impliquant potentiellement d'autres acteurs régionaux comme la Syrie.",
-      "why": "L'implication directe du Hezbollah élève le conflit à une guerre multi-fronts, compliquant les efforts de désescalade internationale.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
-      "summary": "Donald Trump a annoncé un blocus commercial total contre l'Espagne après le refus de Madrid d'autoriser l'usage de bases en Andalousie pour des opérations contre l'Iran. L'UE et Macron ont exprimé un soutien ferme à Pedro Sanchez face à ces menaces. Cela fracture l'alliance transatlantique au milieu de la crise iranienne. Les implications incluent des perturbations économiques en Europe et une remise en cause de l'OTAN.",
-      "why": "Cela révèle des divisions profondes au sein de l'Occident, affaiblissant la cohésion face aux menaces iraniennes et russes.",
+      "title": "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
+      "summary": "Washington et Caracas ont annoncé la reprise complète des liens diplomatiques après des années de tensions, incluant l'échange d'ambassadeurs et la levée partielle de sanctions. Ce rapprochement s'inscrit dans un contexte de crise énergétique mondiale et de besoin américain en pétrole vénézuélien. Les négociations ont accéléré suite à des concessions mutuelles sur les droits humains et l'exploitation pétrolière. Géopolitiquement, cela affaiblit l'isolement du Venezuela et ouvre des opportunités économiques pour les deux parties.",
+      "why": "Ce dégel diplomatique pourrait stabiliser les approvisionnements pétroliers mondiaux et modifier les alliances en Amérique latine face à la crise au Moyen-Orient.",
       "category": "Diplomatie"
     },
     {
-      "title": "Pékin et Moscou exigent cessez-le-feu immédiat et appellent au multilatéralisme",
-      "summary": "La Chine et la Russie ont conjointement exigé un cessez-le-feu en Iran via l'ONU, condamnant les frappes américano-israéliennes comme une agression unilatérale. Pékin propose une médiation multilatérale impliquant l'OCS. Moscou renforce son soutien logistique à Téhéran. Cela positionne l'axe sino-russe comme contre-pouvoir occidental dans la crise.",
-      "why": "Leur intervention diplomatique pourrait bloquer des résolutions ONU et polariser davantage le monde en blocs rivaux.",
-      "category": "Diplomatie"
+      "title": "OTAN intercepte un missile iranien visant la Turquie",
+      "summary": "Les forces de l'OTAN ont abattu un missile balistique lancé par l'Iran en direction de la Turquie, marquant la première intervention directe de l'alliance dans le conflit. Le ministre turc des Affaires étrangères a salué l'action tout en appelant à la vigilance accrue. Cet incident élargit le théâtre des opérations au-delà d'Israël et du Golfe, impliquant potentiellement plus d'États membres. Les implications incluent un risque d'embrasement régional et des tensions internes à l'OTAN sur l'engagement.",
+      "why": "Première action OTAN contre l'Iran, cela teste la cohésion de l'alliance et pourrait précipiter une escalade impliquant la Turquie.",
+      "category": "Conflit"
     },
     {
-      "title": "Crise énergétique : blocage partiel du détroit d'Ormuz provoque flambée des prix du pétrole",
-      "summary": "Des affrontements navals ont entraîné un blocage partiel du détroit d'Ormuz, faisant bondir les prix du baril à plus de 150 dollars. La marine US propose d'escorter les pétroliers pour maintenir les flux. Aucune installation pétrolière iranienne n'est touchée à ce stade, mais le risque augmente. Cela amplifie l'inflation mondiale et fragilise les économies dépendantes des importations énergétiques.",
-      "why": "Une perturbation prolongée menace la croissance globale, forçant des réalignements stratégiques sur l'énergie.",
+      "title": "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz",
+      "summary": "Donald Trump a annoncé que la marine américaine pourrait convoyer les navires pétroliers à travers le détroit d'Ormuz face aux menaces iraniennes et au blocage partiel. Cette mesure vise à contrer la flambée des prix du pétrole après deux jours de tensions. Elle s'appuie sur des déploiements existants dans le Golfe et suit des perturbations logistiques comme à Dubaï. Géopolitiquement, cela affirme la domination navale US et protège les flux énergétiques mondiaux.",
+      "why": "En sécurisant 20% du pétrole mondial, cela prévient une crise énergétique plus grave et renforce la position américaine face à Téhéran.",
       "category": "Énergie"
+    },
+    {
+      "title": "Coopération nucléaire franco-allemande émerge dans la crise iranienne",
+      "summary": "La France et l'Allemagne initient une collaboration renforcée sur le nucléaire civil et militaire en réponse à la guerre au Moyen-Orient. Cette entente inclut des échanges technologiques et une coordination stratégique pour la dissuasion. Elle fait suite aux annonces de Macron et vise à pallier les divisions transatlantiques. Les enjeux portent sur l'indépendance énergétique européenne et une possible réorientation des alliances.",
+      "why": "Ce partenariat bilatéral clé pourrait catalyser une défense européenne autonome, impactant les relations avec les États-Unis et la Russie.",
+      "category": "Sécurité"
     }
   ],
   "updates": [
     {
       "title": "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
-      "original": "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran ; Israël poursuit bombardements sur Téhéran et étend au Liban",
-      "summary": "Israël a intensifié ses frappes simultanées sur Téhéran et le Liban, avec un déploiement terrestre confirmé au sud-Liban pour contrer le Hezbollah. Cela suit les attaques du Hezbollah sur Haïfa et la mort présumée de Khamenei. Les opérations visent les centres de commandement iraniens et les bases chiites libanaises. Une escalade militaire significative avec risque d'occupation prolongée.",
-      "why": "Ce passage à une phase terrestre marque une escalade majeure, potentiellement engageant l'OTAN et les alliés arabes.",
+      "original": "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran ; Israël étend ses bombardements à Téhéran et au Liban",
+      "summary": "Israël a intensifié ses frappes sur Téhéran, ciblant les centres de commandement des Gardiens de la Révolution, et étendu les opérations terrestres au sud-Liban contre le Hezbollah. Cette escalade suit les attaques du Hezbollah sur Haïfa et la mort présumée de Khamenei. Les bombardements visent à nettoyer les zones frontalières pour une intervention terrestre. Aucune installation pétrolière n'a été touchée à ce stade.",
+      "why": "Cette extension marque une phase d'invasion potentielle, risquant une guerre régionale prolongée et une intervention plus large des alliés.",
       "category": "Conflit"
     },
     {
-      "title": "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
-      "original": "Etats-Unis et Venezuela rétablissent leurs relations diplomatiques",
-      "summary": "Washington et Caracas ont rouvert leurs ambassades et signé un accord de normalisation diplomatique complète ce matin. Cela survient malgré la crise iranienne, visant à stabiliser l'Amérique latine. Le Venezuela s'engage à ne pas soutenir Téhéran militairement. Un accord sur le pétrole est en négociation pour contourner les sanctions.",
-      "why": "Ce rapprochement inattendu réduit les tensions hémisphériques et sécurise les approvisionnements énergétiques US.",
+      "title": "Trump impose blocus commercial sur l'Espagne et menace le Royaume-Uni",
+      "original": "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales ; Trump impose blocus commercial sur l'Espagne",
+      "summary": "Donald Trump a officialisé un blocus commercial contre l'Espagne pour refus d'accès à ses bases en Andalousie, menaçant aussi le Royaume-Uni pour une base dans l'océan Indien. L'UE et Macron ont exprimé leur soutien à Pedro Sanchez face à ces pressions. Cette rupture commerciale cible la quatrième économie de l'UE. Elle révèle des fissures dans l'alliance occidentale sur l'Iran.",
+      "why": "Ces sanctions transatlantiques fragmentent l'Occident, affaiblissant la réponse unie au conflit et boostant l'autonomie européenne.",
       "category": "Diplomatie"
     }
   ]
