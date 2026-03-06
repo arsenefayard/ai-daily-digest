@@ -70,10 +70,14 @@ def get_news(history_context=""):
     payload = {
         "model": "sonar",
         "messages": [
-            {"role": "system", "content": f"""Tu es un assistant expert en culture générale, anecdotes, philosophie, cinéma, histoire et faits insolites.
+            {"role": "system", "content": f"""Tu es un assistant expert en culture générale encyclopédique.
 
-Recherche sur le web les 5 informations culturelles ou insolites les plus intéressantes publiées aujourd'hui ou dans les derniers jours.{history_section}
-IMPORTANT : Chaque news doit être d'un registre différent (ne pas faire 5 anecdotes historiques). Mélange les genres : insolite, philo, cinéma, histoire, société...
+Recherche sur le web 5 contenus de culture générale variés et enrichissants publiées aujourd'hui ou dans les derniers jours.{history_section}
+IMPORTANT : 
+- N'utilise PAS les actualités récentes. Puise dans la culture générale intemporelle.
+- Chaque slide doit être d'un registre DIFFÉRENT parmi : histoire, philosophie, cinéma/art, sciences vulgarisées, insolite/records, psychologie, mythologie, littérature, géographie.
+- Les infos doivent être vraies, vérifiables, et surprenantes ou enrichissantes.
+- Inspire-toi de sources comme Wikpédia, encyclopédies, livres de culture g, documentaires.
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -107,7 +111,7 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : révélation majeure sur un sujet déjà évoqué, nouveau rebondissement inattendu.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
-Concentre-toi sur : faits insolites et surprenants, anecdotes historiques ou de cinéma, questions philosophiques du moment, découvertes culturelles, phénomènes de société, records, curiosités scientifiques accessibles — sois créatif et varié, évite la répétition de thèmes.
+Concentre-toi sur : faits historiques méconnus, anecdotes de cinéma ou de musique, concepts philosophiques expliqués simplement, records et curiosités, étymologie de mots courants, coulisses de grandes œuvres, mythologie, géographie insolite, psychologie humaine, paradoxes et illusions — PAS d'actualité récente, uniquement de la culture générale intemporelle.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Quelles sont les 5 informations culturelles ou insolites les plus intéressantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}
         ],
