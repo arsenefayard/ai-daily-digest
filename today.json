@@ -2,35 +2,43 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "summary": "Au Mobile World Congress de Barcelone, plus de 100 000 visiteurs ont découvert des applications pratiques de l'IA et de la 5G, avec des robots humanoïdes d'AgiBot capables de s'adapter en temps réel pour assister vendeurs, hôteliers et opérateurs d'usine. Deutsche Telekom présente Magenta, un assistant d'appel intelligent offrant traduction instantanée et synthèse vocale avec consentement mutuel. Des ambulances connectées transmettent des données médicales via IA embarquée, et NTT Docomo teste des technologies immersives 3D. Selon l'étude GSMA Network Transformation 2026, 70% des projets 5G-IA visent l'amélioration opérationnelle.[1]",
-      "why": "Cela marque le passage de l'IA du stade expérimental à des déploiements concrets dans l'industrie et les services, boostant l'efficacité via la 5G.",
+      "title": "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale",
+      "summary": "Anthropic a refusé les nouvelles exigences du Département de la Défense américain concernant un accès illimité à ses modèles d'IA pour la surveillance de masse intérieure et les armes entièrement autonomes. Moins de 24 heures après ce refus, le président américain a ordonné à toutes les agences fédérales de cesser immédiatement d'utiliser les technologies Anthropic, les désignant comme « risque pour la chaîne d'approvisionnement ». En réaction, OpenAI a annoncé un nouveau contrat avec la Défense en maintenant ses garde-fous déclarés. Ce conflit ouvert révèle une convergence explosive entre géopolitique, espionnage industriel et sécurité opérationnelle autour des grands modèles d'IA.",
+      "why": "Cet événement marque un tournant majeur dans les relations entre les géants de l'IA et l'État américain, établissant un précédent sur les limites éthiques acceptables pour les contrats militaires et créant une fracture stratégique entre les approches d'Anthropic et OpenAI.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Palantir déploie Maven : un logiciel IA révolutionnant les frappes militaires américaines en Iran",
+      "summary": "Palantir a développé Maven, un logiciel d'IA qui transforme les données militaires massives en décisions de guerre en temps réel. Le système intègre images satellites, vidéos de drones, capteurs au sol et surveillance électronique pour identifier les cibles et proposer les meilleures stratégies d'engagement. Une étude du 18e corps aéroporté de l'armée américaine, citée par le Washington Post, montre que Maven accélère considérablement le cycle décisionnel militaire. Le logiciel fonctionne comme un « Uber de la guerre », identifiant les unités disponibles et les missions possibles en temps réel pour optimiser les opérations.",
+      "why": "Maven représente une application concrète et à grande échelle de l'IA dans les opérations militaires, changeant fondamentalement le rythme et l'efficacité des frappes aériennes et posant des questions critiques sur l'automatisation des décisions de guerre.",
+      "category": "Application"
+    },
+    {
+      "title": "Firefox 148 lance le « coupe-circuit » pour bloquer les fonctionnalités IA dans le navigateur",
+      "summary": "Mozilla a publié Firefox 148 avec un panneau de contrôle centralisé pour l'IA, permettant aux utilisateurs de désactiver complètement ou de gérer de manière granulaire les fonctionnalités d'intelligence artificielle du navigateur. Cette fonctionnalité, attendue de longue date, répond aux préoccupations croissantes concernant la vie privée et le contrôle utilisateur sur les technologies IA intégrées aux navigateurs. La mise à jour corrige également des failles de sécurité liées au sandbox du navigateur.",
+      "why": "Cette initiative de Mozilla offre aux utilisateurs un contrôle explicite sur les technologies IA, établissant un précédent important pour la transparence et l'autonomie des utilisateurs face à l'intégration croissante de l'IA dans les outils numériques quotidiens.",
       "category": "Application"
     },
     {
       "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King déploie aux États-Unis un assistant vocal IA connecté aux casques des employés pour monitorer leur activité en restaurant. Ce système analyse voix et mouvements, s'inscrivant dans une tendance où l'IA scrute messages sur Teams/Slack et activité clavier en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles menant à des conclusions potentiellement erronées contre les salariés. Sans garde-fous adéquats, cela pose des risques majeurs pour la protection des données personnelles.[2]",
-      "why": "Cela illustre l'extension controversée de l'IA à la surveillance du travail, soulevant des débats éthiques sur la privacy et l'emploi.",
+      "summary": "Burger King déploie un assistant vocal IA connecté aux casques des employés dans ses restaurants aux États-Unis pour surveiller les performances et les interactions en temps réel. Le système collecte des données sensibles incluant la voix, les messages entre collègues (via Teams ou Slack) et le rythme de travail. Les défenseurs de la vie privée alertent sur l'absence de garde-fous, soulignant que l'IA peut accumuler des informations personnelles massives et tirer des conclusions parfois fausses sur les salariés, avec des conséquences potentiellement négatives pour ces derniers.",
+      "why": "Ce déploiement illustre l'expansion rapide de la surveillance IA en milieu professionnel sans cadre éthique clair, soulevant des questions urgentes sur les droits des travailleurs, la protection des données et les risques de discrimination algorithmique.",
       "category": "Application"
     },
     {
-      "title": "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
-      "summary": "Le logiciel Maven de Palantir transforme les données militaires (satellites, drones, capteurs) en décisions de guerre rapides pour l'armée US, comme dans les opérations en Iran. Il analyse masses d'informations en heures, identifie menaces, propose cibles et optimise missions en temps réel, comparé à Uber pour son efficacité. Une étude sur le 18e corps aéroporté cite 20 geeks IA par unité. Cela accélère drastiquement le rythme des opérations militaires.[4]",
-      "why": "L'IA redéfinit la guerre moderne, rendant les décisions plus rapides et précises, avec implications géopolitiques majeures.",
-      "category": "Application"
-    },
-    {
-      "title": "Marchés doutent de la rentabilité IA malgré investissements massifs en 2026",
-      "summary": "Malgré des milliards investis en data centers et GPU par les géants de l'IA, Wall Street doute du ROI des modèles comme GPT-5, les profits ne suivant pas la puissance. Les actionnaires exigent désormais des cas d'usage solides et mesurables pour les projets IA industriels. Les coûts réels grimpent, passant d'une phase 'fun' à des investissements stratégiques rigoureux. Cela impacte les stratégies d'entreprises face à des risques accrus.[3]",
-      "why": "Ce scepticisme financier pourrait freiner les investissements IA et forcer une maturité dans les déploiements industriels.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "5 Mars 2026 : Synthèse des avancées clés en intelligence artificielle",
-      "summary": "Le site ia-info.fr publie un récapitulatif des développements IA majeurs du 5 mars 2026, couvrant innovations techniques et applications émergentes. Cela inclut probablement les annonces du MWC et autres événements récents, offrant un panorama structuré. Les points saillants mettent en lumière l'accélération des intégrations IA dans divers secteurs. Utile pour contextualiser l'actualité quotidienne.[7]",
-      "why": "Cette synthèse centralise les progrès IA récents, aidant à identifier les tendances dominantes du moment.",
+      "title": "Découverte de près de 3 000 clés d'API Google Cloud exposées dans du code côté client",
+      "summary": "Des chercheurs de Truffle Security ont identifié près de 3 000 clés d'API Google Cloud (identifiants « AIza ») visibles dans du code côté client, exposant potentiellement l'accès à des services critiques incluant Gemini et d'autres ressources cloud. Cette découverte révèle une vulnérabilité majeure dans les pratiques de sécurité des développeurs et des entreprises utilisant les services Google Cloud. L'incident souligne les risques croissants d'espionnage industriel et d'accès non autorisé aux infrastructures IA critiques.",
+      "why": "Cette exposition massive de credentials cloud représente une menace directe à la sécurité des infrastructures IA et des données sensibles, illustrant comment les défauts de sécurité opérationnelle peuvent compromettre les systèmes IA les plus critiques.",
       "category": "Recherche"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Escalade du conflit Anthropic-Pentagone : du refus contractuel à l'interdiction fédérale",
+      "original": "Anthropic refuse les conditions du Pentagone sur les armes autonomes et la surveillance de masse (06/03/2026)",
+      "summary": "Le refus initial d'Anthropic de se conformer aux exigences du Pentagone a déclenché une réaction présidentielle sans précédent : un ordre exécutif interdisant à toutes les agences fédérales d'utiliser les technologies Anthropic. Cette escalade transforme un désaccord contractuel en conflit géopolitique majeur, avec OpenAI capitalisant immédiatement en annonçant un nouveau contrat de défense. Le conflit révèle une fracture stratégique fondamentale entre les approches éthiques des géants de l'IA face aux demandes militaires.",
+      "why": "Cette escalade établit un précédent critique sur le pouvoir de l'État à sanctionner les entreprises d'IA refusant ses conditions, tout en créant une asymétrie stratégique où OpenAI bénéficie du rejet d'Anthropic.",
+      "category": "Régulation"
+    }
+  ]
 }
