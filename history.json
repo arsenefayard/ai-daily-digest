@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "AMD dévoile le processeur Epyc Sorano pour l'IA dans les télécommunications",
-      "Étude BCE : l'IA ne cause pas de pertes massives d'emplois mais booste les embauches en R&D",
-      "Microsoft alerte sur une nouvelle technique de phishing via failles OAuth",
-      "Seagate annonce disques durs de 44 To avec technologie Mozaic 4+ pour data centers IA",
-      "New Delhi Summit soulève cinq problématiques mondiales majeures de l'IA"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Anthropic refuse les conditions du Pentagone et se heurte à un ordre présidentiel d'interdiction fédérale",
       "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
       "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
@@ -68,6 +58,16 @@
       "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US en Iran",
       "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
       "Synthèse des avancées clés en intelligence artificielle au 5 mars 2026"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
+      "OpenAI signe nouveau contrat avec la Défense US après échec Anthropic-Pentagone",
+      "Géants IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
+      "Tensions Moyen-Orient menacent investissements Big Tech en IA dans la région",
+      "1er Congrès Eau & Intelligence Artificielle à Grenoble du 4 au 6 mars 2026"
     ]
   }
 ]
