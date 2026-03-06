@@ -96,7 +96,88 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
 }
-/* ── UPDATE CARD ── */
+/* ── WHY EXPANDED OVERLAY ── */
+#why-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  background: rgba(6,8,13,0.85);
+  backdrop-filter: blur(8px);
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+#why-overlay.open {
+  display: flex;
+}
+#why-expanded {
+  background: rgba(200,240,100,0.05);
+  border: 1px solid rgba(200,240,100,0.2);
+  border-radius: 16px;
+  padding: 20px 20px 20px 20px;
+  max-width: 480px;
+  width: 100%;
+  position: relative;
+  animation: expandIn 0.25s cubic-bezier(0.22,1,0.36,1);
+}
+#why-overlay.update-mode #why-expanded {
+  background: rgba(251,191,36,0.05);
+  border-color: rgba(251,191,36,0.2);
+}
+@keyframes expandIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
+}
+#why-expanded-text {
+  font-size: 14px;
+  line-height: 1.7;
+  color: rgba(200,240,100,0.9);
+  font-weight: 400;
+  padding-right: 28px;
+}
+#why-overlay.update-mode #why-expanded-text {
+  color: rgba(251,191,36,0.9);
+}
+#why-close {
+  position: absolute;
+  top: 12px; right: 14px;
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+  border: none;
+  color: rgba(255,255,255,0.5);
+  font-size: 14px;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  line-height: 1;
+  transition: background 0.2s;
+}
+#why-close:hover { background: rgba(255,255,255,0.15); }
+
+/* ── WHY BOX CLICKABLE ── */
+.why-box {
+  cursor: default;
+  transition: border-color 0.2s, background 0.2s;
+}
+.why-box.expandable {
+  cursor: pointer;
+  animation: pulseBorder 2s ease-in-out infinite;
+}
+.why-box.expandable:active { opacity: 0.8; }
+@keyframes pulseBorder {
+  0%, 100% { border-color: rgba(200,240,100,0.13); box-shadow: none; }
+  50%       { border-color: rgba(200,240,100,0.6);  box-shadow: 0 0 8px rgba(200,240,100,0.2); }
+}
+.card.update-card .why-box.expandable {
+  animation: pulseBorderUpdate 2s ease-in-out infinite;
+}
+@keyframes pulseBorderUpdate {
+  0%, 100% { border-color: rgba(251,191,36,0.15); box-shadow: none; }
+  50%       { border-color: rgba(251,191,36,0.6);  box-shadow: 0 0 8px rgba(251,191,36,0.2); }
+}
+
+/* ── UPDATE CARD ── *//* ── UPDATE CARD ── */
 .card.update-card {
   border-color: rgba(251,191,36,0.2);
   background: #0f1008;
@@ -172,6 +253,14 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 
 <div id="stage"></div>
 
+<!-- Why expanded overlay -->
+<div id="why-overlay">
+  <div id="why-expanded">
+    <button id="why-close">✕</button>
+    <p id="why-expanded-text"></p>
+  </div>
+</div>
+
 <footer>
   <span class="hint" id="hint-l">← préc.</span>
   <span class="hint-sep"></span>
@@ -237,15 +326,13 @@ function fitTextToBox(card) {
       body.style.fontSize = fs + 'px';
     }
   }
-  // Réduit la police du rectangle why-box
+  // Marque why-box comme expandable si le texte déborde
   const whyText = card.querySelector('.why-text');
   const whyBox  = card.querySelector('.why-box');
   if (whyText && whyBox) {
-    let fs = 13;
-    whyText.style.fontSize = fs + 'px';
-    while (whyBox.scrollHeight > whyBox.clientHeight && fs > 9) {
-      fs -= 0.5;
-      whyText.style.fontSize = fs + 'px';
+    whyBox.classList.remove('expandable');
+    if (whyText.scrollHeight > whyText.clientHeight || whyBox.scrollHeight > whyBox.clientHeight) {
+      whyBox.classList.add('expandable');
     }
   }
 }
@@ -366,6 +453,30 @@ stage.addEventListener('mousedown',   e=>onStart(e.clientX,e.clientY));
 window.addEventListener('mousemove',  e=>{ if(tracking) onMove(e.clientX,e.clientY); });
 window.addEventListener('mouseup',    onEnd);
 window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='ArrowDown') goTo(cur+1); if(e.key==='ArrowLeft'||e.key==='ArrowUp') goTo(cur-1); });
+
+/* ── WHY OVERLAY ── */
+const whyOverlay = document.getElementById('why-overlay');
+const whyExpandedText = document.getElementById('why-expanded-text');
+const whyClose = document.getElementById('why-close');
+
+document.addEventListener('click', e => {
+  const box = e.target.closest('.why-box');
+  if (!box || !box.classList.contains('expandable')) return;
+  const text = box.querySelector('.why-text');
+  if (!text) return;
+  whyExpandedText.textContent = text.textContent;
+  const card = box.closest('.card');
+  whyOverlay.classList.toggle('update-mode', card && card.classList.contains('update-card'));
+  whyOverlay.classList.add('open');
+});
+
+whyClose.addEventListener('click', () => {
+  whyOverlay.classList.remove('open');
+});
+
+whyOverlay.addEventListener('click', e => {
+  if (e.target === whyOverlay) whyOverlay.classList.remove('open');
+});
 
 /* ── INIT ── */
 (async()=>{
