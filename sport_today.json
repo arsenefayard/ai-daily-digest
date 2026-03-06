@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Quarts de finale de la Coupe de France disputés les 4 et 5 mars 2026",
-      "summary": "Les quarts de finale de la Coupe de France ont eu lieu mercredi 4 et jeudi 5 mars avec des affiches alléchantes: Strasbourg (L1) vs Reims (L2), Lorient (L1) vs Nice (L1), OM (L1) vs Toulouse (L1), et Lyon (L1) vs Lens (L1). Ces matchs opposent des clubs de Ligue 1 à des équipes de divisions inférieures ou concurrentes, créant des enjeux de surprise potentielle. Les vainqueurs se qualifieront pour les demi-finales, avec des implications pour le prestige et les primes financières. Les résultats influencent la dynamique des championnats respectifs en fin de saison.",
-      "why": "Ces quarts marquent une étape décisive vers la finale de la plus ancienne coupe nationale, avec des chocs entre cadors et outsiders qui captivent les fans français.",
-      "category": "Football"
-    },
-    {
-      "title": "Tournoi des 6 Nations: Écosse vs France prévu ce 7 mars 2026",
-      "summary": "Dans le cadre du Tournoi des 6 Nations 2026, l'équipe de France affronte l'Écosse le 7 mars au Murrayfield Stadium d'Édimbourg. Les Bleus, tenants du titre, visent une performance solide dans ce match crucial pour le classement final. Ce déplacement en Écosse représente un test majeur après l'ouverture face à l'Irlande. Une victoire renforcerait les ambitions françaises pour un back-to-back.",
-      "why": "Ce choc entre deux puissances européennes du rugby est pivotal pour le leadership du tournoi et motive des millions de supporters.",
-      "category": "Rugby"
-    },
-    {
-      "title": "Grand Prix d'Australie de Formule 1 ouvre la saison le 8 mars 2026",
-      "summary": "Le championnat de F1 2026 démarre avec le Grand Prix d'Australie à Melbourne le 8 mars, diffusé sur Canal+. Cette course inaugurale sur l'Albert Park réunit les top équipes comme Red Bull, Ferrari et McLaren dans une bataille pour le titre. Les nouveautés réglementaires sur les moteurs et aéro pourraient créer des surprises dès le coup d'envoi. Les résultats initiaux dicteront les favoris de la saison.",
-      "why": "Première épreuve majeure de F1, elle fixe le ton d'une saison compétitive avec de potentiels changements de hiérarchie.",
+      "title": "Grand Prix d'Australie de Formule 1 débute ce week-end",
+      "summary": "Le Grand Prix d'Australie ouvre officiellement la saison 2026 de Formule 1 les 6-8 mars. Cette première manche est cruciale pour établir les hiérarchies et les dynamiques d'équipe pour toute la saison. Les conditions météorologiques australiennes et la compétitivité accrue des nouveaux châssis promettent un spectacle intense. C'est le point de départ d'une saison qui verra également l'arrivée du Grand Prix de Madrid en septembre.",
+      "why": "L'ouverture de la saison F1 est l'un des événements sportifs majeurs de l'année, attirant des millions de spectateurs mondiaux et marquant le début de la compétition pour les 10 écuries.",
       "category": "F1"
     },
     {
-      "title": "Paris-Nice débute le cyclisme mondial le 8 mars 2026",
-      "summary": "La 84e édition de Paris-Nice, course par étapes emblématique, s'élance le 8 mars pour une semaine intense jusqu'au 15 mars. Organisée par l'UCI, elle réunit les meilleurs grimpeurs et sprinteurs en préparation des classiques printanières. Le parcours vallonné en France offre des opportunités de général en chef précoce. Les performances influenceront les sélections pour les Tours majeurs.",
-      "why": "Première grande course WorldTour de l'année, elle identifie les leaders du peloton cycliste post-hiver.",
+      "title": "Jeux Paralympiques d'hiver 2026 commencent le 6 mars",
+      "summary": "Les Jeux Paralympiques d'hiver 2026 débutent le 6 mars et se dérouleront jusqu'au 15 mars. Cet événement majeur rassemble les meilleurs athlètes paralympiques du monde dans diverses disciplines hivernales. Les compétitions couvrent le ski alpin, le biathlon, le hockey sur luge et d'autres sports d'hiver adaptés. C'est une vitrine mondiale pour le sport paralympique et l'excellence athlétique.",
+      "why": "Les Jeux Paralympiques représentent un événement sportif international de premier plan, célébrant l'excellence et la détermination des athlètes en situation de handicap.",
       "category": "Autre"
     },
     {
-      "title": "Préparation intensive pour Roland-Garros 2026 confirmée dans les calendriers",
-      "summary": "Les Internationaux de France de tennis à Roland-Garros sont programmés du 18 mai au 7 juin 2026 au Stade Roland-Garros à Paris. Avec la terre battue comme surface, les joueurs top comme Alcaraz et Swiatek visent le titre dans ce Grand Chelem mythique. Les qualifications et wild-cards se profilent, avec un engouement croissant post-Australian Open. L'événement attire des millions de spectateurs et booste le tennis mondial.",
-      "why": "Grand Chelem majeur sur terre battue, son calendrier précoce motive les joueurs et fans pour la saison européenne.",
-      "category": "Tennis"
+      "title": "Combat MMA Holloway vs Oliveira 2 le 7 mars",
+      "summary": "Le combat très attendu entre Max Holloway et Charles Oliveira pour leur deuxième affrontement est programmé le 7 mars 2026. Ce rematch intervient après leur premier combat mémorable et suscite une grande anticipation dans la communauté MMA. Les deux combattants sont parmi les plus talentueux de leurs catégories respectives. Ce duel promet d'être spectaculaire et pourrait avoir des implications majeures pour les classements des poids légers.",
+      "why": "Ce rematch entre deux stars du MMA est un événement majeur pour les fans de sports de combat, avec des enjeux importants pour les classements mondiaux.",
+      "category": "Autre"
+    },
+    {
+      "title": "Huitièmes de finale de la Ligue des Champions débute le 10-11 mars",
+      "summary": "Les huitièmes de finale de la Ligue des Champions commencent le 10-11 mars 2026, marquant l'entrée dans la phase éliminatoire de la plus prestigieuse compétition de football européenne. Les premiers matchs verront s'affronter les meilleures équipes d'Europe dans des duels intenses. La deuxième manche des huitièmes se déroulera les 17-18 mars. Cette phase est cruciale pour déterminer les équipes qui accèderont aux quarts de finale.",
+      "why": "La Ligue des Champions est le tournoi de football club le plus prestigieux au monde, attirant des millions de spectateurs et mettant en avant le meilleur du football européen.",
+      "category": "Football"
+    },
+    {
+      "title": "Tournoi des 6 Nations : France vs Écosse le 7 mars",
+      "summary": "Le match France vs Écosse du Tournoi des 6 Nations 2026 se dispute le 7 mars, dans une phase cruciale de la compétition. La France, tenante du titre, cherche à poursuivre sa domination et vise une 28ème victoire dans le tournoi. Ce match est l'un des affrontements les plus intenses du rugby européen, avec une rivalité historique entre les deux nations. L'enjeu est majeur pour les ambitions françaises dans le tournoi.",
+      "why": "Le Tournoi des 6 Nations est la compétition de rugby la plus prestigieuse d'Europe, et chaque match est un événement sportif majeur suivi par des millions de fans.",
+      "category": "Rugby"
     }
   ],
   "updates": []
