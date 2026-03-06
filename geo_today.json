@@ -2,35 +2,50 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Etats-Unis et Venezuela rétablissent leurs relations diplomatiques",
-      "summary": "Les Etats-Unis et le Venezuela ont annoncé ce 6 mars le rétablissement de leurs relations diplomatiques, marquant une rupture avec des années d'hostilité. Cette décision intervient dans un contexte de tensions régionales exacerbées par le conflit au Moyen-Orient. Elle pourrait ouvrir la voie à une coopération sur l'énergie et la migration. Géopolitiquement, cela affaiblit l'isolement vénézuélien et renforce l'influence américaine en Amérique latine face à des rivaux comme la Chine et la Russie.",
-      "why": "Ce rapprochement inattendu modifie les équilibres en Amérique latine et pourrait stabiliser les marchés pétroliers sud-américains au milieu de la crise énergétique mondiale.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Israël étend ses bombardements à Téhéran et déploie des forces au Liban",
-      "summary": "Israël a intensifié ses frappes sur Téhéran et étendu ses opérations militaires au Liban ce matin, en réponse aux attaques du Hezbollah revendiquant la vengeance pour la mort présumée d'Ali Khamenei. Les bombardements visent les positions des Gardiens de la Révolution pour préparer une possible intervention terrestre. Cela élargit le front du conflit israélo-iranien. Les implications incluent un risque accru d'escalade régionale impliquant le Liban et potentiellement la Syrie.",
-      "why": "Cette extension marque une phase nouvelle de la guerre, augmentant les risques d'un conflit multi-fronts au Moyen-Orient.",
+      "title": "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
+      "summary": "Au cinquième jour du conflit Iran-Israël-États-Unis, un sous-marin américain a coulé un navire de guerre iranien dans l'océan Indien au large du Sri Lanka. Cet incident marque une escalade significative du conflit au-delà du Moyen-Orient, impliquant désormais les eaux stratégiques de l'océan Indien. L'événement démontre l'engagement militaire direct des États-Unis contre l'Iran et élargit le théâtre d'opérations bien au-delà de la région traditionnelle. Cette action renforce la domination navale américaine mais risque de perturber le commerce maritime mondial dans une région cruciale.",
+      "why": "Cet incident représente une escalade militaire majeure hors du Moyen-Orient et menace la sécurité des routes commerciales maritimes mondiales, avec des implications économiques globales.",
       "category": "Conflit"
     },
     {
-      "title": "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
-      "summary": "Le sénateur Marco Rubio a déclaré que les Etats-Unis et Israël vont 'déchaîner l'armée sur l'Iran' avec une intensification des attaques imminente pour détruire ses capacités nucléaires et balistiques. Cette annonce hawkish soutient les frappes en cours et vise un changement de régime à Téhéran. Elle reflète une ligne dure au sein du camp républicain. Géopolitiquement, cela durcit la posture américaine et pourrait rallier ou diviser les alliés du Golfe.",
-      "why": "Les paroles de Rubio signalent une accélération potentielle de l'engagement US, impactant la stabilité mondiale et les prix de l'énergie.",
+      "title": "Déploiement du porte-avions français Charles-de-Gaulle en Méditerranée orientale",
+      "summary": "Emmanuel Macron a annoncé l'envoi du porte-avions Charles-de-Gaulle en Méditerranée orientale dans une logique qu'il qualifie de 'strictement défensive'. La France se positionne ainsi aux côtés de la Grande-Bretagne pour protéger ses bases militaires régionales et ses intérêts stratégiques. Ce déploiement marque l'engagement direct de l'Europe dans le conflit, malgré les tentatives de maintenir une posture défensive. L'action française contraste avec le refus de l'Espagne de mettre ses bases à disposition des États-Unis.",
+      "why": "Le déploiement français signale l'implication croissante de l'Europe dans le conflit moyen-oriental et redéfinit les alliances militaires régionales, avec des conséquences durables pour la politique étrangère européenne.",
       "category": "Conflit"
     },
     {
-      "title": "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
-      "summary": "La Bourse de New York a plongé mardi, avec le Dow Jones perdant 2,22%, le Nasdaq 2,13% et le S&P 500 2,07%, plombée par les craintes d'une guerre prolongée au Moyen-Orient. Les attaques iraniennes sur des sites US dans le Golfe et les bombardements israéliens alimentent les inquiétudes sur l'inflation énergétique. Les marchés craignent un impact sur l'économie américaine. Cela souligne la vulnérabilité des finances mondiales aux chocs géopolitiques.",
-      "why": "Cette dégringolade boursière reflète l'incertitude globale et pourrait déclencher des récessions en chaîne si le conflit persiste.",
-      "category": "Économie"
+      "title": "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales pour refus de coopération militaire",
+      "summary": "Donald Trump s'en prend à l'Espagne après son refus de laisser Washington utiliser deux bases militaires américaines en Andalousie, et menace de rompre les relations commerciales. Le Royaume-Uni fait également face à des menaces après avoir initialement interdit l'utilisation d'une base militaire britannique dans l'océan Indien. Ces menaces commerciales reflètent la stratégie de Trump d'utiliser le levier économique pour forcer l'alignement militaire des alliés européens. La situation crée des tensions intra-OTAN et remet en question la solidarité atlantique.",
+      "why": "Ces menaces commerciales fragmentent l'alliance occidentale et utilisent l'arme économique pour imposer une participation militaire, risquant de déstabiliser les relations transatlantiques.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Participation de l'Iran à la Coupe du monde 2026 menacée par la guerre au Moyen-Orient",
-      "summary": "La FIFA envisage d'exclure l'Iran de la Coupe du monde 2026, à moins de 100 jours du coup d'envoi, en raison de l'escalade du conflit avec Israël et les Etats-Unis. Cette mesure sanctionnerait l'implication du régime dans des actes hostiles. Elle intervient après des frappes massives sur des sites iraniens. Géopolitiquement, cela isole davantage Téhéran sur la scène internationale et amplifie les pressions internes.",
-      "why": "L'exclusion sportive d'un pays majeur comme l'Iran renforce son paria status et pourrait influencer la dynamique interne du régime.",
-      "category": "Diplomatie"
+      "title": "Crise énergétique mondiale : flambée des prix du pétrole due au blocage du détroit d'Ormuz",
+      "summary": "Les prix du baril de pétrole flambent en raison de la situation bloquée dans le détroit d'Ormuz, passage stratégique crucial pour le commerce pétrolier mondial. L'administration Trump annonce que la marine américaine pourrait escorter les pétroliers dans ce couloir pour maintenir la navigation. Selon les experts, la plupart des pays disposent de stocks permettant de tenir deux à trois semaines, mais une perturbation prolongée aurait des conséquences graves sur l'inflation et la croissance économique mondiale. La crise énergétique affecte déjà les consommateurs américains et menace la stabilité économique globale.",
+      "why": "Le blocage du détroit d'Ormuz menace l'approvisionnement énergétique mondial et crée une instabilité économique majeure, avec des répercussions sur l'inflation et la croissance dans tous les pays importateurs de pétrole.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Pénétration israélienne au sud du Liban et préparation d'opérations contre le Hezbollah",
+      "summary": "L'armée israélienne a pénétré le sud du Liban en prévision d'opérations militaires contre le Hezbollah, étendant le conflit au-delà des frontières iraniennes. Cette action marque l'ouverture d'un nouveau front régional et risque d'impliquer directement le Hezbollah, allié majeur de l'Iran. Le déploiement israélien au Liban complique la situation géopolitique régionale et menace de transformer le conflit Iran-Israël en conflit régional plus large. Les implications humanitaires pour la population libanaise sont considérables.",
+      "why": "L'expansion militaire israélienne au Liban ouvre un nouveau front du conflit et risque de transformer une crise bilatérale en conflit régional impliquant le Hezbollah et d'autres acteurs régionaux.",
+      "category": "Conflit"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Escalade militaire directe des États-Unis contre l'Iran",
+      "original": "Frappes américano-israéliennes massives contre l'Iran (05/03/2026)",
+      "summary": "Au-delà des frappes aériennes initiales, les États-Unis engagent désormais des opérations navales directes contre l'Iran, avec le coulage d'un navire de guerre iranien par un sous-marin américain. L'administration Trump annonce également une escalade militaire supplémentaire dans les prochains jours selon Marco Rubio. Le conflit s'étend géographiquement bien au-delà du Moyen-Orient traditionnel, impliquant l'océan Indien et menaçant les routes commerciales mondiales. Cette escalade marque un passage d'une intervention aérienne à une confrontation militaire directe et prolongée.",
+      "why": "Cette escalade transforme le conflit d'une série de frappes ponctuelles en une confrontation militaire directe et prolongée, avec des implications majeures pour la sécurité maritime mondiale et l'économie globale.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Fragmentation de l'alliance occidentale sur la participation au conflit",
+      "original": "UE et Macron soutiennent l'Espagne face aux menaces commerciales de Trump (06/03/2026)",
+      "summary": "Tandis que la France déploie le porte-avions Charles-de-Gaulle et s'engage militairement, l'Espagne refuse de mettre ses bases à disposition et fait face à des menaces commerciales de Trump. Le Royaume-Uni connaît une situation similaire. Cette divergence révèle une fracture majeure au sein de l'OTAN et de l'UE sur le niveau d'engagement dans le conflit moyen-oriental. Trump utilise les menaces commerciales pour forcer l'alignement, créant une tension entre solidarité atlantique et intérêts nationaux.",
+      "why": "La fragmentation de l'alliance occidentale affaiblit la cohésion transatlantique et crée des précédents dangereux d'utilisation de représailles commerciales pour imposer des choix militaires.",
+      "category": "Diplomatie"
+    }
+  ]
 }
