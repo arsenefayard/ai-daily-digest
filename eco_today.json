@@ -1,36 +1,13 @@
 {
   "date": "06/03/2026",
-  "news": [
-    {
-      "title": "Les prix du pétrole atteignent leur plus haut niveau depuis 14 mois en raison du conflit au Moyen-Orient",
-      "summary": "Les cours du Brent ont grimpé de 12% depuis le 28 février suite aux affrontements entre États-Unis, Israël et Iran perturbant les livraisons d'énergie. Le détroit d'Ormuz, par lequel transite un quart du pétrole et du gaz mondial, est menacé de fermeture par l'Iran, avec des attaques affectant la production de GNL au Qatar. Les pays importateurs comme la Chine, l'Inde, le Japon et la Corée du Sud affirment disposer de réserves pour plusieurs mois. Cette flambée des prix de l'énergie risque d'accélérer l'inflation mondiale et de freiner la croissance économique.",
-      "why": "Cette hausse des prix du pétrole impacte directement l'inflation globale et les coûts énergétiques, menaçant la stabilité économique mondiale.",
-      "category": "Matières premières"
-    },
+  "news": [],
+  "updates": [
     {
       "title": "Bitcoin dépasse les 71 000 $ après un fort rebond",
-      "summary": "Le Bitcoin a rebondi le 4 mars, surmontant les ventes paniques liées aux tensions au Moyen-Orient et à la faiblesse d'autres actifs. Cette reprise intervient malgré l'escalade géopolitique qui pèse habituellement sur les cryptomonnaies. Le marché crypto montre une résilience inattendue face aux chocs externes. Cela pourrait signaler un regain de confiance des investisseurs dans les actifs numériques comme valeur refuge.",
-      "why": "Le rebond du Bitcoin reflète la dynamique des marchés alternatifs et influence la volatilité des investissements spéculatifs mondiaux.",
+      "original": "Bitcoin dépasse les 71 000 $ après un fort rebond",
+      "summary": "Le Bitcoin a continué son rebond le 4 mars, dépassant les 71 000 $ malgré les tensions au Moyen-Orient qui ont pesé sur d'autres actifs. Ce mouvement reflète une résilience du marché crypto face à la volatilité géopolitique. Les investisseurs y voient un refuge alternatif aux actifs traditionnels impactés par la hausse du pétrole. Le cours a gagné plus de 5 % en 24 heures, atteignant des niveaux inédits depuis des mois.",
+      "why": "Ce rebond souligne la décorrélation croissante des cryptos avec les marchés traditionnels, influençant les stratégies d'allocation d'actifs mondiales.",
       "category": "Crypto"
-    },
-    {
-      "title": "États-Unis annoncent escorte militaire des pétroliers dans le détroit d'Ormuz",
-      "summary": "Le président Donald Trump a déclaré que la marine américaine escorterait les pétroliers pour sécuriser les approvisionnements perturbés par le conflit avec l'Iran. L'Irak a suspendu temporairement ses champs pétroliers majeurs. Cette mesure vise à garantir la libre circulation de l'énergie mondiale. Elle risque d'intensifier les tensions géopolitiques tout en stabilisant potentiellement les flux pétroliers.",
-      "why": "Cette intervention militaire directe protège les approvisionnements énergétiques critiques mais élève les risques d'escalade au Moyen-Orient.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Hausse des prix des carburants en France due au blocage du détroit d'Ormuz",
-      "summary": "Le ministre de l'Économie français prévoit une augmentation de quelques centimes aux pompes, sans risque d'approvisionnement immédiat. Le détroit d'Ormuz, transitant 20% du commerce mondial, reste bloqué par le conflit iranien. Le gouvernement convoque les distributeurs pour discuter d'aides potentielles comme le chèque carburant. Cela pourrait devenir un enjeu politique majeur pour les ménages français.",
-      "why": "L'impact direct sur les consommateurs français illustre la propagation rapide des chocs pétroliers aux économies européennes.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "FMI révise à la hausse la croissance subsaharienne à 4,6% pour 2026",
-      "summary": "Le FMI a ajusté ses prévisions de croissance pour l'Afrique subsaharienne à 4,6% en 2026, contre 4,4% dans sa mise à jour d'octobre 2025. Cette révision positive reflète une résilience malgré les tensions mondiales. Les projections intègrent des facteurs comme la reprise des exportations de matières premières. Cela soutient les perspectives d'investissement dans la région émergente.",
-      "why": "Cette révision optimiste contraste avec les chocs géopolitiques globaux et renforce l'attractivité des marchés africains.",
-      "category": "Politique monétaire"
     }
-  ],
-  "updates": []
+  ]
 }
