@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "summary": "Au Mobile World Congress de Barcelone, plus de 100 000 visiteurs découvrent des applications pratiques de l'IA combinée à la 5G, comme les robots humanoïdes d'AgiBot capables de s'adapter en temps réel pour assister vendeurs, hôteliers et opérateurs d'usine. Deutsche Telekom présente Magenta, un assistant d'appel avec traduction instantanée et synthèse vocale. Des ambulances connectées transmettent des données médicales via IA embarquée, et NTT Docomo teste des technologies immersives 3D. Selon l'étude GSMA Network Transformation 2026, 70% des projets 5G-IA visent l'amélioration opérationnelle.[1]",
-      "why": "Cela marque le passage de l'IA du prototype à des déploiements industriels concrets, accélérant l'adoption massive dans les secteurs services et santé.",
+      "summary": "Au Mobile World Congress de Barcelone, plus de 100 000 visiteurs ont découvert des applications pratiques de l'IA et de la 5G, avec des robots humanoïdes d'AgiBot capables de s'adapter en temps réel pour assister vendeurs, hôteliers et opérateurs d'usine. Deutsche Telekom présente Magenta, un assistant d'appel intelligent offrant traduction instantanée et synthèse vocale avec consentement mutuel. Des ambulances connectées transmettent des données médicales via IA embarquée, et NTT Docomo teste des technologies immersives 3D. Selon l'étude GSMA Network Transformation 2026, 70% des projets 5G-IA visent l'amélioration opérationnelle.[1]",
+      "why": "Cela marque le passage de l'IA du stade expérimental à des déploiements concrets dans l'industrie et les services, boostant l'efficacité via la 5G.",
       "category": "Application"
     },
     {
       "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King déploie aux USA un assistant vocal IA connecté aux casques des employés pour monitorer leur activité en restaurant. Ce système analyse voix, mouvements et interactions, s'inscrivant dans une tendance où l'IA scrute messages sur Teams/Slack et activité clavier en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles menant à des conclusions potentiellement erronées et discriminatoires. Sans garde-fous, cela pose des risques majeurs pour les salariés.[2]",
-      "why": "Cela illustre l'extension controversée de la surveillance IA au monde du travail, suscitant débats éthiques et réglementaires urgents.",
+      "summary": "Burger King déploie aux États-Unis un assistant vocal IA connecté aux casques des employés pour monitorer leur activité en restaurant. Ce système analyse voix et mouvements, s'inscrivant dans une tendance où l'IA scrute messages sur Teams/Slack et activité clavier en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles menant à des conclusions potentiellement erronées contre les salariés. Sans garde-fous adéquats, cela pose des risques majeurs pour la protection des données personnelles.[2]",
+      "why": "Cela illustre l'extension controversée de l'IA à la surveillance du travail, soulevant des débats éthiques sur la privacy et l'emploi.",
       "category": "Application"
     },
     {
       "title": "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
-      "summary": "Le logiciel Maven de Palantir, utilisé par l'armée US, intègre images satellites, drones, capteurs et surveillance pour analyser des masses de données en heures et proposer cibles prioritaires. Inspiré d'Uber, il identifie unités disponibles et optimise missions en temps réel, comme dans les opérations contre l'Iran. Le 18e corps aéroporté emploie 20 experts IA, transformant la guerre en décisions automatisées ultra-rapides. Cela dépasse les capacités humaines traditionnelles.[4]",
-      "why": "Cette militarisation avancée de l'IA redéfinit les conflits modernes, amplifiant préoccupations sur l'autonomie létale et l'éthique.",
+      "summary": "Le logiciel Maven de Palantir transforme les données militaires (satellites, drones, capteurs) en décisions de guerre rapides pour l'armée US, comme dans les opérations en Iran. Il analyse masses d'informations en heures, identifie menaces, propose cibles et optimise missions en temps réel, comparé à Uber pour son efficacité. Une étude sur le 18e corps aéroporté cite 20 geeks IA par unité. Cela accélère drastiquement le rythme des opérations militaires.[4]",
+      "why": "L'IA redéfinit la guerre moderne, rendant les décisions plus rapides et précises, avec implications géopolitiques majeures.",
       "category": "Application"
     },
     {
       "title": "Marchés doutent de la rentabilité IA malgré investissements massifs en 2026",
-      "summary": "Wall Street questionne le ROI des milliards investis en data centers et GPU par les géants IA, alors que modèles comme GPT-5 explosent en puissance sans profits équivalents. Les entreprises doivent adopter des cas d'usage solides et mesurables, passant d'une phase 'fun' à des investissements stratégiques rigoureux. Les actionnaires exigent désormais transparence sur coûts et retours. L'IA industriel entre dans une ère de maturité économique critique.[3]",
-      "why": "Ce scepticisme des investisseurs pourrait freiner le boom IA, forçant une priorisation des applications rentables.",
+      "summary": "Malgré des milliards investis en data centers et GPU par les géants de l'IA, Wall Street doute du ROI des modèles comme GPT-5, les profits ne suivant pas la puissance. Les actionnaires exigent désormais des cas d'usage solides et mesurables pour les projets IA industriels. Les coûts réels grimpent, passant d'une phase 'fun' à des investissements stratégiques rigoureux. Cela impacte les stratégies d'entreprises face à des risques accrus.[3]",
+      "why": "Ce scepticisme financier pourrait freiner les investissements IA et forcer une maturité dans les déploiements industriels.",
       "category": "Entreprise"
     },
     {
-      "title": "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "summary": "Le sommet AI Impact à New Delhi réunit experts mondiaux pour aborder l'impact de l'IA, officialisant la 'New Delhi Declaration on AI Impact'. Les cinq problématiques majeures incluent biais algorithmiques, cybersécurité, perte d'emplois, régulation éthique et souveraineté des données. Des solutions globales sont débattues pour mitiger ces risques. Cela positionne l'Inde comme leader dans la gouvernance IA.[5]",
-      "why": "Ces problématiques structurent le débat international, influençant futures régulations et normes mondiales.",
-      "category": "Régulation"
+      "title": "5 Mars 2026 : Synthèse des avancées clés en intelligence artificielle",
+      "summary": "Le site ia-info.fr publie un récapitulatif des développements IA majeurs du 5 mars 2026, couvrant innovations techniques et applications émergentes. Cela inclut probablement les annonces du MWC et autres événements récents, offrant un panorama structuré. Les points saillants mettent en lumière l'accélération des intégrations IA dans divers secteurs. Utile pour contextualiser l'actualité quotidienne.[7]",
+      "why": "Cette synthèse centralise les progrès IA récents, aidant à identifier les tendances dominantes du moment.",
+      "category": "Recherche"
     }
   ],
   "updates": []
