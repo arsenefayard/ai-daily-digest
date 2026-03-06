@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Anthropic refuse les conditions du Pentagone et se heurte à un ordre présidentiel d'interdiction fédérale",
-      "summary": "Anthropic a rejeté les nouvelles conditions du Département de la Défense américain, refusant l'usage de ses modèles pour la surveillance de masse intérieure et les armes autonomes, malgré des menaces de désignation comme risque pour la chaîne d'approvisionnement. Le président américain a ordonné à toutes les agences fédérales de cesser immédiatement l'utilisation des technologies Anthropic. OpenAI a annoncé un nouveau contrat avec la Défense, en maintenant ses garde-fous éthiques. Cette escalade met en lumière les tensions géopolitiques autour des usages militaires de l'IA.",
-      "why": "Cela marque un conflit ouvert entre leaders de l'IA et le gouvernement US, redéfinissant les alliances stratégiques et les limites éthiques des contrats défense.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
-      "summary": "Broadcom a publié des résultats trimestriels supérieurs aux attentes, avec un chiffre d'affaires de 19,31 milliards de dollars en hausse de 29%, porté par le boom de l'IA. Les revenus IA ont doublé à 8,4 milliards, tirés par les accélérateurs personnalisés et solutions réseau pour data centers. La division semi-conducteurs a généré 12,52 milliards, et les logiciels d'infrastructure 6,80 milliards. Le groupe prévoit 22 milliards pour le prochain trimestre et lance un rachat d'actions de 10 milliards.",
-      "why": "Ces chiffres confirment l'explosion de la demande en hardware IA, renforçant la position des semi-conducteurs comme pilier économique de l'industrie.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
-      "summary": "Des pirates utilisent les modèles IA DeepSeek et Claude pour automatiser des attaques contre des équipements FortiGate dans le monde entier. Ces assauts transforment des erreurs de configuration en intrusions massives, débutant en février. L'exploitation d'IA commerciale accélère les campagnes cyber, rendant les défenses traditionnelles obsolètes. Cela souligne la vulnérabilité croissante des infrastructures critiques face aux outils IA accessibles.",
-      "why": "Première campagne cyber à grande échelle utilisant des LLMs commerciaux, illustrant le double usage des IA avancées en offense et défense.",
+      "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
+      "summary": "Au Mobile World Congress de Barcelone, plus de 100 000 visiteurs découvrent des applications pratiques de l'IA combinée à la 5G, comme les robots humanoïdes d'AgiBot capables de s'adapter en temps réel pour assister vendeurs, hôteliers et opérateurs d'usine. Deutsche Telekom présente Magenta, un assistant d'appel avec traduction instantanée et synthèse vocale. Des ambulances connectées transmettent des données médicales via IA embarquée, et NTT Docomo teste des technologies immersives 3D. Selon l'étude GSMA Network Transformation 2026, 70% des projets 5G-IA visent l'amélioration opérationnelle.[1]",
+      "why": "Cela marque le passage de l'IA du prototype à des déploiements industriels concrets, accélérant l'adoption massive dans les secteurs services et santé.",
       "category": "Application"
     },
     {
-      "title": "Géants de l'IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
-      "summary": "Microsoft, OpenAI, Oracle et autres leaders IA ont promis à Trump de compenser l'augmentation de leurs besoins électriques, estimés entre 6,7% et 12% de la consommation US. Ces engagements visent à rassurer les collectivités sur l'impact des data centers. Anthropic est exclu en raison de son contentieux avec le gouvernement sur les usages militaires. Le ministre de l'Énergie accuse les démocrates de semer la peur sur ce sujet.",
-      "why": "Adresse un enjeu critique de durabilité pour l'IA, influençant les politiques énergétiques et les implantations de data centers aux USA.",
-      "category": "Régulation"
+      "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
+      "summary": "Burger King déploie aux USA un assistant vocal IA connecté aux casques des employés pour monitorer leur activité en restaurant. Ce système analyse voix, mouvements et interactions, s'inscrivant dans une tendance où l'IA scrute messages sur Teams/Slack et activité clavier en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles menant à des conclusions potentiellement erronées et discriminatoires. Sans garde-fous, cela pose des risques majeurs pour les salariés.[2]",
+      "why": "Cela illustre l'extension controversée de la surveillance IA au monde du travail, suscitant débats éthiques et réglementaires urgents.",
+      "category": "Application"
     },
     {
-      "title": "CoreWeave signe partenariat pluriannuel avec Perplexity pour l'inférence IA",
-      "summary": "CoreWeave, spécialiste du cloud GPU, a conclu un accord pluriannuel avec Perplexity pour fournir l'infrastructure d'inférence IA. Ce partenariat renforce les capacités de Perplexity face à la demande croissante en modèles avancés. Il s'inscrit dans la course aux ressources compute pour l'IA générative. CoreWeave consolide ainsi sa position auprès des acteurs IA émergents.",
-      "why": "Illustre la dépendance critique au cloud spécialisé et la compétition pour les capacités d'inférence, clé pour scaler les services IA.",
+      "title": "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
+      "summary": "Le logiciel Maven de Palantir, utilisé par l'armée US, intègre images satellites, drones, capteurs et surveillance pour analyser des masses de données en heures et proposer cibles prioritaires. Inspiré d'Uber, il identifie unités disponibles et optimise missions en temps réel, comme dans les opérations contre l'Iran. Le 18e corps aéroporté emploie 20 experts IA, transformant la guerre en décisions automatisées ultra-rapides. Cela dépasse les capacités humaines traditionnelles.[4]",
+      "why": "Cette militarisation avancée de l'IA redéfinit les conflits modernes, amplifiant préoccupations sur l'autonomie létale et l'éthique.",
+      "category": "Application"
+    },
+    {
+      "title": "Marchés doutent de la rentabilité IA malgré investissements massifs en 2026",
+      "summary": "Wall Street questionne le ROI des milliards investis en data centers et GPU par les géants IA, alors que modèles comme GPT-5 explosent en puissance sans profits équivalents. Les entreprises doivent adopter des cas d'usage solides et mesurables, passant d'une phase 'fun' à des investissements stratégiques rigoureux. Les actionnaires exigent désormais transparence sur coûts et retours. L'IA industriel entre dans une ère de maturité économique critique.[3]",
+      "why": "Ce scepticisme des investisseurs pourrait freiner le boom IA, forçant une priorisation des applications rentables.",
       "category": "Entreprise"
+    },
+    {
+      "title": "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
+      "summary": "Le sommet AI Impact à New Delhi réunit experts mondiaux pour aborder l'impact de l'IA, officialisant la 'New Delhi Declaration on AI Impact'. Les cinq problématiques majeures incluent biais algorithmiques, cybersécurité, perte d'emplois, régulation éthique et souveraineté des données. Des solutions globales sont débattues pour mitiger ces risques. Cela positionne l'Inde comme leader dans la gouvernance IA.[5]",
+      "why": "Ces problématiques structurent le débat international, influençant futures régulations et normes mondiales.",
+      "category": "Régulation"
     }
   ],
   "updates": []
