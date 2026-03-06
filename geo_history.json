@@ -2,17 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
-      "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
-      "UE et Macron soutiennent l'Espagne face aux menaces commerciales de Trump",
-      "Canada et Inde signent accords majeurs sur terres rares et uranium, fin des tensions",
-      "Air France suspend ses vols vers Cuba faute de carburant dû au blocus américain",
-      "Mort présumée du guide suprême Khamenei et frappes israéliennes prolongées"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Etats-Unis et Venezuela rétablissent leurs relations diplomatiques",
       "Israël étend ses bombardements à Téhéran et déploie des forces au Liban",
       "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
@@ -76,6 +65,13 @@
       "Coopération nucléaire franco-allemande émerge dans la crise iranienne",
       "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
       "Trump impose blocus commercial sur l'Espagne et menace le Royaume-Uni"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Fermeture du détroit d'Ormuz par l'Iran",
+      "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime"
     ]
   }
 ]
