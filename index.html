@@ -284,16 +284,17 @@ function makeCard(slide, idx) {
     ? '<span class="update-badge">Mise à jour</span>'
     : `<span class="card-num">0${newsIdx+1}</span>`;
 
+  const cleanText = t => t ? t.replace(/\[\d+\]/g, '').trim() : t;
   div.innerHTML = `
     <div class="card-meta">
       ${numLabel}
       <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
     </div>
     ${isUpdate && item.original ? `<div class="update-origin">↳ suite : ${item.original}</div>` : '<div class="divider"></div>'}
-    <div class="card-title">${item.title}</div>
+    <div class="card-title">${cleanText(item.title)}</div>
     <div class="card-content">
-      <div class="card-body">${item.summary}</div>
-      <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${item.why}</span></div>
+      <div class="card-body">${cleanText(item.summary)}</div>
+      <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${cleanText(item.why)}</span></div>
     </div>
   `;
   return div;
