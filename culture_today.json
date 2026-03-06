@@ -1,0 +1,36 @@
+{
+  "date": "06/03/2026",
+  "news": [
+    {
+      "title": "Festival Écrans Mixtes célèbre le cinéma queer à Lyon",
+      "summary": "La 16e édition du Festival Écrans Mixtes se tient du 4 au 12 mars 2026 dans 25 lieux de Lyon et sa métropole. Elle propose près de 60 films incluant courts-métrages, longs-métrages, documentaires et fictions explorant une large palette du cinéma queer. Ce rendez-vous immersif met en lumière des œuvres variées pour sensibiliser à la diversité des identités. Il attire un public curieux de découvertes cinématographiques audacieuses.",
+      "why": "Cet événement renforce la visibilité culturelle queer en France, favorisant l'inclusion et le dialogue sociétal autour de la diversité sexuelle.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "Exposition sur les momies au musée de l’Homme",
+      "summary": "Le musée de l’Homme présente une exposition temporaire sur les momies, dépassant l'imaginaire égyptien antique. Cette pratique ancestrale de momification est explorée à travers des traces découvertes dans plusieurs pays et époques du monde. L'exposition ravive un imaginaire riche tout en apportant un éclairage scientifique sur ces rituels funéraires. Elle invite à une réflexion sur les pratiques humaines universelles face à la mort.",
+      "why": "Elle déconstruit les stéréotypes pour offrir une vision globale et scientifique d'une pratique culturelle méconnue.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Marcoville expose des sculptures en verre recyclé à Marseille",
+      "summary": "La cathédrale de la Major à Marseille accueille une exposition de Marcoville, artiste utilisant exclusivement des matériaux de rebut comme le verre. Ses installations gigantesques, composées de dizaines de milliers de pièces, créent une relation intime avec le spectateur. Cette démarche éco-responsable transforme les déchets en œuvres monumentales et poétiques. L'événement met en scène un souffle artistique unique dans un lieu patrimonial.",
+      "why": "Elle illustre l'art contemporain engagé pour le recyclage, inspirant une conscience écologique à travers la beauté.",
+      "category": "Insolite"
+    },
+    {
+      "title": "Ematsuri : festival gratuit de culture japonaise en Val d'Oise",
+      "summary": "Les 7 et 8 mars 2026, Beaumont-sur-Oise devient un matsuri avec ateliers de cuisine japonaise, cosplay et manga à dessiner. Cet événement gratuit immerge le public dans la pop culture nippone de manière accessible et festive. Il propose une variété d'activités pour tous les âges, favorisant les échanges culturels. C'est une occasion rare de vivre l'énergie japonaise aux portes de Paris.",
+      "why": "Il démocratise la culture japonaise en rendant la pop culture gratuite et interactive, renforçant les liens franco-nippons.",
+      "category": "Société"
+    },
+    {
+      "title": "Urban Art Fair : Oli de Bigflo & Oli inaugure un espace dédié",
+      "summary": "Pour ses 10 ans, l'Urban Art Fair au Carreau du Temple du 19 au 22 mars 2026 met en avant Oli du duo Bigflo & Oli avec un espace dédié. De nombreux artistes urbains exposent leurs œuvres dans une ambiance festive. Cette édition anniversaire introduit des nouveautés pour célébrer le street art. Elle attire amateurs et collectionneurs dans un cadre dynamique.",
+      "why": "La participation d'une star du rap toulousain popularise l'art urbain auprès d'un public jeune et diversifié.",
+      "category": "Littérature"
+    }
+  ],
+  "updates": []
+}
