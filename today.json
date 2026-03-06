@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "AMD dévoile le processeur Epyc Sorano pour l'IA dans les télécommunications",
-      "summary": "Advanced Micro Devices (AMD) a présenté son processeur Epyc Sorano, spécialement conçu pour accélérer les projets d'intelligence artificielle dans les réseaux télécoms, en collaboration avec des opérateurs comme AT&T. La série Epyc 9005 cible également les centres de données pour des charges de travail IA intensives. Ce lancement répond à la demande croissante de puissance de calcul edge pour l'IA en temps réel sur 5G. Les performances promettent une réduction significative des latences dans les applications télécoms IA.",
-      "why": "Ce processeur renforce la position d'AMD face à NVIDIA dans l'infrastructure IA télécoms, crucial pour l'essor des réseaux intelligents.",
+      "title": "Anthropic refuse les conditions du Pentagone et se heurte à un ordre présidentiel d'interdiction fédérale",
+      "summary": "Anthropic a rejeté les nouvelles conditions du Département de la Défense américain, refusant l'usage de ses modèles pour la surveillance de masse intérieure et les armes autonomes, malgré des menaces de désignation comme risque pour la chaîne d'approvisionnement. Le président américain a ordonné à toutes les agences fédérales de cesser immédiatement l'utilisation des technologies Anthropic. OpenAI a annoncé un nouveau contrat avec la Défense, en maintenant ses garde-fous éthiques. Cette escalade met en lumière les tensions géopolitiques autour des usages militaires de l'IA.",
+      "why": "Cela marque un conflit ouvert entre leaders de l'IA et le gouvernement US, redéfinissant les alliances stratégiques et les limites éthiques des contrats défense.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
+      "summary": "Broadcom a publié des résultats trimestriels supérieurs aux attentes, avec un chiffre d'affaires de 19,31 milliards de dollars en hausse de 29%, porté par le boom de l'IA. Les revenus IA ont doublé à 8,4 milliards, tirés par les accélérateurs personnalisés et solutions réseau pour data centers. La division semi-conducteurs a généré 12,52 milliards, et les logiciels d'infrastructure 6,80 milliards. Le groupe prévoit 22 milliards pour le prochain trimestre et lance un rachat d'actions de 10 milliards.",
+      "why": "Ces chiffres confirment l'explosion de la demande en hardware IA, renforçant la position des semi-conducteurs comme pilier économique de l'industrie.",
       "category": "Entreprise"
     },
     {
-      "title": "Étude BCE : l'IA ne cause pas de pertes massives d'emplois mais booste les embauches en R&D",
-      "summary": "Une étude de la Banque centrale européenne conclut que l'intelligence artificielle n'entraîne pas de destructions nettes d'emplois, les entreprises l'utilisant principalement pour recruter dans la recherche et développement. Contrairement aux craintes populaires, l'IA crée des opportunités qualifiées plutôt que des suppressions massives. Les secteurs impactés voient une transformation des tâches vers des rôles plus analytiques. Ce rapport contredit les analyses alarmistes récentes aux USA.",
-      "why": "Cette analyse nuancée par une institution majeure apaise les débats sur l'impact économique de l'IA et oriente les politiques publiques.",
-      "category": "Recherche"
-    },
-    {
-      "title": "Microsoft alerte sur une nouvelle technique de phishing via failles OAuth",
-      "summary": "Microsoft a mis en garde contre une méthode de phishing exploitant des vulnérabilités dans le protocole OAuth, utilisé pour les authentifications sécurisées dans les apps cloud et IA. Les attaquants usurpent des tokens pour accéder à des comptes sans mot de passe. Cette menace touche particulièrement les environnements IA collaboratifs. Les recommandations incluent des audits renforcés et des MFA avancés.",
-      "why": "OAuth est omniprésent dans les écosystèmes IA ; cette vulnérabilité expose des données sensibles critiques pour la recherche et les déploiements.",
+      "title": "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
+      "summary": "Des pirates utilisent les modèles IA DeepSeek et Claude pour automatiser des attaques contre des équipements FortiGate dans le monde entier. Ces assauts transforment des erreurs de configuration en intrusions massives, débutant en février. L'exploitation d'IA commerciale accélère les campagnes cyber, rendant les défenses traditionnelles obsolètes. Cela souligne la vulnérabilité croissante des infrastructures critiques face aux outils IA accessibles.",
+      "why": "Première campagne cyber à grande échelle utilisant des LLMs commerciaux, illustrant le double usage des IA avancées en offense et défense.",
       "category": "Application"
     },
     {
-      "title": "Seagate annonce disques durs de 44 To avec technologie Mozaic 4+ pour data centers IA",
-      "summary": "Seagate a lancé des disques durs atteignant 44 téraoctets grâce à sa technologie Mozaic 4+, optimisée pour les centres de données gérant des volumes massifs de données d'entraînement IA. Cette capacité répond à l'explosion des besoins en stockage pour les modèles large-scale. Les disques offrent une densité accrue et une fiabilité pour les workloads 24/7. Cela réduit les coûts d'infrastructure pour les hyperscalers.",
-      "why": "Le stockage massif est un goulot d'étranglement clé pour l'IA ; cette avancée abaisse les barrières à l'entraînement de modèles géants.",
-      "category": "Entreprise"
+      "title": "Géants de l'IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
+      "summary": "Microsoft, OpenAI, Oracle et autres leaders IA ont promis à Trump de compenser l'augmentation de leurs besoins électriques, estimés entre 6,7% et 12% de la consommation US. Ces engagements visent à rassurer les collectivités sur l'impact des data centers. Anthropic est exclu en raison de son contentieux avec le gouvernement sur les usages militaires. Le ministre de l'Énergie accuse les démocrates de semer la peur sur ce sujet.",
+      "why": "Adresse un enjeu critique de durabilité pour l'IA, influençant les politiques énergétiques et les implantations de data centers aux USA.",
+      "category": "Régulation"
     },
     {
-      "title": "New Delhi Summit soulève cinq problématiques mondiales majeures de l'IA",
-      "summary": "Le sommet AI Impact à New Delhi réunit experts mondiaux pour aborder cinq défis critiques de l'IA : biais algorithmiques, cybersécurité, impact sociétal, régulation éthique et durabilité énergétique. Des propositions concrètes émergent pour des standards globaux. L'Inde positionne ce 'New Delhi Declaration' comme cadre pour une IA responsable. Les discussions influencent les agendas G20 et ONU.",
-      "why": "Ce sommet marque un tournant diplomatique pour gouverner l'IA à l'échelle mondiale, avec implications pour tous les acteurs tech.",
-      "category": "Régulation"
+      "title": "CoreWeave signe partenariat pluriannuel avec Perplexity pour l'inférence IA",
+      "summary": "CoreWeave, spécialiste du cloud GPU, a conclu un accord pluriannuel avec Perplexity pour fournir l'infrastructure d'inférence IA. Ce partenariat renforce les capacités de Perplexity face à la demande croissante en modèles avancés. Il s'inscrit dans la course aux ressources compute pour l'IA générative. CoreWeave consolide ainsi sa position auprès des acteurs IA émergents.",
+      "why": "Illustre la dépendance critique au cloud spécialisé et la compétition pour les capacités d'inférence, clé pour scaler les services IA.",
+      "category": "Entreprise"
     }
   ],
   "updates": []
