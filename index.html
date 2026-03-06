@@ -326,12 +326,13 @@ function fitTextToBox(card) {
       body.style.fontSize = fs + 'px';
     }
   }
-  // Marque why-box comme expandable si le texte déborde
+  // Marque why-box comme expandable si le texte est clampé (points de suspension)
   const whyText = card.querySelector('.why-text');
   const whyBox  = card.querySelector('.why-box');
   if (whyText && whyBox) {
     whyBox.classList.remove('expandable');
-    if (whyText.scrollHeight > whyText.clientHeight || whyBox.scrollHeight > whyBox.clientHeight) {
+    // scrollHeight > offsetHeight = texte tronqué par line-clamp
+    if (whyText.scrollHeight > whyText.offsetHeight + 2) {
       whyBox.classList.add('expandable');
     }
   }
