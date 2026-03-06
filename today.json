@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "summary": "Au Mobile World Congress de Barcelone, plus de 100 000 visiteurs ont découvert des applications pratiques de l'IA et de la 5G, avec des robots humanoïdes d'AgiBot capables de s'adapter en temps réel pour assister vendeurs, hôteliers et opérateurs d'usine. Deutsche Telekom présente Magenta, un assistant d'appel intelligent offrant traduction instantanée et synthèse vocale avec consentement mutuel. Des ambulances connectées transmettent des données médicales via IA embarquée, tandis que NTT Docomo teste des technologies immersives 3D. Selon l'étude GSMA 'Network Transformation 2026', 70% des projets 5G-IA visent l'amélioration opérationnelle.[1]",
-      "why": "Cette édition marque un tournant vers des démonstrations concrètes plutôt que spéculatives, accélérant l'adoption industrielle de l'IA via 5G.",
+      "title": "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
+      "summary": "Des pirates informatiques utilisent les modèles IA commerciaux DeepSeek et Claude pour automatiser des attaques contre des pare-feu FortiGate à travers le monde, exploitant des erreurs de configuration pour des intrusions massives. La campagne, détectée début février, transforme des vulnérabilités mineures en breaches à grande échelle via l'automatisation IA. Cela met en lumière les risques d'usage malveillant des LLMs accessibles publiquement. Les entreprises doivent renforcer la surveillance des configurations réseau face à ces menaces évoluées.",
+      "why": "Cela démontre l'émergence d'attaques cyber boostées par l'IA, rendant les défenses traditionnelles obsolètes et nécessitant de nouvelles stratégies de cybersécurité.",
       "category": "Application"
     },
     {
-      "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King expérimente aux États-Unis un assistant vocal IA connecté aux casques des employés dans ses restaurants, capable d'analyser les interactions et le rythme de travail en direct. Ce système s'inscrit dans une tendance plus large où l'IA scrute messages sur Teams/Slack et activité clavier/souris en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles comme la voix et les habitudes, pouvant mener à des conclusions erronées préjudiciables. Sans garde-fous adéquats, ces outils posent des risques majeurs pour les salariés.[3]",
-      "why": "Cela illustre l'extension rapide de la surveillance IA au monde du travail quotidien, soulevant des débats éthiques cruciaux sur la privacy.",
-      "category": "Application"
-    },
-    {
-      "title": "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US en Iran",
-      "summary": "Le logiciel Maven de Palantir, utilisé par l'armée américaine, intègre images satellites, vidéos de drones et capteurs pour analyser des masses de données en heures et proposer des cibles prioritaires. Inspiré d'Uber, il identifie unités disponibles et optimise missions en temps réel, impliquant 20 geeks IA dans le 18e corps aéroporté selon le Washington Post. Ce déploiement change le rythme des opérations en Iran en automatisant décisions autrefois humaines. La firme privée transforme ainsi les océans de données en actions de guerre précises.[4]",
-      "why": "Maven redéfinit la guerre moderne par l'IA, augmentant vitesse et précision des frappes tout en posant questions sur l'autonomie décisionnelle.",
-      "category": "Application"
-    },
-    {
-      "title": "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "summary": "New Delhi a réuni les leaders mondiaux de l'IA pour un sommet examinant l'impact de cette technologie et les solutions nécessaires. Cinq problématiques majeures ont été soulevées, couvrant probablement biais, régulation, emploi, énergie et sécurité, bien que non détaillées ici. L'événement vise à coordonner réponses globales à la révolution IA. Il met en lumière l'urgence d'actions concertées face aux défis sociétaux et techniques.[5]",
-      "why": "Ce sommet positionne l'Inde comme hub de gouvernance IA, influençant potentiellement régulations internationales futures.",
+      "title": "OpenAI signe nouveau contrat avec la Défense US après échec Anthropic-Pentagone",
+      "summary": "Suite au refus d'Anthropic d'accepter les conditions du Pentagone interdisant surveillance de masse et armes autonomes, le président US ordonne l'arrêt des technologies Anthropic par les agences fédérales. OpenAI annonce immédiatement un contrat avec la Défense, en maintenant ses garde-fous éthiques déclarés. Ce revirement souligne les tensions géopolitiques autour des usages militaires de l'IA. Les implications incluent une polarisation des acteurs IA face aux exigences gouvernementales.",
+      "why": "Cela marque une fracture majeure dans l'écosystème IA US, avec OpenAI gagnant en parts de marché militaire tandis qu'Anthropic risque l'exclusion fédérale.",
       "category": "Régulation"
     },
     {
-      "title": "Synthèse des avancées clés en intelligence artificielle au 5 mars 2026",
-      "summary": "Le site ia-info.fr publie une synthèse des développements IA majeurs à cette date, couvrant innovations récentes en modèles, hardware et applications. Elle compile progrès techniques, annonces entreprises et impacts sociétaux des derniers jours. Ce récapitulatif aide à contextualiser l'évolution rapide du secteur. Il met en exergue tendances dominantes comme l'optimisation 5G et la militarisation.[6]",
-      "why": "Cette synthèse offre une vue d'ensemble actualisée, essentielle pour suivre le rythme effréné des avancées IA.",
-      "category": "Recherche"
+      "title": "Géants IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
+      "summary": "Microsoft, OpenAI, Oracle et autres leaders IA s'engagent auprès de Trump à compenser l'augmentation de leurs besoins électriques, représentant 6,7% à 12% de la consommation totale. Anthropic est exclu en raison de son contentieux avec le gouvernement. Ces promesses visent à apaiser les craintes locales sur les data centers. Le ministre de l'Énergie voit cela comme un rassurant pour les collectivités.",
+      "why": "Avec l'explosion des data centers IA, cet engagement atténue les tensions énergétiques et réglementaires, favorisant les investissements massifs.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Tensions Moyen-Orient menacent investissements Big Tech en IA dans la région",
+      "summary": "L'escalade de la guerre américano-israélienne contre l'Iran crée de l'incertitude autour des milliards investis par Microsoft, Amazon et G42 aux EAU et en Arabie Saoudite. Microsoft prévoit 7,9 milliards de dollars d'ici 2029 pour cloud et IA, tandis qu'Amazon investit dans formation et services IA. Ces engagements positionnaient la région comme hub IA mondial. Les frappes récentes sur Téhéran amplifient les risques géopolitiques.",
+      "why": "La région était un pivot stratégique pour l'IA ; cette instabilité pourrait rediriger les capitaux vers des zones plus stables.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "1er Congrès Eau & Intelligence Artificielle à Grenoble du 4 au 6 mars 2026",
+      "summary": "La Société Hydrotechnique de France organise le premier Congrès Eau & IA au World Trade Center de Grenoble, réunissant experts eau, data scientists et acteurs IA. L'événement aborde surveillance intelligente des réseaux, optimisation ressources et prédictions IA. Au programme : conférences, démos, expositions et networking pour innovations collectives. Il vise à transformer numériquement le secteur de l'eau face aux défis climatiques.",
+      "why": "Cet événement pionnier accélère l'adoption de l'IA dans la gestion durable de l'eau, un enjeu critique avec la rareté croissante des ressources.",
+      "category": "Application"
     }
   ],
   "updates": []
