@@ -1,20 +1,35 @@
 {
   "date": "06/03/2026",
-  "news": [],
-  "updates": [
+  "news": [
     {
-      "title": "Fermeture du détroit d'Ormuz par l'Iran",
-      "original": "Crise énergétique mondiale : flambée des prix du pétrole due au blocage du détroit d'Ormuz",
-      "summary": "L'Iran a officiellement fermé le détroit d'Ormuz, comme annoncé par Ebrahim Jabbari, conseiller des Gardiens de la Révolution, menaçant d'incendier tout navire tentant de traverser. Cette escalade intervient au quatrième jour du conflit israélo-américain contre l'Iran, après des frappes sur ses capacités balistiques. Les cours du pétrole flambent davantage, aggravant les pressions inflationnistes mondiales. Les États-Unis exhortent leurs citoyens à quitter le Moyen-Orient.",
-      "why": "Cette fermeture physique perturbe 20% du commerce pétrolier mondial, risquant une récession globale et forçant une réponse militaire accrue des puissances occidentales.",
-      "category": "Énergie"
+      "title": "Israël poursuit ses bombardements sur Téhéran et étend ses opérations au Liban",
+      "summary": "Israël a intensifié ses frappes aériennes sur Téhéran, ciblant des centres de commandement iraniens, et a déployé des forces au Liban en réponse aux attaques du Hezbollah revendiquant la mort d'Ali Khamenei. Ces opérations visent à neutraliser les capacités balistiques et nucléaires iraniennes relancées selon les États-Unis. Le conflit s'élargit ainsi à plusieurs fronts, impliquant des ripostes iraniennes par missiles et drones contre Israël et des bases américaines dans le Golfe. Les implications incluent un risque accru de guerre régionale prolongée affectant la stabilité moyen-orientale.",
+      "why": "Cette escalade directe entre Israël, l'Iran et le Hezbollah menace de déstabiliser l'ensemble du Moyen-Orient et d'impliquer davantage les puissances occidentales.",
+      "category": "Conflit"
     },
     {
-      "title": "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime",
-      "original": "Marco Rubio promet une escalade militaire américaine contre l'Iran ; Objectif américain de changement politique en Iran",
-      "summary": "Donald Trump affirme que les capacités balistiques de l'Iran sont 'décimées' et que le pays est à court de lanceurs, après les frappes américaines et israéliennes. Il se dit prêt à collaborer avec les membres survivants du régime et appelle explicitement les Iraniens à renverser leurs dirigeants. Le conflit entre dans sa quatrième journée avec des ripostes iraniennes sur des sites US dans le Golfe. Trump prévoit une durée de 4-5 semaines minimum.",
-      "why": "Cette déclaration marque un objectif explicite de régime change, potentiellement prolongeant le conflit et divisant les alliés internationaux sur la stratégie post-conflit.",
-      "category": "Conflit"
+      "title": "Donald Trump impose un blocus commercial sur l'Espagne pour refus d'accès aux bases militaires",
+      "summary": "Après le refus de Madrid d'autoriser l'utilisation des bases de Rota et Morón pour des opérations contre l'Iran, Trump a annoncé un blocus commercial contre l'Espagne et menace le Royaume-Uni pour une position similaire. L'UE a soutenu l'Espagne, affirmant que le commerce se négocie au niveau du bloc, tandis que Pedro Sánchez qualifie l'opération américaine d'illégale. Cette tension fracture l'alliance transatlantique au milieu du conflit iranien. Les enjeux économiques pourraient perturber les échanges UE-USA et affaiblir la cohésion OTAN.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Emmanuel Macron annonce une 'dissuasion nucléaire avancée' avec huit pays européens",
+      "summary": "Dans un discours rare sur la dissuasion nucléaire, Macron a révélé une coopération avec huit alliés européens pour renforcer les capacités nucléaires françaises face à la crise iranienne. Cette initiative vise à étendre la protection nucléaire au-delà de la France, impliquant potentiellement Allemagne et Italie. Parallèlement, le Charles de Gaulle est redéployé en Méditerranée pour défense anti-missiles. Cela marque un tournant dans la défense européenne autonome.",
+      "why": "Cette mesure renforce l'autonomie stratégique européenne et pourrait redéfinir les équilibres nucléaires en Europe face aux menaces moyen-orientales.",
+      "category": "Sécurité"
+    },
+    {
+      "title": "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
+      "summary": "Les indices Dow Jones, Nasdaq et S&P 500 ont plongé respectivement de 2,22%, 2,13% et 2,07% en raison des craintes d'une guerre prolongée au Moyen-Orient et de ses impacts inflationnistes via la flambée des prix de l'énergie. Les attaques iraniennes sur des sites américains dans le Golfe, dont Amazon aux Émirats, exacerbent les tensions. Israël bombarde simultanément Iran et Liban, tandis que les marchés craignent des perturbations pétrolières. Cela éclipse même les résultats d'entreprises.",
+      "why": "La chute boursière reflète les risques systémiques pour l'économie mondiale d'un conflit prolongé.",
+      "category": "Économie"
+    },
+    {
+      "title": "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz face à la flambée des prix du pétrole",
+      "summary": "Après deux jours de hausse des prix du baril due au blocage partiel du détroit d'Ormuz, Trump annonce que la marine américaine escortera les pétroliers pour sécuriser les flux énergétiques. Aucune installation pétrolière iranienne n'a été touchée à ce jour, mais le risque augmente avec la prolongation du conflit. L'Iran a riposté par des attaques sur des infrastructures dans le Golfe, perturbant Dubaï. Cela vise à atténuer la crise énergétique mondiale.",
+      "why": "La sécurisation du détroit est cruciale pour éviter une crise énergétique globale amplifiant l'inflation mondiale.",
+      "category": "Énergie"
     }
-  ]
+  ],
+  "updates": []
 }
