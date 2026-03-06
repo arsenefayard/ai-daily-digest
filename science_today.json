@@ -2,33 +2,33 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Détection de silice cristallisée et minéraux réox sensibles sur Mars par le rover",
-      "summary": "Le rover Perseverance a détecté dans une roche du rebord de Jezero une forte concentration de silice sous formes d'opale, calcédoine et quartz bien cristallisé, indiquant des processus géologiques similaires à ceux de la Terre. Des minéraux réox sensibles aux conditions d'oxydation/réduction ont été identifiés pour la première fois via Supercam et analyses robotiques. Ces découvertes, publiées fin février 2025 mais mises en avant récemment, remettent en question des décennies de certitudes sur l'histoire martienne. Elles suggèrent un passé hydrothermal actif et des implications pour la recherche de traces de vie.",
-      "why": "Cela bouleverse notre compréhension de la géologie martienne et renforce les espoirs de détection de biosignatures passées.",
-      "category": "Espace"
-    },
-    {
-      "title": "Comète interstellaire 3I/Atlas éjecte des substances organiques volatiles",
-      "summary": "La comète 3I/Atlas, d'origine extrasolaire, éjecte des substances organiques détectées par spectroscopie, confirmant la présence de glaces volatiles qui se subliment à basses températures. Cette observation, rapportée autour du 3 mars 2026, marque les six derniers mois de 2025 comme période clé pour son étude. Elle indique une composition chimique unique par rapport aux objets du Système solaire interne. Les implications concernent la détection d'objets interstellaires et leur apport potentiel de matière organique.",
-      "why": "Première confirmation directe d'éjection organique d'une comète interstellaire, révolutionnant l'étude des visiteurs extrasolaires.",
-      "category": "Espace"
-    },
-    {
-      "title": "Lien direct découvert entre perte auditive et déclin cognitif",
-      "summary": "Une étude publiée le 3 mars 2026 établit un lien direct entre la perte auditive et l'accélération du déclin cognitif, potentiellement via des mécanismes neuroinflammatoires. Cette avancée, issue de recherches récentes, suggère que la surdité aggrave les risques de démence. Des interventions précoces comme les aides auditives pourraient ralentir ce processus. Elle s'inscrit dans une vague de découvertes reliant santé sensorielle et cerveau.",
-      "why": "Ouvre la voie à des stratégies préventives contre la démence via la correction auditive, impactant des millions de personnes âgées.",
+      "title": "MIT démontre le rôle des inflammations de bas grade dans les maladies cardiovasculaires et neurodégénératives",
+      "summary": "Des chercheurs du MIT ont prouvé que les inflammations chroniques de faible intensité contribuent significativement au développement des maladies cardiovasculaires, métaboliques et neurodégénératives. Ces inflammations, auparavant considérées comme mineures, perturbent l'équilibre immunitaire global. La prévention doit désormais intégrer sommeil, alimentation et activité physique pour moduler l'immunité. Cela repousse les frontières entre santé physique et mentale.",
+      "why": "Cette découverte transforme la médecine préventive en ciblant l'immunité comme pivot central contre les maladies chroniques majeures.",
       "category": "Médecine"
     },
     {
-      "title": "Micrécharges électrostatiques confirmées sur Mars dues à grains minéraux chargés",
-      "summary": "Des observations récentes confirment que des rencontres répétées de grains minéraux chargés dans l'air sec de Mars produisent des micrécharges électrostatiques, passant de l'hypothèse à la réalité. Ce phénomène, détecté via instruments du rover, explique des comportements atmosphériques inattendus. Il a des implications pour l'érosion des sols et la survie de particules organiques. Publiée dans les derniers jours, cette découverte affine les modèles martiens.",
-      "why": "Révélation d'un processus électrostatique actif sur Mars, essentiel pour futures missions robotiques et habitées.",
-      "category": "Espace"
+      "title": "Sommeil profond : système de nettoyage cérébral 10 fois plus actif contre Alzheimer confirmé",
+      "summary": "Une étude de l'Université de Rochester publiée dans Science montre que le sommeil profond active un système de nettoyage cérébral éliminant les protéines toxiques liées à Alzheimer jusqu'à dix fois plus efficacement qu'à l'éveil. Ce mécanisme glymphatique draine les déchets accumulés dans le cerveau. Optimiser le sommeil devient une stratégie thérapeutique directe. Les implications touchent aussi l'immunité et la santé mentale.",
+      "why": "Traiter le sommeil équivaut à prévenir Alzheimer et d'autres troubles neurodégénératifs, révolutionnant les approches holistiques.",
+      "category": "Médecine"
     },
     {
-      "title": "Découverte de ribose, glucose et acides aminés dans échantillons de l'astéroïde Bennu",
-      "summary": "Les analyses des échantillons de Bennu rapportent la présence de ribose (squelette de l'ARN), glucose (sucre métabolique) et acides aminés, au-delà des composés basiques déjà connus. Ces molécules prébiotiques, annoncées récemment, indiquent un potentiel pour la formation génétique et énergétique cellulaire. Cela dépasse les météorites terrestres en complexité biochimique. Les implications pour l'exobiologie sont immédiates, suggérant un apport extraterrestre clé à la vie sur Terre.",
-      "why": "Premières détections directes de sucres et ribose dans un astéroïde, transformant les théories sur l'origine de la vie.",
+      "title": "Modèles prédictifs MIT-Harvard pour risques cardiovasculaires et neurodégénératifs à partir de données intégrées",
+      "summary": "Des équipes du MIT et Harvard ont créé des modèles prédisant les risques de maladies cardiovasculaires, diabète et troubles neurodégénératifs via analyses sanguines, imagerie, sommeil et inflammation. Ces outils identifient les trajectoires de risque sans diagnostic formel. Ils intègrent des paramètres multiples pour une évaluation personnalisée. Cela accélère la médecine prédictive précoce.",
+      "why": "Permet une intervention préventive personnalisée, potentiellement sauvant des millions de vies avant l'apparition des symptômes.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Chute de la longévité des dauphins femelles dans le golfe de Gascogne constatée",
+      "summary": "Des études récentes révèlent une diminution significative de l'espérance de vie des dauphins femelles dans le golfe de Gascogne, liée à des facteurs environnementaux. Cela reflète l'impact cumulatif du changement climatique et de la pollution marine. Les observations sur le terrain confirment une vulnérabilité accrue chez les femelles reproductrices. Des mesures de conservation urgentes sont appelées.",
+      "why": "Indicateur clé du déclin des écosystèmes marins, soulignant l'urgence d'actions climatiques et antipollution.",
+      "category": "Biologie"
+    },
+    {
+      "title": "29e lune d'Uranus découverte, enrichissant le système uranien",
+      "summary": "Des simulations et observations confirment une nouvelle lune autour d'Uranus, portant le total à 29. Cette découverte révèle un système satellite plus riche et dynamique que prévu. Elle s'appuie sur des analyses spectroscopiques avancées. Cela ouvre des questions sur la formation planétaire dans les géantes de glace.",
+      "why": "Améliore notre compréhension de la dynamique des systèmes planétaires extérieurs, préparant les futures missions comme Uranus Probe.",
       "category": "Espace"
     }
   ],
