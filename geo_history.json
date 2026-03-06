@@ -2,16 +2,6 @@
   {
     "date": "05/03/2026",
     "titles": [
-      "Frappes américano-israéliennes massives contre l'Iran",
-      "Macron annonce renforcement de l'arsenal nucléaire français",
-      "Flambée des prix de l'énergie due aux perturbations qataries",
-      "Démocrates US dénoncent les frappes de Trump en Iran",
-      "Pakistan sous pression entre Iran et Afghanistan"
-    ]
-  },
-  {
-    "date": "05/03/2026",
-    "titles": [
       "La Chine fixe un objectif de croissance à 4,5-5% pour 2026, le plus bas en trois décennies",
       "L'Iran frappe des groupes kurdes en Irak, étendant la guerre au Moyen-Orient",
       "Attaques iraniennes contre des sites américains dans le Golfe persique",
@@ -72,6 +62,18 @@
       "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
       "Pékin et Moscou exigent cessez-le-feu et appellent au multilatéralisme",
       "Macron déploie le Charles de Gaulle en Méditerranée pour défense anti-missiles"
+    ]
+  },
+  {
+    "date": "06/03/2026",
+    "titles": [
+      "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
+      "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
+      "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
+      "Pékin et Moscou exigent cessez-le-feu immédiat et appellent au multilatéralisme",
+      "Crise énergétique : blocage partiel du détroit d'Ormuz provoque flambée des prix du pétrole",
+      "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
+      "USA et Venezuela rétablissent pleinement leurs relations diplomatiques"
     ]
   }
 ]
