@@ -2,43 +2,35 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale",
-      "summary": "Anthropic a refusé les nouvelles exigences du Département de la Défense américain concernant un accès illimité à ses modèles d'IA pour la surveillance de masse intérieure et les armes entièrement autonomes. Moins de 24 heures après ce refus, le président américain a ordonné à toutes les agences fédérales de cesser immédiatement d'utiliser les technologies Anthropic, les désignant comme « risque pour la chaîne d'approvisionnement ». En réaction, OpenAI a annoncé un nouveau contrat avec la Défense en maintenant ses garde-fous déclarés. Ce conflit ouvert révèle une convergence explosive entre géopolitique, espionnage industriel et sécurité opérationnelle autour des grands modèles d'IA.",
-      "why": "Cet événement marque un tournant majeur dans les relations entre les géants de l'IA et l'État américain, établissant un précédent sur les limites éthiques acceptables pour les contrats militaires et créant une fracture stratégique entre les approches d'Anthropic et OpenAI.",
-      "category": "Régulation"
+      "title": "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
+      "summary": "Broadcom a publié des résultats trimestriels supérieurs aux attentes, avec un chiffre d'affaires de 19,31 milliards de dollars en hausse de 29% et un bénéfice ajusté de 2,05 dollars par action. Les revenus liés à l'IA ont explosé de 106% à 8,4 milliards, portés par la demande en accélérateurs personnalisés et solutions réseau pour data centers. La division semi-conducteurs a généré 12,52 milliards et les logiciels d'infrastructure 6,80 milliards. Pour le prochain trimestre, le groupe vise 22 milliards de dollars de CA et annonce 10 milliards en rachats d'actions.",
+      "why": "Ces résultats confirment le boom économique de l'IA et la rentabilité des semi-conducteurs spécialisés, signalant une accélération des investissements infrastructure.",
+      "category": "Entreprise"
     },
     {
-      "title": "Palantir déploie Maven : un logiciel IA révolutionnant les frappes militaires américaines en Iran",
-      "summary": "Palantir a développé Maven, un logiciel d'IA qui transforme les données militaires massives en décisions de guerre en temps réel. Le système intègre images satellites, vidéos de drones, capteurs au sol et surveillance électronique pour identifier les cibles et proposer les meilleures stratégies d'engagement. Une étude du 18e corps aéroporté de l'armée américaine, citée par le Washington Post, montre que Maven accélère considérablement le cycle décisionnel militaire. Le logiciel fonctionne comme un « Uber de la guerre », identifiant les unités disponibles et les missions possibles en temps réel pour optimiser les opérations.",
-      "why": "Maven représente une application concrète et à grande échelle de l'IA dans les opérations militaires, changeant fondamentalement le rythme et l'efficacité des frappes aériennes et posant des questions critiques sur l'automatisation des décisions de guerre.",
+      "title": "CoreWeave signe partenariat pluriannuel avec Perplexity pour l'inférence IA",
+      "summary": "CoreWeave, spécialiste du cloud GPU, a conclu un accord pluriannuel avec Perplexity AI pour fournir l'infrastructure d'inférence de ses modèles. Ce partenariat renforce la capacité de Perplexity à scaler ses services de recherche IA en temps réel. Il s'inscrit dans la course aux ressources compute pour l'IA générative. CoreWeave bénéficie ainsi d'un client majeur pour ses capacités NVIDIA.",
+      "why": "Il illustre la dépendance croissante des startups IA aux providers cloud spécialisés et la consolidation du marché de l'inférence.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
+      "summary": "Au Mobile World Congress, plus de 100 000 visiteurs ont découvert des applications pratiques de l'IA et 5G, comme les robots humanoïdes AgiBot pour commerce et usines, adaptables en temps réel. Deutsche Telekom présente Magenta, assistant d'appel avec traduction instantanée. Des ambulances connectées transmettent données médicales via IA embarquée, et NTT Docomo teste immersifs 3D. L'étude GSMA indique que 70% des projets 5G-IA visent l'amélioration opérationnelle.",
+      "why": "Cela marque le passage de l'IA expérimentale à des déploiements industriels concrets via 5G, boostant productivité sectorielle.",
       "category": "Application"
     },
     {
-      "title": "Firefox 148 lance le « coupe-circuit » pour bloquer les fonctionnalités IA dans le navigateur",
-      "summary": "Mozilla a publié Firefox 148 avec un panneau de contrôle centralisé pour l'IA, permettant aux utilisateurs de désactiver complètement ou de gérer de manière granulaire les fonctionnalités d'intelligence artificielle du navigateur. Cette fonctionnalité, attendue de longue date, répond aux préoccupations croissantes concernant la vie privée et le contrôle utilisateur sur les technologies IA intégrées aux navigateurs. La mise à jour corrige également des failles de sécurité liées au sandbox du navigateur.",
-      "why": "Cette initiative de Mozilla offre aux utilisateurs un contrôle explicite sur les technologies IA, établissant un précédent important pour la transparence et l'autonomie des utilisateurs face à l'intégration croissante de l'IA dans les outils numériques quotidiens.",
-      "category": "Application"
-    },
-    {
-      "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King déploie un assistant vocal IA connecté aux casques des employés dans ses restaurants aux États-Unis pour surveiller les performances et les interactions en temps réel. Le système collecte des données sensibles incluant la voix, les messages entre collègues (via Teams ou Slack) et le rythme de travail. Les défenseurs de la vie privée alertent sur l'absence de garde-fous, soulignant que l'IA peut accumuler des informations personnelles massives et tirer des conclusions parfois fausses sur les salariés, avec des conséquences potentiellement négatives pour ces derniers.",
-      "why": "Ce déploiement illustre l'expansion rapide de la surveillance IA en milieu professionnel sans cadre éthique clair, soulevant des questions urgentes sur les droits des travailleurs, la protection des données et les risques de discrimination algorithmique.",
-      "category": "Application"
-    },
-    {
-      "title": "Découverte de près de 3 000 clés d'API Google Cloud exposées dans du code côté client",
-      "summary": "Des chercheurs de Truffle Security ont identifié près de 3 000 clés d'API Google Cloud (identifiants « AIza ») visibles dans du code côté client, exposant potentiellement l'accès à des services critiques incluant Gemini et d'autres ressources cloud. Cette découverte révèle une vulnérabilité majeure dans les pratiques de sécurité des développeurs et des entreprises utilisant les services Google Cloud. L'incident souligne les risques croissants d'espionnage industriel et d'accès non autorisé aux infrastructures IA critiques.",
-      "why": "Cette exposition massive de credentials cloud représente une menace directe à la sécurité des infrastructures IA et des données sensibles, illustrant comment les défauts de sécurité opérationnelle peuvent compromettre les systèmes IA les plus critiques.",
+      "title": "Étude BCE : l'IA booste les embauches en R&D sans pertes massives d'emplois",
+      "summary": "La Banque Centrale Européenne publie une étude montrant que l'IA n'entraîne pas de destructions nettes d'emplois mais accélère les recrutements en recherche et développement. Les secteurs exposés à l'IA voient une hausse des embauches qualifiées. Contrairement aux craintes, l'automatisation crée des rôles complémentaires. L'analyse couvre données européennes récentes.",
+      "why": "Cette étude nuance le débat sur l'impact emploi de l'IA, soutenant une vision optimiste pour l'Europe.",
       "category": "Recherche"
+    },
+    {
+      "title": "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
+      "summary": "Des cybercriminels utilisent les modèles DeepSeek et Claude pour générer des exploits zero-day contre les pare-feu FortiGate, touchant des milliers d'entreprises. Les attaques exploitent des vulnérabilités non patchées via code IA automatisé. Fortinet alerte sur une campagne mondiale en cours. Les autorités recommandent mises à jour immédiates.",
+      "why": "Cela révèle les risques croissants de l'IA dans la cybercriminalité, menaçant infrastructures critiques.",
+      "category": "Régulation"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade du conflit Anthropic-Pentagone : du refus contractuel à l'interdiction fédérale",
-      "original": "Anthropic refuse les conditions du Pentagone sur les armes autonomes et la surveillance de masse (06/03/2026)",
-      "summary": "Le refus initial d'Anthropic de se conformer aux exigences du Pentagone a déclenché une réaction présidentielle sans précédent : un ordre exécutif interdisant à toutes les agences fédérales d'utiliser les technologies Anthropic. Cette escalade transforme un désaccord contractuel en conflit géopolitique majeur, avec OpenAI capitalisant immédiatement en annonçant un nouveau contrat de défense. Le conflit révèle une fracture stratégique fondamentale entre les approches éthiques des géants de l'IA face aux demandes militaires.",
-      "why": "Cette escalade établit un précédent critique sur le pouvoir de l'État à sanctionner les entreprises d'IA refusant ses conditions, tout en créant une asymétrie stratégique où OpenAI bénéficie du rejet d'Anthropic.",
-      "category": "Régulation"
-    }
-  ]
+  "updates": []
 }
