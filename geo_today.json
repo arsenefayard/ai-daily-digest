@@ -1,51 +1,20 @@
 {
   "date": "06/03/2026",
-  "news": [
+  "news": [],
+  "updates": [
     {
-      "title": "Dissuasion nucléaire avancée : Macron annonce coopération avec huit pays européens",
-      "summary": "Emmanuel Macron a dévoilé une initiative de 'dissuasion nucléaire avancée' impliquant la France et huit alliés européens pour renforcer la défense collective face aux menaces actuelles. Cette mesure vise à étendre le parapluie nucléaire français sans altérer la doctrine de dissuasion stricte. Annoncée dans un discours rare sur le sujet, elle répond à l'escalade au Moyen-Orient et aux tensions transatlantiques. Les enjeux incluent une possible fragmentation de l'OTAN et un renforcement de l'autonomie stratégique européenne.",
-      "why": "Cette initiative marque un tournant dans la défense européenne, potentiellement réduisant la dépendance vis-à-vis des États-Unis et influençant les équilibres au sein de l'OTAN.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
-      "summary": "Washington et Caracas ont annoncé la reprise complète des liens diplomatiques après des années de tensions, incluant l'échange d'ambassadeurs et la levée partielle de sanctions. Ce rapprochement s'inscrit dans un contexte de crise énergétique mondiale et de besoin américain en pétrole vénézuélien. Les négociations ont accéléré suite à des concessions mutuelles sur les droits humains et l'exploitation pétrolière. Géopolitiquement, cela affaiblit l'isolement du Venezuela et ouvre des opportunités économiques pour les deux parties.",
-      "why": "Ce dégel diplomatique pourrait stabiliser les approvisionnements pétroliers mondiaux et modifier les alliances en Amérique latine face à la crise au Moyen-Orient.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "OTAN intercepte un missile iranien visant la Turquie",
-      "summary": "Les forces de l'OTAN ont abattu un missile balistique lancé par l'Iran en direction de la Turquie, marquant la première intervention directe de l'alliance dans le conflit. Le ministre turc des Affaires étrangères a salué l'action tout en appelant à la vigilance accrue. Cet incident élargit le théâtre des opérations au-delà d'Israël et du Golfe, impliquant potentiellement plus d'États membres. Les implications incluent un risque d'embrasement régional et des tensions internes à l'OTAN sur l'engagement.",
-      "why": "Première action OTAN contre l'Iran, cela teste la cohésion de l'alliance et pourrait précipiter une escalade impliquant la Turquie.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz",
-      "summary": "Donald Trump a annoncé que la marine américaine pourrait convoyer les navires pétroliers à travers le détroit d'Ormuz face aux menaces iraniennes et au blocage partiel. Cette mesure vise à contrer la flambée des prix du pétrole après deux jours de tensions. Elle s'appuie sur des déploiements existants dans le Golfe et suit des perturbations logistiques comme à Dubaï. Géopolitiquement, cela affirme la domination navale US et protège les flux énergétiques mondiaux.",
-      "why": "En sécurisant 20% du pétrole mondial, cela prévient une crise énergétique plus grave et renforce la position américaine face à Téhéran.",
+      "title": "Fermeture du détroit d'Ormuz par l'Iran",
+      "original": "Crise énergétique mondiale : flambée des prix du pétrole due au blocage du détroit d'Ormuz",
+      "summary": "L'Iran a officiellement fermé le détroit d'Ormuz, comme annoncé par Ebrahim Jabbari, conseiller des Gardiens de la Révolution, menaçant d'incendier tout navire tentant de traverser. Cette escalade intervient au quatrième jour du conflit israélo-américain contre l'Iran, après des frappes sur ses capacités balistiques. Les cours du pétrole flambent davantage, aggravant les pressions inflationnistes mondiales. Les États-Unis exhortent leurs citoyens à quitter le Moyen-Orient.",
+      "why": "Cette fermeture physique perturbe 20% du commerce pétrolier mondial, risquant une récession globale et forçant une réponse militaire accrue des puissances occidentales.",
       "category": "Énergie"
     },
     {
-      "title": "Coopération nucléaire franco-allemande émerge dans la crise iranienne",
-      "summary": "La France et l'Allemagne initient une collaboration renforcée sur le nucléaire civil et militaire en réponse à la guerre au Moyen-Orient. Cette entente inclut des échanges technologiques et une coordination stratégique pour la dissuasion. Elle fait suite aux annonces de Macron et vise à pallier les divisions transatlantiques. Les enjeux portent sur l'indépendance énergétique européenne et une possible réorientation des alliances.",
-      "why": "Ce partenariat bilatéral clé pourrait catalyser une défense européenne autonome, impactant les relations avec les États-Unis et la Russie.",
-      "category": "Sécurité"
-    }
-  ],
-  "updates": [
-    {
-      "title": "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
-      "original": "Israël annonce un déploiement de soldats au Liban en plus des frappes en Iran ; Israël étend ses bombardements à Téhéran et au Liban",
-      "summary": "Israël a intensifié ses frappes sur Téhéran, ciblant les centres de commandement des Gardiens de la Révolution, et étendu les opérations terrestres au sud-Liban contre le Hezbollah. Cette escalade suit les attaques du Hezbollah sur Haïfa et la mort présumée de Khamenei. Les bombardements visent à nettoyer les zones frontalières pour une intervention terrestre. Aucune installation pétrolière n'a été touchée à ce stade.",
-      "why": "Cette extension marque une phase d'invasion potentielle, risquant une guerre régionale prolongée et une intervention plus large des alliés.",
+      "title": "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime",
+      "original": "Marco Rubio promet une escalade militaire américaine contre l'Iran ; Objectif américain de changement politique en Iran",
+      "summary": "Donald Trump affirme que les capacités balistiques de l'Iran sont 'décimées' et que le pays est à court de lanceurs, après les frappes américaines et israéliennes. Il se dit prêt à collaborer avec les membres survivants du régime et appelle explicitement les Iraniens à renverser leurs dirigeants. Le conflit entre dans sa quatrième journée avec des ripostes iraniennes sur des sites US dans le Golfe. Trump prévoit une durée de 4-5 semaines minimum.",
+      "why": "Cette déclaration marque un objectif explicite de régime change, potentiellement prolongeant le conflit et divisant les alliés internationaux sur la stratégie post-conflit.",
       "category": "Conflit"
-    },
-    {
-      "title": "Trump impose blocus commercial sur l'Espagne et menace le Royaume-Uni",
-      "original": "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales ; Trump impose blocus commercial sur l'Espagne",
-      "summary": "Donald Trump a officialisé un blocus commercial contre l'Espagne pour refus d'accès à ses bases en Andalousie, menaçant aussi le Royaume-Uni pour une base dans l'océan Indien. L'UE et Macron ont exprimé leur soutien à Pedro Sanchez face à ces pressions. Cette rupture commerciale cible la quatrième économie de l'UE. Elle révèle des fissures dans l'alliance occidentale sur l'Iran.",
-      "why": "Ces sanctions transatlantiques fragmentent l'Occident, affaiblissant la réponse unie au conflit et boostant l'autonomie européenne.",
-      "category": "Diplomatie"
     }
   ]
 }
