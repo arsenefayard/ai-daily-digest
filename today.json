@@ -2,34 +2,34 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Anthropic refuse les conditions du Pentagone sur les armes autonomes et la surveillance de masse",
-      "summary": "Anthropic a rejeté les exigences du Département de la Défense américain pour un accès illimité à ses modèles IA, refusant explicitement leur usage pour la surveillance intérieure massive et les armes létales autonomes. Malgré les menaces de désignation comme risque pour la chaîne d'approvisionnement, l'entreprise maintient ses principes éthiques. En riposte, le président américain a ordonné à toutes les agences fédérales de cesser l'utilisation des technologies Anthropic. OpenAI a immédiatement annoncé un nouveau contrat avec la Défense, en conservant ses propres garde-fous.",
-      "why": "Ce conflit ouvert met en lumière les tensions géopolitiques autour de l'usage militaire de l'IA et pourrait redéfinir les partenariats entre Big Tech et gouvernements.",
+      "title": "AMD dévoile le processeur Epyc Sorano pour l'IA dans les télécommunications",
+      "summary": "Advanced Micro Devices (AMD) a présenté son processeur Epyc Sorano, spécialement conçu pour accélérer les projets d'intelligence artificielle dans les réseaux télécoms, en collaboration avec des opérateurs comme AT&T. La série Epyc 9005 cible également les centres de données pour des charges de travail IA intensives. Ce lancement répond à la demande croissante de puissance de calcul edge pour l'IA en temps réel sur 5G. Les performances promettent une réduction significative des latences dans les applications télécoms IA.",
+      "why": "Ce processeur renforce la position d'AMD face à NVIDIA dans l'infrastructure IA télécoms, crucial pour l'essor des réseaux intelligents.",
       "category": "Entreprise"
     },
     {
-      "title": "Firefox 148 lance un 'coupe-circuit' pour bloquer les fonctionnalités IA dans le navigateur",
-      "summary": "Mozilla a publié Firefox 148 avec un panneau de contrôle centralisé permettant de désactiver complètement ou de gérer finement les fonctionnalités IA intégrées au navigateur. Cette mise à jour corrige aussi des failles de sécurité liées au sandboxing des modèles IA. Attendue depuis longtemps, elle répond aux préoccupations croissantes sur la privacy et l'autonomie utilisateur face à l'omniprésence de l'IA. Les utilisateurs peuvent désormais personnaliser l'accès aux API IA tierces.",
-      "why": "Cette innovation démocratise le contrôle utilisateur sur l'IA, influençant potentiellement les standards de privacy dans les navigateurs concurrents.",
+      "title": "Étude BCE : l'IA ne cause pas de pertes massives d'emplois mais booste les embauches en R&D",
+      "summary": "Une étude de la Banque centrale européenne conclut que l'intelligence artificielle n'entraîne pas de destructions nettes d'emplois, les entreprises l'utilisant principalement pour recruter dans la recherche et développement. Contrairement aux craintes populaires, l'IA crée des opportunités qualifiées plutôt que des suppressions massives. Les secteurs impactés voient une transformation des tâches vers des rôles plus analytiques. Ce rapport contredit les analyses alarmistes récentes aux USA.",
+      "why": "Cette analyse nuancée par une institution majeure apaise les débats sur l'impact économique de l'IA et oriente les politiques publiques.",
+      "category": "Recherche"
+    },
+    {
+      "title": "Microsoft alerte sur une nouvelle technique de phishing via failles OAuth",
+      "summary": "Microsoft a mis en garde contre une méthode de phishing exploitant des vulnérabilités dans le protocole OAuth, utilisé pour les authentifications sécurisées dans les apps cloud et IA. Les attaquants usurpent des tokens pour accéder à des comptes sans mot de passe. Cette menace touche particulièrement les environnements IA collaboratifs. Les recommandations incluent des audits renforcés et des MFA avancés.",
+      "why": "OAuth est omniprésent dans les écosystèmes IA ; cette vulnérabilité expose des données sensibles critiques pour la recherche et les déploiements.",
       "category": "Application"
     },
     {
-      "title": "MWC Barcelone met l'IA et robots humanoïdes au cœur des usages 5G concrets",
-      "summary": "Au Mobile World Congress, AgiBot présente des robots humanoïdes adaptatifs pour le commerce, l'hôtellerie et l'industrie, exploitant la 5G pour une réactivité temps réel. Deutsche Telekom démontre Magenta, assistant d'appel avec traduction instantanée et synthèse vocale consentie. Des ambulances connectées transmettent des données médicales via IA embarquée, tandis que NTT Docomo teste des immersions 3D. Selon la GSMA, 70% des projets 5G-IA visent l'amélioration opérationnelle.",
-      "why": "L'édition marque le passage de la démonstration technique à des applications industrielles massives, accélérant l'adoption de l'IA edge.",
-      "category": "Application"
+      "title": "Seagate annonce disques durs de 44 To avec technologie Mozaic 4+ pour data centers IA",
+      "summary": "Seagate a lancé des disques durs atteignant 44 téraoctets grâce à sa technologie Mozaic 4+, optimisée pour les centres de données gérant des volumes massifs de données d'entraînement IA. Cette capacité répond à l'explosion des besoins en stockage pour les modèles large-scale. Les disques offrent une densité accrue et une fiabilité pour les workloads 24/7. Cela réduit les coûts d'infrastructure pour les hyperscalers.",
+      "why": "Le stockage massif est un goulot d'étranglement clé pour l'IA ; cette avancée abaisse les barrières à l'entraînement de modèles géants.",
+      "category": "Entreprise"
     },
     {
-      "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King déploie aux USA un assistant vocal connecté aux casques des employés dans ses fast-foods, analysant voix et interactions pour optimiser les opérations. D'autres firmes utilisent l'IA pour scanner messages sur Teams/Slack et monitorer activité clavier/souris en télétravail. Ces outils collectent données sensibles comme le rythme de frappe, risquant des conclusions erronées. Les défenseurs de la privacy alertent sur l'absence de garde-fous.",
-      "why": "Cela illustre l'essor controversé de la surveillance IA au travail, posant des défis éthiques et légaux majeurs.",
-      "category": "Application"
-    },
-    {
-      "title": "Logiciel Maven de Palantir révolutionne les frappes militaires avec l'IA",
-      "summary": "Maven, développé par Palantir, intègre images satellites, drones, capteurs et surveillance pour analyser masses de données en heures et proposer cibles prioritaires. Utilisé par l'armée US, il hiérarchise menaces et missions comme Uber matche chauffeurs, changeant le rythme de la guerre. Cité par le Washington Post pour le 18e corps aéroporté, il nécessite 20 experts IA. Applicable aux opérations contre l'Iran, il transforme la décision humaine.",
-      "why": "Cette avancée marque une révolution dans la guerre high-tech, amplifiant les enjeux éthiques de l'IA létale.",
-      "category": "Application"
+      "title": "New Delhi Summit soulève cinq problématiques mondiales majeures de l'IA",
+      "summary": "Le sommet AI Impact à New Delhi réunit experts mondiaux pour aborder cinq défis critiques de l'IA : biais algorithmiques, cybersécurité, impact sociétal, régulation éthique et durabilité énergétique. Des propositions concrètes émergent pour des standards globaux. L'Inde positionne ce 'New Delhi Declaration' comme cadre pour une IA responsable. Les discussions influencent les agendas G20 et ONU.",
+      "why": "Ce sommet marque un tournant diplomatique pour gouverner l'IA à l'échelle mondiale, avec implications pour tous les acteurs tech.",
+      "category": "Régulation"
     }
   ],
   "updates": []
