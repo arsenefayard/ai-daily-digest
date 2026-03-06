@@ -2,43 +2,35 @@
   "date": "06/03/2026",
   "news": [
     {
-      "title": "Israël étend ses bombardements à Téhéran et au Liban après la mort présumée d'Ali Khamenei",
-      "summary": "Israël a intensifié ses frappes aériennes sur la capitale iranienne Téhéran et lancé des opérations au Liban en réponse aux attaques du Hezbollah, qui revendique des représailles à la mort du guide suprême iranien Ali Khamenei lors des bombardements américano-israéliens. Les frappes visent les positions des Gardiens de la Révolution pour nettoyer la zone frontalière et préparer une potentielle intervention terrestre. L'Iran a riposté avec des missiles et drones contre Israël et des bases US dans le Golfe, causant des perturbations limitées comme à l'aéroport de Dubaï. Cela marque une escalade majeure risquant d'élargir le conflit régional.",
-      "why": "Cette extension des opérations menace de transformer le conflit en guerre ouverte multi-fronts impliquant le Liban, avec des implications pour la stabilité du Moyen-Orient entier.",
+      "title": "Etats-Unis et Venezuela rétablissent leurs relations diplomatiques",
+      "summary": "Les Etats-Unis et le Venezuela ont annoncé ce 6 mars le rétablissement de leurs relations diplomatiques, marquant une rupture avec des années d'hostilité. Cette décision intervient dans un contexte de tensions régionales exacerbées par le conflit au Moyen-Orient. Elle pourrait ouvrir la voie à une coopération sur l'énergie et la migration. Géopolitiquement, cela affaiblit l'isolement vénézuélien et renforce l'influence américaine en Amérique latine face à des rivaux comme la Chine et la Russie.",
+      "why": "Ce rapprochement inattendu modifie les équilibres en Amérique latine et pourrait stabiliser les marchés pétroliers sud-américains au milieu de la crise énergétique mondiale.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Israël étend ses bombardements à Téhéran et déploie des forces au Liban",
+      "summary": "Israël a intensifié ses frappes sur Téhéran et étendu ses opérations militaires au Liban ce matin, en réponse aux attaques du Hezbollah revendiquant la vengeance pour la mort présumée d'Ali Khamenei. Les bombardements visent les positions des Gardiens de la Révolution pour préparer une possible intervention terrestre. Cela élargit le front du conflit israélo-iranien. Les implications incluent un risque accru d'escalade régionale impliquant le Liban et potentiellement la Syrie.",
+      "why": "Cette extension marque une phase nouvelle de la guerre, augmentant les risques d'un conflit multi-fronts au Moyen-Orient.",
       "category": "Conflit"
     },
     {
       "title": "Marco Rubio promet une escalade militaire américaine contre l'Iran dans les prochains jours",
-      "summary": "Le secrétaire d'État américain Marco Rubio a annoncé une augmentation massive de l'intensité des attaques conjointes USA-Israël pour désarmer l'Iran et détruire son programme nucléaire. Il évoque un 'changement d'échelle' imminent, soulignant la nécessité de préparer une intervention terrestre après la neutralisation des forces conventionnelles iraniennes. Cette rhétorique hawkish s'inscrit dans une stratégie de soutien historique à l'intervention, malgré des oppositions internes aux USA. Les déclarations visent à consolider l'alliance avec Israël face à la riposte iranienne.",
-      "why": "Ces promesses d'escalade pourraient précipiter une guerre totale, affectant les marchés énergétiques mondiaux et les alliances internationales.",
+      "summary": "Le sénateur Marco Rubio a déclaré que les Etats-Unis et Israël vont 'déchaîner l'armée sur l'Iran' avec une intensification des attaques imminente pour détruire ses capacités nucléaires et balistiques. Cette annonce hawkish soutient les frappes en cours et vise un changement de régime à Téhéran. Elle reflète une ligne dure au sein du camp républicain. Géopolitiquement, cela durcit la posture américaine et pourrait rallier ou diviser les alliés du Golfe.",
+      "why": "Les paroles de Rubio signalent une accélération potentielle de l'engagement US, impactant la stabilité mondiale et les prix de l'énergie.",
       "category": "Conflit"
     },
     {
-      "title": "UE et Macron soutiennent l'Espagne face aux menaces commerciales de Trump",
-      "summary": "Après le refus espagnol d'accès à ses bases en Andalousie, Donald Trump a menacé de rompre les relations commerciales avec l'Espagne, quatrième économie de l'UE. L'Union européenne et Emmanuel Macron ont exprimé un soutien ferme au Premier ministre Pedro Sanchez, renforçant la solidarité européenne. Cette tension diplomatique met en lumière les frictions transatlantiques sur les bases militaires dans le contexte du conflit iranien. Elle risque d'affaiblir la cohésion OTAN face aux crises au Moyen-Orient.",
-      "why": "Ce clash oppose directement les USA à l'UE, potentiellement fragmentant les alliances occidentales au pire moment géopolitique.",
+      "title": "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
+      "summary": "La Bourse de New York a plongé mardi, avec le Dow Jones perdant 2,22%, le Nasdaq 2,13% et le S&P 500 2,07%, plombée par les craintes d'une guerre prolongée au Moyen-Orient. Les attaques iraniennes sur des sites US dans le Golfe et les bombardements israéliens alimentent les inquiétudes sur l'inflation énergétique. Les marchés craignent un impact sur l'économie américaine. Cela souligne la vulnérabilité des finances mondiales aux chocs géopolitiques.",
+      "why": "Cette dégringolade boursière reflète l'incertitude globale et pourrait déclencher des récessions en chaîne si le conflit persiste.",
+      "category": "Économie"
+    },
+    {
+      "title": "Participation de l'Iran à la Coupe du monde 2026 menacée par la guerre au Moyen-Orient",
+      "summary": "La FIFA envisage d'exclure l'Iran de la Coupe du monde 2026, à moins de 100 jours du coup d'envoi, en raison de l'escalade du conflit avec Israël et les Etats-Unis. Cette mesure sanctionnerait l'implication du régime dans des actes hostiles. Elle intervient après des frappes massives sur des sites iraniens. Géopolitiquement, cela isole davantage Téhéran sur la scène internationale et amplifie les pressions internes.",
+      "why": "L'exclusion sportive d'un pays majeur comme l'Iran renforce son paria status et pourrait influencer la dynamique interne du régime.",
       "category": "Diplomatie"
-    },
-    {
-      "title": "Canada et Inde signent accords majeurs sur terres rares et uranium, fin des tensions",
-      "summary": "Ottawa et New Delhi ont conclu une série d'accords économiques sur les terres rares et l'uranium, marquant une 'lune de miel' après des années de différends diplomatiques. Ces ententes visent à sécuriser des approvisionnements critiques pour les technologies vertes et nucléaires. Dans un contexte de tensions sino-américaines, cela diversifie les chaînes d'approvisionnement mondiales. Le rapprochement renforce les positions des deux pays dans l'Indo-Pacifique face à la Chine.",
-      "why": "Ces accords stratégiques altèrent les équilibres en ressources critiques, réduisant la dépendance envers la Chine et boostant les alliances anti-Pékin.",
-      "category": "Économie"
-    },
-    {
-      "title": "Air France suspend ses vols vers Cuba faute de carburant dû au blocus américain",
-      "summary": "Air France a annoncé la suspension de ses vols vers Cuba fin mars en raison d'une pénurie aiguë de kérosène, aucun pétrolier n'ayant accosté depuis janvier à cause du blocus renforcé par Washington. Cette crise humanitaire et logistique isole davantage l'île caraïbe, aggravant ses difficultés économiques. Elle illustre l'impact des sanctions US sur les partenaires européens et les chaînes aériennes mondiales. La pénurie devrait perdurer jusqu'en avril, affectant le tourisme et les échanges.",
-      "why": "Cette mesure souligne l'efficacité du blocus US et ses répercussions sur l'aviation civile européenne, amplifiant l'isolement cubain.",
-      "category": "Économie"
     }
   ],
-  "updates": [
-    {
-      "title": "Mort présumée du guide suprême Khamenei et frappes israéliennes prolongées",
-      "original": "Frappes américano-israéliennes massives contre l'Iran",
-      "summary": "Les frappes initiales auraient éliminé Ali Khamenei et des hauts responsables des Gardiens de la Révolution, provoquant une riposte iranienne par missiles sur Israël et le Golfe. Israël a étendu ses bombardements à Téhéran et au Liban pour préparer une intervention terrestre, neutralisant les forces frontalières iraniennes. Trump appelle ouvertement au renversement du régime iranien. Cette escalade change la donne en visant un changement de pouvoir à Téhéran.",
-      "why": "La possible mort du leader suprême et l'extension au Liban représentent une escalade militaire significative, risquant une guerre régionale prolongée.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
