@@ -227,14 +227,26 @@ function makeCard(slide, idx) {
 }
 
 function fitTextToBox(card) {
+  // Réduit la police du texte principal
   const body = card.querySelector('.card-body');
-  if (!body) return;
-  // Réduit la police jusqu'à ce que le contenu rentre dans 75% de card-content
-  let fs = 14;
-  body.style.fontSize = fs + 'px';
-  while (body.scrollHeight > body.clientHeight && fs > 9) {
-    fs -= 0.5;
+  if (body) {
+    let fs = 14;
     body.style.fontSize = fs + 'px';
+    while (body.scrollHeight > body.clientHeight && fs > 9) {
+      fs -= 0.5;
+      body.style.fontSize = fs + 'px';
+    }
+  }
+  // Réduit la police du rectangle why-box
+  const whyText = card.querySelector('.why-text');
+  const whyBox  = card.querySelector('.why-box');
+  if (whyText && whyBox) {
+    let fs = 13;
+    whyText.style.fontSize = fs + 'px';
+    while (whyBox.scrollHeight > whyBox.clientHeight && fs > 9) {
+      fs -= 0.5;
+      whyText.style.fontSize = fs + 'px';
+    }
   }
 }
 
