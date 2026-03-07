@@ -1,34 +1,34 @@
 {
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "news": [
     {
-      "title": "La découverte de la structure de l'ADN par Watson et Crick",
-      "summary": "Le 25 avril 1953, James Watson et Francis Crick publient la structure en double hélice de l'ADN, fruit d'une collaboration avec Rosalind Franklin dont les données de diffraction des rayons X ont été cruciales. Cette molécule porteuse d'information génétique révolutionne la biologie moléculaire. Elle explique la réplication fidèle de l'information héréditaire lors de la division cellulaire. Ce modèle prédit les mécanismes de mutation et ouvre la voie à la génétique moderne.",
-      "why": "Cette avancée fondatrice de la biologie contemporaine permet aujourd'hui les thérapies géniques et la compréhension des maladies héréditaires.",
-      "category": "Science pop"
-    },
-    {
-      "title": "Le paradoxe de Zénon d'Élée sur Achille et la tortue",
-      "summary": "Zénon d'Élée, philosophe présocratique du Ve siècle av. J.-C., formule ce paradoxe pour défendre l'idée que le mouvement est une illusion. Achille, plus rapide, ne peut rattraper une tortue partie avant lui car il doit d'abord parcourir la moitié de la distance, puis la moitié de la moitié, à l'infini. Mathématiquement, cela illustre les séries infinies convergentes résolues par les limites au XVIIe siècle. Ce casse-tête questionne la nature du temps et de l'espace.",
-      "why": "Il stimule la philosophie du mouvement et inspire les mathématiques modernes des infiniment petits.",
-      "category": "Philosophie"
-    },
-    {
-      "title": "Le Minotaure, monstre mi-homme mi-taureau de la mythologie grecque",
-      "summary": "Enfermé dans le Labyrinthe de Crète par le roi Minos, le Minotaure naît de l'union contre-nature de Pasiphaé et d'un taureau envoyé par Poséidon. Chaque année, il dévore des jeunes Athéniens offerts en tribut jusqu'à ce que Thésée le tue avec l'aide d'Ariane et de son fil. Ce mythe symbolise la lutte contre les pulsions bestiales et l'astuce humaine. Il inspire de nombreuses œuvres artistiques et littéraires.",
-      "why": "Il explore les thèmes universels de la raison face à la sauvagerie et de la quête initiatique.",
+      "title": "L'étymologie cachée du mot « musique » remonte à la mythologie grecque",
+      "summary": "Le terme « musique » provient du grec ancien « mousikê », littéralement « art des Muses ». Les Muses, au nombre de neuf dans la mythologie grecque, incarnaient chacune un domaine artistique ou intellectuel spécifique : Calliope pour la poésie épique, Terpsichore pour la danse, Euterpe pour la musique, et ainsi de suite. Les anciens Grecs considéraient que toute création artistique était une inspiration directe de ces déesses, d'où l'importance du mot dans notre vocabulaire moderne. Cette connexion mythologique révèle comment les civilisations anciennes percevaient l'art comme quelque chose de divin et d'intemporel.",
+      "why": "Comprendre l'étymologie enrichit notre appréciation des mots quotidiens et montre comment la mythologie antique a façonné notre langage et notre conception de l'art.",
       "category": "Mythologie"
     },
     {
-      "title": "La plus longue rivière souterraine du monde au Mexique",
-      "summary": "Le Système Sac Actun, découvert en 2018 mais exploré depuis des décennies, s'étend sur 347 km dans le Yucatán mexicain, reliant 358 grottes. Formé par l'érosion karstique sous la jungle, il abrite des cenotes sacrés pour les Mayas. C'est un écosystème unique avec espèces endémiques adaptées à l'obscurité. Sa longueur dépasse celle de la rivière Puerto Princesa aux Philippines.",
-      "why": "Ce record souligne la vastitude cachée des mondes souterrains et l'importance de leur préservation.",
-      "category": "Insolite"
+      "title": "Le phénomène de la synesthésie : quand les sens se mélangent",
+      "summary": "La synesthésie est une condition neurologique rare où la stimulation d'un sens provoque automatiquement une expérience dans un autre sens. Par exemple, certaines personnes voient des couleurs en entendant de la musique, ou goûtent des saveurs en lisant des mots. Environ 4% de la population mondiale serait synesthète, bien que le chiffre exact reste débattu. Des compositeurs célèbres comme Liszt et Messiaen auraient possédé cette capacité, l'utilisant pour créer des œuvres uniques. La recherche moderne montre que la synesthésie implique des connexions neuronales supplémentaires entre différentes régions du cerveau.",
+      "why": "La synesthésie fascine car elle remet en question notre compréhension des sens et montre la diversité remarquable du cerveau humain, inspirant artistes et scientifiques.",
+      "category": "Science pop"
     },
     {
-      "title": "L'effet Dunning-Kruger en psychologie cognitive",
-      "summary": "Décrit en 1999 par David Dunning et Justin Kruger, cet effet montre que les personnes les moins compétentes surestiment leurs aptitudes en raison d'une incapacité à évaluer leur propre incompétence. Inversement, les experts sous-estiment souvent leurs savoirs. Des expériences révèlent que l'entraînement améliore l'auto-évaluation. Il explique de nombreux biais dans les jugements sociaux et professionnels.",
-      "why": "Comprendre ce biais aide à promouvoir l'humilité et une meilleure prise de décision collective.",
+      "title": "Le paradoxe de Banach-Tarski : comment diviser une sphère en deux sphères identiques",
+      "summary": "Le paradoxe de Banach-Tarski est un théorème mathématique contre-intuitif démontrant qu'une sphère solide peut être décomposée en un nombre fini de sous-ensembles, puis réassemblée pour former deux sphères identiques à l'original. Découvert en 1924, ce paradoxe ne contredit pas les lois de la physique car il ne s'applique qu'à des objets mathématiques abstraits, pas à des objets physiques réels. Il repose sur l'axiome du choix et la géométrie non-euclidienne, concepts qui dépassent notre intuition quotidienne. Ce résultat a révolutionné la compréhension mathématique de l'infini et de la mesure.",
+      "why": "Ce paradoxe illustre comment les mathématiques peuvent produire des résultats logiquement valides mais profondément contre-intuitifs, élargissant notre conception de la réalité.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Les grottes de Mogao en Chine : bibliothèque souterraine de 1 000 ans",
+      "summary": "Les grottes de Mogao, situées dans le désert du Gobi en Chine, constituent l'une des plus importantes collections d'art bouddhiste au monde avec plus de 700 grottes sculptées. Creusées entre le 4ème et le 14ème siècle, elles contiennent des milliers de manuscrits, de peintures murales et de sculptures datant de plus de 1 000 ans. En 1900, un moine taoïste a découvert une chambre scellée contenant environ 50 000 documents anciens, offrant un aperçu inestimable de la vie, de la religion et du commerce le long de la Route de la Soie. Ces grottes sont inscrites au patrimoine mondial de l'UNESCO et restent un site archéologique majeur.",
+      "why": "Les grottes de Mogao témoignent de l'importance historique de la Route de la Soie et préservent une richesse culturelle et artistique irremplaçable pour comprendre l'histoire asiatique.",
+      "category": "Histoire"
+    },
+    {
+      "title": "L'effet de Mandela : quand nos souvenirs collectifs se trompent",
+      "summary": "L'effet de Mandela est un phénomène psychologique où un grand nombre de personnes se souvient incorrectement d'un événement ou d'un détail de la même manière. Le terme a été popularisé en 2010 après que beaucoup de gens se souvenaient à tort de la mort de Nelson Mandela en prison dans les années 1980, alors qu'il a réellement survécu jusqu'en 2013. Des exemples courants incluent le logo de Berenstein Bears (souvent mémorisé comme « Berenstain »), le Monopoly avec un monocle au personnage M. Monopoly, ou la phrase exacte du film Star Wars. Les psychologues attribuent ce phénomène à la fausse mémoire, aux biais cognitifs et à la suggestion sociale.",
+      "why": "L'effet de Mandela révèle la fragilité et la malléabilité de la mémoire humaine, questionnant la fiabilité de nos souvenirs et montrant comment nos cerveaux construisent activement nos expériences.",
       "category": "Psychologie"
     }
   ],
