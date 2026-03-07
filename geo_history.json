@@ -2,18 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
-      "Déploiement du porte-avions français Charles-de-Gaulle en Méditerranée orientale",
-      "Trump menace l'Espagne et le Royaume-Uni de représailles commerciales pour refus de coopération militaire",
-      "Crise énergétique mondiale : flambée des prix du pétrole due au blocage du détroit d'Ormuz",
-      "Pénétration israélienne au sud du Liban et préparation d'opérations contre le Hezbollah",
-      "Escalade militaire directe des États-Unis contre l'Iran",
-      "Fragmentation de l'alliance occidentale sur la participation au conflit"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "OTAN intercepte un missile iranien visant la Turquie",
       "Attaques iraniennes sur sites américains dans le Golfe, dont Amazon aux EAU",
       "USA et Venezuela rétablissent relations diplomatiques",
@@ -72,6 +60,17 @@
       "Emmanuel Macron annonce une 'dissuasion nucléaire avancée' avec huit pays européens",
       "Wall Street chute de plus de 2% sous l'effet de l'angoisse géopolitique liée au conflit Iran-Israël",
       "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz face à la flambée des prix du pétrole"
+    ]
+  },
+  {
+    "date": "07/03/2026",
+    "titles": [
+      "Israël intensifie ses frappes sur Beyrouth et engage des affrontements directs avec le Hezbollah au Liban",
+      "Espagne refuse l'accès à ses bases militaires aux USA et subit un blocus commercial de Trump",
+      "Chine annonce une hausse de 7% de son budget militaire pour 2026 à 238,7 milliards d'euros",
+      "Brésil ratifie l'accord Mercosur-UE, ne manque plus que le Paraguay",
+      "Zelensky refuse de réparer l'oléoduc vers la Hongrie et menace Orban sur le prêt européen",
+      "Israël étend ses bombardements de Téhéran au Liban avec frappes sur Beyrouth"
     ]
   }
 ]
