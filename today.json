@@ -1,34 +1,34 @@
 {
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "news": [
     {
-      "title": "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "summary": "Le Mobile World Congress de Barcelone, qui a attiré plus de 100 000 visiteurs sur quatre jours, met en avant des applications pratiques de l'IA et de la 5G. AgiBot présente des robots humanoïdes chinois adaptables en temps réel pour le commerce, l'hôtellerie et l'industrie. Deutsche Telekom démontre Magenta, un assistant d'appel avec traduction instantanée et synthèse vocale. Selon l'étude GSMA 'Network Transformation 2026', 70% des projets 5G-IA visent l'amélioration opérationnelle.",
-      "why": "Cela marque un virage vers des déploiements concrets de l'IA dans l'industrie, accélérant son adoption massive via la 5G.",
+      "title": "Israël lance offensive terrestre au sud Liban avec soutien IA dans frappes",
+      "summary": "L'armée israélienne a lancé une offensive terrestre au sud du Liban malgré les appels à la retenue, visant des cibles liées au Hezbollah financé par l'Iran. Les frappes nocturnes sur la banlieue sud de Beyrouth ont provoqué des déplacements massifs à Saïda, troisième ville du pays. L'IA joue un rôle clé via des logiciels comme Maven de Palantir pour analyser données satellites, drones et capteurs en temps réel. Cela permet une hiérarchisation rapide des menaces et une proposition de cibles optimisées, transformant le rythme de la guerre.",
+      "why": "Cette escalade au Moyen-Orient met en lumière l'usage croissant de l'IA dans les conflits armés, risquant de propager les tensions régionales.",
       "category": "Application"
     },
     {
-      "title": "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "summary": "Burger King expérimente aux États-Unis un assistant vocal IA connecté aux casques des employés dans ses restaurants fast-food. Ce système analyse les interactions et le rythme de travail pour optimiser les opérations. D'autres entreprises utilisent l'IA pour scruter messages sur Teams/Slack et activité clavier en télétravail. Les défenseurs de la vie privée alertent sur la collecte de données sensibles sans garde-fous adéquats.",
-      "why": "Cela illustre l'extension controversée de la surveillance IA au monde du travail, posant des questions éthiques majeures sur la privacy.",
+      "title": "Netanyahu qualifie opérations contre Iran de réponse à menace existentielle",
+      "summary": "Le Premier ministre israélien a décrit les frappes sur l'Iran et le Hezbollah comme une 'opération' conjointe avec Washington contre une menace existentielle. Les actions visent à démanteler le réseau de proxies iraniens incluant Hamas, Houthis et Hezbollah. L'intégration d'IA accélère les décisions militaires en traitant des masses de données impossibles à gérer manuellement. Des centaines de déplacés fuient déjà les zones ciblées au Liban.",
+      "why": "Cela souligne l'impact géopolitique de l'IA militaire, potentiellement redessinant les alliances au Moyen-Orient.",
       "category": "Application"
     },
     {
-      "title": "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
-      "summary": "Le logiciel Maven de Palantir, utilisé par l'armée US, intègre images satellites, vidéos drones et capteurs pour analyser des masses de données en heures. Il identifie menaces, priorise cibles et optimise missions comme Uber connecte chauffeurs et clients. Cité par le Washington Post via une étude sur le 18e corps aéroporté, il transforme la guerre en Iran. 20 geeks IA gèrent ces opérations hautement automatisées.",
-      "why": "Maven redéfinit la guerre moderne par l'IA, augmentant précision et vitesse des frappes avec implications géopolitiques critiques.",
+      "title": "Guerre au Moyen-Orient : l'IA comme visage technologique des frappes",
+      "summary": "Les analyses soulignent le rôle pivotal de l'IA dans la nouvelle phase de la guerre israélo-iranienne, avec 20 geeks IA intégrés aux unités US comme le 18e corps aéroporté. Le logiciel Maven aspire images satellites, vidéos drones et données capteurs pour générer cibles en heures. Comparé à Uber pour son matching en temps réel d'unités et missions, il hiérarchise menaces dynamiquement. Cette tech change fondamentalement la tactique militaire.",
+      "why": "L'IA accélère les guerres modernes, posant des questions éthiques sur l'automatisation des frappes.",
       "category": "Application"
     },
     {
-      "title": "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "summary": "New Delhi accueille un sommet réunissant experts mondiaux pour aborder l'impact de l'IA et les solutions nécessaires. Les débats portent sur cinq problématiques majeures non précisées dans les rapports initiaux mais couvrant régulation, éthique et impacts sociétaux. L'événement vise à coordonner réponses globales à la révolution IA. Il réunit le gratin de l'industrie et des gouvernements.",
-      "why": "Ce sommet met en lumière les défis planétaires de l'IA, favorisant une gouvernance internationale urgente.",
+      "title": "Sommet New Delhi identifie cinq problématiques mondiales clés de l'IA",
+      "summary": "New Delhi a réuni les leaders mondiaux de l'IA pour un sommet sur l'impact de la technologie et les solutions nécessaires. Cinq problématiques majeures ont été soulevées : biais algorithmiques, perte d'emplois, cybersécurité, régulation éthique et consommation énergétique. Les discussions appellent à une gouvernance globale coordonnée. Cela intervient alors que l'IA transforme tous les secteurs.",
+      "why": "Ce sommet met en agenda international les défis sociétaux de l'IA, influençant futures régulations mondiales.",
       "category": "Régulation"
     },
     {
-      "title": "Étude BCE : l'IA booste les embauches en R&D sans pertes massives d'emplois",
-      "summary": "Une étude de la Banque Centrale Européenne révèle que l'IA stimule les recrutements en recherche et développement. Contrairement aux craintes, elle n'entraîne pas de destructions massives d'emplois à court terme. Les investissements IA favorisent la création de postes qualifiés en innovation. Cela contredit les narratifs alarmistes sur le chômage technologique.",
-      "why": "Ces données rassurantes influencent les politiques publiques et investissements en IA en Europe.",
+      "title": "Synthèse IA 5 mars : avancées clés et tendances émergentes",
+      "summary": "La synthèse quotidienne de l'IA au 5 mars recense les progrès majeurs en modèles, applications et régulations. Parmi les faits saillants : intégration IA dans conflits, surveillance travail et sommets globaux. Nouveaux outils boostent productivité mais soulèvent privacy et éthique. Perspectives incluent accélération investissements malgré doutes rentabilité.",
+      "why": "Cette vue d'ensemble capture le pouls rapide de l'IA, aidant à prioriser impacts immédiats.",
       "category": "Recherche"
     }
   ],
