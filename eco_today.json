@@ -1,13 +1,36 @@
 {
-  "date": "06/03/2026",
-  "news": [],
-  "updates": [
+  "date": "07/03/2026",
+  "news": [
     {
-      "title": "Bitcoin dépasse les 71 000 $ après un fort rebond",
-      "original": "Bitcoin dépasse les 71 000 $ après un fort rebond",
-      "summary": "Le Bitcoin a continué son rebond le 4 mars, dépassant les 71 000 $ malgré les tensions au Moyen-Orient qui ont pesé sur d'autres actifs. Ce mouvement reflète une résilience du marché crypto face à la volatilité géopolitique. Les investisseurs y voient un refuge alternatif aux actifs traditionnels impactés par la hausse du pétrole. Le cours a gagné plus de 5 % en 24 heures, atteignant des niveaux inédits depuis des mois.",
-      "why": "Ce rebond souligne la décorrélation croissante des cryptos avec les marchés traditionnels, influençant les stratégies d'allocation d'actifs mondiales.",
-      "category": "Crypto"
+      "title": "FMI met en garde contre un nouveau choc économique mondial dû au conflit au Moyen-Orient",
+      "summary": "La directrice générale du FMI, Kristalina Georgieva, a averti le 5 mars 2026 que la résilience de l'économie mondiale est mise à l'épreuve par une nouvelle guerre au Moyen-Orient. Ce conflit risque de provoquer un choc stagflationniste avec hausse des prix du pétrole et du gaz perturbant l'approvisionnement de l'Asie et de l'Europe. Les incertitudes géopolitiques renforcent la volatilité des marchés. Les implications incluent une croissance ralentie et une inflation accrue à l'échelle globale.",
+      "why": "Ce avertissement du FMI souligne les risques systémiques pour l'économie mondiale, potentiellement aggravant l'inflation et freinant la croissance en 2026.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Chine prévoit d'émettre 300 milliards de yuans d'obligations spéciales pour recapitaliser ses banques",
+      "summary": "Le gouvernement chinois planifie l'émission de 300 milliards de yuans (44 milliards de dollars) d'obligations d'État spéciales en 2026 pour renforcer les fonds propres de base des grandes banques commerciales. Cette mesure vise à consolider un système financier de 69 000 milliards de dollars face au ralentissement économique et à la volatilité des marchés. Elle s'inscrit dans une série d'initiatives pour stabiliser le secteur bancaire. Les fonds permettront d'améliorer la résilience face aux défis domestiques et internationaux.",
+      "why": "Cette injection massive de capitaux est cruciale pour prévenir une crise bancaire en Chine, deuxième économie mondiale, avec des répercussions sur les flux financiers globaux.",
+      "category": "Banques"
+    },
+    {
+      "title": "Commission européenne dévoile un plan industriel excluant la Chine des financements publics de l'UE",
+      "summary": "Le 5 mars 2026, la Commission européenne a présenté un plan industriel instaurant une préférence européenne, excluant la Chine des financements publics dans les technologies propres, l'automobile et les industries énergivores comme l'acier et le ciment. Ce mécanisme étend le statut d'origine européenne aux partenaires avec accords de réciprocité stricte, excluant de facto la Chine et les États-Unis. L'objectif est de contrer la domination chinoise qui menace 100% des productions clés. Les secteurs stratégiques bénéficieront d'un soutien accru pour relocaliser.",
+      "why": "Ce plan renforce la souveraineté industrielle de l'UE, impactant les chaînes d'approvisionnement mondiales et les relations commerciales avec la Chine.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Procès-verbaux de la BCE et Jobless Claims US au centre des événements économiques du 5 mars",
+      "summary": "Le 5 mars 2026, la publication des procès-verbaux de la BCE et des demandes initiales d'allocations chômage aux États-Unis (Jobless Claims) domine l'agenda macroéconomique. Ces données influenceront les attentes sur les taux d'intérêt et l'emploi américain, avec un focus sur le ton hawkish ou dovish de la BCE. Les rapports d'entreprises comme Costco et Marvell Technology complètent l'analyse, observant ventes comparables et demande AI. Les investisseurs équilibrent macro et micro pour ajuster portefeuilles.",
+      "why": "Ces indicateurs clés orienteront les politiques monétaires de la BCE et de la Fed, impactant devises, obligations et actions mondiales.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Coût du transport de pétrole US vers l'Asie atteint des records historiques",
+      "summary": "Le 5 mars 2026, les frais de fret pour le pétrole brut américain vers l'Asie ont établi un sommet historique en raison des perturbations dans le détroit d'Ormuz. Les tensions au Moyen-Orient, avec une chute de 90% du trafic de pétroliers, détournent les routes maritimes vitales. Cela renchérit les coûts logistiques et accentue la pression inflationniste sur l'énergie. Les importateurs asiatiques font face à des hausses de prix substantielles.",
+      "why": "Cette flambée des coûts de transport amplifie la crise énergétique mondiale, affectant l'inflation et la compétitivité des économies importatrices.",
+      "category": "Matières premières"
     }
-  ]
+  ],
+  "updates": []
 }
