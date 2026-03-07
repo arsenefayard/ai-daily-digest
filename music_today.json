@@ -1,35 +1,35 @@
 {
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "news": [
     {
-      "title": "Rosalía annonce deux concerts à l'Accor Arena de Paris les 18 et 20 mars 2026",
-      "summary": "La superstar espagnole Rosalía, acclamée pour son Motomami World Tour, revient en France avec une nouvelle tournée mondiale pour présenter son quatrième album Lux. Les shows à l'Accor Arena les 18 et 20 mars promettent un spectacle immersif mêlant flamenco moderne, reggaeton et expérimentations sonores. Les billets se vendent déjà rapidement, reflétant l'engouement international pour son évolution artistique. Cette étape parisienne s'inscrit dans une tournée majeure couvrant l'Europe et l'Amérique.",
-      "why": "Rosalía domine la scène pop latine mondiale ; ces dates confirment son statut d'icône et boostent la programmation printanière parisienne.",
+      "title": "Avatar en concert au Zénith de Paris ce soir avec premières parties annoncées",
+      "summary": "Le groupe de métal suédois Avatar se produit ce 7 mars 2026 au Zénith de Paris pour défendre son nouvel opus lors de sa tournée européenne. Deux premières parties viendront chauffer la salle avant le show principal, permettant au public de pogoter sur anciens et nouveaux morceaux. Cette date marque un temps fort pour les fans de métal en Île-de-France. Les billets sont disponibles pour cet événement hautement attendu.",
+      "why": "C'est une actualité majeure pour le métal avec un concert massif ce soir à Paris, offrant une rare occasion de voir Avatar en live avec supports confirmés.",
+      "category": "Métal"
+    },
+    {
+      "title": "Harry Styles sort son nouvel album 'Kiss All the Time. Disco, Occasionally' et reçoit les premières critiques élogieuses",
+      "summary": "Harry Styles dévoile ce 6 mars 2026 son très attendu nouvel album 'Kiss All the Time. Disco, Occasionally', explorant des sonorités disco avec des touches occasionnelles. Les médias internationaux publient déjà des critiques positives en avant-première, soulignant l'audace artistique de l'ex-membre de One Direction. Cet opus marque un virage pop-disco dans sa carrière solo. Les fans peuvent l'écouter dès maintenant sur les plateformes de streaming.",
+      "why": "La sortie d'un album par une superstar mondiale comme Harry Styles génère un buzz immédiat et influence les tendances pop actuelles.",
       "category": "Pop"
     },
     {
-      "title": "Sébastien Tellier célèbre son album Kiss the Beast avec deux soirs à l'Olympia les 16-17 mars",
-      "summary": "Le chanteur français Sébastien Tellier marque la sortie de son septième album Kiss the Beast par deux concerts à guichets fermés à l'Olympia. L'artiste, connu pour ses performances excentriques et ses textes poétiques, proposera un show intime et théâtral dans la mythique salle parisienne. Cet événement souligne son retour en force après plusieurs années de collaborations et d'explorations solo. Les fans attendent des surprises live adaptées à cet opus sensuel et expérimental.",
-      "why": "Tellier incarne l'avant-garde française ; ces sold-outs affirment sa pertinence durable dans la pop alternative.",
-      "category": "Pop"
+      "title": "Kanye West annonce un concert à l'Orange Vélodrome de Marseille avec prix des places controversés",
+      "summary": "Kanye West, alias Ye, programme un concert unique à l'Orange Vélodrome de Marseille, provoquant déjà des débats sur les tarifs élevés des billets. Cette venue rare en France pour l'artiste hip-hop controversé attire l'attention médiatique. Les places se vendent rapidement malgré les remous. L'événement s'inscrit dans sa tournée imprévisible.",
+      "why": "Un show de Kanye West en France est un événement rare qui divise et mobilise les fans hip-hop, avec un impact économique notable.",
+      "category": "Hip-Hop"
     },
     {
-      "title": "David Byrne lance sa tournée internationale à La Seine Musicale les 18-19 mars",
-      "summary": "L'ex-leader de Talking Heads, David Byrne, inaugure sa tournée mondiale avec deux dates à La Seine Musicale, accompagné de 13 musiciens, chanteurs et danseurs. Le spectacle s'appuie sur son récent album Who Is The Sky? avec le Ghost Train Orchestra, mêlant art performance et musique hybride. Cette production haute en couleur explore des thèmes sociétaux à travers une scénographie innovante. Byrne, figure du rock expérimental, attire un public intergénérationnel avide de ses concepts immersifs.",
-      "why": "Byrne révolutionne les concerts live ; cette première européenne marque un événement culturel majeur.",
-      "category": "Rock"
+      "title": "Bigflo & Oli bloqués à Dubaï en raison du conflit au Moyen-Orient",
+      "summary": "Le duo rap français Bigflo & Oli est coincé à Dubaï, empêché de rentrer en France à cause de l'escalade du conflit américano-iranien. Certains ressortissants français, dont les artistes, sont affectés par les restrictions de vols. Les frères rappent leur situation via les réseaux sociaux. Cela perturbe potentiellement leur agenda musical.",
+      "why": "Cette situation touche des artistes majeurs du rap français et met en lumière les impacts géopolitiques sur la scène musicale.",
+      "category": "Hip-Hop"
     },
     {
-      "title": "Marlon Magnée sort son premier album solo Dark Star et joue au Supersonic le 26 mars",
-      "summary": "Ancien cofondateur de La Femme, Marlon Magnée dévoile Dark Star, son premier disque solo paraissant le 6 mars, suivi d'un concert au Supersonic. L'album puise dans l'électro-pop psychédélique, prolongeant l'héritage du groupe tout en explorant une voie personnelle plus introspective. Après la fin de La Femme, ce projet solo signe le renouveau de l'artiste sur la scène française. Le show célèbrera cette transition avec des visuels immersifs et des invités surprises.",
-      "why": "Successeur spirituel de La Femme, ce lancement solo revitalise la scène électro française post-groupe.",
-      "category": "Électro"
-    },
-    {
-      "title": "Katseye domine le top des hits 2026 avec Gabriela en tête du classement Fréquence Plus",
-      "summary": "Le groupe Katseye propulse son single Gabriela au sommet du TOP 50 Hits 2026 de Fréquence Plus, surpassant des tracks comme Eternity d'Alex Warren. Ce succès reflète l'ascension fulgurante de ce collectif multinational dans la pop globale, boosté par les plateformes streaming. D'autres nouveautés comme Gone Gone Gone de David Guetta ft. Teddy Swims et Tones And I suivent de près, indiquant une vague de collaborations électro-pop. Ce classement capture les tendances dominantes du moment en radio et streaming.",
-      "why": "Les tops hits signalent les phénomènes viraux ; Katseye incarne la nouvelle génération pop conquérant les charts.",
-      "category": "Pop"
+      "title": "Festival Paris Music 2026 annonce sa programmation avec Mathias Malzieu, China Moses et autres en lieux insolites",
+      "summary": "Du 18 au 22 mars 2026, le Festival Paris Music propose des concerts à prix mini dans des lieux insolites de la capitale. Au line-up : Mathias Malzieu, Alexis HK, Malik Djoudi, Coline Rio, China Moses et Flore Benguigui (ex-L’Impératrice). Cette édition met l'accent sur la diversité jazz, pop et chanson française. Les billets abordables démocratisent l'accès à la musique live.",
+      "why": "Ce festival transversal réunit des artistes variés dans un format innovant, boostant la scène musicale parisienne printanière.",
+      "category": "Autre"
     }
   ],
   "updates": []
