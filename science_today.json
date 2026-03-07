@@ -1,36 +1,5 @@
 {
-  "date": "06/03/2026",
-  "news": [
-    {
-      "title": "MIT démontre le rôle des inflammations de bas grade dans les maladies cardiovasculaires et neurodégénératives",
-      "summary": "Des chercheurs du MIT ont prouvé que les inflammations chroniques de faible intensité contribuent significativement au développement des maladies cardiovasculaires, métaboliques et neurodégénératives. Ces inflammations, auparavant considérées comme mineures, perturbent l'équilibre immunitaire global. La prévention doit désormais intégrer sommeil, alimentation et activité physique pour moduler l'immunité. Cela repousse les frontières entre santé physique et mentale.",
-      "why": "Cette découverte transforme la médecine préventive en ciblant l'immunité comme pivot central contre les maladies chroniques majeures.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Sommeil profond : système de nettoyage cérébral 10 fois plus actif contre Alzheimer confirmé",
-      "summary": "Une étude de l'Université de Rochester publiée dans Science montre que le sommeil profond active un système de nettoyage cérébral éliminant les protéines toxiques liées à Alzheimer jusqu'à dix fois plus efficacement qu'à l'éveil. Ce mécanisme glymphatique draine les déchets accumulés dans le cerveau. Optimiser le sommeil devient une stratégie thérapeutique directe. Les implications touchent aussi l'immunité et la santé mentale.",
-      "why": "Traiter le sommeil équivaut à prévenir Alzheimer et d'autres troubles neurodégénératifs, révolutionnant les approches holistiques.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Modèles prédictifs MIT-Harvard pour risques cardiovasculaires et neurodégénératifs à partir de données intégrées",
-      "summary": "Des équipes du MIT et Harvard ont créé des modèles prédisant les risques de maladies cardiovasculaires, diabète et troubles neurodégénératifs via analyses sanguines, imagerie, sommeil et inflammation. Ces outils identifient les trajectoires de risque sans diagnostic formel. Ils intègrent des paramètres multiples pour une évaluation personnalisée. Cela accélère la médecine prédictive précoce.",
-      "why": "Permet une intervention préventive personnalisée, potentiellement sauvant des millions de vies avant l'apparition des symptômes.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Chute de la longévité des dauphins femelles dans le golfe de Gascogne constatée",
-      "summary": "Des études récentes révèlent une diminution significative de l'espérance de vie des dauphins femelles dans le golfe de Gascogne, liée à des facteurs environnementaux. Cela reflète l'impact cumulatif du changement climatique et de la pollution marine. Les observations sur le terrain confirment une vulnérabilité accrue chez les femelles reproductrices. Des mesures de conservation urgentes sont appelées.",
-      "why": "Indicateur clé du déclin des écosystèmes marins, soulignant l'urgence d'actions climatiques et antipollution.",
-      "category": "Biologie"
-    },
-    {
-      "title": "29e lune d'Uranus découverte, enrichissant le système uranien",
-      "summary": "Des simulations et observations confirment une nouvelle lune autour d'Uranus, portant le total à 29. Cette découverte révèle un système satellite plus riche et dynamique que prévu. Elle s'appuie sur des analyses spectroscopiques avancées. Cela ouvre des questions sur la formation planétaire dans les géantes de glace.",
-      "why": "Améliore notre compréhension de la dynamique des systèmes planétaires extérieurs, préparant les futures missions comme Uranus Probe.",
-      "category": "Espace"
-    }
-  ],
+  "date": "07/03/2026",
+  "news": [],
   "updates": []
 }
