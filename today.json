@@ -1,35 +1,35 @@
 {
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "news": [
     {
-      "title": "Israël lance offensive terrestre au sud Liban avec soutien IA dans frappes",
-      "summary": "L'armée israélienne a lancé une offensive terrestre au sud du Liban malgré les appels à la retenue, visant des cibles liées au Hezbollah financé par l'Iran. Les frappes nocturnes sur la banlieue sud de Beyrouth ont provoqué des déplacements massifs à Saïda, troisième ville du pays. L'IA joue un rôle clé via des logiciels comme Maven de Palantir pour analyser données satellites, drones et capteurs en temps réel. Cela permet une hiérarchisation rapide des menaces et une proposition de cibles optimisées, transformant le rythme de la guerre.",
-      "why": "Cette escalade au Moyen-Orient met en lumière l'usage croissant de l'IA dans les conflits armés, risquant de propager les tensions régionales.",
-      "category": "Application"
+      "title": "Alibaba perd le chef technique de ses LLM Qwen",
+      "summary": "Lin Junyang, responsable technique des modèles de langage Qwen chez Alibaba, a démissionné le 4 mars 2026, annonçant sa décision sur X et surprenant la communauté IA open source. Alibaba réaffirme son engagement envers sa stratégie de modèles open source via une lettre du laboratoire Tongyi, promettant d'intensifier les investissements en IA. Cette perte intervient dans un contexte de concurrence accrue sur les LLM chinois face à des acteurs comme DeepSeek. L'impact potentiel inclut un ralentissement temporaire dans les mises à jour de Qwen, qui rivalise avec des modèles comme Llama.",
+      "why": "La démission d'un leader clé chez Alibaba souligne les tensions dans la course aux talents IA et pourrait affecter la compétitivité des LLM chinois open source.",
+      "category": "Entreprise"
     },
     {
-      "title": "Netanyahu qualifie opérations contre Iran de réponse à menace existentielle",
-      "summary": "Le Premier ministre israélien a décrit les frappes sur l'Iran et le Hezbollah comme une 'opération' conjointe avec Washington contre une menace existentielle. Les actions visent à démanteler le réseau de proxies iraniens incluant Hamas, Houthis et Hezbollah. L'intégration d'IA accélère les décisions militaires en traitant des masses de données impossibles à gérer manuellement. Des centaines de déplacés fuient déjà les zones ciblées au Liban.",
-      "why": "Cela souligne l'impact géopolitique de l'IA militaire, potentiellement redessinant les alliances au Moyen-Orient.",
-      "category": "Application"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : l'IA comme visage technologique des frappes",
-      "summary": "Les analyses soulignent le rôle pivotal de l'IA dans la nouvelle phase de la guerre israélo-iranienne, avec 20 geeks IA intégrés aux unités US comme le 18e corps aéroporté. Le logiciel Maven aspire images satellites, vidéos drones et données capteurs pour générer cibles en heures. Comparé à Uber pour son matching en temps réel d'unités et missions, il hiérarchise menaces dynamiquement. Cette tech change fondamentalement la tactique militaire.",
-      "why": "L'IA accélère les guerres modernes, posant des questions éthiques sur l'automatisation des frappes.",
-      "category": "Application"
-    },
-    {
-      "title": "Sommet New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "summary": "New Delhi a réuni les leaders mondiaux de l'IA pour un sommet sur l'impact de la technologie et les solutions nécessaires. Cinq problématiques majeures ont été soulevées : biais algorithmiques, perte d'emplois, cybersécurité, régulation éthique et consommation énergétique. Les discussions appellent à une gouvernance globale coordonnée. Cela intervient alors que l'IA transforme tous les secteurs.",
-      "why": "Ce sommet met en agenda international les défis sociétaux de l'IA, influençant futures régulations mondiales.",
+      "title": "Malaisie suspend autorisations pour centres de données non-IA par crainte énergétique",
+      "summary": "Le gouvernement malaisien a suspendu les autorisations pour nouveaux projets de data centers non dédiés à l'IA, invoquant la consommation excessive d'énergie et d'eau, annonce du Premier ministre Anwar Ibrahim le 24 février. Les projections du ministère PETRA indiquent une capacité suffisante pour les data centers IA pendant deux ans. Cette mesure vise à prioriser l'IA face à la demande croissante en infrastructure. Elle reflète une tendance régionale à réguler l'expansion des data centers pour la durabilité.",
+      "why": "Cette décision priorise l'IA dans l'allocation des ressources critiques, influençant les investissements mondiaux en infrastructure numérique.",
       "category": "Régulation"
     },
     {
-      "title": "Synthèse IA 5 mars : avancées clés et tendances émergentes",
-      "summary": "La synthèse quotidienne de l'IA au 5 mars recense les progrès majeurs en modèles, applications et régulations. Parmi les faits saillants : intégration IA dans conflits, surveillance travail et sommets globaux. Nouveaux outils boostent productivité mais soulèvent privacy et éthique. Perspectives incluent accélération investissements malgré doutes rentabilité.",
-      "why": "Cette vue d'ensemble capture le pouls rapide de l'IA, aidant à prioriser impacts immédiats.",
-      "category": "Recherche"
+      "title": "Singapour : production industrielle +16,6% en janvier grâce à l'IA et semi-conducteurs",
+      "summary": "La production industrielle de Singapour a bondi de 16,6% en janvier 2026, tirée par +44% dans l'électronique dû à la demande en semi-conducteurs et composants IA. Cela double la croissance de décembre (19,6%). Le secteur bénéficie de la forte demande mondiale en puces pour IA. Cette performance renforce la position de Singapour comme hub asiatique de la tech.",
+      "why": "Ces chiffres démontrent l'impact macroéconomique concret de la demande IA sur les chaînes d'approvisionnement en semi-conducteurs.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "CERN déploie robots-souris IA pour inspecter le Grand collisionneur de hadrons",
+      "summary": "Le CERN et l'UKAEA ont co-conçu PipeINEER, un robot-souris de 3,7 cm pour inspecter 6 km de tuyaux dans le LHC. Équipé d'un modèle IA pour détecter anomalies, il signale les problèmes précis en retournant à sa base. Ce projet cible des espaces inaccessibles dans l'accélérateur de particules le plus puissant au monde. Il illustre l'application de l'IA en robotique pour la recherche scientifique extrême.",
+      "why": "Cette innovation pousse les limites de la robotique IA en environnements hostiles, avec potentiel pour d'autres industries comme l'énergie nucléaire.",
+      "category": "Application"
+    },
+    {
+      "title": "Étude PRESENCE : 58% des Français utilisent l'IA récemment, chatbots en forte hausse",
+      "summary": "Selon l'étude 2026 de PRESENCE, 58% des Français ont utilisé l'IA concrètement ces derniers mois, principalement pour recherche info, rédaction et assistance. Les plateformes conversationnelles comme ChatGPT passent à 55% (+14 points), recentrage sur chatbots (+5 points). Usages dominants : navigation (89%), traduction (78%), assistants grammaticaux (65%). Malgré adoption, résultats pas toujours satisfaisants et craintes sociétales persistent.",
+      "why": "Ces données révèlent l'intégration massive de l'IA dans le quotidien français et les défis de satisfaction utilisateur.",
+      "category": "Application"
     }
   ],
   "updates": []
