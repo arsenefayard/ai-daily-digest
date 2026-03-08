@@ -1,44 +1,36 @@
 {
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "news": [
     {
-      "title": "Écosse vs France - Tournoi des 6 Nations",
-      "summary": "Le match décisif Écosse-France se dispute ce samedi 7 mars 2026 à 15h10 au Murrayfield Stadium d'Édimbourg, pour l'avant-dernier match du Tournoi des 6 Nations. Cette rencontre est cruciale pour les ambitions françaises de victoire finale, la France ayant remporté ses trois premiers matchs (36-14 contre l'Irlande, victoires contre le Pays de Galles et l'Italie). Un succès en Écosse mettrait la France en position idéale avant le dernier match contre l'Angleterre le 14 mars. Le match sera retransmis sur TF1.",
-      "why": "C'est un match décisif du Tournoi des 6 Nations qui pourrait déterminer le champion 2026. La France est en position de force et une victoire la rapprocherait du titre.",
-      "category": "Rugby"
-    },
-    {
-      "title": "Indian Wells Masters 1000 - Tennis",
-      "summary": "Le Masters 1000 d'Indian Wells débute du 4 au 15 mars 2026, rassemblant les meilleurs joueurs et joueuses de tennis mondial sur le circuit ATP et WTA. Cet événement prestigieux est l'un des plus importants du calendrier tennistique avant Roland-Garros, attirant les plus grands champions pour des matchs de haut niveau. Les conditions du désert californien et la qualité des participants en font un tournoi incontournable pour évaluer les formes avant les Grand Slams. C'est une étape clé de la préparation pour Roland-Garros prévu en mai-juin.",
-      "why": "Indian Wells est un Masters 1000 majeur qui teste les meilleurs joueurs mondiaux et donne des indications précieuses sur les favoris pour Roland-Garros.",
-      "category": "Tennis"
-    },
-    {
-      "title": "Grand Prix d'Australie de Formule 1",
-      "summary": "Le Grand Prix d'Australie se dispute les 6-8 mars 2026 à Melbourne, marquant l'ouverture officielle de la saison 2026 de Formule 1. Cette première manche de la saison est traditionnellement l'occasion pour les équipes de montrer leur compétitivité et leurs améliorations hivernales. Le circuit Albert Park de Melbourne est connu pour ses conditions imprévisibles et ses batailles intenses entre les pilotes. Cette course donnera les premiers indices sur la hiérarchie des équipes pour la saison.",
-      "why": "C'est le premier Grand Prix de la saison 2026 qui établit la dynamique et les rapports de force pour toute l'année en Formule 1.",
+      "title": "Grand Prix d'Australie de Formule 1 : Ouverture spectaculaire de la saison à Melbourne",
+      "summary": "Le Grand Prix d'Australie marque le coup d'envoi de la saison 2026 de Formule 1 ce 8 mars à Melbourne, avec les top équipes prêtes à s'affronter sur le circuit d'Albert Park. Les pilotes vedettes comme Verstappen et Leclerc visent la pole position dans un contexte de nouvelles réglementations aérodynamiques. La course est diffusée sur Canal+ et attire des centaines de milliers de fans sur place. Les enjeux sont élevés pour les constructeurs dans la course au championnat.",
+      "why": "C'est l'événement phare du week-end, lançant la saison F1 avec des records d'audience attendus mondialement.",
       "category": "F1"
     },
     {
-      "title": "Jeux Paralympiques d'hiver 2026 - Milan-Cortina",
-      "summary": "Les Jeux Paralympiques d'hiver 2026 se déroulent du 6 au 15 mars à Milan-Cortina en Italie, rassemblant les meilleurs athlètes en situation de handicap du monde entier. Ces jeux incluent des épreuves de biathlon, ski alpin, ski de fond, snowboard et autres disciplines hivernales adaptées. C'est un événement majeur qui met en lumière l'excellence sportive et l'inclusion, avec des compétitions de très haut niveau. Les athlètes français sont en lice pour remporter des médailles dans plusieurs disciplines.",
-      "why": "Les Jeux Paralympiques sont un événement sportif majeur qui célèbre l'excellence athlétique et l'inclusion, avec des compétitions de très haut niveau.",
+      "title": "UFC 326 : Holloway vs Oliveira 2 enflamme Las Vegas ce soir",
+      "summary": "L'UFC 326 oppose Max Holloway à Charles Oliveira dans un combat revanche très attendu au T-Mobile Arena de Las Vegas le 8 mars. Ce choc pour le titre intérimaire des légers met en scène deux légendes du MMA avec des styles explosifs. L'événement inclut une carte sous-cartes riche en knockouts potentiels. Les fans anticipent un finish spectaculaire après leur premier duel mémorable.",
+      "why": "Ce main event réunit deux stars mondiales et pourrait redessiner la hiérarchie en MMA.",
       "category": "Autre"
     },
     {
-      "title": "UFC 326 - Holloway vs Oliveira 2",
-      "summary": "Le combat UFC 326 opposant Max Holloway à Charles Oliveira 2 se dispute le 8 mars 2026 à la T-Mobile Arena de Las Vegas. Ce rematch très attendu entre deux des meilleurs combattants de l'UFC promet une bataille intense au plus haut niveau des arts martiaux mixtes. Les deux combattants sont des champions reconnus avec des styles complémentaires qui créent des affrontements spectaculaires. Ce combat est l'un des événements MMA majeurs du début de saison 2026.",
-      "why": "C'est un rematch de haut niveau entre deux champions UFC qui attire l'attention mondiale des fans de MMA.",
+      "title": "Tirage explosif de l'Ultimate Tennis Showdown à Nîmes avec top 15 mondial",
+      "summary": "Le tirage au sort des quarts de finale de l'UTS 2026 a été révélé le 6 mars, opposant Casper Ruud à Karen Khachanov, Félix Auger-Aliassime à Grigor Dimitrov, Andrey Rublev à Alejandro Davidovich Fokina, et Alexander Bublik à Ugo Humbert. Première historique avec huit joueurs du top 15 mondial lors des 12 derniers mois. Ugo Humbert représente seul la France dans ce tournoi innovant sur terre battue nîmoise. L'événement promet des matchs intenses avec format raccourci et moins de temps entre points.",
+      "why": "Présence inédite de tant de top players élève l'UTS au rang des must-see en tennis pré-Grand Chelem.",
+      "category": "Tennis"
+    },
+    {
+      "title": "Paris-Nice 2026 : Départ du cyclisme mondial avec les grands noms",
+      "summary": "La 84e édition de Paris-Nice s'élance le 8 mars, première course World Tour de l'année réunissant Pogacar, Vingegaard et Evenepoel. Le parcours vallonné de 1 200 km sur 8 jours teste les grimpeurs en vue du Tour de France. Les enjeux incluent les premiers maillots distinctifs et les points UCI cruciaux. La course est un baromètre précoce de la forme des favoris.",
+      "why": "C'est le premier grand test cycliste de la saison, influençant les hiérarchies avant les classiques printanières.",
+      "category": "Autre"
+    },
+    {
+      "title": "Jeux Paralympiques d'hiver 2026 : Début officiel à Milan-Cortina",
+      "summary": "Les Jeux Paralympiques d'hiver de Milan-Cortina ont débuté le 6 mars avec la cérémonie d'ouverture, mettant en lumière le biathlon et d'autres disciplines adaptées. Plus de 2 000 athlètes de 80 nations compétitionnent jusqu'au 15 mars. L'événement souligne l'inclusion et l'excellence sportive paralympique en Italie. Les performances initiales promettent des records dans la neige.",
+      "why": "Ces Jeux inspirent mondialement et mettent en avant des exploits humains extraordinaires.",
       "category": "Autre"
     }
   ],
-  "updates": [
-    {
-      "title": "Quarts de finale de la Coupe de France - Résultats",
-      "original": "Quarts de finale de la Coupe de France disputés les 4 et 5 mars 2026",
-      "summary": "Les quarts de finale de la Coupe de France se sont déroulés les 4 et 5 mars 2026 avec les matchs : Strasbourg (L1) vs Reims (L2), Lorient (L1) vs Nice (L1), OM (L1) vs Toulouse (L1), et Lyon (L1) vs Lens (L1). Ces rencontres ont déterminé les quatre demi-finalistes qui se disputeront l'accès à la finale. Les résultats de ces quarts de finale sont maintenant connus et les équipes qualifiées peuvent préparer leurs demi-finales.",
-      "why": "Les quarts de finale sont terminés et les demi-finalistes sont désormais connus, marquant une étape importante de la Coupe de France.",
-      "category": "Football"
-    }
-  ]
+  "updates": []
 }
