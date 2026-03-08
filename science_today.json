@@ -1,5 +1,36 @@
 {
-  "date": "07/03/2026",
-  "news": [],
+  "date": "08/03/2026",
+  "news": [
+    {
+      "title": "Japon approuve les premiers traitements par cellules souches iPS pour Parkinson et maladies cardiaques",
+      "summary": "Le Japon a autorisé deux traitements révolutionnaires basés sur les cellules souches induites pluripotentes (iPS) : Amchepry pour la maladie de Parkinson et ReHeart pour les maladies cardiaques. Cette approbation représente une première mondiale et s'inscrit dans la continuité des travaux pionniers du prix Nobel Shinya Yamanaka sur la reprogrammation cellulaire. Ces thérapies ouvrent des perspectives majeures pour le traitement de maladies neurodégénératives et cardiovasculaires jusqu'alors incurables.",
+      "why": "C'est une avancée médicale majeure qui démontre la viabilité clinique des cellules iPS et pourrait révolutionner le traitement de maladies affectant des millions de personnes.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Découverte du phénomène de 'Cheval de Troie viral' : des virus voyagent à l'intérieur d'autres virus",
+      "summary": "Une nouvelle étude révèle que certains virus utilisent d'autres virus comme vecteurs de transport, un mécanisme comparable au cheval de Troie de la mythologie grecque. Ce phénomène, jusqu'à présent méconnu, suggère que les virus parasites renforcent probablement leurs capacités infectieuses en exploitant les structures d'autres virus. Cette découverte remet en question la compréhension classique de la transmission virale et de l'évolution des pathogènes.",
+      "why": "Cette découverte pourrait expliquer certains mécanismes d'infection complexes et avoir des implications importantes pour la virologie, l'épidémiologie et le développement de nouveaux antiviraux.",
+      "category": "Biologie"
+    },
+    {
+      "title": "Confirmation de la 29e lune d'Uranus enrichissant le système uranien",
+      "summary": "Les simulations numériques à haute précision de 2026 ont confirmé la découverte d'une 29e lune autour d'Uranus, portant le total des satellites connus du système uranien de 28 à 29. Cette nouvelle lune s'ajoute à la compréhension croissante de la richesse et de la complexité du système uranien. La découverte a été validée par des observations spectroscopiques confirmant la composition et les caractéristiques orbitales du satellite.",
+      "why": "Cette découverte enrichit notre connaissance des systèmes planétaires géants et démontre que les systèmes uranien et jovien sont bien plus complexes que prévu, avec des implications pour la formation et l'évolution des systèmes planétaires.",
+      "category": "Espace"
+    },
+    {
+      "title": "Détection de minéraux réox sensibles sur Mars par le rover Perseverance",
+      "summary": "Le rover Perseverance a identifié pour la première fois un ensemble complet de minéraux dits 'réox sensibles', c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique, dans la zone du rebord de Jezero. Cette découverte a été réalisée grâce à une combinaison d'instruments montés sur le bras robotique du rover et de techniques d'analyse à distance. Ces minéraux fournissent des indices précieux sur les processus géochimiques passés de Mars et les conditions environnementales anciennes.",
+      "why": "La présence de minéraux réox sensibles est cruciale pour comprendre l'histoire géologique et chimique de Mars, notamment les transitions entre conditions oxydantes et réductrices qui auraient pu affecter l'habitabilité de la planète.",
+      "category": "Espace"
+    },
+    {
+      "title": "Missions spatiales Europa Clipper et JUICE en route vers les lunes-océans de Jupiter",
+      "summary": "Les missions Europa Clipper de la NASA et JUICE de l'Agence spatiale européenne sont actuellement en route vers les lunes de Jupiter (Europe, Ganymède et Callisto) pour explorer les océans cachés sous leurs surfaces glacées. L'exploration des systèmes de Jupiter et de Saturne a révélé que plusieurs de leurs lunes possèdent des océans souterrains potentiellement habitables. Ces missions représentent une étape majeure dans la recherche de vie extraterrestre et la compréhension des environnements extrêmes du système solaire.",
+      "why": "Ces missions sont fondamentales pour déterminer le potentiel d'habitabilité des lunes-océans et pour identifier les conditions favorables à l'émergence de la vie au-delà de la Terre.",
+      "category": "Espace"
+    }
+  ],
   "updates": []
 }
