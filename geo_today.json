@@ -1,44 +1,36 @@
 {
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "news": [
     {
-      "title": "Israël intensifie ses frappes sur Beyrouth et engage des affrontements directs avec le Hezbollah au Liban",
-      "summary": "L'armée israélienne a déclaré avoir commencé à frapper l'infrastructure du Hezbollah à Beyrouth, marquant une escalade significative au 5e jour de la guerre au Moyen-Orient. Le mouvement pro-iranien a rapporté pour la première fois des affrontements directs avec des soldats israéliens dans le sud du Liban, suite aux bombardements sur Téhéran et à la mort présumée du Guide suprême Ali Khamenei. Cette extension des opérations israéliennes au Liban risque de transformer le conflit Iran-Israël en une guerre régionale impliquant le Hezbollah. Les enjeux incluent une déstabilisation accrue du Liban et une possible intervention d'autres acteurs comme la Syrie.",
-      "why": "Cette escalade directe au Liban menace de regionaliser le conflit Iran-Israël, potentiellement impliquant l'OTAN et d'autres puissances, avec des répercussions sur la stabilité méditerranéenne.",
+      "title": "Israël entre dans une nouvelle phase d'offensive contre l'Iran et le Liban",
+      "summary": "Israël a intensifié ses bombardements sur Téhéran, visant le bunker et le quartier général des Gardiens de la Révolution, et étendu ses opérations terrestres au Liban suite aux attaques du Hezbollah sur Haïfa et Beyrouth. Les forces israéliennes affirment avoir détruit des infrastructures clés iraniennes, avec des centaines de civils tués selon le Croissant rouge. Cette escalade marque une transition vers une guerre d'usure, avec maîtrise aérienne revendiquée par les alliés américano-israéliens. Les enjeux incluent un possible effondrement du régime iranien et une déstabilisation régionale accrue.",
+      "why": "Cette nouvelle phase risque de prolonger le conflit, menaçant la stabilité du Moyen-Orient et les flux énergétiques mondiaux via le détroit d'Ormuz.",
       "category": "Conflit"
     },
     {
-      "title": "Espagne refuse l'accès à ses bases militaires aux USA et subit un blocus commercial de Trump",
-      "summary": "Le Premier ministre espagnol Pedro Sanchez a fermement refusé l'utilisation des bases de Rota et Moron pour les opérations américaines contre l'Iran, qualifiant l'intervention d'illégale. En riposte, Donald Trump a annoncé un blocus commercial bilatéral, provoquant une solidarité européenne autour de Madrid. La Commission européenne, via Teresa Ribera, a averti Washington que le commerce se négocie avec tout le bloc. Cette crise fracture l'Alliance atlantique et met en lumière des divergences sur la légitimité des frappes contre l'Iran.",
-      "why": "Ce bras de fer transatlantique révèle une fragmentation de l'OTAN et pourrait redessiner les alliances en Europe face aux interventions unilatérales américaines.",
+      "title": "Coalition américano-israélienne mobilise les Kurdes irakiens pour attaque nord-ouest contre l'Iran",
+      "summary": "Les États-Unis et Israël tentent de rallier les Kurdes en Irak pour ouvrir un front terrestre par le nord-ouest iranien, visant à affaiblir Téhéran sur plusieurs axes. Cette stratégie compense l'absence d'alliés terrestres traditionnels et s'inscrit dans l'objectif de changement de régime. Donald Trump promet immunité aux forces iraniennes désertrices pour reconstruire un 'nouvel Iran'. Les implications géopolitiques touchent les équilibres ethniques en Irak et les relations avec la Turquie.",
+      "why": "L'ouverture d'un nouveau front pourrait accélérer la chute du régime iranien mais risquer une fragmentation régionale impliquant Kurdes, Turcs et Arabes.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz",
+      "summary": "Trump déclare que l'Iran a entamé des négociations avec les États-Unis, promettant un avenir radieux via un 'MIGA' (Make Iran Great Again) après décimation des capacités balistiques. Malgré le blocus partiel du détroit d'Ormuz, les prix mondiaux du pétrole restent stables grâce à des escortes US potentielles. L'intervention vise à empêcher le nucléaire iranien et son soutien aux proxies comme Hezbollah et Houthis. Cela reflète une stratégie hybride mêlant frappes et diplomatie.",
+      "why": "Ces négociations pourraient désescalader le conflit majeur, stabilisant l'énergie mondiale, mais dépendent de la fiabilité des signaux iraniens.",
       "category": "Diplomatie"
     },
     {
-      "title": "Chine annonce une hausse de 7% de son budget militaire pour 2026 à 238,7 milliards d'euros",
-      "summary": "Pékin prévoit d'augmenter ses dépenses de défense de 7% pour atteindre 238,7 milliards d'euros en 2026, trois fois moins que les USA, au milieu des tensions en mer de Chine méridionale. Cette décision intervient dans un contexte de guerre au Moyen-Orient et de rivalité sino-américaine croissante. Elle vise à renforcer les capacités navales et balistiques face à Taïwan et aux alliés de Washington. Les implications géopolitiques incluent une course aux armements accélérée en Asie-Pacifique.",
-      "why": "Cette augmentation budgétaire signale une posture plus assertive de Pékin, exacerbant les tensions avec les USA et risquant une escalade en Asie.",
+      "title": "Renforts militaires européens : Grèce, France et Chypre se préparent face à la guerre au Moyen-Orient",
+      "summary": "La Grèce renforce ses défenses au nord pour protéger la Bulgarie, la France redéploie le Charles de Gaulle avec frégates vers Chypre, membre UE. Ces mesures visent à sécuriser l'Europe sud face aux retombées du conflit Iran-Israël. D'autres capitales européennes suivent, signalant une mobilisation collective. Les enjeux concernent la protection des approvisionnements énergétiques et la dissuasion anti-missiles.",
+      "why": "Cette mobilisation marque un élargissement du conflit au flanc sud de l'Europe, testant la cohésion OTAN-UE.",
       "category": "Sécurité"
     },
     {
-      "title": "Brésil ratifie l'accord Mercosur-UE, ne manque plus que le Paraguay",
-      "summary": "Après l'Argentine et l'Uruguay, le Brésil a ratifié le traité de libre-échange Mercosur-Union européenne, suscitant des tensions en Europe sur l'agriculture et l'environnement. Il ne reste que le vote du Parlement paraguayen pour finaliser l'accord signé il y a des années. Cet accord ouvre un marché de 780 millions de consommateurs mais divise l'UE entre partisans du libre-échange et protecteurs. Géopolitiquement, il renforce les liens transatlantiques sud-nord face à la Chine.",
-      "why": "La ratification imminente consolide un axe économique UE-Amérique latine, contrecarrant l'influence chinoise et impactant les chaînes d'approvisionnement mondiales.",
-      "category": "Économie"
-    },
-    {
-      "title": "Zelensky refuse de réparer l'oléoduc vers la Hongrie et menace Orban sur le prêt européen",
-      "summary": "Volodymyr Zelensky refuse de réparer l'oléoduc transportant du pétrole russe vers la Hongrie, en réponse au blocage par Viktor Orban d'un prêt européen de 90 milliards d'euros pour Kiev. Cette querelle exacerbe les tensions intra-UE sur le soutien à l'Ukraine et les livraisons énergétiques russes. Budapest utilise son veto pour protéger ses approvisionnements, fragilisant l'unité européenne. Les enjeux incluent une potentielle crise énergétique en Europe centrale.",
-      "why": "Ce clash Ukraine-Hongrie met en péril l'unité de l'UE sur la guerre russo-ukrainienne et les sanctions énergétiques.",
-      "category": "Énergie"
+      "title": "Hongrie bloque prêt européen de 90 milliards à l'Ukraine sur dispute oléoduc",
+      "summary": "Budapest accuse Kiev de bloquer la réparation de l'oléoduc vers la Hongrie en représailles à ses positions pro-russes, bloquant un prêt UE de 90 milliards pour l'effort de guerre ukrainien. Cette crise exacerbe les tensions internes à l'UE sur l'aide à Kiev. Zelensky refuse les réparations, menaçant Orban. Les implications géopolitiques fragilisent l'unité européenne face à la Russie.",
+      "why": "Ce blocage divise l'UE au moment où le Moyen-Orient détourne l'attention, affaiblissant le soutien à l'Ukraine.",
+      "category": "Diplomatie"
     }
   ],
-  "updates": [
-    {
-      "title": "Israël étend ses bombardements de Téhéran au Liban avec frappes sur Beyrouth",
-      "original": "Israël poursuit bombardements sur Téhéran et étend au Liban",
-      "summary": "Israël a franchi une étape majeure en frappant l'infrastructure du Hezbollah à Beyrouth et en engageant des affrontements terrestres directs dans le sud du Liban. Cela suit les attaques du Hezbollah en représailles à la mort d'Ali Khamenei. Cette escalade marque le passage d'opérations aériennes à des incursions terrestres. Plus de 20 navires iraniens ont été détruits au 5e jour du conflit.",
-      "why": "L'extension au Liban avec combats directs risque une guerre multifronts, impliquant potentiellement plus d'États et déstabilisant tout le Levant.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
