@@ -2,18 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "OTAN intercepte un missile iranien visant la Turquie",
-      "Attaques iraniennes sur sites américains dans le Golfe, dont Amazon aux EAU",
-      "USA et Venezuela rétablissent relations diplomatiques",
-      "Perturbations à l'aéroport de Dubaï dues à ripostes iraniennes",
-      "Marine US propose d'escorter pétroliers dans le détroit d'Ormuz",
-      "Israël poursuit bombardements sur Téhéran et étend au Liban",
-      "Wall Street chute de plus de 2% sur angoisse géopolitique"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Coopération nucléaire franco-allemande émergente dans la crise Iran",
       "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
       "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
@@ -71,6 +59,16 @@
       "Brésil ratifie l'accord Mercosur-UE, ne manque plus que le Paraguay",
       "Zelensky refuse de réparer l'oléoduc vers la Hongrie et menace Orban sur le prêt européen",
       "Israël étend ses bombardements de Téhéran au Liban avec frappes sur Beyrouth"
+    ]
+  },
+  {
+    "date": "08/03/2026",
+    "titles": [
+      "Israël entre dans une nouvelle phase d'offensive contre l'Iran et le Liban",
+      "Coalition américano-israélienne mobilise les Kurdes irakiens pour attaque nord-ouest contre l'Iran",
+      "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz",
+      "Renforts militaires européens : Grèce, France et Chypre se préparent face à la guerre au Moyen-Orient",
+      "Hongrie bloque prêt européen de 90 milliards à l'Ukraine sur dispute oléoduc"
     ]
   }
 ]
