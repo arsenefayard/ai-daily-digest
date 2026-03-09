@@ -1,35 +1,35 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "Grand Prix d'Australie de Formule 1 : Ouverture spectaculaire de la saison à Melbourne",
-      "summary": "Le Grand Prix d'Australie marque le coup d'envoi de la saison 2026 de Formule 1 ce 8 mars à Melbourne, avec les top équipes prêtes à s'affronter sur le circuit d'Albert Park. Les pilotes vedettes comme Verstappen et Leclerc visent la pole position dans un contexte de nouvelles réglementations aérodynamiques. La course est diffusée sur Canal+ et attire des centaines de milliers de fans sur place. Les enjeux sont élevés pour les constructeurs dans la course au championnat.",
-      "why": "C'est l'événement phare du week-end, lançant la saison F1 avec des records d'audience attendus mondialement.",
-      "category": "F1"
+      "title": "FC Barcelone s'impose 1-0 à Bilbao et renforce sa position en Liga",
+      "summary": "Le FC Barcelone a remporté une précieuse victoire 1-0 sur le terrain de l'Athletic Bilbao lors de la 27e journée de Liga le 7 mars 2026. Ce succès, obtenu grâce à un but décisif en seconde période, permet aux Catalans de prendre une option sur le titre. L'Atlético Madrid a également brillé en battant Real Sociedad 3-2 dans un match intense. Ces résultats resserrent la course au podium en Espagne.[1]",
+      "why": "Ces victoires catalane et colchonera dans les dernières 48h modifient l'équilibre en Liga, avec des implications directes pour la course au titre.",
+      "category": "Football"
     },
     {
-      "title": "UFC 326 : Holloway vs Oliveira 2 enflamme Las Vegas ce soir",
-      "summary": "L'UFC 326 oppose Max Holloway à Charles Oliveira dans un combat revanche très attendu au T-Mobile Arena de Las Vegas le 8 mars. Ce choc pour le titre intérimaire des légers met en scène deux légendes du MMA avec des styles explosifs. L'événement inclut une carte sous-cartes riche en knockouts potentiels. Les fans anticipent un finish spectaculaire après leur premier duel mémorable.",
-      "why": "Ce main event réunit deux stars mondiales et pourrait redessiner la hiérarchie en MMA.",
-      "category": "Autre"
-    },
-    {
-      "title": "Tirage explosif de l'Ultimate Tennis Showdown à Nîmes avec top 15 mondial",
-      "summary": "Le tirage au sort des quarts de finale de l'UTS 2026 a été révélé le 6 mars, opposant Casper Ruud à Karen Khachanov, Félix Auger-Aliassime à Grigor Dimitrov, Andrey Rublev à Alejandro Davidovich Fokina, et Alexander Bublik à Ugo Humbert. Première historique avec huit joueurs du top 15 mondial lors des 12 derniers mois. Ugo Humbert représente seul la France dans ce tournoi innovant sur terre battue nîmoise. L'événement promet des matchs intenses avec format raccourci et moins de temps entre points.",
-      "why": "Présence inédite de tant de top players élève l'UTS au rang des must-see en tennis pré-Grand Chelem.",
+      "title": "Indian Wells Masters 1000 démarre avec les stars du circuit ATP et WTA",
+      "summary": "Le Masters 1000 d'Indian Wells a débuté le 8 mars 2026, réunissant les meilleurs joueurs mondiaux sur dur dans le désert californien. Carlos Alcaraz et Iga Swiatek, tenants du titre, visent un doublé tandis que Jannik Sinner et Aryna Sabalenka challengent les favoris dès les premiers tours. Les qualifications ont déjà offert des surprises avec des jeunes talents en lice. Ce tournoi reste un rendez-vous incontournable avant les grands chelems sur terre.[4]",
+      "why": "Premier Masters 1000 de l'année, il définit les hiérarchies précoces sur dur et attire une audience mondiale massive.",
       "category": "Tennis"
     },
     {
-      "title": "Paris-Nice 2026 : Départ du cyclisme mondial avec les grands noms",
-      "summary": "La 84e édition de Paris-Nice s'élance le 8 mars, première course World Tour de l'année réunissant Pogacar, Vingegaard et Evenepoel. Le parcours vallonné de 1 200 km sur 8 jours teste les grimpeurs en vue du Tour de France. Les enjeux incluent les premiers maillots distinctifs et les points UCI cruciaux. La course est un baromètre précoce de la forme des favoris.",
-      "why": "C'est le premier grand test cycliste de la saison, influençant les hiérarchies avant les classiques printanières.",
-      "category": "Autre"
+      "title": "Virtus Bologne domine Napoli 90-71 et s'affirme en Serie A basket",
+      "summary": "La Virtus Bologne s'est imposée 90-71 face à Napoli Basket le 7 mars 2026 en championnat italien Serie A. Cette victoire convaincante renforce la position des Bolognais dans la course au titre. Dinamo Sassari a également brillé en prolongation contre Aquila Trento (99-96). Ces résultats animent le haut de tableau italien.[1]",
+      "why": "Performances dominantes en basketball européen qui influencent les playoffs et les qualifications euroleague.",
+      "category": "Basketball"
     },
     {
-      "title": "Jeux Paralympiques d'hiver 2026 : Début officiel à Milan-Cortina",
-      "summary": "Les Jeux Paralympiques d'hiver de Milan-Cortina ont débuté le 6 mars avec la cérémonie d'ouverture, mettant en lumière le biathlon et d'autres disciplines adaptées. Plus de 2 000 athlètes de 80 nations compétitionnent jusqu'au 15 mars. L'événement souligne l'inclusion et l'excellence sportive paralympique en Italie. Les performances initiales promettent des records dans la neige.",
-      "why": "Ces Jeux inspirent mondialement et mettent en avant des exploits humains extraordinaires.",
-      "category": "Autre"
+      "title": "Türk Telekom Ankara crée la surprise en battant Galatasaray 93-90",
+      "summary": "Türk Telekom Ankara a renversé Galatasaray Istanbul 93-90 le 7 mars 2026 en championnat turc de basket masculin. Ce succès inattendu sur le parquet du géant stambouliote propulse Ankara dans le top 4. Bahçesehir University a aussi écrasé Bursaspor 100-61. La compétition turque s'annonce plus ouverte que jamais.[1]",
+      "why": "Victoire choc contre un favori qui bouleverse les pronostics en Turquie et met en lumière des outsiders.",
+      "category": "Basketball"
+    },
+    {
+      "title": "AEK Athènes gagne 1-0 contre Larissa et consolide sa défense en Super League grecque",
+      "summary": "AEK Athènes a battu AEL Larissa 1-0 le 7 mars 2026 en Super League grecque, grâce à une défense impénétrable et un but opportuniste. Aris Salonique a tenu en échec Atromitos 0-0 dans le choc de la journée. Ces résultats maintiennent AEK en tête du classement. La course au titre hellénique s'intensifie.[1]",
+      "why": "Matchs clés du football grec avec implications directes sur le leadership avant la trêve internationale.",
+      "category": "Football"
     }
   ],
   "updates": []
