@@ -1,34 +1,34 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "Japon approuve les premiers traitements par cellules souches iPS pour Parkinson et maladies cardiaques",
-      "summary": "Le Japon a autorisé deux traitements révolutionnaires basés sur les cellules souches induites pluripotentes (iPS) : Amchepry pour la maladie de Parkinson et ReHeart pour les maladies cardiaques. Cette approbation représente une première mondiale et s'inscrit dans la continuité des travaux pionniers du prix Nobel Shinya Yamanaka sur la reprogrammation cellulaire. Ces thérapies ouvrent des perspectives majeures pour le traitement de maladies neurodégénératives et cardiovasculaires jusqu'alors incurables.",
-      "why": "C'est une avancée médicale majeure qui démontre la viabilité clinique des cellules iPS et pourrait révolutionner le traitement de maladies affectant des millions de personnes.",
+      "title": "BepiColombo observe des ions hydrogène chauds piégés dans la magnétosphère de Mercure",
+      "summary": "Lors du troisième survol de Mercure par la sonde BepiColombo, des ions hydrogène chauds énergétiques (H+) ont été détectés à basse latitude près du plan équatorial, avec des énergies d'environ 20 keV/e. Ce phénomène suggère la présence d'un courant annulaire similaire à celui de la Terre, porté par des particules chargées piégées dans la magnétosphère. Les chercheurs notent également la caractérisation des particules dans la magnétosphère et l'observation de frontières comme l'onde de choc et le feuillet de plasma. Ces données complètent les observations de MESSENGER et préparent l'arrivée en orbite en 2026.",
+      "why": "Cette découverte potentielle d'un courant annulaire sur Mercure révolutionne notre compréhension de sa dynamique magnétosphérique, analogue à celle terrestre malgré sa proximité au Soleil.",
+      "category": "Espace"
+    },
+    {
+      "title": "Nouveau kit de dépistage portable pour infections bactériennes basé sur l'IA",
+      "summary": "Rochelle Niemeijer a développé un kit portable utilisant l'intelligence artificielle pour diagnostiquer rapidement les infections bactériennes. Ce dispositif permet une détection immédiate sur site, évitant les délais des analyses en laboratoire. Il s'inscrit dans une vague d'innovations par des chercheuses européennes en santé. Le rapport souligne l'égalité des potentiels d'invention entre sexes en STEM.",
+      "why": "Cette avancée accélère le diagnostic des infections, réduisant les complications et les coûts hospitaliers, particulièrement en contextes de ressources limitées.",
       "category": "Médecine"
     },
     {
-      "title": "Découverte du phénomène de 'Cheval de Troie viral' : des virus voyagent à l'intérieur d'autres virus",
-      "summary": "Une nouvelle étude révèle que certains virus utilisent d'autres virus comme vecteurs de transport, un mécanisme comparable au cheval de Troie de la mythologie grecque. Ce phénomène, jusqu'à présent méconnu, suggère que les virus parasites renforcent probablement leurs capacités infectieuses en exploitant les structures d'autres virus. Cette découverte remet en question la compréhension classique de la transmission virale et de l'évolution des pathogènes.",
-      "why": "Cette découverte pourrait expliquer certains mécanismes d'infection complexes et avoir des implications importantes pour la virologie, l'épidémiologie et le développement de nouveaux antiviraux.",
-      "category": "Biologie"
+      "title": "Test génétique pour évaluer le risque de récidive du cancer du sein",
+      "summary": "Laura van’t Veer et son équipe ont créé un test génétique analysant le tissu tumoral pour prédire le risque de récidive chez les patientes atteintes de cancer du sein. Il distingue les cas à haut risque nécessitant une chimiothérapie des cas à faible risque pouvant éviter ce traitement toxique. Cette innovation personnalise les thérapies et minimise les effets secondaires inutiles. Elle met en lumière les contributions féminines en oncologie.",
+      "why": "En optimisant les traitements, ce test améliore la qualité de vie des patientes et rationalise l'usage des ressources médicales.",
+      "category": "Médecine"
     },
     {
-      "title": "Confirmation de la 29e lune d'Uranus enrichissant le système uranien",
-      "summary": "Les simulations numériques à haute précision de 2026 ont confirmé la découverte d'une 29e lune autour d'Uranus, portant le total des satellites connus du système uranien de 28 à 29. Cette nouvelle lune s'ajoute à la compréhension croissante de la richesse et de la complexité du système uranien. La découverte a été validée par des observations spectroscopiques confirmant la composition et les caractéristiques orbitales du satellite.",
-      "why": "Cette découverte enrichit notre connaissance des systèmes planétaires géants et démontre que les systèmes uranien et jovien sont bien plus complexes que prévu, avec des implications pour la formation et l'évolution des systèmes planétaires.",
+      "title": "Échappées inattendues du CNRS : conférences sur les lunes-océans à Morlaix",
+      "summary": "Du 7 au 9 mars 2026, l'Espace des sciences de Morlaix accueille Les Échappées inattendues du CNRS avec des présentations interactives en biologie, chimie, physique et planétologie. Gabriel Tobie, planétologue, donne une conférence sur les lunes-océans de Jupiter et Saturne, évoquant les missions Juice et Europa Clipper en route. L'événement relie sciences contemporaines et patrimoine industriel. Entrée libre les 8 et 9 mars pour le public et scolaires.",
+      "why": "Ces rencontres vulgarisent des recherches de pointe, favorisant l'engagement public avec la science en temps réel.",
       "category": "Espace"
     },
     {
-      "title": "Détection de minéraux réox sensibles sur Mars par le rover Perseverance",
-      "summary": "Le rover Perseverance a identifié pour la première fois un ensemble complet de minéraux dits 'réox sensibles', c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique, dans la zone du rebord de Jezero. Cette découverte a été réalisée grâce à une combinaison d'instruments montés sur le bras robotique du rover et de techniques d'analyse à distance. Ces minéraux fournissent des indices précieux sur les processus géochimiques passés de Mars et les conditions environnementales anciennes.",
-      "why": "La présence de minéraux réox sensibles est cruciale pour comprendre l'histoire géologique et chimique de Mars, notamment les transitions entre conditions oxydantes et réductrices qui auraient pu affecter l'habitabilité de la planète.",
-      "category": "Espace"
-    },
-    {
-      "title": "Missions spatiales Europa Clipper et JUICE en route vers les lunes-océans de Jupiter",
-      "summary": "Les missions Europa Clipper de la NASA et JUICE de l'Agence spatiale européenne sont actuellement en route vers les lunes de Jupiter (Europe, Ganymède et Callisto) pour explorer les océans cachés sous leurs surfaces glacées. L'exploration des systèmes de Jupiter et de Saturne a révélé que plusieurs de leurs lunes possèdent des océans souterrains potentiellement habitables. Ces missions représentent une étape majeure dans la recherche de vie extraterrestre et la compréhension des environnements extrêmes du système solaire.",
-      "why": "Ces missions sont fondamentales pour déterminer le potentiel d'habitabilité des lunes-océans et pour identifier les conditions favorables à l'émergence de la vie au-delà de la Terre.",
+      "title": "Simulations confirment la dangerosité gravitationnelle accrue du Système solaire",
+      "summary": "Des simulations numériques à haute précision en 2026 révèlent un Système solaire plus dynamique et dangereux que prévu, avec des forces gravitationnelles colossales en mouvement perpétuel. Mars montre des signes de passé violent comme des tempêtes de poussière. La comète 3I/Atlas éjecte des glaces volatiles se sublimant à basses températures, analysées par spectroscopie. La 29e lune d'Uranus enrichit son système, passant à 29 satellites.",
+      "why": "Ces modèles améliorent les prévisions pour les missions spatiales et la compréhension de l'instabilité cosmique locale.",
       "category": "Espace"
     }
   ],
