@@ -2,17 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale",
-      "Palantir déploie Maven : un logiciel IA révolutionnant les frappes militaires américaines en Iran",
-      "Firefox 148 lance le « coupe-circuit » pour bloquer les fonctionnalités IA dans le navigateur",
-      "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "Découverte de près de 3 000 clés d'API Google Cloud exposées dans du code côté client",
-      "Escalade du conflit Anthropic-Pentagone : du refus contractuel à l'interdiction fédérale"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Broadcom dépasse les attentes avec une hausse de 106% des revenus IA à 8,4 milliards de dollars",
       "CoreWeave signe partenariat pluriannuel avec Perplexity pour l'inférence IA",
       "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
@@ -68,6 +57,17 @@
       "Singapour : production industrielle +16,6% en janvier grâce à l'IA et semi-conducteurs",
       "CERN déploie robots-souris IA pour inspecter le Grand collisionneur de hadrons",
       "Étude PRESENCE : 58% des Français utilisent l'IA récemment, chatbots en forte hausse"
+    ]
+  },
+  {
+    "date": "09/03/2026",
+    "titles": [
+      "Anthropic accuse des laboratoires chinois de créer 24 000 comptes frauduleux pour extraire Claude",
+      "États-Unis : nouveau cadre juridique pour contrôler les exportations de puces IA",
+      "Banque africaine de développement et PNUD lancent une initiative de 10 milliards $ pour l'IA en Afrique",
+      "Google publie Lyria 3, son modèle génératif de musique",
+      "Rapport international sur la sécurité de l'IA 2026 : évaluation académique des risques",
+      "Escalade du conflit Anthropic-Pentagone : révélations sur les attaques de distillation chinoises"
     ]
   }
 ]
