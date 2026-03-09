@@ -1,35 +1,35 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "Le festival Yggdrasil célèbre les univers fantastiques avec un dragon de 20 mètres",
-      "summary": "Le festival Yggdrasil se déroule les 7 et 8 mars à Eurexpo-Lyon sous le thème « La cité des 1 000 dragons ». Cette édition record accueille plus de 25 000 visiteurs attendus et plus de 30 invités prestigieux issus de l'univers du cinéma et des jeux vidéo, dont Adeline Chetail (voix française de Zelda) et Devon Murray (Harry Potter). Les organisateurs ont créé un squelette de dragon de plus de 20 mètres de long par un paléo-artiste, et huit univers thématiques sont proposés, incluant un nouvel espace dédié aux jeux de société.",
-      "why": "C'est un événement majeur qui fusionne cinéma, jeux vidéo et culture pop avec une mise en scène spectaculaire, attirant des fans de tous les univers fantastiques.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "Jazz'titudes : le festival de Laon revient pour sa 29e édition avec une programmation éclectique",
-      "summary": "Le festival Jazz'titudes de Laon débute le 7 mars et s'étend jusqu'au 30 mai 2026 pour sa 29e édition. L'événement propose une programmation musicale très variée allant du gospel à l'électro, en passant par le swing et le blues. Des artistes renommés comme Sanseverino, Antonio Lizana et Gaëlle Buswel figurent parmi les têtes d'affiche de cette édition.",
-      "why": "C'est un festival historique qui célèbre la diversité musicale et offre une plateforme à des artistes de renommée nationale, reflétant l'évolution du jazz et des musiques apparentées.",
+      "title": "L'étymologie du mot « théâtre » remonte au grec ancien « theatron »",
+      "summary": "Le mot « théâtre » provient du grec « theatron », littéralement « lieu où l'on regarde ». Ce terme combine « thea » (vision, spectacle) et « tron » (lieu). Les Grecs anciens ont ainsi nommé les amphithéâtres en fonction de leur principal usage : permettre aux spectateurs de contempler des représentations dramatiques. Cette étymologie révèle comment les anciens Grecs concevaient le théâtre comme un espace dédié au regard collectif, bien avant que le théâtre ne devienne un art majeur en Occident.",
+      "why": "Comprendre l'étymologie des mots nous aide à saisir comment les civilisations anciennes pensaient et organisaient leur culture. Cela montre que le théâtre était déjà au cœur de la vie grecque.",
       "category": "Histoire"
     },
     {
-      "title": "Marcoville expose ses sculptures monumentales en verre recyclé à la cathédrale de la Major à Marseille",
-      "summary": "L'artiste Marcoville présente une exposition exceptionnelle à la cathédrale de la Major à Marseille, mettant en avant ses gigantesques installations créées exclusivement à partir de matériaux de rebut, notamment le verre. Ses œuvres, composées de dizaines de milliers de pièces, créent une relation intime et profonde avec chaque spectateur. Cette démarche artistique singulière transforme des matériaux considérés comme des déchets en créations monumentales et poétiques.",
-      "why": "C'est une démonstration remarquable de l'art contemporain engagé, montrant comment les matériaux recyclés peuvent devenir des œuvres d'art transformatrices et spirituelles.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "Le Printemps des Arts de Monte-Carlo revient avec 27 concerts et 12 créations mondiales",
-      "summary": "Le Printemps des Arts de Monte-Carlo fait son grand retour du 11 mars au 19 avril 2026 sous la présidence de la princesse de Hanovre. Cette édition 2026 propose 27 concerts exceptionnels dans 24 lieux différents, avec douze créations mondiales et une cinquantaine de compositeurs représentés. Au-delà des spectacles musicaux, le festival offre des ateliers auprès d'artistes, des projections, du théâtre et des cartes blanches.",
-      "why": "C'est un événement prestigieux de musique classique et contemporaine qui positionne Monaco comme capitale culturelle européenne et célèbre la création musicale mondiale.",
+      "title": "Le paradoxe de Zénon : comment Achille ne peut jamais rattraper la tortue",
+      "summary": "Zénon d'Élée, philosophe grec du Ve siècle avant J.-C., a proposé un paradoxe célèbre : si Achille court deux fois plus vite qu'une tortue et qu'elle a une avance, il ne pourra jamais la rattraper. En effet, quand Achille atteint le point de départ de la tortue, celle-ci a avancé ; quand il atteint ce nouveau point, elle a encore avancé, et ainsi de suite infiniment. Bien que mathématiquement résolu par le calcul des séries infinies, ce paradoxe a fasciné les penseurs pendant plus de 2 000 ans et reste un excellent exemple de la puissance de la logique pour remettre en question notre intuition.",
+      "why": "Ce paradoxe illustre comment la philosophie antique a posé les fondations des mathématiques modernes et continue d'inspirer la réflexion sur l'infini et le mouvement.",
       "category": "Philosophie"
     },
     {
-      "title": "Ematsuri : immersion gratuite dans la culture japonaise en Val d'Oise",
-      "summary": "Les 7 et 8 mars 2026, Beaumont-sur-Oise se transforme en véritable matsuri avec le festival Ematsuri, offrant une immersion gratuite dans la culture japonaise. L'événement propose des ateliers de cuisine japonaise, des séances de cosplay, des ateliers de dessin manga et une célébration authentique des traditions nippones. Ce festival gratuit rend accessible la culture pop et traditionnelle japonaise à tous les publics.",
-      "why": "C'est une occasion rare de découvrir la culture japonaise de manière participative et gratuite, reflétant l'engouement croissant pour la culture nippone en France.",
-      "category": "Insolite"
+      "title": "La synesthésie : quand les sens se mélangent dans le cerveau",
+      "summary": "La synesthésie est un phénomène neurologique rare où la stimulation d'un sens provoque automatiquement une perception dans un autre sens. Par exemple, certaines personnes voient des couleurs en entendant de la musique, ou associent des chiffres à des teintes spécifiques. Ce croisement sensoriel n'est pas une hallucination mais une connexion réelle dans le cerveau, où les zones sensorielles communiquent de manière inhabituelle. Environ 4 % de la population mondiale serait synesthète, et ce trait est souvent héréditaire.",
+      "why": "La synesthésie fascine les neuroscientifiques car elle révèle la plasticité du cerveau humain et remet en question notre compréhension des sens comme des systèmes isolés.",
+      "category": "Science pop"
+    },
+    {
+      "title": "Le Minotaure : le monstre mi-homme mi-taureau de la mythologie grecque",
+      "summary": "Le Minotaure est une créature légendaire de la mythologie grecque, fils de Pasiphaé, reine de Crète, et d'un taureau blanc. Enfermé dans un labyrinthe inextricable construit par Dédale, il était nourri de jeunes Athéniens en tribut. Le héros Thésée parvint à le vaincre en suivant un fil d'Ariane à travers le labyrinthe, mettant fin à ce tribut sanglant. Cette légende symbolise la victoire de l'ordre sur le chaos et reste l'une des plus célèbres de l'Antiquité.",
+      "why": "Le mythe du Minotaure a inspiré d'innombrables œuvres d'art, de littérature et de cinéma, et continue de fasciner par sa représentation du monstre comme victime de sa propre nature.",
+      "category": "Mythologie"
+    },
+    {
+      "title": "L'effet Dunning-Kruger : quand l'ignorance engendre la confiance",
+      "summary": "L'effet Dunning-Kruger est un biais cognitif découvert en 1999 par les psychologues David Dunning et Justin Kruger. Il décrit la tendance des personnes peu compétentes dans un domaine à surestimer leurs capacités, tandis que les experts ont tendance à sous-estimer les leurs. Ce phénomène repose sur le fait que les incompétents manquent des connaissances métacognitives nécessaires pour reconnaître leur propre incompétence. Des études ultérieures ont montré que ce biais affecte environ 90 % de la population dans au moins un domaine.",
+      "why": "Comprendre cet effet aide à expliquer pourquoi les gens confiants ne sont pas toujours les plus compétents, et pourquoi l'humilité est souvent un signe d'expertise véritable.",
+      "category": "Psychologie"
     }
   ],
   "updates": []
