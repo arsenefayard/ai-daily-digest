@@ -1,36 +1,44 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "Alibaba perd le chef technique de ses LLM Qwen",
-      "summary": "Lin Junyang, responsable technique des modèles de langage Qwen chez Alibaba, a démissionné le 4 mars 2026, annonçant sa décision sur X et surprenant la communauté IA open source. Alibaba réaffirme son engagement envers sa stratégie de modèles open source via une lettre du laboratoire Tongyi, promettant d'intensifier les investissements en IA. Cette perte intervient dans un contexte de concurrence accrue sur les LLM chinois face à des acteurs comme DeepSeek. L'impact potentiel inclut un ralentissement temporaire dans les mises à jour de Qwen, qui rivalise avec des modèles comme Llama.",
-      "why": "La démission d'un leader clé chez Alibaba souligne les tensions dans la course aux talents IA et pourrait affecter la compétitivité des LLM chinois open source.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Malaisie suspend autorisations pour centres de données non-IA par crainte énergétique",
-      "summary": "Le gouvernement malaisien a suspendu les autorisations pour nouveaux projets de data centers non dédiés à l'IA, invoquant la consommation excessive d'énergie et d'eau, annonce du Premier ministre Anwar Ibrahim le 24 février. Les projections du ministère PETRA indiquent une capacité suffisante pour les data centers IA pendant deux ans. Cette mesure vise à prioriser l'IA face à la demande croissante en infrastructure. Elle reflète une tendance régionale à réguler l'expansion des data centers pour la durabilité.",
-      "why": "Cette décision priorise l'IA dans l'allocation des ressources critiques, influençant les investissements mondiaux en infrastructure numérique.",
+      "title": "Anthropic accuse des laboratoires chinois de créer 24 000 comptes frauduleux pour extraire Claude",
+      "summary": "Anthropic a révélé que trois laboratoires chinois, dont l'éditeur de DeepSeek, ont créé environ 24 000 comptes frauduleux pour mener des attaques de distillation massive contre Claude. Ces attaques ont généré plus de 16 millions d'échanges visant à extraire illicitement les capacités du modèle. Cette campagne coordonnée représente une escalade majeure de l'espionnage industriel dans le secteur de l'IA, combinant fraude à grande échelle et extraction de propriété intellectuelle. L'incident souligne les vulnérabilités des modèles commerciaux face aux acteurs géopolitiques.",
+      "why": "Cet incident révèle une menace systémique majeure : l'utilisation d'attaques de distillation coordonnées par des États pour voler la propriété intellectuelle des modèles IA occidentaux, marquant une escalade du conflit technologique sino-américain.",
       "category": "Régulation"
     },
     {
-      "title": "Singapour : production industrielle +16,6% en janvier grâce à l'IA et semi-conducteurs",
-      "summary": "La production industrielle de Singapour a bondi de 16,6% en janvier 2026, tirée par +44% dans l'électronique dû à la demande en semi-conducteurs et composants IA. Cela double la croissance de décembre (19,6%). Le secteur bénéficie de la forte demande mondiale en puces pour IA. Cette performance renforce la position de Singapour comme hub asiatique de la tech.",
-      "why": "Ces chiffres démontrent l'impact macroéconomique concret de la demande IA sur les chaînes d'approvisionnement en semi-conducteurs.",
+      "title": "États-Unis : nouveau cadre juridique pour contrôler les exportations de puces IA",
+      "summary": "L'administration Trump élabore un nouveau cadre juridique exigeant des pays étrangers qu'ils s'engagent à investir dans des centres de données américains ou fournissent des garanties de sécurité avant d'importer de grandes quantités de puces IA. Pour 100 000 puces, une garantie intergouvernementale est requise, tandis que pour 200 000 puces, des inspections sur place pourraient être imposées. Cette réglementation vise à endiguer le flux de puces vers la Chine tout en renforçant le contrôle géopolitique américain sur la technologie IA. Les experts avertissent que ces exigences pourraient être utilisées comme monnaie d'échange avec les alliés.",
+      "why": "Ce cadre représente une militarisation des exportations technologiques, transformant les puces IA en arme géopolitique et renforçant le contrôle américain sur l'infrastructure mondiale de l'IA.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Banque africaine de développement et PNUD lancent une initiative de 10 milliards $ pour l'IA en Afrique",
+      "summary": "La Banque africaine de développement et le Programme des Nations unies pour le développement ont dévoilé le 23 février une initiative visant à mobiliser 10 milliards $ pour accélérer le développement de l'IA en Afrique d'ici 2035. Selon la BAD, un déploiement inclusif de l'IA pourrait générer jusqu'à 1 000 milliards $ de PIB supplémentaire et créer 40 millions d'emplois. Cette plateforme d'investissement associe institutions de développement, gouvernements et acteurs privés pour soutenir une adoption responsable de l'IA. Une tournée de mobilisation auprès des gouvernements et investisseurs doit transformer cette annonce en engagements financiers effectifs.",
+      "why": "Cette initiative positionne l'Afrique comme acteur majeur de l'économie mondiale de l'IA et représente un investissement stratégique massif dans la réduction des inégalités technologiques continentales.",
       "category": "Entreprise"
     },
     {
-      "title": "CERN déploie robots-souris IA pour inspecter le Grand collisionneur de hadrons",
-      "summary": "Le CERN et l'UKAEA ont co-conçu PipeINEER, un robot-souris de 3,7 cm pour inspecter 6 km de tuyaux dans le LHC. Équipé d'un modèle IA pour détecter anomalies, il signale les problèmes précis en retournant à sa base. Ce projet cible des espaces inaccessibles dans l'accélérateur de particules le plus puissant au monde. Il illustre l'application de l'IA en robotique pour la recherche scientifique extrême.",
-      "why": "Cette innovation pousse les limites de la robotique IA en environnements hostiles, avec potentiel pour d'autres industries comme l'énergie nucléaire.",
-      "category": "Application"
+      "title": "Google publie Lyria 3, son modèle génératif de musique",
+      "summary": "Google a publié Lyria 3, sa dernière itération de modèle génératif de musique. Ce modèle s'inscrit dans la continuité des avancées de Google en matière de génération créative multimodale. Lyria 3 représente une progression dans les capacités de synthèse musicale assistée par IA, élargissant les applications commerciales et créatives de l'IA générative. Cette sortie intervient dans un contexte de compétition accrue entre les géants technologiques pour dominer les marchés de la création assistée par IA.",
+      "why": "La publication de Lyria 3 marque une avancée significative dans la démocratisation de la création musicale par IA et renforce la position de Google dans l'IA générative multimodale.",
+      "category": "Modèle"
     },
     {
-      "title": "Étude PRESENCE : 58% des Français utilisent l'IA récemment, chatbots en forte hausse",
-      "summary": "Selon l'étude 2026 de PRESENCE, 58% des Français ont utilisé l'IA concrètement ces derniers mois, principalement pour recherche info, rédaction et assistance. Les plateformes conversationnelles comme ChatGPT passent à 55% (+14 points), recentrage sur chatbots (+5 points). Usages dominants : navigation (89%), traduction (78%), assistants grammaticaux (65%). Malgré adoption, résultats pas toujours satisfaisants et craintes sociétales persistent.",
-      "why": "Ces données révèlent l'intégration massive de l'IA dans le quotidien français et les défis de satisfaction utilisateur.",
-      "category": "Application"
+      "title": "Rapport international sur la sécurité de l'IA 2026 : évaluation académique des risques",
+      "summary": "L'édition 2026 du « International AI Safety Report » a été publiée, offrant une collaboration internationale principalement académique pour résumer les progrès de l'IA sous l'angle de la sécurité des modèles. Le rapport analyse les menaces que l'IA est capable d'amplifier ou de permettre, fournissant une évaluation systématique des risques de sécurité. Cette publication intervient dans un contexte de préoccupations croissantes concernant les capacités des modèles avancés et leurs implications géopolitiques. Le rapport constitue une ressource clé pour les décideurs politiques et les chercheurs en sécurité de l'IA.",
+      "why": "Ce rapport fournit une évaluation académique rigoureuse des risques de sécurité de l'IA à l'échelle mondiale, informant les politiques de régulation et les stratégies de sécurisation des modèles.",
+      "category": "Recherche"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Escalade du conflit Anthropic-Pentagone : révélations sur les attaques de distillation chinoises",
+      "original": "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale (06/03/2026)",
+      "summary": "Alors que le conflit entre Anthropic et l'administration Trump s'intensifie avec l'interdiction fédérale, de nouvelles révélations montrent que Anthropic fait face à une menace parallèle majeure : des attaques de distillation coordonnées par des laboratoires chinois. Ces 24 000 comptes frauduleux générant 16 millions d'échanges avec Claude représentent une campagne d'espionnage industriel sans précédent. Cette convergence entre pression gouvernementale américaine et attaques chinoises place Anthropic dans une situation critique, confrontée simultanément à l'interdiction fédérale et à l'extraction de propriété intellectuelle.",
+      "why": "Cette mise à jour révèle que le conflit Anthropic-Pentagone s'inscrit dans un contexte plus large de guerre technologique sino-américaine, où la sécurité des modèles IA devient un enjeu géopolitique central.",
+      "category": "Régulation"
+    }
+  ]
 }
