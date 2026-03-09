@@ -1,35 +1,35 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "États-Unis et Mexique préparent examen de l'AEUMC sous pression tarifaire de Trump",
-      "summary": "Le 5 mars 2026, les États-Unis et le Mexique ont annoncé des discussions bilatérales ce mois-ci pour un examen conjoint de l'Accord États-Unis-Mexique-Canada (AEUMC). Cette initiative répond aux pressions tarifaires exercées par le président Donald Trump. L'examen vise à réévaluer les termes commerciaux trilatéraux face aux tensions économiques actuelles. Cela pourrait impacter les flux commerciaux nord-américains estimés à des milliers de milliards de dollars annuels.",
-      "why": "Un potentiel remaniement de l'AEUMC pourrait redessiner les chaînes d'approvisionnement nord-américaines et influencer les marchés mondiaux des biens manufacturés.",
+      "title": "Rapport sur l'emploi américain faible impacte les attentes de la Fed",
+      "summary": "Le 7 mars 2026, un rapport sur l'emploi aux États-Unis a révélé une faiblesse inattendue, modifiant les probabilités de baisse des taux d'intérêt par la Fed. Les futures sur indices et taux ont réagi immédiatement, avec une hausse des attentes d'assouplissement monétaire. Cela renforce l'idée d'un atterrissage en douceur de l'économie US mais soulève des risques de ralentissement. Les spreads de crédit montrent une perception mixte des investisseurs entre résilience et vulnérabilité.",
+      "why": "Ce rapport pivotal influence les marchés mondiaux et les décisions des banques centrales, potentiellement en favorisant des baisses de taux plus précoces.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Conseil de l'UE approuve mécanisme de sauvegarde pour accord UE-Mercosur sur produits agricoles",
-      "summary": "Le 5 mars 2026, le Conseil de l'Union européenne a approuvé les règlements pour les dispositions bilatérales de sauvegarde dans l'accord UE-Mercosur et l'accord provisoire. Ce mécanisme protège les produits agricoles européens contre les importations excessives du Mercosur. Il inclut des quotas et des mesures d'urgence pour stabiliser les marchés agricoles de l'UE. L'accord pourrait ouvrir un marché de 800 millions de consommateurs mais inquiète les agriculteurs européens.",
-      "why": "Cette approbation avance un méga-accord commercial clé, avec des implications pour les prix agricoles et la concurrence en Europe.",
+      "title": "Inflation en zone euro repart à la hausse à 1,9% en février",
+      "summary": "Selon Eurostat, l'inflation en zone euro a augmenté à 1,9% en février 2026 contre 1,7% en janvier, dépassant les prévisions des économistes. Avant même l'impact complet du conflit au Moyen-Orient, cette hausse relance les débats sur la politique de la BCE. Les commentaires de Christine Lagarde insistent sur une approche prudente, évaluant les chocs externes. Cela pèse sur les bénéfices des entreprises européennes sensibles aux coûts énergétiques.",
+      "why": "Cette accélération complique le calendrier d'assouplissement monétaire de la BCE et accentue la volatilité des marchés actions européens.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Dollar américain en route pour sa plus forte hausse hebdomadaire depuis plus d'un an",
+      "summary": "Le 6 mars 2026, le dollar US a maintenu sa dynamique haussière sur les marchés asiatiques, visant sa plus forte progression hebdomadaire en plus d'un an. L'escalade du conflit au Moyen-Orient dope la demande pour ce valeur refuge. Cela renforce les pressions inflationnistes importées pour les autres économies. Les flux de capitaux se détournent des marchés émergents vers le billet vert.",
+      "why": "La force du dollar impacte les exportations mondiales, les coûts des importations et les politiques monétaires des banques centrales concurrentes.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Stellantis et Renault affichent des pertes records dues à la concurrence chinoise",
+      "summary": "En mars 2026, Stellantis enregistre une perte nette de plus de 22 milliards d'euros, plombée par la restructuration et l'électrification face à la concurrence chinoise agressive. Renault bascule aussi dans le rouge pour les mêmes raisons, avec des coûts élevés de transition énergétique. Le secteur automobile européen devient le maillon faible des indices comme le CAC 40. Cela reflète les défis structurels de l'industrie face aux importations low-cost.",
+      "why": "Ces pertes massives signalent une crise dans l'automobile européenne, menaçant l'emploi et accélérant les mesures protectionnistes.",
       "category": "Entreprises"
     },
     {
-      "title": "Canada lance sa 6e série d'obligations vertes avec succès",
-      "summary": "Le gouvernement canadien a lancé sa sixième série d'obligations vertes, attirant une demande forte des investisseurs engagés socialement et écologiquement (59% des preneurs). Le carnet d'ordres final a dépassé 3,4 milliards CAD. Ces obligations financent des projets durables comme les infrastructures vertes. Cela reflète l'appétit croissant pour la dette souveraine verte au milieu des transitions énergétiques mondiales.",
-      "why": "Renforce le leadership canadien en finance verte et signale la maturité du marché des obligations durables.",
-      "category": "Banques"
-    },
-    {
-      "title": "Canada annonce stratégie ambitieuse pour l'industrie automobile et l'électrification",
-      "summary": "Le Canada a dévoilé une stratégie avec plus de 3 milliards CAD du Fonds de réponse stratégique et 100 millions CAD d'une initiative régionale. Elle offre jusqu'à 5 000 CAD d'incitatifs pour véhicules électriques (2 500 CAD pour hybrides) et 1,5 milliard CAD pour le réseau de recharge. 570 millions CAD soutiennent l'emploi et la reconversion. Le plan vise à positionner le Canada comme hub de l'électromobilité face à la concurrence chinoise.",
-      "why": "Investissement massif qui pourrait booster la croissance industrielle et créer des milliers d'emplois dans l'automobile verte.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "LG Energy rachète les parts de Stellantis dans l'usine de batteries NextStar en Ontario",
-      "summary": "LG Energy Solution, entreprise sud-coréenne, a acquis la totalité de NextStar Energy, une usine de batteries en Ontario, des mains de Stellantis. Cette transaction accélère les objectifs canadiens en véhicules électriques. L'usine renforce la chaîne d'approvisionnement nord-américaine pour batteries. Elle s'inscrit dans la stratégie d'électrification du Canada avec des investissements massifs en infrastructures.",
-      "why": "Consolide la production locale de batteries critiques pour l'industrie EV, réduisant la dépendance aux importations asiatiques.",
-      "category": "Entreprises"
+      "title": "Banque centrale de Hongrie abaisse son taux directeur à 6,25%",
+      "summary": "La banque centrale hongroise a réduit son taux directeur de 25 points de base à 6,25% le 2 mars 2026, première baisse depuis août 2024. Cette décision suit une forte décélération de l'inflation, ouvrant un cycle d'assouplissement mesuré. Cela soutient la croissance en Europe émergente malgré les risques géopolitiques. Les investisseurs surveillent l'impact sur les devises régionales.",
+      "why": "Ce mouvement pionnier en Europe de l'Est influence les attentes pour d'autres banques centrales face à l'inflation persistante.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": []
