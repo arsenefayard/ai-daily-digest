@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Coopération nucléaire franco-allemande émergente dans la crise Iran",
-      "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
-      "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
-      "Pékin et Moscou exigent cessez-le-feu et appellent au multilatéralisme",
-      "Macron déploie le Charles de Gaulle en Méditerranée pour défense anti-missiles"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
       "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
       "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
@@ -69,6 +59,16 @@
       "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz",
       "Renforts militaires européens : Grèce, France et Chypre se préparent face à la guerre au Moyen-Orient",
       "Hongrie bloque prêt européen de 90 milliards à l'Ukraine sur dispute oléoduc"
+    ]
+  },
+  {
+    "date": "09/03/2026",
+    "titles": [
+      "Israël intensifie ses frappes sur Téhéran et étend les opérations au Liban",
+      "Attaque de drone iranien perturbe l'aéroport de Dubaï et vise des bases du Golfe",
+      "Donald Trump appelle explicitement au renversement du régime iranien",
+      "Royaume-Uni déploie avions de combat au Qatar et hélicoptères à Chypre",
+      "Ukraine accuse la Hongrie d'avoir saisi un convoi de fonds européens"
     ]
   }
 ]
