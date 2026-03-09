@@ -1,34 +1,34 @@
 {
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "news": [
     {
-      "title": "Israël entre dans une nouvelle phase d'offensive contre l'Iran et le Liban",
-      "summary": "Israël a intensifié ses bombardements sur Téhéran, visant le bunker et le quartier général des Gardiens de la Révolution, et étendu ses opérations terrestres au Liban suite aux attaques du Hezbollah sur Haïfa et Beyrouth. Les forces israéliennes affirment avoir détruit des infrastructures clés iraniennes, avec des centaines de civils tués selon le Croissant rouge. Cette escalade marque une transition vers une guerre d'usure, avec maîtrise aérienne revendiquée par les alliés américano-israéliens. Les enjeux incluent un possible effondrement du régime iranien et une déstabilisation régionale accrue.",
-      "why": "Cette nouvelle phase risque de prolonger le conflit, menaçant la stabilité du Moyen-Orient et les flux énergétiques mondiaux via le détroit d'Ormuz.",
+      "title": "Israël intensifie ses frappes sur Téhéran et étend les opérations au Liban",
+      "summary": "Israël a poursuivi ce matin ses bombardements sur Téhéran, ciblant des infrastructures clés, tout en étendant ses opérations terrestres au Liban en réponse aux attaques du Hezbollah revendiquant la mort d'Ali Khamenei. Plus de 30 navires iraniens ont été coulés jusqu'à présent, démontrant une domination militaire américaine et israélienne incontestable dans l'opération 'Fureur épique'. Les raids au Liban ont provoqué 95 000 déplacés, avec des affrontements directs contre le Hezbollah, le Hamas et leurs alliés. Cette escalade risque de déstabiliser davantage la région, avec des répercussions humanitaires massives et une menace de contagion aux États du Golfe.",
+      "why": "Cette intensification marque une nouvelle phase du conflit, potentiellement menant à un effondrement du régime iranien et une reconfiguration des alliances au Moyen-Orient.",
       "category": "Conflit"
     },
     {
-      "title": "Coalition américano-israélienne mobilise les Kurdes irakiens pour attaque nord-ouest contre l'Iran",
-      "summary": "Les États-Unis et Israël tentent de rallier les Kurdes en Irak pour ouvrir un front terrestre par le nord-ouest iranien, visant à affaiblir Téhéran sur plusieurs axes. Cette stratégie compense l'absence d'alliés terrestres traditionnels et s'inscrit dans l'objectif de changement de régime. Donald Trump promet immunité aux forces iraniennes désertrices pour reconstruire un 'nouvel Iran'. Les implications géopolitiques touchent les équilibres ethniques en Irak et les relations avec la Turquie.",
-      "why": "L'ouverture d'un nouveau front pourrait accélérer la chute du régime iranien mais risquer une fragmentation régionale impliquant Kurdes, Turcs et Arabes.",
+      "title": "Attaque de drone iranien perturbe l'aéroport de Dubaï et vise des bases du Golfe",
+      "summary": "L'Iran a lancé des missiles et drones contre Israël et des États du Golfe abritant des bases US, causant des dégâts limités mais perturbant l'aéroport international de Dubaï et des infrastructures logistiques régionales. Un journaliste s'est réfugié à Dubaï après l'attaque, soulignant les retombées civiles. Ces ripostes interviennent après des frappes US et israéliennes éliminant potentiellement le guide suprême iranien et des hauts responsables. Les implications incluent des risques pour le commerce aérien mondial et une escalade impliquant les alliés arabes des USA.",
+      "why": "Cela étend le conflit au-delà de l'Iran et Israël, menaçant la stabilité économique des hubs logistiques du Golfe et forçant une réponse collective occidentale.",
       "category": "Conflit"
     },
     {
-      "title": "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz",
-      "summary": "Trump déclare que l'Iran a entamé des négociations avec les États-Unis, promettant un avenir radieux via un 'MIGA' (Make Iran Great Again) après décimation des capacités balistiques. Malgré le blocus partiel du détroit d'Ormuz, les prix mondiaux du pétrole restent stables grâce à des escortes US potentielles. L'intervention vise à empêcher le nucléaire iranien et son soutien aux proxies comme Hezbollah et Houthis. Cela reflète une stratégie hybride mêlant frappes et diplomatie.",
-      "why": "Ces négociations pourraient désescalader le conflit majeur, stabilisant l'énergie mondiale, mais dépendent de la fiabilité des signaux iraniens.",
+      "title": "Donald Trump appelle explicitement au renversement du régime iranien",
+      "summary": "Pour la première fois, Trump exhorte les Iraniens à renverser leurs dirigeants, affirmant que les capacités balistiques et nucléaires iraniennes sont décimées suite aux frappes US et israéliennes. Des responsables religieux prient pour Trump au Bureau ovale, renforçant son image de leader résolu. Washington avertit d'un 'plus grand bombardement' à venir contre Téhéran, où des explosions ont été rapportées. Cette rhétorique marque un objectif clair de changement de régime, absent jusqu'ici dans l'opération en cours.",
+      "why": "Ce virage diplomatique pourrait catalyser une révolution interne en Iran ou justifier une intervention prolongée, redéfinissant la politique US au Moyen-Orient.",
       "category": "Diplomatie"
     },
     {
-      "title": "Renforts militaires européens : Grèce, France et Chypre se préparent face à la guerre au Moyen-Orient",
-      "summary": "La Grèce renforce ses défenses au nord pour protéger la Bulgarie, la France redéploie le Charles de Gaulle avec frégates vers Chypre, membre UE. Ces mesures visent à sécuriser l'Europe sud face aux retombées du conflit Iran-Israël. D'autres capitales européennes suivent, signalant une mobilisation collective. Les enjeux concernent la protection des approvisionnements énergétiques et la dissuasion anti-missiles.",
-      "why": "Cette mobilisation marque un élargissement du conflit au flanc sud de l'Europe, testant la cohésion OTAN-UE.",
+      "title": "Royaume-Uni déploie avions de combat au Qatar et hélicoptères à Chypre",
+      "summary": "Le Royaume-Uni s'apprête à envoyer des avions supplémentaires au Qatar et des hélicoptères à Chypre pour renforcer la posture face à la guerre au Moyen-Orient. Cela s'inscrit dans un mouvement européen plus large, avec la Grèce aidant la Bulgarie à protéger son espace aérien. Ces déploiements visent à sécuriser les routes maritimes et aériennes menacées par les tensions Iran-Hezbollah. Ils signalent une mobilisation OTAN accrue sans engagement direct.",
+      "why": "Cela consolide le soutien occidental à Israël et aux USA, protégeant les flux énergétiques vitaux et prévenant une contagion au Levant et en Méditerranée orientale.",
       "category": "Sécurité"
     },
     {
-      "title": "Hongrie bloque prêt européen de 90 milliards à l'Ukraine sur dispute oléoduc",
-      "summary": "Budapest accuse Kiev de bloquer la réparation de l'oléoduc vers la Hongrie en représailles à ses positions pro-russes, bloquant un prêt UE de 90 milliards pour l'effort de guerre ukrainien. Cette crise exacerbe les tensions internes à l'UE sur l'aide à Kiev. Zelensky refuse les réparations, menaçant Orban. Les implications géopolitiques fragilisent l'unité européenne face à la Russie.",
-      "why": "Ce blocage divise l'UE au moment où le Moyen-Orient détourne l'attention, affaiblissant le soutien à l'Ukraine.",
+      "title": "Ukraine accuse la Hongrie d'avoir saisi un convoi de fonds européens",
+      "summary": "Kiev accuse Budapest d'avoir intercepté un convoi transportant des fonds européens destinés à l'Ukraine, exacerbant les tensions sur fond de blocage hongrois d'un prêt de 90 milliards. Des frappes russes ont tué 13 personnes à Kharkiv, dont 11 dans un immeuble. Cette dispute s'ajoute au refus de Zelensky de réparer l'oléoduc vers la Hongrie. Elle complique l'aide européenne à Kiev au milieu de la guerre en cours.",
+      "why": "Ce clash interne à l'UE affaiblit l'unité occidentale face à la Russie, risquant de retarder l'assistance militaire vitale pour l'Ukraine.",
       "category": "Diplomatie"
     }
   ],
