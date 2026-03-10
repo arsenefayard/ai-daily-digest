@@ -1,34 +1,34 @@
 {
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "news": [
     {
-      "title": "L'étymologie du mot « théâtre » remonte au grec ancien « theatron »",
-      "summary": "Le mot « théâtre » provient du grec « theatron », littéralement « lieu où l'on regarde ». Ce terme combine « thea » (vision, spectacle) et « tron » (lieu). Les Grecs anciens ont ainsi nommé les amphithéâtres en fonction de leur principal usage : permettre aux spectateurs de contempler des représentations dramatiques. Cette étymologie révèle comment les anciens Grecs concevaient le théâtre comme un espace dédié au regard collectif, bien avant que le théâtre ne devienne un art majeur en Occident.",
-      "why": "Comprendre l'étymologie des mots nous aide à saisir comment les civilisations anciennes pensaient et organisaient leur culture. Cela montre que le théâtre était déjà au cœur de la vie grecque.",
+      "title": "La tapisserie de l'Apocalypse de la cathédrale d'Angers : le plus grand ensemble médiéval conservé",
+      "summary": "Commandée en 1375 par Louis Ier d'Anjou, cette œuvre monumentale composée de 74 tapisseries mesure 100 mètres de long et 5 mètres de haut, illustrant le Livre de l'Apocalypse de saint Jean. Exposée dans la galerie de l'Apocalypse à Angers, elle dépeint avec une richesse iconographique exceptionnelle les visions apocalyptiques, mêlant symboles chrétiens et influences gothiques. Rendue pendant plus de 25 ans par des artisans flamands, elle a miraculeusement survécu aux guerres et révolutions. Elle offre un témoignage unique sur l'art textile médiéval et la piété du XIVe siècle.",
+      "why": "Ce chef-d'œuvre rare révèle la ferveur religieuse et la maîtrise technique de l'époque médiévale, invitant à une réflexion sur la fin des temps toujours actuelle.",
       "category": "Histoire"
     },
     {
-      "title": "Le paradoxe de Zénon : comment Achille ne peut jamais rattraper la tortue",
-      "summary": "Zénon d'Élée, philosophe grec du Ve siècle avant J.-C., a proposé un paradoxe célèbre : si Achille court deux fois plus vite qu'une tortue et qu'elle a une avance, il ne pourra jamais la rattraper. En effet, quand Achille atteint le point de départ de la tortue, celle-ci a avancé ; quand il atteint ce nouveau point, elle a encore avancé, et ainsi de suite infiniment. Bien que mathématiquement résolu par le calcul des séries infinies, ce paradoxe a fasciné les penseurs pendant plus de 2 000 ans et reste un excellent exemple de la puissance de la logique pour remettre en question notre intuition.",
-      "why": "Ce paradoxe illustre comment la philosophie antique a posé les fondations des mathématiques modernes et continue d'inspirer la réflexion sur l'infini et le mouvement.",
-      "category": "Philosophie"
+      "title": "Le vaisseau de pierre de Swedenborg : une cathédrale flottante conçue au XVIIIe siècle",
+      "summary": "En 1715, le mystique suédois Emanuel Swedenborg conçut un projet fou : une cathédrale pyramidale en pierre massive capable de naviguer sur les mers, équipée de voiles et de canons pour l'exploration. Pesant théoriquement 30 000 tonnes, ce 'vaisseau de pierre' visait à propager la foi chrétienne lors de voyages apostoliques. Bien que jamais construit en raison de son impraticabilité technique, le plan détaillé subsiste dans ses écrits. Il préfigure les utopies architecturales des siècles suivants.",
+      "why": "Cette invention insolite illustre comment philosophie et ingénierie se mêlaient au Siècle des Lumières, stimulant l'imagination sur les limites de la technologie.",
+      "category": "Insolite"
     },
     {
-      "title": "La synesthésie : quand les sens se mélangent dans le cerveau",
-      "summary": "La synesthésie est un phénomène neurologique rare où la stimulation d'un sens provoque automatiquement une perception dans un autre sens. Par exemple, certaines personnes voient des couleurs en entendant de la musique, ou associent des chiffres à des teintes spécifiques. Ce croisement sensoriel n'est pas une hallucination mais une connexion réelle dans le cerveau, où les zones sensorielles communiquent de manière inhabituelle. Environ 4 % de la population mondiale serait synesthète, et ce trait est souvent héréditaire.",
-      "why": "La synesthésie fascine les neuroscientifiques car elle révèle la plasticité du cerveau humain et remet en question notre compréhension des sens comme des systèmes isolés.",
-      "category": "Science pop"
+      "title": "Le jardin de la duchesse de Bovino : un labyrinthe secret à Naples",
+      "summary": "Au XVIIe siècle, la duchesse napolitaine Carlotta d'Aragona fit aménager dans son palais un jardin souterrain labyrinthique orné de grottes, fontaines et statues mythologiques, accessible par un escalier caché. Ce 'giardino segreto' servait de refuge pour ses amours illicites et abritait une bibliothèque ésotérique interdite par l'Inquisition. Redécouvert au XXe siècle, il révèle des fresques alchimiques et des mécanismes hydrauliques ingénieux. Il incarne le mélange d'art, de science et de transgression de la noblesse baroque.",
+      "why": "Ce lieu emblématique dévoile les intrigues et raffinements cachés de l'aristocratie européenne, enrichissant notre vision de l'histoire des jardins.",
+      "category": "Géographie"
     },
     {
-      "title": "Le Minotaure : le monstre mi-homme mi-taureau de la mythologie grecque",
-      "summary": "Le Minotaure est une créature légendaire de la mythologie grecque, fils de Pasiphaé, reine de Crète, et d'un taureau blanc. Enfermé dans un labyrinthe inextricable construit par Dédale, il était nourri de jeunes Athéniens en tribut. Le héros Thésée parvint à le vaincre en suivant un fil d'Ariane à travers le labyrinthe, mettant fin à ce tribut sanglant. Cette légende symbolise la victoire de l'ordre sur le chaos et reste l'une des plus célèbres de l'Antiquité.",
-      "why": "Le mythe du Minotaure a inspiré d'innombrables œuvres d'art, de littérature et de cinéma, et continue de fasciner par sa représentation du monstre comme victime de sa propre nature.",
-      "category": "Mythologie"
+      "title": "La bibliothèque infinie de Borges : un conte philosophique sur l'univers",
+      "summary": "Dans sa nouvelle 'La Bibliothèque de Babel' publiée en 1941, Jorge Luis Borges imagine une bibliothèque cosmique contenant tous les livres possibles de 410 pages, avec 25 symboles, formant un univers infini de vérités et d'absurdités. Chaque hexagone abrite des rayonnages infinis, symbolisant le chaos de l'information et la quête humaine de sens. Les bibliothécaires errent en quête d'un 'Livre total' expliquant tout. Ce texte fondateur influence la philosophie de l'information et la théorie des ensembles.",
+      "why": "Cette métaphore puissante questionne notre rapport au savoir infini à l'ère numérique, rendant la littérature un outil de réflexion existentielle.",
+      "category": "Littérature"
     },
     {
-      "title": "L'effet Dunning-Kruger : quand l'ignorance engendre la confiance",
-      "summary": "L'effet Dunning-Kruger est un biais cognitif découvert en 1999 par les psychologues David Dunning et Justin Kruger. Il décrit la tendance des personnes peu compétentes dans un domaine à surestimer leurs capacités, tandis que les experts ont tendance à sous-estimer les leurs. Ce phénomène repose sur le fait que les incompétents manquent des connaissances métacognitives nécessaires pour reconnaître leur propre incompétence. Des études ultérieures ont montré que ce biais affecte environ 90 % de la population dans au moins un domaine.",
-      "why": "Comprendre cet effet aide à expliquer pourquoi les gens confiants ne sont pas toujours les plus compétents, et pourquoi l'humilité est souvent un signe d'expertise véritable.",
+      "title": "L'effet Baader-Meinhof : l'illusion cognitive de la fréquence illusoire",
+      "summary": "Découvert en 1982 par un journaliste américain, cet effet psychologique explique pourquoi un mot ou concept nouvellement appris semble soudain apparaître partout, due à une attention sélective accrue du cerveau. Nommé d'après le groupe terroriste ouest-allemand mentionné deux fois en 24h par son découvreur, il combine biais de confirmation et négligence cognitive. Des études en neurosciences confirment son activation dans le cortex préfrontal. Il affecte nos perceptions quotidiennes, des publicités aux débats sociétaux.",
+      "why": "Comprendre cet effet aide à déconstruire les illusions perceptuelles, favorisant une pensée plus critique face à l'information omniprésente.",
       "category": "Psychologie"
     }
   ],
