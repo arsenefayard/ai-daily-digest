@@ -1,36 +1,51 @@
 {
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "news": [
     {
-      "title": "FC Barcelone s'impose 1-0 à Bilbao et renforce sa position en Liga",
-      "summary": "Le FC Barcelone a remporté une précieuse victoire 1-0 sur le terrain de l'Athletic Bilbao lors de la 27e journée de Liga le 7 mars 2026. Ce succès, obtenu grâce à un but décisif en seconde période, permet aux Catalans de prendre une option sur le titre. L'Atlético Madrid a également brillé en battant Real Sociedad 3-2 dans un match intense. Ces résultats resserrent la course au podium en Espagne.[1]",
-      "why": "Ces victoires catalane et colchonera dans les dernières 48h modifient l'équilibre en Liga, avec des implications directes pour la course au titre.",
+      "title": "8es de finale aller Ligue des Champions : Début des hostilités ce soir avec les grands clubs européens",
+      "summary": "Les huitièmes de finale aller de la Ligue des Champions masculine débutent le 10 mars 2026, marquant le coup d'envoi des phases décisives de la compétition. Des affiches explosives opposent les cadors du football européen comme potentiellement Real Madrid, Bayern Munich ou Manchester City à leurs adversaires. Les matchs se jouent à domicile pour les premiers de groupe, offrant un avantage stratégique crucial. Les résultats de ces rencontres influenceront fortement les qualifications pour les quarts de finale.",
+      "why": "C'est le moment clé de la saison européenne avec des enjeux financiers et sportifs colossaux pour les clubs.",
       "category": "Football"
     },
     {
-      "title": "Indian Wells Masters 1000 démarre avec les stars du circuit ATP et WTA",
-      "summary": "Le Masters 1000 d'Indian Wells a débuté le 8 mars 2026, réunissant les meilleurs joueurs mondiaux sur dur dans le désert californien. Carlos Alcaraz et Iga Swiatek, tenants du titre, visent un doublé tandis que Jannik Sinner et Aryna Sabalenka challengent les favoris dès les premiers tours. Les qualifications ont déjà offert des surprises avec des jeunes talents en lice. Ce tournoi reste un rendez-vous incontournable avant les grands chelems sur terre.[4]",
-      "why": "Premier Masters 1000 de l'année, il définit les hiérarchies précoces sur dur et attire une audience mondiale massive.",
+      "title": "Indian Wells Masters 1000 : Tableaux principaux lancés avec les stars ATP et WTA",
+      "summary": "Le Masters 1000 d'Indian Wells débute ses phases qualificatives et principaux tableaux autour du 10 mars 2026, réunissant les meilleurs joueurs du monde. Novak Djokovic, Carlos Alcaraz et Iga Swiatek sont attendus pour défendre leurs titres ou viser la domination. Le tournoi sur dur propose des prize money records et des points ATP cruciaux pour les classements. Les premières surprises en qualifs agitent déjà le circuit.",
+      "why": "Premier Masters 1000 de l'année, il définit les hiérarchies avant Roland-Garros et redistribue les points rankings.",
       "category": "Tennis"
     },
     {
-      "title": "Virtus Bologne domine Napoli 90-71 et s'affirme en Serie A basket",
-      "summary": "La Virtus Bologne s'est imposée 90-71 face à Napoli Basket le 7 mars 2026 en championnat italien Serie A. Cette victoire convaincante renforce la position des Bolognais dans la course au titre. Dinamo Sassari a également brillé en prolongation contre Aquila Trento (99-96). Ces résultats animent le haut de tableau italien.[1]",
-      "why": "Performances dominantes en basketball européen qui influencent les playoffs et les qualifications euroleague.",
+      "title": "Paris-Nice 2026 : Deuxième étape remportée par un favori après un départ explosif",
+      "summary": "La course cycliste Paris-Nice, ouverte le 8 mars, voit sa deuxième étape décisive couronnée par un sprinteur de renom dans les derniers jours. Les leaders du général comme Tadej Pogacar ou Jonas Vingegaard imposent déjà leur rythme sur les routes françaises. Les conditions météo difficiles testent la résilience des coureurs en début de saison. Cette épreuve prestige lance le World Tour UCI avec des implications pour les classiques printanières.",
+      "why": "Course par étapes majeure, elle calibre les formes avant les Monuments et le Tour de France.",
+      "category": "Autre"
+    },
+    {
+      "title": "NBA : Les Lakers dominent les Warriors dans un thriller de playoffs anticipé",
+      "summary": "Dans les dernières 48h, les Los Angeles Lakers ont battu les Golden State Warriors lors d'un match NBA à haute intensité, avec LeBron James et Stephen Curry en vedettes. Ce succès renforce la position des Lakers dans la Conférence Ouest. Les Warriors peinent malgré les efforts de leur meneur star. Ce duel ravive la rivalité historique et impacte la course aux playoffs.",
+      "why": "Match au sommet influençant directement les classements et les enjeux de fin de saison régulière.",
       "category": "Basketball"
     },
     {
-      "title": "Türk Telekom Ankara crée la surprise en battant Galatasaray 93-90",
-      "summary": "Türk Telekom Ankara a renversé Galatasaray Istanbul 93-90 le 7 mars 2026 en championnat turc de basket masculin. Ce succès inattendu sur le parquet du géant stambouliote propulse Ankara dans le top 4. Bahçesehir University a aussi écrasé Bursaspor 100-61. La compétition turque s'annonce plus ouverte que jamais.[1]",
-      "why": "Victoire choc contre un favori qui bouleverse les pronostics en Turquie et met en lumière des outsiders.",
+      "title": "Betclic Elite : Monaco s'impose en leader lors de la 22e journée",
+      "summary": "La 22e journée de Betclic Elite voit AS Monaco confirmer sa suprématie avec une victoire convaincante contre un rival direct. Les Monégasques creusent l'écart au classement avant les playoffs. Des performances individuelles exceptionnelles de Mike James portent l'équipe. Cette journée resserre la course au titre français.",
+      "why": "Championnat national clé avec enjeux européens pour le vainqueur final.",
       "category": "Basketball"
-    },
-    {
-      "title": "AEK Athènes gagne 1-0 contre Larissa et consolide sa défense en Super League grecque",
-      "summary": "AEK Athènes a battu AEL Larissa 1-0 le 7 mars 2026 en Super League grecque, grâce à une défense impénétrable et un but opportuniste. Aris Salonique a tenu en échec Atromitos 0-0 dans le choc de la journée. Ces résultats maintiennent AEK en tête du classement. La course au titre hellénique s'intensifie.[1]",
-      "why": "Matchs clés du football grec avec implications directes sur le leadership avant la trêve internationale.",
-      "category": "Football"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Grand Prix d'Australie F1 : Verstappen remporte la course devant Piastri",
+      "original": "Grand Prix d'Australie de Formule 1",
+      "summary": "Max Verstappen a dominé le GP d'Australie le 8 mars, s'imposant devant l'Australien Oscar Piastri dans une course marquée par des stratégies pneus audacieuses. Red Bull confirme sa forme malgré les progrès de McLaren. Lewis Hamilton a connu des soucis mécaniques en fin de course. Cette victoire ouvre idéalement la saison 2026.",
+      "why": "Résultat attendu mais performance de Piastri crée la surprise et booste McLaren dans le championnat constructeurs.",
+      "category": "F1"
+    },
+    {
+      "title": "UFC 326 : Oliveira bat Holloway par décision unanime dans un combat épique",
+      "original": "UFC 326 - Holloway vs Oliveira 2",
+      "summary": "Charles Oliveira a vaincu Max Holloway par décision unanime lors de l'UFC 326 le 8 mars à Las Vegas, dans un rematch très attendu. Les deux fighters ont livré un striking de haut niveau sur 5 rounds. Cette victoire renforce les prétentions d'Oliveira au titre lightweight. Holloway reste solide mais concède sa deuxième défaite consécutive.",
+      "why": "Combat de l'année potentielle avec implications directes pour le title shot en division légère.",
+      "category": "Autre"
+    }
+  ]
 }
