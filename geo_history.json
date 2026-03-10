@@ -2,18 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Sous-marin américain coule un navire de guerre iranien au large du Sri Lanka",
-      "Hezbollah déclare guerre ouverte à Israël et attaque Haïfa",
-      "Trump impose blocus commercial sur l'Espagne pour refus d'usage de bases militaires",
-      "Pékin et Moscou exigent cessez-le-feu immédiat et appellent au multilatéralisme",
-      "Crise énergétique : blocage partiel du détroit d'Ormuz provoque flambée des prix du pétrole",
-      "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
-      "USA et Venezuela rétablissent pleinement leurs relations diplomatiques"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Dissuasion nucléaire avancée : Macron annonce coopération avec huit pays européens",
       "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
       "OTAN intercepte un missile iranien visant la Turquie",
@@ -69,6 +57,16 @@
       "Donald Trump appelle explicitement au renversement du régime iranien",
       "Royaume-Uni déploie avions de combat au Qatar et hélicoptères à Chypre",
       "Ukraine accuse la Hongrie d'avoir saisi un convoi de fonds européens"
+    ]
+  },
+  {
+    "date": "10/03/2026",
+    "titles": [
+      "Raids israéliens au Liban : 95 000 déplacés contraints de fuir",
+      "Attaque de drone iranien perturbe l'aéroport de Dubaï et suspend les vols",
+      "Explosions à Téhéran : Washington avertit du 'plus grand bombardement' imminent",
+      "Trump rencontre Xi Jinping pour discuter commerce et sécurité régionale",
+      "Ursula von der Leyen au Groenland pour partenariats énergétiques et climatiques"
     ]
   }
 ]
