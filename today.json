@@ -1,44 +1,36 @@
 {
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "news": [
     {
-      "title": "Anthropic accuse des laboratoires chinois de créer 24 000 comptes frauduleux pour extraire Claude",
-      "summary": "Anthropic a révélé que trois laboratoires chinois, dont l'éditeur de DeepSeek, ont créé environ 24 000 comptes frauduleux pour mener des attaques de distillation massive contre Claude. Ces attaques ont généré plus de 16 millions d'échanges visant à extraire illicitement les capacités du modèle. Cette campagne coordonnée représente une escalade majeure de l'espionnage industriel dans le secteur de l'IA, combinant fraude à grande échelle et extraction de propriété intellectuelle. L'incident souligne les vulnérabilités des modèles commerciaux face aux acteurs géopolitiques.",
-      "why": "Cet incident révèle une menace systémique majeure : l'utilisation d'attaques de distillation coordonnées par des États pour voler la propriété intellectuelle des modèles IA occidentaux, marquant une escalade du conflit technologique sino-américain.",
-      "category": "Régulation"
+      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
+      "summary": "Le Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA, passant de 20% en 2023 à ce niveau en 2025, surpassant l'adoption d'internet qui a pris cinq ans pour un gain similaire. L'usage est majoritairement personnel (42%) plutôt que professionnel (30%), avec la recherche d'information (73%) et la rédaction de textes (58%) en tête des motifs. ChatGPT domine avec 79% des utilisateurs, suivi de Gemini (31%), particulièrement chez les 18-24 ans (85%) et les cadres (76%). Malgré cela, 52% restent méfiants, bien que la confiance progresse de 5 points.",
+      "why": "Ces données montrent une pénétration massive et rapide de l'IA en France, soulignant son intégration quotidienne et les disparités démographiques.",
+      "category": "Application"
     },
     {
-      "title": "États-Unis : nouveau cadre juridique pour contrôler les exportations de puces IA",
-      "summary": "L'administration Trump élabore un nouveau cadre juridique exigeant des pays étrangers qu'ils s'engagent à investir dans des centres de données américains ou fournissent des garanties de sécurité avant d'importer de grandes quantités de puces IA. Pour 100 000 puces, une garantie intergouvernementale est requise, tandis que pour 200 000 puces, des inspections sur place pourraient être imposées. Cette réglementation vise à endiguer le flux de puces vers la Chine tout en renforçant le contrôle géopolitique américain sur la technologie IA. Les experts avertissent que ces exigences pourraient être utilisées comme monnaie d'échange avec les alliés.",
-      "why": "Ce cadre représente une militarisation des exportations technologiques, transformant les puces IA en arme géopolitique et renforçant le contrôle américain sur l'infrastructure mondiale de l'IA.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Banque africaine de développement et PNUD lancent une initiative de 10 milliards $ pour l'IA en Afrique",
-      "summary": "La Banque africaine de développement et le Programme des Nations unies pour le développement ont dévoilé le 23 février une initiative visant à mobiliser 10 milliards $ pour accélérer le développement de l'IA en Afrique d'ici 2035. Selon la BAD, un déploiement inclusif de l'IA pourrait générer jusqu'à 1 000 milliards $ de PIB supplémentaire et créer 40 millions d'emplois. Cette plateforme d'investissement associe institutions de développement, gouvernements et acteurs privés pour soutenir une adoption responsable de l'IA. Une tournée de mobilisation auprès des gouvernements et investisseurs doit transformer cette annonce en engagements financiers effectifs.",
-      "why": "Cette initiative positionne l'Afrique comme acteur majeur de l'économie mondiale de l'IA et représente un investissement stratégique massif dans la réduction des inégalités technologiques continentales.",
+      "title": "Gartner prévoit dépenses IT mondiales >5000 Md€ en 2026, boostées par l'infrastructure IA",
+      "summary": "Gartner anticipe une croissance de 10,8% des dépenses IT mondiales à plus de 6000 Md$ (5000 Md€) en 2026, révisée à la hausse par rapport à octobre 2025. L'infrastructure IA, notamment serveurs et datacenters avec GPU haut de gamme, drive la majorité de cette hausse. Les dépenses en IA générative croissent de 80,8%, représentant 1,8 point de plus dans le marché logiciel. Les géants du cloud comme AWS, Azure et Google Cloud investissent massivement dans des puces sur mesure pour workloads IA.",
+      "why": "Cette explosion des investissements confirme la priorisation stratégique de l'IA par les entreprises, malgré les risques de bulle spéculative.",
       "category": "Entreprise"
     },
     {
-      "title": "Google publie Lyria 3, son modèle génératif de musique",
-      "summary": "Google a publié Lyria 3, sa dernière itération de modèle génératif de musique. Ce modèle s'inscrit dans la continuité des avancées de Google en matière de génération créative multimodale. Lyria 3 représente une progression dans les capacités de synthèse musicale assistée par IA, élargissant les applications commerciales et créatives de l'IA générative. Cette sortie intervient dans un contexte de compétition accrue entre les géants technologiques pour dominer les marchés de la création assistée par IA.",
-      "why": "La publication de Lyria 3 marque une avancée significative dans la démocratisation de la création musicale par IA et renforce la position de Google dans l'IA générative multimodale.",
-      "category": "Modèle"
+      "title": "CES 2026 met l'accent sur l'IA physique et les super-agents pour transformation industrielle",
+      "summary": "Le CES 2026, avec 150 000 participants, marque le passage de l'IA à une force opérationnelle concrète via l'IA physique (jumeaux numériques temps réel, IA embarquée). Siemens, Nvidia et Lenovo annoncent des avancées en simulations continues et manipulation robotique fine. Les super-agents, orchestrant agents spécialisés (AWS, Perplexity, Anthropic), deviennent interfaces uniques humain-systèmes, accélérant projets et développement logiciel. La robotique entre en phase industrielle avec vision temps réel.",
+      "why": "L'événement signale la maturité de l'IA au-delà du logiciel, impactant industries et gouvernance DSI.",
+      "category": "Application"
     },
     {
-      "title": "Rapport international sur la sécurité de l'IA 2026 : évaluation académique des risques",
-      "summary": "L'édition 2026 du « International AI Safety Report » a été publiée, offrant une collaboration internationale principalement académique pour résumer les progrès de l'IA sous l'angle de la sécurité des modèles. Le rapport analyse les menaces que l'IA est capable d'amplifier ou de permettre, fournissant une évaluation systématique des risques de sécurité. Cette publication intervient dans un contexte de préoccupations croissantes concernant les capacités des modèles avancés et leurs implications géopolitiques. Le rapport constitue une ressource clé pour les décideurs politiques et les chercheurs en sécurité de l'IA.",
-      "why": "Ce rapport fournit une évaluation académique rigoureuse des risques de sécurité de l'IA à l'échelle mondiale, informant les politiques de régulation et les stratégies de sécurisation des modèles.",
+      "title": "MWC 2026 : Google Cloud dévoile réseaux pilotés par agents IA autonomes",
+      "summary": "Au MWC 2026, Google Cloud présente la transition des réseaux 'assistés par IA' vers des réseaux pilotés par agents IA capables de détecter et résoudre anomalies en autonomie. Cela s'inscrit dans 15 leçons sur l'essor de l'IA dans télécoms, robotique et réseaux. Les opérateurs priorisent rentabilité via IA pour optimiser 5G et IoT, au détriment de l'écologie selon GSMA. Réseaux privés et IoT entreprise deviennent clés pour marges face au tassement grand public.",
+      "why": "Ces avancées autonomisent les infrastructures télécoms critiques, boostant efficacité mais posant enjeux environnementaux.",
+      "category": "Application"
+    },
+    {
+      "title": "CES 2026 : l'IA devient infrastructure invisible intégrée à l'économie",
+      "summary": "Au CES 2026, l'IA évolue de visible à infrastructure diffuse, intégrée au cœur économique via agents et IA physique. Elle orchestre complexité numérique pour performance industrielle et énergétique. Annonces de Lenovo, Nvidia soulignent simulations temps réel et robotique industrielle. Cela pose nouveaux défis de gouvernance pour DSI et transformation des cycles projets.",
+      "why": "Cette bascule invisible rend l'IA omniprésente dans l'économie, accélérant productivité mais nécessitant régulation.",
       "category": "Recherche"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade du conflit Anthropic-Pentagone : révélations sur les attaques de distillation chinoises",
-      "original": "Anthropic refuse les conditions du Pentagone et fait face à un ordre présidentiel d'interdiction fédérale (06/03/2026)",
-      "summary": "Alors que le conflit entre Anthropic et l'administration Trump s'intensifie avec l'interdiction fédérale, de nouvelles révélations montrent que Anthropic fait face à une menace parallèle majeure : des attaques de distillation coordonnées par des laboratoires chinois. Ces 24 000 comptes frauduleux générant 16 millions d'échanges avec Claude représentent une campagne d'espionnage industriel sans précédent. Cette convergence entre pression gouvernementale américaine et attaques chinoises place Anthropic dans une situation critique, confrontée simultanément à l'interdiction fédérale et à l'extraction de propriété intellectuelle.",
-      "why": "Cette mise à jour révèle que le conflit Anthropic-Pentagone s'inscrit dans un contexte plus large de guerre technologique sino-américaine, où la sécurité des modèles IA devient un enjeu géopolitique central.",
-      "category": "Régulation"
-    }
-  ]
+  "updates": []
 }
