@@ -1,35 +1,35 @@
 {
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "news": [
     {
-      "title": "Israël intensifie ses frappes sur Téhéran et étend les opérations au Liban",
-      "summary": "Israël a poursuivi ce matin ses bombardements sur Téhéran, ciblant des infrastructures clés, tout en étendant ses opérations terrestres au Liban en réponse aux attaques du Hezbollah revendiquant la mort d'Ali Khamenei. Plus de 30 navires iraniens ont été coulés jusqu'à présent, démontrant une domination militaire américaine et israélienne incontestable dans l'opération 'Fureur épique'. Les raids au Liban ont provoqué 95 000 déplacés, avec des affrontements directs contre le Hezbollah, le Hamas et leurs alliés. Cette escalade risque de déstabiliser davantage la région, avec des répercussions humanitaires massives et une menace de contagion aux États du Golfe.",
-      "why": "Cette intensification marque une nouvelle phase du conflit, potentiellement menant à un effondrement du régime iranien et une reconfiguration des alliances au Moyen-Orient.",
+      "title": "Raids israéliens au Liban : 95 000 déplacés contraints de fuir",
+      "summary": "Israël a multiplié ses frappes aériennes et terrestres au Liban, provoquant la fuite de 95 000 personnes supplémentaires vers des zones sécurisées. Ces opérations visent les infrastructures du Hezbollah, accusé de préparer des attaques contre Israël. L'ONU intensifie ses efforts humanitaires face à la crise des déplacés qui atteint des records. Cette escalade risque de déstabiliser davantage le Liban et d'impliquer d'autres acteurs régionaux comme la Syrie.",
+      "why": "L'afflux massif de déplacés aggrave la crise humanitaire et pourrait entraîner une intervention internationale accrue, modifiant les équilibres au Moyen-Orient.",
       "category": "Conflit"
     },
     {
-      "title": "Attaque de drone iranien perturbe l'aéroport de Dubaï et vise des bases du Golfe",
-      "summary": "L'Iran a lancé des missiles et drones contre Israël et des États du Golfe abritant des bases US, causant des dégâts limités mais perturbant l'aéroport international de Dubaï et des infrastructures logistiques régionales. Un journaliste s'est réfugié à Dubaï après l'attaque, soulignant les retombées civiles. Ces ripostes interviennent après des frappes US et israéliennes éliminant potentiellement le guide suprême iranien et des hauts responsables. Les implications incluent des risques pour le commerce aérien mondial et une escalade impliquant les alliés arabes des USA.",
-      "why": "Cela étend le conflit au-delà de l'Iran et Israël, menaçant la stabilité économique des hubs logistiques du Golfe et forçant une réponse collective occidentale.",
+      "title": "Attaque de drone iranien perturbe l'aéroport de Dubaï et suspend les vols",
+      "summary": "Un drone iranien a attaqué des cibles près de Dubaï, forçant la suspension des vols à l'aéroport international et obligeant un journaliste d'Euronews à se réfugier sur place. Cet incident s'inscrit dans la riposte iranienne aux bombardements israéliens sur Téhéran. Les Émirats arabes unis et d'autres pays du Golfe renforcent leur vigilance aérienne. Cela illustre la propagation des hostilités au-delà des zones traditionnelles de conflit.",
+      "why": "La perturbation des hubs aériens majeurs menace le commerce régional et pourrait impliquer les monarchies du Golfe dans le conflit Iran-Israël.",
       "category": "Conflit"
     },
     {
-      "title": "Donald Trump appelle explicitement au renversement du régime iranien",
-      "summary": "Pour la première fois, Trump exhorte les Iraniens à renverser leurs dirigeants, affirmant que les capacités balistiques et nucléaires iraniennes sont décimées suite aux frappes US et israéliennes. Des responsables religieux prient pour Trump au Bureau ovale, renforçant son image de leader résolu. Washington avertit d'un 'plus grand bombardement' à venir contre Téhéran, où des explosions ont été rapportées. Cette rhétorique marque un objectif clair de changement de régime, absent jusqu'ici dans l'opération en cours.",
-      "why": "Ce virage diplomatique pourrait catalyser une révolution interne en Iran ou justifier une intervention prolongée, redéfinissant la politique US au Moyen-Orient.",
+      "title": "Explosions à Téhéran : Washington avertit du 'plus grand bombardement' imminent",
+      "summary": "De nouvelles explosions ont secoué Téhéran, avec les États-Unis avertissant d'un bombardement massif à venir contre les capacités militaires iraniennes. Israël étend ses opérations pour neutraliser les menaces balistiques et nucléaires potentielles. L'Iran dénonce une agression coordonnée américano-israélienne. Cette escalade militaire directe entre grandes puissances proxies risque une guerre régionale ouverte.",
+      "why": "Un bombardement d'ampleur pourrait décimer les forces iraniennes et accélérer un changement de régime, redessinant les alliances au Moyen-Orient.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Trump rencontre Xi Jinping pour discuter commerce et sécurité régionale",
+      "summary": "Le président américain Donald Trump a tenu des discussions avec Xi Jinping sur le commerce bilatéral et la sécurité en Asie-Pacifique. Malgré la rivalité stratégique, les deux leaders soulignent la nécessité d'une coopération minimale pour éviter une escalade. Pékin exprime des réserves sur les sanctions américaines mais accepte un dialogue continu. Cette rencontre intervient dans un contexte de tensions mondiales accrue.",
+      "why": "Ce sommet bilatéral pourrait atténuer les frictions sino-américaines et influencer la stabilité économique mondiale face aux crises énergétiques.",
       "category": "Diplomatie"
     },
     {
-      "title": "Royaume-Uni déploie avions de combat au Qatar et hélicoptères à Chypre",
-      "summary": "Le Royaume-Uni s'apprête à envoyer des avions supplémentaires au Qatar et des hélicoptères à Chypre pour renforcer la posture face à la guerre au Moyen-Orient. Cela s'inscrit dans un mouvement européen plus large, avec la Grèce aidant la Bulgarie à protéger son espace aérien. Ces déploiements visent à sécuriser les routes maritimes et aériennes menacées par les tensions Iran-Hezbollah. Ils signalent une mobilisation OTAN accrue sans engagement direct.",
-      "why": "Cela consolide le soutien occidental à Israël et aux USA, protégeant les flux énergétiques vitaux et prévenant une contagion au Levant et en Méditerranée orientale.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "Ukraine accuse la Hongrie d'avoir saisi un convoi de fonds européens",
-      "summary": "Kiev accuse Budapest d'avoir intercepté un convoi transportant des fonds européens destinés à l'Ukraine, exacerbant les tensions sur fond de blocage hongrois d'un prêt de 90 milliards. Des frappes russes ont tué 13 personnes à Kharkiv, dont 11 dans un immeuble. Cette dispute s'ajoute au refus de Zelensky de réparer l'oléoduc vers la Hongrie. Elle complique l'aide européenne à Kiev au milieu de la guerre en cours.",
-      "why": "Ce clash interne à l'UE affaiblit l'unité occidentale face à la Russie, risquant de retarder l'assistance militaire vitale pour l'Ukraine.",
-      "category": "Diplomatie"
+      "title": "Ursula von der Leyen au Groenland pour partenariats énergétiques et climatiques",
+      "summary": "La présidente de la Commission européenne s'est rendue au Groenland pour renforcer les liens en matière d'énergie verte et de lutte climatique. L'Arctique émerge comme un nouveau théâtre géopolitique mêlant ressources minières, routes maritimes et fonte des glaces. Cette visite vise à contrer l'influence russe et chinoise dans la région. L'UE cherche à sécuriser ses approvisionnements face aux disruptions mondiales.",
+      "why": "La compétition arctique redéfinit les enjeux énergétiques et stratégiques, avec des implications pour la sécurité européenne à long terme.",
+      "category": "Énergie"
     }
   ],
   "updates": []
