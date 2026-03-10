@@ -1,34 +1,34 @@
 {
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "news": [
     {
-      "title": "BepiColombo observe des ions hydrogène chauds piégés dans la magnétosphère de Mercure",
-      "summary": "Lors du troisième survol de Mercure par la sonde BepiColombo, des ions hydrogène chauds énergétiques (H+) ont été détectés à basse latitude près du plan équatorial, avec des énergies d'environ 20 keV/e. Ce phénomène suggère la présence d'un courant annulaire similaire à celui de la Terre, porté par des particules chargées piégées dans la magnétosphère. Les chercheurs notent également la caractérisation des particules dans la magnétosphère et l'observation de frontières comme l'onde de choc et le feuillet de plasma. Ces données complètent les observations de MESSENGER et préparent l'arrivée en orbite en 2026.",
-      "why": "Cette découverte potentielle d'un courant annulaire sur Mercure révolutionne notre compréhension de sa dynamique magnétosphérique, analogue à celle terrestre malgré sa proximité au Soleil.",
+      "title": "Nouvelle analyse des données Viking suggère détection de vie sur Mars en 1976",
+      "summary": "Des chercheurs publient une étude relançant l'idée que les missions Viking de 1976 ont détecté des signes de vie martienne. L'instrument GC-MS avait détecté du methylchlorure et du dioxyde de carbone, interprétés comme contamination, mais le perchlorate découvert en 2008 explique leur formation par dégradation de composés organiques lors du chauffage des échantillons. Trois expériences sur cinq avaient donné des résultats positifs ignorés à l'époque. Cette réinterprétation s'appuie sur des découvertes récentes comme un ancien océan nord et des minéraux habitables dans la météorite Black Beauty.",
+      "why": "Cela pourrait réécrire l'histoire de la recherche de vie extraterrestre et justifier de nouvelles analyses in situ sur Mars.",
       "category": "Espace"
     },
     {
-      "title": "Nouveau kit de dépistage portable pour infections bactériennes basé sur l'IA",
-      "summary": "Rochelle Niemeijer a développé un kit portable utilisant l'intelligence artificielle pour diagnostiquer rapidement les infections bactériennes. Ce dispositif permet une détection immédiate sur site, évitant les délais des analyses en laboratoire. Il s'inscrit dans une vague d'innovations par des chercheuses européennes en santé. Le rapport souligne l'égalité des potentiels d'invention entre sexes en STEM.",
-      "why": "Cette avancée accélère le diagnostic des infections, réduisant les complications et les coûts hospitaliers, particulièrement en contextes de ressources limitées.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Test génétique pour évaluer le risque de récidive du cancer du sein",
-      "summary": "Laura van’t Veer et son équipe ont créé un test génétique analysant le tissu tumoral pour prédire le risque de récidive chez les patientes atteintes de cancer du sein. Il distingue les cas à haut risque nécessitant une chimiothérapie des cas à faible risque pouvant éviter ce traitement toxique. Cette innovation personnalise les thérapies et minimise les effets secondaires inutiles. Elle met en lumière les contributions féminines en oncologie.",
-      "why": "En optimisant les traitements, ce test améliore la qualité de vie des patientes et rationalise l'usage des ressources médicales.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Échappées inattendues du CNRS : conférences sur les lunes-océans à Morlaix",
-      "summary": "Du 7 au 9 mars 2026, l'Espace des sciences de Morlaix accueille Les Échappées inattendues du CNRS avec des présentations interactives en biologie, chimie, physique et planétologie. Gabriel Tobie, planétologue, donne une conférence sur les lunes-océans de Jupiter et Saturne, évoquant les missions Juice et Europa Clipper en route. L'événement relie sciences contemporaines et patrimoine industriel. Entrée libre les 8 et 9 mars pour le public et scolaires.",
-      "why": "Ces rencontres vulgarisent des recherches de pointe, favorisant l'engagement public avec la science en temps réel.",
+      "title": "Instruments scientifiques d'Artemis III dévoilés pour étude du pôle sud lunaire",
+      "summary": "La mission Artemis III de septembre 2026 emportera trois instruments clés: le Lems, sismomètre portable de 26 kg enterré au pôle sud pour détecter la sismicité avec une sensibilité inédite pendant deux ans. Le LDA mesurera la densité du régolithe pour évaluer la présence de glace d'eau, ressource vitale pour les bases lunaires. Le Leaf testera la culture de plantes pour l'alimentation, l'élimination de CO2 et la production d'oxygène. Ces outils préparent l'installation de bases habitables à long terme.",
+      "why": "Ces avancées techniques accélèrent l'établissement humain durable sur la Lune et l'exploitation de ses ressources.",
       "category": "Espace"
     },
     {
-      "title": "Simulations confirment la dangerosité gravitationnelle accrue du Système solaire",
-      "summary": "Des simulations numériques à haute précision en 2026 révèlent un Système solaire plus dynamique et dangereux que prévu, avec des forces gravitationnelles colossales en mouvement perpétuel. Mars montre des signes de passé violent comme des tempêtes de poussière. La comète 3I/Atlas éjecte des glaces volatiles se sublimant à basses températures, analysées par spectroscopie. La 29e lune d'Uranus enrichit son système, passant à 29 satellites.",
-      "why": "Ces modèles améliorent les prévisions pour les missions spatiales et la compréhension de l'instabilité cosmique locale.",
+      "title": "Variations saisonnières de méthane et activité thermique interne confirmées sur Mars",
+      "summary": "Les mesures atmosphériques récentes du rover détectent des variations saisonnières de méthane, ravivant les débats sur une origine géologique ou biologique. Le sous-sol martien montre des signes d'activité thermique interne sous-estimée, alimentée par une chaleur résiduelle. Ces découvertes complètent les analyses de silice cristallisée et minéraux réox. Elles indiquent une planète plus dynamique que prévu.",
+      "why": "Cela renforce l'hypothèse d'habitabilité passée ou présente et guide les futures missions d'exploration.",
+      "category": "Espace"
+    },
+    {
+      "title": "Microrcharges électrostatiques confirmées sur Mars par grains minéraux chargés",
+      "summary": "Les rencontres répétées de grains minéraux chargés électriquement dans l'air sec martien produisent des microrcharges électrostatiques, passant d'hypothèse à réalité grâce aux instruments du rover. Ce phénomène était unsuspecté jusqu'ici. Les implications touchent l'érosion des sols, le transport de poussières et potentiellement la chimie atmosphérique. Il éclaire les conditions extrêmes de la surface martienne.",
+      "why": "Cette découverte modélise mieux les processus planétaires et protège les équipements futurs des effets électrostatiques.",
+      "category": "Espace"
+    },
+    {
+      "title": "BepiColombo observe ions hydrogène chauds piégés dans la magnétosphère de Mercure",
+      "summary": "La sonde BepiColombo détecte pour la première fois des ions hydrogène chauds piégés dans la magnétosphère de Mercure lors de son survol. Ces ions révèlent des dynamiques plasma inattendues près de la planète la plus proche du Soleil. Les données confirment une interaction complexe entre vent solaire et champ magnétique mercurien. Cela enrichit la compréhension des environnements planétaires extrêmes.",
+      "why": "Ces observations préparent l'orbite finale de BepiColombo et modélisent les exoplanètes similaires.",
       "category": "Espace"
     }
   ],
