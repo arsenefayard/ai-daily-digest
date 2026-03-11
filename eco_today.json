@@ -2,43 +2,35 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
-      "summary": "Le géant automobile allemand Volkswagen a annoncé un plan majeur de réduction d'effectifs avec la suppression de 50 000 postes suite à une année 2025 difficile. Cette décision intervient dans un contexte de transition énergétique coûteuse et de concurrence accrue des constructeurs chinois sur le marché automobile européen. Le secteur automobile européen traverse une crise structurelle avec des pertes massives chez les principaux acteurs. Cette annonce renforce les craintes concernant la compétitivité de l'industrie automobile européenne face aux nouveaux entrants asiatiques.",
-      "why": "Cette suppression d'emplois massive reflète la crise profonde du secteur automobile européen et pourrait avoir des répercussions économiques et sociales significatives en Allemagne et en Europe.",
+      "title": "CPI américain de février attendu comme signal clé pour la trajectoire des taux de la Fed",
+      "summary": "Le CPI de février aux États-Unis est le principal événement macroéconomique du 11 mars, avec un focus sur l'inflation globale, de base et ses composants comme le logement et les services. Les marchés attendent un ralentissement suffisant pour soutenir des baisses de taux plus souples par la Fed. Un CPI fort renforcerait le dollar, pesant sur les matières premières et les émergents. Cela influence l'appétit pour le risque mondial via les rendements US.",
+      "why": "Ce chiffre détermine les attentes sur la politique monétaire de la Fed, impactant directement les marchés obligataires, actions et devises mondiales.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
+      "summary": "Oracle anticipe une croissance soutenue de l'IA au moins jusqu'en 2027, propulsant ses actions de 8% le 10 mars. Cela reflète l'optimisme sur les investissements technologiques malgré les tensions géopolitiques. AT&T annonce parallèlement un plan de 250 milliards de dollars pour les infrastructures IA aux US. Ces développements soulignent la résilience du secteur tech face aux chocs externes.",
+      "why": "Renforce la confiance dans le secteur IA, un pilier de croissance économique, et soutient les indices boursiers malgré l'incertitude mondiale.",
       "category": "Entreprises"
     },
     {
-      "title": "Baisse du prix du pétrole après l'annonce de Donald Trump sur la fin de la guerre en Iran",
-      "summary": "Le prix du pétrole a enregistré une baisse notable suite à l'annonce du président américain Donald Trump affirmant que la guerre avec l'Iran était terminée, malgré une escalade militaire continue. Cette déclaration a réduit les craintes d'une prolongation du conflit au Moyen-Orient qui avait alimenté une flambée historique des prix de l'énergie. Les marchés ont réagi positivement à cette perspective de désescalade, bien que la situation reste volatile. Cette baisse soulage les pressions inflationnistes qui s'étaient accumulées depuis le début du conflit.",
-      "why": "Cette évolution des prix du pétrole est cruciale car elle affecte directement l'inflation mondiale, les coûts de transport et les perspectives de politique monétaire des banques centrales.",
+      "title": "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
+      "summary": "Rio Tinto obtient un financement de 1,18 milliard de dollars pour développer son projet de lithium en Argentine, clé pour la transition énergétique. Cela intervient dans un contexte de hausse des métaux due aux tensions au Moyen-Orient. Le projet booste les capacités de production de batteries électriques. Il illustre l'accélération des investissements dans les matières critiques malgré les risques géopolitiques.",
+      "why": "Le lithium est essentiel pour les VE et le stockage d'énergie, impactant les chaînes d'approvisionnement mondiales et les prix des métaux.",
       "category": "Matières premières"
     },
     {
-      "title": "Recours aux réserves stratégiques de pétrole envisagé pour contenir les prix",
-      "summary": "Face à la flambée historique des prix du pétrole liée au conflit au Moyen-Orient, les gouvernements envisagent de puiser dans leurs réserves stratégiques pour stabiliser les marchés énergétiques. Cette mesure vise à contenir les pressions inflationnistes et à protéger les économies d'un choc énergétique prolongé. Le recours aux réserves stratégiques représente un outil de dernier recours utilisé en cas de crise majeure d'approvisionnement. Cette action coordonnée pourrait avoir un impact significatif sur les prix à court terme.",
-      "why": "L'utilisation des réserves stratégiques signale la gravité perçue de la crise énergétique et pourrait influencer les trajectoires d'inflation et les décisions de politique monétaire.",
-      "category": "Matières premières"
+      "title": "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
+      "summary": "Trump nomme Kevin Warsh président de la Fed, apaisant les marchés sur l'indépendance de la banque centrale après des pressions antérieures. Warsh est perçu comme favorable à une normalisation monétaire prudente. Cela suit un ralentissement de la croissance US mais avec accélération des investissements d'entreprises. La décision réduit l'incertitude sur la politique US.",
+      "why": "Stabilise les attentes sur les taux US, crucial pour les marchés financiers mondiaux et les flux de capitaux.",
+      "category": "Politique monétaire"
     },
     {
-      "title": "Surprises positives des PMI malgré le contexte macroéconomique difficile",
-      "summary": "Les indices PMI (Purchasing Managers' Index) ont enregistré de belles surprises à la hausse, suggérant une résilience inattendue de l'activité économique au niveau des petites et moyennes entreprises. Ces résultats contrastent avec le pessimisme ambiant lié au conflit au Moyen-Orient et aux tensions commerciales. Les PMI constituent un indicateur avancé fiable de l'activité économique réelle et de la confiance des entreprises. Cette performance positive pourrait indiquer que les économies résistent mieux que prévu aux chocs externes.",
-      "why": "Les PMI sont des indicateurs clés de la santé économique réelle et peuvent influencer les attentes concernant la croissance et les décisions de politique monétaire.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Activation du mode 'Risk off' sur les marchés boursiers mondiaux",
-      "summary": "Les marchés d'actions mondiaux, notamment les bourses asiatiques, ont basculé en mode 'Risk off' avec des chutes significatives reflétant une aversion au risque accrue. Cette dynamique est alimentée par les incertitudes géopolitiques au Moyen-Orient, les tensions commerciales et les craintes inflationnistes. Le mode 'Risk off' se caractérise par des ventes massives d'actifs risqués et une fuite vers les valeurs refuges. Cette volatilité accrue crée des opportunités mais aussi des risques importants pour les investisseurs.",
-      "why": "Le basculement en mode 'Risk off' reflète une réévaluation majeure des risques par les investisseurs et pourrait signaler le début d'une correction boursière plus importante.",
+      "title": "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
+      "summary": "Les OAT françaises et BTP italiens se détendent fortement le 10 mars, tandis que les T-Bonds US sont contrastés. Cela suit un reflux des prix du pétrole lié aux espoirs de résolution au Moyen-Orient. L'Europe finit dans le vert, portée par ces anticipations. Les marchés réagissent positivement à une potentielle désescalade géopolitique.",
+      "why": "Réduit les pressions inflationnistes et soutient les obligations souveraines, favorisant une reprise boursière européenne.",
       "category": "Marchés"
     }
   ],
-  "updates": [
-    {
-      "title": "Inflation en zone euro : accélération confirmée à 1,9% en février",
-      "original": "Inflation en zone euro à 1,9% en février, dépassant les attentes",
-      "summary": "L'inflation en zone euro a confirmé sa remontée à 1,9% en février 2026, dépassant les attentes des économistes qui anticipaient une stabilisation. Cette accélération intervient avant même que les conséquences complètes du conflit au Moyen-Orient ne se matérialisent dans les statistiques officielles. Les pressions inflationnistes proviennent notamment de la flambée des prix de l'énergie liée au conflit géopolitique. Cette tendance haussière de l'inflation pourrait contraindre la Banque centrale européenne à maintenir une posture monétaire plus restrictive que prévu.",
-      "why": "Cette accélération de l'inflation confirme que les chocs énergétiques se transmettent rapidement à l'économie réelle et pourrait forcer la BCE à réviser sa trajectoire de baisse des taux.",
-      "category": "Politique monétaire"
-    }
-  ]
+  "updates": []
 }
