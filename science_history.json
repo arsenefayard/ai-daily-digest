@@ -1,15 +1,5 @@
 [
   {
-    "date": "06/03/2026",
-    "titles": [
-      "MIT démontre le rôle des inflammations de bas grade dans les maladies cardiovasculaires et neurodégénératives",
-      "Sommeil profond : système de nettoyage cérébral 10 fois plus actif contre Alzheimer confirmé",
-      "Modèles prédictifs MIT-Harvard pour risques cardiovasculaires et neurodégénératifs à partir de données intégrées",
-      "Chute de la longévité des dauphins femelles dans le golfe de Gascogne constatée",
-      "29e lune d'Uranus découverte, enrichissant le système uranien"
-    ]
-  },
-  {
     "date": "07/03/2026",
     "titles": []
   },
@@ -56,5 +46,12 @@
   {
     "date": "11/03/2026",
     "titles": []
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
+      "Détection d'éclairs sur Mars expliquant variations de méthane"
+    ]
   }
 ]
