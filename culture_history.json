@@ -1,15 +1,5 @@
 [
   {
-    "date": "06/03/2026",
-    "titles": [
-      "La découverte de la structure de l'ADN par Watson et Crick",
-      "Le paradoxe de Zénon d'Élée sur Achille et la tortue",
-      "Le Minotaure, monstre mi-homme mi-taureau de la mythologie grecque",
-      "La plus longue rivière souterraine du monde au Mexique",
-      "L'effet Dunning-Kruger en psychologie cognitive"
-    ]
-  },
-  {
     "date": "07/03/2026",
     "titles": [
       "L'étymologie cachée du mot « musique » remonte à la mythologie grecque",
@@ -67,6 +57,16 @@
       "Le premier film de l'histoire : La Sortie de l'usine Lumière",
       "La plus grande fleur du monde : Rafflesia arnoldii",
       "L'effet Barnum en psychologie : l'illusion de la personnalisation"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Le paradoxe de l'hôtel de Hilbert en mathématiques",
+      "La plus grande fleur du monde : Rafflesia arnoldii",
+      "Le premier film de l'histoire : La Sortie de l'usine Lumière",
+      "L'effet Barnum en psychologie : l'illusion de la personnalisation",
+      "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde"
     ]
   }
 ]
