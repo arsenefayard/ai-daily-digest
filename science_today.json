@@ -1,5 +1,20 @@
 {
   "date": "11/03/2026",
   "news": [],
-  "updates": []
+  "updates": [
+    {
+      "title": "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
+      "original": "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
+      "summary": "Les dernières analyses du rover Perseverance confirment la présence de composés organiques complexes dans l'échantillon Sapphire Canyon, ravivant les spéculations sur une vie passée. Les données spectroscopiques indiquent des signatures chimiques inhabituelles compatibles avec des processus biologiques anciens. Cette découverte s'appuie sur des mesures récentes de gaz et d'activité thermique interne martienne. Les implications pour la recherche de vie extraterrestre sont considérables.",
+      "why": "Renforce les preuves potentielles de vie sur Mars et justifie des missions futures d'échantillonnage.",
+      "category": "Espace"
+    },
+    {
+      "title": "Détection d'éclairs sur Mars expliquant variations de méthane",
+      "original": "Détection d'éclairs sur Mars expliquant variations de méthane et chimie organique",
+      "summary": "De nouvelles observations confirment la présence d'éclairs électriques dans l'atmosphère martienne, responsables des pics saisonniers de méthane et de la formation de composés organiques. Ce phénomène relie l'activité électrique aux processus chimiques observés depuis des années. Les données du rover Perseverance valident les modèles théoriques précédents. Cela modifie notre compréhension du climat martien actuel.",
+      "why": "Explique des anomalies atmosphériques longtemps débattues et ouvre des perspectives sur l'habitabilité passée.",
+      "category": "Espace"
+    }
+  ]
 }
