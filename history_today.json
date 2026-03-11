@@ -1,0 +1,37 @@
+{
+  "date": "11/03/2026",
+  "subject": {
+    "name": "Paix de Rueil",
+    "type": "Traité historique",
+    "period": "1649 · Fronde parlementaire (France)",
+    "context": "La Fronde parlementaire, première phase de la Fronde (1648-1649), oppose les parlements de province, menés par celui de Paris, à la régence de la reine Anne d'Autriche et au cardinal Mazarin, accusés d'arbitraire fiscal et d'absolutisme. Ce soulèvement nobiliaire et bourgeois culmine en 1649 avec des barricades à Paris et des sièges militaires. Peu connu, ce conflit révèle les tensions entre centralisation royale et privilèges locaux, préfigurant les révoltes du siècle suivant. La paix de Rueil, signée le 11 mars 1649 au château de Rueil, instaure un compromis fragile : amnistie générale, retrait des troupes royales de Paris et engagement des parlementaires à ne plus contester l'autorité royale. Ce traité marque la fin temporaire des hostilités mais ouvre la voie à la Fronde des princes, prolongeant l'instabilité jusqu'en 1653. Fait marquant : Mazarin, exilé puis rappelé, consolide son pouvoir en divisant ses adversaires.",
+    "dates": [
+      {
+        "year": "1648",
+        "label": "Début Fronde parlementaire avec remontrances du Parlement de Paris"
+      },
+      {
+        "year": "Janvier 1649",
+        "label": "Émeutes des barricades à Paris"
+      },
+      {
+        "year": "Février 1649",
+        "label": "Siège de Paris par l'armée royale"
+      },
+      {
+        "year": "11 mars 1649",
+        "label": "Signature paix de Rueil"
+      },
+      {
+        "year": "1650",
+        "label": "Début Fronde des princes"
+      },
+      {
+        "year": "1653",
+        "label": "Fin totale de la Fronde avec paix d'Orléans"
+      }
+    ],
+    "legacy": "La paix de Rueil symbolise l'échec des tentatives nobiliaires à limiter l'absolutisme, favorisant la centralisation louis-quatorzienne et l'édification de Versailles. Elle influence les théories politiques sur la souveraineté, inspirant Locke et Montesquieu. Son héritage perdure dans les débats sur l'équilibre des pouvoirs en France moderne.",
+    "why": "Ironie : ce 'compromis' censé apaiser engendre une seconde Fronde plus violente, montrant comment la modération forcée peut semer les graines de révoltes futures."
+  }
+}
