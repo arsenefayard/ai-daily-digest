@@ -2,35 +2,43 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "CPI américain de février attendu comme signal clé pour la trajectoire des taux de la Fed",
-      "summary": "Le CPI de février aux États-Unis est le principal événement macroéconomique du 11 mars, avec un focus sur l'inflation globale, de base et ses composants comme le logement et les services. Les marchés attendent un ralentissement suffisant pour soutenir des baisses de taux plus souples par la Fed. Un CPI fort renforcerait le dollar, pesant sur les matières premières et les émergents. Cela influence l'appétit pour le risque mondial via les rendements US.",
-      "why": "Ce chiffre détermine les attentes sur la politique monétaire de la Fed, impactant directement les marchés obligataires, actions et devises mondiales.",
+      "title": "CPI américain de février : signal clé pour la trajectoire des taux de la Fed",
+      "summary": "Le rapport sur l'inflation américaine de février s'annonce comme l'événement macroéconomique majeur du 11 mars 2026, déterminant si l'inflation ralentit suffisamment pour soutenir des baisses de taux. Les investisseurs scruteront non seulement le CPI global mais aussi l'inflation de base et les composantes clés comme le logement et les services durables. Un CPI fort pourrait renforcer le dollar et peser sur les matières premières, tandis qu'un ralentissement confirmerait les attentes d'assouplissement monétaire. Ce chiffre aura des répercussions immédiates sur les marchés émergents, les devises et l'appétit pour le risque global.",
+      "why": "Ce rapport est le principal catalyseur pour les décisions de politique monétaire de la Fed et influence directement les trajectoires des taux d'intérêt mondiaux et l'allocation des capitaux.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
+      "summary": "Le président américain a nommé Kevin Warsh à la présidence de la Réserve fédérale, une décision qui rassure les marchés financiers quant au maintien de l'indépendance de la banque centrale. Cette nomination intervient après que Trump ait relâché la pression qu'il exerçait précédemment sur la Fed pour qu'elle baisse ses taux. Warsh est perçu comme un candidat capable de préserver l'autonomie institutionnelle de la Fed tout en naviguant les tensions politiques. Cette annonce marque un changement de ton dans la relation entre l'exécutif américain et l'institution monétaire.",
+      "why": "La confiance dans l'indépendance de la Fed est cruciale pour la stabilité des marchés financiers et la crédibilité de la politique monétaire américaine.",
       "category": "Politique monétaire"
     },
     {
       "title": "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
-      "summary": "Oracle anticipe une croissance soutenue de l'IA au moins jusqu'en 2027, propulsant ses actions de 8% le 10 mars. Cela reflète l'optimisme sur les investissements technologiques malgré les tensions géopolitiques. AT&T annonce parallèlement un plan de 250 milliards de dollars pour les infrastructures IA aux US. Ces développements soulignent la résilience du secteur tech face aux chocs externes.",
-      "why": "Renforce la confiance dans le secteur IA, un pilier de croissance économique, et soutient les indices boursiers malgré l'incertitude mondiale.",
+      "summary": "Oracle a annoncé des perspectives optimistes pour le secteur de l'intelligence artificielle, prévoyant une croissance soutenue jusqu'en 2027 au minimum. Cette guidance positive a propulsé les actions du géant technologique de 8%, reflétant la confiance des investisseurs dans la trajectoire de croissance du secteur de l'IA. Cette annonce intervient dans un contexte où les entreprises technologiques cherchent à justifier les valorisations élevées par des perspectives de croissance concrètes. Le mouvement haussier d'Oracle suggère un regain d'appétit pour les valeurs technologiques liées à l'IA.",
+      "why": "Cette annonce renforce la confiance dans la durabilité de la croissance du secteur de l'IA et soutient les valorisations des géants technologiques, influençant l'allocation des capitaux vers le secteur.",
       "category": "Entreprises"
     },
     {
       "title": "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
-      "summary": "Rio Tinto obtient un financement de 1,18 milliard de dollars pour développer son projet de lithium en Argentine, clé pour la transition énergétique. Cela intervient dans un contexte de hausse des métaux due aux tensions au Moyen-Orient. Le projet booste les capacités de production de batteries électriques. Il illustre l'accélération des investissements dans les matières critiques malgré les risques géopolitiques.",
-      "why": "Le lithium est essentiel pour les VE et le stockage d'énergie, impactant les chaînes d'approvisionnement mondiales et les prix des métaux.",
+      "summary": "Le géant minier Rio Tinto a obtenu un financement de 1,18 milliard de dollars pour son projet de lithium en Argentine, renforçant sa position dans la chaîne d'approvisionnement des matériaux critiques pour les batteries. Ce financement démontre la confiance des investisseurs dans la demande future de lithium, portée par l'électrification des transports et la transition énergétique. Le projet argentin revêt une importance stratégique pour sécuriser l'approvisionnement en lithium face à la domination chinoise. Cette transaction illustre les investissements massifs en cours dans les matériaux critiques.",
+      "why": "Le lithium est un élément clé pour la transition énergétique mondiale et la sécurisation de l'approvisionnement est devenue une priorité géopolitique et économique majeure.",
       "category": "Matières premières"
     },
     {
-      "title": "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
-      "summary": "Trump nomme Kevin Warsh président de la Fed, apaisant les marchés sur l'indépendance de la banque centrale après des pressions antérieures. Warsh est perçu comme favorable à une normalisation monétaire prudente. Cela suit un ralentissement de la croissance US mais avec accélération des investissements d'entreprises. La décision réduit l'incertitude sur la politique US.",
-      "why": "Stabilise les attentes sur les taux US, crucial pour les marchés financiers mondiaux et les flux de capitaux.",
-      "category": "Politique monétaire"
-    },
-    {
       "title": "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
-      "summary": "Les OAT françaises et BTP italiens se détendent fortement le 10 mars, tandis que les T-Bonds US sont contrastés. Cela suit un reflux des prix du pétrole lié aux espoirs de résolution au Moyen-Orient. L'Europe finit dans le vert, portée par ces anticipations. Les marchés réagissent positivement à une potentielle désescalade géopolitique.",
-      "why": "Réduit les pressions inflationnistes et soutient les obligations souveraines, favorisant une reprise boursière européenne.",
+      "summary": "Les rendements des obligations souveraines européennes, notamment les OAT françaises et les BTP italiens, ont enregistré une baisse significative suite aux espoirs d'une désescalade au Moyen-Orient. Cette détente intervient après des semaines de tensions liées au conflit iranien qui avaient alimenté les craintes inflationnistes et les pressions sur les taux. La baisse des rendements reflète un repositionnement des investisseurs vers un scénario moins inflationniste et une normalisation progressive des conditions financières. Cette amélioration du sentiment de marché bénéficie aux économies européennes fragilisées par les tensions géopolitiques.",
+      "why": "La baisse des taux souverains réduit les coûts de financement des gouvernements et des entreprises, soutenant la croissance économique et atténuant les risques de crise de dette souveraine.",
       "category": "Marchés"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
+      "original": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
+      "summary": "Volkswagen a confirmé l'ampleur de sa restructuration avec la suppression de 50 000 emplois, suite à une année marquée par des pertes records et une perte nette au plus bas niveau depuis le Dieselgate. Le groupe allemand fait face à une concurrence chinoise croissante et aux coûts massifs de la transition vers l'électrification. Cette annonce intervient dans un contexte où le secteur automobile européen traverse une crise majeure, avec Renault également affichant des pertes importantes. Les suppressions d'emplois en Allemagne auront des répercussions sociales et économiques significatives.",
+      "why": "Cette restructuration majeure reflète la fragilité du secteur automobile européen face à la concurrence chinoise et aux défis de la transition énergétique, avec des implications pour l'emploi et la croissance en Europe.",
+      "category": "Entreprises"
+    }
+  ]
 }
