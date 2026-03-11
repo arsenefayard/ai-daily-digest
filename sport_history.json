@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Quarts de finale de la Coupe de France disputés les 4 et 5 mars 2026",
-      "Tournoi des 6 Nations: Écosse vs France prévu ce 7 mars 2026",
-      "Grand Prix d'Australie de Formule 1 ouvre la saison le 8 mars 2026",
-      "Paris-Nice débute le cyclisme mondial le 8 mars 2026",
-      "Préparation intensive pour Roland-Garros 2026 confirmée dans les calendriers"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Grand Prix d'Australie de Formule 1 débute ce week-end",
       "Jeux Paralympiques d'hiver 2026 commencent le 6 mars",
       "Combat MMA Holloway vs Oliveira 2 le 7 mars",
@@ -71,6 +61,17 @@
       "Grand Prix d'Australie F1 : Verstappen remporte l'ouverture spectaculaire de la saison à Melbourne",
       "UFC 326 : Oliveira bat Holloway par décision unanime dans un combat épique à Las Vegas",
       "Nîmes Olympique enchaîne une quatrième victoire consécutive et revient dans la course à la montée"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Ligue des Champions : Atlético Madrid écrase Tottenham et file vers les quarts",
+      "Ligue des Champions : Barcelone tient tête à Newcastle dans un match intense (1-1)",
+      "Indian Wells Masters 1000 : Premiers chocs avec les stars ATP et WTA en lice",
+      "Real Madrid vs Manchester City : Mbappé déclare forfait pour le choc",
+      "Nîmes Olympique enchaîne une 4e victoire consécutive et se rapproche du leader",
+      "Grand Prix d'Australie F1 : Verstappen triomphe devant Piastri et ouvre sa saison en leader"
     ]
   }
 ]
