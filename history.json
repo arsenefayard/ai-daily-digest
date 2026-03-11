@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
-      "OpenAI signe nouveau contrat avec la Défense US après échec Anthropic-Pentagone",
-      "Géants IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
-      "Tensions Moyen-Orient menacent investissements Big Tech en IA dans la région",
-      "1er Congrès Eau & Intelligence Artificielle à Grenoble du 4 au 6 mars 2026"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
       "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
       "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
@@ -68,6 +58,17 @@
       "IA agentique anti-vols automobiles réduit les tentatives de 12-30% dans les véhicules connectés",
       "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
       "DataGalaxy présente Portfolio au Gartner Summit pour combler le 'AI velocity gap'"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone",
+      "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
+      "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
+      "MWC 2026 : l'IA devient le cœur de l'expérience mobile avec nouvelles fonctionnalités intégrées",
+      "Marché de l'assurance français s'organise face aux risques IA et au phénomène de « Silent IA »",
+      "Claude Cowork d'Anthropic provoque une panique boursière de 285 milliards de dollars"
     ]
   }
 ]
