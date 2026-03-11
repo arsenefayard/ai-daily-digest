@@ -2,18 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Dissuasion nucléaire avancée : Macron annonce coopération avec huit pays européens",
-      "USA et Venezuela rétablissent pleinement leurs relations diplomatiques",
-      "OTAN intercepte un missile iranien visant la Turquie",
-      "Marine US propose d'escorter les pétroliers dans le détroit d'Ormuz",
-      "Coopération nucléaire franco-allemande émerge dans la crise iranienne",
-      "Israël étend ses bombardements à Téhéran et déploie des forces terrestres au Liban",
-      "Trump impose blocus commercial sur l'Espagne et menace le Royaume-Uni"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Fermeture du détroit d'Ormuz par l'Iran",
       "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime"
     ]
@@ -67,6 +55,16 @@
       "Explosions à Téhéran : Washington avertit du 'plus grand bombardement' imminent",
       "Trump rencontre Xi Jinping pour discuter commerce et sécurité régionale",
       "Ursula von der Leyen au Groenland pour partenariats énergétiques et climatiques"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
+      "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
+      "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
+      "Prix du pétrole dépasse 115 dollars le baril, gaz européen bondit de 30% à cause de la guerre en Iran",
+      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre"
     ]
   }
 ]
