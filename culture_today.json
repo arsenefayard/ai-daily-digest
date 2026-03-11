@@ -2,34 +2,34 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "Le labyrinthe de Chartres : le plus grand du monde gravé dans le sol d'une cathédrale",
-      "summary": "Au cœur de la cathédrale Notre-Dame de Chartres se trouve un labyrinthe de 13 mètres de diamètre, tracé en 1201 sur le sol de la nef. Ce parcours mystique, inspiré des mythes grecs, symbolisait le chemin spirituel vers Dieu pour les pèlerins médiévaux qui le suivaient à genoux. Composé de 261 mètres de tracé, il représente la complexité de la vie et la quête divine. Redécouvert au XIXe siècle, il reste un rare exemple intact de l'architecture sacrée labyrinthique européenne.",
-      "why": "Il illustre comment l'architecture gothique intégrait philosophie et spiritualité, offrant une méditation concrète sur l'errance humaine.",
+      "title": "La tapisserie de l'Apocalypse d'Angers : le plus grand ensemble médiéval conservé",
+      "summary": "La tapisserie de l'Apocalypse, conservée à la cathédrale d'Angers, est un chef-d'œuvre gothique du XIVe siècle mesurant 100 mètres de long et 5 mètres de haut, composée de 74 panneaux illustrant le Livre de l'Apocalypse de saint Jean. Commandée par Louis Ier d'Anjou, elle fut tissée par des artisans flamands sur une laine teinte avec des pigments naturels, représentant plus de 100 personnages en mouvement. Exposée en continu depuis sa création, elle a survécu à la Révolution française et aux guerres mondiales grâce à des restaurations minutieuses. Ce trésor textile offre un témoignage unique sur l'iconographie médiévale et la piété apocalyptique de l'époque.",
+      "why": "Elle incarne le summum de l'art textile médiéval et éclaire les croyances eschatologiques qui ont façonné l'Europe chrétienne.",
       "category": "Histoire"
     },
     {
-      "title": "Le vaisseau de pierre d'Emanuel Swedenborg, utopie architecturale du XVIIIe siècle",
-      "summary": "En 1718, le mystique suédois Emanuel Swedenborg conçut un 'vaisseau de pierre' flottant, une cathédrale mobile de 200 mètres de long en granit armé. Ce projet visionnaire préfigurait les avancées en ingénierie navale et architecture navale. Destiné à propager ses idées religieuses, il fut abandonné faute de fonds mais inspira plus tard les paquebots modernes. Ses plans détaillés révèlent une prouesse technique pour l'époque.",
-      "why": "Cette invention oubliée montre comment la philosophie mystique a influencé l'innovation technique bien avant son temps.",
+      "title": "Le paradoxe de l'hôtel de Hilbert en mathématiques",
+      "summary": "Le paradoxe de l'hôtel de Hilbert, imaginé par le mathématicien David Hilbert en 1924, illustre l'infini cardinal en supposant un hôtel infini de chambres toutes occupées : un nouvel arrivant peut être logé en décalant tous les clients d'une chambre, libérant la première. Si un bus infini d'arrivants surgit, on les place en chambres paires ou impaires ; pour un nombre infini de bus infinis, une fonction bijectionée sur les nombres premiers résout le problème. Ce paradoxe démontre que les infinis sont de tailles différentes, contredisant l'intuition finie. Il reste un outil pédagogique fondamental en théorie des ensembles.",
+      "why": "Il rend accessible la notion contre-intuitive d'infini en mathématiques, révolutionnant notre compréhension des ensembles infinis.",
       "category": "Philosophie"
     },
     {
-      "title": "L'effet Stroop : le cerveau piégé par des mots colorés",
-      "summary": "Découvert en 1935 par John Ridley Stroop, cet effet psychologique démontre la difficulté à nommer la couleur d'un mot quand celle-ci diffère de sa signification, comme 'ROUGE' écrit en bleu. Il révèle les conflits entre traitement automatique de la lecture et contrôle attentionnel dans le cerveau. Utilisé en neurosciences, il mesure l'inhibition cognitive et diagnostique des troubles comme l'autisme. Des millions de tests quotidiens valident sa robustesse universelle.",
-      "why": "Il expose les limites cachées de notre cognition, aidant à comprendre et entraîner la concentration dans un monde surstimulé.",
+      "title": "Le premier film de l'histoire : La Sortie de l'usine Lumière",
+      "summary": "Sorti le 22 mars 1895, 'La Sortie de l'usine Lumière à Lyon' des frères Lumière est considéré comme le premier film projeté publiquement, durant 46 secondes et montrant des ouvrières quittant l'usine. Tourné avec la cinématographe inventée par Louis Lumière, il capture le mouvement réel pour la première fois devant un public payant à Paris. Ce court-métrage muet marque la naissance du cinéma comme spectacle de masse, influençant tous les formats narratifs ultérieurs. Restauré numériquement, il est projeté mondialement comme icône du 7e art.",
+      "why": "Il pose les bases du cinéma moderne et symbolise le passage de la photographie à l'animation vivante.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "La plus grande fleur du monde : Rafflesia arnoldii",
+      "summary": "La Rafflesia arnoldii, découverte en 1818 en Indonésie, détient le record de la plus grande fleur individuelle avec un diamètre atteignant 1 mètre et un poids de 11 kg, émettant une odeur de chair putride pour attirer les mouches pollinisatrices. Parasite sans feuilles ni tiges, elle puise ses nutriments dans des vignes de Tetrastigma, fleurissant sporadiquement 1 à 2 fois par an. Menacée par la déforestation, moins de 10 espèces survivent dans les forêts de Bornéo et Sumatra. Ce prodige végétal défie les classifications botaniques classiques.",
+      "why": "Elle illustre les extrêmes de l'évolution végétale et alerte sur la fragilité des écosystèmes tropicaux.",
+      "category": "Insolite"
+    },
+    {
+      "title": "L'effet Barnum en psychologie : l'illusion de la personnalisation",
+      "summary": "L'effet Barnum, nommé d'après le showman P.T. Barnum, décrit comment les gens acceptent des descriptions vagues et flatteuses comme précisément adaptées à leur personnalité, comme dans les horoscopes ou tests de personnalité. Décrit par le psychologue Bertram Forer en 1948 via une expérience où des étudiants notèrent haut des profils génériques, il repose sur la validation sélective et le besoin de se sentir unique. Utilisé en chiromancie et marketing, il explique la popularité des prédictions astrologiques. Cet effet met en garde contre la crédulité face aux généralités déguisées en spécifiques.",
+      "why": "Il révèle les mécanismes de la persuasion psychologique et aide à décrypter les arnaques pseudo-scientifiques quotidiennes.",
       "category": "Psychologie"
-    },
-    {
-      "title": "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
-      "summary": "Datée de 5000 ans avant notre ère, Pavlopetri en Grèce est la plus ancienne ville submergée, avec rues, bâtiments et tombes intactes sous 3 mètres d'eau. Découverte en 1967, elle abritait 2000 habitants et un port actif, victime d'un séisme vers 1000 av. J.-C. Explorée par robots, elle révèle une urbanisation avancée du Bronze Age. Son étude fournit des clés sur les civilisations préhistoriques méditerranéennes.",
-      "why": "Ce vestige sous-marin bouleverse notre vision de l'urbanisme antique, soulignant la fragilité des sociétés face aux catastrophes naturelles.",
-      "category": "Géographie"
-    },
-    {
-      "title": "Le Golem de Prague : légende juive d'un colosse d'argile animé",
-      "summary": "Au XVIe siècle, le rabbin Loew créa le Golem, une statue d'argile dotée de vie par des incantations kabbalistiques pour protéger le ghetto de Prague des pogroms. Haut de 2 mètres, il devint incontrôlable et fut désactivé en retirant une lettre de son front. Cette figure mythique inspira Frankenstein et la robotique moderne. Sa tombe symbolique attire encore des pèlerins à la synagogue Vieille-Nouvelle.",
-      "why": "Elle fusionne mysticisme juif et questionnements éthiques sur la création artificielle de vie, préfigurant l'IA actuelle.",
-      "category": "Mythologie"
     }
   ],
   "updates": []
