@@ -1,35 +1,35 @@
 {
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "news": [
     {
-      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
-      "summary": "Le Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA, passant de 20% en 2023 à ce niveau en 2025, surpassant l'adoption d'internet qui a pris cinq ans pour un gain similaire. L'usage est majoritairement personnel (42%) plutôt que professionnel (30%), avec la recherche d'information (73%) et la rédaction de textes (58%) en tête des motifs. ChatGPT domine avec 79% des utilisateurs, suivi de Gemini (31%), particulièrement chez les 18-24 ans (85%) et les cadres (76%). Malgré cela, 52% restent méfiants, bien que la confiance progresse de 5 points.",
-      "why": "Ces données montrent une pénétration massive et rapide de l'IA en France, soulignant son intégration quotidienne et les disparités démographiques.",
-      "category": "Application"
+      "title": "Claude Cowork d'Anthropic provoque panique boursière avec 285 milliards de dollars évaporés",
+      "summary": "Anthropic a lancé Claude Cowork, un agent IA autonome capable d'exécuter des tâches complexes en juridique, commercial, marketing et analyse de données, remplaçant des experts humains. Développé en seulement dix jours avec l'aide de l'IA elle-même, cet outil a déclenché une onde de choc sur les marchés, effaçant 285 milliards de dollars de capitalisation en quelques heures. Les secteurs du conseil, services juridiques et gestion de données, jusque-là vus comme gagnants de la révolution IA, sont désormais perçus comme vulnérables. Cette avancée marque le passage de l'IA assistante à actrice autonome, accélérant sa propre évolution.",
+      "why": "Cette sortie illustre l'accélération vers l'IA agentique, menaçant massivement l'emploi qualifié et forçant une réévaluation des valorisations boursières des services numériques.",
+      "category": "Modèle"
     },
     {
-      "title": "Gartner prévoit dépenses IT mondiales >5000 Md€ en 2026, boostées par l'infrastructure IA",
-      "summary": "Gartner anticipe une croissance de 10,8% des dépenses IT mondiales à plus de 6000 Md$ (5000 Md€) en 2026, révisée à la hausse par rapport à octobre 2025. L'infrastructure IA, notamment serveurs et datacenters avec GPU haut de gamme, drive la majorité de cette hausse. Les dépenses en IA générative croissent de 80,8%, représentant 1,8 point de plus dans le marché logiciel. Les géants du cloud comme AWS, Azure et Google Cloud investissent massivement dans des puces sur mesure pour workloads IA.",
-      "why": "Cette explosion des investissements confirme la priorisation stratégique de l'IA par les entreprises, malgré les risques de bulle spéculative.",
+      "title": "UBS prévoit 571 milliards € de dépenses IA en 2026, propulseur des marchés actions",
+      "summary": "UBS anticipe 571 milliards € d'investissements en IA pour 2026, contre 423 milliards en 2025, avec 4,7 billions € cumulés jusqu'en 2030 portés par l'IA agentique, physique et vidéo. Les techs et services de communication pèsent 36% de l'indice MSCI AC World, contribuant à 72% de la croissance du Russell 3000. La monétisation reste en retard mais montre une création de valeur tangible chez les premiers adopteurs. À long terme, l'IA pourrait générer 1,5 billion € de revenus annuels en automatisant un tiers des tâches mondiales.",
+      "why": "Ces prévisions massives confirment l'IA comme moteur dominant des marchés financiers, avec un potentiel de croissance soutenu si la monétisation s'accélère.",
       "category": "Entreprise"
     },
     {
-      "title": "CES 2026 met l'accent sur l'IA physique et les super-agents pour transformation industrielle",
-      "summary": "Le CES 2026, avec 150 000 participants, marque le passage de l'IA à une force opérationnelle concrète via l'IA physique (jumeaux numériques temps réel, IA embarquée). Siemens, Nvidia et Lenovo annoncent des avancées en simulations continues et manipulation robotique fine. Les super-agents, orchestrant agents spécialisés (AWS, Perplexity, Anthropic), deviennent interfaces uniques humain-systèmes, accélérant projets et développement logiciel. La robotique entre en phase industrielle avec vision temps réel.",
-      "why": "L'événement signale la maturité de l'IA au-delà du logiciel, impactant industries et gouvernance DSI.",
+      "title": "IA agentique anti-vols automobiles réduit les tentatives de 12-30% dans les véhicules connectés",
+      "summary": "Targa Telematics déploie une IA agentique analysant en temps réel les données des véhicules pour détecter comportements anormaux et déclencher actions autonomes contre le piratage électronique comme le mouse jacking. Neuf vols sur dix sont désormais électroniques, rendant obsolètes les méthodes physiques traditionnelles. Les systèmes IA ont baissé les vols de 12% en moyenne, jusqu'à 20-30% selon zones et modèles. Cette confrontation technologique oppose malfaiteurs high-tech à sécurités intelligentes proactives.",
+      "why": "Première application concrète d'IA agentique en sécurité automobile à grande échelle, démontrant un ROI immédiat et posant les bases pour d'autres secteurs critiques.",
       "category": "Application"
     },
     {
-      "title": "MWC 2026 : Google Cloud dévoile réseaux pilotés par agents IA autonomes",
-      "summary": "Au MWC 2026, Google Cloud présente la transition des réseaux 'assistés par IA' vers des réseaux pilotés par agents IA capables de détecter et résoudre anomalies en autonomie. Cela s'inscrit dans 15 leçons sur l'essor de l'IA dans télécoms, robotique et réseaux. Les opérateurs priorisent rentabilité via IA pour optimiser 5G et IoT, au détriment de l'écologie selon GSMA. Réseaux privés et IoT entreprise deviennent clés pour marges face au tassement grand public.",
-      "why": "Ces avancées autonomisent les infrastructures télécoms critiques, boostant efficacité mais posant enjeux environnementaux.",
+      "title": "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
+      "summary": "Mozilla a sorti Firefox 148 avec un panneau centralisé permettant de désactiver complètement ou gérer granulièrement les fonctionnalités IA du navigateur. Cette mise à jour corrige aussi des failles sandbox liées à l'IA. Attendue de longue date, elle répond aux préoccupations croissantes sur la protection des données face à l'intégration massive d'IA dans les browsers. Les utilisateurs gagnent un contrôle inédit sur les interactions IA.",
+      "why": "Première implémentation majeure d'un 'kill switch' IA dans un navigateur populaire, renforçant la souveraineté utilisateur et influençant les standards privacy.",
       "category": "Application"
     },
     {
-      "title": "CES 2026 : l'IA devient infrastructure invisible intégrée à l'économie",
-      "summary": "Au CES 2026, l'IA évolue de visible à infrastructure diffuse, intégrée au cœur économique via agents et IA physique. Elle orchestre complexité numérique pour performance industrielle et énergétique. Annonces de Lenovo, Nvidia soulignent simulations temps réel et robotique industrielle. Cela pose nouveaux défis de gouvernance pour DSI et transformation des cycles projets.",
-      "why": "Cette bascule invisible rend l'IA omniprésente dans l'économie, accélérant productivité mais nécessitant régulation.",
-      "category": "Recherche"
+      "title": "DataGalaxy présente Portfolio au Gartner Summit pour combler le 'AI velocity gap'",
+      "summary": "Au Gartner EMEA Data & Analytics Summit (9-11 mars 2026), DataGalaxy dévoile Portfolio, une solution pour accélérer l'adoption IA en palliant le décalage entre innovation et implémentation opérationnelle. Cet outil cible les entreprises luttant avec la vitesse d'intégration des modèles IA dans leurs stacks data. Il optimise la gouvernance et le déploiement pour maximiser le ROI des investissements IA. L'annonce coïncide avec des débats sur la maturité des infrastructures data pour l'ère agentique.",
+      "why": "Répond à un frein critique de l'adoption IA en entreprise, potentiellement accélérant la transformation digitale à l'échelle EMEA.",
+      "category": "Entreprise"
     }
   ],
   "updates": []
