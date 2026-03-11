@@ -1,11 +1,5 @@
 [
   {
-    "date": "06/03/2026",
-    "titles": [
-      "Bitcoin dépasse les 71 000 $ après un fort rebond"
-    ]
-  },
-  {
     "date": "07/03/2026",
     "titles": [
       "FMI met en garde contre un nouveau choc économique mondial dû au conflit au Moyen-Orient",
@@ -64,6 +58,17 @@
       "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
       "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
       "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "CPI américain de février : signal clé pour la trajectoire des taux de la Fed",
+      "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
+      "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
+      "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
+      "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
+      "Volkswagen annonce la suppression de 50 000 emplois après une année critique"
     ]
   }
 ]
