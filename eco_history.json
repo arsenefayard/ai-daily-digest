@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Les prix du pétrole atteignent leur plus haut niveau depuis 14 mois en raison du conflit au Moyen-Orient",
-      "Bitcoin dépasse les 71 000 $ après un fort rebond",
-      "États-Unis annoncent escorte militaire des pétroliers dans le détroit d'Ormuz",
-      "Hausse des prix des carburants en France due au blocage du détroit d'Ormuz",
-      "FMI révise à la hausse la croissance subsaharienne à 4,6% pour 2026"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Bitcoin dépasse les 71 000 $ après un fort rebond"
     ]
   },
@@ -64,6 +54,16 @@
       "Surprises positives des PMI malgré le contexte macroéconomique difficile",
       "Activation du mode 'Risk off' sur les marchés boursiers mondiaux",
       "Inflation en zone euro : accélération confirmée à 1,9% en février"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "CPI américain de février attendu comme signal clé pour la trajectoire des taux de la Fed",
+      "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
+      "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
+      "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
+      "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient"
     ]
   }
 ]
