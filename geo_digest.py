@@ -5,6 +5,7 @@ Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 
 import os
 import json
+import re
 import smtplib
 import requests
 from email.mime.text import MIMEText
@@ -135,7 +136,9 @@ Réponds UNIQUEMENT avec le JSON, rien d'autre."""
         response.raise_for_status()
         result = response.json()
         raw = result['choices'][0]['message']['content']
-        raw = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        raw = raw.strip()
+        raw = re.sub(r'^```(?:json)?\s*\n?', '', raw)
+        raw = re.sub(r'\n?```\s*$', '', raw).strip()
         data = json.loads(raw)
         print("✅ Résumés générés avec succès")
         return data

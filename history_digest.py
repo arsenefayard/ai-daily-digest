@@ -2,7 +2,7 @@
 Script de digest quotidien Histoire avec Perplexity API
 Génère un point historique (personnalité ou événement) avec dates clés et contexte.
 """
-import os, json, requests, base64
+import os, json, re, requests, base64
 from datetime import datetime
 
 def fetch_history(repo, headers):
@@ -134,7 +134,9 @@ RÈGLES :
         r = requests.post("https://api.perplexity.ai/chat/completions", json=payload,
             headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"})
         r.raise_for_status()
-        raw = r.json()['choices'][0]['message']['content'].strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        raw = r.json()['choices'][0]['message']['content'].strip()
+        raw = re.sub(r'^```(?:json)?\s*\n?', '', raw)
+        raw = re.sub(r'\n?```\s*$', '', raw).strip()
         data = json.loads(raw)
         print(f"✅ Point historique généré : {data['subject']['name']}")
         return data

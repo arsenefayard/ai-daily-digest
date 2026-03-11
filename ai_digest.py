@@ -5,6 +5,7 @@ Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 
 import os
 import json
+import re
 import smtplib
 import requests
 from email.mime.text import MIMEText
@@ -141,7 +142,9 @@ Réponds UNIQUEMENT avec le JSON, rien d'autre."""
 
         result = response.json()
         raw = result['choices'][0]['message']['content']
-        raw = raw.strip().lstrip("```json").lstrip("```").rstrip("```").strip()
+        raw = raw.strip()
+        raw = re.sub(r'^```(?:json)?\s*\n?', '', raw)
+        raw = re.sub(r'\n?```\s*$', '', raw).strip()
 
         data = json.loads(raw)
         print("✅ Résumés générés avec succès")
@@ -317,14 +320,6 @@ def main():
     pushed = push_to_github(data, history)
     if not pushed:
         print("⚠️  Données générées mais non publiées sur GitHub Pages")
-
-    # 5. Envoie l'email
-    repo_str  = os.environ.get('GITHUB_REPO', '')
-    username  = repo_str.split('/')[0] if '/' in repo_str else ''
-    reponame  = repo_str.split('/')[1] if '/' in repo_str else ''
-    page_url  = f"https://{username}.github.io/{reponame}/"
-    date_str  = data.get('date', datetime.now().strftime('%d/%m/%Y'))
-    send_email(date_str, page_url)
 
     print("\n✅ Processus terminé !")
 
