@@ -2,34 +2,34 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "La tapisserie de l'Apocalypse d'Angers : le plus grand ensemble médiéval conservé",
-      "summary": "La tapisserie de l'Apocalypse, conservée à la cathédrale d'Angers, est un chef-d'œuvre gothique du XIVe siècle mesurant 100 mètres de long et 5 mètres de haut, composée de 74 panneaux illustrant le Livre de l'Apocalypse de saint Jean. Commandée par Louis Ier d'Anjou, elle fut tissée par des artisans flamands sur une laine teinte avec des pigments naturels, représentant plus de 100 personnages en mouvement. Exposée en continu depuis sa création, elle a survécu à la Révolution française et aux guerres mondiales grâce à des restaurations minutieuses. Ce trésor textile offre un témoignage unique sur l'iconographie médiévale et la piété apocalyptique de l'époque.",
-      "why": "Elle incarne le summum de l'art textile médiéval et éclaire les croyances eschatologiques qui ont façonné l'Europe chrétienne.",
-      "category": "Histoire"
-    },
-    {
       "title": "Le paradoxe de l'hôtel de Hilbert en mathématiques",
-      "summary": "Le paradoxe de l'hôtel de Hilbert, imaginé par le mathématicien David Hilbert en 1924, illustre l'infini cardinal en supposant un hôtel infini de chambres toutes occupées : un nouvel arrivant peut être logé en décalant tous les clients d'une chambre, libérant la première. Si un bus infini d'arrivants surgit, on les place en chambres paires ou impaires ; pour un nombre infini de bus infinis, une fonction bijectionée sur les nombres premiers résout le problème. Ce paradoxe démontre que les infinis sont de tailles différentes, contredisant l'intuition finie. Il reste un outil pédagogique fondamental en théorie des ensembles.",
-      "why": "Il rend accessible la notion contre-intuitive d'infini en mathématiques, révolutionnant notre compréhension des ensembles infinis.",
+      "summary": "Le paradoxe de l'hôtel de Hilbert, imaginé par le mathématicien David Hilbert, illustre l'infini cardinal en comptable. Un hôtel infini de chambres, toutes occupées, peut accueillir un nouveau client en décalant chaque occupant d'une chambre vers la suivante, libérant la chambre 1. Pour une infinité de nouveaux arrivants, on utilise les chambres paires ou impaires. Ce paradoxe démontre que les infinis peuvent avoir des tailles différentes, comme l'ensemble des nombres naturels et des rationnels.",
+      "why": "Il rend accessible la théorie des ensembles et les cardinaux infinis, essentiels en mathématiques modernes.",
       "category": "Philosophie"
     },
     {
-      "title": "Le premier film de l'histoire : La Sortie de l'usine Lumière",
-      "summary": "Sorti le 22 mars 1895, 'La Sortie de l'usine Lumière à Lyon' des frères Lumière est considéré comme le premier film projeté publiquement, durant 46 secondes et montrant des ouvrières quittant l'usine. Tourné avec la cinématographe inventée par Louis Lumière, il capture le mouvement réel pour la première fois devant un public payant à Paris. Ce court-métrage muet marque la naissance du cinéma comme spectacle de masse, influençant tous les formats narratifs ultérieurs. Restauré numériquement, il est projeté mondialement comme icône du 7e art.",
-      "why": "Il pose les bases du cinéma moderne et symbolise le passage de la photographie à l'animation vivante.",
-      "category": "Cinéma"
-    },
-    {
       "title": "La plus grande fleur du monde : Rafflesia arnoldii",
-      "summary": "La Rafflesia arnoldii, découverte en 1818 en Indonésie, détient le record de la plus grande fleur individuelle avec un diamètre atteignant 1 mètre et un poids de 11 kg, émettant une odeur de chair putride pour attirer les mouches pollinisatrices. Parasite sans feuilles ni tiges, elle puise ses nutriments dans des vignes de Tetrastigma, fleurissant sporadiquement 1 à 2 fois par an. Menacée par la déforestation, moins de 10 espèces survivent dans les forêts de Bornéo et Sumatra. Ce prodige végétal défie les classifications botaniques classiques.",
-      "why": "Elle illustre les extrêmes de l'évolution végétale et alerte sur la fragilité des écosystèmes tropicaux.",
+      "summary": "La Rafflesia arnoldii, découverte en Indonésie par Sir Thomas Stamford Raffles en 1818, est la plus grande fleur individuelle du monde avec un diamètre atteignant 1 mètre et un poids jusqu'à 11 kg. Sans tige ni feuilles, elle est un parasite vivant sur des vignes de Tetrastigma, émettant une odeur de chair putride pour attirer les mouches pollinisatrices. Menacée par la déforestation, elle symbolise la fragilité des écosystèmes tropicaux. Sa floraison rare, d'environ 5 jours, en fait un spectacle éphémère.",
+      "why": "Ce record naturel révèle les adaptations extrêmes de la flore et alerte sur la biodiversité en péril.",
       "category": "Insolite"
     },
     {
+      "title": "Le premier film de l'histoire : La Sortie de l'usine Lumière",
+      "summary": "Sorti le 22 mars 1895, 'La Sortie de l'usine Lumière à Lyon' est considéré comme le premier film de l'histoire du cinéma, réalisé par Louis Lumière. Tourné en 46 secondes avec un Cinématographe, il montre des ouvriers sortant de l'usine des frères Lumière, capturant le mouvement réel pour la première fois. Projeté publiquement le 28 décembre 1895 à Paris, il marque la naissance du 7e art. Plusieurs versions existent, montrant l'évolution de la technique.",
+      "why": "Il pose les bases du cinéma moderne et illustre l'innovation technologique du XIXe siècle.",
+      "category": "Cinéma"
+    },
+    {
       "title": "L'effet Barnum en psychologie : l'illusion de la personnalisation",
-      "summary": "L'effet Barnum, nommé d'après le showman P.T. Barnum, décrit comment les gens acceptent des descriptions vagues et flatteuses comme précisément adaptées à leur personnalité, comme dans les horoscopes ou tests de personnalité. Décrit par le psychologue Bertram Forer en 1948 via une expérience où des étudiants notèrent haut des profils génériques, il repose sur la validation sélective et le besoin de se sentir unique. Utilisé en chiromancie et marketing, il explique la popularité des prédictions astrologiques. Cet effet met en garde contre la crédulité face aux généralités déguisées en spécifiques.",
-      "why": "Il révèle les mécanismes de la persuasion psychologique et aide à décrypter les arnaques pseudo-scientifiques quotidiennes.",
+      "summary": "L'effet Barnum, nommé d'après le célèbre showman P.T. Barnum, décrit comment les gens acceptent des descriptions vagues et générales comme précisément adaptées à leur personnalité. Utilisé dans les horoscopes, tests de personnalité ou cold reading, il repose sur la tendance humaine à ignorer les inexactitudes et à valoriser les concordances. Décrit par le psychologue Bertram Forer en 1948 via un test bidon, il explique la popularité des prédictions astrologiques. Cet effet met en lumière les biais cognitifs quotidiens.",
+      "why": "Il éclaire pourquoi les pseudosciences persistent et aide à développer un esprit critique.",
       "category": "Psychologie"
+    },
+    {
+      "title": "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
+      "summary": "Pavlopetri, située au large de l'île grecque de Laconia, est la plus ancienne ville submergée connue, datant de 5000 ans av. J.-C. (environ 3000 av. J.-C.), avec rues, bâtiments et tombes préservés sous 3-4 mètres d'eau. Découverte en 1967, explorée en 3D en 2009, elle comptait jusqu'à 2000 habitants et un système d'égouts avancé. Inondée par un tremblement de terre vers 1000 av. J.-C., elle offre un aperçu intact de l'urbanisme minoen. Les fouilles virtuelles révèlent son architecture sophistiquée.",
+      "why": "Elle témoigne des premières civilisations urbaines et des impacts sismiques sur l'histoire humaine.",
+      "category": "Histoire"
     }
   ],
   "updates": []
