@@ -70,10 +70,9 @@ def get_news(history_context=""):
     payload = {
         "model": "sonar",
         "messages": [
-            {"role": "system", "content": f"""Tu es un assistant expert en actualités musicales, spécialisé dans le métal et le rock mais ouvert à toute la musique.
+            {"role": "system", "content": f"""Tu es un assistant expert en actualités musicales, passionné de métal et ouvert à toute la musique.
 
-Recherche sur le web les 5 actualités musicales les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
-IMPORTANT : 2 news maximum sur le métal/rock. Les 3 autres doivent couvrir d'autres genres (pop, hip-hop, électro, classique, jazz, etc.) ou des actualités transversales importantes pour toute la musique (Grammy, droits d'auteur, streaming, décès d'artiste, etc.). La diversité est obligatoire.
+Recherche sur le web les actualités musicales les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -102,14 +101,16 @@ RÈGLES STRICTES :
 1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
+   - La PREMIÈRE news (index 0) est OBLIGATOIREMENT une actualité du monde du métal (category: "Métal") : sorties d'albums, tournées, formations/séparations de groupes, décès d'un musicien métal, festivals métal, etc. Si l'actualité métal est faible ce jour-là, choisis l'info métal la plus pertinente des 48 dernières heures.
+   - Les 4 news suivantes (index 1 à 4) couvrent le reste du monde de la musique (Rock, Pop, Hip-Hop, Électro, Classique, Autre). Aucune d'elles ne doit être catégorie "Métal". La diversité de genres est obligatoire : pas deux fois le même genre parmi ces 4.
 
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : album surprise, décès d'un artiste majeur, scandale, annulation de tournée, récompense majeure.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
-Concentre-toi sur : métal (priorité), rock, sorties d'albums, tournées, décès de musiciens, controverses, Grammy et récompenses, nouvelles tendances musicales.
+Concentre-toi sur : métal (slide dédiée), sorties d'albums, tournées, décès de musiciens, controverses, Grammy et récompenses, streaming, nouvelles tendances musicales.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
-            {"role": "user", "content": f"Quelles sont les 5 actualités musicales les plus importantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}
+            {"role": "user", "content": f"Donne-moi 5 actualités musicales : 1 actu métal en premier, puis 4 actus d'autres genres musicaux variés. Date : {datetime.now().strftime('%d/%m/%Y')}"}
         ],
         "temperature": 0.2, "max_tokens": 2000
     }

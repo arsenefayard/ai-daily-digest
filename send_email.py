@@ -20,13 +20,14 @@ def send_combined_email():
     date_str = datetime.now().strftime('%d/%m/%Y')
 
     digests = [
-        {"label": "IA",           "emoji": "🤖", "url": f"{base}/",             "accent": "#c8f064", "bg": "#0d1117"},
-        {"label": "Géopolitique", "emoji": "🌍", "url": f"{base}/geo.html",     "accent": "#60c8f0", "bg": "#080d11"},
-        {"label": "Économie",     "emoji": "💰", "url": f"{base}/eco.html",     "accent": "#f59e0b", "bg": "#0d0a00"},
-        {"label": "Sport",        "emoji": "⚽", "url": f"{base}/sport.html",   "accent": "#f87171", "bg": "#0d0606"},
-        {"label": "Musique",      "emoji": "🎸", "url": f"{base}/music.html",   "accent": "#a78bfa", "bg": "#08060d"},
-        {"label": "Science",      "emoji": "🔬", "url": f"{base}/science.html", "accent": "#34d399", "bg": "#040d09"},
-        {"label": "Culture",      "emoji": "🎲", "url": f"{base}/culture.html", "accent": "#f472b6", "bg": "#0d0609"},
+        {"label": "IA",           "emoji": "🤖", "url": f"{base}/",                "accent": "#c8f064", "bg": "#0d1117"},
+        {"label": "Géopolitique", "emoji": "🌍", "url": f"{base}/geo.html",        "accent": "#60c8f0", "bg": "#080d11"},
+        {"label": "Économie",     "emoji": "💰", "url": f"{base}/eco.html",        "accent": "#f59e0b", "bg": "#0d0a00"},
+        {"label": "Sport",        "emoji": "⚽", "url": f"{base}/sport.html",      "accent": "#f87171", "bg": "#0d0606"},
+        {"label": "Musique",      "emoji": "🎸", "url": f"{base}/music.html",      "accent": "#a78bfa", "bg": "#08060d"},
+        {"label": "Science",      "emoji": "🔬", "url": f"{base}/science.html",    "accent": "#34d399", "bg": "#040d09"},
+        {"label": "Culture",      "emoji": "🎲", "url": f"{base}/culture.html",    "accent": "#f472b6", "bg": "#0d0609"},
+        {"label": "Histoire",     "emoji": "📜", "url": f"{base}/history.html",    "accent": "#e8b86d", "bg": "#0d0900"},
     ]
 
     # Build 2-column grid
@@ -50,7 +51,7 @@ def send_combined_email():
 
     html = f"""
     <html><head><meta charset="UTF-8"></head>
-    <body style="font-family:Georgia,serif;background:#0a0a0a;margin:0;padding:30px 16px;">
+    <body style="font-family:Georgia,serif;background:#000000;margin:0;padding:30px 16px;">
       <div style="max-width:480px;margin:0 auto;">
         <p style="color:#555;font-size:11px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px;text-align:center;font-family:monospace;">Daily Digest</p>
         <p style="color:#333;font-size:11px;text-align:center;margin:0 0 24px;font-family:monospace;">{date_str}</p>
