@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Festival Écrans Mixtes célèbre le cinéma queer à Lyon",
-      "Exposition sur les momies au musée de l’Homme",
-      "Marcoville expose des sculptures en verre recyclé à Marseille",
-      "Ematsuri : festival gratuit de culture japonaise en Val d'Oise",
-      "Urban Art Fair : Oli de Bigflo & Oli inaugure un espace dédié"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "La découverte de la structure de l'ADN par Watson et Crick",
       "Le paradoxe de Zénon d'Élée sur Achille et la tortue",
       "Le Minotaure, monstre mi-homme mi-taureau de la mythologie grecque",
@@ -67,6 +57,16 @@
       "L'effet Stroop : le cerveau piégé par des mots colorés",
       "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
       "Le Golem de Prague : légende juive d'un colosse d'argile animé"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "La tapisserie de l'Apocalypse d'Angers : le plus grand ensemble médiéval conservé",
+      "Le paradoxe de l'hôtel de Hilbert en mathématiques",
+      "Le premier film de l'histoire : La Sortie de l'usine Lumière",
+      "La plus grande fleur du monde : Rafflesia arnoldii",
+      "L'effet Barnum en psychologie : l'illusion de la personnalisation"
     ]
   }
 ]
