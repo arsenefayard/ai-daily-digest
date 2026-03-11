@@ -1,36 +1,5 @@
 {
   "date": "11/03/2026",
-  "news": [
-    {
-      "title": "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
-      "summary": "Le rover Perseverance a prélevé en juillet 2024 l'échantillon rocheux Sapphire Canyon du site Cheyava Falls dans le cratère Jezero, contenant vivianite, greigite, carbone organique, soufre, phosphore et fer oxydé, associés sur Terre à des processus microbiens. Des structures visuelles comme des taches sombres et anneaux renforcent l'hypothèse de réactions chimiques post-sédimentation à basse température avec gradients redox. L'étude publiée dans Nature suggère des conditions favorables à des métabolismes anciens. Une analyse terrestre via Mars Sample Return est nécessaire pour confirmation, malgré défis budgétaires.",
-      "why": "Cette découverte potentielle de biosignatures sur Mars pourrait révolutionner notre compréhension de la vie extraterrestre et relancer les financements pour le retour d'échantillons.",
-      "category": "Espace"
-    },
-    {
-      "title": "Détection d'éclairs sur Mars expliquant variations de méthane et chimie organique",
-      "summary": "La NASA a enregistré des éclairs martiens omniprésents qui altèrent profondément la chimie organique de surface et pourraient détruire le méthane, expliquant les détections au sol par Curiosity mais non en orbite par les orbiteurs. Ce phénomène électrique dans l'air sec impacte notre connaissance de l'atmosphère martienne. Il fournit un mécanisme naturel pour les variations saisonnières de méthane, ravivant le débat géologique vs biologique. Les implications concernent aussi l'analyse des biosignatures futures.",
-      "why": "Cela résout un paradoxe observationnel clé sur Mars et modifie les modèles atmosphériques, essentiels pour les futures missions habitées.",
-      "category": "Espace"
-    },
-    {
-      "title": "Magmas terrestres bien plus riches en CO₂ qu'attendu, révélant nouveaux processus volcaniques",
-      "summary": "Une étude du 7 mars 2026 montre que les magmas contiennent des niveaux de CO₂ inattendus, suggérant des mécanismes de dégazage et de stockage gazeux sous-estimés. Cela implique une réévaluation des cycles du carbone terrestre et des bilans climatiques historiques. Les analyses spectroscopiques indiquent des réservoirs profonds plus dynamiques. Les conclusions affectent les modèles de volcanisme et de régulation atmosphérique.",
-      "why": "Redéfinit les cycles géochimiques du CO₂, avec implications directes pour les prévisions climatiques et l'histoire de la vie sur Terre.",
-      "category": "Vie et Terre"
-    },
-    {
-      "title": "Cartographie précise des trous noirs supermassifs proches de la fusion",
-      "summary": "Une nouvelle cartographie publiée le 7 mars 2026 identifie et localise des trous noirs supermassifs en phase de fusion imminente dans les galaxies proches. Utilisant des observations télescopiques avancées, elle révèle des dynamiques gravitationnelles extrêmes et des émissions électromagnétiques uniques. Cela permet de tester les théories de la relativité générale en environnement extrême. Les données enrichissent les modèles de coévolution galaxies-trous noirs.",
-      "why": "Offre des insights cruciaux sur les fusions de trous noirs, observables par LIGO/Virgo, et les processus d'assemblage cosmique.",
-      "category": "Physique"
-    },
-    {
-      "title": "Prochain objet interstellaire pourrait être un trou noir traversant le Système solaire",
-      "summary": "Une analyse astrophysique du 7 mars 2026 prédit que le prochain visiteur interstellaire sera potentiellement un trou noir primordial de faible masse. Basée sur des modèles de trajectoires et détections passées comme 'Oumuamua, elle évalue les risques et signatures observationnelles. Les simulations indiquent des perturbations orbitales détectables. Cela prépare les télescopes à une chasse unique.",
-      "why": "Première prédiction d'un trou noir interstellaire, transformant notre surveillance du Système solaire et les théories sur les objets primordiaux.",
-      "category": "Espace"
-    }
-  ],
+  "news": [],
   "updates": []
 }
