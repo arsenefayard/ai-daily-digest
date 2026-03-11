@@ -1,15 +1,5 @@
 [
   {
-    "date": "06/03/2026",
-    "titles": [
-      "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US",
-      "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "Étude BCE : l'IA booste les embauches en R&D sans pertes massives d'emplois"
-    ]
-  },
-  {
     "date": "07/03/2026",
     "titles": [
       "Israël lance offensive terrestre au sud Liban avec soutien IA dans frappes",
@@ -69,6 +59,16 @@
       "MWC 2026 : l'IA devient le cœur de l'expérience mobile avec nouvelles fonctionnalités intégrées",
       "Marché de l'assurance français s'organise face aux risques IA et au phénomène de « Silent IA »",
       "Claude Cowork d'Anthropic provoque une panique boursière de 285 milliards de dollars"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Claude Cowork d'Anthropic provoque une panique boursière avec 285 milliards de dollars évaporés",
+      "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
+      "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
+      "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
+      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes"
     ]
   }
 ]
