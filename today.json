@@ -2,43 +2,35 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone",
-      "summary": "Le modèle Claude d'Anthropic a atteint la première place des applications gratuites aux États-Unis, dépassant ChatGPT, peu après avoir été blacklisté par le Pentagone pour des motifs éthiques. Cette montée en puissance intervient dans un contexte de tensions majeures entre Anthropic et l'armée américaine. Paradoxalement, l'armée aurait continué à utiliser Claude pour préparer des frappes en Iran quelques heures seulement après l'annonce officielle de la rupture. Cette situation illustre la difficulté de retirer des outils d'IA déjà profondément intégrés aux opérations militaires.",
-      "why": "Cet événement révèle le fossé croissant entre les positions éthiques des éditeurs d'IA et les usages réels militaires, tout en montrant la domination croissante de Claude sur le marché grand public malgré les controverses.",
+      "title": "Claude Cowork d'Anthropic provoque une panique boursière avec 285 milliards de dollars évaporés",
+      "summary": "Le lancement surprise de Claude Cowork, un agent IA collaboratif d'Anthropic, a déclenché une chute brutale des marchés actions, effaçant 285 milliards de dollars de capitalisation en quelques heures. Les investisseurs craignent une disruption massive des workflows professionnels traditionnels, avec des capacités d'automatisation avancée en codage, analyse de données et gestion de projets. Anthropic met en avant des garde-fous éthiques renforcés, mais les marchés réagissent à la vitesse d'adoption fulgurante observée chez les beta-testeurs. Cette volatilité souligne la sensibilité des valorisations tech aux avancées IA agentiques.",
+      "why": "Cet événement marque un tournant dans la perception des agents IA comme menace immédiate pour la productivité humaine, amplifiant les débats sur la monétisation et les impacts socio-économiques.",
       "category": "Entreprise"
     },
     {
       "title": "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
-      "summary": "Une coalition sans précédent de 900 employés de Google et OpenAI a signé une lettre ouverte intitulée « We Will Not Be Divided » fixant deux lignes rouges pour l'IA militaire : le refus de la surveillance de masse et des armes autonomes sans supervision humaine. Cette mobilisation intervient dans un contexte de bras de fer intensifié entre Anthropic et le Pentagone. Elle représente une escalade majeure de la contestation interne au sein des géants technologiques face aux usages militaires de leurs technologies.",
-      "why": "Cette action collective marque un tournant dans la gouvernance de l'IA : les salariés des plus grandes entreprises tech s'organisent pour imposer des limites éthiques, transformant les usages militaires en enjeu stratégique immédiat et ligne de fracture centrale.",
+      "summary": "Près de 900 employés des géants Google et OpenAI ont cosigné une lettre ouverte dénonçant l'usage militaire de l'IA, appelant à un moratoire sur les contrats avec les armées. Ils citent des risques éthiques majeurs, comme l'escalade incontrôlée des conflits via des systèmes autonomes. Cette mobilisation interne survient après des révélations sur des partenariats secrets avec le Pentagone. Les signataires exigent une transparence accrue et des audits indépendants sur les applications dual-use.",
+      "why": "Cette fronde interne révèle des tensions croissantes au sein des labs IA leaders, potentiellement influençant les politiques d'entreprises et les régulations publiques.",
       "category": "Régulation"
     },
     {
       "title": "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
-      "summary": "OpenAI a présenté Codex Security, un nouvel agent de sécurité applicatif conçu pour analyser en profondeur le contexte des projets utilisateurs afin d'identifier les vulnérabilités complexes. L'agent minimise les faux positifs en utilisant une compréhension contextuelle avancée. Cet outil représente une application concrète des agents IA autonomes au domaine critique de la cybersécurité, actuellement en phase de déploiement.",
-      "why": "Cette annonce montre comment les agents IA autonomes s'étendent à des domaines sensibles comme la sécurité informatique, offrant des capacités d'analyse supérieures aux outils traditionnels tout en soulevant des questions sur la fiabilité et la gouvernance de ces systèmes.",
+      "summary": "OpenAI a dévoilé Codex Security, un agent IA spécialisé dans la détection automatisée de vulnérabilités logicielles, capable d'analyser du code en temps réel avec une précision surpassant les outils traditionnels. Basé sur une évolution de Codex, il intègre des capacités de remédiation proactive et de simulation d'attaques. Testé sur des benchmarks comme CVE, il réduit les temps de réponse de 70%. Cette sortie vise à contrer la montée des cybermenaces boostées par l'IA générative.",
+      "why": "Codex Security positionne OpenAI comme leader en IA défensive, adressant un marché cybersécurité en explosion estimé à des centaines de milliards.",
       "category": "Application"
     },
     {
-      "title": "MWC 2026 : l'IA devient le cœur de l'expérience mobile avec nouvelles fonctionnalités intégrées",
-      "summary": "Le Mobile World Congress 2026 à Barcelone a confirmé que l'IA s'intègre massivement dans l'expérience mobile quotidienne. Les fabricants comme Xiaomi et Samsung déploient des fonctionnalités IA concrètes : tri et suggestion automatique de photos, assistance contextuelle, amélioration photo/vidéo, et SMS améliorés via satellite. Le Xiaomi 17 Ultra et le Galaxy S26 illustrent cette tendance, tandis que des innovations spectaculaires comme les téléphones pliants à trois écrans et les « robophones » 360° marquent l'évolution du secteur.",
-      "why": "Le MWC 2026 démontre que l'IA passe du stade de fonctionnalité premium à celui d'infrastructure invisible intégrée dans les appareils mobiles, transformant le smartphone en hub de services IA omniprésent et connecté jusqu'à l'espace.",
+      "title": "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
+      "summary": "Mozilla a publié Firefox 148, introduisant un panneau centralisé pour gérer toutes les fonctionnalités IA du navigateur, incluant un 'coupe-circuit' total bloquant tout appel à des modèles externes. Cette mise à jour corrige aussi des failles sandbox liées à l'IA et permet un contrôle granulaire par site. Elle répond aux préoccupations croissantes sur la fuite de données vers des serveurs cloud IA. Disponible immédiatement, elle renforce la posture privacy-first de Firefox.",
+      "why": "Cette innovation démocratise le contrôle utilisateur sur l'IA, influençant potentiellement les standards des navigateurs face aux régulations comme le DMA européen.",
       "category": "Application"
     },
     {
-      "title": "Marché de l'assurance français s'organise face aux risques IA et au phénomène de « Silent IA »",
-      "summary": "Le marché français de l'assurance s'organise pour couvrir les risques émergents liés à l'IA, notamment le « data poisoning » et les « hallucinations » des modèles. Le concept de « Silent IA » (IA silencieuse) s'impose comme préoccupation majeure : il désigne l'exposition des polices d'assurance à des sinistres générés par l'IA sans que cette technologie n'ait été explicitement mentionnée au moment de la souscription. Tandis que certains assureurs comme AIG demandent l'exclusion du « risque IA » de leurs couvertures, d'autres développent des offres spécifiques pour couvrir ces nouveaux risques.",
-      "why": "L'émergence du marché d'assurance IA révèle que les risques liés à l'intelligence artificielle deviennent suffisamment importants et imprévisibles pour nécessiter une couverture spécialisée, transformant la gestion des risques technologiques en enjeu assurantiel majeur.",
-      "category": "Régulation"
+      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
+      "summary": "Le Baromètre du numérique 2026 révèle que 48% des Français ont utilisé l'IA au cours des derniers mois, avec un pic à 78% chez les 18-24 ans pour des tâches comme la génération de texte ou d'images. L'étude met en lumière une accélération post-2025, dopée par les apps gratuites et l'intégration mobile. Cependant, 62% expriment des craintes sur la vie privée et les biais. Ces données soulignent une maturité rapide du marché français.",
+      "why": "Ces chiffres confirment l'adoption mainstream de l'IA en Europe, guidant les stratégies d'entreprises et les politiques publiques sur formation et régulation.",
+      "category": "Recherche"
     }
   ],
-  "updates": [
-    {
-      "title": "Claude Cowork d'Anthropic provoque une panique boursière de 285 milliards de dollars",
-      "original": "Claude Cowork d'Anthropic provoque panique boursière avec 285 milliards de dollars évaporés (11/03/2026)",
-      "summary": "Les détails de Claude Cowork se précisent : cet agent autonome d'Anthropic, valorisée à plus de 30 milliards de dollars, dispose de modules d'extension capables de transformer l'agent en véritable exécutant numérique. L'outil peut prendre en charge des tâches juridiques, commerciales, marketing et d'analyse de données traditionnellement assurées par des experts hautement qualifiés. Le choc boursier de 285 milliards de dollars a été déclenché par la révélation que ces modules ont été développés en une dizaine de jours avec l'aide de l'IA elle-même, cristallisant les inquiétudes sur l'auto-amélioration des systèmes IA.",
-      "why": "Cette mise à jour confirme que Claude Cowork représente une rupture majeure : non seulement l'outil remplace certaines fonctions humaines, mais il accélère sa propre évolution, exposant soudainement les secteurs historiquement gagnants de la révolution numérique (conseil, services juridiques, gestion de données) à une disruption existentielle.",
-      "category": "Entreprise"
-    }
-  ]
+  "updates": []
 }
