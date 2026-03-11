@@ -1,35 +1,35 @@
 {
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "news": [
     {
-      "title": "Raids israéliens au Liban : 95 000 déplacés contraints de fuir",
-      "summary": "Israël a multiplié ses frappes aériennes et terrestres au Liban, provoquant la fuite de 95 000 personnes supplémentaires vers des zones sécurisées. Ces opérations visent les infrastructures du Hezbollah, accusé de préparer des attaques contre Israël. L'ONU intensifie ses efforts humanitaires face à la crise des déplacés qui atteint des records. Cette escalade risque de déstabiliser davantage le Liban et d'impliquer d'autres acteurs régionaux comme la Syrie.",
-      "why": "L'afflux massif de déplacés aggrave la crise humanitaire et pourrait entraîner une intervention internationale accrue, modifiant les équilibres au Moyen-Orient.",
+      "title": "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
+      "summary": "Donald Trump déclare que la guerre en Iran est 'quasiment finie', mais Israël annonce immédiatement une nouvelle offensive massive contre Téhéran au dixième jour du conflit. Les frappes visent les installations restantes du régime iranien, tandis que le détroit d'Ormuz reste bloqué, exacerbant la crise énergétique mondiale. Cette escalade contredit les affirmations américaines et risque de prolonger les hostilités au Moyen-Orient. Les implications incluent une possible intervention accrue des alliés régionaux et une déstabilisation durable de la région.",
+      "why": "Cette contradiction entre alliés majeurs met en lumière les divergences stratégiques USA-Israël et menace une prolongation du conflit avec impacts économiques globaux.",
       "category": "Conflit"
     },
     {
-      "title": "Attaque de drone iranien perturbe l'aéroport de Dubaï et suspend les vols",
-      "summary": "Un drone iranien a attaqué des cibles près de Dubaï, forçant la suspension des vols à l'aéroport international et obligeant un journaliste d'Euronews à se réfugier sur place. Cet incident s'inscrit dans la riposte iranienne aux bombardements israéliens sur Téhéran. Les Émirats arabes unis et d'autres pays du Golfe renforcent leur vigilance aérienne. Cela illustre la propagation des hostilités au-delà des zones traditionnelles de conflit.",
-      "why": "La perturbation des hubs aériens majeurs menace le commerce régional et pourrait impliquer les monarchies du Golfe dans le conflit Iran-Israël.",
+      "title": "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
+      "summary": "L'ONG a géolocalisé sept images prouvant l'usage de phosphore blanc sur des zones habitées dans le sud-Liban lors de l'offensive contre le Hezbollah. Cette arme controversée cause des brûlures graves et est prohibée dans les zones civiles par le droit international. Les bombardements intensifs ont déjà déplacé des dizaines de milliers de personnes et risquent de restaurer le soutien populaire au Hezbollah. Cela pourrait entraîner des enquêtes internationales et des pressions diplomatiques sur Israël.",
+      "why": "L'accusation d'usage d'armes illégales amplifie les tensions humanitaires et pourrait isoler Israël sur la scène internationale.",
       "category": "Conflit"
     },
     {
-      "title": "Explosions à Téhéran : Washington avertit du 'plus grand bombardement' imminent",
-      "summary": "De nouvelles explosions ont secoué Téhéran, avec les États-Unis avertissant d'un bombardement massif à venir contre les capacités militaires iraniennes. Israël étend ses opérations pour neutraliser les menaces balistiques et nucléaires potentielles. L'Iran dénonce une agression coordonnée américano-israélienne. Cette escalade militaire directe entre grandes puissances proxies risque une guerre régionale ouverte.",
-      "why": "Un bombardement d'ampleur pourrait décimer les forces iraniennes et accélérer un changement de régime, redessinant les alliances au Moyen-Orient.",
-      "category": "Conflit"
+      "title": "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
+      "summary": "Depuis Chypre, Emmanuel Macron annonce l'envoi de huit frégates, deux porte-hélicoptères amphibies et du porte-avions Charles de Gaulle pour protéger le détroit bloqué par l'Iran. La France maintient un rôle 'préventif' et non agressif, après des consultations avec les acteurs régionaux incluant l'Iran. Cela renforce la présence européenne face aux drones iraniens visant Chypre et le Golfe. Les enjeux portent sur la sécurisation de 20% des exportations mondiales de pétrole et gaz.",
+      "why": "Ce déploiement marque une affirmation européenne dans la crise, potentiellement contrebalançant l'influence US et russe sur l'énergie mondiale.",
+      "category": "Sécurité"
     },
     {
-      "title": "Trump rencontre Xi Jinping pour discuter commerce et sécurité régionale",
-      "summary": "Le président américain Donald Trump a tenu des discussions avec Xi Jinping sur le commerce bilatéral et la sécurité en Asie-Pacifique. Malgré la rivalité stratégique, les deux leaders soulignent la nécessité d'une coopération minimale pour éviter une escalade. Pékin exprime des réserves sur les sanctions américaines mais accepte un dialogue continu. Cette rencontre intervient dans un contexte de tensions mondiales accrue.",
-      "why": "Ce sommet bilatéral pourrait atténuer les frictions sino-américaines et influencer la stabilité économique mondiale face aux crises énergétiques.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Ursula von der Leyen au Groenland pour partenariats énergétiques et climatiques",
-      "summary": "La présidente de la Commission européenne s'est rendue au Groenland pour renforcer les liens en matière d'énergie verte et de lutte climatique. L'Arctique émerge comme un nouveau théâtre géopolitique mêlant ressources minières, routes maritimes et fonte des glaces. Cette visite vise à contrer l'influence russe et chinoise dans la région. L'UE cherche à sécuriser ses approvisionnements face aux disruptions mondiales.",
-      "why": "La compétition arctique redéfinit les enjeux énergétiques et stratégiques, avec des implications pour la sécurité européenne à long terme.",
+      "title": "Prix du pétrole dépasse 115 dollars le baril, gaz européen bondit de 30% à cause de la guerre en Iran",
+      "summary": "La guerre bloque le détroit d'Ormuz, faisant grimper le pétrole au-delà de 115 dollars et le gaz européen de 30%, niveaux inédits depuis 2022. Les frappes sur les installations pétrolières iraniennes aggravent les craintes de perturbation prolongée des approvisionnements. La France voit ses prix à la pompe s'envoler sans nouvelles aides immédiates, tandis que la Russie profite de la hausse. Cela menace une crise économique mondiale avec inflation et récession potentielle.",
+      "why": "L'explosion des prix énergétiques affecte l'économie globale, profitant à la Russie et forçant des réalignements stratégiques sur l'énergie.",
       "category": "Énergie"
+    },
+    {
+      "title": "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
+      "summary": "Au dixième jour du conflit, malgré la baisse des tirs iraniens, Mojtaba Khamenei est choisi pour remplacer son père Ali, signalant une continuité du régime des mollahs. Téhéran fait face à des bombardements constants et une répression interne accrue, mais refuse de capituler. Trump exige l'approbation US pour tout nouveau leader, sous peine de non-durabilité. Cela pourrait influencer la résistance iranienne et les négociations futures.",
+      "why": "Cette succession interne renforce la résilience du régime et complique les appels US à un changement de pouvoir.",
+      "category": "Conflit"
     }
   ],
   "updates": []
