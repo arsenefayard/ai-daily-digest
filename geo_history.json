@@ -2,13 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Fermeture du détroit d'Ormuz par l'Iran",
-      "Trump déclare les capacités balistiques iraniennes décimées et appelle à un changement de régime"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Israël poursuit ses bombardements sur Téhéran et étend ses opérations au Liban",
       "Donald Trump impose un blocus commercial sur l'Espagne pour refus d'accès aux bases militaires",
       "Emmanuel Macron annonce une 'dissuasion nucléaire avancée' avec huit pays européens",
@@ -65,6 +58,17 @@
       "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
       "Prix du pétrole dépasse 115 dollars le baril, gaz européen bondit de 30% à cause de la guerre en Iran",
       "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
+      "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
+      "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30% à cause de la guerre en Iran",
+      "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
+      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
+      "Escalade militaire continue malgré les déclarations de fin de guerre de Trump"
     ]
   }
 ]
