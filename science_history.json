@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "Détection de silice cristallisée et minéraux réox sensibles sur Mars par le rover",
-      "Comète interstellaire 3I/Atlas éjecte des substances organiques volatiles",
-      "Lien direct découvert entre perte auditive et déclin cognitif",
-      "Micrécharges électrostatiques confirmées sur Mars dues à grains minéraux chargés",
-      "Découverte de ribose, glucose et acides aminés dans échantillons de l'astéroïde Bennu"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "MIT démontre le rôle des inflammations de bas grade dans les maladies cardiovasculaires et neurodégénératives",
       "Sommeil profond : système de nettoyage cérébral 10 fois plus actif contre Alzheimer confirmé",
       "Modèles prédictifs MIT-Harvard pour risques cardiovasculaires et neurodégénératifs à partir de données intégrées",
@@ -62,5 +52,9 @@
       "Cartographie précise des trous noirs supermassifs proches de la fusion",
       "Prochain objet interstellaire pourrait être un trou noir traversant le Système solaire"
     ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": []
   }
 ]
