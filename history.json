@@ -2,16 +2,6 @@
   {
     "date": "06/03/2026",
     "titles": [
-      "MWC Barcelone met l'accent sur robots humanoïdes et IA 5G pour usages concrets",
-      "Burger King teste un assistant vocal IA pour surveiller les employés en temps réel",
-      "Palantir déploie Maven, logiciel IA révolutionnant les frappes militaires US en Iran",
-      "Sommet de New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "Synthèse des avancées clés en intelligence artificielle au 5 mars 2026"
-    ]
-  },
-  {
-    "date": "06/03/2026",
-    "titles": [
       "Pirates exploitent DeepSeek et Claude pour attaques mondiales sur pare-feu FortiGate",
       "OpenAI signe nouveau contrat avec la Défense US après échec Anthropic-Pentagone",
       "Géants IA promettent à Trump de compenser la hausse de consommation électrique des data centers",
@@ -68,6 +58,16 @@
       "CES 2026 met l'accent sur l'IA physique et les super-agents pour transformation industrielle",
       "MWC 2026 : Google Cloud dévoile réseaux pilotés par agents IA autonomes",
       "CES 2026 : l'IA devient infrastructure invisible intégrée à l'économie"
+    ]
+  },
+  {
+    "date": "11/03/2026",
+    "titles": [
+      "Claude Cowork d'Anthropic provoque panique boursière avec 285 milliards de dollars évaporés",
+      "UBS prévoit 571 milliards € de dépenses IA en 2026, propulseur des marchés actions",
+      "IA agentique anti-vols automobiles réduit les tentatives de 12-30% dans les véhicules connectés",
+      "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
+      "DataGalaxy présente Portfolio au Gartner Summit pour combler le 'AI velocity gap'"
     ]
   }
 ]
