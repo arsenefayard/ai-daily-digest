@@ -3,34 +3,42 @@
   "news": [
     {
       "title": "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
-      "summary": "Donald Trump déclare que la guerre en Iran est 'quasiment finie', mais Israël annonce immédiatement une nouvelle offensive massive contre Téhéran au dixième jour du conflit. Les frappes visent les installations restantes du régime iranien, tandis que le détroit d'Ormuz reste bloqué, exacerbant la crise énergétique mondiale. Cette escalade contredit les affirmations américaines et risque de prolonger les hostilités au Moyen-Orient. Les implications incluent une possible intervention accrue des alliés régionaux et une déstabilisation durable de la région.",
-      "why": "Cette contradiction entre alliés majeurs met en lumière les divergences stratégiques USA-Israël et menace une prolongation du conflit avec impacts économiques globaux.",
+      "summary": "Alors que Donald Trump affirme que la guerre en Iran est « quasiment » terminée, Israël annonce une nouvelle vague de bombardements de grande ampleur contre l'Iran. Cette contradiction révèle des divergences stratégiques entre Washington et Tel-Aviv sur la conduite de la guerre. Au dixième jour du conflit, les frappes israéliennes et américaines continuent de cibler les installations pétrolières iraniennes et les dépôts de carburant à Téhéran. Cette escalade militaire contraste fortement avec les appels à la désescalade de l'administration Trump.",
+      "why": "Cette annonce marque une divergence majeure entre les alliés américain et israélien et signale une prolongation du conflit malgré les déclarations de fin imminente, avec des implications majeures pour la stabilité régionale et les prix de l'énergie mondiale.",
       "category": "Conflit"
     },
     {
       "title": "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
-      "summary": "L'ONG a géolocalisé sept images prouvant l'usage de phosphore blanc sur des zones habitées dans le sud-Liban lors de l'offensive contre le Hezbollah. Cette arme controversée cause des brûlures graves et est prohibée dans les zones civiles par le droit international. Les bombardements intensifs ont déjà déplacé des dizaines de milliers de personnes et risquent de restaurer le soutien populaire au Hezbollah. Cela pourrait entraîner des enquêtes internationales et des pressions diplomatiques sur Israël.",
-      "why": "L'accusation d'usage d'armes illégales amplifie les tensions humanitaires et pourrait isoler Israël sur la scène internationale.",
+      "summary": "L'ONG Human Rights Watch a vérifié et géolocalisé sept images montrant des munitions au phosphore blanc utilisées par Israël sur des zones habitées dans le sud du Liban, juste après le début de l'offensive contre le Hezbollah. Cette accusation intervient alors qu'Israël intensifie ses bombardements au Liban avec des objectifs de destruction du Hezbollah. L'utilisation de phosphore blanc sur des zones civiles constituerait une violation du droit international humanitaire. Cette documentation renforce les critiques internationales contre les méthodes de guerre israéliennes.",
+      "why": "Cette accusation de crimes de guerre potentiels pourrait compliquer la position diplomatique d'Israël et alimenter les tensions avec les organisations internationales de défense des droits humains, tout en risquant d'intensifier les critiques contre les opérations militaires israéliennes.",
       "category": "Conflit"
     },
     {
-      "title": "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
-      "summary": "Depuis Chypre, Emmanuel Macron annonce l'envoi de huit frégates, deux porte-hélicoptères amphibies et du porte-avions Charles de Gaulle pour protéger le détroit bloqué par l'Iran. La France maintient un rôle 'préventif' et non agressif, après des consultations avec les acteurs régionaux incluant l'Iran. Cela renforce la présence européenne face aux drones iraniens visant Chypre et le Golfe. Les enjeux portent sur la sécurisation de 20% des exportations mondiales de pétrole et gaz.",
-      "why": "Ce déploiement marque une affirmation européenne dans la crise, potentiellement contrebalançant l'influence US et russe sur l'énergie mondiale.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "Prix du pétrole dépasse 115 dollars le baril, gaz européen bondit de 30% à cause de la guerre en Iran",
-      "summary": "La guerre bloque le détroit d'Ormuz, faisant grimper le pétrole au-delà de 115 dollars et le gaz européen de 30%, niveaux inédits depuis 2022. Les frappes sur les installations pétrolières iraniennes aggravent les craintes de perturbation prolongée des approvisionnements. La France voit ses prix à la pompe s'envoler sans nouvelles aides immédiates, tandis que la Russie profite de la hausse. Cela menace une crise économique mondiale avec inflation et récession potentielle.",
-      "why": "L'explosion des prix énergétiques affecte l'économie globale, profitant à la Russie et forçant des réalignements stratégiques sur l'énergie.",
+      "title": "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30% à cause de la guerre en Iran",
+      "summary": "Le prix du baril de pétrole a dépassé les 115 dollars et le gaz européen a bondi d'environ 30% le 9 mars 2026, conséquence directe de la fermeture du détroit d'Ormuz et des frappes sur les installations pétrolières iraniennes. Les ministres des Finances du G7 se sont réunis sous présidence française pour envisager un recours aux réserves stratégiques de pétrole afin d'atténuer la flambée des prix. En France, le gouvernement a annoncé un plan exceptionnel de 500 contrôles dans les stations-service pour lutter contre les « hausses abusives des prix à la pompe ». Cette crise énergétique menace de déclencher une crise économique mondiale.",
+      "why": "L'envolée des prix de l'énergie représente une menace majeure pour l'économie mondiale et pourrait déclencher une récession, affectant directement le pouvoir d'achat des citoyens et la compétitivité des économies européennes.",
       "category": "Énergie"
     },
     {
+      "title": "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
+      "summary": "Emmanuel Macron a annoncé depuis Chypre le déploiement de « huit frégates, deux porte-hélicoptères amphibies » et du porte-avion « Charles-de-Gaulle » pour contribuer à la sécurité du détroit d'Ormuz. Cette annonce intervient après que le détroit a été bloqué par l'Iran et que Chypre, membre de l'Union européenne, a été ciblée par des drones et missiles iraniens. Macron a déclaré que « quand on attaque Chypre, on attaque l'Europe », marquant une solidarité européenne face à l'escalade régionale. Le président français a également assuré que la France ne participait pas directement au conflit mais estimait que « ce conflit va durer ».",
+      "why": "Ce déploiement naval massif représente l'engagement militaire européen le plus significatif dans la crise et vise à protéger les routes commerciales vitales, affirmant l'autonomie stratégique de l'Europe face aux tensions régionales.",
+      "category": "Sécurité"
+    },
+    {
       "title": "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "summary": "Au dixième jour du conflit, malgré la baisse des tirs iraniens, Mojtaba Khamenei est choisi pour remplacer son père Ali, signalant une continuité du régime des mollahs. Téhéran fait face à des bombardements constants et une répression interne accrue, mais refuse de capituler. Trump exige l'approbation US pour tout nouveau leader, sous peine de non-durabilité. Cela pourrait influencer la résistance iranienne et les négociations futures.",
-      "why": "Cette succession interne renforce la résilience du régime et complique les appels US à un changement de pouvoir.",
-      "category": "Conflit"
+      "summary": "Mojtaba Khamenei, fils du Guide suprême Ali Khamenei, a été choisi pour remplacer son père en tant que Guide suprême de l'Iran. Cette succession intervient au dixième jour de la guerre alors que le régime iranien fait face à des bombardements intensifs et que la fréquence des tirs de missiles et de drones iraniens baisse. Cette désignation représente une tentative du régime de montrer que la République islamique reste debout malgré la guerre et les destructions massives. Elle soulève des questions sur la capacité de résistance du régime et la continuité du pouvoir en cas d'escalade supplémentaire.",
+      "why": "Cette succession en temps de guerre signale une volonté du régime iranien de garantir la continuité du pouvoir et d'affirmer sa stabilité politique malgré les destructions, tout en révélant les préoccupations existentielles du leadership iranien face à l'ampleur de l'offensive militaire.",
+      "category": "Diplomatie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Escalade militaire continue malgré les déclarations de fin de guerre de Trump",
+      "original": "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz (08/03/2026)",
+      "summary": "Contrairement aux affirmations de Trump selon lesquelles la guerre en Iran est « quasiment » terminée et que les prix du pétrole se stabiliseraient, l'escalade militaire s'est intensifiée. Israël a annoncé une nouvelle vague de frappes de grande ampleur, les prix du pétrole ont dépassé 115 dollars le baril et le gaz européen a bondi de 30%. Au dixième jour du conflit, les bombardements américains et israéliens continuent de cibler les installations pétrolières iraniennes et les dépôts de carburant. Cette divergence entre les déclarations de Trump et la réalité du terrain révèle des tensions stratégiques majeures.",
+      "why": "Cette escalade contredit directement les promesses de stabilisation de Trump et démontre que le conflit s'intensifie plutôt que de diminuer, avec des conséquences économiques mondiales graves et une perte de crédibilité diplomatique pour l'administration américaine.",
+      "category": "Conflit"
+    }
+  ]
 }
