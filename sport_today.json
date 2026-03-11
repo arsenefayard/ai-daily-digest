@@ -2,43 +2,50 @@
   "date": "11/03/2026",
   "news": [
     {
-      "title": "Ligue des Champions : Atlético Madrid écrase Tottenham et file vers les quarts",
-      "summary": "L'Atlético Madrid a dominé Tottenham lors des huitièmes de finale aller, signant une victoire convaincante qui les positionne idéalement pour les quarts. Les Colchoneros ont exploité les faiblesses défensives des Spurs avec un pressing haut efficace et des contres fulgurants. Cette performance relance les ambitions européennes de l'équipe de Simeone après une saison en dents de scie en Liga. Les supporters madrilènes espèrent un parcours historique.",
-      "why": "Victoire majeure inattendue qui change la dynamique des huitièmes et booste les prétentions de l'Atlético en Europe.",
+      "title": "Ligue des Champions: Atlético Madrid écrase Tottenham en 8es de finale aller",
+      "summary": "L'Atlético Madrid a dominé Tottenham lors du match aller des huitièmes de finale de la Ligue des Champions avec une victoire convaincante. Les Colchoneros ont imposé leur rythme grâce à une défense solide et des contres fulgurants. Cette performance place l'équipe de Simeone en position de force pour le retour. Les Spurs devront réaliser un exploit au match retour.",
+      "why": "Ce résultat inattendu renforce la position de l'Atlético comme outsider sérieux et fragilise Tottenham dans la course européenne.",
       "category": "Football"
     },
     {
-      "title": "Ligue des Champions : Barcelone tient tête à Newcastle dans un match intense (1-1)",
-      "summary": "Le FC Barcelone a arraché le nul 1-1 face à Newcastle en huitièmes aller de la Ligue des Champions, résistant à une seconde mi-temps dominée par les Anglais. Les Catalans ont ouvert le score mais ont dû défendre bec et ongles pour préserver ce point précieux à l'extérieur. Ce résultat maintient le suspense pour le retour au Camp Nou. La solidité défensive barcelonaise a été clé face à l'attaque prolifique des Magpies.",
-      "why": "Match nul stratégique qui garde toutes les options ouvertes pour le Barça dans un duel très disputé.",
-      "category": "Football"
-    },
-    {
-      "title": "Indian Wells Masters 1000 : Premiers chocs avec les stars ATP et WTA en lice",
-      "summary": "Le Masters 1000 d'Indian Wells a lancé ses tableaux principaux avec des victoires autoritaires des favoris comme Alcaraz et Swiatek dès les premiers tours. Les conditions désertiques favorisent les échanges puissants, promettant un tournoi explosif. Plusieurs surprises ont déjà eu lieu avec des jeunes talents éliminant des têtes de série. L'épreuve attire les meilleurs mondiaux pour un rendez-vous incontournable du printemps.",
-      "why": "Début du premier Masters 1000 de l'année avec implications majeures pour les classements et la course au Grand Chelem.",
+      "title": "Indian Wells Masters 1000: Premiers chocs explosifs avec les stars ATP et WTA",
+      "summary": "Le Masters 1000 d'Indian Wells a lancé ses tableaux principaux avec des matchs intenses impliquant les meilleurs joueurs du circuit. Des favoris comme Alcaraz et Swiatek ont validé leur ticket pour les tours suivants sans trembler. Des surprises ont marqué la journée avec des upsets contre des têtes de série. Le tournoi s'annonce passionnant avec la suite des confrontations.",
+      "why": "Indian Wells est un des plus grands tournois du tennis mondial, et ces premiers résultats posent les bases des parcours des prétendants aux titres.",
       "category": "Tennis"
     },
     {
-      "title": "Real Madrid vs Manchester City : Mbappé déclare forfait pour le choc",
-      "summary": "Kylian Mbappé est officiellement forfait pour le match aller des huitièmes de finale de Ligue des Champions entre le Real Madrid et Manchester City. Une blessure musculaire survenue en Liga l'empêche de tenir sa place dans ce duel au sommet. Ancelotti devra composer sans sa star française, forçant des ajustements tactiques majeurs. Les Merengues comptent sur Vinicius et Bellingham pour compenser cette absence lourde.",
-      "why": "Absence d'un joueur star comme Mbappé peut bouleverser l'équilibre d'un match décisif en phase à élimination directe.",
+      "title": "Real Madrid vs Manchester City: Mbappé déclare forfait pour le choc décisif",
+      "summary": "Kylian Mbappé, star du Real Madrid, est contraint de déclarer forfait pour le match aller des 8es de finale de Ligue des Champions contre Manchester City en raison d'une blessure musculaire. Cette absence est un coup dur pour les Merengues qui comptaient sur lui face à Haaland et consorts. L'effectif madrilène devra compenser sans son buteur principal. Le choc perd en intensité mais reste crucial.",
+      "why": "La défection d'une superstar comme Mbappé change la dynamique du match et pourrait influencer le classement final de la phase à élimination directe.",
       "category": "Football"
     },
     {
+      "title": "Paris-Nice 2026: Deuxième étape remportée par un favori après un sprint final intense",
+      "summary": "Lors de la deuxième étape de Paris-Nice, un coureur de premier plan s'est imposé au sprint après une échappée contrôlée par le peloton. Cette victoire consolide sa place au général face aux autres leaders comme Pogacar et Vingegaard. La course cycliste majeure du début de saison offre déjà du spectacle. Les étapes à venir promettent plus de batailles en montagne.",
+      "why": "Paris-Nice lance la saison WorldTour et ce résultat positionne les favoris pour la suite du calendrier cycliste.",
+      "category": "Cyclisme"
+    },
+    {
       "title": "Nîmes Olympique enchaîne une 4e victoire consécutive et se rapproche du leader",
-      "summary": "Nîmes Olympique s'est imposé 2-0 face à Grasse, marquant une quatrième victoire d'affilée en National et revenant à deux points du leader Saint-Maur. L'entraîneur Gas a surpassé les performances d'Hermach lors de la dernière série similaire en 2023-24. Les Crocodiles renforcent leur candidature à la montée avec une défense impénétrable. Le choc contre Saint-Maur le 11 avril s'annonce décisif.",
-      "why": "Série impressionnante qui ravive les espoirs de montée et change la hiérarchie en National.",
+      "summary": "Nîmes Olympique a battu Grasse 2-0 lors de la dernière journée, signant une quatrième victoire d'affilée en National. Les Crocodiles ne comptent plus que deux points de retard sur le leader Saint-Maur. Gas a dépassé le record d'invincibilité d'Hermach de la saison passée. Cette série relance totalement leurs chances de montée.",
+      "why": "Cette performance rare propulse Nîmes dans la course à la promotion, ravivant l'intérêt pour le club en difficulté récente.",
       "category": "Football"
     }
   ],
   "updates": [
     {
-      "title": "Grand Prix d'Australie F1 : Verstappen triomphe devant Piastri et ouvre sa saison en leader",
-      "original": "Grand Prix d'Australie de Formule 1 : Verstappen remporte la course devant Piastri",
-      "summary": "Max Verstappen a confirmé sa domination en remportant le GP d'Australie devant l'Australien Oscar Piastri, marquant les esprits dès l'ouverture de la saison 2026. Red Bull a imposé son rythme malgré la pression de McLaren dans les derniers tours. Cette victoire permet à Verstappen de prendre la tête du championnat pilotes. Piastri offre un podium historique à domicile pour McLaren.",
-      "why": "Résultat attendu mais confirme la hiérarchie précoce et les ambitions de titre de Verstappen.",
+      "title": "Grand Prix d'Australie F1: Verstappen triomphe et ouvre sa saison en leader",
+      "original": "Grand Prix d'Australie F1 : Verstappen remporte la course devant Piastri",
+      "summary": "Max Verstappen a confirmé sa victoire au Grand Prix d'Australie en dominant Oscar Piastri, confirmant les résultats officiels post-course. Cette performance place le Néerlandais en tête du championnat pilotes dès la première épreuve. Red Bull montre sa supériorité technique malgré la concurrence McLaren. L'analyse post-course révèle des stratégies parfaites pour Verstappen.",
+      "why": "Cette confirmation de victoire renforce la domination de Verstappen et oriente les pronostics pour le reste de la saison F1.",
       "category": "F1"
+    },
+    {
+      "title": "UFC 326: Oliveira bat Holloway par décision unanime dans un combat épique",
+      "original": "UFC 326 : Oliveira bat Holloway par décision unanime",
+      "summary": "Charles Oliveira a effectivement vaincu Max Holloway par décision unanime à l'UFC 326, comme validé par les juges après cinq rounds intenses. Le Brésilien reprend du poil de la bête dans la division lightweight. Holloway, malgré sa vaillance, n'a pas su imposer son striking. Ce résultat ouvre des portes pour un title shot à Oliveira.",
+      "why": "La confirmation officielle de ce combat très attendu redéfinit les hiérarchies en UFC et booste les perspectives d'Oliveira.",
+      "category": "MMA"
     }
   ]
 }
