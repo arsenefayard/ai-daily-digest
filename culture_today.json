@@ -1,35 +1,35 @@
 {
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "news": [
     {
-      "title": "La tapisserie de l'Apocalypse de la cathédrale d'Angers : le plus grand ensemble médiéval conservé",
-      "summary": "Commandée en 1375 par Louis Ier d'Anjou, cette œuvre monumentale composée de 74 tapisseries mesure 100 mètres de long et 5 mètres de haut, illustrant le Livre de l'Apocalypse de saint Jean. Exposée dans la galerie de l'Apocalypse à Angers, elle dépeint avec une richesse iconographique exceptionnelle les visions apocalyptiques, mêlant symboles chrétiens et influences gothiques. Rendue pendant plus de 25 ans par des artisans flamands, elle a miraculeusement survécu aux guerres et révolutions. Elle offre un témoignage unique sur l'art textile médiéval et la piété du XIVe siècle.",
-      "why": "Ce chef-d'œuvre rare révèle la ferveur religieuse et la maîtrise technique de l'époque médiévale, invitant à une réflexion sur la fin des temps toujours actuelle.",
+      "title": "Le labyrinthe de Chartres : le plus grand du monde gravé dans le sol d'une cathédrale",
+      "summary": "Au cœur de la cathédrale Notre-Dame de Chartres se trouve un labyrinthe de 13 mètres de diamètre, tracé en 1201 sur le sol de la nef. Ce parcours mystique, inspiré des mythes grecs, symbolisait le chemin spirituel vers Dieu pour les pèlerins médiévaux qui le suivaient à genoux. Composé de 261 mètres de tracé, il représente la complexité de la vie et la quête divine. Redécouvert au XIXe siècle, il reste un rare exemple intact de l'architecture sacrée labyrinthique européenne.",
+      "why": "Il illustre comment l'architecture gothique intégrait philosophie et spiritualité, offrant une méditation concrète sur l'errance humaine.",
       "category": "Histoire"
     },
     {
-      "title": "Le vaisseau de pierre de Swedenborg : une cathédrale flottante conçue au XVIIIe siècle",
-      "summary": "En 1715, le mystique suédois Emanuel Swedenborg conçut un projet fou : une cathédrale pyramidale en pierre massive capable de naviguer sur les mers, équipée de voiles et de canons pour l'exploration. Pesant théoriquement 30 000 tonnes, ce 'vaisseau de pierre' visait à propager la foi chrétienne lors de voyages apostoliques. Bien que jamais construit en raison de son impraticabilité technique, le plan détaillé subsiste dans ses écrits. Il préfigure les utopies architecturales des siècles suivants.",
-      "why": "Cette invention insolite illustre comment philosophie et ingénierie se mêlaient au Siècle des Lumières, stimulant l'imagination sur les limites de la technologie.",
-      "category": "Insolite"
+      "title": "Le vaisseau de pierre d'Emanuel Swedenborg, utopie architecturale du XVIIIe siècle",
+      "summary": "En 1718, le mystique suédois Emanuel Swedenborg conçut un 'vaisseau de pierre' flottant, une cathédrale mobile de 200 mètres de long en granit armé. Ce projet visionnaire préfigurait les avancées en ingénierie navale et architecture navale. Destiné à propager ses idées religieuses, il fut abandonné faute de fonds mais inspira plus tard les paquebots modernes. Ses plans détaillés révèlent une prouesse technique pour l'époque.",
+      "why": "Cette invention oubliée montre comment la philosophie mystique a influencé l'innovation technique bien avant son temps.",
+      "category": "Philosophie"
     },
     {
-      "title": "Le jardin de la duchesse de Bovino : un labyrinthe secret à Naples",
-      "summary": "Au XVIIe siècle, la duchesse napolitaine Carlotta d'Aragona fit aménager dans son palais un jardin souterrain labyrinthique orné de grottes, fontaines et statues mythologiques, accessible par un escalier caché. Ce 'giardino segreto' servait de refuge pour ses amours illicites et abritait une bibliothèque ésotérique interdite par l'Inquisition. Redécouvert au XXe siècle, il révèle des fresques alchimiques et des mécanismes hydrauliques ingénieux. Il incarne le mélange d'art, de science et de transgression de la noblesse baroque.",
-      "why": "Ce lieu emblématique dévoile les intrigues et raffinements cachés de l'aristocratie européenne, enrichissant notre vision de l'histoire des jardins.",
+      "title": "L'effet Stroop : le cerveau piégé par des mots colorés",
+      "summary": "Découvert en 1935 par John Ridley Stroop, cet effet psychologique démontre la difficulté à nommer la couleur d'un mot quand celle-ci diffère de sa signification, comme 'ROUGE' écrit en bleu. Il révèle les conflits entre traitement automatique de la lecture et contrôle attentionnel dans le cerveau. Utilisé en neurosciences, il mesure l'inhibition cognitive et diagnostique des troubles comme l'autisme. Des millions de tests quotidiens valident sa robustesse universelle.",
+      "why": "Il expose les limites cachées de notre cognition, aidant à comprendre et entraîner la concentration dans un monde surstimulé.",
+      "category": "Psychologie"
+    },
+    {
+      "title": "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
+      "summary": "Datée de 5000 ans avant notre ère, Pavlopetri en Grèce est la plus ancienne ville submergée, avec rues, bâtiments et tombes intactes sous 3 mètres d'eau. Découverte en 1967, elle abritait 2000 habitants et un port actif, victime d'un séisme vers 1000 av. J.-C. Explorée par robots, elle révèle une urbanisation avancée du Bronze Age. Son étude fournit des clés sur les civilisations préhistoriques méditerranéennes.",
+      "why": "Ce vestige sous-marin bouleverse notre vision de l'urbanisme antique, soulignant la fragilité des sociétés face aux catastrophes naturelles.",
       "category": "Géographie"
     },
     {
-      "title": "La bibliothèque infinie de Borges : un conte philosophique sur l'univers",
-      "summary": "Dans sa nouvelle 'La Bibliothèque de Babel' publiée en 1941, Jorge Luis Borges imagine une bibliothèque cosmique contenant tous les livres possibles de 410 pages, avec 25 symboles, formant un univers infini de vérités et d'absurdités. Chaque hexagone abrite des rayonnages infinis, symbolisant le chaos de l'information et la quête humaine de sens. Les bibliothécaires errent en quête d'un 'Livre total' expliquant tout. Ce texte fondateur influence la philosophie de l'information et la théorie des ensembles.",
-      "why": "Cette métaphore puissante questionne notre rapport au savoir infini à l'ère numérique, rendant la littérature un outil de réflexion existentielle.",
-      "category": "Littérature"
-    },
-    {
-      "title": "L'effet Baader-Meinhof : l'illusion cognitive de la fréquence illusoire",
-      "summary": "Découvert en 1982 par un journaliste américain, cet effet psychologique explique pourquoi un mot ou concept nouvellement appris semble soudain apparaître partout, due à une attention sélective accrue du cerveau. Nommé d'après le groupe terroriste ouest-allemand mentionné deux fois en 24h par son découvreur, il combine biais de confirmation et négligence cognitive. Des études en neurosciences confirment son activation dans le cortex préfrontal. Il affecte nos perceptions quotidiennes, des publicités aux débats sociétaux.",
-      "why": "Comprendre cet effet aide à déconstruire les illusions perceptuelles, favorisant une pensée plus critique face à l'information omniprésente.",
-      "category": "Psychologie"
+      "title": "Le Golem de Prague : légende juive d'un colosse d'argile animé",
+      "summary": "Au XVIe siècle, le rabbin Loew créa le Golem, une statue d'argile dotée de vie par des incantations kabbalistiques pour protéger le ghetto de Prague des pogroms. Haut de 2 mètres, il devint incontrôlable et fut désactivé en retirant une lettre de son front. Cette figure mythique inspira Frankenstein et la robotique moderne. Sa tombe symbolique attire encore des pèlerins à la synagogue Vieille-Nouvelle.",
+      "why": "Elle fusionne mysticisme juif et questionnements éthiques sur la création artificielle de vie, préfigurant l'IA actuelle.",
+      "category": "Mythologie"
     }
   ],
   "updates": []
