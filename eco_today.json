@@ -1,36 +1,44 @@
 {
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "news": [
     {
-      "title": "Taux de l'OAT française grimpe à 3,5% en une semaine sous pression inflationniste",
-      "summary": "Les investisseurs intègrent l'anticipation d'une hausse de l'inflation liée au conflit au Moyen-Orient, faisant passer le taux de l'OAT française de 3,2% à 3,5% en une semaine. Cette hausse reflète les craintes d'un surcroît d'inflation temporaire de 3 à 4% en Europe due à la flambée des prix de l'énergie. Le détroit d'Ormuz, menacé mais non bloqué, perturbe les flux pétroliers affectant surtout la Chine et le Japon. Cela pourrait retarder les baisses de taux des banques centrales et peser sur les marchés obligataires.",
-      "why": "Cette remontée des taux obligataires signale un resserrement des conditions financières en Europe, impactant les coûts d'emprunt des États et entreprises.",
+      "title": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
+      "summary": "Le géant automobile allemand Volkswagen a annoncé un plan majeur de réduction d'effectifs avec la suppression de 50 000 postes suite à une année 2025 difficile. Cette décision intervient dans un contexte de transition énergétique coûteuse et de concurrence accrue des constructeurs chinois sur le marché automobile européen. Le secteur automobile européen traverse une crise structurelle avec des pertes massives chez les principaux acteurs. Cette annonce renforce les craintes concernant la compétitivité de l'industrie automobile européenne face aux nouveaux entrants asiatiques.",
+      "why": "Cette suppression d'emplois massive reflète la crise profonde du secteur automobile européen et pourrait avoir des répercussions économiques et sociales significatives en Allemagne et en Europe.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Baisse du prix du pétrole après l'annonce de Donald Trump sur la fin de la guerre en Iran",
+      "summary": "Le prix du pétrole a enregistré une baisse notable suite à l'annonce du président américain Donald Trump affirmant que la guerre avec l'Iran était terminée, malgré une escalade militaire continue. Cette déclaration a réduit les craintes d'une prolongation du conflit au Moyen-Orient qui avait alimenté une flambée historique des prix de l'énergie. Les marchés ont réagi positivement à cette perspective de désescalade, bien que la situation reste volatile. Cette baisse soulage les pressions inflationnistes qui s'étaient accumulées depuis le début du conflit.",
+      "why": "Cette évolution des prix du pétrole est cruciale car elle affecte directement l'inflation mondiale, les coûts de transport et les perspectives de politique monétaire des banques centrales.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Recours aux réserves stratégiques de pétrole envisagé pour contenir les prix",
+      "summary": "Face à la flambée historique des prix du pétrole liée au conflit au Moyen-Orient, les gouvernements envisagent de puiser dans leurs réserves stratégiques pour stabiliser les marchés énergétiques. Cette mesure vise à contenir les pressions inflationnistes et à protéger les économies d'un choc énergétique prolongé. Le recours aux réserves stratégiques représente un outil de dernier recours utilisé en cas de crise majeure d'approvisionnement. Cette action coordonnée pourrait avoir un impact significatif sur les prix à court terme.",
+      "why": "L'utilisation des réserves stratégiques signale la gravité perçue de la crise énergétique et pourrait influencer les trajectoires d'inflation et les décisions de politique monétaire.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Surprises positives des PMI malgré le contexte macroéconomique difficile",
+      "summary": "Les indices PMI (Purchasing Managers' Index) ont enregistré de belles surprises à la hausse, suggérant une résilience inattendue de l'activité économique au niveau des petites et moyennes entreprises. Ces résultats contrastent avec le pessimisme ambiant lié au conflit au Moyen-Orient et aux tensions commerciales. Les PMI constituent un indicateur avancé fiable de l'activité économique réelle et de la confiance des entreprises. Cette performance positive pourrait indiquer que les économies résistent mieux que prévu aux chocs externes.",
+      "why": "Les PMI sont des indicateurs clés de la santé économique réelle et peuvent influencer les attentes concernant la croissance et les décisions de politique monétaire.",
       "category": "Marchés"
     },
     {
-      "title": "Inflation en zone euro à 1,9% en février, dépassant les attentes",
-      "summary": "Selon Eurostat, l'inflation a rebondi à 1,9% en février contre 1,7% en janvier, avant même les pleins effets du conflit moyen-oriental. Cette hausse précoce ravive les tensions inflationnistes alors que la Fed amorçait une normalisation monétaire. Les prix de l'énergie pourraient propulser l'inflation à 5-7% si les cours persistent, bien que 3-4% soit plus probable. Cela complique les décisions de politique monétaire de la BCE.",
-      "why": "Ce rebond inattendu renforce les pressions sur la BCE pour maintenir des taux élevés, freinant la croissance économique européenne.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Emprunts publics mondiaux atteindront 29 000 milliards USD en 2026 selon l'OCDE",
-      "summary": "L'OCDE prévoit une hausse des niveaux d'emprunts publics à 29 000 milliards de dollars en 2026, sous l'effet des tensions sur les marchés de la dette mondiale. Cette augmentation est portée par des déficits persistants et des besoins de financement accrus face aux chocs géopolitiques. Les pays doivent renforcer leurs finances publiques et institutions pour maintenir la résilience. Cela accentue les risques sur les marchés obligataires déjà sous pression.",
-      "why": "Cette explosion de la dette publique mondiale menace la stabilité financière globale et limite les marges de manœuvre budgétaires.",
-      "category": "Banques"
-    },
-    {
-      "title": "Déficit budgétaire US réduit en 2025 grâce aux recettes douanières",
-      "summary": "Le déficit budgétaire américain s'est étonnamment contracté en 2025 grâce à des recettes douanières records issues des tarifs imposés. L'administration Trump envisage des chèques d'aide de 2 000 dollars par habitant pour apaiser la colère populaire avant les midterms 2026. Cependant, cela risque d'alimenter l'inflation, la Fed ayant déjà raté son objectif de 2% pendant 55 mois. Les démocrates creusent leur avance dans les sondages.",
-      "why": "Cette réduction temporaire du déficit contraste avec les tensions inflationnistes potentielles, influençant les perspectives électorales et monétaires US.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Enquêtes anti-dumping chinois doublent à 120 dans le monde depuis 2023",
-      "summary": "Le nombre d'enquêtes sur le dumping chinois a plus que doublé à 120 globalement depuis 2023, menant à des droits de douane rétorsion du Japon au Canada. La Chine gagne des parts de marché en baissant ses prix et maintenant un renminbi faible, au détriment de l'Allemagne, France et Japon. L'UE envisage des règles 'made in Europe' et Macron avertit Pékin des déséquilibres commerciaux. Cela fragilise les exportateurs manufacturiers mondiaux.",
-      "why": "Cette vague protectionniste contre la Chine redessine les flux commerciaux mondiaux, impactant la croissance des économies ouvertes.",
-      "category": "Entreprises"
+      "title": "Activation du mode 'Risk off' sur les marchés boursiers mondiaux",
+      "summary": "Les marchés d'actions mondiaux, notamment les bourses asiatiques, ont basculé en mode 'Risk off' avec des chutes significatives reflétant une aversion au risque accrue. Cette dynamique est alimentée par les incertitudes géopolitiques au Moyen-Orient, les tensions commerciales et les craintes inflationnistes. Le mode 'Risk off' se caractérise par des ventes massives d'actifs risqués et une fuite vers les valeurs refuges. Cette volatilité accrue crée des opportunités mais aussi des risques importants pour les investisseurs.",
+      "why": "Le basculement en mode 'Risk off' reflète une réévaluation majeure des risques par les investisseurs et pourrait signaler le début d'une correction boursière plus importante.",
+      "category": "Marchés"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Inflation en zone euro : accélération confirmée à 1,9% en février",
+      "original": "Inflation en zone euro à 1,9% en février, dépassant les attentes",
+      "summary": "L'inflation en zone euro a confirmé sa remontée à 1,9% en février 2026, dépassant les attentes des économistes qui anticipaient une stabilisation. Cette accélération intervient avant même que les conséquences complètes du conflit au Moyen-Orient ne se matérialisent dans les statistiques officielles. Les pressions inflationnistes proviennent notamment de la flambée des prix de l'énergie liée au conflit géopolitique. Cette tendance haussière de l'inflation pourrait contraindre la Banque centrale européenne à maintenir une posture monétaire plus restrictive que prévu.",
+      "why": "Cette accélération de l'inflation confirme que les chocs énergétiques se transmettent rapidement à l'économie réelle et pourrait forcer la BCE à réviser sa trajectoire de baisse des taux.",
+      "category": "Politique monétaire"
+    }
+  ]
 }
