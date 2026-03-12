@@ -1,15 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": [
-      "Avatar en concert au Zénith de Paris ce soir avec premières parties annoncées",
-      "Harry Styles sort son nouvel album 'Kiss All the Time. Disco, Occasionally' et reçoit les premières critiques élogieuses",
-      "Kanye West annonce un concert à l'Orange Vélodrome de Marseille avec prix des places controversés",
-      "Bigflo & Oli bloqués à Dubaï en raison du conflit au Moyen-Orient",
-      "Festival Paris Music 2026 annonce sa programmation avec Mathias Malzieu, China Moses et autres en lieux insolites"
-    ]
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "Erra sort son nouvel album le 6 mars et confirme son statut dans le métal progressif",
@@ -67,6 +57,16 @@
       "Ashen et Revnoir annoncent 7 dates en France pour mars 2026",
       "GRANDMA'S ASHES et SUN en concert à Paris le 28 mars",
       "Evanescence prépare son premier album live pour 2026"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Exodus tease 'Goliath' pour le 20 mars avec le retour de Rob Dukes",
+      "Power Paladin sort 'Beyond The Reach Of Enchantment' le 27 mars",
+      "Black Label Society annonce 'Engines Of Demolition' pour le 27 mars",
+      "Myrath dévoile 'Wilderness Of Mirrors' le 27 mars",
+      "The Warning publie le single 'Kerosene' dans la vague de sorties rock"
     ]
   }
 ]
