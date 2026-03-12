@@ -1,15 +1,5 @@
 [
   {
-    "date": "08/03/2026",
-    "titles": [
-      "Alibaba perd le chef technique de ses LLM Qwen",
-      "Malaisie suspend autorisations pour centres de données non-IA par crainte énergétique",
-      "Singapour : production industrielle +16,6% en janvier grâce à l'IA et semi-conducteurs",
-      "CERN déploie robots-souris IA pour inspecter le Grand collisionneur de hadrons",
-      "Étude PRESENCE : 58% des Français utilisent l'IA récemment, chatbots en forte hausse"
-    ]
-  },
-  {
     "date": "09/03/2026",
     "titles": [
       "Anthropic accuse des laboratoires chinois de créer 24 000 comptes frauduleux pour extraire Claude",
@@ -69,6 +59,16 @@
       "West Data Festival 2026 : Focus sur agents IA et transformation data en France",
       "Boom IA 2026 : Géants tech émettent 428 Md$ obligations pour financer infrastructures",
       "L'IA face au droit : Jalons 2024-2026 de l'ONU à l'Inde accélèrent la gouvernance mondiale"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "L’armée américaine utilise Claude malgré la rupture avec Anthropic",
+      "CyberStrikeAI détourné par pirates pour attaques sur pare-feu Fortinet",
+      "EBU organise séminaire DTS 2026 sur l’IA au cœur des médias publics",
+      "Usages IA en éducation se généralisent : automatisation QCM et veille",
+      "IA en entreprise atteint maturité en 2026 malgré complexité SI"
     ]
   }
 ]
