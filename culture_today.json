@@ -2,34 +2,34 @@
   "date": "12/03/2026",
   "news": [
     {
-      "title": "La cathédrale engloutie de Yubari au Japon",
-      "summary": "Au cœur de l'île de Hokkaidō se trouve la ville minière abandonnée de Yubari, dont la cathédrale construite en 1929 par des mineurs italiens gît aujourd'hui sous les eaux d'un lac artificiel formé par l'effondrement des mines. Ce sanctuaire néo-roman, orné de fresques religieuses, émerge parfois lors des basses eaux, offrant un spectacle spectral. Symbole de l'exploitation charbonnière japonaise du XXe siècle, elle rappelle les 1 500 habitants qui vivaient là avant la fermeture des puits en 1975. Les plongeurs explorent encore ses ruines subaquatiques, préservées par l'eau froide.",
-      "why": "Ce lieu illustre les cicatrices industrielles du Japon moderne et fascine par son mélange d'architecture européenne et de nature reclaimée.",
-      "category": "Insolite"
-    },
-    {
-      "title": "Le théorème de Gödel : les limites de la mathématique",
-      "summary": "En 1931, Kurt Gödel publie ses théorèmes d'incomplétude, prouvant qu'aucun système axiomatique cohérent capable d'embrasser l'arithmétique ne peut être à la fois complet et consistant. Cela signifie qu'il existe toujours des vérités mathématiques indémontrables au sein du système lui-même. Cette découverte ébranle les fondations des mathématiques posées par Hilbert et Frege, montrant que la quête d'une vérité absolue est impossible. Gödel utilisa un codage ingénieux pour 'traduire' les énoncés en nombres, révélant ces paradoxes internes.",
-      "why": "Il révèle les frontières intrinsèques de la raison humaine et influence la philosophie des sciences jusqu'à aujourd'hui.",
-      "category": "Philosophie"
-    },
-    {
-      "title": "Le premier court-métrage d'animation : Fantasmagorie de 1908",
-      "summary": "Réalisé par Émile Cohl, Fantasmagorie est considéré comme le premier film d'animation de l'histoire, composé de 700 dessins noir et blanc projetés à 16 images par seconde sur deux minutes. Ce chef-d'œuvre muet montre un bâtonnet magique se transformant en une succession d'images absurdes et oniriques, préfigurant le surréalisme. Cohl, pionnier français du cinéma, l'a créé en inversant des dessins sur papier calque pour un effet fluide. Restauré en couleur dans les années 2000, il reste un trésor des Archives françaises du film.",
-      "why": "Il marque la naissance de l'animation moderne et démontre l'ingéniosité technique du début du XXe siècle.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "La découverte de la quinine et la fin du paludisme colonial",
-      "summary": "En 1820, les pharmaciens Pelletier et Caventou isolent la quinine de l'écorce de quinquina, remède amérindien contre le paludisme connu depuis les Incas. Cette molécule sauve des millions de vies en Europe et permet la colonisation de l'Afrique tropicale par les puissances européennes. Utilisée par l'armée française dès 1850, elle multiplie par dix l'espérance de vie des soldats en Algérie. Aujourd'hui synthétisée, elle reste un pilier du traitement antipaludique malgré les résistances bactériennes.",
-      "why": "Cette avancée pharmacologique a redessiné l'histoire mondiale en rendant habitables les zones tropicales.",
+      "title": "La tapisserie de Bayeux : le plus grand comics médiéval jamais réalisé",
+      "summary": "La tapisserie de Bayeux, longue de 70 mètres et haute de 50 cm, narre la conquête de l'Angleterre par Guillaume le Conquérant en 1066. Broderie de laine sur lin datant du XIe siècle, elle dépeint plus de 50 scènes avec chevaux, navires et batailles dans un style séquentiel comme une bande dessinée antique. Exposée à Bayeux, elle a survécu à des siècles de guerres et reste un témoignage unique sur la société normande. Ses détails architecturaux et vestimentaires permettent aux historiens de reconstituer fidèlement l'époque.",
+      "why": "Elle offre un récit visuel vivant d'un événement fondateur de l'histoire européenne, surpassant les chroniques écrites par sa richesse iconographique.",
       "category": "Histoire"
     },
     {
-      "title": "Le record de la plus longue sieste : 23 jours en 1959",
-      "summary": "Eugene Nelson, un ouvrier américain, détient le record Guinness de la plus longue sieste, restant endormi 23 jours consécutifs après un pari lors d'une fête. Placé sous surveillance médicale, il fut réveillé progressivement pour éviter le choc. Ce fait insolite, validé à l'époque, illustre les extrêmes humains avant les restrictions modernes sur les records dangereux. Nelson reprit une vie normale sans séquelles apparentes.",
-      "why": "Il met en lumière les limites physiologiques du sommeil et l'absurdité des défis humains du milieu du XXe siècle.",
-      "category": "Insolite"
+      "title": "Le dilemme du prisonnier : le paradoxe qui explique la trahison humaine",
+      "summary": "Imaginé par Merrill Flood et Melvin Dresher en 1950, puis formalisé par Albert Tucker, ce dilemme oppose deux prisonniers tentés de trahir l'autre pour un gain personnel. Si les deux coopèrent, ils s'en sortent bien ; si l'un trahit, il gagne gros tandis que l'autre perd ; si les deux trahissent, ils perdent tous les deux. Ce modèle mathématique révèle pourquoi la coopération rationnelle échoue souvent dans les interactions répétées. Il sous-tend l'économie, la biologie évolutive et les négociations internationales.",
+      "why": "Il éclaire les mécanismes de la confiance et de l'égoïsme dans les sociétés humaines, avec des applications concrètes en jeu théorie.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Le voyage de Chihiro : comment un film d'animation a conquis les Oscars",
+      "summary": "Réalisé par Hayao Miyazaki en 2001, ce chef-d'œuvre du Studio Ghibli suit Chihiro, une fillette plongée dans un monde spirituel japonais où elle doit travailler pour survivre. Premier film d'animation à remporter l'Oscar du meilleur film d'animation, il mêle écologie, maturité et mythologie shintoïste. Ses images poétiques et sa bande-son envoûtante ont influencé des générations de cinéastes. Disponible mondialement, il détient des records de recettes au Japon.",
+      "why": "Il a élevé l'animation japonaise au rang d'art universel, prouvant que les contes pour enfants portent des messages profonds pour tous.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "L'effet Mandela : quand des millions se souviennent d'événements qui n'ont jamais eu lieu",
+      "summary": "Découvert par Fiona Broome en 2010, cet effet décrit des souvenirs collectifs faux, comme Nelson Mandela mourant en prison dans les années 80 au lieu de 2013. Il résulte de confabulations cérébrales, d'influences médiatiques et de biais cognitifs. Des exemples incluent le logo Fruit of the Loom sans corne d'abondance ou Berenstain Bears orthographié Berenstein. Des études en neurosciences l'expliquent par la reconstruction malléable de la mémoire.",
+      "why": "Il questionne la fiabilité de nos souvenirs et révèle les failles de la perception humaine partagée.",
+      "category": "Psychologie"
+    },
+    {
+      "title": "La cité de Petra : la cité nabatéenne taillée dans la roche rose du désert",
+      "summary": "Capitale des Nabatéens du IVe siècle av. J.-C. en Jordanie, Petra est célèbre pour son trésor sculpté directement dans la falaise, haut de 40 mètres. Cette cité caravanière contrôlait les routes de l'encens et abritait 20 000 habitants avec théâtres, temples et systèmes hydrauliques ingénieux. Redécouverte en 1812 par Johann Burckhardt, elle est classée au patrimoine mondial de l'UNESCO. Ses couleurs changeantes au soleil en font l'un des sites les plus photographiés au monde.",
+      "why": "Elle témoigne d'une civilisation oubliée maître de l'architecture rupestre et du commerce antique.",
+      "category": "Géographie"
     }
   ],
   "updates": []
