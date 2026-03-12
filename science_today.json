@@ -1,20 +1,44 @@
 {
-  "date": "11/03/2026",
-  "news": [],
-  "updates": [
+  "date": "12/03/2026",
+  "news": [
     {
-      "title": "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
-      "original": "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
-      "summary": "Les dernières analyses du rover Perseverance confirment la présence de composés organiques complexes dans l'échantillon Sapphire Canyon, ravivant les spéculations sur une vie passée. Les données spectroscopiques indiquent des signatures chimiques inhabituelles compatibles avec des processus biologiques anciens. Cette découverte s'appuie sur des mesures récentes de gaz et d'activité thermique interne martienne. Les implications pour la recherche de vie extraterrestre sont considérables.",
-      "why": "Renforce les preuves potentielles de vie sur Mars et justifie des missions futures d'échantillonnage.",
+      "title": "Protoxyde d'azote : traitement rapide de la dépression sévère",
+      "summary": "Des chercheurs des universités d'Oxford et de Birmingham ont démontré que le protoxyde d'azote (gaz hilarant), utilisé en milieu médical contrôlé, réduit significativement les symptômes de dépression sévère en quelques heures seulement. Cette découverte, publiée dans The Journal of Clinical Psychiatry, contraste avec les antidépresseurs classiques qui nécessitent plusieurs semaines pour agir. Le protoxyde d'azote offre ainsi une alternative thérapeutique rapide pour les patients souffrant de dépression sévère. Cette avancée pourrait transformer la prise en charge des crises dépressives aigues.",
+      "why": "C'est une percée majeure en psychiatrie car elle offre un traitement d'action rapide pour la dépression sévère, ouvrant de nouvelles perspectives thérapeutiques pour les patients en détresse immédiate.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Nanoparticules lipidiques : amélioration de la fonction mitochondriale",
+      "summary": "Des scientifiques de l'Institut Galien Paris-Saclay (CNRS/UPSaclay) ont développé des nanoparticules lipidiques ionisables incorporant des acides gras polyinsaturés oméga-3, publiés dans le Journal of Colloid and Interface Science. Ces nanosystèmes, sensibles au pH, se réorganisent en phase hexagonale pour libérer des composés antioxydants (ginkgolide B et quercétine). Après administration intranasale chez la souris, les analyses ont révélé une amélioration significative de la fonction mitochondriale, une augmentation de l'ATP synthase et une activité accrue de la glutathion peroxydase. Cette approche ouvre des perspectives pour les maladies liées au stress oxydatif.",
+      "why": "Cette découverte représente une avancée en nanotechnologie médicale, offrant un système d'administration de médicaments innovant capable d'améliorer la fonction mitochondriale, clé dans de nombreuses maladies dégénératives.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Comète C/2026 A1 (MAPS) : raseur solaire potentiellement spectaculaire",
+      "summary": "La comète C/2026 A1 (MAPS), découverte le 13 janvier 2026 par une équipe d'astronomes au Chili, est un raseur solaire de Kreutz qui passera extrêmement près du Soleil en avril 2026. C'est le raseur solaire de Kreutz le plus lointain jamais découvert, détecté à environ 2,06 UA du Soleil. Bien que les raseurs solaires soient imprévisibles et certains se désintègrent, d'autres comme Ikeya-Seki (1965) et Lovejoy (2011) survivent et deviennent spectaculaires à l'œil nu. Avril 2026 pourrait être la seule opportunité pour l'humanité d'observer cette comète.",
+      "why": "C'est un événement astronomique rare et potentiellement spectaculaire qui pourrait offrir une unique occasion d'observation directe d'un phénomène céleste exceptionnel.",
       "category": "Espace"
     },
     {
-      "title": "Détection d'éclairs sur Mars expliquant variations de méthane",
-      "original": "Détection d'éclairs sur Mars expliquant variations de méthane et chimie organique",
-      "summary": "De nouvelles observations confirment la présence d'éclairs électriques dans l'atmosphère martienne, responsables des pics saisonniers de méthane et de la formation de composés organiques. Ce phénomène relie l'activité électrique aux processus chimiques observés depuis des années. Les données du rover Perseverance valident les modèles théoriques précédents. Cela modifie notre compréhension du climat martien actuel.",
-      "why": "Explique des anomalies atmosphériques longtemps débattues et ouvre des perspectives sur l'habitabilité passée.",
-      "category": "Espace"
+      "title": "Inflammations de bas grade : rôle majeur dans les maladies chroniques",
+      "summary": "Des chercheurs du Massachusetts Institute of Technology (MIT) ont démontré que certaines inflammations de bas grade, longtemps considérées comme anodines, jouent un rôle majeur dans le développement des maladies cardiovasculaires, métaboliques et neurodégénératives. Cette découverte transforme l'approche préventive : il ne s'agit plus seulement de surveiller le cholestérol ou la glycémie, mais de maintenir un équilibre immunitaire global. La prévention doit désormais agir sur le sommeil, l'alimentation, l'activité physique et la santé mentale. Cette prise de conscience redéfinit les stratégies de prévention des maladies chroniques.",
+      "why": "Cette découverte révolutionne la médecine préventive en identifiant un facteur de risque universel pour les maladies chroniques majeures, permettant une approche thérapeutique plus holistique.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Sommeil profond : système de nettoyage cérébral dix fois plus actif",
+      "summary": "Une étude de l'Université de Rochester, publiée dans Science, a démontré que certaines phases du sommeil profond jouent un rôle clé dans l'élimination des protéines toxiques associées aux maladies neurodégénératives, notamment la maladie d'Alzheimer. Le système de nettoyage cérébral (glymphatique) est jusqu'à dix fois plus actif durant le sommeil profond que pendant l'éveil. Cette découverte établit un lien direct entre la qualité du sommeil et la prévention des maladies neurodégénératives. En 2026, traiter le sommeil revient à traiter simultanément le cerveau, l'immunité et la santé mentale.",
+      "why": "C'est une avancée fondamentale en neurosciences qui établit le sommeil comme facteur critique de prévention des maladies neurodégénératives, ouvrant de nouvelles stratégies thérapeutiques.",
+      "category": "Médecine"
+    }
+  ],
+  "updates": [
+    {
+      "title": "Modèles prédictifs de maladies : outils MIT-Harvard validés",
+      "original": "Médecine prédictive et tests génétiques pour évaluation des risques",
+      "summary": "Des équipes du Massachusetts Institute of Technology (MIT) et de Harvard ont développé des modèles capables de prédire le risque de maladies cardiovasculaires, de diabète ou de troubles neurodégénératifs à partir de données combinées : analyses sanguines, imagerie médicale, historique de sommeil et paramètres inflammatoires. Ces outils identifient des trajectoires de risque sans poser un diagnostic direct. Cette avancée en médecine prédictive s'inscrit dans la continuité des tests génétiques pour évaluation des risques, mais avec une approche multifactorielle plus complète.",
+      "why": "Cette mise à jour confirme l'émergence d'une médecine prédictive sophistiquée combinant données biologiques et comportementales, transformant la prévention des maladies chroniques.",
+      "category": "Médecine"
     }
   ]
 }
