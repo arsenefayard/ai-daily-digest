@@ -1,15 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": [
-      "Israël lance offensive terrestre au sud Liban avec soutien IA dans frappes",
-      "Netanyahu qualifie opérations contre Iran de réponse à menace existentielle",
-      "Guerre au Moyen-Orient : l'IA comme visage technologique des frappes",
-      "Sommet New Delhi identifie cinq problématiques mondiales clés de l'IA",
-      "Synthèse IA 5 mars : avancées clés et tendances émergentes"
-    ]
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "Alibaba perd le chef technique de ses LLM Qwen",
@@ -69,6 +59,16 @@
       "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
       "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
       "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "CyberStrikeAI : Outil open source détourné par pirates pour attaques IA sur pare-feu Fortinet",
+      "EBU organise séminaire DTS 2026 sur l'IA au cœur des médias publics européens",
+      "West Data Festival 2026 : Focus sur agents IA et transformation data en France",
+      "Boom IA 2026 : Géants tech émettent 428 Md$ obligations pour financer infrastructures",
+      "L'IA face au droit : Jalons 2024-2026 de l'ONU à l'Inde accélèrent la gouvernance mondiale"
     ]
   }
 ]
