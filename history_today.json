@@ -1,37 +1,33 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "subject": {
-    "name": "Paix de Rueil",
-    "type": "Traité historique",
-    "period": "1649 · Fronde parlementaire (France)",
-    "context": "La Fronde parlementaire, première phase de la Fronde (1648-1649), oppose les parlements de province, menés par celui de Paris, à la régence de la reine Anne d'Autriche et au cardinal Mazarin, accusés d'arbitraire fiscal et d'absolutisme. Ce soulèvement nobiliaire et bourgeois culmine en 1649 avec des barricades à Paris et des sièges militaires. Peu connu, ce conflit révèle les tensions entre centralisation royale et privilèges locaux, préfigurant les révoltes du siècle suivant. La paix de Rueil, signée le 11 mars 1649 au château de Rueil, instaure un compromis fragile : amnistie générale, retrait des troupes royales de Paris et engagement des parlementaires à ne plus contester l'autorité royale. Ce traité marque la fin temporaire des hostilités mais ouvre la voie à la Fronde des princes, prolongeant l'instabilité jusqu'en 1653. Fait marquant : Mazarin, exilé puis rappelé, consolide son pouvoir en divisant ses adversaires.",
+    "name": "Mathieu Orfila",
+    "type": "Personnalité",
+    "period": "1787 – 1853 · Époque moderne (père de la toxicologie)",
+    "context": "Né en Espagne dans une famille modeste, Mathieu Orfila échappe à une vie de marin imposée par son père grâce à sa passion pour la science et fuit vers la France en 1807. Naturalisé français en 1818, il devient professeur à la Faculté de médecine de Paris et révolutionne la médecine légale par ses travaux sur les poisons. Ses expériences sur des animaux vivants démontrent l'absorption des toxines dans les organes, contredisant les théories antérieures. Peu connu du grand public, il fut impliqué dans des procès célèbres comme celui de la duchesse de Berry, où ses analyses toxicologiques innocitèrent les accusés. Orfila fonda la toxicologie comme science autonome, publiant des traités qui devinrent des références internationales.",
     "dates": [
       {
-        "year": "1648",
-        "label": "Début Fronde parlementaire avec remontrances du Parlement de Paris"
+        "year": "1787",
+        "label": "Naissance à Mahón, Minorques"
       },
       {
-        "year": "Janvier 1649",
-        "label": "Émeutes des barricades à Paris"
+        "year": "1807",
+        "label": "Arrivée à Paris pour études"
       },
       {
-        "year": "Février 1649",
-        "label": "Siège de Paris par l'armée royale"
+        "year": "1818",
+        "label": "Naturalisation française et premier poste universitaire"
       },
       {
-        "year": "11 mars 1649",
-        "label": "Signature paix de Rueil"
+        "year": "1814",
+        "label": "Publication de 'Traité des poisons'"
       },
       {
-        "year": "1650",
-        "label": "Début Fronde des princes"
-      },
-      {
-        "year": "1653",
-        "label": "Fin totale de la Fronde avec paix d'Orléans"
+        "year": "1853",
+        "label": "Mort à Paris, le 12 mars"
       }
     ],
-    "legacy": "La paix de Rueil symbolise l'échec des tentatives nobiliaires à limiter l'absolutisme, favorisant la centralisation louis-quatorzienne et l'édification de Versailles. Elle influence les théories politiques sur la souveraineté, inspirant Locke et Montesquieu. Son héritage perdure dans les débats sur l'équilibre des pouvoirs en France moderne.",
-    "why": "Ironie : ce 'compromis' censé apaiser engendre une seconde Fronde plus violente, montrant comment la modération forcée peut semer les graines de révoltes futures."
+    "legacy": "Ses méthodes analytiques posèrent les bases de la médecine légale moderne, utilisées encore aujourd'hui dans les expertises judiciaires. Orfila influença la détection des crimes par empoisonnement, sauvant des innocents et condamnant des coupables. Sa postérité perdure dans les instituts de toxicologie et les manuels scientifiques.",
+    "why": "Dans un monde obsédé par les séries policières, on ignore que la science forensique naquit d'un autodidacte espagnol qui osa disséquer des chiens empoisonnés pour innocenter des victimes judiciaires."
   }
 }
