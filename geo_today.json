@@ -1,44 +1,36 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "news": [
     {
-      "title": "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran",
-      "summary": "Malgré les déclarations de Donald Trump affirmant que la guerre en Iran est « quasiment » finie, Israël a annoncé une nouvelle vague de frappes « de grande ampleur » sur Téhéran. Au dixième jour de la guerre, la fréquence des tirs de missiles et de drones iraniens baisse, mais le régime iranien est loin de capituler. Cette escalade militaire contredit directement les appels à la désescalade du président américain et risque de prolonger significativement le conflit régional.",
-      "why": "Cette annonce marque une divergence stratégique majeure entre Washington et Israël et signale que le conflit pourrait durer bien plus longtemps que prévu, avec des implications économiques et géopolitiques majeures pour la stabilité mondiale.",
+      "title": "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
+      "summary": "Israël et les États-Unis ont mené des frappes conjointes sur Téhéran et des sites militaires iraniens, causant la mort du guide suprême iranien, l’Ayatollah Khamenei, et ciblant des infrastructures stratégiques ainsi que des responsables de haut rang. Un conseil de direction provisoire assure désormais la continuité du pouvoir à Téhéran, tandis que l’Iran a riposté avec des missiles et drones contre des positions américaines, israéliennes et des bases dans le Golfe. Cette escalade marque un tournant majeur, risquant une fermeture du détroit d’Ormuz par où transitent 10-20% du pétrole mondial, et étend les hostilités aux pays du Golfe. L’ONU, l’OTAN et le G7 observent pour l’instant sans intervention directe, mais les marchés entrent en mode risk-off avec une aversion accrue au risque.[3]",
+      "why": "La mort du leader suprême iranien fragilise le régime et risque une déstabilisation régionale majeure, avec des chocs économiques mondiaux via les prix de l’énergie.",
       "category": "Conflit"
     },
     {
-      "title": "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "summary": "Mojtaba Khamenei, fils du Guide suprême Ali Khamenei, a été choisi pour remplacer son père à la tête du régime iranien. Cette désignation intervient en pleine guerre contre Israël et les bombardements intensifs sur Téhéran. Elle reflète la volonté du régime de assurer la continuité du pouvoir malgré les frappes aériennes et les pertes militaires. Cette transition de pouvoir en temps de crise renforce la centralité du contrôle familial dans la structure de gouvernance iranienne.",
-      "why": "Cette succession au sommet de l'État iranien en période de conflit armé a des implications majeures pour la capacité de résistance du régime et pour les négociations futures, signalant une consolidation du pouvoir plutôt qu'une ouverture diplomatique.",
+      "title": "Pete Hegseth annonce le jour le plus intense de frappes sur l'Iran",
+      "summary": "Le secrétaire d’État américain à la guerre, Pete Hegseth, a promis que le 11 mars 2026 serait marqué par le plus grand nombre d’avions de combat et de bombardiers contre l’Iran, contredisant les déclarations de Trump sur une fin imminente de la guerre. Malgré les propos rassurants de Trump en Floride sur la 'quasi-fin' du conflit, les opérations militaires s’intensifient, pesant sur les consommateurs américains via la hausse des prix. Les capacités militaires iraniennes semblent affaiblies, mais Téhéran menace de bloquer les exportations pétrolières régionales. Cette contradiction relance les spéculations sur une sortie du conflit ou une escalade prolongée.[4][2]",
+      "why": "Ces déclarations contradictoires de l'administration Trump créent de l'incertitude stratégique et influencent directement les marchés énergétiques mondiaux.",
       "category": "Conflit"
     },
     {
-      "title": "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30%",
-      "summary": "Suite aux frappes israéliennes sur les installations pétrolières iraniennes et au blocage du détroit d'Ormuz par la guerre, le prix du baril de pétrole a dépassé les 115 dollars et le gaz européen a bondi d'environ 30% en une seule journée (9 mars). Les ministres des Finances du G7 se sont réunis sous présidence française pour envisager un recours aux réserves stratégiques de pétrole. Le gouvernement français a annoncé un plan exceptionnel de 500 contrôles dans les stations-service pour lutter contre les « hausses abusives des prix à la pompe ».",
-      "why": "Cette flambée des prix énergétiques menace la stabilité économique mondiale et européenne, avec des risques de crise économique si le conflit persiste, affectant directement le pouvoir d'achat des citoyens et la compétitivité industrielle.",
+      "title": "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
+      "summary": "L'Iran a menacé de bloquer les exportations de pétrole de la région via le détroit d’Ormuz tant que la guerre durera, accentuant la flambée des prix déjà au-delà de 115 dollars le baril et un bond de 30% du gaz européen. Cette dépendance asiatique au pétrole du Golfe est mise en lumière, avec des perturbations comme l'attaque de drone sur l'aéroport de Dubaï et des sites énergétiques au Qatar et Émirats. Téhéran réaffirme sa défense 'œil pour œil' et cherche des soutiens au Sahel et Maghreb, malgré l'échec d'un accord uranio-iranien avec le Niger sous pression US. Les marchés anticipent un risk-off durable avec soutien aux actifs défensifs.[2][3]",
+      "why": "Une fermeture d’Ormuz provoquerait un choc pétrolier mondial, impactant l’économie globale et forçant des réalignements énergétiques urgents.",
       "category": "Énergie"
     },
     {
-      "title": "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
-      "summary": "Emmanuel Macron a annoncé depuis Chypre le déploiement de « huit frégates, deux porte-hélicoptères amphibies » et du porte-avions « Charles-de-Gaulle » pour contribuer à la sécurité du détroit d'Ormuz et de la Mer Rouge. Le président français a réaffirmé que la France ne participe pas à la guerre en Iran mais estime que « ce conflit va durer ». Cette mission est présentée comme « purement préventive » et s'accompagne de contacts diplomatiques maintenus avec tous les chefs d'État de la région, y compris l'Iran.",
-      "why": "Ce déploiement militaire majeur positionne la France comme acteur de stabilisation régionale indépendant des États-Unis, tout en signalant l'ampleur des risques pour le commerce maritime et l'énergie mondiale.",
-      "category": "Sécurité"
+      "title": "Critiques européennes contre les frappes israélo-américaines sur l'Iran",
+      "summary": "Les capitales européennes comme Paris, Londres et Madrid sont accusées de malfaisance chronique contre Israël par minimisant les enjeux sécuritaires des opérations conjointes contre l’Iran, privilégiant la diplomatie. Emmanuel Macron, Keir Starmer et Pedro Sánchez reflètent une volonté élitiste de limiter l’influence stratégique israélienne au Moyen-Orient. Malgré cela, la France déploie une force navale massive pour sécuriser Ormuz. Ces positions contrastent avec les appels iraniens pro-intervention et les analyses soulignant la nécessité de frapper fort avant une pression US.[5]",
+      "why": "Les divergences transatlantiques affaiblissent la cohésion occidentale face à l’escalade iranienne et pourraient compliquer une réponse unifiée.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
-      "summary": "L'ONG Human Rights Watch a accusé Israël d'utiliser « illégalement » du phosphore blanc au Liban, affirmant avoir « vérifié et géolocalisé sept images montrant des munitions au phosphore blanc » sur des zones habitées dans le sud du pays juste après le début de l'offensive contre le Hezbollah. Ces accusations interviennent alors que l'armée israélienne poursuit ses bombardements massifs au Liban, causant de nombreuses victimes civiles et environ 95 000 déplacés. L'utilisation de phosphore blanc dans les zones peuplées soulève des questions majeures de droit humanitaire international.",
-      "why": "Ces accusations de violations du droit international humanitaire risquent de compliquer les efforts diplomatiques et pourraient affecter le soutien international à Israël, tout en renforçant le crédit du Hezbollah auprès des populations civiles libanaises.",
-      "category": "Conflit"
+      "title": "ONU intensifie l’aide humanitaire au Moyen-Orient face aux tensions persistantes",
+      "summary": "Les combats en Syrie, Irak et les tensions Israël-Hezbollah ont poussé l’ONU à renforcer ses efforts humanitaires, avec des couloirs de sécurité fragiles et des populations déplacées record. Au Liban sud, 95 000 personnes ont fui les raids israéliens, aggravés par des accusations d’usage de phosphore blanc. Cette crise humanitaire s’ajoute à l’escalade Iran, rendant l’Arctique et Groenland des enjeux secondaires via la visite de von der Leyen. Les défis climatiques et économiques se croisent dans ce théâtre géopolitique élargi.[1]",
+      "why": "L’aggravation humanitaire risque de déstabiliser davantage la région, forçant une mobilisation internationale accrue au-delà des seuls aspects militaires.",
+      "category": "Sécurité"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade militaire continue malgré les déclarations de fin de guerre de Trump",
-      "original": "Donald Trump appelle explicitement au renversement du régime iranien (09/03/2026)",
-      "summary": "Alors que Donald Trump avait déclaré le 9 mars que la guerre en Iran était « quasiment » finie et avait annoncé des négociations iraniennes, Israël a annoncé le 11 mars une nouvelle vague de frappes « de grande ampleur » sur Téhéran. Cette divergence entre les déclarations américaines et les actions israéliennes montre une rupture stratégique majeure. Le régime iranien, loin de capituler, a désigné son successeur et maintient sa capacité de riposte, bien que réduite. L'escalade militaire se poursuit donc malgré les appels à la désescalade.",
-      "why": "Cette contradiction entre les déclarations de Trump et les actions d'Israël révèle une perte de contrôle américain sur le conflit et signale que la guerre pourrait s'étendre et durer bien plus longtemps que prévu, avec des conséquences économiques et géopolitiques majeures.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
