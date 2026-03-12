@@ -1,16 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": [
-      "Israël intensifie ses frappes sur Beyrouth et engage des affrontements directs avec le Hezbollah au Liban",
-      "Espagne refuse l'accès à ses bases militaires aux USA et subit un blocus commercial de Trump",
-      "Chine annonce une hausse de 7% de son budget militaire pour 2026 à 238,7 milliards d'euros",
-      "Brésil ratifie l'accord Mercosur-UE, ne manque plus que le Paraguay",
-      "Zelensky refuse de réparer l'oléoduc vers la Hongrie et menace Orban sur le prêt européen",
-      "Israël étend ses bombardements de Téhéran au Liban avec frappes sur Beyrouth"
-    ]
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "Israël entre dans une nouvelle phase d'offensive contre l'Iran et le Liban",
@@ -70,6 +59,16 @@
       "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
       "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
       "Escalade militaire continue malgré les déclarations de fin de guerre de Trump"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
+      "Pete Hegseth annonce le jour le plus intense de frappes sur l'Iran",
+      "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
+      "Critiques européennes contre les frappes israélo-américaines sur l'Iran",
+      "ONU intensifie l’aide humanitaire au Moyen-Orient face aux tensions persistantes"
     ]
   }
 ]
