@@ -1,9 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": []
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "Japon approuve les premiers traitements par cellules souches iPS pour Parkinson et maladies cardiaques",
@@ -52,6 +48,17 @@
     "titles": [
       "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
       "Détection d'éclairs sur Mars expliquant variations de méthane"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Protoxyde d'azote : traitement rapide de la dépression sévère",
+      "Nanoparticules lipidiques : amélioration de la fonction mitochondriale",
+      "Comète C/2026 A1 (MAPS) : raseur solaire potentiellement spectaculaire",
+      "Inflammations de bas grade : rôle majeur dans les maladies chroniques",
+      "Sommeil profond : système de nettoyage cérébral dix fois plus actif",
+      "Modèles prédictifs de maladies : outils MIT-Harvard validés"
     ]
   }
 ]
