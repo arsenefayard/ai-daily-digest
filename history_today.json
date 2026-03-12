@@ -1,33 +1,33 @@
 {
   "date": "12/03/2026",
   "subject": {
-    "name": "Mathieu Orfila",
-    "type": "Personnalité",
-    "period": "1787 – 1853 · Époque moderne (père de la toxicologie)",
-    "context": "Né en Espagne dans une famille modeste, Mathieu Orfila échappe à une vie de marin imposée par son père grâce à sa passion pour la science et fuit vers la France en 1807. Naturalisé français en 1818, il devient professeur à la Faculté de médecine de Paris et révolutionne la médecine légale par ses travaux sur les poisons. Ses expériences sur des animaux vivants démontrent l'absorption des toxines dans les organes, contredisant les théories antérieures. Peu connu du grand public, il fut impliqué dans des procès célèbres comme celui de la duchesse de Berry, où ses analyses toxicologiques innocitèrent les accusés. Orfila fonda la toxicologie comme science autonome, publiant des traités qui devinrent des références internationales.",
+    "name": "Marche du Sel",
+    "type": "Événement",
+    "period": "1930 · Lutte pour l'indépendance de l'Inde",
+    "context": "Au cœur de la domination britannique en Inde, Mahatma Gandhi lance une campagne de désobéissance civile non violente pour défier le monopole d'État sur le sel, un bien essentiel taxé lourdement. Parti de son ashram de Sabarmati, il mobilise des milliers d'adeptes dans une marche symbolique vers l'océan, incarnant la résistance passive contre l'oppression coloniale. Cette action galvanise la population indienne, transcendant les castes et les religions, et met en lumière l'injustice économique imposée par les Britanniques. Elle provoque des arrestations massives, dont celle de Gandhi, mais révèle la fragilité du Raj britannique face à une mobilisation populaire pacifique. Peu connu : des femmes comme Sarojini Naidu prennent la tête de la production de sel illégale, marquant un tournant féministe dans le mouvement.",
     "dates": [
       {
-        "year": "1787",
-        "label": "Naissance à Mahón, Minorques"
+        "year": "1930",
+        "label": "Départ de la marche depuis l'ashram de Sabarmati"
       },
       {
-        "year": "1807",
-        "label": "Arrivée à Paris pour études"
+        "year": "6 avril 1930",
+        "label": "Arrivée à Dandi et ramassage symbolique de sel"
       },
       {
-        "year": "1818",
-        "label": "Naturalisation française et premier poste universitaire"
+        "year": "1930",
+        "label": "Arrestation de Gandhi et de 60 000 partisans"
       },
       {
-        "year": "1814",
-        "label": "Publication de 'Traité des poisons'"
+        "year": "1931",
+        "label": "Accord de Gandhi-Irwin libérant les prisonniers"
       },
       {
-        "year": "1853",
-        "label": "Mort à Paris, le 12 mars"
+        "year": "1942",
+        "label": "Inspiration pour le Quit India Movement"
       }
     ],
-    "legacy": "Ses méthodes analytiques posèrent les bases de la médecine légale moderne, utilisées encore aujourd'hui dans les expertises judiciaires. Orfila influença la détection des crimes par empoisonnement, sauvant des innocents et condamnant des coupables. Sa postérité perdure dans les instituts de toxicologie et les manuels scientifiques.",
-    "why": "Dans un monde obsédé par les séries policières, on ignore que la science forensique naquit d'un autodidacte espagnol qui osa disséquer des chiens empoisonnés pour innocenter des victimes judiciaires."
+    "legacy": "La Marche du Sel accélère l'indépendance de l'Inde en 1947 et popularise la satyagraha, méthode de non-violence adoptée mondialement par Martin Luther King et Nelson Mandela. Elle influence les mouvements de droits civiques contemporains, prouvant l'efficacité de la désobéissance civile pacifique. Son iconographie perdure dans la culture populaire et les études anticoloniales.",
+    "why": "Dans un monde de conflits armés, elle rappelle qu'une pincée de sel peut ébranler un empire, démontrant le pouvoir disruptif de la simplicité."
   }
 }
