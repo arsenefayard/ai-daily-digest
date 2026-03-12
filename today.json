@@ -2,34 +2,34 @@
   "date": "12/03/2026",
   "news": [
     {
-      "title": "CyberStrikeAI : Outil open source détourné par pirates pour attaques IA sur pare-feu Fortinet",
-      "summary": "Des chercheurs ont identifié CyberStrikeAI, une plateforme open source de test de sécurité IA, utilisée par des acteurs malveillants pour compromettre des centaines de pare-feu FortiGate. Cette campagne récente exploite l'IA pour automatiser des attaques sophistiquées, rendant les défenses traditionnelles obsolètes. L'outil génère des payloads IA personnalisés, augmentant l'efficacité des intrusions. Cela souligne la double utilisation des avancées IA en cybersécurité et cybercriminalité.",
-      "why": "Première adoption massive d'un outil IA open source par des hackers, marquant un tournant dans les cybermenaces automatisées.",
+      "title": "L’armée américaine utilise Claude malgré la rupture avec Anthropic",
+      "summary": "L’armée US aurait déployé le modèle Claude d’Anthropic pour préparer des frappes en Iran, seulement heures après l’annonce officielle de rupture pour motifs éthiques. Cela révèle l’intégration profonde des outils IA dans les opérations militaires, rendant leur retrait quasi-impossible malgré les blacklists. Les experts soulignent les risques de dépendance à des modèles tiers non alignés avec les priorités sécuritaires. Cette affaire met en lumière les tensions entre innovation rapide et contrôle stratégique.[1]",
+      "why": "Illustre les défis pratiques de réguler l’IA militaire une fois déployée, impactant la géopolitique et la confiance inter-entreprises-gouvernements.",
       "category": "Application"
     },
     {
-      "title": "EBU organise séminaire DTS 2026 sur l'IA au cœur des médias publics européens",
-      "summary": "Du 10 au 12 mars 2026 à Genève, l'Union européenne de radio-télévision (EBU) réunit experts pour 'Façonner l’avenir des médias avec l’IA et les données'. L'événement hybride se concentre sur le déploiement opérationnel de l'IA à grande échelle, de l'infrastructure aux services publics, face à la désinformation. Des cas concrets de gouvernance et d'intégration IA seront présentés. Inscriptions ouvertes avec tarif early bird.",
-      "why": "Premier grand rendez-vous européen sur l'IA opérationnelle dans les médias, influençant les standards pour les diffuseurs publics.",
+      "title": "CyberStrikeAI détourné par pirates pour attaques sur pare-feu Fortinet",
+      "summary": "L’outil open source CyberStrikeAI, conçu pour tester la sécurité IA, est exploité par des cybercriminels pour compromettre des centaines de pare-feu Fortinet FortiGate. Cette plateforme permet des attaques automatisées basées sur l’IA, adaptant en temps réel les vecteurs d’intrusion. Les chercheurs avertissent d’une prolifération rapide de telles menaces, avec le même acteur malveillant derrière plusieurs campagnes récentes. Les entreprises doivent renforcer leurs défenses contre les outils IA adverses.[1]",
+      "why": "Démontre comment l’open source IA peut être weaponisé, accélérant l’évolution des cybermenaces et nécessitant de nouvelles contre-mesures.",
       "category": "Application"
     },
     {
-      "title": "West Data Festival 2026 : Focus sur agents IA et transformation data en France",
-      "summary": "Du 10 au 12 mars à Laval, le West Data Festival, plus grand événement ouest-européen data/IA, met l'accent sur agents IA, cas d'usage et productivité. Ateliers pratiques et échanges en petit comité préparent les entreprises à l'agentique en 2026. Parallèlement, Hacktiv’ Summit les 12-13 mars à Chantilly cible cybersécurité IA. Ces salons marquent l'accélération de l'adoption IA en Europe.",
-      "why": "Événements phares révélant tendances 2026 comme l'agentique, essentiels pour professionnels data/IA.",
-      "category": "Recherche"
+      "title": "EBU organise séminaire DTS 2026 sur l’IA au cœur des médias publics",
+      "summary": "Du 10 au 12 mars 2026 à Genève, l’Union Européenne de Radio-Télévision (EBU) réunit experts pour 'Façonner l’avenir des médias avec l’IA et les données'. Focus sur déploiement à échelle de solutions IA pour journalisme, diffusion et lutte contre la désinformation. L’événement hybride passe de la théorie à l’opérationnel, couvrant gouvernance et infrastructures. Inscriptions ouvertes avec early bird pour membres.[3]",
+      "why": "Positionne l’IA comme pilier stratégique pour médias publics européens face à la désinformation, influençant régulations et standards continentaux.",
+      "category": "Application"
     },
     {
-      "title": "Boom IA 2026 : Géants tech émettent 428 Md$ obligations pour financer infrastructures",
-      "summary": "En 2025, les entreprises tech/IA ont levé 428,3 milliards de dollars via obligations pour financer data centers et puces, tendance s'accélérant en 2026. Préférant la dette à la dilution actionnariale, cela expose les marchés obligataires à la volatilité IA. Les gérants comme Corum analysent le risque crédit pour sélectionner des émissions solides. L'IA devient un driver majeur de la dette corporate.",
-      "why": "Chiffres records illustrent l'énorme besoin en capitaux pour l'IA, impactant marchés financiers globaux.",
+      "title": "Usages IA en éducation se généralisent : automatisation QCM et veille",
+      "summary": "En 2026, l’IA devient collègue virtuel pour idéation, challenge d’idées et automatisation de QCM via Gemini ou Claude dans l’enseignement. Outils comme Consensus vérifient consensus scientifique, tandis que prompts optimisés gèrent veille CPF et évaluations de stages. Nécessite vérification pour éviter hallucinations et respect RGPD pour synthèses de données apprenants. Professeurs rapportent gains massifs en productivité administrative.[4]",
+      "why": "Accélère transformation pédagogique, rendant l’IA incontournable en EdTech et impactant formation de millions d’apprenants.",
+      "category": "Application"
+    },
+    {
+      "title": "IA en entreprise atteint maturité en 2026 malgré complexité SI",
+      "summary": "2026 marque le passage de l’IA des prototypes aux déploiements réels, confrontés à la complexité des systèmes d’information existants. Les entreprises intègrent IA dans workflows concrets, au-delà des slides marketing. Focus sur maturité opérationnelle pour ROI mesurable. Tendances incluent agents IA et data pour productivité.[5]",
+      "why": "Signale l’année pivot où l’IA devient infrastructure d’entreprise viable, boostant économie via gains d’efficacité généralisés.",
       "category": "Entreprise"
-    },
-    {
-      "title": "L'IA face au droit : Jalons 2024-2026 de l'ONU à l'Inde accélèrent la gouvernance mondiale",
-      "summary": "De la résolution ONU mars 2024 à NIST.AI.600-1 juillet 2024 et New Delhi Declaration février 2026, l'IA passe de discours à régulation concrète. L'Inde officialise coalitions Sud global post-AI Impact Summit. Code of Practice UE pour GPAI (juillet 2025) impose transparence et sécurité dès août 2025. Ces étapes transforment l'IA en enjeu de gouvernance planétaire.",
-      "why": "Synthèse des avancées réglementaires récentes, montrant maturation rapide du cadre légal IA international.",
-      "category": "Régulation"
     }
   ],
   "updates": []
