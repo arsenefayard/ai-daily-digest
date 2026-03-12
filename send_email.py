@@ -63,16 +63,17 @@ def send_combined_email():
     </body></html>
     """
 
+    recipients = [r.strip() for r in receiver.split(',') if r.strip()]
     try:
         msg = MIMEMultipart()
         msg['Subject'] = f"📰 Daily Digest — {date_str}"
         msg['From']    = sender
-        msg['To']      = receiver
+        msg['To']      = ', '.join(recipients)
         msg.attach(MIMEText(html, 'html', 'utf-8'))
         with smtplib.SMTP_SSL('smtp.gmail.com', 465) as server:
             server.login(sender, password)
-            server.send_message(msg)
-        print("✅ Email combiné envoyé !")
+            server.sendmail(sender, recipients, msg.as_string())
+        print(f"✅ Email combiné envoyé à {len(recipients)} destinataire(s) !")
         return True
     except Exception as e:
         print(f"❌ Erreur : {e}"); return False
