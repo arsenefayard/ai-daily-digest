@@ -1,35 +1,35 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "news": [
     {
-      "title": "Le paradoxe de l'hôtel de Hilbert en mathématiques",
-      "summary": "Le paradoxe de l'hôtel de Hilbert, imaginé par le mathématicien David Hilbert, illustre l'infini cardinal en comptable. Un hôtel infini de chambres, toutes occupées, peut accueillir un nouveau client en décalant chaque occupant d'une chambre vers la suivante, libérant la chambre 1. Pour une infinité de nouveaux arrivants, on utilise les chambres paires ou impaires. Ce paradoxe démontre que les infinis peuvent avoir des tailles différentes, comme l'ensemble des nombres naturels et des rationnels.",
-      "why": "Il rend accessible la théorie des ensembles et les cardinaux infinis, essentiels en mathématiques modernes.",
-      "category": "Philosophie"
-    },
-    {
-      "title": "La plus grande fleur du monde : Rafflesia arnoldii",
-      "summary": "La Rafflesia arnoldii, découverte en Indonésie par Sir Thomas Stamford Raffles en 1818, est la plus grande fleur individuelle du monde avec un diamètre atteignant 1 mètre et un poids jusqu'à 11 kg. Sans tige ni feuilles, elle est un parasite vivant sur des vignes de Tetrastigma, émettant une odeur de chair putride pour attirer les mouches pollinisatrices. Menacée par la déforestation, elle symbolise la fragilité des écosystèmes tropicaux. Sa floraison rare, d'environ 5 jours, en fait un spectacle éphémère.",
-      "why": "Ce record naturel révèle les adaptations extrêmes de la flore et alerte sur la biodiversité en péril.",
+      "title": "La cathédrale engloutie de Yubari au Japon",
+      "summary": "Au cœur de l'île de Hokkaidō se trouve la ville minière abandonnée de Yubari, dont la cathédrale construite en 1929 par des mineurs italiens gît aujourd'hui sous les eaux d'un lac artificiel formé par l'effondrement des mines. Ce sanctuaire néo-roman, orné de fresques religieuses, émerge parfois lors des basses eaux, offrant un spectacle spectral. Symbole de l'exploitation charbonnière japonaise du XXe siècle, elle rappelle les 1 500 habitants qui vivaient là avant la fermeture des puits en 1975. Les plongeurs explorent encore ses ruines subaquatiques, préservées par l'eau froide.",
+      "why": "Ce lieu illustre les cicatrices industrielles du Japon moderne et fascine par son mélange d'architecture européenne et de nature reclaimée.",
       "category": "Insolite"
     },
     {
-      "title": "Le premier film de l'histoire : La Sortie de l'usine Lumière",
-      "summary": "Sorti le 22 mars 1895, 'La Sortie de l'usine Lumière à Lyon' est considéré comme le premier film de l'histoire du cinéma, réalisé par Louis Lumière. Tourné en 46 secondes avec un Cinématographe, il montre des ouvriers sortant de l'usine des frères Lumière, capturant le mouvement réel pour la première fois. Projeté publiquement le 28 décembre 1895 à Paris, il marque la naissance du 7e art. Plusieurs versions existent, montrant l'évolution de la technique.",
-      "why": "Il pose les bases du cinéma moderne et illustre l'innovation technologique du XIXe siècle.",
+      "title": "Le théorème de Gödel : les limites de la mathématique",
+      "summary": "En 1931, Kurt Gödel publie ses théorèmes d'incomplétude, prouvant qu'aucun système axiomatique cohérent capable d'embrasser l'arithmétique ne peut être à la fois complet et consistant. Cela signifie qu'il existe toujours des vérités mathématiques indémontrables au sein du système lui-même. Cette découverte ébranle les fondations des mathématiques posées par Hilbert et Frege, montrant que la quête d'une vérité absolue est impossible. Gödel utilisa un codage ingénieux pour 'traduire' les énoncés en nombres, révélant ces paradoxes internes.",
+      "why": "Il révèle les frontières intrinsèques de la raison humaine et influence la philosophie des sciences jusqu'à aujourd'hui.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Le premier court-métrage d'animation : Fantasmagorie de 1908",
+      "summary": "Réalisé par Émile Cohl, Fantasmagorie est considéré comme le premier film d'animation de l'histoire, composé de 700 dessins noir et blanc projetés à 16 images par seconde sur deux minutes. Ce chef-d'œuvre muet montre un bâtonnet magique se transformant en une succession d'images absurdes et oniriques, préfigurant le surréalisme. Cohl, pionnier français du cinéma, l'a créé en inversant des dessins sur papier calque pour un effet fluide. Restauré en couleur dans les années 2000, il reste un trésor des Archives françaises du film.",
+      "why": "Il marque la naissance de l'animation moderne et démontre l'ingéniosité technique du début du XXe siècle.",
       "category": "Cinéma"
     },
     {
-      "title": "L'effet Barnum en psychologie : l'illusion de la personnalisation",
-      "summary": "L'effet Barnum, nommé d'après le célèbre showman P.T. Barnum, décrit comment les gens acceptent des descriptions vagues et générales comme précisément adaptées à leur personnalité. Utilisé dans les horoscopes, tests de personnalité ou cold reading, il repose sur la tendance humaine à ignorer les inexactitudes et à valoriser les concordances. Décrit par le psychologue Bertram Forer en 1948 via un test bidon, il explique la popularité des prédictions astrologiques. Cet effet met en lumière les biais cognitifs quotidiens.",
-      "why": "Il éclaire pourquoi les pseudosciences persistent et aide à développer un esprit critique.",
-      "category": "Psychologie"
+      "title": "La découverte de la quinine et la fin du paludisme colonial",
+      "summary": "En 1820, les pharmaciens Pelletier et Caventou isolent la quinine de l'écorce de quinquina, remède amérindien contre le paludisme connu depuis les Incas. Cette molécule sauve des millions de vies en Europe et permet la colonisation de l'Afrique tropicale par les puissances européennes. Utilisée par l'armée française dès 1850, elle multiplie par dix l'espérance de vie des soldats en Algérie. Aujourd'hui synthétisée, elle reste un pilier du traitement antipaludique malgré les résistances bactériennes.",
+      "why": "Cette avancée pharmacologique a redessiné l'histoire mondiale en rendant habitables les zones tropicales.",
+      "category": "Histoire"
     },
     {
-      "title": "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
-      "summary": "Pavlopetri, située au large de l'île grecque de Laconia, est la plus ancienne ville submergée connue, datant de 5000 ans av. J.-C. (environ 3000 av. J.-C.), avec rues, bâtiments et tombes préservés sous 3-4 mètres d'eau. Découverte en 1967, explorée en 3D en 2009, elle comptait jusqu'à 2000 habitants et un système d'égouts avancé. Inondée par un tremblement de terre vers 1000 av. J.-C., elle offre un aperçu intact de l'urbanisme minoen. Les fouilles virtuelles révèlent son architecture sophistiquée.",
-      "why": "Elle témoigne des premières civilisations urbaines et des impacts sismiques sur l'histoire humaine.",
-      "category": "Histoire"
+      "title": "Le record de la plus longue sieste : 23 jours en 1959",
+      "summary": "Eugene Nelson, un ouvrier américain, détient le record Guinness de la plus longue sieste, restant endormi 23 jours consécutifs après un pari lors d'une fête. Placé sous surveillance médicale, il fut réveillé progressivement pour éviter le choc. Ce fait insolite, validé à l'époque, illustre les extrêmes humains avant les restrictions modernes sur les records dangereux. Nelson reprit une vie normale sans séquelles apparentes.",
+      "why": "Il met en lumière les limites physiologiques du sommeil et l'absurdité des défis humains du milieu du XXe siècle.",
+      "category": "Insolite"
     }
   ],
   "updates": []
