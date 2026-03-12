@@ -1,15 +1,5 @@
 [
   {
-    "date": "08/03/2026",
-    "titles": [
-      "Japon approuve les premiers traitements par cellules souches iPS pour Parkinson et maladies cardiaques",
-      "Découverte du phénomène de 'Cheval de Troie viral' : des virus voyagent à l'intérieur d'autres virus",
-      "Confirmation de la 29e lune d'Uranus enrichissant le système uranien",
-      "Détection de minéraux réox sensibles sur Mars par le rover Perseverance",
-      "Missions spatiales Europa Clipper et JUICE en route vers les lunes-océans de Jupiter"
-    ]
-  },
-  {
     "date": "09/03/2026",
     "titles": [
       "BepiColombo observe des ions hydrogène chauds piégés dans la magnétosphère de Mercure",
@@ -48,6 +38,17 @@
     "titles": [
       "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
       "Détection d'éclairs sur Mars expliquant variations de méthane"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Protoxyde d'azote : traitement rapide de la dépression sévère",
+      "Nanoparticules lipidiques : amélioration de la fonction mitochondriale",
+      "Comète C/2026 A1 (MAPS) : raseur solaire potentiellement spectaculaire",
+      "Inflammations de bas grade : rôle majeur dans les maladies chroniques",
+      "Sommeil profond : système de nettoyage cérébral dix fois plus actif",
+      "Modèles prédictifs de maladies : outils MIT-Harvard validés"
     ]
   },
   {
