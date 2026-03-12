@@ -1,15 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": [
-      "FMI met en garde contre un nouveau choc économique mondial dû au conflit au Moyen-Orient",
-      "Chine prévoit d'émettre 300 milliards de yuans d'obligations spéciales pour recapitaliser ses banques",
-      "Commission européenne dévoile un plan industriel excluant la Chine des financements publics de l'UE",
-      "Procès-verbaux de la BCE et Jobless Claims US au centre des événements économiques du 5 mars",
-      "Coût du transport de pétrole US vers l'Asie atteint des records historiques"
-    ]
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "États-Unis et Mexique préparent examen de l'AEUMC sous pression tarifaire de Trump",
@@ -69,6 +59,17 @@
       "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
       "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
       "Volkswagen annonce la suppression de 50 000 emplois après une année critique"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées",
+      "Inflation européenne : risque de 3-4% supplémentaires si les cours énergétiques se maintiennent",
+      "Détroit d'Ormuz : simple menace suffisante pour bloquer la navigation, 20% du pétrole mondial en jeu",
+      "CAC 40 en baisse de 0,98% : secteur automobile effondré avec pertes records de Stellantis et Renault",
+      "Trump instaure droits de douane mondiaux de 15% après annulation judiciaire des précédents tarifs",
+      "Détente des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient"
     ]
   }
 ]
