@@ -1,15 +1,5 @@
 [
   {
-    "date": "08/03/2026",
-    "titles": [
-      "États-Unis et Mexique préparent examen de l'AEUMC sous pression tarifaire de Trump",
-      "Conseil de l'UE approuve mécanisme de sauvegarde pour accord UE-Mercosur sur produits agricoles",
-      "Canada lance sa 6e série d'obligations vertes avec succès",
-      "Canada annonce stratégie ambitieuse pour l'industrie automobile et l'électrification",
-      "LG Energy rachète les parts de Stellantis dans l'usine de batteries NextStar en Ontario"
-    ]
-  },
-  {
     "date": "09/03/2026",
     "titles": [
       "Rapport sur l'emploi américain faible impacte les attentes de la Fed",
@@ -70,6 +60,16 @@
       "CAC 40 en baisse de 0,98% : secteur automobile effondré avec pertes records de Stellantis et Renault",
       "Trump instaure droits de douane mondiaux de 15% après annulation judiciaire des précédents tarifs",
       "Détente des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Chute brutale des prix du pétrole et du gaz après déclarations de Trump",
+      "France reconduit la contribution exceptionnelle sur l'IS des grandes entreprises",
+      "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
+      "Impôts locaux en légère hausse en 2026 due à la faible inflation de 2025",
+      "Bitcoin repasse au-dessus de 70 000 dollars dans contexte de tensions géopolitiques"
     ]
   }
 ]
