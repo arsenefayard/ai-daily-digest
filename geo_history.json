@@ -1,15 +1,5 @@
 [
   {
-    "date": "08/03/2026",
-    "titles": [
-      "Israël entre dans une nouvelle phase d'offensive contre l'Iran et le Liban",
-      "Coalition américano-israélienne mobilise les Kurdes irakiens pour attaque nord-ouest contre l'Iran",
-      "Donald Trump annonce négociations iraniennes et stabilité des prix du pétrole malgré blocus d'Ormuz",
-      "Renforts militaires européens : Grèce, France et Chypre se préparent face à la guerre au Moyen-Orient",
-      "Hongrie bloque prêt européen de 90 milliards à l'Ukraine sur dispute oléoduc"
-    ]
-  },
-  {
     "date": "09/03/2026",
     "titles": [
       "Israël intensifie ses frappes sur Téhéran et étend les opérations au Liban",
@@ -69,6 +59,16 @@
       "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
       "Critiques européennes contre les frappes israélo-américaines sur l'Iran",
       "ONU intensifie l’aide humanitaire au Moyen-Orient face aux tensions persistantes"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
+      "Pete Hegseth annonce le jour le plus intense de frappes sur l'Iran",
+      "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
+      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
+      "Critiques européennes contre les frappes israélo-américaines sur l'Iran"
     ]
   }
 ]
