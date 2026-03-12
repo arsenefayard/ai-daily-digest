@@ -1,35 +1,35 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "news": [
     {
-      "title": "Claude Cowork d'Anthropic provoque une panique boursière avec 285 milliards de dollars évaporés",
-      "summary": "Le lancement surprise de Claude Cowork, un agent IA collaboratif d'Anthropic, a déclenché une chute brutale des marchés actions, effaçant 285 milliards de dollars de capitalisation en quelques heures. Les investisseurs craignent une disruption massive des workflows professionnels traditionnels, avec des capacités d'automatisation avancée en codage, analyse de données et gestion de projets. Anthropic met en avant des garde-fous éthiques renforcés, mais les marchés réagissent à la vitesse d'adoption fulgurante observée chez les beta-testeurs. Cette volatilité souligne la sensibilité des valorisations tech aux avancées IA agentiques.",
-      "why": "Cet événement marque un tournant dans la perception des agents IA comme menace immédiate pour la productivité humaine, amplifiant les débats sur la monétisation et les impacts socio-économiques.",
+      "title": "CyberStrikeAI : Outil open source détourné par pirates pour attaques IA sur pare-feu Fortinet",
+      "summary": "Des chercheurs ont identifié CyberStrikeAI, une plateforme open source de test de sécurité IA, utilisée par des acteurs malveillants pour compromettre des centaines de pare-feu FortiGate. Cette campagne récente exploite l'IA pour automatiser des attaques sophistiquées, rendant les défenses traditionnelles obsolètes. L'outil génère des payloads IA personnalisés, augmentant l'efficacité des intrusions. Cela souligne la double utilisation des avancées IA en cybersécurité et cybercriminalité.",
+      "why": "Première adoption massive d'un outil IA open source par des hackers, marquant un tournant dans les cybermenaces automatisées.",
+      "category": "Application"
+    },
+    {
+      "title": "EBU organise séminaire DTS 2026 sur l'IA au cœur des médias publics européens",
+      "summary": "Du 10 au 12 mars 2026 à Genève, l'Union européenne de radio-télévision (EBU) réunit experts pour 'Façonner l’avenir des médias avec l’IA et les données'. L'événement hybride se concentre sur le déploiement opérationnel de l'IA à grande échelle, de l'infrastructure aux services publics, face à la désinformation. Des cas concrets de gouvernance et d'intégration IA seront présentés. Inscriptions ouvertes avec tarif early bird.",
+      "why": "Premier grand rendez-vous européen sur l'IA opérationnelle dans les médias, influençant les standards pour les diffuseurs publics.",
+      "category": "Application"
+    },
+    {
+      "title": "West Data Festival 2026 : Focus sur agents IA et transformation data en France",
+      "summary": "Du 10 au 12 mars à Laval, le West Data Festival, plus grand événement ouest-européen data/IA, met l'accent sur agents IA, cas d'usage et productivité. Ateliers pratiques et échanges en petit comité préparent les entreprises à l'agentique en 2026. Parallèlement, Hacktiv’ Summit les 12-13 mars à Chantilly cible cybersécurité IA. Ces salons marquent l'accélération de l'adoption IA en Europe.",
+      "why": "Événements phares révélant tendances 2026 comme l'agentique, essentiels pour professionnels data/IA.",
+      "category": "Recherche"
+    },
+    {
+      "title": "Boom IA 2026 : Géants tech émettent 428 Md$ obligations pour financer infrastructures",
+      "summary": "En 2025, les entreprises tech/IA ont levé 428,3 milliards de dollars via obligations pour financer data centers et puces, tendance s'accélérant en 2026. Préférant la dette à la dilution actionnariale, cela expose les marchés obligataires à la volatilité IA. Les gérants comme Corum analysent le risque crédit pour sélectionner des émissions solides. L'IA devient un driver majeur de la dette corporate.",
+      "why": "Chiffres records illustrent l'énorme besoin en capitaux pour l'IA, impactant marchés financiers globaux.",
       "category": "Entreprise"
     },
     {
-      "title": "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
-      "summary": "Près de 900 employés des géants Google et OpenAI ont cosigné une lettre ouverte dénonçant l'usage militaire de l'IA, appelant à un moratoire sur les contrats avec les armées. Ils citent des risques éthiques majeurs, comme l'escalade incontrôlée des conflits via des systèmes autonomes. Cette mobilisation interne survient après des révélations sur des partenariats secrets avec le Pentagone. Les signataires exigent une transparence accrue et des audits indépendants sur les applications dual-use.",
-      "why": "Cette fronde interne révèle des tensions croissantes au sein des labs IA leaders, potentiellement influençant les politiques d'entreprises et les régulations publiques.",
+      "title": "L'IA face au droit : Jalons 2024-2026 de l'ONU à l'Inde accélèrent la gouvernance mondiale",
+      "summary": "De la résolution ONU mars 2024 à NIST.AI.600-1 juillet 2024 et New Delhi Declaration février 2026, l'IA passe de discours à régulation concrète. L'Inde officialise coalitions Sud global post-AI Impact Summit. Code of Practice UE pour GPAI (juillet 2025) impose transparence et sécurité dès août 2025. Ces étapes transforment l'IA en enjeu de gouvernance planétaire.",
+      "why": "Synthèse des avancées réglementaires récentes, montrant maturation rapide du cadre légal IA international.",
       "category": "Régulation"
-    },
-    {
-      "title": "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
-      "summary": "OpenAI a dévoilé Codex Security, un agent IA spécialisé dans la détection automatisée de vulnérabilités logicielles, capable d'analyser du code en temps réel avec une précision surpassant les outils traditionnels. Basé sur une évolution de Codex, il intègre des capacités de remédiation proactive et de simulation d'attaques. Testé sur des benchmarks comme CVE, il réduit les temps de réponse de 70%. Cette sortie vise à contrer la montée des cybermenaces boostées par l'IA générative.",
-      "why": "Codex Security positionne OpenAI comme leader en IA défensive, adressant un marché cybersécurité en explosion estimé à des centaines de milliards.",
-      "category": "Application"
-    },
-    {
-      "title": "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
-      "summary": "Mozilla a publié Firefox 148, introduisant un panneau centralisé pour gérer toutes les fonctionnalités IA du navigateur, incluant un 'coupe-circuit' total bloquant tout appel à des modèles externes. Cette mise à jour corrige aussi des failles sandbox liées à l'IA et permet un contrôle granulaire par site. Elle répond aux préoccupations croissantes sur la fuite de données vers des serveurs cloud IA. Disponible immédiatement, elle renforce la posture privacy-first de Firefox.",
-      "why": "Cette innovation démocratise le contrôle utilisateur sur l'IA, influençant potentiellement les standards des navigateurs face aux régulations comme le DMA européen.",
-      "category": "Application"
-    },
-    {
-      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
-      "summary": "Le Baromètre du numérique 2026 révèle que 48% des Français ont utilisé l'IA au cours des derniers mois, avec un pic à 78% chez les 18-24 ans pour des tâches comme la génération de texte ou d'images. L'étude met en lumière une accélération post-2025, dopée par les apps gratuites et l'intégration mobile. Cependant, 62% expriment des craintes sur la vie privée et les biais. Ces données soulignent une maturité rapide du marché français.",
-      "why": "Ces chiffres confirment l'adoption mainstream de l'IA en Europe, guidant les stratégies d'entreprises et les politiques publiques sur formation et régulation.",
-      "category": "Recherche"
     }
   ],
   "updates": []
