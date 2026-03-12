@@ -2,43 +2,35 @@
   "date": "12/03/2026",
   "news": [
     {
-      "title": "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées",
-      "summary": "Les cours du pétrole s'inscrivent durablement entre 110 et 120 dollars le baril, alimentant les craintes de stagflation et de correction boursière prolongée. Selon Goldman Sachs, une fermeture du détroit d'Ormuz pendant quatre semaines pourrait ajouter 15 dollars supplémentaires au prix du baril. Les investisseurs redoutent un choc économique durable amplifié par cette flambée énergétique, avec BlackRock s'interrogeant déjà sur l'impact sur la croissance en 2026. Cette hausse durable des prix de l'énergie ravive les tensions inflationnistes et exerce une pression supplémentaire sur les marchés obligataires.",
-      "why": "Le pétrole à ces niveaux menace directement la croissance mondiale et l'inflation, remettant en question la trajectoire des baisses de taux attendues et fragilisant la reprise économique.",
+      "title": "Chute brutale des prix du pétrole et du gaz après déclarations de Trump",
+      "summary": "Les prix du pétrole ont chuté de 10% ce mardi 10 mars suite à des propos de Donald Trump évoquant une possible résolution rapide du conflit au Moyen-Orient. Le gaz suit la même tendance à la baisse, soulageant temporairement les pressions inflationnistes mondiales. Cette volatilité intervient après une période de flambée à 110-120 dollars le baril due aux tensions au détroit d'Ormuz. Les marchés réagissent avec prudence, craignant une reprise des hausses si les tensions persistent.",
+      "why": "Cette inversion soudaine des cours énergétiques impacte directement l'inflation mondiale et les anticipations de politique monétaire des banques centrales.",
       "category": "Matières premières"
     },
     {
-      "title": "Inflation européenne : risque de 3-4% supplémentaires si les cours énergétiques se maintiennent",
-      "summary": "Si les cours de l'énergie restaient à leur niveau actuel, l'inflation pourrait atteindre de 5 à 7% en Europe, bien que les analystes anticipent plutôt une hausse de 3 à 4% au maximum. Le taux de l'OAT française est passé de 3,2% à 3,5% en une semaine, reflétant l'intégration par les investisseurs des anticipations inflationnistes accrues. Cette hausse des taux obligataires s'ajoute aux pressions existantes sur les marchés financiers européens. La croissance européenne pourrait être amputée de 0,7 à 1,2 point, risquant une entrée en stagnation du continent.",
-      "why": "L'inflation galopante en Europe menace la reprise fragile du continent et force les banques centrales à maintenir des taux élevés, pesant sur la croissance économique.",
+      "title": "France reconduit la contribution exceptionnelle sur l'IS des grandes entreprises",
+      "summary": "La loi de Finances pour 2026 proroge d'un exercice la contribution exceptionnelle sur l'impôt sur les sociétés due par les grandes entreprises. Cette mesure vise à financer les efforts budgétaires face à la dette publique croissante. Elle s'applique aux groupes réalisant des bénéfices élevés dans un contexte de ralentissement économique. Les impacts sur la compétitivité des firmes françaises sont débattus par les analystes.",
+      "why": "Renforce les recettes fiscales de l'État mais risque de peser sur les investissements des multinationales en période de tensions géopolitiques.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Détroit d'Ormuz : simple menace suffisante pour bloquer la navigation, 20% du pétrole mondial en jeu",
-      "summary": "Une semaine après le déclenchement des hostilités au Moyen-Orient, le détroit d'Ormuz n'est pas réellement bloqué mais la simple menace suffit à empêcher les navires d'y passer. Les assureurs refusent que les armateurs prennent le risque d'exposer leurs bateaux à d'éventuelles attaques, paralysant de facto le transit. Le Japon et la Chine sont les plus touchés par cet arrêt de la navigation, puisque plus de 20% du pétrole mondial transite par ce détroit stratégique. Cette situation illustre comment les risques géopolitiques peuvent bloquer les chaînes d'approvisionnement énergétiques mondiales sans intervention militaire directe.",
-      "why": "Le blocage du détroit d'Ormuz représente un risque systémique majeur pour l'économie mondiale, affectant directement l'approvisionnement énergétique de l'Asie et les prix globaux.",
-      "category": "Matières premières"
+      "title": "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
+      "summary": "Le taux de la CSG applicable sur certains revenus du capital est porté de 9,2% à 10,6% au 1er janvier 2026, affectant notamment les PER et placements financiers. Cette mesure alourdit la fiscalité pour les investisseurs individuels et institutions. Elle s'inscrit dans un effort de consolidation budgétaire face à l'inflation énergétique. Les conséquences sur l'épargne retraite sont significatives pour les classes moyennes.",
+      "why": "Augmente la pression fiscale sur l'épargne, potentiellement freinant la consommation et les investissements en capital dans un climat incertain.",
+      "category": "Marchés"
     },
     {
-      "title": "CAC 40 en baisse de 0,98% : secteur automobile effondré avec pertes records de Stellantis et Renault",
-      "summary": "Le CAC 40 a clôturé à 7 915,36 points, reculant de 0,98% depuis son pic historique à 8 642,23 points en début d'année. Stellantis affiche une perte nette supérieure à 22 milliards d'euros, plombée par la restructuration de ses activités et les lourds investissements liés à l'électrification. Renault bascule également dans le rouge, victime d'une transition énergétique coûteuse et d'une concurrence chinoise de plus en plus agressive sur les segments clés. Le secteur automobile pèse lourdement sur l'indice français, tandis que les incertitudes géopolitiques tirent également les indices européens vers le bas, comme en témoigne le DAX 30 en baisse de 2,1%.",
-      "why": "L'effondrement du secteur automobile européen, combiné aux pressions géopolitiques, signale une fragilité structurelle de l'économie européenne face à la concurrence chinoise et aux coûts de transition énergétique.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Trump instaure droits de douane mondiaux de 15% après annulation judiciaire des précédents tarifs",
-      "summary": "Donald Trump a subi un revers de la Cour Suprême qui a annulé les droits de douane précédemment votés, mais le président américain a aussitôt annoncé la mise en place de droits de douane mondiaux de 15% par un autre canal légal. Cette mesure relance les tensions commerciales mondiales et ajoute une couche d'incertitude aux marchés financiers. L'administration Trump avait précédemment instauré une hausse de 10% des tarifs mondiaux suivie d'une majoration de 5% supplémentaire, bien que cette mesure ne puisse être prolongée au-delà de 150 jours sans l'aval du Congrès. Cette volatilité tarifaire crée une incertitude majeure pour les entreprises multinationales et les chaînes d'approvisionnement mondiales.",
-      "why": "Les droits de douane mondiaux de 15% menacent directement le commerce international et la croissance mondiale, ajoutant une pression inflationniste supplémentaire aux économies déjà fragilisées.",
+      "title": "Impôts locaux en légère hausse en 2026 due à la faible inflation de 2025",
+      "summary": "Les impôts locaux devraient augmenter légèrement en 2026, conséquence de la faible inflation française en 2025 qui a limité la revalorisation des bases de calcul. Cette hausse modérée concerne taxes foncières et d'habitation pour des millions de ménages. Les collectivités locales en tirent des recettes supplémentaires pour leurs budgets. L'impact reste contenu par rapport aux chocs énergétiques actuels.",
+      "why": "Illustre les tensions budgétaires locales dans un contexte de croissance molle et de dette publique mondiale record.",
       "category": "Politique monétaire"
+    },
+    {
+      "title": "Bitcoin repasse au-dessus de 70 000 dollars dans contexte de tensions géopolitiques",
+      "summary": "Le bitcoin a retrouvé des couleurs en dépassant les 70 000 dollars une semaine après le début du conflit en Iran, agissant comme valeur refuge. Cette hausse contraste avec la correction des indices actions mondiaux. Les investisseurs fuient les actifs traditionnels vers les cryptos face aux risques énergétiques. Le volume d'échanges a bondi de 25% en 48 heures.",
+      "why": "Renforce le rôle des cryptomonnaies comme hedge contre l'instabilité géopolitique et inflationniste.",
+      "category": "Crypto"
     }
   ],
-  "updates": [
-    {
-      "title": "Détente des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
-      "original": "Taux de l'OAT française grimpe à 3,5% en une semaine sous pression inflationniste (11/03/2026)",
-      "summary": "Après avoir grimpé à 3,5% en une semaine sous pression inflationniste, les taux OAT et BTP européens connaissent une détente marquée. Cette amélioration reflète les espoirs croissants d'une accalmie au Moyen-Orient, notamment suite aux déclarations de Donald Trump affirmant que la guerre contre l'Iran sera terminée \"très bientôt\". La perspective d'une résolution rapide du conflit réduit les anticipations inflationnistes liées aux chocs énergétiques. Cette détente soulage temporairement les marchés obligataires européens, bien que les risques géopolitiques demeurent élevés.",
-      "why": "La baisse des taux obligataires améliore les conditions de financement pour les gouvernements et entreprises européens, soutenant potentiellement la reprise économique fragile du continent.",
-      "category": "Marchés"
-    }
-  ]
+  "updates": []
 }
