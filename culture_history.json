@@ -1,15 +1,5 @@
 [
   {
-    "date": "07/03/2026",
-    "titles": [
-      "L'étymologie cachée du mot « musique » remonte à la mythologie grecque",
-      "Le phénomène de la synesthésie : quand les sens se mélangent",
-      "Le paradoxe de Banach-Tarski : comment diviser une sphère en deux sphères identiques",
-      "Les grottes de Mogao en Chine : bibliothèque souterraine de 1 000 ans",
-      "L'effet de Mandela : quand nos souvenirs collectifs se trompent"
-    ]
-  },
-  {
     "date": "08/03/2026",
     "titles": [
       "Le festival Yggdrasil célèbre les univers fantastiques avec un dragon de 20 mètres",
@@ -67,6 +57,16 @@
       "Le premier film de l'histoire : La Sortie de l'usine Lumière",
       "L'effet Barnum en psychologie : l'illusion de la personnalisation",
       "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde"
+    ]
+  },
+  {
+    "date": "12/03/2026",
+    "titles": [
+      "La cathédrale engloutie de Yubari au Japon",
+      "Le théorème de Gödel : les limites de la mathématique",
+      "Le premier court-métrage d'animation : Fantasmagorie de 1908",
+      "La découverte de la quinine et la fin du paludisme colonial",
+      "Le record de la plus longue sieste : 23 jours en 1959"
     ]
   }
 ]
