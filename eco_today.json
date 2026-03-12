@@ -1,44 +1,44 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "news": [
     {
-      "title": "CPI américain de février : signal clé pour la trajectoire des taux de la Fed",
-      "summary": "Le rapport sur l'inflation américaine de février s'annonce comme l'événement macroéconomique majeur du 11 mars 2026, déterminant si l'inflation ralentit suffisamment pour soutenir des baisses de taux. Les investisseurs scruteront non seulement le CPI global mais aussi l'inflation de base et les composantes clés comme le logement et les services durables. Un CPI fort pourrait renforcer le dollar et peser sur les matières premières, tandis qu'un ralentissement confirmerait les attentes d'assouplissement monétaire. Ce chiffre aura des répercussions immédiates sur les marchés émergents, les devises et l'appétit pour le risque global.",
-      "why": "Ce rapport est le principal catalyseur pour les décisions de politique monétaire de la Fed et influence directement les trajectoires des taux d'intérêt mondiaux et l'allocation des capitaux.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
-      "summary": "Le président américain a nommé Kevin Warsh à la présidence de la Réserve fédérale, une décision qui rassure les marchés financiers quant au maintien de l'indépendance de la banque centrale. Cette nomination intervient après que Trump ait relâché la pression qu'il exerçait précédemment sur la Fed pour qu'elle baisse ses taux. Warsh est perçu comme un candidat capable de préserver l'autonomie institutionnelle de la Fed tout en naviguant les tensions politiques. Cette annonce marque un changement de ton dans la relation entre l'exécutif américain et l'institution monétaire.",
-      "why": "La confiance dans l'indépendance de la Fed est cruciale pour la stabilité des marchés financiers et la crédibilité de la politique monétaire américaine.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
-      "summary": "Oracle a annoncé des perspectives optimistes pour le secteur de l'intelligence artificielle, prévoyant une croissance soutenue jusqu'en 2027 au minimum. Cette guidance positive a propulsé les actions du géant technologique de 8%, reflétant la confiance des investisseurs dans la trajectoire de croissance du secteur de l'IA. Cette annonce intervient dans un contexte où les entreprises technologiques cherchent à justifier les valorisations élevées par des perspectives de croissance concrètes. Le mouvement haussier d'Oracle suggère un regain d'appétit pour les valeurs technologiques liées à l'IA.",
-      "why": "Cette annonce renforce la confiance dans la durabilité de la croissance du secteur de l'IA et soutient les valorisations des géants technologiques, influençant l'allocation des capitaux vers le secteur.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
-      "summary": "Le géant minier Rio Tinto a obtenu un financement de 1,18 milliard de dollars pour son projet de lithium en Argentine, renforçant sa position dans la chaîne d'approvisionnement des matériaux critiques pour les batteries. Ce financement démontre la confiance des investisseurs dans la demande future de lithium, portée par l'électrification des transports et la transition énergétique. Le projet argentin revêt une importance stratégique pour sécuriser l'approvisionnement en lithium face à la domination chinoise. Cette transaction illustre les investissements massifs en cours dans les matériaux critiques.",
-      "why": "Le lithium est un élément clé pour la transition énergétique mondiale et la sécurisation de l'approvisionnement est devenue une priorité géopolitique et économique majeure.",
+      "title": "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées",
+      "summary": "Les cours du pétrole s'inscrivent durablement entre 110 et 120 dollars le baril, alimentant les craintes de stagflation et de correction boursière prolongée. Selon Goldman Sachs, une fermeture du détroit d'Ormuz pendant quatre semaines pourrait ajouter 15 dollars supplémentaires au prix du baril. Les investisseurs redoutent un choc économique durable amplifié par cette flambée énergétique, avec BlackRock s'interrogeant déjà sur l'impact sur la croissance en 2026. Cette hausse durable des prix de l'énergie ravive les tensions inflationnistes et exerce une pression supplémentaire sur les marchés obligataires.",
+      "why": "Le pétrole à ces niveaux menace directement la croissance mondiale et l'inflation, remettant en question la trajectoire des baisses de taux attendues et fragilisant la reprise économique.",
       "category": "Matières premières"
     },
     {
-      "title": "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
-      "summary": "Les rendements des obligations souveraines européennes, notamment les OAT françaises et les BTP italiens, ont enregistré une baisse significative suite aux espoirs d'une désescalade au Moyen-Orient. Cette détente intervient après des semaines de tensions liées au conflit iranien qui avaient alimenté les craintes inflationnistes et les pressions sur les taux. La baisse des rendements reflète un repositionnement des investisseurs vers un scénario moins inflationniste et une normalisation progressive des conditions financières. Cette amélioration du sentiment de marché bénéficie aux économies européennes fragilisées par les tensions géopolitiques.",
-      "why": "La baisse des taux souverains réduit les coûts de financement des gouvernements et des entreprises, soutenant la croissance économique et atténuant les risques de crise de dette souveraine.",
-      "category": "Marchés"
+      "title": "Inflation européenne : risque de 3-4% supplémentaires si les cours énergétiques se maintiennent",
+      "summary": "Si les cours de l'énergie restaient à leur niveau actuel, l'inflation pourrait atteindre de 5 à 7% en Europe, bien que les analystes anticipent plutôt une hausse de 3 à 4% au maximum. Le taux de l'OAT française est passé de 3,2% à 3,5% en une semaine, reflétant l'intégration par les investisseurs des anticipations inflationnistes accrues. Cette hausse des taux obligataires s'ajoute aux pressions existantes sur les marchés financiers européens. La croissance européenne pourrait être amputée de 0,7 à 1,2 point, risquant une entrée en stagnation du continent.",
+      "why": "L'inflation galopante en Europe menace la reprise fragile du continent et force les banques centrales à maintenir des taux élevés, pesant sur la croissance économique.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Détroit d'Ormuz : simple menace suffisante pour bloquer la navigation, 20% du pétrole mondial en jeu",
+      "summary": "Une semaine après le déclenchement des hostilités au Moyen-Orient, le détroit d'Ormuz n'est pas réellement bloqué mais la simple menace suffit à empêcher les navires d'y passer. Les assureurs refusent que les armateurs prennent le risque d'exposer leurs bateaux à d'éventuelles attaques, paralysant de facto le transit. Le Japon et la Chine sont les plus touchés par cet arrêt de la navigation, puisque plus de 20% du pétrole mondial transite par ce détroit stratégique. Cette situation illustre comment les risques géopolitiques peuvent bloquer les chaînes d'approvisionnement énergétiques mondiales sans intervention militaire directe.",
+      "why": "Le blocage du détroit d'Ormuz représente un risque systémique majeur pour l'économie mondiale, affectant directement l'approvisionnement énergétique de l'Asie et les prix globaux.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "CAC 40 en baisse de 0,98% : secteur automobile effondré avec pertes records de Stellantis et Renault",
+      "summary": "Le CAC 40 a clôturé à 7 915,36 points, reculant de 0,98% depuis son pic historique à 8 642,23 points en début d'année. Stellantis affiche une perte nette supérieure à 22 milliards d'euros, plombée par la restructuration de ses activités et les lourds investissements liés à l'électrification. Renault bascule également dans le rouge, victime d'une transition énergétique coûteuse et d'une concurrence chinoise de plus en plus agressive sur les segments clés. Le secteur automobile pèse lourdement sur l'indice français, tandis que les incertitudes géopolitiques tirent également les indices européens vers le bas, comme en témoigne le DAX 30 en baisse de 2,1%.",
+      "why": "L'effondrement du secteur automobile européen, combiné aux pressions géopolitiques, signale une fragilité structurelle de l'économie européenne face à la concurrence chinoise et aux coûts de transition énergétique.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Trump instaure droits de douane mondiaux de 15% après annulation judiciaire des précédents tarifs",
+      "summary": "Donald Trump a subi un revers de la Cour Suprême qui a annulé les droits de douane précédemment votés, mais le président américain a aussitôt annoncé la mise en place de droits de douane mondiaux de 15% par un autre canal légal. Cette mesure relance les tensions commerciales mondiales et ajoute une couche d'incertitude aux marchés financiers. L'administration Trump avait précédemment instauré une hausse de 10% des tarifs mondiaux suivie d'une majoration de 5% supplémentaire, bien que cette mesure ne puisse être prolongée au-delà de 150 jours sans l'aval du Congrès. Cette volatilité tarifaire crée une incertitude majeure pour les entreprises multinationales et les chaînes d'approvisionnement mondiales.",
+      "why": "Les droits de douane mondiaux de 15% menacent directement le commerce international et la croissance mondiale, ajoutant une pression inflationniste supplémentaire aux économies déjà fragilisées.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": [
     {
-      "title": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
-      "original": "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
-      "summary": "Volkswagen a confirmé l'ampleur de sa restructuration avec la suppression de 50 000 emplois, suite à une année marquée par des pertes records et une perte nette au plus bas niveau depuis le Dieselgate. Le groupe allemand fait face à une concurrence chinoise croissante et aux coûts massifs de la transition vers l'électrification. Cette annonce intervient dans un contexte où le secteur automobile européen traverse une crise majeure, avec Renault également affichant des pertes importantes. Les suppressions d'emplois en Allemagne auront des répercussions sociales et économiques significatives.",
-      "why": "Cette restructuration majeure reflète la fragilité du secteur automobile européen face à la concurrence chinoise et aux défis de la transition énergétique, avec des implications pour l'emploi et la croissance en Europe.",
-      "category": "Entreprises"
+      "title": "Détente des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
+      "original": "Taux de l'OAT française grimpe à 3,5% en une semaine sous pression inflationniste (11/03/2026)",
+      "summary": "Après avoir grimpé à 3,5% en une semaine sous pression inflationniste, les taux OAT et BTP européens connaissent une détente marquée. Cette amélioration reflète les espoirs croissants d'une accalmie au Moyen-Orient, notamment suite aux déclarations de Donald Trump affirmant que la guerre contre l'Iran sera terminée \"très bientôt\". La perspective d'une résolution rapide du conflit réduit les anticipations inflationnistes liées aux chocs énergétiques. Cette détente soulage temporairement les marchés obligataires européens, bien que les risques géopolitiques demeurent élevés.",
+      "why": "La baisse des taux obligataires améliore les conditions de financement pour les gouvernements et entreprises européens, soutenant potentiellement la reprise économique fragile du continent.",
+      "category": "Marchés"
     }
   ]
 }
