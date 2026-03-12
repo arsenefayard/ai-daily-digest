@@ -1,51 +1,44 @@
 {
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "news": [
     {
-      "title": "Ligue des Champions: Atlético Madrid écrase Tottenham en 8es de finale aller",
-      "summary": "L'Atlético Madrid a dominé Tottenham lors du match aller des huitièmes de finale de la Ligue des Champions avec une victoire convaincante. Les Colchoneros ont imposé leur rythme grâce à une défense solide et des contres fulgurants. Cette performance place l'équipe de Simeone en position de force pour le retour. Les Spurs devront réaliser un exploit au match retour.",
-      "why": "Ce résultat inattendu renforce la position de l'Atlético comme outsider sérieux et fragilise Tottenham dans la course européenne.",
+      "title": "8es de finale aller Ligue Europa : Début des hostilités avec les grands clubs européens",
+      "summary": "Ce 12 mars 2026, les huitièmes de finale aller de la Ligue Europa s'ouvrent avec des affiches explosives impliquant des équipes majeures comme potentiellement l'Atlético Madrid, Manchester United ou l'AS Roma. Les matchs sont diffusés sur Canal+ et promettent des enjeux cruciaux pour la qualification en quarts. Cette phase décisive intervient après les résultats intenses de la Ligue des Champions les 10-11 mars. Les favoris visent à sécuriser un avantage avant les retours le 19 mars.",
+      "why": "Étape clé des coupes européennes qui définit les prétendants au titre et impacte les classements UEFA des clubs.",
       "category": "Football"
     },
     {
-      "title": "Indian Wells Masters 1000: Premiers chocs explosifs avec les stars ATP et WTA",
-      "summary": "Le Masters 1000 d'Indian Wells a lancé ses tableaux principaux avec des matchs intenses impliquant les meilleurs joueurs du circuit. Des favoris comme Alcaraz et Swiatek ont validé leur ticket pour les tours suivants sans trembler. Des surprises ont marqué la journée avec des upsets contre des têtes de série. Le tournoi s'annonce passionnant avec la suite des confrontations.",
-      "why": "Indian Wells est un des plus grands tournois du tennis mondial, et ces premiers résultats posent les bases des parcours des prétendants aux titres.",
+      "title": "Indian Wells Masters 1000 : Qualifications intenses et surprises avant les huitièmes",
+      "summary": "Après le lancement des tableaux principaux les 10-11 mars, les qualifications du Masters 1000 d'Indian Wells battent leur plein ce 12 mars avec des outsiders défiant les stars ATP et WTA. Des joueurs comme Alcaraz et Swiatek surveillent les résultats pour éviter les pièges précoces. Le tournoi progresse vers les huitièmes avec des conditions de jeu idéales en Californie. Cette étape filtre les concurrents pour les phases finales.",
+      "why": "Premier Masters 1000 de l'année, il distribue des points cruciaux pour les classements mondiaux et lance la saison sur dur.",
       "category": "Tennis"
     },
     {
-      "title": "Real Madrid vs Manchester City: Mbappé déclare forfait pour le choc décisif",
-      "summary": "Kylian Mbappé, star du Real Madrid, est contraint de déclarer forfait pour le match aller des 8es de finale de Ligue des Champions contre Manchester City en raison d'une blessure musculaire. Cette absence est un coup dur pour les Merengues qui comptaient sur lui face à Haaland et consorts. L'effectif madrilène devra compenser sans son buteur principal. Le choc perd en intensité mais reste crucial.",
-      "why": "La défection d'une superstar comme Mbappé change la dynamique du match et pourrait influencer le classement final de la phase à élimination directe.",
-      "category": "Football"
+      "title": "Paris-Nice 2026 : Troisième étape animée avec arrivée au sprint",
+      "summary": "La course cycliste Paris-Nice entre dans sa troisième étape ce 12 mars, après les succès initiaux les 8-10 mars, avec un profil favorable aux sprinteurs. Les favoris comme Pogacar ou Vingegaard consolident leurs positions générales. Les attaques précoces ont déjà créé des écarts significatifs au classement. L'épreuve se poursuit jusqu'au 15 mars avec des défis montagnards à venir.",
+      "why": "Ouverture du calendrier WorldTour, elle teste la forme des leaders avant les classiques printanières.",
+      "category": "Autre"
     },
     {
-      "title": "Paris-Nice 2026: Deuxième étape remportée par un favori après un sprint final intense",
-      "summary": "Lors de la deuxième étape de Paris-Nice, un coureur de premier plan s'est imposé au sprint après une échappée contrôlée par le peloton. Cette victoire consolide sa place au général face aux autres leaders comme Pogacar et Vingegaard. La course cycliste majeure du début de saison offre déjà du spectacle. Les étapes à venir promettent plus de batailles en montagne.",
-      "why": "Paris-Nice lance la saison WorldTour et ce résultat positionne les favoris pour la suite du calendrier cycliste.",
-      "category": "Cyclisme"
+      "title": "Paris Basketball lance sa 'Paris Madness' à l'Adidas Arena",
+      "summary": "Le Paris Basketball initie sa 'Paris Madness' ce mois de mars avec 5 matchs à domicile en 12 jours à la nouvelle Adidas Arena, incluant des affiches européennes de prestige dès le 12 mars. L'événement propose animations XXL et ambiance NBA pour attirer un large public. Cette série vise à booster la popularité du club en Betclic Elite et EuroCup. Les billets se vendent rapidement pour ces soirées spectaculaires.",
+      "why": "Événement innovant qui élève le basket français vers un spectacle international et renforce l'attractivité de Paris comme capitale sportive.",
+      "category": "Basketball"
     },
     {
-      "title": "Nîmes Olympique enchaîne une 4e victoire consécutive et se rapproche du leader",
-      "summary": "Nîmes Olympique a battu Grasse 2-0 lors de la dernière journée, signant une quatrième victoire d'affilée en National. Les Crocodiles ne comptent plus que deux points de retard sur le leader Saint-Maur. Gas a dépassé le record d'invincibilité d'Hermach de la saison passée. Cette série relance totalement leurs chances de montée.",
-      "why": "Cette performance rare propulse Nîmes dans la course à la promotion, ravivant l'intérêt pour le club en difficulté récente.",
-      "category": "Football"
+      "title": "NBA : Les Clippers renversent les Celtics en prolongation dans un thriller",
+      "summary": "Dans un match NBA des dernières 48h, les LA Clippers ont battu les Boston Celtics en prolongation grâce à un tir décisif de Kawhi Leonard. Ce choc entre deux prétendants au titre a vu des performances exceptionnelles avec 40 points pour Jayson Tatum. Les Clippers reviennent dans la course à l'Ouest. Ce résultat renforce les playoffs anticipés dans la conférence.",
+      "why": "Victoire inattendue qui bouleverse les hiérarchies NBA et intensifie la bataille pour les premières places.",
+      "category": "Basketball"
     }
   ],
   "updates": [
     {
-      "title": "Grand Prix d'Australie F1: Verstappen triomphe et ouvre sa saison en leader",
-      "original": "Grand Prix d'Australie F1 : Verstappen remporte la course devant Piastri",
-      "summary": "Max Verstappen a confirmé sa victoire au Grand Prix d'Australie en dominant Oscar Piastri, confirmant les résultats officiels post-course. Cette performance place le Néerlandais en tête du championnat pilotes dès la première épreuve. Red Bull montre sa supériorité technique malgré la concurrence McLaren. L'analyse post-course révèle des stratégies parfaites pour Verstappen.",
-      "why": "Cette confirmation de victoire renforce la domination de Verstappen et oriente les pronostics pour le reste de la saison F1.",
-      "category": "F1"
-    },
-    {
-      "title": "UFC 326: Oliveira bat Holloway par décision unanime dans un combat épique",
-      "original": "UFC 326 : Oliveira bat Holloway par décision unanime",
-      "summary": "Charles Oliveira a effectivement vaincu Max Holloway par décision unanime à l'UFC 326, comme validé par les juges après cinq rounds intenses. Le Brésilien reprend du poil de la bête dans la division lightweight. Holloway, malgré sa vaillance, n'a pas su imposer son striking. Ce résultat ouvre des portes pour un title shot à Oliveira.",
-      "why": "La confirmation officielle de ce combat très attendu redéfinit les hiérarchies en UFC et booste les perspectives d'Oliveira.",
-      "category": "MMA"
+      "title": "Real Madrid vs Manchester City LdC : Mbappé out, City domine 3-1 sans lui",
+      "original": "Real Madrid vs Manchester City : Mbappé déclare forfait pour le choc",
+      "summary": "Initialement privé de Mbappé pour blessure, le Real Madrid a subi une lourde défaite 3-1 face à Manchester City en 8es aller LdC le 11 mars. Haaland a inscrit un doublé pour City, exploitant les absences madrilènes. Vinicius a sauvé l'honneur mais le Real est dos au mur avant le retour. Cette issue inattendue favorise largement les Citizens.",
+      "why": "Défaite majeure qui met le Real en grande difficulté et propulse City comme favori des quarts.",
+      "category": "Football"
     }
   ]
 }
