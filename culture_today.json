@@ -2,34 +2,34 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "La machine analytique de Charles Babbage : l'ancêtre oublié des ordinateurs modernes",
-      "summary": "Inventée dans les années 1830 par le mathématicien anglais Charles Babbage, la machine analytique était une machine mécanique programmable capable de calculs complexes grâce à des cartes perforées pour les instructions. Ada Lovelace, collaboratrice de Babbage, écrivit le premier algorithme destiné à cette machine pour calculer les nombres de Bernoulli, la rendant ainsi la première programmeuse de l'histoire. Bien que jamais construite de son vivant en raison de problèmes techniques et financiers, une version fonctionnelle fut réalisée en 1991 par l'Université de Cambridge. Ce projet visionnaire préfigure les principes fondamentaux de l'informatique contemporaine, reliant le XIXe siècle à l'ère numérique.",
-      "why": "Elle démontre comment des idées du passé ont posé les bases de la révolution digitale actuelle, soulignant l'importance des précurseurs méconnus en science.",
-      "category": "Histoire"
+      "title": "La machine de Turing : l'ancêtre des ordinateurs modernes",
+      "summary": "Inventée par Alan Turing en 1936, la machine de Turing est un modèle théorique abstrait qui définit les principes fondamentaux du calcul algorithmique. Elle consiste en une bande infinie de cellules, un curseur de lecture/écriture et un ensemble de règles déterministes pour transformer des symboles. Ce dispositif hypothétique a posé les bases de l'informatique moderne en prouvant ce qui est calculable. Sans elle, les ordinateurs actuels n'existeraient pas sous leur forme actuelle.",
+      "why": "Elle démontre comment une idée simple peut révolutionner la technologie mondiale.",
+      "category": "Science pop"
     },
     {
-      "title": "Le dilemme de l'herbe du voisin : le paradoxe psychologique de la satisfaction humaine",
-      "summary": "Formulé par Barry Schwartz, ce concept explique pourquoi les gens sont souvent plus attirés par ce qu'ils n'ont pas, même si leur situation actuelle est satisfaisante, menant à une insatisfaction chronique. Psychologiquement, cela s'appuie sur l'adaptation hédonique où les plaisirs s'estompent rapidement, poussant à désirer le 'vert' de l'herbe du voisin. Des études montrent que cette comparaison sociale amplifie le stress et réduit le bonheur, particulièrement dans les sociétés consuméristes. Pour contrer cela, la gratitude et la focalisation sur ses propres accomplissements sont recommandées.",
-      "why": "Il éclaire les mécanismes intimes du mal-être moderne et offre des clés concrètes pour cultiver un contentement durable.",
-      "category": "Psychologie"
-    },
-    {
-      "title": "La cité perdue de Vilcabamba : le dernier bastion inca contre les conquistadors",
-      "summary": "Située dans la forêt andine du Pérou, Vilcabamba fut la capitale de l'État néo-inca de 1536 à 1572, après la chute de Cuzco face aux Espagnols. Manco Inca, fuyant Pizarro, y mena une guérilla de 36 ans, harcelant les envahisseurs avec des embuscades et des alliances locales. Redécouverte en 1964 par des archéologues, elle révèle des temples et fortifications intactes, témoignant d'une résistance farouche. Sa destruction finale par les forces de Viceroy Toledo marque la fin définitive de l'empire inca.",
-      "why": "Cette histoire méconnue révèle la ténacité inca face à la colonisation, enrichissant notre vision de l'histoire précolombienne.",
-      "category": "Géographie"
-    },
-    {
-      "title": "Le Minotaure de Dédale : le labyrinthe comme métaphore de l'âme humaine",
-      "summary": "Dans la mythologie grecque, le Minotaure, mi-homme mi-taureau, fut enfermé par Minos dans un labyrinthe conçu par Dédale à Cnossos, en Crète. Ce monstre, né de l'union contre-nature de Pasiphaé et d'un taureau sacré, symbolise les pulsions bestiales refoulées de l'humain. Thésée le tua avec l'aide d'Ariane et de son fil, inaugurant le motif du 'fil d'Ariane' pour sortir des impasses. Le mythe explore les thèmes de la raison contre la passion et de l'emprisonnement intérieur.",
-      "why": "Il offre une lecture intemporelle des conflits psychiques, influençant littérature, art et psychanalyse jusqu'à aujourd'hui.",
+      "title": "Le mythe d'Icare : la leçon antique sur l'hybris humaine",
+      "summary": "Dans la mythologie grecque, Dédale fabrique des ailes de plumes et de cire pour lui et son fils Icare afin d'échapper au labyrinthe de Crète. Icare, exalté par le vol, s'approche trop du soleil, fond la cire de ses ailes et se noie dans la mer qui porte désormais son nom. Ce récit illustre l'avertissement contre l'excès d'ambition et le mépris des limites naturelles. Il inspire encore aujourd'hui littérature, art et expressions comme 'voler trop près du soleil'.",
+      "why": "Ce mythe universel explique les dangers de l'orgueil démesuré de façon intemporelle.",
       "category": "Mythologie"
     },
     {
-      "title": "L'effet Dunning-Kruger : quand l'incompétence engendre la surconfiance",
-      "summary": "Découvert en 1999 par les psychologues David Dunning et Justin Kruger, cet effet cognitif montre que les personnes les moins compétentes surestiment leurs aptitudes, tandis que les experts sous-estiment les leurs. Cela résulte d'une incapacité à reconnaître ses propres limites, due à un manque de métacognition. Des expériences en humour, grammaire et logique ont validé ce biais, observable dans les débats en ligne ou les décisions managériales. La solution passe par l'éducation et la formation pour développer l'auto-évaluation.",
-      "why": "Il explique de nombreux dysfonctionnements sociaux et professionnels, aidant à mieux naviguer dans un monde de fausses certitudes.",
-      "category": "Science pop"
+      "title": "L'effet Stroop : le conflit entre perception et cognition",
+      "summary": "Découvert par John Ridley Stroop en 1935, cet effet psychologique montre qu'il est plus difficile de nommer la couleur d'un mot écrit dans une encre d'une autre couleur que de le lire normalement, comme 'ROUGE' en bleu. Cela révèle un conflit entre automatisme de lecture et contrôle attentionnel. Utilisé en neurosciences, il mesure l'inhibition cognitive et diagnostique des troubles comme le TDAH. Des millions de tests l'emploient quotidiennement en recherche.",
+      "why": "Il révèle les mécanismes cachés de notre cerveau face aux interférences quotidiennes.",
+      "category": "Psychologie"
+    },
+    {
+      "title": "La cité de Machu Picchu : sanctuaire inca dans les Andes",
+      "summary": "Construite au XVe siècle sous l'empire inca, Machu Picchu est une cité fortifiée perchée à 2 430 mètres d'altitude dans les Andes péruviennes, redécouverte intacte en 1911 par Hiram Bingham. Ses terrasses agricoles, temples alignés sur les solstices et systèmes hydrauliques sophistiqués témoignent d'une ingénierie avancée sans mortier ni roue. Abandonnée mystérieusement avant la conquête espagnole, elle reste un mystère archéologique. Classée au Patrimoine mondial de l'UNESCO, elle attire 1,5 million de visiteurs par an.",
+      "why": "Elle incarne le génie architectural précolombien et un enigma historique fascinant.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Le roman '1984' de George Orwell : prophétie dystopique",
+      "summary": "Publié en 1949, '1984' dépeint un régime totalitaire où Big Brother surveille tout via télécrans, manipule la vérité avec la 'novlangue' et réécrit l'histoire. Le protagoniste Winston Smith travaille au Ministère de la Vérité, falsifiant des archives pour le Parti. L'œuvre explore la perte de liberté individuelle, la propagande et le contrôle mental. Des termes comme 'Big Brother' ou 'orwellien' sont entrés dans le langage courant.",
+      "why": "Il anticipe avec précision les dérives des sociétés de surveillance modernes.",
+      "category": "Littérature"
     }
   ],
   "updates": []
