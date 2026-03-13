@@ -1,16 +1,5 @@
 [
   {
-    "date": "11/03/2026",
-    "titles": [
-      "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran",
-      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30%",
-      "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
-      "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
-      "Escalade militaire continue malgré les déclarations de fin de guerre de Trump"
-    ]
-  },
-  {
     "date": "12/03/2026",
     "titles": [
       "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
@@ -68,6 +57,16 @@
       "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
       "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
       "Poutine appelle à une désescalade rapide avec l'Iran via la diplomatie"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
+      "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
+      "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
+      "Israël étend ses frappes à Téhéran et au Liban malgré Trump"
     ]
   }
 ]
