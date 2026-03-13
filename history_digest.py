@@ -68,8 +68,8 @@ def push_to_github(data, history):
         print("✅ history_history.json mis à jour")
 
         if os.path.exists("history.html"):
-            push_file(repo, headers, "history.html",
-                open("history.html", encoding="utf-8").read(), "chore: update history.html")
+            _h = open("history.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            push_file(repo, headers, "history.html", _h, "chore: update history.html")
             print("✅ history.html publié")
 
         return True

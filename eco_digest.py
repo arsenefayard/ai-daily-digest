@@ -126,7 +126,8 @@ def push_to_github(data, history):
         push_file(repo, headers, "eco_history.json", json.dumps(history, ensure_ascii=False, indent=2), f"eco-history: {date_str}")
         print("✅ eco_history.json mis à jour")
         if os.path.exists("eco.html"):
-            push_file(repo, headers, "eco.html", open("eco.html", encoding="utf-8").read(), "chore: update eco.html")
+            _h = open("eco.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            push_file(repo, headers, "eco.html", _h, "chore: update eco.html")
             print("✅ eco.html publié")
         return True
     except Exception as e:

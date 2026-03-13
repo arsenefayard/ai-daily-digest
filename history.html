@@ -272,7 +272,6 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 #ask-send:disabled { opacity:.4; cursor:default; }
 #ask-response { display:none; margin-top:14px; font-size:13px; line-height:1.7; color:rgba(232,228,220,.82); }
 #ask-response.visible { display:block; }
-#ask-key-hint { margin-top:10px; font-family:'DM Mono',monospace; font-size:9px; color:rgba(255,255,255,.2); letter-spacing:.5px; cursor:pointer; display:inline-block; }
 </style>
 </head>
 <body>
@@ -319,7 +318,6 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
       <button id="ask-send">Envoyer →</button>
     </div>
     <div id="ask-response"></div>
-    <span id="ask-key-hint">🔑 changer la clé API</span>
   </div>
 </div>
 
@@ -580,6 +578,7 @@ whyOverlay.addEventListener('click', e => {
 });
 
 /* ── ASK FEATURE ── */
+const _PX_KEY     = '__PERPLEXITY_KEY__';
 const askOverlay  = document.getElementById('ask-overlay');
 const askInput    = document.getElementById('ask-input');
 const askSend     = document.getElementById('ask-send');
@@ -591,22 +590,11 @@ function openAsk(btn) {
   const card = btn.closest('.card');
   const title   = card.querySelector('.card-title')?.textContent?.trim() || '';
   const summary = card.querySelector('.card-body')?.textContent?.trim() || '';
-  _askCtx = `Titre : "${title}". Contexte : "${summary.slice(0, 500)}"`;
+  _askCtx = `Titre : "${title}". Résumé : "${summary.slice(0, 500)}"`;
   askCtxLabel.textContent = title;
   askResponse.textContent = '';
   askResponse.classList.remove('visible');
   askInput.value = '';
-  const key = localStorage.getItem('px_key') || '';
-  if (!key) {
-    askCtxLabel.textContent = 'Clé API Perplexity requise';
-    askInput.placeholder = 'Collez votre clé API Perplexity…';
-    askInput.type = 'password';
-    askSend.dataset.mode = 'setup';
-  } else {
-    askInput.placeholder = 'Que voulez-vous comprendre ?';
-    askInput.type = 'text';
-    askSend.dataset.mode = 'ask';
-  }
   askOverlay.classList.add('open');
   setTimeout(() => askInput.focus(), 320);
 }
@@ -614,49 +602,31 @@ function openAsk(btn) {
 askSend.addEventListener('click', async () => {
   const val = askInput.value.trim();
   if (!val) return;
-  if (askSend.dataset.mode === 'setup') {
-    localStorage.setItem('px_key', val);
-    askInput.value = '';
-    askInput.placeholder = 'Que voulez-vous comprendre ?';
-    askInput.type = 'text';
-    askSend.dataset.mode = 'ask';
-    askCtxLabel.textContent = _askCtx.split('"')[1] || '';
-    return;
-  }
   askSend.disabled = true;
   askResponse.textContent = '…';
   askResponse.classList.add('visible');
   try {
     const r = await fetch('https://api.perplexity.ai/chat/completions', {
       method: 'POST',
-      headers: { 'Authorization': `Bearer ${localStorage.getItem('px_key')}`, 'Content-Type': 'application/json' },
+      headers: { 'Authorization': `Bearer ${_PX_KEY}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({
         model: 'sonar',
         messages: [
-          { role: 'system', content: `Tu es un assistant qui aide à comprendre des faits historiques. Contexte : ${_askCtx}. Réponds en français, de façon concise (3 phrases max).` },
+          { role: 'system', content: `Tu es un assistant concis qui aide à comprendre des faits historiques. Contexte de l'article : ${_askCtx}. Réponds en français, de façon claire et structurée en 3 phrases maximum.` },
           { role: 'user', content: val }
         ],
-        max_tokens: 220, temperature: 0.4
+        max_tokens: 250, temperature: 0.3
       })
     });
     const data = await r.json();
     askResponse.textContent = data.choices?.[0]?.message?.content || 'Pas de réponse.';
-  } catch { askResponse.textContent = 'Erreur. Vérifiez votre clé API.'; }
+  } catch { askResponse.textContent = 'Erreur de connexion.'; }
   askSend.disabled = false;
 });
 
 askInput.addEventListener('keydown', e => { if (e.key === 'Enter') askSend.click(); });
 document.getElementById('ask-close').addEventListener('click', () => askOverlay.classList.remove('open'));
 askOverlay.addEventListener('click', e => { if (e.target === askOverlay) askOverlay.classList.remove('open'); });
-document.getElementById('ask-key-hint').addEventListener('click', () => {
-  localStorage.removeItem('px_key');
-  askCtxLabel.textContent = 'Clé API Perplexity requise';
-  askInput.placeholder = 'Collez votre clé API Perplexity…';
-  askInput.type = 'password';
-  askInput.value = '';
-  askSend.dataset.mode = 'setup';
-  askResponse.classList.remove('visible');
-});
 
 /* ── INIT ── */
 (async () => {

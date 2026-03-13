@@ -56,7 +56,8 @@ def push_to_github(data, history):
         push_file(repo, headers, "sport_today.json", json.dumps(data, ensure_ascii=False, indent=2), f"sport-digest: {date_str}")
         push_file(repo, headers, "sport_history.json", json.dumps(history, ensure_ascii=False, indent=2), f"sport-history: {date_str}")
         if os.path.exists("sport.html"):
-            push_file(repo, headers, "sport.html", open("sport.html", encoding="utf-8").read(), "chore: update sport.html")
+            _h = open("sport.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            push_file(repo, headers, "sport.html", _h, "chore: update sport.html")
         return True
     except Exception as e:
         print(f"❌ Erreur push : {e}"); return False

@@ -211,6 +211,7 @@ def push_to_github(data, history):
         if os.path.exists("geo.html"):
             with open("geo.html", "r", encoding="utf-8") as f:
                 html_content = f.read()
+            html_content = html_content.replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
             push_file_to_gh_pages(repo, headers, "geo.html", html_content, "chore: update geo.html")
             print("✅ geo.html publié")
 
