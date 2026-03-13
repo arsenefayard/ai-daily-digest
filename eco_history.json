@@ -1,16 +1,5 @@
 [
   {
-    "date": "11/03/2026",
-    "titles": [
-      "CPI américain de février : signal clé pour la trajectoire des taux de la Fed",
-      "Donald Trump nomme Kevin Warsh à la tête de la Fed pour maintenir son indépendance",
-      "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
-      "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
-      "Détente marquée des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient",
-      "Volkswagen annonce la suppression de 50 000 emplois après une année critique"
-    ]
-  },
-  {
     "date": "12/03/2026",
     "titles": [
       "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées",
@@ -71,6 +60,16 @@
       "Target réduit les prix de plus de 3 000 produits pour contrer la concurrence",
       "Morgan Stanley et KKR sous pression sur les fonds de crédit privé",
       "Alimentation : hausses de prix de 1-1,5% en 2026, jusqu'à 14% pour le chocolat"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "G7 approuve mobilisation d'urgence des réserves pétrolières stratégiques",
+      "Japon puise dans ses réserves de pétrole à partir du 16 mars",
+      "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
+      "Eli Lilly investit 3 milliards de dollars en Chine pour ses traitements anti-obésité",
+      "Target baisse les prix de plus de 3 000 produits face à la concurrence accrue"
     ]
   }
 ]
