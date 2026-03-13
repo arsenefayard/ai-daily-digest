@@ -3,34 +3,42 @@
   "news": [
     {
       "title": "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
-      "summary": "Microsoft a lancé sa première superfactory d'IA, composée de deux immenses clusters de calcul séparés par plus de 1000 km, capable d'entraîner des modèles comme GPT ou Gemini dix fois plus vite qu'avant, en consommant moins d'énergie et en évitant les goulets d'étranglement cloud. Cette infrastructure vise à entraîner des modèles de plusieurs centaines de trillions de paramètres, ouvrant la voie à des IA quasi autonomes en raisonnement et planification. Elle s'inscrit dans une vague mondiale incluant les AI Factories de l'UE (500M€ pour 6 sites) et un méga-data-center suédois financé à 10Md$ par Brookfield. L'innovation redéfinit l'entraînement IA à échelle industrielle.",
-      "why": "Cette avancée accélère drastiquement la course aux super-modèles IA, renforçant la position de Microsoft et intensifiant la compétition infrastructurelle mondiale.",
+      "summary": "Microsoft a lancé sa première installation dédiée à l'entraînement massif de modèles d'IA de grande taille, capable de réduire drastiquement les délais de développement de semaines à quelques jours. Cette infrastructure représente un tournant dans l'industrialisation de l'IA en permettant des cycles d'itération beaucoup plus rapides. L'investissement massif dans ces capacités de calcul reflète la course technologique intense entre les géants du secteur. Cette avancée renforce la position de Microsoft dans la compétition pour la suprématie en IA générative.",
+      "why": "C'est un jalon majeur dans l'industrialisation de l'IA : réduire les délais d'entraînement des modèles géants accélère l'innovation et consolide l'avantage compétitif de Microsoft face à OpenAI et Google.",
       "category": "Entreprise"
     },
     {
-      "title": "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
-      "summary": "Le World AI Cannes Festival (février 2026) marque le passage de l'IA à l'industrialisation, au-delà des démos spectaculaires, avec trois axes : agents IA multi-agents exécutant tâches complexes (analyse docs, décisions, actions auto), intégration en santé (diagnostic imagerie, oncologie, optimisation blocs op), et souveraineté tech. L'Agentic AI émerge comme successeur de la GenAI, capable d'opérations bout-en-bout dans les SI. En santé, l'IA passe de l'expérimental à l'opérationnel dans hôpitaux pour libérer temps médical. Le salon souligne l'ancrage concret post-phase 'wow'.",
-      "why": "Il signale la maturité industrielle de l'IA, pivotant vers applications scalables en santé et agentique, avec enjeux souverains cruciaux pour l'Europe.",
-      "category": "Application"
-    },
-    {
-      "title": "Sommet mondial IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
-      "summary": "Le sommet international sur l'impact de l'IA à New Delhi (10 mars 2026) positionne l'Inde comme tiers pôle, avec promesses d'investissements massifs, tensions géopolitiques et appels à régulation. Les débats portent sur déploiement sociétal de l'IA, cas d'usage modestes vs AGI, et enjeux d'adoption. Experts décryptent tendances et impacts, soulignant besoin de voies alternatives à la domination sino-américaine. L'événement connecte décideurs pour une IA inclusive et régulée.",
-      "why": "Il pourrait redessiner la géopolitique IA en favorisant un bloc émergent, influençant régulations et investissements globaux.",
+      "title": "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
+      "summary": "Le sommet international sur l'intelligence artificielle s'est tenu en Inde avec pour objectif de positionner le pays comme leader d'une troisième voie dans la gouvernance mondiale de l'IA. Entre promesses d'investissements massifs, tensions géopolitiques et appels à réguler, New Delhi tente de créer un bloc alternatif aux approches américaine et chinoise. Cette initiative reflète la volonté des pays émergents de peser dans les décisions stratégiques sur l'IA. Le sommet a mis l'accent sur la régulation équilibrée et l'accès démocratique aux technologies d'IA.",
+      "why": "C'est un tournant géopolitique majeur : l'émergence d'un troisième bloc remet en question la bipolarité USA-Chine et pourrait redéfinir les règles de gouvernance mondiale de l'IA.",
       "category": "Régulation"
     },
     {
-      "title": "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur Fortinet",
-      "summary": "CyberStrikeAI, plateforme open source pour tester sécurité IA, est exploitée par des pirates pour des attaques IA ciblant pare-feu Fortinet FortiGate, compromettant des centaines d'appareils dans une campagne récente. Les chercheurs alertent sur ce détournement par le même acteur malveillant, illustrant les risques des outils dual-use en cybersécurité IA. L'outil, conçu pour simulations défensives, génère maintenant des assauts automatisés sophistiqués. Cela souligne la vulnérabilité croissante des infrastructures critiques face à l'IA offensive.",
-      "why": "Première démonstration massive d'attaques IA sur équipements critiques, accélérant la course à la cybersécurité agentique.",
+      "title": "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
+      "summary": "Le World AI Cannes Festival 2026 a marqué un tournant décisif : l'IA est sortie de la phase des démonstrations spectaculaires pour entrer pleinement dans une logique d'industrialisation concrète. Les agents autonomes multi-tâches capables d'exécuter des processus complexes de bout en bout sont devenus le cœur des débats, tandis que la santé s'affirme comme secteur d'application majeur avec des solutions opérationnelles en diagnostic imagerie, oncologie et optimisation des blocs opératoires. La souveraineté technologique a également structuré les discussions stratégiques. Cette 5ᵉ édition a confirmé le passage de l'IA d'une technologie émergente à une infrastructure critique.",
+      "why": "C'est un signal fort que l'IA générative n'est plus le seul sujet : les agents autonomes et les applications sectorielles concrètes deviennent les vrais moteurs de valeur économique et d'impact réel.",
+      "category": "Recherche"
+    },
+    {
+      "title": "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
+      "summary": "OpenAI a présenté Codex Security, un nouvel agent de sécurité applicatif conçu pour analyser en profondeur le contexte des projets utilisateurs et identifier les vulnérabilités complexes tout en minimisant les faux positifs. Cet agent représente une application concrète de l'IA agentique dans le domaine critique de la cybersécurité. L'outil démontre comment les modèles d'IA peuvent automatiser des tâches d'analyse de sécurité sophistiquées qui nécessitaient auparavant une expertise humaine intensive. Le lancement positionne OpenAI comme acteur majeur dans la sécurité applicative assistée par IA.",
+      "why": "C'est une application stratégique de l'IA agentique : automatiser l'analyse de vulnérabilités complexes adresse un besoin critique en cybersécurité et démontre la valeur concrète des agents IA en production.",
       "category": "Application"
     },
     {
-      "title": "Hacktiv’ Summit ouvre aujourd'hui à Chantilly sur cybersécurité IA et business acceleration",
-      "summary": "Le Hacktiv’ Summit (12-13 mars 2026) à Chantilly réunit élite des décideurs cybersécurité pour partager défis et nouer partenariats ROIstes via IA. Focus sur transformation stratégique de la défense en levier performance, avec innovations en sécurité IA. Événement cible accélération business par solutions innovantes anti-menaces IA. Lancé pile dans les 48h, il capitalise sur actualités comme CyberStrikeAI.",
-      "why": "Timing critique post-attaques IA récentes, il forge alliances pour contrer menaces émergentes en cybersécurité IA.",
-      "category": "Entreprise"
+      "title": "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
+      "summary": "Des chercheurs en sécurité ont averti que CyberStrikeAI, une plateforme de test de sécurité IA open source, a été détournée par des acteurs malveillants pour mener des attaques basées sur l'IA contre des centaines de pare-feu Fortinet FortiGate. Cet incident illustre le double usage des outils d'IA : conçus pour renforcer la sécurité, ils peuvent être exploités à des fins offensives. Les pirates ont utilisé les capacités d'analyse et d'automatisation de l'IA pour identifier et exploiter des vulnérabilités à grande échelle. Cet événement soulève des questions critiques sur la gouvernance des outils open source d'IA et la nécessité de contrôles de sécurité renforcés.",
+      "why": "C'est un avertissement majeur sur les risques de sécurité : les outils d'IA open source peuvent être détournés pour des attaques sophistiquées, nécessitant une meilleure gouvernance et des mécanismes de contrôle.",
+      "category": "Régulation"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Claude reste l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone",
+      "original": "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone (11/03/2026)",
+      "summary": "Claude d'Anthropic a consolidé sa position en tant qu'application IA gratuite la plus téléchargée aux États-Unis, devançant ChatGPT, malgré le blacklist officiel du Pentagone pour des motifs éthiques. Parallèlement, il a été révélé que l'armée américaine a continué à utiliser Claude pour préparer des opérations militaires (frappes en Iran) quelques heures seulement après l'annonce de la rupture officielle avec Anthropic. Cette contradiction souligne la difficulté pratique de retirer des outils d'IA déjà profondément intégrés aux opérations militaires et gouvernementales. L'incident illustre le fossé entre les positions éthiques affichées et les réalités opérationnelles.",
+      "why": "C'est un tournant majeur : malgré les tensions avec le Pentagone, Claude gagne en adoption civile tandis que l'armée américaine continue son utilisation, révélant les limites des mesures de restriction et les enjeux de souveraineté technologique.",
+      "category": "Régulation"
+    }
+  ]
 }
