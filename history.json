@@ -1,15 +1,5 @@
 [
   {
-    "date": "11/03/2026",
-    "titles": [
-      "Claude Cowork d'Anthropic provoque une panique boursière avec 285 milliards de dollars évaporés",
-      "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
-      "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
-      "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
-      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes"
-    ]
-  },
-  {
     "date": "12/03/2026",
     "titles": [
       "CyberStrikeAI : Outil open source détourné par pirates pour attaques IA sur pare-feu Fortinet",
@@ -70,5 +60,9 @@
       "McKinsey prévoit marché IA souveraine à 600 Md$ d'ici 2030 avec 40% des dépenses dédiées",
       "Assemblée nationale lance commission d'enquête sur dépendances aux géants tech"
     ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": []
   }
 ]
