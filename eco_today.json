@@ -2,34 +2,34 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Arrêt de l'usine de GNL de Ras Laffan au Qatar suite à opération iranienne",
-      "summary": "L'usine de liquéfaction de Ras Laffan, qui fournit 20% de la production mondiale de GNL, a subi la plus longue interruption depuis 2008 après une opération militaire iranienne. Cela provoque une forte hausse des prix du gaz sur les marchés européens et asiatiques. L'arrêt impacte directement les approvisionnements énergétiques mondiaux. Les implications incluent une volatilité accrue des prix de l'énergie et des pressions inflationnistes potentielles.",
-      "why": "Cet événement menace 20% du GNL mondial, aggravant la crise énergétique liée au conflit au Moyen-Orient et risquant une flambée des prix mondiaux des carburants.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "AIE débloque 400 millions de barils de pétrole des réserves stratégiques",
-      "summary": "L'Agence Internationale de l'Énergie (AIE) annonce la libération de 400 millions de barils de brut des stocks stratégiques pour contrer la hausse des cours due au conflit. Cette mesure vise à atténuer la volatilité des marchés pétroliers. Elle s'inscrit dans un contexte de pénuries liées au Moyen-Orient. Les effets attendus incluent une stabilisation temporaire des prix à la pompe.",
-      "why": "Cette intervention massive de l'AIE est cruciale pour limiter l'impact inflationniste du pétrole sur les économies mondiales en pleine escalade géopolitique.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Japon puise dans ses réserves de pétrole à partir du 16 mars",
-      "summary": "La Première ministre japonaise Sanae Takachi annonce que le Japon utilisera ses réserves pétrolières dès le 16 mars pour réduire la pression sur les prix de l'essence. Cette décision répond aux inquiétudes d'approvisionnement dues au conflit au Moyen-Orient. Elle affecte directement la troisième économie mondiale. Les implications incluent un soutien à la consommation intérieure face à la hausse des coûts énergétiques.",
-      "why": "Le Japon, grand importateur de pétrole, montre l'étendue de l'impact régional du conflit, signalant des risques pour la croissance asiatique.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Christine Lagarde s'engage à toutes les mesures contre l'inflation liée à l'Iran",
-      "summary": "Dans une interview à France 2 le 10 mars, la présidente de la BCE affirme que l'institution prendra 'toutes les mesures nécessaires' pour contenir l'inflation provoquée par les fluctuations pétrolières iraniennes. Cela intervient alors que l'inflation européenne reste volatile. La BCE surveille étroitement les chocs énergétiques. Les marchés attendent des signaux sur les taux directeurs.",
-      "why": "L'engagement de la BCE est pivotal pour stabiliser l'eurozone face à des pressions inflationnistes externes, influençant les anticipations monétaires mondiales.",
-      "category": "Politique monétaire"
-    },
-    {
       "title": "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
-      "summary": "Unifirst annonce l'acquisition de Cintas, leader des services uniformes et d'hygiène, pour 5,5 milliards de dollars, boostant son cours en bourse. Cette opération renforce la position d'Unifirst sur le marché nord-américain. Elle reflète une consolidation dans le secteur des services B2B. Les implications incluent une meilleure efficacité opérationnelle et des synergies de coûts.",
-      "why": "Cette méga-acquisition illustre la résilience des fusions-acquisitions aux USA malgré les tensions géopolitiques, signalant confiance dans la croissance domestique.",
+      "summary": "Unifirst a annoncé l'acquisition de son concurrent Cintas pour 5,5 milliards de dollars, marquant l'une des plus grandes opérations dans le secteur des services uniformes et de maintenance. Cette transaction vise à consolider la position d'Unifirst sur le marché nord-américain face à une concurrence accrue. Les actions d'Unifirst ont grimpé en bourse suite à l'annonce, reflétant la confiance des investisseurs. L'opération devrait être finalisée d'ici fin 2026, avec des synergies estimées à 300 millions de dollars annuels.",
+      "why": "Cette acquisition renforce la consolidation dans le secteur des services B2B et pourrait influencer les valorisations des entreprises similaires.",
       "category": "Entreprises"
+    },
+    {
+      "title": "Eli Lilly investit 3 milliards de dollars en Chine pour ses médicaments amaigrissants",
+      "summary": "Eli Lilly prévoit d'investir 3 milliards de dollars en Chine, notamment pour obtenir l'autorisation de commercialiser son médicament amaigrissant à succès. Cet engagement s'inscrit dans une stratégie d'expansion en Asie face à la demande croissante pour les traitements contre l'obésité. La Chine représente un marché potentiel de plusieurs milliards pour ce type de produits pharmaceutiques. L'investissement inclut la construction d'usines et de centres de R&D.",
+      "why": "Il souligne l'attractivité persistante de la Chine pour les pharma malgré les tensions géopolitiques, impactant les flux d'investissements étrangers.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Target réduit les prix de plus de 3 000 produits pour contrer la concurrence",
+      "summary": "Target a annoncé une baisse de prix sur plus de 3 000 articles dès ce printemps pour stimuler ses ventes dans un contexte de forte concurrence des discounters. Cette stratégie vise à regagner des parts de marché perdues face à Walmart et Amazon. Les réductions concernent l'alimentation, l'électronique et les produits ménagers, avec des baisses allant jusqu'à 20%. Les marges de Target pourraient en pâtir à court terme mais booster le volume.",
+      "why": "Cela reflète les pressions inflationnistes et concurrentielles sur la distribution aux États-Unis, signalant un ralentissement de la consommation.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Morgan Stanley et KKR sous pression sur les fonds de crédit privé",
+      "summary": "Morgan Stanley a limité les rachats sur son fonds de crédit privé tandis que KKR subit des pressions sur son fonds coté, selon son directeur financier. Ces mouvements traduisent une détresse croissante dans le crédit privé face à la hausse des taux et aux incertitudes géopolitiques. Les gestionnaires d'actifs voient leurs encours se contracter, avec des retraits records. Cela pourrait signaler un resserrement du crédit pour les entreprises endettées.",
+      "why": "La tension sur le crédit privé risque de freiner le financement des entreprises et d'amplifier la volatilité des marchés financiers.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Alimentation : hausses de prix de 1-1,5% en 2026, jusqu'à 14% pour le chocolat",
+      "summary": "Michel-Edouard Leclerc prévoit une hausse générale des prix alimentaires de 1 à 1,5% en 2026, avec des pics à 14% pour le chocolat due aux coûts des matières premières. Ces augmentations s'expliquent par la volatilité des commodities et les tensions logistiques liées au conflit au Moyen-Orient. Les distributeurs français anticipent une transmission partielle aux consommateurs. Cela pèse sur le pouvoir d'achat des ménages dans un contexte d'inflation énergétique.",
+      "why": "Ces hausses aggravent l'inflation sous-jacente en Europe, influençant les attentes sur les politiques monétaires de la BCE.",
+      "category": "Marchés"
     }
   ],
   "updates": []
