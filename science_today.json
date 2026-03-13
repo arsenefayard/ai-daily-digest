@@ -2,35 +2,43 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Cancer colorectal chez les jeunes : une piste enfin identifiée",
-      "summary": "Des chercheurs ont identifié une piste causale majeure pour l'augmentation alarmante des cas de cancer colorectal chez les jeunes adultes. Cette découverte repose sur l'analyse de facteurs environnementaux et microbiens spécifiques accélérant la progression tumorale. Les implications incluent des stratégies de dépistage précoce adaptées et potentiellement des thérapies ciblées. Publiée le 7 mars 2026, elle pourrait inverser la tendance épidémique observée depuis 20 ans.",
-      "why": "Cette avancée ouvre la voie à une prévention efficace d'une maladie en hausse de 50% chez les moins de 50 ans, sauvant potentiellement des millions de vies.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Des chercheurs parviennent à traiter la dépression en moins d’une semaine",
-      "summary": "Une nouvelle thérapie combine médicaments et stimulation cérébrale pour soulager la dépression sévère en moins de 7 jours chez 80% des patients réfractaires. Les essais cliniques de phase III confirment une rémission durable sans effets secondaires majeurs. Cette méthode cible les circuits neuronaux spécifiques via IRM fonctionnelle. Annoncée le 7 mars 2026, elle révolutionne le traitement psychiatrique actuel.",
-      "why": "Réduire le délai de traitement de mois à jours sauve des vies et diminue les coûts sociétaux massifs de la dépression.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Mission lunaire Artémis 2 : la Nasa annonce viser un lancement dès le 1er avril",
-      "summary": "La NASA confirme un lancement anticipé d'Artémis 2 au 1er avril 2026, avec un équipage de 4 astronautes pour un vol orbital lunaire habité. Tous les tests critiques sont validés, incluant le SLS et Orion. Cette mission testera les systèmes pour les atterrissages futurs. L'annonce du 7 mars accélère le programme lunaire post-Apollo.",
-      "why": "Ce jalon rapproche l'humanité d'un retour habité sur la Lune, pavant la voie pour Mars et l'exploitation minière lunaire.",
+      "title": "Détection de silice cristallisée et minéraux réox sensibles sur Mars par Perseverance",
+      "summary": "Le rover Perseverance a détecté une forte concentration de silice sous plusieurs formes cristallines (opale, calcédoine, quartz) dans une roche de la zone du rebord de Jezero, révélée par la spectroscopie Raman de Supercam le 28 février 2025. Cette découverte indique des processus géologiques extrêmement similaires à ceux de la Terre concernant la précipitation et la cristallisation de la silice. L'équipe a également identifié pour la première fois un ensemble de minéraux dits réox sensibles, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique. Ces résultats ont un impact médiatique immense dans le monde scientifique.",
+      "why": "Ces découvertes fournissent des preuves directes de processus géologiques terrestres sur Mars, renforçant la compréhension de l'histoire hydrogéologique de la planète et ses implications pour la recherche de traces de vie passée.",
       "category": "Espace"
     },
     {
-      "title": "Deux espèces considérées comme éteintes depuis 6000 ans sont finalement toujours en vie",
-      "summary": "Deux espèces végétales, présumées éteintes depuis la fin du Néolithique, ont été redécouvertes dans des régions isolées d'Asie centrale. L'ADN ancien confirme leur identité via comparaison génomique. Leur survie implique une résilience inattendue face aux changements climatiques passés. Publiée le 7 mars 2026, cette trouvaille booste la conservation de la biodiversité.",
-      "why": "Cela démontre que l'extinction n'est pas toujours irréversible et guide les efforts de restauration écologique globale.",
-      "category": "Biologie"
+      "title": "Confirmation des microcharges électrostatiques sur Mars par grains minéraux chargés",
+      "summary": "Les chercheurs ont détecté plusieurs dizaines de petits claquements électriques dans les archives audio de Perseverance, principalement enregistrés pendant des périodes de tempête de poussière. La rencontre répétée de grains minéraux chargés électriquement dans un air très sec produit des microcharges, un phénomène électrostatique qui n'était auparavant qu'au stade d'hypothèse. Cette découverte a été confirmée en novembre 2025 et représente une preuve directe d'un processus physique majeur dans l'atmosphère martienne.",
+      "why": "Cette découverte révolutionne la compréhension de la chimie atmosphérique martienne et pourrait expliquer des phénomènes lumineux observés et les variations de méthane détectées précédemment.",
+      "category": "Espace"
     },
     {
-      "title": "Revirement des autorités américaines sur un potentiel traitement contre l'autisme",
-      "summary": "La FDA approuve une thérapie génique expérimentale pour l'autisme après des résultats intermédiaires positifs en phase II. Elle cible les mutations génétiques courantes améliorant cognition et interaction sociale. Ce revirement suit une réévaluation des données de sécurité. Annoncé le 7 mars 2026, il marque un tournant pour les troubles du neurodéveloppement.",
-      "why": "Première approbation officielle pour un traitement causal de l'autisme, affectant 1% de la population mondiale.",
-      "category": "Médecine"
+      "title": "Mission DART confirme la modification de l'orbite solaire du système Didymos-Dimorphos",
+      "summary": "Quatre ans après l'impact volontaire d'une sonde de la NASA sur l'astéroïde Dimorphos, une nouvelle étude publiée le 6 mars 2026 révèle que la mission DART a non seulement dévié le satellite mais aussi légèrement modifié l'orbite du système d'astéroïdes Didymos-Dimorphos autour du Soleil. Cette confirmation scientifique démontre l'efficacité de la technique de déviation d'astéroïde. Les résultats ouvrent des perspectives majeures pour la défense planétaire.",
+      "why": "Cette validation expérimentale de la technique de déviation d'astéroïde constitue une avancée cruciale pour la protection de la Terre contre les menaces d'impact astéroïdal futur.",
+      "category": "Espace"
+    },
+    {
+      "title": "Détection de photons micro-ondes individuels par capteur quantique supraconducteur",
+      "summary": "Emmanuel Flurin a développé un capteur quantique capable de compter des photons micro-ondes (Wi-Fi/4G) émis par des atomes uniques. Ce circuit supraconducteur, issu du calcul quantique, améliore de plusieurs ordres de grandeur (~10^15) la sensibilité de la résonance magnétique, permettant d'atteindre l'imagerie et la spectroscopie à l'échelle de l'atome. Cette innovation représente une avancée majeure en métrologie quantique et détection ultra-sensible.",
+      "why": "Cette capacité à compter des photons individuels révolutionne les techniques de spectroscopie et d'imagerie moléculaire, ouvrant des applications majeures en chimie, science des matériaux et biologie structurale.",
+      "category": "Physique"
+    },
+    {
+      "title": "Projet UPNYL : transformation catalytique du nylon en polymères pour capture du CO₂",
+      "summary": "Marie Kobylarski, ingénieure-chercheuse au NIMBE, a développé des voies catalytiques innovantes pour dépolymériser et valoriser les plastiques, en particulier le nylon. Son projet UPNYL transforme simplement des déchets de nylon en nouvelles polyamines, créant des polymères difficiles à produire autrement. Ce procédé unique ouvre la voie à des matériaux innovants pour capter le CO₂, traiter l'eau ou fabriquer de nouveaux polymères.",
+      "why": "Cette approche combine l'économie circulaire avec la résolution de défis environnementaux majeurs, offrant une solution durable pour valoriser les déchets plastiques tout en créant des matériaux fonctionnels pour la capture du carbone.",
+      "category": "Chimie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Halos opalins riches en eau détectés autour des fissures par Curiosity",
+      "original": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jezero",
+      "summary": "Suite aux découvertes de silice cristallisée par Perseverance, le rover Curiosity a détecté des halos opalins riches en eau autour des fissures dans la région explorée. Ces observations complémentaires renforcent la compréhension des processus hydrogéologiques passés sur Mars. Les deux rovers fournissent maintenant une image cohérente de l'histoire de l'eau et des minéraux sur la planète rouge.",
+      "why": "Ces découvertes convergentes de deux rovers différents valident les modèles géologiques et renforcent les preuves d'une Mars ancienne avec une hydrologie active, cruciale pour évaluer le potentiel d'habitabilité passée.",
+      "category": "Espace"
+    }
+  ]
 }
