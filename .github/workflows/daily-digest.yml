@@ -60,26 +60,30 @@ jobs:
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPO: ${{ github.repository }}
         run: |
-          python - <<'PYEOF'
-          import os, base64, requests
-          token = os.environ["GITHUB_TOKEN"]
-          repo  = os.environ.get("GITHUB_REPO", "")
-          key   = os.environ.get("PERPLEXITY_API_KEY", "")
-          hdrs  = {"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"}
+          git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git \
+            --branch gh-pages --single-branch gh_pages_dir
+
+          python3 - <<'PYEOF'
+          import os
+          key = os.environ.get("PERPLEXITY_API_KEY", "")
           files = ["index.html","geo.html","eco.html","sport.html","music.html","science.html","culture.html","history.html"]
-          for fname in files:
-              if not os.path.exists(fname): print(f"⚠️ {fname} manquant"); continue
-              content = open(fname, encoding="utf-8").read().replace("__PERPLEXITY_KEY__", key)
-              encoded = base64.b64encode(content.encode()).decode()
-              url = f"https://api.github.com/repos/{repo}/contents/{fname}"
-              r = requests.get(url, headers=hdrs, params={"ref": "gh-pages"})
-              payload = {"message": f"chore: update {fname}", "content": encoded, "branch": "gh-pages"}
-              if r.status_code == 200: payload["sha"] = r.json()["sha"]
-              res = requests.put(url, json=payload, headers=hdrs)
-              print(f"{'✅' if res.status_code in (200,201) else '❌'} {fname} ({res.status_code})")
+          for f in files:
+              if not os.path.exists(f):
+                  print(f"⚠️ {f} manquant")
+                  continue
+              content = open(f, encoding="utf-8").read().replace("__PERPLEXITY_KEY__", key)
+              with open(f"gh_pages_dir/{f}", "w", encoding="utf-8") as out:
+                  out.write(content)
+              print(f"✅ {f} prêt")
           PYEOF
+
+          cd gh_pages_dir
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add *.html
+          git diff --cached --quiet && echo "Aucun changement HTML" || git commit -m "chore: update HTML pages"
+          git push
 
       - name: Digest IA
         env:
