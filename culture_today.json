@@ -2,35 +2,43 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
-      "summary": "Le prestigieux festival de Monte-Carlo revient du 11 mars au 19 avril 2026 avec une programmation musicale exceptionnelle. Au programme : 27 concerts dans 24 lieux différents, 12 créations mondiales et une cinquantaine de compositeurs. Au-delà des spectacles musicaux, le festival propose des ateliers avec des artistes, des projections, du théâtre et des cartes blanches. Cette édition 2026 est placée sous la présidence de la princesse de Hanovre, promettant une édition mémorable.",
-      "why": "C'est l'un des plus grands festivals de musique classique d'Europe, combinant créations mondiales et artistes de renommée internationale, offrant une fenêtre unique sur la création musicale contemporaine.",
+      "title": "L'étymologie oubliée du mot « licorne » : entre mythe médiéval et symbolique royale",
+      "summary": "Le mot « licorne » provient du latin « uni » (un) et « cornu » (corne), désignant littéralement une créature à une seule corne. Au Moyen Âge, cette créature mythique a traversé l'imaginaire européen comme symbole de pureté, de force et de pouvoir royal. Les tapisseries médiévales représentaient la licorne comme une créature insaisissable, souvent associée à des chasses allégoriques. Le Musée de Cluny explore actuellement cette fascination intemporelle à travers l'exposition « Licorne ! ».",
+      "why": "Comprendre l'étymologie et la symbolique des créatures mythiques nous aide à décoder les messages cachés de l'art médiéval et à saisir comment les anciens civilisations projetaient leurs valeurs sur des êtres imaginaires.",
+      "category": "Mythologie"
+    },
+    {
+      "title": "Roger Caillois et la poésie minérale : quand les pierres deviennent des métaphores philosophiques",
+      "summary": "Roger Caillois, penseur français du XXe siècle, a consacré une partie de son œuvre à la contemplation des minéraux, voyant en eux des poèmes figés dans la matière. Son approche révolutionnaire considérait les pierres non pas comme de simples objets géologiques, mais comme des entités porteuses de sens et de beauté. L'exposition « Rêveries de pierres » à L'École des Arts Joailliers (jusqu'au 29 mars 2026) réunit une collection exceptionnelle de minéraux accompagnée des réflexions philosophiques de Caillois. Cette démarche transforme le regard du visiteur sur la nature minérale.",
+      "why": "Cette approche poétique des sciences naturelles montre comment la philosophie et l'art peuvent enrichir notre compréhension du monde matériel, transformant l'observation scientifique en expérience contemplative.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Jean Dubuffet et l'Art Brut : la rébellion contre l'esthétique conventionnelle",
+      "summary": "Jean Dubuffet, artiste français du XXe siècle, a fondé le mouvement de l'Art Brut en réaction contre l'art académique et bourgeois. Son œuvre majeure, la « Tour aux Figures », incarne cette philosophie en célébrant la créativité brute, non filtrée par les conventions. Cette tour monumentale, construite à partir de matériaux de récupération et de techniques non traditionnelles, défie les normes esthétiques établies. Le Musée de la Carte à Jouer à Issy-les-Moulineaux présente une exposition dédiée à cette œuvre insolite jusqu'au 28 juin 2026.",
+      "why": "L'Art Brut représente une rupture majeure dans l'histoire de l'art moderne, démontrant que la créativité authentique peut émerger en dehors des institutions établies et des règles académiques.",
       "category": "Cinéma"
     },
     {
-      "title": "WOW Festival à Bordeaux : une semaine pluridisciplinaire autour des droits des femmes",
-      "summary": "Le WOW Festival se déploie du 10 au 15 mars 2026 à Bordeaux, construit autour de la Journée internationale des droits des femmes. Cet événement pluridisciplinaire mêle performances, spectacles, musique, ateliers, conférences et rencontres littéraires dans plusieurs lieux partenaires du quartier Saint-Michel. La programmation interroge les récits, représentations et vécus des femmes et des minorités de genre, combinant créations locales et propositions nationales. Certains événements sont gratuits et accessibles librement.",
-      "why": "C'est une manifestation artistique engagée qui utilise la culture comme vecteur de réflexion sociale et d'inclusivité, reflétant les enjeux contemporains de représentation et d'égalité.",
-      "category": "Société"
+      "title": "Magdalena Abramovic : quand la couture devient sculpture monumentale",
+      "summary": "Magdalena Abramovic, artiste textile contemporaine, transcende les limites traditionnelles de la couture en créant des œuvres de dimensions monumentales. Ses créations rivalisent en majesté avec le marbre et le métal, transformant le tissu en matériau d'expression artistique majeure. Le Musée Bourdelle à Paris rend hommage à ses ambitions démesurées en rassemblant près de 70 de ses œuvres, offrant enfin une reconnaissance française à la hauteur de son talent international. Cette exposition célèbre comment un matériau humble peut devenir un vecteur d'expression grandiose.",
+      "why": "Cette reconnaissance artistique illustre l'évolution contemporaine des beaux-arts, où les frontières entre artisanat et art contemporain s'effacent, permettant à des disciplines traditionnelles de conquérir les plus grands musées.",
+      "category": "Art"
     },
     {
-      "title": "Exposition sur les momies Chinchorros : 9 000 ans d'histoire funéraire à la Bourse du Commerce",
-      "summary": "La Collection Pinault présente une exposition exceptionnelle sur le thème du clair-obscur, incluant une exposition fascinante sur les momies. Les plus anciens corps momifiés datent de 9 000 ans et appartiennent à la culture des Chinchorros, située entre le Pérou et le Chili. L'exposition propose une rencontre avec de véritables momies et interroge les enjeux éthiques et scientifiques de la conservation des restes humains. C'est une plongée archéologique et philosophique dans les pratiques funéraires anciennes.",
-      "why": "Cette exposition révèle comment les civilisations anciennes concevaient la mort et l'au-delà, offrant des insights précieux sur l'évolution des croyances humaines et des techniques de conservation.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Trois Cygnes à Toulouse : un ballet d'exception avec trois créations unifiées",
-      "summary": "Du 13 au 19 mars 2026, l'Opéra national capitole de Toulouse accueille « Trois Cygnes », une production chorégraphique ambitieuse. La scénographe et costumière Silke Fischer et l'éclairagiste Johannes Schadl ont travaillé pour unir trois créations tout en leur offrant une identité propre. Ce spectacle représente une collaboration artistique majeure entre des créateurs de renommée internationale pour offrir une expérience visuelle et émotionnelle cohérente.",
-      "why": "C'est un exemple remarquable de la façon dont la danse contemporaine fusionne plusieurs visions artistiques, démontrant l'importance de la collaboration interdisciplinaire dans la création théâtrale.",
+      "title": "Luminiscence : l'Odyssée Céleste transforme l'architecture gothique en expérience immersive 3D",
+      "summary": "L'église Saint-Eustache à Paris accueille une nouvelle version du spectacle son et lumière « Luminiscence : l'Odyssée Céleste » (du 23 janvier à avril 2026). Cette expérience immersive en 3D projette des images numériques sur les voûtes gothiques du monument, créant une fusion entre architecture médiévale et technologie contemporaine. Les visiteurs sont transportés dans un voyage céleste où la lumière et le son transforment complètement la perception de l'espace sacré. Cette approche novatrice redéfinit la manière dont on peut réinterpréter les monuments historiques.",
+      "why": "Cette fusion entre patrimoine médiéval et technologie numérique montre comment l'innovation peut revitaliser notre rapport aux monuments historiques, créant des expériences qui respectent l'architecture tout en la propulsant dans la modernité.",
       "category": "Cinéma"
-    },
-    {
-      "title": "Paris Manga Sci-Fi Show : 39ème édition avec première mondiale de Dragon Striker (Disney+)",
-      "summary": "Le Paris Manga Sci-Fi Show revient au Parc des Expositions Paris Nord Villepinte pour sa 39ème édition, attirant 45 000 visiteurs attendus samedi et dimanche. L'événement propose une exclusivité Disney+ : la première mondiale de « Dragon Striker », une nouvelle série originale de la plateforme. Parallèlement, le festival électro insolite « Madame Loyale » se déploie en mode fête foraine avec DJ sets, attractions, jeux et stands insolites jusqu'à dimanche.",
-      "why": "C'est un événement majeur de la culture pop française qui cristallise l'intersection entre anime, science-fiction, technologie et divertissement, reflétant l'évolution des loisirs numériques et culturels.",
-      "category": "Insolite"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Le Printemps des Arts de Monte-Carlo 2026 : une édition record sous présidence princière",
+      "original": "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
+      "summary": "Le festival du Printemps des Arts de Monte-Carlo (11 mars - 19 avril 2026) dépasse les attentes avec une programmation exceptionnelle : 27 concerts répartis dans 24 lieux différents, 12 créations mondiales et une cinquantaine de compositeurs représentés. Sous la présidence de la princesse de Hanovre, cette édition 2026 enrichit son offre avec des ateliers auprès d'artistes, des projections, du théâtre et des cartes blanches. Cette ampleur inédite confirme Monte-Carlo comme capitale européenne de la musique classique contemporaine.",
+      "why": "Cette expansion majeure du festival témoigne de l'engagement croissant des institutions royales envers les arts vivants et de la vitalité de la création musicale contemporaine en Europe.",
+      "category": "Société"
+    }
+  ]
 }
