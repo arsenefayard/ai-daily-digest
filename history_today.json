@@ -1,37 +1,37 @@
 {
   "date": "13/03/2026",
   "subject": {
-    "name": "Bataille d'Austruweel",
-    "type": "Bataille",
-    "period": "1567 · Début de la guerre de Quatre-Vingts Ans (Pays-Bas espagnols)",
-    "context": "Au cœur des tensions religieuses et politiques en Europe du XVIe siècle, la bataille d'Austruweel oppose les forces espagnoles du duc d'Albe aux rebelles protestants hollandais menés par le comte de Hoogstraaten. Cette confrontation marque l'ouverture violente de la guerre de Quatre-Vingts Ans, une lutte pour l'indépendance des Provinces-Unies contre la domination espagnole. Les Espagnols, mieux organisés et équipés, infligent une défaite cuisante aux Gueux de la mer, ces pirates calvinistes qui harcelèrent les côtes espagnoles. Peu connue du grand public, cette bataille révèle la férocité des tercios espagnols, unités d'infanterie d'élite, et souligne le rôle décisif de la cavalerie wallonne dans la victoire. Elle consolide temporairement le contrôle espagnol sur les Pays-Bas du Sud, mais galvanise la résistance dans le Nord.",
+    "name": "Révolution de Mars de 1848 à Vienne",
+    "type": "Révolution",
+    "period": "1848 · Printemps des peuples, Empire autrichien",
+    "context": "La Révolution de Mars de 1848 à Vienne marque le début d'une vague de soulèvements libéraux et nationalistes contre l'empire des Habsbourg, inspirée par les révolutions en France. Des étudiants, artisans et bourgeois manifestent pacifiquement pour réclamer une constitution, la liberté de la presse et des réformes agraires face à la censure et la misère économique. Le chancelier Metternich, symbole de la répression post-napoléonienne, est contraint à la fuite déguisé, un fait peu connu qui humilie l'Autriche. Bien que réprimée militairement, elle déclenche une série de révolutions dans l'empire, menaçant sa survie. Elle révèle les fractures ethniques entre Allemands, Hongrois, Tchèques et Italiens.",
     "dates": [
       {
-        "year": "1566",
-        "label": "Icône Smashers : début de la révolte iconoclaste aux Pays-Bas"
+        "year": "13 mars 1848",
+        "label": "Éclatement des manifestations à Vienne contre Metternich"
       },
       {
-        "year": "1567",
-        "label": "Arrivée du duc d'Albe comme gouverneur répressif"
+        "year": "1848",
+        "label": "Influence des révolutions françaises"
       },
       {
-        "year": "1567",
-        "label": "13 mars : Victoire espagnole écrasante à Austruweel"
+        "year": "Avril 1848",
+        "label": "Fuite de Metternich vers l'Angleterre"
       },
       {
-        "year": "1572",
-        "label": "Prise de Brielle par les Gueux de la mer"
+        "year": "Mai 1848",
+        "label": "Insurrection ouvrière à Vienne réprimée"
       },
       {
-        "year": "1579",
-        "label": "Union d'Utrecht : alliance des provinces rebelles"
+        "year": "Octobre 1848",
+        "label": "Nouvelle révolte écrasée par le général Windischgrätz"
       },
       {
-        "year": "1581",
-        "label": "Acte d'Abjuration : indépendance formelle des Provinces-Unies"
+        "year": "1849",
+        "label": "Fin des soulèvements avec l'abdication de Ferdinand Ier"
       }
     ],
-    "legacy": "Cette bataille pose les bases de la séparation durable entre les Pays-Bas du Nord (protestants, indépendants) et du Sud (catholiques, sous influence espagnole puis belge). Elle influence l'art militaire européen en démontrant l'efficacité des tercios face à des forces irrégulières. Son héritage perdure dans la toponymie et l'identité flamande, symbolisant la résistance à l'oppression.",
-    "why": "Dans un monde de fake news et de propagande, Austruweweel rappelle que les victoires militaires décisives naissent souvent de la discipline face au chaos idéologique."
+    "legacy": "Elle accélère la fin de l'absolutisme en Autriche et inspire les nationalismes européens, posant les bases de l'unité allemande et hongroise. Son échec renforce temporairement les Habsbourg mais mène à leur dissolution en 1918. Elle symbolise le **Printemps des peuples**, préfigurant les luttes pour les droits démocratiques modernes.",
+    "why": "Cet événement montre comment une manifestation étudiante peut renverser un régime bicentenaire en 48 heures, rappelant que les idées libérales voyagent plus vite que les armées."
   }
 }
