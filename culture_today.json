@@ -1,35 +1,35 @@
 {
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "news": [
     {
-      "title": "La tapisserie de Bayeux : le plus grand comics médiéval jamais réalisé",
-      "summary": "La tapisserie de Bayeux, longue de 70 mètres et haute de 50 cm, narre la conquête de l'Angleterre par Guillaume le Conquérant en 1066. Broderie de laine sur lin datant du XIe siècle, elle dépeint plus de 50 scènes avec chevaux, navires et batailles dans un style séquentiel comme une bande dessinée antique. Exposée à Bayeux, elle a survécu à des siècles de guerres et reste un témoignage unique sur la société normande. Ses détails architecturaux et vestimentaires permettent aux historiens de reconstituer fidèlement l'époque.",
-      "why": "Elle offre un récit visuel vivant d'un événement fondateur de l'histoire européenne, surpassant les chroniques écrites par sa richesse iconographique.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Le dilemme du prisonnier : le paradoxe qui explique la trahison humaine",
-      "summary": "Imaginé par Merrill Flood et Melvin Dresher en 1950, puis formalisé par Albert Tucker, ce dilemme oppose deux prisonniers tentés de trahir l'autre pour un gain personnel. Si les deux coopèrent, ils s'en sortent bien ; si l'un trahit, il gagne gros tandis que l'autre perd ; si les deux trahissent, ils perdent tous les deux. Ce modèle mathématique révèle pourquoi la coopération rationnelle échoue souvent dans les interactions répétées. Il sous-tend l'économie, la biologie évolutive et les négociations internationales.",
-      "why": "Il éclaire les mécanismes de la confiance et de l'égoïsme dans les sociétés humaines, avec des applications concrètes en jeu théorie.",
-      "category": "Philosophie"
-    },
-    {
-      "title": "Le voyage de Chihiro : comment un film d'animation a conquis les Oscars",
-      "summary": "Réalisé par Hayao Miyazaki en 2001, ce chef-d'œuvre du Studio Ghibli suit Chihiro, une fillette plongée dans un monde spirituel japonais où elle doit travailler pour survivre. Premier film d'animation à remporter l'Oscar du meilleur film d'animation, il mêle écologie, maturité et mythologie shintoïste. Ses images poétiques et sa bande-son envoûtante ont influencé des générations de cinéastes. Disponible mondialement, il détient des records de recettes au Japon.",
-      "why": "Il a élevé l'animation japonaise au rang d'art universel, prouvant que les contes pour enfants portent des messages profonds pour tous.",
+      "title": "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
+      "summary": "Le prestigieux festival de Monte-Carlo revient du 11 mars au 19 avril 2026 avec une programmation musicale exceptionnelle. Au programme : 27 concerts dans 24 lieux différents, 12 créations mondiales et une cinquantaine de compositeurs. Au-delà des spectacles musicaux, le festival propose des ateliers avec des artistes, des projections, du théâtre et des cartes blanches. Cette édition 2026 est placée sous la présidence de la princesse de Hanovre, promettant une édition mémorable.",
+      "why": "C'est l'un des plus grands festivals de musique classique d'Europe, combinant créations mondiales et artistes de renommée internationale, offrant une fenêtre unique sur la création musicale contemporaine.",
       "category": "Cinéma"
     },
     {
-      "title": "L'effet Mandela : quand des millions se souviennent d'événements qui n'ont jamais eu lieu",
-      "summary": "Découvert par Fiona Broome en 2010, cet effet décrit des souvenirs collectifs faux, comme Nelson Mandela mourant en prison dans les années 80 au lieu de 2013. Il résulte de confabulations cérébrales, d'influences médiatiques et de biais cognitifs. Des exemples incluent le logo Fruit of the Loom sans corne d'abondance ou Berenstain Bears orthographié Berenstein. Des études en neurosciences l'expliquent par la reconstruction malléable de la mémoire.",
-      "why": "Il questionne la fiabilité de nos souvenirs et révèle les failles de la perception humaine partagée.",
-      "category": "Psychologie"
+      "title": "WOW Festival à Bordeaux : une semaine pluridisciplinaire autour des droits des femmes",
+      "summary": "Le WOW Festival se déploie du 10 au 15 mars 2026 à Bordeaux, construit autour de la Journée internationale des droits des femmes. Cet événement pluridisciplinaire mêle performances, spectacles, musique, ateliers, conférences et rencontres littéraires dans plusieurs lieux partenaires du quartier Saint-Michel. La programmation interroge les récits, représentations et vécus des femmes et des minorités de genre, combinant créations locales et propositions nationales. Certains événements sont gratuits et accessibles librement.",
+      "why": "C'est une manifestation artistique engagée qui utilise la culture comme vecteur de réflexion sociale et d'inclusivité, reflétant les enjeux contemporains de représentation et d'égalité.",
+      "category": "Société"
     },
     {
-      "title": "La cité de Petra : la cité nabatéenne taillée dans la roche rose du désert",
-      "summary": "Capitale des Nabatéens du IVe siècle av. J.-C. en Jordanie, Petra est célèbre pour son trésor sculpté directement dans la falaise, haut de 40 mètres. Cette cité caravanière contrôlait les routes de l'encens et abritait 20 000 habitants avec théâtres, temples et systèmes hydrauliques ingénieux. Redécouverte en 1812 par Johann Burckhardt, elle est classée au patrimoine mondial de l'UNESCO. Ses couleurs changeantes au soleil en font l'un des sites les plus photographiés au monde.",
-      "why": "Elle témoigne d'une civilisation oubliée maître de l'architecture rupestre et du commerce antique.",
-      "category": "Géographie"
+      "title": "Exposition sur les momies Chinchorros : 9 000 ans d'histoire funéraire à la Bourse du Commerce",
+      "summary": "La Collection Pinault présente une exposition exceptionnelle sur le thème du clair-obscur, incluant une exposition fascinante sur les momies. Les plus anciens corps momifiés datent de 9 000 ans et appartiennent à la culture des Chinchorros, située entre le Pérou et le Chili. L'exposition propose une rencontre avec de véritables momies et interroge les enjeux éthiques et scientifiques de la conservation des restes humains. C'est une plongée archéologique et philosophique dans les pratiques funéraires anciennes.",
+      "why": "Cette exposition révèle comment les civilisations anciennes concevaient la mort et l'au-delà, offrant des insights précieux sur l'évolution des croyances humaines et des techniques de conservation.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Trois Cygnes à Toulouse : un ballet d'exception avec trois créations unifiées",
+      "summary": "Du 13 au 19 mars 2026, l'Opéra national capitole de Toulouse accueille « Trois Cygnes », une production chorégraphique ambitieuse. La scénographe et costumière Silke Fischer et l'éclairagiste Johannes Schadl ont travaillé pour unir trois créations tout en leur offrant une identité propre. Ce spectacle représente une collaboration artistique majeure entre des créateurs de renommée internationale pour offrir une expérience visuelle et émotionnelle cohérente.",
+      "why": "C'est un exemple remarquable de la façon dont la danse contemporaine fusionne plusieurs visions artistiques, démontrant l'importance de la collaboration interdisciplinaire dans la création théâtrale.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "Paris Manga Sci-Fi Show : 39ème édition avec première mondiale de Dragon Striker (Disney+)",
+      "summary": "Le Paris Manga Sci-Fi Show revient au Parc des Expositions Paris Nord Villepinte pour sa 39ème édition, attirant 45 000 visiteurs attendus samedi et dimanche. L'événement propose une exclusivité Disney+ : la première mondiale de « Dragon Striker », une nouvelle série originale de la plateforme. Parallèlement, le festival électro insolite « Madame Loyale » se déploie en mode fête foraine avec DJ sets, attractions, jeux et stands insolites jusqu'à dimanche.",
+      "why": "C'est un événement majeur de la culture pop française qui cristallise l'intersection entre anime, science-fiction, technologie et divertissement, reflétant l'évolution des loisirs numériques et culturels.",
+      "category": "Insolite"
     }
   ],
   "updates": []
