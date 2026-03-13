@@ -2,34 +2,34 @@
   "date": "13/03/2026",
   "news": [
     {
+      "title": "G7 approuve mobilisation d'urgence des réserves pétrolières stratégiques",
+      "summary": "Les pays du G7 ont officiellement soutenu l'utilisation de leurs réserves stratégiques de pétrole pour contrer les pénuries liées au conflit au Moyen-Orient. Cette décision vise à stabiliser les marchés face à la volatilité des prix. L'Agence Internationale de l'Energie (AIE) prévoit de débloquer 400 millions de barils dans les prochains jours. Cette mesure collective pourrait atténuer les chocs inflationnistes mais dépend de la durée du conflit.",
+      "why": "Cette coordination internationale est cruciale pour éviter une spirale inflationniste mondiale et soutenir la croissance économique face à la crise énergétique.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Japon puise dans ses réserves de pétrole à partir du 16 mars",
+      "summary": "La Première ministre japonaise Sanae Takachi a annoncé que le Japon entamera le 16 mars l'utilisation de ses réserves stratégiques de pétrole. Cette mesure répond à la hausse des prix de l'essence due aux tensions au Moyen-Orient. Le Japon, grand importateur net, vise à protéger son économie et ses consommateurs. Cela s'inscrit dans une réponse globale incluant l'AIE et le G7.",
+      "why": "En tant que troisième économie mondiale, cette action influence les prix mondiaux de l'énergie et signale une urgence accrue dans la chaîne d'approvisionnement.",
+      "category": "Matières premières"
+    },
+    {
       "title": "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
-      "summary": "Unifirst a annoncé l'acquisition de son concurrent Cintas pour 5,5 milliards de dollars, marquant l'une des plus grandes opérations dans le secteur des services uniformes et de maintenance. Cette transaction vise à consolider la position d'Unifirst sur le marché nord-américain face à une concurrence accrue. Les actions d'Unifirst ont grimpé en bourse suite à l'annonce, reflétant la confiance des investisseurs. L'opération devrait être finalisée d'ici fin 2026, avec des synergies estimées à 300 millions de dollars annuels.",
-      "why": "Cette acquisition renforce la consolidation dans le secteur des services B2B et pourrait influencer les valorisations des entreprises similaires.",
+      "summary": "Unifirst a annoncé l'acquisition de Cintas, leader des services uniformes et d'hygiène, pour 5,5 milliards de dollars en numéraire et actions. Cette transaction renforce la position d'Unifirst sur le marché nord-américain des services B2B. L'opération est financée par de la dette et des liquidités existantes, avec une clôture prévue mi-2026. Les actions Unifirst ont bondi de plus de 15% en séance.",
+      "why": "Ce rachat majeur consolide un secteur résilient et illustre la confiance des investisseurs dans les acquisitions stratégiques malgré les tensions géopolitiques.",
       "category": "Entreprises"
     },
     {
-      "title": "Eli Lilly investit 3 milliards de dollars en Chine pour ses médicaments amaigrissants",
-      "summary": "Eli Lilly prévoit d'investir 3 milliards de dollars en Chine, notamment pour obtenir l'autorisation de commercialiser son médicament amaigrissant à succès. Cet engagement s'inscrit dans une stratégie d'expansion en Asie face à la demande croissante pour les traitements contre l'obésité. La Chine représente un marché potentiel de plusieurs milliards pour ce type de produits pharmaceutiques. L'investissement inclut la construction d'usines et de centres de R&D.",
-      "why": "Il souligne l'attractivité persistante de la Chine pour les pharma malgré les tensions géopolitiques, impactant les flux d'investissements étrangers.",
+      "title": "Eli Lilly investit 3 milliards de dollars en Chine pour ses traitements anti-obésité",
+      "summary": "Eli Lilly prévoit d'investir 3 milliards de dollars en Chine pour produire et commercialiser ses médicaments amaigrissants comme le Mounjaro. L'entreprise a demandé l'autorisation de mise sur le marché chinois, où l'obésité explose. Cet investissement inclut une nouvelle usine et des partenariats locaux. Il cible un marché pharmaceutique en croissance de 8% par an.",
+      "why": "Cette expansion en Chine, deuxième marché pharma mondial, booste les perspectives de croissance d'Eli Lilly et souligne l'attractivité des biotechs malgré les risques commerciaux.",
       "category": "Entreprises"
     },
     {
-      "title": "Target réduit les prix de plus de 3 000 produits pour contrer la concurrence",
-      "summary": "Target a annoncé une baisse de prix sur plus de 3 000 articles dès ce printemps pour stimuler ses ventes dans un contexte de forte concurrence des discounters. Cette stratégie vise à regagner des parts de marché perdues face à Walmart et Amazon. Les réductions concernent l'alimentation, l'électronique et les produits ménagers, avec des baisses allant jusqu'à 20%. Les marges de Target pourraient en pâtir à court terme mais booster le volume.",
-      "why": "Cela reflète les pressions inflationnistes et concurrentielles sur la distribution aux États-Unis, signalant un ralentissement de la consommation.",
+      "title": "Target baisse les prix de plus de 3 000 produits face à la concurrence accrue",
+      "summary": "Target a annoncé la réduction des prix sur plus de 3 000 articles, des produits de base aux électroniques, pour stimuler ses ventes printanières. Cette stratégie répond à la pression de Walmart et Amazon dans un contexte d'inflation persistante. Les baisses varient de 5% à 20% et concernent 80% des rayons alimentaires. Les ventes du trimestre écoulé ont chuté de 2%.",
+      "why": "Dans un environnement de consommation sous pression, cette initiative révèle les défis du retail américain et pourrait influencer les marges sectorielles.",
       "category": "Entreprises"
-    },
-    {
-      "title": "Morgan Stanley et KKR sous pression sur les fonds de crédit privé",
-      "summary": "Morgan Stanley a limité les rachats sur son fonds de crédit privé tandis que KKR subit des pressions sur son fonds coté, selon son directeur financier. Ces mouvements traduisent une détresse croissante dans le crédit privé face à la hausse des taux et aux incertitudes géopolitiques. Les gestionnaires d'actifs voient leurs encours se contracter, avec des retraits records. Cela pourrait signaler un resserrement du crédit pour les entreprises endettées.",
-      "why": "La tension sur le crédit privé risque de freiner le financement des entreprises et d'amplifier la volatilité des marchés financiers.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Alimentation : hausses de prix de 1-1,5% en 2026, jusqu'à 14% pour le chocolat",
-      "summary": "Michel-Edouard Leclerc prévoit une hausse générale des prix alimentaires de 1 à 1,5% en 2026, avec des pics à 14% pour le chocolat due aux coûts des matières premières. Ces augmentations s'expliquent par la volatilité des commodities et les tensions logistiques liées au conflit au Moyen-Orient. Les distributeurs français anticipent une transmission partielle aux consommateurs. Cela pèse sur le pouvoir d'achat des ménages dans un contexte d'inflation énergétique.",
-      "why": "Ces hausses aggravent l'inflation sous-jacente en Europe, influençant les attentes sur les politiques monétaires de la BCE.",
-      "category": "Marchés"
     }
   ],
   "updates": []
