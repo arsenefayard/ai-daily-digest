@@ -1,43 +1,12 @@
 {
   "date": "13/03/2026",
-  "news": [
-    {
-      "title": "Détection de silice cristallisée et minéraux réox sensibles sur Mars par Perseverance",
-      "summary": "Le rover Perseverance a détecté une forte concentration de silice sous plusieurs formes cristallines (opale, calcédoine, quartz) dans une roche de la zone du rebord de Jezero, révélée par la spectroscopie Raman de Supercam le 28 février 2025. Cette découverte indique des processus géologiques extrêmement similaires à ceux de la Terre concernant la précipitation et la cristallisation de la silice. L'équipe a également identifié pour la première fois un ensemble de minéraux dits réox sensibles, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique. Ces résultats ont un impact médiatique immense dans le monde scientifique.",
-      "why": "Ces découvertes fournissent des preuves directes de processus géologiques terrestres sur Mars, renforçant la compréhension de l'histoire hydrogéologique de la planète et ses implications pour la recherche de traces de vie passée.",
-      "category": "Espace"
-    },
-    {
-      "title": "Confirmation des microcharges électrostatiques sur Mars par grains minéraux chargés",
-      "summary": "Les chercheurs ont détecté plusieurs dizaines de petits claquements électriques dans les archives audio de Perseverance, principalement enregistrés pendant des périodes de tempête de poussière. La rencontre répétée de grains minéraux chargés électriquement dans un air très sec produit des microcharges, un phénomène électrostatique qui n'était auparavant qu'au stade d'hypothèse. Cette découverte a été confirmée en novembre 2025 et représente une preuve directe d'un processus physique majeur dans l'atmosphère martienne.",
-      "why": "Cette découverte révolutionne la compréhension de la chimie atmosphérique martienne et pourrait expliquer des phénomènes lumineux observés et les variations de méthane détectées précédemment.",
-      "category": "Espace"
-    },
-    {
-      "title": "Mission DART confirme la modification de l'orbite solaire du système Didymos-Dimorphos",
-      "summary": "Quatre ans après l'impact volontaire d'une sonde de la NASA sur l'astéroïde Dimorphos, une nouvelle étude publiée le 6 mars 2026 révèle que la mission DART a non seulement dévié le satellite mais aussi légèrement modifié l'orbite du système d'astéroïdes Didymos-Dimorphos autour du Soleil. Cette confirmation scientifique démontre l'efficacité de la technique de déviation d'astéroïde. Les résultats ouvrent des perspectives majeures pour la défense planétaire.",
-      "why": "Cette validation expérimentale de la technique de déviation d'astéroïde constitue une avancée cruciale pour la protection de la Terre contre les menaces d'impact astéroïdal futur.",
-      "category": "Espace"
-    },
-    {
-      "title": "Détection de photons micro-ondes individuels par capteur quantique supraconducteur",
-      "summary": "Emmanuel Flurin a développé un capteur quantique capable de compter des photons micro-ondes (Wi-Fi/4G) émis par des atomes uniques. Ce circuit supraconducteur, issu du calcul quantique, améliore de plusieurs ordres de grandeur (~10^15) la sensibilité de la résonance magnétique, permettant d'atteindre l'imagerie et la spectroscopie à l'échelle de l'atome. Cette innovation représente une avancée majeure en métrologie quantique et détection ultra-sensible.",
-      "why": "Cette capacité à compter des photons individuels révolutionne les techniques de spectroscopie et d'imagerie moléculaire, ouvrant des applications majeures en chimie, science des matériaux et biologie structurale.",
-      "category": "Physique"
-    },
-    {
-      "title": "Projet UPNYL : transformation catalytique du nylon en polymères pour capture du CO₂",
-      "summary": "Marie Kobylarski, ingénieure-chercheuse au NIMBE, a développé des voies catalytiques innovantes pour dépolymériser et valoriser les plastiques, en particulier le nylon. Son projet UPNYL transforme simplement des déchets de nylon en nouvelles polyamines, créant des polymères difficiles à produire autrement. Ce procédé unique ouvre la voie à des matériaux innovants pour capter le CO₂, traiter l'eau ou fabriquer de nouveaux polymères.",
-      "why": "Cette approche combine l'économie circulaire avec la résolution de défis environnementaux majeurs, offrant une solution durable pour valoriser les déchets plastiques tout en créant des matériaux fonctionnels pour la capture du carbone.",
-      "category": "Chimie"
-    }
-  ],
+  "news": [],
   "updates": [
     {
-      "title": "Halos opalins riches en eau détectés autour des fissures par Curiosity",
-      "original": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jezero",
-      "summary": "Suite aux découvertes de silice cristallisée par Perseverance, le rover Curiosity a détecté des halos opalins riches en eau autour des fissures dans la région explorée. Ces observations complémentaires renforcent la compréhension des processus hydrogéologiques passés sur Mars. Les deux rovers fournissent maintenant une image cohérente de l'histoire de l'eau et des minéraux sur la planète rouge.",
-      "why": "Ces découvertes convergentes de deux rovers différents valident les modèles géologiques et renforcent les preuves d'une Mars ancienne avec une hydrologie active, cruciale pour évaluer le potentiel d'habitabilité passée.",
+      "title": "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
+      "original": "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
+      "summary": "Une étude parue le 6 mars 2026 confirme que la collision de la sonde DART avec Dimorphos a non seulement dévié son orbite mais aussi influencé celle de l'astéroïde principal Didymos. Cette découverte étend les résultats initiaux en démontrant un impact systémique sur la dynamique orbitale du couple. Les données, analysées quatre ans après le lancement, valident la technique de déviation cinétique pour la défense planétaire. Cela renforce la faisabilité de protections contre les menaces astéroïdales futures.",
+      "why": "Cette confirmation élargit les implications pour la protection terrestre contre les astéroïdes, prouvant l'efficacité d'une méthode testable en conditions réelles.",
       "category": "Espace"
     }
   ]
