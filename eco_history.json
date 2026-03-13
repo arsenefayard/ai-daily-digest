@@ -2,17 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Volkswagen annonce la suppression de 50 000 emplois après une année critique",
-      "Baisse du prix du pétrole après l'annonce de Donald Trump sur la fin de la guerre en Iran",
-      "Recours aux réserves stratégiques de pétrole envisagé pour contenir les prix",
-      "Surprises positives des PMI malgré le contexte macroéconomique difficile",
-      "Activation du mode 'Risk off' sur les marchés boursiers mondiaux",
-      "Inflation en zone euro : accélération confirmée à 1,9% en février"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "CPI américain de février attendu comme signal clé pour la trajectoire des taux de la Fed",
       "Oracle prévoit un essor de l'IA jusqu'en 2027, actions en hausse de 8%",
       "Rio Tinto sécurise 1,18 milliard de dollars pour son projet de lithium en Argentine",
@@ -72,6 +61,16 @@
       "Crise structurelle de l'automobile : Stellantis et Renault enregistrent des pertes records",
       "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
       "Pétrole : nouvelle escalade au-delà de 100 dollars"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Arrêt de l'usine de GNL de Ras Laffan au Qatar suite à opération iranienne",
+      "AIE débloque 400 millions de barils de pétrole des réserves stratégiques",
+      "Japon puise dans ses réserves de pétrole à partir du 16 mars",
+      "Christine Lagarde s'engage à toutes les mesures contre l'inflation liée à l'Iran",
+      "Unifirst acquiert Cintas pour 5,5 milliards de dollars"
     ]
   }
 ]
