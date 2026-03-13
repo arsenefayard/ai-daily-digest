@@ -2,43 +2,35 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "France-Angleterre au Tournoi des 6 Nations : le match décisif des Bleus",
-      "summary": "Le XV de France affronte l'Angleterre ce samedi 14 mars 2026 au Stade de France pour le dernier match du Tournoi des 6 Nations. Les Bleus, tenants du titre, visent une 28ème victoire dans la compétition et pourraient remporter un nouveau trophée avec une victoire décisive. Ce match de clôture revêt une importance capitale pour le classement final du tournoi. La rencontre sera diffusée sur CANAL+.",
-      "why": "C'est le match décisif du Tournoi des 6 Nations 2026 qui déterminera le champion européen de rugby et pourrait sceller une nouvelle victoire pour les Bleus.",
+      "title": "France-Angleterre : Les Bleus se préparent pour le match décisif du Tournoi des 6 Nations demain au Stade de France",
+      "summary": "Le XV de France affronte l'Angleterre ce samedi 14 mars à 21h10 dans un dernier match du Tournoi des 6 Nations qui pourrait sacrer les Bleus tenants du titre. Les Français, après une campagne solide, visent une 28e victoire historique face à des Anglais revanchards. La tension monte avec les compos probables et les enjeux pour le Grand Chelem. L'événement sera diffusé sur Canal+ et mobilise déjà des milliers de supporters à Paris.",
+      "why": "Ce choc final détermine le vainqueur du tournoi et pourrait offrir un doublé aux Bleus après leur titre précédent.",
       "category": "Rugby"
     },
     {
-      "title": "Grand Prix de Chine F1 : Verstappen et les pilotes se préparent à Shanghai",
-      "summary": "Le Grand Prix de Chine se dispute dimanche 15 mars 2026 à Shanghai, trois jours après le triomphe de Verstappen en Australie. Cette deuxième manche de la saison 2026 de Formule 1 sera cruciale pour confirmer les tendances établies lors de l'ouverture spectaculaire. Les pilotes affronteront le circuit urbain exigeant de Shanghai après une semaine de préparation intensive. La course sera diffusée sur CANAL+.",
-      "why": "C'est la deuxième épreuve majeure de la saison F1 2026 qui permettra de valider ou d'infirmer la domination de Verstappen établie en Australie.",
+      "title": "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises dans les tableaux ATP et WTA",
+      "summary": "Le tournoi se poursuit à Indian Wells avec les huitièmes de finale en cours, menant aux quarts dès demain dans les tableaux principaux ATP et WTA. Des stars comme les finalistes potentiels dominent, mais des upsets ont secoué les favoris depuis le lancement le 10 mars. Les conditions désertiques favorisent les échanges longs et testent l'endurance des joueurs. Les enjeux sont majeurs pour les classements avant Roland-Garros.",
+      "why": "Premier Masters 1000 de l'année, il définit les hiérarchies précoces sur dur et attire les meilleurs mondiaux.",
+      "category": "Tennis"
+    },
+    {
+      "title": "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai dès demain",
+      "summary": "La Formule 1 arrive en Chine pour la deuxième course de la saison le 15 mars, avec Max Verstappen favori après sa victoire en Australie. Les essais libres débutent ce week-end, promettant du spectacle sur le circuit de Shanghai connu pour ses dépassements. Les équipes ajustent leurs stratégies après Melbourne, tandis que Piastri vise un podium. La course sera diffusée sur Canal+.",
+      "why": "Deuxième round crucial pour les championnats pilotes et constructeurs après l'ouverture australienne.",
       "category": "F1"
     },
     {
-      "title": "Ligue 1 : La 26ème journée se profile avec enjeux majeurs",
-      "summary": "La 26ème journée de Ligue 1 se dispute samedi 14 mars 2026, avec plusieurs matchs décisifs pour la course au titre et la lutte contre la relégation. Les équipes en lice vont affronter des défis importants après les résultats des journées précédentes. Cette journée intervient dans un contexte de compétition intense en championnat français. Les matchs seront diffusés selon le calendrier habituel.",
-      "why": "C'est une journée charnière de Ligue 1 qui pourrait redistribuer les cartes dans la course au titre et les enjeux de maintien.",
+      "title": "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
+      "summary": "La 26e journée de Ligue 1 démarre le 14 mars avec des chocs décisifs pour le PSG leader, Monaco et les poursuivants dans la lutte pour l'Europe. Des derbys et confrontations directes pourraient redistribuer les cartes en haut et en bas de tableau. Les absents et formes du moment pèsent lourd sur les pronostics. Toutes les affiches sont à suivre en direct.",
+      "why": "Phase critique où les écarts se creusent avant la trêve internationale et les phases finales de coupes.",
       "category": "Football"
     },
     {
-      "title": "Betclic Elite : La 22ème journée de basket français en cours",
-      "summary": "La 22ème journée du championnat Betclic Elite se dispute samedi 14 mars 2026, avec les meilleures équipes de basket français en compétition. Les clubs se battent pour les meilleures positions en vue des playoffs. Cette journée intervient dans la phase décisive de la saison régulière. Les matchs seront diffusés sur DAZN.",
-      "why": "C'est une étape importante du championnat de basket français qui détermine les positions finales avant les phases éliminatoires.",
+      "title": "Betclic Elite J22 : La course au titre s'intensifie ce week-end en basketball français",
+      "summary": "La 22e journée de Betclic Elite débute le 14 mars avec Monaco en tête défendant son avance face à des challengers comme Paris Basketball. Des matchs clés pour les playoffs opposent les cadors dans une lutte acharnée. Les performances récentes et blessures influencent les favoris pour le Final Four. Diffusion sur DAZN pour tous les matchs.",
+      "why": "Détermine les positions pour les playoffs et le leadership avant la fin de saison régulière.",
       "category": "Basketball"
-    },
-    {
-      "title": "Huitièmes de finale retour de Ligue des Champions : Les grands clubs européens en action",
-      "summary": "Les huitièmes de finale retour de la Ligue des Champions se disputent mercredi 17 mars 2026, une semaine après les matchs aller. Les équipes qualifiées tenteront de confirmer leurs avantages ou de renverser des situations déficitaires. Cette phase retour est cruciale pour déterminer les quatre demi-finalistes. Les matchs seront diffusés sur CANAL+.",
-      "why": "C'est la phase retour décisive des huitièmes de finale de la Ligue des Champions qui déterminera les quatre demi-finalistes de la compétition reine.",
-      "category": "Football"
     }
   ],
-  "updates": [
-    {
-      "title": "Real Madrid vs Manchester City : City domine 3-1 sans Mbappé",
-      "original": "Real Madrid vs Manchester City LdC : Mbappé out, City domine 3-1 sans lui",
-      "summary": "Manchester City a remporté une victoire éclatante 3-1 contre le Real Madrid lors des huitièmes de finale aller de la Ligue des Champions, malgré l'absence de Kylian Mbappé côté madrilène. Cette victoire confortable donne un avantage décisif à City avant le match retour prévu le 17 mars. L'absence de la star française a clairement impacté le potentiel offensif du Real Madrid.",
-      "why": "Cette victoire majeure de City place les Cityzens en position très favorable pour les quarts de finale et montre la domination des Anglais en Europe cette saison.",
-      "category": "Football"
-    }
-  ]
+  "updates": []
 }
