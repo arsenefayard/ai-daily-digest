@@ -2,16 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Le labyrinthe de Chartres : le plus grand du monde gravé dans le sol d'une cathédrale",
-      "Le vaisseau de pierre d'Emanuel Swedenborg, utopie architecturale du XVIIIe siècle",
-      "L'effet Stroop : le cerveau piégé par des mots colorés",
-      "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde",
-      "Le Golem de Prague : légende juive d'un colosse d'argile animé"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "La tapisserie de l'Apocalypse d'Angers : le plus grand ensemble médiéval conservé",
       "Le paradoxe de l'hôtel de Hilbert en mathématiques",
       "Le premier film de l'histoire : La Sortie de l'usine Lumière",
@@ -68,6 +58,16 @@
       "Magdalena Abramovic : quand la couture devient sculpture monumentale",
       "Luminiscence : l'Odyssée Céleste transforme l'architecture gothique en expérience immersive 3D",
       "Le Printemps des Arts de Monte-Carlo 2026 : une édition record sous présidence princière"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "La cathédrale engloutie de Yubari au Japon",
+      "Le théorème de Gödel : les limites de la mathématique",
+      "Fantasmagorie : le premier court-métrage d'animation de 1908",
+      "La découverte de la quinine et la fin du paludisme colonial",
+      "Le record de la plus longue sieste : 23 jours en 1959"
     ]
   }
 ]
