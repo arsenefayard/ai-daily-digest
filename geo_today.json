@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
-      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien traversant l'espace aérien turc, marquant une escalade des tensions régionales alors que l'Iran riposte aux frappes américano-israéliennes. Cette interception souligne la vulnérabilité des alliés OTAN face aux capacités balistiques iraniennes et renforce la posture défensive de l'Alliance atlantique au Moyen-Orient. Les implications incluent un risque accru de confrontation directe entre l'OTAN et l'Iran, potentiellement élargissant le conflit au-delà du Golfe. Téhéran justifie ces tirs comme une défense légitime contre les agressions subies.",
-      "why": "Cela démontre l'extension du conflit iranien vers les frontières OTAN, menaçant la stabilité euro-atlantique et forçant une mobilisation accrue des forces alliées.",
+      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien traversant l'espace aérien turc, marquant une escalade des tensions au Moyen-Orient. Cette interception intervient dans le contexte d'échanges de tirs continus entre l'Iran, Israël et les forces américaines. Elle souligne les risques d'élargissement du conflit à l'OTAN via la Turquie, membre clé de l'alliance. Les implications incluent une possible activation de l'article 5 si les attaques persistent.",
+      "why": "Cela représente un risque direct d'embrasement régional impliquant l'OTAN, potentiellement transformant un conflit local en confrontation mondiale.",
       "category": "Conflit"
     },
     {
       "title": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
-      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à poser des mines dans le détroit d'Ormuz, en réponse aux menaces de Téhéran de bloquer cette artère vitale pour 20% du pétrole mondial. Cette opération préventive vise à sécuriser les flux énergétiques face à l'escalade militaire. Les tensions économiques s'intensifient avec la flambée des prix du pétrole, impactant les marchés globaux. Trump a menacé de 'conséquences militaires sans précédent' si des mines sont détectées.",
-      "why": "Le contrôle du détroit d'Ormuz est crucial pour l'économie mondiale; sa perturbation pourrait provoquer une crise énergétique planétaire.",
+      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à poser des mines dans le détroit d'Ormuz, suite aux menaces de Trump contre toute perturbation du trafic pétrolier. Cette opération vise à sécuriser 20% des approvisionnements mondiaux en pétrole. L'Iran riposte par des menaces de fermeture totale du détroit, aggravant la crise énergétique. Les prix du brut flambent, impactant l'économie mondiale.",
+      "why": "Le contrôle du détroit d'Ormuz est vital pour l'énergie globale; sa perturbation menace la stabilité économique des grandes puissances.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
+      "summary": "Onze pays du Golfe, dont l'Arabie saoudite, ont sollicité l'Ukraine pour contrer les attaques de drones iraniens, après 4 ans d'expérience contre les Shahed russes. Zelensky a accepté d'aider ces alliés potentiels en échange de soutien accru à Kyiv. Cela inverse les rôles, l'Ukraine aidant les adversaires de l'Iran, allié de la Russie. La Russie fournit désormais des composants à Téhéran, renforçant l'axe Moscou-Téhéran.",
+      "why": "Cela crée un nouveau front anti-iranien et affaiblit l'alliance Russie-Iran, avec des retombées sur la guerre en Ukraine.",
       "category": "Sécurité"
     },
     {
-      "title": "Ukraine propose son expertise anti-drones aux pays du Golfe contre les attaques iraniennes",
-      "summary": "Onze pays du Golfe, dont l'Arabie saoudite et les Émirats, ont sollicité Volodymyr Zelensky pour partager l'expertise ukrainienne en interception de drones, acquise face aux attaques russes. Kyiv accepte en échange d'un soutien accru, symbolisant un rapprochement inattendu entre l'Ukraine et les monarchies sunnites opposées à l'Iran chiite. Cela met en lumière l'alliance Russie-Iran via les drones Shahed fournis à Moscou. Les USA ont déjà bénéficié d'aide ukrainienne en Jordanie.",
-      "why": "Ce transfert de technologies anti-drones pourrait inverser les dynamiques au Moyen-Orient et renforcer le front anti-iranien, tout en aidant l'Ukraine diplomatiquement.",
-      "category": "Sécurité"
+      "title": "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
+      "summary": "La France puise dans ses réserves pour contrer la flambée des prix due au blocage partiel du détroit d'Ormuz par l'Iran. Cette mesure suit l'annonce de Macron d'un déploiement naval massif pour sécuriser la zone. Elle vise à stabiliser les marchés européens face à une hausse de 30% du gaz. L'AIE prépare un déblocage record de stocks mondiaux.",
+      "why": "Cette action atténue le choc énergétique en Europe mais signale la gravité de la crise, avec risques de rationnements prolongés.",
+      "category": "Énergie"
     },
     {
-      "title": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
-      "summary": "L'armée israélienne a lancé une vague massive de frappes sur Téhéran et des positions du Hezbollah au Liban, ignorant les appels à la désescalade de Donald Trump qui promet une fin 'très bientôt' à la guerre. Ces attaques visent des centres de commandement des Gardiens de la Révolution et des infrastructures liées au nucléaire iranien. Le Hezbollah revendique des ripostes en soutien à l'Iran après la mort présumée de l'Ayatollah Khamenei. L'escalade ignore les médiations russes et européennes.",
-      "why": "L'autonomie stratégique d'Israël face aux USA risque de prolonger le conflit, testant les alliances occidentales au Moyen-Orient.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Marchés européens chutent au 12e jour du conflit Iran-USA avec incertitude sur les réserves pétrolières",
-      "summary": "Les bourses européennes comme le CAC 40 et l'Eurostoxx 50 reculent face à la volatilité des prix du pétrole au 12e jour de guerre, l'AIE préparant un déblocage record de stocks stratégiques surpassant 2022. Les investisseurs craignent un blocage prolongé d'Ormuz malgré les destructions US de navires iraniens. L'Iran refuse tout cessez-le-feu, promettant de punir l'agresseur. Poutine appelle à une désescalade diplomatique.",
-      "why": "La crise énergétique menace la croissance mondiale, forçant les grandes puissances à coordonner des réponses économiques d'urgence.",
-      "category": "Économie"
+      "title": "Poutine appelle à une désescalade rapide avec l'Iran via la diplomatie",
+      "summary": "Vladimir Poutine a discuté avec le président iranien Massoud Pézechian et Trump pour privilégier une solution politique au conflit. Malgré le soutien russe à Téhéran via drones et renseignements, Moscou craint des pertes en pétrole et composants. Cette position contraste avec l'escalade militaire israélo-américaine. Elle vise à préserver l'influence russe au Moyen-Orient.",
+      "why": "La Russie, alliée clé de l'Iran, pourrait jouer un rôle médiateur, influençant l'issue du conflit et ses approvisionnements.",
+      "category": "Diplomatie"
     }
   ],
   "updates": []
