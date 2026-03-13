@@ -2,17 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Ligue des Champions : Atlético Madrid écrase Tottenham et file vers les quarts",
-      "Ligue des Champions : Barcelone tient tête à Newcastle dans un match intense (1-1)",
-      "Indian Wells Masters 1000 : Premiers chocs avec les stars ATP et WTA en lice",
-      "Real Madrid vs Manchester City : Mbappé déclare forfait pour le choc",
-      "Nîmes Olympique enchaîne une 4e victoire consécutive et se rapproche du leader",
-      "Grand Prix d'Australie F1 : Verstappen triomphe devant Piastri et ouvre sa saison en leader"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "Ligue des Champions: Atlético Madrid écrase Tottenham en 8es de finale aller",
       "Indian Wells Masters 1000: Premiers chocs explosifs avec les stars ATP et WTA",
       "Real Madrid vs Manchester City: Mbappé déclare forfait pour le choc décisif",
@@ -73,6 +62,17 @@
       "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai",
       "Ligue 1 J26 : Enjeux majeurs ce week-end avec course au titre et bataille pour le podium",
       "Betclic Elite J22 : La course au titre s'intensifie en basketball français"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations demain",
+      "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai",
+      "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
+      "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
+      "Betclic Elite J22 : La course au titre s'intensifie en basketball français ce week-end",
+      "Huitièmes de finale retour de Ligue des Champions : Les grands clubs européens en action"
     ]
   }
 ]
