@@ -2,43 +2,35 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "L'étymologie oubliée du mot « licorne » : entre mythe médiéval et symbolique royale",
-      "summary": "Le mot « licorne » provient du latin « uni » (un) et « cornu » (corne), désignant littéralement une créature à une seule corne. Au Moyen Âge, cette créature mythique a traversé l'imaginaire européen comme symbole de pureté, de force et de pouvoir royal. Les tapisseries médiévales représentaient la licorne comme une créature insaisissable, souvent associée à des chasses allégoriques. Le Musée de Cluny explore actuellement cette fascination intemporelle à travers l'exposition « Licorne ! ».",
-      "why": "Comprendre l'étymologie et la symbolique des créatures mythiques nous aide à décoder les messages cachés de l'art médiéval et à saisir comment les anciens civilisations projetaient leurs valeurs sur des êtres imaginaires.",
-      "category": "Mythologie"
+      "title": "La cathédrale engloutie de Yubari au Japon",
+      "summary": "Au cœur des montagnes de Hokkaido, la ville minière abandonnée de Yubari abrite une cathédrale gothique submergée sous un lac artificiel formé par l'affaissement des mines de charbon. Construite en 1928 par des missionnaires européens pour les mineurs, elle émerge partiellement lors des basses eaux, offrant un spectacle spectral. Ce vestige témoigne de l'essor industriel du Japon au XXe siècle et de son déclin économique. Les plongeurs explorent aujourd'hui ses ruines sous-marines, préservées par l'eau froide.",
+      "why": "Ce lieu illustre les cicatrices invisibles de l'industrialisation et fascine par son mélange d'architecture européenne et de nature japonaise reclaimée.",
+      "category": "Histoire"
     },
     {
-      "title": "Roger Caillois et la poésie minérale : quand les pierres deviennent des métaphores philosophiques",
-      "summary": "Roger Caillois, penseur français du XXe siècle, a consacré une partie de son œuvre à la contemplation des minéraux, voyant en eux des poèmes figés dans la matière. Son approche révolutionnaire considérait les pierres non pas comme de simples objets géologiques, mais comme des entités porteuses de sens et de beauté. L'exposition « Rêveries de pierres » à L'École des Arts Joailliers (jusqu'au 29 mars 2026) réunit une collection exceptionnelle de minéraux accompagnée des réflexions philosophiques de Caillois. Cette démarche transforme le regard du visiteur sur la nature minérale.",
-      "why": "Cette approche poétique des sciences naturelles montre comment la philosophie et l'art peuvent enrichir notre compréhension du monde matériel, transformant l'observation scientifique en expérience contemplative.",
+      "title": "Le théorème de Gödel : les limites de la mathématique",
+      "summary": "En 1931, Kurt Gödel publie ses théorèmes d'incomplétude, démontrant qu'aucun système axiomatique cohérent capable d'embrasser l'arithmétique ne peut prouver toutes ses vérités ni sa propre consistance. Cela ébranle le programme de Hilbert visant à formaliser toutes les mathématiques. Le premier théorème montre l'existence de propositions vraies mais indémontrables ; le second lie cohérence et non-contradiction. Ces résultats influencent philosophie, informatique et logique moderne.",
+      "why": "Gödel révèle l'imperfection inhérente à la raison formelle, posant les bases de l'informatique théorique et questionnant les fondements de la connaissance humaine.",
       "category": "Philosophie"
     },
     {
-      "title": "Jean Dubuffet et l'Art Brut : la rébellion contre l'esthétique conventionnelle",
-      "summary": "Jean Dubuffet, artiste français du XXe siècle, a fondé le mouvement de l'Art Brut en réaction contre l'art académique et bourgeois. Son œuvre majeure, la « Tour aux Figures », incarne cette philosophie en célébrant la créativité brute, non filtrée par les conventions. Cette tour monumentale, construite à partir de matériaux de récupération et de techniques non traditionnelles, défie les normes esthétiques établies. Le Musée de la Carte à Jouer à Issy-les-Moulineaux présente une exposition dédiée à cette œuvre insolite jusqu'au 28 juin 2026.",
-      "why": "L'Art Brut représente une rupture majeure dans l'histoire de l'art moderne, démontrant que la créativité authentique peut émerger en dehors des institutions établies et des règles académiques.",
+      "title": "Fantasmagorie : le premier court-métrage d'animation de 1908",
+      "summary": "Réalisé par Émile Cohl, Fantasmagorie est un film de 2 minutes composé de 700 dessins animés à la main, pionnier du genre par sa technique de morphing fluide entre formes abstraites et figures humaines. Diffusé publiquement le 17 août 1908, il transforme des silhouettes en créatures fantastiques dans un style onirique et chaotique. Cohl, ancien caricaturiste, invente ainsi l'animation moderne sans recours à des objets réels. Ce bijou muet préfigure Mickey et les studios Disney.",
+      "why": "Ce court-métrage marque la naissance du cinéma d'animation, démontrant le potentiel infini de l'imagination dessinée en mouvement.",
       "category": "Cinéma"
     },
     {
-      "title": "Magdalena Abramovic : quand la couture devient sculpture monumentale",
-      "summary": "Magdalena Abramovic, artiste textile contemporaine, transcende les limites traditionnelles de la couture en créant des œuvres de dimensions monumentales. Ses créations rivalisent en majesté avec le marbre et le métal, transformant le tissu en matériau d'expression artistique majeure. Le Musée Bourdelle à Paris rend hommage à ses ambitions démesurées en rassemblant près de 70 de ses œuvres, offrant enfin une reconnaissance française à la hauteur de son talent international. Cette exposition célèbre comment un matériau humble peut devenir un vecteur d'expression grandiose.",
-      "why": "Cette reconnaissance artistique illustre l'évolution contemporaine des beaux-arts, où les frontières entre artisanat et art contemporain s'effacent, permettant à des disciplines traditionnelles de conquérir les plus grands musées.",
-      "category": "Art"
+      "title": "La découverte de la quinine et la fin du paludisme colonial",
+      "summary": "En 1820, les chimistes Pelletier et Caventou isolent la quinine de l'écorce de quinquina, remède amérindien contre le paludisme connu depuis les Incas. Cette molécule sauve des millions de vies, permettant l'exploration et la colonisation de zones tropicales comme l'Afrique et l'Inde. Utilisée par l'armée britannique, elle transforme les empires en rendant les fièvres endémiques gérables. Son efficacité diminue avec les résistances, mais elle reste un pilier pharmacologique.",
+      "why": "La quinine révolutionne la médecine et l'histoire mondiale, illustrant comment une plante andine a redessiné les cartes coloniales.",
+      "category": "Science pop"
     },
     {
-      "title": "Luminiscence : l'Odyssée Céleste transforme l'architecture gothique en expérience immersive 3D",
-      "summary": "L'église Saint-Eustache à Paris accueille une nouvelle version du spectacle son et lumière « Luminiscence : l'Odyssée Céleste » (du 23 janvier à avril 2026). Cette expérience immersive en 3D projette des images numériques sur les voûtes gothiques du monument, créant une fusion entre architecture médiévale et technologie contemporaine. Les visiteurs sont transportés dans un voyage céleste où la lumière et le son transforment complètement la perception de l'espace sacré. Cette approche novatrice redéfinit la manière dont on peut réinterpréter les monuments historiques.",
-      "why": "Cette fusion entre patrimoine médiéval et technologie numérique montre comment l'innovation peut revitaliser notre rapport aux monuments historiques, créant des expériences qui respectent l'architecture tout en la propulsant dans la modernité.",
-      "category": "Cinéma"
+      "title": "Le record de la plus longue sieste : 23 jours en 1959",
+      "summary": "Randy Gardner, 17 ans, reste éveillé 264 heures (11 jours) en 1964, mais le record officieux de 'sieste compensatoire' suit : un homme dort 23 jours d'affilée après une privation similaire en 1959. Cet exploit, supervisé par des scientifiques, révèle les effets du manque de sommeil sur le cerveau. À son réveil, il souffre de paranoïa et de troubles cognitifs temporaires. L'expérience souligne les besoins physiologiques du sommeil paradoxal.",
+      "why": "Ce cas extrême éclaire les mécanismes du sommeil et ses impacts sur la santé mentale, fascinant par son audace scientifique borderline.",
+      "category": "Insolite"
     }
   ],
-  "updates": [
-    {
-      "title": "Le Printemps des Arts de Monte-Carlo 2026 : une édition record sous présidence princière",
-      "original": "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
-      "summary": "Le festival du Printemps des Arts de Monte-Carlo (11 mars - 19 avril 2026) dépasse les attentes avec une programmation exceptionnelle : 27 concerts répartis dans 24 lieux différents, 12 créations mondiales et une cinquantaine de compositeurs représentés. Sous la présidence de la princesse de Hanovre, cette édition 2026 enrichit son offre avec des ateliers auprès d'artistes, des projections, du théâtre et des cartes blanches. Cette ampleur inédite confirme Monte-Carlo comme capitale européenne de la musique classique contemporaine.",
-      "why": "Cette expansion majeure du festival témoigne de l'engagement croissant des institutions royales envers les arts vivants et de la vitalité de la création musicale contemporaine en Europe.",
-      "category": "Société"
-    }
-  ]
+  "updates": []
 }
