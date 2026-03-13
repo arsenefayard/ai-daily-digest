@@ -1,37 +1,33 @@
 {
   "date": "13/03/2026",
   "subject": {
-    "name": "Révolution de Mars de 1848 à Vienne",
-    "type": "Révolution",
-    "period": "1848 · Printemps des peuples, Empire autrichien",
-    "context": "La Révolution de Mars de 1848 à Vienne marque le début d'une vague de soulèvements libéraux et nationalistes contre l'empire des Habsbourg, inspirée par les révolutions en France. Des étudiants, artisans et bourgeois manifestent pacifiquement pour réclamer une constitution, la liberté de la presse et des réformes agraires face à la censure et la misère économique. Le chancelier Metternich, symbole de la répression post-napoléonienne, est contraint à la fuite déguisé, un fait peu connu qui humilie l'Autriche. Bien que réprimée militairement, elle déclenche une série de révolutions dans l'empire, menaçant sa survie. Elle révèle les fractures ethniques entre Allemands, Hongrois, Tchèques et Italiens.",
+    "name": "Première réunion de l'Académie française",
+    "type": "Événement",
+    "period": "1634 · Début de l'époque moderne en France",
+    "context": "Au XVIIe siècle, sous le règne de Louis XIII, le cardinal de Richelieu, premier ministre et mécène des arts, réunit un petit groupe d'intellectuels parisiens pour discuter de la langue française et de sa purification. Cette première séance informelle, tenue le 13 mars 1634 chez l'écrivain Jean Chapelain, marque le germe de l'institution qui deviendra l'Académie française. Les participants, dont des poètes, grammairiens et nobles lettrés, visent à établir un dictionnaire, une grammaire et des règles pour fixer la langue face aux dialectes régionaux et influences étrangères. Peu connue du grand public, cette réunion clandestine échappe aux intrigues de la cour et pose les bases d'une autorité linguistique unique en Europe. L'événement s'inscrit dans un mouvement plus large de centralisation culturelle sous l'absolutisme naissant, favorisant l'essor de la littérature classique française.",
     "dates": [
       {
-        "year": "13 mars 1848",
-        "label": "Éclatement des manifestations à Vienne contre Metternich"
+        "year": "1629",
+        "label": "Richelieu crée la Compagnie du Saint-Sacrement, réseau influent favorisant les cercles intellectuels."
       },
       {
-        "year": "1848",
-        "label": "Influence des révolutions françaises"
+        "year": "1634",
+        "label": "Première réunion chez Chapelain, naissance officieuse de l'Académie."
       },
       {
-        "year": "Avril 1848",
-        "label": "Fuite de Metternich vers l'Angleterre"
+        "year": "1635",
+        "label": "Officialisation par lettres patentes royales sous Louis XIII."
       },
       {
-        "year": "Mai 1848",
-        "label": "Insurrection ouvrière à Vienne réprimée"
+        "year": "1637",
+        "label": "Début des travaux sur le Dictionnaire français."
       },
       {
-        "year": "Octobre 1848",
-        "label": "Nouvelle révolte écrasée par le général Windischgrätz"
-      },
-      {
-        "year": "1849",
-        "label": "Fin des soulèvements avec l'abdication de Ferdinand Ier"
+        "year": "1694",
+        "label": "Publication du premier Dictionnaire de l'Académie."
       }
     ],
-    "legacy": "Elle accélère la fin de l'absolutisme en Autriche et inspire les nationalismes européens, posant les bases de l'unité allemande et hongroise. Son échec renforce temporairement les Habsbourg mais mène à leur dissolution en 1918. Elle symbolise le **Printemps des peuples**, préfigurant les luttes pour les droits démocratiques modernes.",
-    "why": "Cet événement montre comment une manifestation étudiante peut renverser un régime bicentenaire en 48 heures, rappelant que les idées libérales voyagent plus vite que les armées."
+    "legacy": "L'Académie française, avec ses 40 Immortels, régule la langue depuis trois siècles et demi, influençant l'usage mondial du français dans la diplomatie, la littérature et les sciences. Son rôle persiste aujourd'hui via ses dictionnaires et ses résistances aux anglicismes, incarnant un conservatisme linguistique unique. Elle symbolise l'héritage culturel français exporté dans les anciennes colonies et institutions internationales.",
+    "why": "Dans un monde dominé par l'anglais global, l'Académie rappelle qu'une langue peut être protégée par l'État, offrant une leçon inattendue sur la résilience culturelle face à l'uniformisation planétaire."
   }
 }
