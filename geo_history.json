@@ -1,15 +1,5 @@
 [
   {
-    "date": "10/03/2026",
-    "titles": [
-      "Raids israéliens au Liban : 95 000 déplacés contraints de fuir",
-      "Attaque de drone iranien perturbe l'aéroport de Dubaï et suspend les vols",
-      "Explosions à Téhéran : Washington avertit du 'plus grand bombardement' imminent",
-      "Trump rencontre Xi Jinping pour discuter commerce et sécurité régionale",
-      "Ursula von der Leyen au Groenland pour partenariats énergétiques et climatiques"
-    ]
-  },
-  {
     "date": "11/03/2026",
     "titles": [
       "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
@@ -69,6 +59,16 @@
       "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
       "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
       "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
+      "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "Ukraine propose son expertise anti-drones aux pays du Golfe contre les attaques iraniennes",
+      "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
+      "France libère 400 millions de barils de ses réserves stratégiques de pétrole"
     ]
   }
 ]
