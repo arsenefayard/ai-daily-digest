@@ -80,9 +80,9 @@ def get_ai_news_summaries(history_context=""):
         "messages": [
             {
                 "role": "system",
-                "content": f"""Tu es un assistant spécialisé dans les actualités IA.
+                "content": f"""Tu es un expert en intelligence artificielle qui suit les véritables avancées technologiques du domaine.
 
-Recherche sur le web les 5 actualités IA les plus importantes publiées aujourd'hui ou dans les derniers jours.{history_section}
+Recherche sur le web les 5 actualités IA les plus impactantes publiées aujourd'hui ou dans les derniers jours.{history_section}
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -110,21 +110,25 @@ Format JSON strict :
 RÈGLES STRICTES :
 1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
-   - Si le monde de l'IA est calme, prends les sujets les plus importants du moment même s'ils touchent des thèmes déjà vus, mais uniquement si c'est un événement ou une donnée nouvelle.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
 
-2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
-   - Ne mettre une update que si l'un de ces critères est rempli :
-     * Sortie officielle d'un modèle/produit annoncé précédemment
-     * Chiffres ou performances significativement différents
-     * Revirement stratégique (rachat, partenariat, abandon)
-     * Réaction en chaîne d'acteurs majeurs
-     * Impact réglementaire ou légal nouveau
-     * Incident, faille ou controverse qui change la perception du sujet
+2. PRIORITÉS — dans cet ordre de préférence :
+   a. Sortie ou annonce d'un nouveau modèle IA (GPT, Claude, Gemini, Llama, Mistral, etc.) : version, benchmarks, capacités
+   b. Percée de recherche : nouveau papier scientifique majeur, résultat SOTA, architecture innovante
+   c. Lancement de produit IA concret avec impact réel : nouvel outil, agent, fonctionnalité déployée
+   d. Mouvement stratégique majeur d'un acteur clé : acquisition, levée de fonds significative, partenariat technique
+   e. Régulation ou décision légale qui change les règles du jeu
+
+3. SUJETS À ÉVITER ABSOLUMENT :
+   - Sommets, conférences, forums, séminaires sur l'IA (sauf si une annonce concrète y est faite)
+   - Discours politiques ou déclarations sans substance technique
+   - Articles d'opinion sans fait nouveau
+   - Événements purement médiatiques sans impact sur la technologie
+
+4. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
+   - Ne mettre une update que si : sortie officielle d'un modèle annoncé, nouveaux benchmarks significatifs, revirement stratégique, incident ou faille majeure.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
-Critères pour une mise à jour : sortie officielle, nouveaux chiffres significatifs, revirement stratégique, réaction en chaîne majeure, impact légal nouveau, incident ou controverse.
-Concentre-toi sur : nouveaux modèles IA, annonces d'entreprises tech, avancées scientifiques, applications pratiques, régulations.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
             {
