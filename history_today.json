@@ -1,37 +1,37 @@
 {
   "date": "13/03/2026",
   "subject": {
-    "name": "Bataille de Jarnac",
+    "name": "Bataille d'Austruweel",
     "type": "Bataille",
-    "period": "1569 · Troisième guerre de Religion (France, XVIe siècle)",
-    "context": "La bataille de Jarnac s'inscrit dans la troisième guerre de Religion en France, opposant catholiques royaux et protestants huguenots après l'édit de Charles IX expulsant les ministres réformés. L'armée royale, commandée par le duc d'Anjou (futur Henri III), surprend les forces huguenotes menées par Louis Ier de Bourbon, prince de Condé, dans une embuscade près de Jarnac en Angoumois. La supériorité numérique et tactique catholique, avec cavalerie lourde, écrase les protestants en déroute. Condé est blessé, refuse de se rendre et est achevé d'un coup de pistolet par un gentilhomme royal, un geste controversé qualifié de meurtre par les huguenots. Cette victoire renforce temporairement le camp royal mais galvanise la résistance protestante sous Coligny.",
+    "period": "1567 · Début de la guerre de Quatre-Vingts Ans (Pays-Bas espagnols)",
+    "context": "Au cœur des tensions religieuses et politiques en Europe du XVIe siècle, la bataille d'Austruweel oppose les forces espagnoles du duc d'Albe aux rebelles protestants hollandais menés par le comte de Hoogstraaten. Cette confrontation marque l'ouverture violente de la guerre de Quatre-Vingts Ans, une lutte pour l'indépendance des Provinces-Unies contre la domination espagnole. Les Espagnols, mieux organisés et équipés, infligent une défaite cuisante aux Gueux de la mer, ces pirates calvinistes qui harcelèrent les côtes espagnoles. Peu connue du grand public, cette bataille révèle la férocité des tercios espagnols, unités d'infanterie d'élite, et souligne le rôle décisif de la cavalerie wallonne dans la victoire. Elle consolide temporairement le contrôle espagnol sur les Pays-Bas du Sud, mais galvanise la résistance dans le Nord.",
     "dates": [
       {
-        "year": "1568",
-        "label": "Début troisième guerre de Religion"
+        "year": "1566",
+        "label": "Icône Smashers : début de la révolte iconoclaste aux Pays-Bas"
       },
       {
-        "year": "13/02/1569",
-        "label": "Armées en présence près d'Angoulême"
+        "year": "1567",
+        "label": "Arrivée du duc d'Albe comme gouverneur répressif"
       },
       {
-        "year": "13/03/1569",
-        "label": "Victoire catholique et mort de Condé"
-      },
-      {
-        "year": "1569",
-        "label": "Négociations de paix avortées"
-      },
-      {
-        "year": "1570",
-        "label": "Paix de Saint-Germain"
+        "year": "1567",
+        "label": "13 mars : Victoire espagnole écrasante à Austruweel"
       },
       {
         "year": "1572",
-        "label": "Massacre de la Saint-Barthélemy"
+        "label": "Prise de Brielle par les Gueux de la mer"
+      },
+      {
+        "year": "1579",
+        "label": "Union d'Utrecht : alliance des provinces rebelles"
+      },
+      {
+        "year": "1581",
+        "label": "Acte d'Abjuration : indépendance formelle des Provinces-Unies"
       }
     ],
-    "legacy": "La bataille marque un tournant dans les guerres de Religion, illustrant la férocité des conflits civils et l'échec des accommodements religieux. Elle inspire la propagande huguenote contre la Couronne et contribue à l'essor du protestantisme militant. Son souvenir perdure dans l'historiographie comme symbole de la violence nobiliaire et des divisions confessionnelles françaises.",
-    "why": "Jarnac révèle comment la mort d'un prince rebelle, refusant la captivité, transforma une victoire militaire en scandale moral, préfigurant les massacres ultérieurs et la fragilité de la monarchie face aux fureurs religieuses."
+    "legacy": "Cette bataille pose les bases de la séparation durable entre les Pays-Bas du Nord (protestants, indépendants) et du Sud (catholiques, sous influence espagnole puis belge). Elle influence l'art militaire européen en démontrant l'efficacité des tercios face à des forces irrégulières. Son héritage perdure dans la toponymie et l'identité flamande, symbolisant la résistance à l'oppression.",
+    "why": "Dans un monde de fake news et de propagande, Austruweweel rappelle que les victoires militaires décisives naissent souvent de la discipline face au chaos idéologique."
   }
 }
