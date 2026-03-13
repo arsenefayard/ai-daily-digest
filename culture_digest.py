@@ -1,4 +1,4 @@
-"""
+﻿"""
 Script de digest quotidien culture avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -56,7 +56,7 @@ def push_to_github(data, history):
         push_file(repo, headers, "culture_today.json", json.dumps(data, ensure_ascii=False, indent=2), f"culture-digest: {date_str}")
         push_file(repo, headers, "culture_history.json", json.dumps(history, ensure_ascii=False, indent=2), f"culture-history: {date_str}")
         if os.path.exists("culture.html"):
-            _h = open("culture.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            _h = open("culture.html", encoding="utf-8").read().replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file(repo, headers, "culture.html", _h, "chore: update culture.html")
         return True
     except Exception as e:

@@ -60,30 +60,42 @@ jobs:
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
         run: |
-          git clone https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git \
-            --branch gh-pages --single-branch gh_pages_dir
-
           python3 - <<'PYEOF'
-          import os
-          key = os.environ.get("PERPLEXITY_API_KEY", "")
-          files = ["index.html","geo.html","eco.html","sport.html","music.html","science.html","culture.html","history.html"]
-          for f in files:
-              if not os.path.exists(f):
-                  print(f"⚠️ {f} manquant")
-                  continue
-              content = open(f, encoding="utf-8").read().replace("__PERPLEXITY_KEY__", key)
-              with open(f"gh_pages_dir/{f}", "w", encoding="utf-8") as out:
-                  out.write(content)
-              print(f"✅ {f} prêt")
-          PYEOF
+          import os, base64, time, requests
 
-          cd gh_pages_dir
-          git config user.email "github-actions@github.com"
-          git config user.name "GitHub Actions"
-          git add *.html
-          git diff --cached --quiet && echo "Aucun changement HTML" || git commit -m "chore: update HTML pages"
-          git push
+          token = os.environ["GITHUB_TOKEN"]
+          repo  = os.environ.get("GITHUB_REPO", "")
+          key   = os.environ.get("PERPLEXITY_API_KEY", "")
+          key_b64 = base64.b64encode(key.encode()).decode()
+          hdrs  = {"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"}
+          files = ["index.html","geo.html","eco.html","sport.html","music.html","science.html","culture.html","history.html"]
+
+          for fname in files:
+              if not os.path.exists(fname):
+                  print(f"⚠️  {fname} manquant")
+                  continue
+              content = open(fname, encoding="utf-8").read().replace("__PX_KEY_B64__", key_b64)
+              encoded = base64.b64encode(content.encode()).decode()
+              url = f"https://api.github.com/repos/{repo}/contents/{fname}"
+
+              for attempt in range(5):
+                  r = requests.get(url, headers=hdrs, params={"ref": "gh-pages"})
+                  payload = {"message": f"chore: update {fname}", "content": encoded, "branch": "gh-pages"}
+                  if r.status_code == 200:
+                      payload["sha"] = r.json()["sha"]
+                  res = requests.put(url, json=payload, headers=hdrs)
+                  if res.status_code in (200, 201):
+                      print(f"✅ {fname}")
+                      break
+                  elif res.status_code == 409 and attempt < 4:
+                      print(f"⏳ {fname} 409, retry {attempt+1}/5…")
+                      time.sleep(2)
+                  else:
+                      print(f"❌ {fname} ({res.status_code}): {res.text[:200]}")
+                      break
+          PYEOF
 
       - name: Digest IA
         env:

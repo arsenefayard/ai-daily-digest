@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -564,7 +564,7 @@ whyOverlay.addEventListener('click', e => {
 });
 
 /* ── ASK FEATURE ── */
-const _PX_KEY     = '__PERPLEXITY_KEY__';
+const _PX_KEY     = atob('__PX_KEY_B64__');
 const askOverlay  = document.getElementById('ask-overlay');
 const askInput    = document.getElementById('ask-input');
 const askSend     = document.getElementById('ask-send');

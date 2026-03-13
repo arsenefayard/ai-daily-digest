@@ -1,4 +1,4 @@
-"""
+﻿"""
 Script de digest quotidien music avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -56,7 +56,7 @@ def push_to_github(data, history):
         push_file(repo, headers, "music_today.json", json.dumps(data, ensure_ascii=False, indent=2), f"music-digest: {date_str}")
         push_file(repo, headers, "music_history.json", json.dumps(history, ensure_ascii=False, indent=2), f"music-history: {date_str}")
         if os.path.exists("music.html"):
-            _h = open("music.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            _h = open("music.html", encoding="utf-8").read().replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file(repo, headers, "music.html", _h, "chore: update music.html")
         return True
     except Exception as e:

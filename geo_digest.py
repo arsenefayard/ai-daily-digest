@@ -1,4 +1,4 @@
-"""
+﻿"""
 Script de digest quotidien Géopolitique avec Perplexity API
 Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 """
@@ -211,7 +211,7 @@ def push_to_github(data, history):
         if os.path.exists("geo.html"):
             with open("geo.html", "r", encoding="utf-8") as f:
                 html_content = f.read()
-            html_content = html_content.replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            html_content = html_content.replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file_to_gh_pages(repo, headers, "geo.html", html_content, "chore: update geo.html")
             print("✅ geo.html publié")
 

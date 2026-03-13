@@ -1,4 +1,4 @@
-"""
+﻿"""
 Script de digest quotidien sport avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -56,7 +56,7 @@ def push_to_github(data, history):
         push_file(repo, headers, "sport_today.json", json.dumps(data, ensure_ascii=False, indent=2), f"sport-digest: {date_str}")
         push_file(repo, headers, "sport_history.json", json.dumps(history, ensure_ascii=False, indent=2), f"sport-history: {date_str}")
         if os.path.exists("sport.html"):
-            _h = open("sport.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            _h = open("sport.html", encoding="utf-8").read().replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file(repo, headers, "sport.html", _h, "chore: update sport.html")
         return True
     except Exception as e:

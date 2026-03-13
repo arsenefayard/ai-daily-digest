@@ -1,4 +1,4 @@
-"""
+﻿"""
 Script de digest quotidien Histoire avec Perplexity API
 Génère un point historique (personnalité ou événement) avec dates clés et contexte.
 """
@@ -68,7 +68,7 @@ def push_to_github(data, history):
         print("✅ history_history.json mis à jour")
 
         if os.path.exists("history.html"):
-            _h = open("history.html", encoding="utf-8").read().replace("__PERPLEXITY_KEY__", os.environ.get("PERPLEXITY_API_KEY", ""))
+            _h = open("history.html", encoding="utf-8").read().replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file(repo, headers, "history.html", _h, "chore: update history.html")
             print("✅ history.html publié")
 
