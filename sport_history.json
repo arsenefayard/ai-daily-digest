@@ -1,15 +1,5 @@
 [
   {
-    "date": "09/03/2026",
-    "titles": [
-      "FC Barcelone s'impose 1-0 à Bilbao et renforce sa position en Liga",
-      "Indian Wells Masters 1000 démarre avec les stars du circuit ATP et WTA",
-      "Virtus Bologne domine Napoli 90-71 et s'affirme en Serie A basket",
-      "Türk Telekom Ankara crée la surprise en battant Galatasaray 93-90",
-      "AEK Athènes gagne 1-0 contre Larissa et consolide sa défense en Super League grecque"
-    ]
-  },
-  {
     "date": "10/03/2026",
     "titles": [
       "8es de finale aller Ligue des Champions : Début des hostilités ce soir avec les grands clubs européens",
@@ -75,6 +65,17 @@
       "NBA : Clippers renversent les Celtics en prolongation dans un thriller",
       "Paris-Nice 2026 : Troisième étape remportée au sprint par un favori",
       "Real Madrid vs Manchester City LdC : City domine 3-1 sans Mbappé"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "France-Angleterre au Tournoi des 6 Nations : le match décisif des Bleus",
+      "Grand Prix de Chine F1 : Verstappen et les pilotes se préparent à Shanghai",
+      "Ligue 1 : La 26ème journée se profile avec enjeux majeurs",
+      "Betclic Elite : La 22ème journée de basket français en cours",
+      "Huitièmes de finale retour de Ligue des Champions : Les grands clubs européens en action",
+      "Real Madrid vs Manchester City : City domine 3-1 sans Mbappé"
     ]
   }
 ]
