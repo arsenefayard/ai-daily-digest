@@ -1,44 +1,36 @@
 {
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "news": [
     {
-      "title": "Protoxyde d'azote : traitement rapide de la dépression sévère",
-      "summary": "Le protoxyde d'azote (N₂O) s'avère être un traitement révolutionnaire pour la dépression sévère, offrant une action thérapeutique rapide comparée aux antidépresseurs conventionnels. Cette découverte ouvre de nouvelles perspectives pour les patients résistants aux traitements standards. Les mécanismes d'action du N₂O sur les récepteurs glutamatergiques pourraient transformer l'approche psychiatrique. Cette avancée représente une alternative majeure pour les cas critiques nécessitant une intervention urgente.",
-      "why": "Cela offre une solution thérapeutique rapide pour les patients atteints de dépression sévère, réduisant potentiellement les délais de traitement et les risques associés à la dépression chronique.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Nanoparticules lipidiques : amélioration de la fonction mitochondriale",
-      "summary": "Des nanoparticules lipidiques ont démontré leur capacité à améliorer significativement la fonction mitochondriale dans les cellules. Cette technologie pourrait restaurer l'énergie cellulaire et combattre le vieillissement prématuré. Les applications potentielles s'étendent aux maladies neurodégénératives et aux troubles métaboliques. Cette découverte représente une avancée majeure en médecine régénérative et en traitement des maladies liées au dysfonctionnement mitochondrial.",
-      "why": "L'amélioration de la fonction mitochondriale pourrait traiter de nombreuses maladies chroniques et dégénératives, offrant une nouvelle classe thérapeutique pour les patients.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Comète C/2026 A1 (MAPS) : raseur solaire potentiellement spectaculaire",
-      "summary": "La comète C/2026 A1 (MAPS), découverte le 13 janvier 2026 par une équipe d'astronomes chiliens, est un raseur solaire de Kreutz qui passera extrêmement près du Soleil en avril 2026[2]. Contrairement à la plupart des raseurs solaires, cette comète a été découverte bien plus loin du Soleil que ses congénères, à environ 2,06 UA[2]. Si elle survit à la chaleur solaire comme l'ont fait Ikeya-Seki (1965) et Lovejoy (2011), elle pourrait devenir visible à l'œil nu et offrir un spectacle astronomique rare[2]. Avril 2026 pourrait être la seule opportunité pour l'humanité de l'observer, car son orbite serait si longue qu'elle ne reviendrait pas avant des millénaires[2].",
-      "why": "Cette comète représente une opportunité unique d'observation astronomique qui ne se reproduira probablement pas avant des millénaires, captivant l'intérêt scientifique et public mondial.",
+      "title": "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
+      "summary": "Une nouvelle étude publiée le 6 mars 2026 dans Science Advances révèle que l'impact de la sonde DART sur Dimorphos en 2022 a non seulement raccourci sa période orbitale autour de Didymos, mais a aussi légèrement altéré l'orbite du système binaire autour du Soleil. Cette déviation confirme l'efficacité de la technique d'impact cinétique pour la défense planétaire. Les chercheurs démontrent qu'il suffit de frapper un seul astéroïde pour dévier l'ensemble du système. La mission Hera de l'ESA arrivera en automne 2026 pour analyser le cratère et les débris.",
+      "why": "Cette avancée valide une méthode concrète pour dévier des astéroïdes menaçants, renforçant la protection de la Terre contre les collisions cosmiques.",
       "category": "Espace"
     },
     {
-      "title": "Inflammations de bas grade : rôle majeur dans les maladies chroniques",
-      "summary": "Les inflammations de bas grade, longtemps sous-estimées, sont identifiées comme un facteur clé dans le développement et la progression des maladies chroniques. Ces inflammations silencieuses affectent les systèmes cardiovasculaire, neurologique et métabolique. La compréhension de ces mécanismes inflammatoires ouvre de nouvelles stratégies de prévention et de traitement. Cette découverte redéfinit l'approche thérapeutique de nombreuses pathologies chroniques.",
-      "why": "Identifier le rôle des inflammations de bas grade permet de développer des stratégies préventives et curatives pour les maladies chroniques, améliorant significativement la santé publique.",
-      "category": "Médecine"
+      "title": "Expérience génère micro-éclairs expliquant les feux follets naturels",
+      "summary": "Le 7 mars 2026, des chercheurs ont reproduit en laboratoire des micro-éclairs lumineux bleus, phénomène rare observé dans la nature et souvent rapporté dans la littérature comme feux follets. Cette expérience originale simule les conditions atmosphériques sèches favorisant ces flammes. Elle identifie les mécanismes physico-chimiques impliqués, comme l'ionisation de gaz par frottements électrostatiques. Les résultats, publiés dans Sciences et Avenir, démystifient un mystère scientifique persistant.",
+      "why": "Cette découverte élucide un phénomène atmosphérique énigmatique, avec des implications pour la physique des plasmas et la sécurité aérienne.",
+      "category": "Physique"
     },
     {
-      "title": "Sommeil profond : système de nettoyage cérébral dix fois plus actif",
-      "summary": "Des recherches récentes révèlent que le sommeil profond active un système de nettoyage cérébral (glymphatique) dix fois plus actif que pendant l'éveil. Ce processus élimine les protéines toxiques accumulées, notamment l'amyloïde-bêta et la tau, impliquées dans les maladies neurodégénératives. L'efficacité accrue du nettoyage cérébral pendant le sommeil profond explique l'importance critique du repos pour la santé neurologique. Cette découverte souligne le lien direct entre qualité du sommeil et prévention des maladies cognitives.",
-      "why": "Comprendre le rôle du sommeil profond dans le nettoyage cérébral offre des perspectives nouvelles pour prévenir les maladies neurodégénératives comme Alzheimer et Parkinson.",
-      "category": "Biologie"
+      "title": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jzer",
+      "summary": "Le rover Perseverance a analysé une carotte rocheuse du rebord de Jzer, révélant une forte concentration de silice sous formes d'opale, calcédoine et quartz cristallisé, indiquant des processus géologiques terrestres similaires. Une combinaison d'instruments a identifié pour la première fois des minéraux réox sensibles aux conditions d'oxydation-réduction. Ces découvertes, publiées fin février 2025 mais mises en lumière récemment, soulignent une histoire hydrothermale complexe sur Mars. L'impact médiatique est majeur dans la communauté scientifique.",
+      "why": "Ces minéraux révèlent des analogies géologiques Terre-Mars, affinant les modèles d'habitabilité passée de la planète rouge.",
+      "category": "Espace"
+    },
+    {
+      "title": "Microrcharges électrostatiques confirmées sur Mars par grains minéraux",
+      "summary": "En novembre 2025, l'analyse des archives audio de Perseverance a détecté des dizaines de petites décharges électriques dues à des grains minéraux chargés dans l'air sec martien. Ce phénomène électrostatique, auparavant hypothétique, résulte de rencontres répétées de particules. Il explique potentiellement des anomalies observées et impacte la chimie atmosphérique. Les implications concernent la sécurité des futures missions robotiques et humaines.",
+      "why": "Cette confirmation ouvre de nouvelles perspectives sur la dynamique électrostatique martienne, essentielle pour la conception d'équipements spatiaux.",
+      "category": "Espace"
+    },
+    {
+      "title": "Banquise arctique à l'un de ses niveaux historiques les plus bas",
+      "summary": "Les mesures récentes indiquent que la banquise de l'Arctique a atteint l'un de ses minima absolus, accentuant les préoccupations climatiques. Ce record s'inscrit dans une tendance de réchauffement accéléré, avec février parmi les plus chauds mondialement et pluies extrêmes en Europe. La stratégie nationale bas carbone française renforce les actions face à cette urgence. Ces données soulignent l'impact rapide du changement climatique sur les pôles.",
+      "why": "Ce minimum historique alerte sur l'accélération du réchauffement polaire, avec conséquences sur la montée des eaux et les écosystèmes globaux.",
+      "category": "Autre"
     }
   ],
-  "updates": [
-    {
-      "title": "Modèles prédictifs de maladies : outils MIT-Harvard validés",
-      "original": "Développement d'outils de prédiction des maladies",
-      "summary": "Les modèles prédictifs de maladies développés conjointement par le MIT et Harvard ont été validés avec succès, démontrant leur capacité à identifier les risques de maladies chroniques avant l'apparition des symptômes. Ces outils utilisent l'intelligence artificielle et les données génomiques pour stratifier les patients selon leur risque individuel. La validation clinique confirme la fiabilité de ces modèles pour la médecine de précision. Cette avancée permet une intervention précoce et une personnalisation des traitements.",
-      "why": "La validation de ces modèles prédictifs transforme la médecine préventive en permettant l'identification précoce des patients à risque et l'adaptation des stratégies thérapeutiques.",
-      "category": "Médecine"
-    }
-  ]
+  "updates": []
 }
