@@ -1,33 +1,37 @@
 {
   "date": "13/03/2026",
   "subject": {
-    "name": "René-Robert Cavelier de La Salle",
-    "type": "Personnalité",
-    "period": "1643 – 1687 · Époque moderne (Nouvelle-France)",
-    "context": "Explorateur français intrépide, La Salle naquit dans une famille bourgeoise de Rouen et entra chez les Sulpiciens pour se consacrer à l'exploration des terres américaines. Obsédé par la découverte d'un passage vers la Chine via l'ouest du continent, il s'installa au Canada en 1666 et fonda des forts pour étendre l'influence française. Ses expéditions le menèrent à longer les Grands Lacs, descendant le Mississippi jusqu'au Golfe du Mexique, qu'il crut être l'embouchure du fleuve Colomb. Moins connu, il négocia habilement avec les Iroquois, adoptant leur chef pour sceller des alliances, et survécut à des mutineries récurrentes dues à la rudesse de ses méthodes. Sa prise de possession de la Louisiane marqua l'apogée de ses ambitions coloniales, transformant une vaste région en territoire français par simple proclamation.",
+    "name": "Bataille de Jarnac",
+    "type": "Bataille",
+    "period": "1569 · Troisième guerre de Religion (France, XVIe siècle)",
+    "context": "La bataille de Jarnac s'inscrit dans la troisième guerre de Religion en France, opposant catholiques royaux et protestants huguenots après l'édit de Charles IX expulsant les ministres réformés. L'armée royale, commandée par le duc d'Anjou (futur Henri III), surprend les forces huguenotes menées par Louis Ier de Bourbon, prince de Condé, dans une embuscade près de Jarnac en Angoumois. La supériorité numérique et tactique catholique, avec cavalerie lourde, écrase les protestants en déroute. Condé est blessé, refuse de se rendre et est achevé d'un coup de pistolet par un gentilhomme royal, un geste controversé qualifié de meurtre par les huguenots. Cette victoire renforce temporairement le camp royal mais galvanise la résistance protestante sous Coligny.",
     "dates": [
       {
-        "year": "1666",
-        "label": "Arrivée en Nouvelle-France et achat de terres près de Montréal"
+        "year": "1568",
+        "label": "Début troisième guerre de Religion"
       },
       {
-        "year": "1679",
-        "label": "Expédition des Grands Lacs avec le Griffon, premier bateau sur ces eaux"
+        "year": "13/02/1569",
+        "label": "Armées en présence près d'Angoulême"
       },
       {
-        "year": "1682",
-        "label": "Descente du Mississippi et prise de possession de la Louisiane le 13 mars"
+        "year": "13/03/1569",
+        "label": "Victoire catholique et mort de Condé"
       },
       {
-        "year": "1684",
-        "label": "Départ pour le golfe du Mexique, échec à localiser le Mississippi"
+        "year": "1569",
+        "label": "Négociations de paix avortées"
       },
       {
-        "year": "1687",
-        "label": "Assassiné par ses hommes lors d'une ultime expédition"
+        "year": "1570",
+        "label": "Paix de Saint-Germain"
+      },
+      {
+        "year": "1572",
+        "label": "Massacre de la Saint-Barthélemy"
       }
     ],
-    "legacy": "La revendication de la Louisiane par La Salle posa les bases d'un empire français en Amérique du Nord, influençant les rivalités coloniales avec l'Angleterre et l'Espagne jusqu'à la cession à les États-Unis en 1803. Son exploration cartographia des milliers de kilomètres, favorisant le commerce des fourrures et les missions catholiques. Sa postérité perdure dans les toponymes louisianais et inspire encore les récits d'aventure et de conquête spatiale.",
-    "why": "Dans un monde de géants comme Colomb, La Salle osa revendiquer un empire intérieur immense pour un roi lointain, prouvant que l'audace d'un seul homme peut redessiner des continents entiers."
+    "legacy": "La bataille marque un tournant dans les guerres de Religion, illustrant la férocité des conflits civils et l'échec des accommodements religieux. Elle inspire la propagande huguenote contre la Couronne et contribue à l'essor du protestantisme militant. Son souvenir perdure dans l'historiographie comme symbole de la violence nobiliaire et des divisions confessionnelles françaises.",
+    "why": "Jarnac révèle comment la mort d'un prince rebelle, refusant la captivité, transforma une victoire militaire en scandale moral, préfigurant les massacres ultérieurs et la fragilité de la monarchie face aux fureurs religieuses."
   }
 }
