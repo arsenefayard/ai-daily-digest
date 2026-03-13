@@ -2,16 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Claude Cowork d'Anthropic provoque panique boursière avec 285 milliards de dollars évaporés",
-      "UBS prévoit 571 milliards € de dépenses IA en 2026, propulseur des marchés actions",
-      "IA agentique anti-vols automobiles réduit les tentatives de 12-30% dans les véhicules connectés",
-      "Firefox 148 intègre panneau de contrôle IA avec coupe-circuit total pour la confidentialité",
-      "DataGalaxy présente Portfolio au Gartner Summit pour combler le 'AI velocity gap'"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone",
       "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
       "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
@@ -69,6 +59,17 @@
       "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
       "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
       "Claude reste l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
+      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
+      "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
+      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
+      "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
+      "L'armée américaine utilise Claude malgré la rupture officielle avec Anthropic"
     ]
   }
 ]
