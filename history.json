@@ -1,16 +1,5 @@
 [
   {
-    "date": "09/03/2026",
-    "titles": [
-      "Anthropic accuse des laboratoires chinois de créer 24 000 comptes frauduleux pour extraire Claude",
-      "États-Unis : nouveau cadre juridique pour contrôler les exportations de puces IA",
-      "Banque africaine de développement et PNUD lancent une initiative de 10 milliards $ pour l'IA en Afrique",
-      "Google publie Lyria 3, son modèle génératif de musique",
-      "Rapport international sur la sécurité de l'IA 2026 : évaluation académique des risques",
-      "Escalade du conflit Anthropic-Pentagone : révélations sur les attaques de distillation chinoises"
-    ]
-  },
-  {
     "date": "10/03/2026",
     "titles": [
       "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
@@ -69,6 +58,16 @@
       "EBU organise séminaire DTS 2026 sur l’IA au cœur des médias publics",
       "Usages IA en éducation se généralisent : automatisation QCM et veille",
       "IA en entreprise atteint maturité en 2026 malgré complexité SI"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
+      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
+      "Sommet mondial IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
+      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur Fortinet",
+      "Hacktiv’ Summit ouvre aujourd'hui à Chantilly sur cybersécurité IA et business acceleration"
     ]
   }
 ]
