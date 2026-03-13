@@ -2,33 +2,33 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Pétrole dépasse les 100 dollars : escalade majeure de la crise iranienne",
-      "summary": "Le baril de pétrole a franchi la barre des 100 dollars, enregistrant une hausse de 38% en moins de deux semaines depuis le début de la guerre en Iran. Cette flambée est alimentée par les attaques contre les infrastructures pétrolières iraniennes et les pétroliers dans le Golfe, notamment au large de l'Irak. L'Agence internationale de l'énergie a débloqué un record de 400 millions de barils mercredi pour tenter de contenir les prix, sans succès. Cette escalade crée un risque majeur de stagflation mondiale et menace l'approvisionnement énergétique européen.",
-      "why": "Un pétrole au-dessus de 100 dollars impacte directement l'inflation, les coûts de production et la croissance économique mondiale. C'est le principal facteur d'incertitude macroéconomique actuellement.",
+      "title": "Pétrole dépasse 100 dollars : escalade majeure de la crise iranienne",
+      "summary": "Le prix du baril de pétrole a dépassé les 100 dollars le 12 mars 2026, marquant une augmentation de 38% en moins de deux semaines suite à l'intensification du conflit en Iran. Deux pétroliers ont été ciblés au large de l'Irak et des réservoirs de carburant iraniens ont été visés, provoquant une nouvelle flambée des cours. L'usine de liquéfaction de Ras Laffan, qui fournit près de 20% de la production mondiale de GNL, connaît sa plus longue interruption depuis 2008 après une opération militaire iranienne. Cette escalade majeure risque d'entraîner une nouvelle flambée des prix mondiaux des carburants et une accélération de l'inflation mondiale.",
+      "why": "Cette escalade pétrolière est le principal facteur d'incertitude économique mondiale, avec des implications directes sur l'inflation, la croissance économique et les décisions des banques centrales.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "G7 et AIE mobilisent les réserves stratégiques de pétrole",
+      "summary": "Le G7 a officiellement approuvé le 11 mars un plan de mobilisation d'urgence des réserves pétrolières stratégiques pour pallier les pénuries d'approvisionnement et atténuer la volatilité des marchés. L'Agence internationale de l'énergie (AIE) va débloquer 400 millions de barils de brut puisés dans les stocks stratégiques. Le Japon a annoncé qu'il puiserait dans ses réserves de pétrole à partir du 16 mars pour atténuer la pression sur les prix de l'essence et des autres énergies. Cette coordination internationale vise à contenir la flambée des prix énergétiques face à la crise moyen-orientale.",
+      "why": "Cette intervention coordonnée des gouvernements et institutions internationales est cruciale pour éviter une crise énergétique mondiale et limiter l'impact inflationniste du conflit iranien.",
       "category": "Matières premières"
     },
     {
       "title": "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
-      "summary": "Après que la Cour Suprême américaine a annulé ses précédents tarifs douaniers, le président Trump a immédiatement mis en place des droits de douane mondiaux de 15% via un autre canal légal (section 122). Cette mesure peut être prolongée jusqu'à 150 jours sans approbation du Congrès. Les États-Unis pourraient être contraints de restituer jusqu'à 175 milliards de dollars aux entreprises affectées par les tarifs précédents, plus de 1 500 sociétés ayant engagé des procédures judiciaires.",
-      "why": "Ces tarifs relancent les tensions commerciales mondiales et créent une nouvelle source d'incertitude économique. Ils risquent d'alimenter l'inflation et de perturber les chaînes d'approvisionnement globales.",
+      "summary": "Le président américain Donald Trump a instauré des droits de douane mondiaux de 15% le 12 mars 2026, après que la Cour Suprême a annulé les tarifs précédemment votés. Cette mesure a été mise en place via la section 122 et a été suivie d'une majoration de 5% supplémentaire, bien qu'elle ne puisse être prolongée au-delà de 150 jours sans l'aval du Congrès. Les États-Unis pourraient être contraints de restituer jusqu'à 175 milliards de dollars aux entreprises affectées par les tarifs précédents, avec plus de 1 500 sociétés ayant engagé des procédures judiciaires. Cette nouvelle escalade commerciale ajoute à l'incertitude économique mondiale.",
+      "why": "Ces nouveaux tarifs douaniers relancent les tensions commerciales mondiales et créent une incertitude majeure pour les entreprises et les marchés financiers.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Stellantis et Renault enregistrent des pertes records : crise structurelle de l'automobile",
-      "summary": "Stellantis affiche une perte nette abyssale de plus de 22 milliards d'euros, tandis que Renault bascule également dans le rouge. Ces pertes résultent de restructurations massives, d'investissements lourds en électrification et surtout de la concurrence chinoise agressive sur les segments clés du marché automobile. Le secteur automobile est devenu le maillon faible de la cote parisienne, plombant l'indice CAC 40.",
-      "why": "Ces pertes record reflètent une crise structurelle majeure de l'industrie automobile européenne face à la transition énergétique et à la concurrence asiatique. Cela menace l'emploi et la stabilité économique en Europe.",
+      "title": "Crise structurelle de l'automobile : Stellantis et Renault enregistrent des pertes records",
+      "summary": "Le groupe Stellantis a enregistré une perte nette abyssale de plus de 22 milliards d'euros, plombé par la restructuration de ses activités et les lourds investissements liés à l'électrification. Renault bascule également dans le rouge, victime d'une transition énergétique coûteuse et d'une concurrence chinoise de plus en plus agressive sur les segments clés. Le secteur automobile est devenu le maillon faible de la cote parisienne, avec le CAC 40 en baisse de 0,98% le 12 mars. Cette crise révèle les défis structurels du secteur face à la transition énergétique et à la concurrence asiatique.",
+      "why": "Ces pertes record signalent une crise structurelle majeure du secteur automobile européen, avec des implications pour l'emploi, la croissance économique et la compétitivité industrielle.",
       "category": "Entreprises"
     },
     {
-      "title": "Trump nomme Kevin Warsh à la tête de la Fed : apaisement des tensions monétaires",
-      "summary": "Le président Trump a nommé Kevin Warsh à la présidence de la Réserve fédérale, remplaçant ainsi la direction précédente. Cette nomination rassure les marchés car Warsh est perçu comme défenseur de l'indépendance de la Banque centrale. Trump a simultanément relâché la pression qu'il exerçait sur la Fed pour qu'elle baisse ses taux, marquant un changement de ton significatif.",
-      "why": "Cette nomination réduit l'incertitude politique autour de la politique monétaire américaine et restaure la confiance des marchés dans l'indépendance institutionnelle de la Fed.",
-      "category": "Banques"
-    },
-    {
       "title": "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
-      "summary": "L'inflation française atteint seulement 0,3% en rythme annuel en janvier, rapprochant dangereusement le pays du seuil de déflation. Cette faiblesse inflationniste remet en question la pertinence d'une politique monétaire prudente face à la faible croissance européenne. Le Financial Times rapporte que Christine Lagarde pourrait quitter son poste de présidente de la BCE avant la fin de son mandat prévu en octobre 2027.",
-      "why": "Le risque de déflation en France et les interrogations sur la direction de la BCE créent une incertitude majeure pour la politique monétaire européenne et la trajectoire économique de la zone euro.",
+      "summary": "L'inflation en France a atteint seulement 0,3% en rythme annuel en janvier 2026, rapprochant dangereusement le pays du seuil de déflation. Cette situation contraste fortement avec l'inflation de 1,9% en zone euro en février et soulève des questions sur la pertinence d'une politique monétaire prudente face à la faible croissance européenne. Des interrogations émergent également sur l'avenir de Christine Lagarde à la tête de la BCE, selon le Financial Times, son départ pourrait intervenir avant la fin de son mandat prévue en octobre 2027. Cette divergence inflationniste pose des défis majeurs pour la conduite de la politique monétaire européenne.",
+      "why": "Le risque de déflation en France et les interrogations sur le leadership de la BCE créent une incertitude majeure sur la trajectoire de la politique monétaire européenne.",
       "category": "Politique monétaire"
     }
   ],
@@ -36,8 +36,8 @@
     {
       "title": "Pétrole : nouvelle escalade au-delà de 100 dollars",
       "original": "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées (12/03/2026)",
-      "summary": "Le pétrole a effectivement dépassé les 100 dollars mercredi 12 mars, confirmant la tendance haussière. Les attaques contre les infrastructures pétrolières iraniennes et les navires dans le Golfe continuent d'alimenter la hausse. L'AIE a débloqué un record de 400 millions de barils pour tenter de contenir les prix, sans succès. La situation reste volatile avec le risque d'une escalade supplémentaire.",
-      "why": "Cette confirmation de la hausse du pétrole au-delà de 100 dollars valide les craintes de stagflation et renforce le scénario pessimiste pour les marchés et l'inflation mondiale.",
+      "summary": "Le prix du pétrole a effectivement dépassé les 100 dollars le 12 mars 2026, confirmant l'escalade majeure du conflit iranien. Les attaques contre les pétroliers au large de l'Irak et les installations iraniennes ont provoqué cette nouvelle flambée. L'usine de liquéfaction de Ras Laffan, qui fournit 20% du GNL mondial, connaît sa plus longue interruption depuis 2008. Cette escalade confirme les risques de stagflation et de correction boursière prolongée évoqués précédemment.",
+      "why": "Cette confirmation de l'escalade pétrolière valide les scénarios pessimistes de stagflation et justifie les interventions coordonnées des gouvernements et de l'AIE.",
       "category": "Matières premières"
     }
   ]
