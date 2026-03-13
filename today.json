@@ -1,34 +1,34 @@
 {
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "news": [
     {
-      "title": "L’armée américaine utilise Claude malgré la rupture avec Anthropic",
-      "summary": "L’armée US aurait déployé le modèle Claude d’Anthropic pour préparer des frappes en Iran, seulement heures après l’annonce officielle de rupture pour motifs éthiques. Cela révèle l’intégration profonde des outils IA dans les opérations militaires, rendant leur retrait quasi-impossible malgré les blacklists. Les experts soulignent les risques de dépendance à des modèles tiers non alignés avec les priorités sécuritaires. Cette affaire met en lumière les tensions entre innovation rapide et contrôle stratégique.[1]",
-      "why": "Illustre les défis pratiques de réguler l’IA militaire une fois déployée, impactant la géopolitique et la confiance inter-entreprises-gouvernements.",
+      "title": "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
+      "summary": "Microsoft a lancé sa première superfactory d'IA, composée de deux immenses clusters de calcul séparés par plus de 1000 km, capable d'entraîner des modèles comme GPT ou Gemini dix fois plus vite qu'avant, en consommant moins d'énergie et en évitant les goulets d'étranglement cloud. Cette infrastructure vise à entraîner des modèles de plusieurs centaines de trillions de paramètres, ouvrant la voie à des IA quasi autonomes en raisonnement et planification. Elle s'inscrit dans une vague mondiale incluant les AI Factories de l'UE (500M€ pour 6 sites) et un méga-data-center suédois financé à 10Md$ par Brookfield. L'innovation redéfinit l'entraînement IA à échelle industrielle.",
+      "why": "Cette avancée accélère drastiquement la course aux super-modèles IA, renforçant la position de Microsoft et intensifiant la compétition infrastructurelle mondiale.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
+      "summary": "Le World AI Cannes Festival (février 2026) marque le passage de l'IA à l'industrialisation, au-delà des démos spectaculaires, avec trois axes : agents IA multi-agents exécutant tâches complexes (analyse docs, décisions, actions auto), intégration en santé (diagnostic imagerie, oncologie, optimisation blocs op), et souveraineté tech. L'Agentic AI émerge comme successeur de la GenAI, capable d'opérations bout-en-bout dans les SI. En santé, l'IA passe de l'expérimental à l'opérationnel dans hôpitaux pour libérer temps médical. Le salon souligne l'ancrage concret post-phase 'wow'.",
+      "why": "Il signale la maturité industrielle de l'IA, pivotant vers applications scalables en santé et agentique, avec enjeux souverains cruciaux pour l'Europe.",
       "category": "Application"
     },
     {
-      "title": "CyberStrikeAI détourné par pirates pour attaques sur pare-feu Fortinet",
-      "summary": "L’outil open source CyberStrikeAI, conçu pour tester la sécurité IA, est exploité par des cybercriminels pour compromettre des centaines de pare-feu Fortinet FortiGate. Cette plateforme permet des attaques automatisées basées sur l’IA, adaptant en temps réel les vecteurs d’intrusion. Les chercheurs avertissent d’une prolifération rapide de telles menaces, avec le même acteur malveillant derrière plusieurs campagnes récentes. Les entreprises doivent renforcer leurs défenses contre les outils IA adverses.[1]",
-      "why": "Démontre comment l’open source IA peut être weaponisé, accélérant l’évolution des cybermenaces et nécessitant de nouvelles contre-mesures.",
+      "title": "Sommet mondial IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
+      "summary": "Le sommet international sur l'impact de l'IA à New Delhi (10 mars 2026) positionne l'Inde comme tiers pôle, avec promesses d'investissements massifs, tensions géopolitiques et appels à régulation. Les débats portent sur déploiement sociétal de l'IA, cas d'usage modestes vs AGI, et enjeux d'adoption. Experts décryptent tendances et impacts, soulignant besoin de voies alternatives à la domination sino-américaine. L'événement connecte décideurs pour une IA inclusive et régulée.",
+      "why": "Il pourrait redessiner la géopolitique IA en favorisant un bloc émergent, influençant régulations et investissements globaux.",
+      "category": "Régulation"
+    },
+    {
+      "title": "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur Fortinet",
+      "summary": "CyberStrikeAI, plateforme open source pour tester sécurité IA, est exploitée par des pirates pour des attaques IA ciblant pare-feu Fortinet FortiGate, compromettant des centaines d'appareils dans une campagne récente. Les chercheurs alertent sur ce détournement par le même acteur malveillant, illustrant les risques des outils dual-use en cybersécurité IA. L'outil, conçu pour simulations défensives, génère maintenant des assauts automatisés sophistiqués. Cela souligne la vulnérabilité croissante des infrastructures critiques face à l'IA offensive.",
+      "why": "Première démonstration massive d'attaques IA sur équipements critiques, accélérant la course à la cybersécurité agentique.",
       "category": "Application"
     },
     {
-      "title": "EBU organise séminaire DTS 2026 sur l’IA au cœur des médias publics",
-      "summary": "Du 10 au 12 mars 2026 à Genève, l’Union Européenne de Radio-Télévision (EBU) réunit experts pour 'Façonner l’avenir des médias avec l’IA et les données'. Focus sur déploiement à échelle de solutions IA pour journalisme, diffusion et lutte contre la désinformation. L’événement hybride passe de la théorie à l’opérationnel, couvrant gouvernance et infrastructures. Inscriptions ouvertes avec early bird pour membres.[3]",
-      "why": "Positionne l’IA comme pilier stratégique pour médias publics européens face à la désinformation, influençant régulations et standards continentaux.",
-      "category": "Application"
-    },
-    {
-      "title": "Usages IA en éducation se généralisent : automatisation QCM et veille",
-      "summary": "En 2026, l’IA devient collègue virtuel pour idéation, challenge d’idées et automatisation de QCM via Gemini ou Claude dans l’enseignement. Outils comme Consensus vérifient consensus scientifique, tandis que prompts optimisés gèrent veille CPF et évaluations de stages. Nécessite vérification pour éviter hallucinations et respect RGPD pour synthèses de données apprenants. Professeurs rapportent gains massifs en productivité administrative.[4]",
-      "why": "Accélère transformation pédagogique, rendant l’IA incontournable en EdTech et impactant formation de millions d’apprenants.",
-      "category": "Application"
-    },
-    {
-      "title": "IA en entreprise atteint maturité en 2026 malgré complexité SI",
-      "summary": "2026 marque le passage de l’IA des prototypes aux déploiements réels, confrontés à la complexité des systèmes d’information existants. Les entreprises intègrent IA dans workflows concrets, au-delà des slides marketing. Focus sur maturité opérationnelle pour ROI mesurable. Tendances incluent agents IA et data pour productivité.[5]",
-      "why": "Signale l’année pivot où l’IA devient infrastructure d’entreprise viable, boostant économie via gains d’efficacité généralisés.",
+      "title": "Hacktiv’ Summit ouvre aujourd'hui à Chantilly sur cybersécurité IA et business acceleration",
+      "summary": "Le Hacktiv’ Summit (12-13 mars 2026) à Chantilly réunit élite des décideurs cybersécurité pour partager défis et nouer partenariats ROIstes via IA. Focus sur transformation stratégique de la défense en levier performance, avec innovations en sécurité IA. Événement cible accélération business par solutions innovantes anti-menaces IA. Lancé pile dans les 48h, il capitalise sur actualités comme CyberStrikeAI.",
+      "why": "Timing critique post-attaques IA récentes, il forge alliances pour contrer menaces émergentes en cybersécurité IA.",
       "category": "Entreprise"
     }
   ],
