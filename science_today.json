@@ -3,32 +3,32 @@
   "news": [
     {
       "title": "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
-      "summary": "Une nouvelle étude publiée le 6 mars 2026 dans Science Advances révèle que l'impact de la sonde DART sur Dimorphos en 2022 a non seulement raccourci sa période orbitale autour de Didymos, mais a aussi légèrement altéré l'orbite du système binaire autour du Soleil. Cette déviation confirme l'efficacité de la technique d'impact cinétique pour la défense planétaire. Les chercheurs démontrent qu'il suffit de frapper un seul astéroïde pour dévier l'ensemble du système. La mission Hera de l'ESA arrivera en automne 2026 pour analyser le cratère et les débris.",
-      "why": "Cette avancée valide une méthode concrète pour dévier des astéroïdes menaçants, renforçant la protection de la Terre contre les collisions cosmiques.",
+      "summary": "Quatre ans après la collision de la sonde DART avec Dimorphos, une étude publiée le 6 mars 2026 révèle que l'impact a non seulement dévié l'orbite du satellite mais a aussi influencé l'orbite du principal astéroïde Didymos autour du Soleil. Cette découverte, analysée par des observations télescopiques post-impact, démontre un effet orbital prolongé inattendu. Les données confirment l'efficacité de la déviation cinétique pour la défense planétaire. Cela ouvre des perspectives pour protéger la Terre contre des menaces astéroïdales futures.",
+      "why": "Première preuve observationnelle d'une modification orbitale systémique par impact, validant les techniques de défense planétaire active.",
       "category": "Espace"
     },
     {
-      "title": "Expérience génère micro-éclairs expliquant les feux follets naturels",
-      "summary": "Le 7 mars 2026, des chercheurs ont reproduit en laboratoire des micro-éclairs lumineux bleus, phénomène rare observé dans la nature et souvent rapporté dans la littérature comme feux follets. Cette expérience originale simule les conditions atmosphériques sèches favorisant ces flammes. Elle identifie les mécanismes physico-chimiques impliqués, comme l'ionisation de gaz par frottements électrostatiques. Les résultats, publiés dans Sciences et Avenir, démystifient un mystère scientifique persistant.",
-      "why": "Cette découverte élucide un phénomène atmosphérique énigmatique, avec des implications pour la physique des plasmas et la sécurité aérienne.",
-      "category": "Physique"
-    },
-    {
-      "title": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jzer",
-      "summary": "Le rover Perseverance a analysé une carotte rocheuse du rebord de Jzer, révélant une forte concentration de silice sous formes d'opale, calcédoine et quartz cristallisé, indiquant des processus géologiques terrestres similaires. Une combinaison d'instruments a identifié pour la première fois des minéraux réox sensibles aux conditions d'oxydation-réduction. Ces découvertes, publiées fin février 2025 mais mises en lumière récemment, soulignent une histoire hydrothermale complexe sur Mars. L'impact médiatique est majeur dans la communauté scientifique.",
-      "why": "Ces minéraux révèlent des analogies géologiques Terre-Mars, affinant les modèles d'habitabilité passée de la planète rouge.",
+      "title": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jezero",
+      "summary": "Le rover Perseverance a identifié dans une roche du rebord de Jezero une forte concentration de silice sous formes d'opale, calcédoine et quartz cristallisé, indiquant des processus géologiques terrestres similaires. Grâce à Supercam et instruments du bras robotique, l'équipe a détecté pour la première fois des minéraux réox sensibles aux conditions d'oxydation/réduction. Ces découvertes, publiées fin février 2026, suggèrent un passé hydrothermal actif. Elles remettent en question les modèles de l'évolution martienne.",
+      "why": "Fournit des preuves directes de conditions habitables passées sur Mars, avec implications pour la recherche de vie ancienne.",
       "category": "Espace"
     },
     {
-      "title": "Microrcharges électrostatiques confirmées sur Mars par grains minéraux",
-      "summary": "En novembre 2025, l'analyse des archives audio de Perseverance a détecté des dizaines de petites décharges électriques dues à des grains minéraux chargés dans l'air sec martien. Ce phénomène électrostatique, auparavant hypothétique, résulte de rencontres répétées de particules. Il explique potentiellement des anomalies observées et impacte la chimie atmosphérique. Les implications concernent la sécurité des futures missions robotiques et humaines.",
-      "why": "Cette confirmation ouvre de nouvelles perspectives sur la dynamique électrostatique martienne, essentielle pour la conception d'équipements spatiaux.",
+      "title": "Microrcharges électrostatiques confirmées sur Mars par grains minéraux chargés",
+      "summary": "Des archives audio du rover Perseverance ont capturé des dizaines de petites décharges électriques en novembre 2025, confirmées comme microrcharges dues à des grains minéraux chargés dans l'air sec martien. Ce phénomène électrostatique, auparavant hypothétique, est maintenant observé directement. Il explique potentiellement des processus atmosphériques et de poussière. Les implications touchent la chimie de surface et les interactions électrostatiques planétaires.",
+      "why": "Première détection in situ de triboélectricité martienne, révolutionnant la compréhension des dynamiques atmosphériques.",
       "category": "Espace"
     },
     {
-      "title": "Banquise arctique à l'un de ses niveaux historiques les plus bas",
-      "summary": "Les mesures récentes indiquent que la banquise de l'Arctique a atteint l'un de ses minima absolus, accentuant les préoccupations climatiques. Ce record s'inscrit dans une tendance de réchauffement accéléré, avec février parmi les plus chauds mondialement et pluies extrêmes en Europe. La stratégie nationale bas carbone française renforce les actions face à cette urgence. Ces données soulignent l'impact rapide du changement climatique sur les pôles.",
-      "why": "Ce minimum historique alerte sur l'accélération du réchauffement polaire, avec conséquences sur la montée des eaux et les écosystèmes globaux.",
+      "title": "Halos opalins riches en eau détectés autour des fissures par Curiosity",
+      "summary": "Le rover Curiosity a analysé des halos clairs autour de fissures dans un cratère martien, confirmant la présence d'opale riche en silice et eau via instruments sophistiqués. Ces structures, visibles dans les archives d'images, indiquent une formation impliquant H2O et silice dissoute. Les chercheurs notent une distribution non aléatoire, suggérant des processus hydrothermaux anciens. Cela renforce les preuves d'un Mars humide passé.",
+      "why": "Nouveau marqueur d'activité hydrique ancienne, reliant géologie martienne et terrestre.",
+      "category": "Espace"
+    },
+    {
+      "title": "Banquise arctique atteint un de ses niveaux historiques les plus bas",
+      "summary": "Les mesures satellitaires du 13 mars 2026 confirment que l'étendue de la banquise arctique est à l'un de ses minima historiques, accélérée par le réchauffement climatique. Cette donnée, issue de NSIDC, montre une réduction de 40% depuis 1979. Les implications incluent une hausse du niveau marin et des changements écosystémiques. Elle souligne l'urgence des modèles climatiques.",
+      "why": "Indicateur critique du changement climatique en temps réel, impactant prévisions globales.",
       "category": "Autre"
     }
   ],
