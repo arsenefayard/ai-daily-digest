@@ -1,13 +1,48 @@
 name: Daily Digest (tous les thèmes)
 
 on:
+  schedule:
+    - cron: '*/5 6 * * *'   # Toutes les 5 min à 6h UTC → 8h CEST (été, UTC+2)
+    - cron: '*/5 7 * * *'   # Toutes les 5 min à 7h UTC → 8h CET (hiver, UTC+1)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
+  check-time:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.check.outputs.should_run }}
+    steps:
+      - name: Vérifier heure et déduplication
+        id: check
+        run: |
+          HOUR=$(TZ="Europe/Paris" date +%-H)
+          TODAY=$(TZ="Europe/Paris" date +%d/%m/%Y)
+          echo "Heure France : ${HOUR}h | Date : $TODAY"
+
+          # Fenêtre stricte : 8h en France
+          if [ "$HOUR" -ne 8 ]; then
+            echo "Hors fenêtre (${HOUR}h ≠ 8h), arrêt."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Déduplication : le digest a-t-il déjà été envoyé aujourd'hui ?
+          EXISTING=$(curl -sf "https://raw.githubusercontent.com/${{ github.repository }}/gh-pages/today.json" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin).get('date',''))" 2>/dev/null || echo "")
+          if [ "$EXISTING" = "$TODAY" ]; then
+            echo "Digest déjà envoyé aujourd'hui ($TODAY), arrêt."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          else
+            echo "Lancement du digest pour $TODAY."
+            echo "should_run=true" >> $GITHUB_OUTPUT
+          fi
+
   send-digest:
+    needs: check-time
+    if: needs.check-time.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Récupérer le code
