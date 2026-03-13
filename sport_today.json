@@ -2,35 +2,43 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Tournoi des 6 Nations : Les Bleus se préparent pour le match décisif contre l'Angleterre demain",
-      "summary": "Le XV de France affronte l'Angleterre ce samedi 14 mars au Stade de France dans le match de clôture du Tournoi des 6 Nations 2026. Tenant du titre, l'équipe de France vise un 28e succès dans la compétition après avoir ouvert face à l'Irlande. Ce duel décisif déterminera le vainqueur du trophée selon les résultats. Les supporters attendent une performance explosive des Bleus à domicile.",
-      "why": "Ce match peut sacrer la France championne et clôturer en apothéose le Tournoi, captivant des millions de fans de rugby.",
+      "title": "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations demain",
+      "summary": "Le XV de France affronte l'Angleterre demain samedi 14 mars au Stade de France pour le match décisif du Tournoi des 6 Nations. Les Bleus, tenants du titre, visent une 28ème victoire dans le tournoi et une nouvelle couronne européenne. Ce dernier match déterminera le champion 2026 et représente l'apothéose d'une compétition qui a mobilisé les six grandes nations du rugby européen depuis février. La rencontre sera diffusée sur CANAL+ à partir de 21h10.",
+      "why": "C'est le match décisif du Tournoi des 6 Nations qui déterminera le champion 2026. La France, tenante du titre, joue son dernier match pour conserver sa couronne face à une Angleterre redoutable.",
       "category": "Rugby"
     },
     {
-      "title": "Indian Wells Masters 1000 : Quarts de finale approchent avec surprises ATP et WTA",
-      "summary": "Les quarts de finale du Masters 1000 d'Indian Wells s'annoncent intenses après des qualifications riches en surprises dans les tableaux masculins et féminins. Les stars ATP et WTA ont enchaîné des chocs explosifs depuis le lancement des tableaux principaux. Des upsets inattendus ont secoué la hiérarchie chez les favoris. La course aux demies promet des duels de haut vol sous le soleil californien.",
-      "why": "Ce tournoi majeur du tennis révèle les formes actuelles des top players et influence les classements mondiaux avant les grands chelems.",
-      "category": "Tennis"
-    },
-    {
       "title": "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai",
-      "summary": "Max Verstappen arrive en pole position pour le Grand Prix de Chine ce week-end à Shanghai, après sa victoire en Australie. Les pilotes se préparent à un circuit exigeant où il défendra sa place de leader du championnat. Les équipes rivales comme McLaren et Ferrari visent à contrer le Néerlandais. Les conditions météo variables pourraient pimenter la course.",
-      "why": "Une victoire de Verstappen consoliderait son avance précoce en saison, impactant la lutte au titre F1.",
+      "summary": "Max Verstappen se prépare à défendre son leadership au championnat du monde de Formule 1 lors du Grand Prix de Chine qui se dispute demain dimanche 15 mars à Shanghai. Après sa victoire dominatrice en Australie le 8 mars, le pilote Red Bull arrive en position de force pour continuer sa série positive. Le circuit de Shanghai, l'un des plus techniques du calendrier, accueillera les 20 pilotes pour une course décisive en début de saison. La compétition sera retransmise sur CANAL+.",
+      "why": "C'est le deuxième Grand Prix de la saison 2026 et Verstappen cherche à confirmer sa domination après sa victoire en Australie. Shanghai est un circuit clé du calendrier F1.",
       "category": "F1"
     },
     {
-      "title": "Ligue 1 J26 : Enjeux majeurs ce week-end avec course au titre et bataille pour le podium",
-      "summary": "La 26e journée de Ligue 1 se profile ce week-end avec des matchs cruciaux pour le leader PSG et les poursuivants. Les équipes en lice pour le podium comme Monaco et Marseille jouent gros. Les relégables tentent de s'éloigner de la zone rouge dans des duels tendus. Cette journée pourrait redessiner le haut du classement.",
-      "why": "Les résultats façonneront la hiérarchie en championnat français, avec implications pour les places européennes.",
+      "title": "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
+      "summary": "Le Masters 1000 d'Indian Wells entre dans sa phase décisive avec les quarts de finale qui se profilent. Le tournoi a déjà livré plusieurs surprises dans les tableaux ATP et WTA, avec l'élimination de certains favoris et l'émergence de joueurs en forme. Les meilleures raquettes mondiales se battent pour une place en demi-finale dans le désert californien. Les matchs des quarts de finale promettent des affrontements de haut niveau entre les stars du circuit.",
+      "why": "Indian Wells est l'un des Masters 1000 les plus prestigieux du calendrier tennis. Les quarts de finale marquent l'entrée dans la phase décisive du tournoi avec des enjeux majeurs pour le classement ATP et WTA.",
+      "category": "Tennis"
+    },
+    {
+      "title": "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
+      "summary": "La 26ème journée de Ligue 1 se dispute ce week-end avec des enjeux majeurs pour la course au titre et la lutte pour les places qualificatives en Ligue des Champions. Les clubs en tête du classement se battent pour consolider leur position tandis que les prétendants au podium cherchent à se rapprocher. Cette journée sera décisive pour clarifier la hiérarchie en cette fin de saison régulière. Les matchs se dérouleront samedi 14 et dimanche 15 mars.",
+      "why": "La 26ème journée de Ligue 1 est cruciale pour la course au titre et les places européennes. C'est un moment clé de la saison où les enjeux se précisent avant la dernière ligne droite.",
       "category": "Football"
     },
     {
-      "title": "Betclic Elite J22 : La course au titre s'intensifie en basketball français",
-      "summary": "La 22e journée de Betclic Elite bat son plein ce week-end, avec Monaco et l'ASVEL en tête dans une lutte acharnée. Des derbys régionaux et chocs au sommet promettent du spectacle. Les playoffs approchent, rendant chaque victoire décisive. Les performances influenceront les qualifications directes.",
-      "why": "Cette journée détermine les leaders pour les phases finales, engageant les clubs phares du basket hexagonal.",
+      "title": "Betclic Elite J22 : La course au titre s'intensifie en basketball français ce week-end",
+      "summary": "La 22ème journée de Betclic Elite, le championnat de basketball français, se dispute ce week-end avec une intensification de la course au titre. Les équipes en lice pour le podium se battent pour consolider leurs positions respectives et accumuler les victoires décisives. Cette journée revêt une importance particulière dans la course aux playoffs et à la couronne nationale. Les matchs seront retransmis sur DAZN.",
+      "why": "La 22ème journée de Betclic Elite marque une phase décisive de la saison avec une course au titre qui s'intensifie. C'est un moment clé pour les équipes en quête de podium et de qualification aux playoffs.",
       "category": "Basketball"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Huitièmes de finale retour de Ligue des Champions : Les grands clubs européens en action",
+      "original": "8es de finale aller Ligue des Champions (10-11 mars 2026) : Atlético Madrid écrase Tottenham, Barcelone tient tête à Newcastle, Real Madrid domine Manchester City 3-1 sans Mbappé",
+      "summary": "Les huitièmes de finale retour de la Ligue des Champions se disputeront le 17 mars 2026, une semaine après les matchs aller. Les grands clubs européens auront l'occasion de confirmer leurs avantages ou de renverser des situations défavorables. Real Madrid, Manchester City, Barcelone, Atlético Madrid et Tottenham seront parmi les équipes en action pour cette phase décisive. Ces matchs retour détermineront les quatre équipes qualifiées pour les quarts de finale.",
+      "why": "Les matchs retour des huitièmes de finale sont décisifs pour la qualification aux quarts de finale. Après les résultats des matchs aller, certaines équipes devront renverser des déficits tandis que d'autres chercheront à confirmer leur avantage.",
+      "category": "Football"
+    }
+  ]
 }
