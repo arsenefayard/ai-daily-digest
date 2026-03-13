@@ -2,43 +2,35 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Pétrole dépasse 100 dollars : escalade majeure de la crise iranienne",
-      "summary": "Le prix du baril de pétrole a dépassé les 100 dollars le 12 mars 2026, marquant une augmentation de 38% en moins de deux semaines suite à l'intensification du conflit en Iran. Deux pétroliers ont été ciblés au large de l'Irak et des réservoirs de carburant iraniens ont été visés, provoquant une nouvelle flambée des cours. L'usine de liquéfaction de Ras Laffan, qui fournit près de 20% de la production mondiale de GNL, connaît sa plus longue interruption depuis 2008 après une opération militaire iranienne. Cette escalade majeure risque d'entraîner une nouvelle flambée des prix mondiaux des carburants et une accélération de l'inflation mondiale.",
-      "why": "Cette escalade pétrolière est le principal facteur d'incertitude économique mondiale, avec des implications directes sur l'inflation, la croissance économique et les décisions des banques centrales.",
+      "title": "Arrêt de l'usine de GNL de Ras Laffan au Qatar suite à opération iranienne",
+      "summary": "L'usine de liquéfaction de Ras Laffan, qui fournit 20% de la production mondiale de GNL, a subi la plus longue interruption depuis 2008 après une opération militaire iranienne. Cela provoque une forte hausse des prix du gaz sur les marchés européens et asiatiques. L'arrêt impacte directement les approvisionnements énergétiques mondiaux. Les implications incluent une volatilité accrue des prix de l'énergie et des pressions inflationnistes potentielles.",
+      "why": "Cet événement menace 20% du GNL mondial, aggravant la crise énergétique liée au conflit au Moyen-Orient et risquant une flambée des prix mondiaux des carburants.",
       "category": "Matières premières"
     },
     {
-      "title": "G7 et AIE mobilisent les réserves stratégiques de pétrole",
-      "summary": "Le G7 a officiellement approuvé le 11 mars un plan de mobilisation d'urgence des réserves pétrolières stratégiques pour pallier les pénuries d'approvisionnement et atténuer la volatilité des marchés. L'Agence internationale de l'énergie (AIE) va débloquer 400 millions de barils de brut puisés dans les stocks stratégiques. Le Japon a annoncé qu'il puiserait dans ses réserves de pétrole à partir du 16 mars pour atténuer la pression sur les prix de l'essence et des autres énergies. Cette coordination internationale vise à contenir la flambée des prix énergétiques face à la crise moyen-orientale.",
-      "why": "Cette intervention coordonnée des gouvernements et institutions internationales est cruciale pour éviter une crise énergétique mondiale et limiter l'impact inflationniste du conflit iranien.",
+      "title": "AIE débloque 400 millions de barils de pétrole des réserves stratégiques",
+      "summary": "L'Agence Internationale de l'Énergie (AIE) annonce la libération de 400 millions de barils de brut des stocks stratégiques pour contrer la hausse des cours due au conflit. Cette mesure vise à atténuer la volatilité des marchés pétroliers. Elle s'inscrit dans un contexte de pénuries liées au Moyen-Orient. Les effets attendus incluent une stabilisation temporaire des prix à la pompe.",
+      "why": "Cette intervention massive de l'AIE est cruciale pour limiter l'impact inflationniste du pétrole sur les économies mondiales en pleine escalade géopolitique.",
       "category": "Matières premières"
     },
     {
-      "title": "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
-      "summary": "Le président américain Donald Trump a instauré des droits de douane mondiaux de 15% le 12 mars 2026, après que la Cour Suprême a annulé les tarifs précédemment votés. Cette mesure a été mise en place via la section 122 et a été suivie d'une majoration de 5% supplémentaire, bien qu'elle ne puisse être prolongée au-delà de 150 jours sans l'aval du Congrès. Les États-Unis pourraient être contraints de restituer jusqu'à 175 milliards de dollars aux entreprises affectées par les tarifs précédents, avec plus de 1 500 sociétés ayant engagé des procédures judiciaires. Cette nouvelle escalade commerciale ajoute à l'incertitude économique mondiale.",
-      "why": "Ces nouveaux tarifs douaniers relancent les tensions commerciales mondiales et créent une incertitude majeure pour les entreprises et les marchés financiers.",
+      "title": "Japon puise dans ses réserves de pétrole à partir du 16 mars",
+      "summary": "La Première ministre japonaise Sanae Takachi annonce que le Japon utilisera ses réserves pétrolières dès le 16 mars pour réduire la pression sur les prix de l'essence. Cette décision répond aux inquiétudes d'approvisionnement dues au conflit au Moyen-Orient. Elle affecte directement la troisième économie mondiale. Les implications incluent un soutien à la consommation intérieure face à la hausse des coûts énergétiques.",
+      "why": "Le Japon, grand importateur de pétrole, montre l'étendue de l'impact régional du conflit, signalant des risques pour la croissance asiatique.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Christine Lagarde s'engage à toutes les mesures contre l'inflation liée à l'Iran",
+      "summary": "Dans une interview à France 2 le 10 mars, la présidente de la BCE affirme que l'institution prendra 'toutes les mesures nécessaires' pour contenir l'inflation provoquée par les fluctuations pétrolières iraniennes. Cela intervient alors que l'inflation européenne reste volatile. La BCE surveille étroitement les chocs énergétiques. Les marchés attendent des signaux sur les taux directeurs.",
+      "why": "L'engagement de la BCE est pivotal pour stabiliser l'eurozone face à des pressions inflationnistes externes, influençant les anticipations monétaires mondiales.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Crise structurelle de l'automobile : Stellantis et Renault enregistrent des pertes records",
-      "summary": "Le groupe Stellantis a enregistré une perte nette abyssale de plus de 22 milliards d'euros, plombé par la restructuration de ses activités et les lourds investissements liés à l'électrification. Renault bascule également dans le rouge, victime d'une transition énergétique coûteuse et d'une concurrence chinoise de plus en plus agressive sur les segments clés. Le secteur automobile est devenu le maillon faible de la cote parisienne, avec le CAC 40 en baisse de 0,98% le 12 mars. Cette crise révèle les défis structurels du secteur face à la transition énergétique et à la concurrence asiatique.",
-      "why": "Ces pertes record signalent une crise structurelle majeure du secteur automobile européen, avec des implications pour l'emploi, la croissance économique et la compétitivité industrielle.",
+      "title": "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
+      "summary": "Unifirst annonce l'acquisition de Cintas, leader des services uniformes et d'hygiène, pour 5,5 milliards de dollars, boostant son cours en bourse. Cette opération renforce la position d'Unifirst sur le marché nord-américain. Elle reflète une consolidation dans le secteur des services B2B. Les implications incluent une meilleure efficacité opérationnelle et des synergies de coûts.",
+      "why": "Cette méga-acquisition illustre la résilience des fusions-acquisitions aux USA malgré les tensions géopolitiques, signalant confiance dans la croissance domestique.",
       "category": "Entreprises"
-    },
-    {
-      "title": "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
-      "summary": "L'inflation en France a atteint seulement 0,3% en rythme annuel en janvier 2026, rapprochant dangereusement le pays du seuil de déflation. Cette situation contraste fortement avec l'inflation de 1,9% en zone euro en février et soulève des questions sur la pertinence d'une politique monétaire prudente face à la faible croissance européenne. Des interrogations émergent également sur l'avenir de Christine Lagarde à la tête de la BCE, selon le Financial Times, son départ pourrait intervenir avant la fin de son mandat prévue en octobre 2027. Cette divergence inflationniste pose des défis majeurs pour la conduite de la politique monétaire européenne.",
-      "why": "Le risque de déflation en France et les interrogations sur le leadership de la BCE créent une incertitude majeure sur la trajectoire de la politique monétaire européenne.",
-      "category": "Politique monétaire"
     }
   ],
-  "updates": [
-    {
-      "title": "Pétrole : nouvelle escalade au-delà de 100 dollars",
-      "original": "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées (12/03/2026)",
-      "summary": "Le prix du pétrole a effectivement dépassé les 100 dollars le 12 mars 2026, confirmant l'escalade majeure du conflit iranien. Les attaques contre les pétroliers au large de l'Irak et les installations iraniennes ont provoqué cette nouvelle flambée. L'usine de liquéfaction de Ras Laffan, qui fournit 20% du GNL mondial, connaît sa plus longue interruption depuis 2008. Cette escalade confirme les risques de stagflation et de correction boursière prolongée évoqués précédemment.",
-      "why": "Cette confirmation de l'escalade pétrolière valide les scénarios pessimistes de stagflation et justifie les interventions coordonnées des gouvernements et de l'AIE.",
-      "category": "Matières premières"
-    }
-  ]
+  "updates": []
 }
