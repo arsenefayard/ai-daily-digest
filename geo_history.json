@@ -2,17 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran malgré les déclarations de Trump",
-      "Human Rights Watch accuse Israël d'utiliser illégalement du phosphore blanc au Liban",
-      "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30% à cause de la guerre en Iran",
-      "Macron annonce le déploiement naval français massif pour sécuriser le détroit d'Ormuz",
-      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "Escalade militaire continue malgré les déclarations de fin de guerre de Trump"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "Israël annonce une nouvelle vague de frappes de grande ampleur sur l'Iran",
       "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
       "Prix du pétrole dépasse 115 dollars le baril et gaz européen bondit de 30%",
@@ -69,6 +58,16 @@
       "Ukraine propose son expertise anti-drones aux pays du Golfe contre les attaques iraniennes",
       "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
       "Marchés européens chutent au 12e jour du conflit Iran-USA avec incertitude sur les réserves pétrolières"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
+      "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
+      "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
+      "Poutine appelle à une désescalade rapide avec l'Iran via la diplomatie"
     ]
   }
 ]
