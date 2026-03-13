@@ -2,43 +2,35 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
-      "summary": "Microsoft a lancé sa première installation dédiée à l'entraînement massif de modèles d'IA de grande taille, capable de réduire drastiquement les délais de développement de plusieurs mois à quelques semaines. Cette 'super-usine' représente un investissement stratégique majeur dans l'infrastructure d'IA, permettant à Microsoft de rivaliser avec les capacités de calcul des concurrents. L'installation intègre des optimisations matérielles et logicielles pour maximiser l'efficacité énergétique et la vitesse d'entraînement. Cette avancée marque un tournant dans l'industrialisation de l'IA en consolidant les avantages compétitifs des géants technologiques.",
-      "why": "Cette infrastructure représente un changement majeur dans la capacité à développer et déployer rapidement des modèles IA avancés, renforçant la position de Microsoft dans la course à l'IA générative et aux agents autonomes.",
+      "title": "Startup Amilabs lève 1,03 milliard de dollars pour développer des world models",
+      "summary": "La startup parisienne Amilabs, fondée par Yann LeCun, a levé 1,03 Md$ pour créer des 'world models' visant à dépasser les LLM actuels en simulant des environnements complexes et en améliorant la compréhension physique du monde réel. Ces modèles intègrent des données multimodales pour des prédictions plus robustes que les transformers standards. Le financement provient d'investisseurs tech majeurs et positionne Amilabs comme leader européen en IA avancée. Cette levée marque un pivot vers des architectures hybrides combinant vision, raisonnement et simulation.",
+      "why": "Cette levée massive valide les world models comme prochaine frontier de l'IA, potentiellement disruptive pour la robotique et la simulation scientifique.",
       "category": "Entreprise"
     },
     {
-      "title": "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
-      "summary": "Le World AI Cannes Festival 2026 a marqué un tournant décisif : la transition de l'IA générative spectaculaire vers une phase d'industrialisation concrète. Les débats ont révélé trois axes majeurs : l'émergence de l'Agentic AI (systèmes multi-agents exécutant des tâches complexes de bout en bout), l'intégration opérationnelle de l'IA en santé (diagnostic assisté, détection précoce en oncologie, optimisation des blocs opératoires), et les enjeux de souveraineté technologique. L'IA n'est plus expérimentale mais s'intègre désormais aux flux cliniques, administratifs et informatiques réels.",
-      "why": "Ce sommet international confirme que l'IA passe d'une phase de démonstration à une phase de déploiement massif en production, avec des impacts concrets mesurables dans les secteurs critiques comme la santé.",
+      "title": "AXA prolonge partenariat avec Shift Technology pour détection fraude IA sur 5 ans",
+      "summary": "AXA a étendu son partenariat avec Shift Technology pour 5 ans, déployant des agents IA de détection de fraude dans 15 pays couvrant des millions de sinistres annuels. La plateforme utilise des modèles d'apprentissage profond pour analyser patterns comportementaux et anomalies en temps réel, réduisant les faux positifs de 30%. Cette extension intègre les dernières avancées en Agentic AI pour une automatisation end-to-end des investigations. L'accord renforce la maturité industrielle de l'IA en assurance.",
+      "why": "Démontre l'adoption massive de l'IA dans un secteur à haute valeur, avec ROI concret sur la fraude estimée à des milliards.",
+      "category": "Application"
+    },
+    {
+      "title": "ANSSI publie panorama cybersécurité 2025 avec 3586 événements et focus IA",
+      "summary": "L'ANSSI rapporte 3 586 événements de sécurité et plus de 1 300 incidents majeurs en 2025, dominés par rançongiciels et espionnage dopés à l'IA. Le rapport met en lumière l'essor des attaques basées sur deepfakes et agents malveillants automatisés. Des recommandations incluent des 'coupe-circuits IA' pour les systèmes critiques. Cette publication guide les stratégies nationales face à la maturité des cybermenaces IA.",
+      "why": "Fournit des données chiffrées critiques pour prioriser les défenses contre l'IA offensive, influençant politiques publiques.",
       "category": "Recherche"
     },
     {
-      "title": "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
-      "summary": "Le sommet international sur l'intelligence artificielle tenu en Inde cherche à positionner le pays comme leader d'une troisième voie dans la géopolitique de l'IA, entre les blocs américain et chinois. L'événement combine des promesses d'investissements massifs, des discussions sur la régulation internationale, et des appels à une gouvernance multilatérale de l'IA. L'Inde tente de mobiliser les nations du Sud Global pour peser dans les décisions stratégiques sur l'IA. Cette initiative reflète la prise de conscience que le contrôle de l'IA déterminera les équilibres géopolitiques mondiaux.",
-      "why": "Cette initiative redessine les alliances géopolitiques autour de l'IA et pourrait fragmenter le marché global en blocs concurrents avec des standards et régulations différents.",
+      "title": "McKinsey prévoit marché IA souveraine à 600 Md$ d'ici 2030 avec 40% des dépenses dédiées",
+      "summary": "Selon McKinsey, le marché de l'IA souveraine atteindra 600 Md$ en 2030, représentant jusqu'à 40% des investissements globaux pour éviter dépendances aux géants US/Chine. Cela inclut infrastructures chips, data centers et modèles locaux optimisés. La France et l'Europe accélèrent via subventions et partenariats. L'analyse souligne des gains en sécurité et souveraineté économique.",
+      "why": "Chiffres prospectifs qui accélèrent les investissements géopolitiques en IA, redessinant les chaînes d'approvisionnement tech.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Assemblée nationale lance commission d'enquête sur dépendances aux géants tech",
+      "summary": "L'Assemblée nationale française a initié une commission d'enquête sur les dépendances numériques aux GAFAM, examinant risques IA dans cloud, data et modèles. Les auditions cibleront contrats opaques et vulnérabilités souveraineté. Initiée post-récentes fuites de données IA, elle vise des recommandations législatives. Cela s'inscrit dans la course européenne à l'IA souveraine.",
+      "why": "Première enquête parlementaire concrète pouvant mener à régulations contraignantes sur l'IA importée.",
       "category": "Régulation"
-    },
-    {
-      "title": "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
-      "summary": "Des chercheurs en cybersécurité ont alerté sur le détournement de CyberStrikeAI, une plateforme open source initialement conçue pour tester la sécurité des systèmes IA, par des acteurs malveillants. Cet outil a été utilisé pour mener des campagnes d'attaques sophistiquées ciblant des centaines de pare-feu Fortinet FortiGate, exploitant les vulnérabilités de sécurité. Ce détournement illustre le risque croissant des outils de sécurité IA devenant des vecteurs d'attaque. Les pirates adaptent rapidement les technologies défensives à des fins offensives.",
-      "why": "Ce cas démontre que les outils de sécurité IA open source peuvent être weaponisés, créant un dilemme entre transparence technologique et sécurité, et soulignant la nécessité de meilleures pratiques de gouvernance des outils IA.",
-      "category": "Application"
-    },
-    {
-      "title": "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
-      "summary": "OpenAI a présenté Codex Security, un nouvel agent IA spécialisé dans l'analyse en profondeur des vulnérabilités de sécurité applicative. Cet agent analyse le contexte complet du projet utilisateur pour identifier les failles complexes tout en minimisant les faux positifs, surpassant les outils de sécurité traditionnels. Codex Security est actuellement en phase de déploiement et représente une application concrète de l'IA générative dans la cybersécurité défensive. L'outil démontre comment les agents IA peuvent automatiser des tâches d'expertise technique hautement spécialisées.",
-      "why": "Cet agent IA marque l'entrée de l'IA générative dans la cybersécurité opérationnelle, offrant une défense plus intelligente et adaptative contre les menaces évolutives.",
-      "category": "Application"
     }
   ],
-  "updates": [
-    {
-      "title": "L'armée américaine utilise Claude malgré la rupture officielle avec Anthropic",
-      "original": "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone (11/03/2026)",
-      "summary": "Malgré l'annonce officielle d'une rupture entre Anthropic et le Pentagone pour des motifs éthiques, l'armée américaine a continué à utiliser le modèle Claude pour des opérations sensibles, notamment la préparation de frappes en Iran quelques heures seulement après l'annonce de la rupture. Cette situation révèle la difficulté pratique de retirer des outils IA déjà profondément intégrés aux opérations militaires critiques. Le paradoxe illustre le fossé entre les positions éthiques affichées par les éditeurs d'IA et la réalité opérationnelle des institutions militaires.",
-      "why": "Ce revirement démontre que les décisions éthiques des entreprises IA peuvent être contournées par les utilisateurs institutionnels, remettant en question l'efficacité des mesures de contrôle d'accès et soulevant des questions sur la responsabilité réelle des éditeurs.",
-      "category": "Régulation"
-    }
-  ]
+  "updates": []
 }
