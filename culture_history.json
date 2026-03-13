@@ -1,15 +1,5 @@
 [
   {
-    "date": "11/03/2026",
-    "titles": [
-      "Le paradoxe de l'hôtel de Hilbert en mathématiques",
-      "La plus grande fleur du monde : Rafflesia arnoldii",
-      "Le premier film de l'histoire : La Sortie de l'usine Lumière",
-      "L'effet Barnum en psychologie : l'illusion de la personnalisation",
-      "La cité engloutie de Pavlopetri, plus ancienne ville submersible au monde"
-    ]
-  },
-  {
     "date": "12/03/2026",
     "titles": [
       "La cathédrale engloutie de Yubari au Japon",
@@ -68,6 +58,16 @@
       "La cité perdue de Vilcabamba : le dernier bastion inca contre les conquistadors",
       "Le Minotaure de Dédale : le labyrinthe comme métaphore de l'âme humaine",
       "L'effet Dunning-Kruger : quand l'incompétence engendre la surconfiance"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "La machine de Turing : l'ancêtre des ordinateurs modernes",
+      "Le mythe d'Icare : la leçon antique sur l'hybris humaine",
+      "L'effet Stroop : le conflit entre perception et cognition",
+      "La cité de Machu Picchu : sanctuaire inca dans les Andes",
+      "Le roman '1984' de George Orwell : prophétie dystopique"
     ]
   }
 ]
