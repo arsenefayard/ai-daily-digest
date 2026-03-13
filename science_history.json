@@ -1,16 +1,6 @@
 [
   {
     "date": "11/03/2026",
-    "titles": [
-      "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
-      "Détection d'éclairs sur Mars expliquant variations de méthane et chimie organique",
-      "Magmas terrestres bien plus riches en CO₂ qu'attendu, révélant nouveaux processus volcaniques",
-      "Cartographie précise des trous noirs supermassifs proches de la fusion",
-      "Prochain objet interstellaire pourrait être un trou noir traversant le Système solaire"
-    ]
-  },
-  {
-    "date": "11/03/2026",
     "titles": []
   },
   {
@@ -60,6 +50,16 @@
       "Microrcharges électrostatiques confirmées sur Mars par grains minéraux chargés",
       "Halos opalins riches en eau détectés autour des fissures par Curiosity",
       "Banquise arctique atteint un de ses niveaux historiques les plus bas"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Cancer colorectal chez les jeunes : une piste enfin identifiée",
+      "Des chercheurs parviennent à traiter la dépression en moins d’une semaine",
+      "Mission lunaire Artémis 2 : la Nasa annonce viser un lancement dès le 1er avril",
+      "Deux espèces considérées comme éteintes depuis 6000 ans sont finalement toujours en vie",
+      "Revirement des autorités américaines sur un potentiel traitement contre l'autisme"
     ]
   }
 ]
