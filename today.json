@@ -1,36 +1,5 @@
 {
   "date": "13/03/2026",
-  "news": [
-    {
-      "title": "Startup Amilabs lève 1,03 milliard de dollars pour développer des world models",
-      "summary": "La startup parisienne Amilabs, fondée par Yann LeCun, a levé 1,03 Md$ pour créer des 'world models' visant à dépasser les LLM actuels en simulant des environnements complexes et en améliorant la compréhension physique du monde réel. Ces modèles intègrent des données multimodales pour des prédictions plus robustes que les transformers standards. Le financement provient d'investisseurs tech majeurs et positionne Amilabs comme leader européen en IA avancée. Cette levée marque un pivot vers des architectures hybrides combinant vision, raisonnement et simulation.",
-      "why": "Cette levée massive valide les world models comme prochaine frontier de l'IA, potentiellement disruptive pour la robotique et la simulation scientifique.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "AXA prolonge partenariat avec Shift Technology pour détection fraude IA sur 5 ans",
-      "summary": "AXA a étendu son partenariat avec Shift Technology pour 5 ans, déployant des agents IA de détection de fraude dans 15 pays couvrant des millions de sinistres annuels. La plateforme utilise des modèles d'apprentissage profond pour analyser patterns comportementaux et anomalies en temps réel, réduisant les faux positifs de 30%. Cette extension intègre les dernières avancées en Agentic AI pour une automatisation end-to-end des investigations. L'accord renforce la maturité industrielle de l'IA en assurance.",
-      "why": "Démontre l'adoption massive de l'IA dans un secteur à haute valeur, avec ROI concret sur la fraude estimée à des milliards.",
-      "category": "Application"
-    },
-    {
-      "title": "ANSSI publie panorama cybersécurité 2025 avec 3586 événements et focus IA",
-      "summary": "L'ANSSI rapporte 3 586 événements de sécurité et plus de 1 300 incidents majeurs en 2025, dominés par rançongiciels et espionnage dopés à l'IA. Le rapport met en lumière l'essor des attaques basées sur deepfakes et agents malveillants automatisés. Des recommandations incluent des 'coupe-circuits IA' pour les systèmes critiques. Cette publication guide les stratégies nationales face à la maturité des cybermenaces IA.",
-      "why": "Fournit des données chiffrées critiques pour prioriser les défenses contre l'IA offensive, influençant politiques publiques.",
-      "category": "Recherche"
-    },
-    {
-      "title": "McKinsey prévoit marché IA souveraine à 600 Md$ d'ici 2030 avec 40% des dépenses dédiées",
-      "summary": "Selon McKinsey, le marché de l'IA souveraine atteindra 600 Md$ en 2030, représentant jusqu'à 40% des investissements globaux pour éviter dépendances aux géants US/Chine. Cela inclut infrastructures chips, data centers et modèles locaux optimisés. La France et l'Europe accélèrent via subventions et partenariats. L'analyse souligne des gains en sécurité et souveraineté économique.",
-      "why": "Chiffres prospectifs qui accélèrent les investissements géopolitiques en IA, redessinant les chaînes d'approvisionnement tech.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Assemblée nationale lance commission d'enquête sur dépendances aux géants tech",
-      "summary": "L'Assemblée nationale française a initié une commission d'enquête sur les dépendances numériques aux GAFAM, examinant risques IA dans cloud, data et modèles. Les auditions cibleront contrats opaques et vulnérabilités souveraineté. Initiée post-récentes fuites de données IA, elle vise des recommandations législatives. Cela s'inscrit dans la course européenne à l'IA souveraine.",
-      "why": "Première enquête parlementaire concrète pouvant mener à régulations contraignantes sur l'IA importée.",
-      "category": "Régulation"
-    }
-  ],
+  "news": [],
   "updates": []
 }
