@@ -2,34 +2,34 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "La cathédrale engloutie de Yubari au Japon",
-      "summary": "Au cœur des montagnes de Hokkaido, la ville minière abandonnée de Yubari abrite une cathédrale gothique submergée sous un lac artificiel formé par l'affaissement des mines de charbon. Construite en 1928 par des missionnaires européens pour les mineurs, elle émerge partiellement lors des basses eaux, offrant un spectacle spectral. Ce vestige témoigne de l'essor industriel du Japon au XXe siècle et de son déclin économique. Les plongeurs explorent aujourd'hui ses ruines sous-marines, préservées par l'eau froide.",
-      "why": "Ce lieu illustre les cicatrices invisibles de l'industrialisation et fascine par son mélange d'architecture européenne et de nature japonaise reclaimée.",
+      "title": "La machine analytique de Charles Babbage : l'ancêtre oublié des ordinateurs modernes",
+      "summary": "Inventée dans les années 1830 par le mathématicien anglais Charles Babbage, la machine analytique était une machine mécanique programmable capable de calculs complexes grâce à des cartes perforées pour les instructions. Ada Lovelace, collaboratrice de Babbage, écrivit le premier algorithme destiné à cette machine pour calculer les nombres de Bernoulli, la rendant ainsi la première programmeuse de l'histoire. Bien que jamais construite de son vivant en raison de problèmes techniques et financiers, une version fonctionnelle fut réalisée en 1991 par l'Université de Cambridge. Ce projet visionnaire préfigure les principes fondamentaux de l'informatique contemporaine, reliant le XIXe siècle à l'ère numérique.",
+      "why": "Elle démontre comment des idées du passé ont posé les bases de la révolution digitale actuelle, soulignant l'importance des précurseurs méconnus en science.",
       "category": "Histoire"
     },
     {
-      "title": "Le théorème de Gödel : les limites de la mathématique",
-      "summary": "En 1931, Kurt Gödel publie ses théorèmes d'incomplétude, démontrant qu'aucun système axiomatique cohérent capable d'embrasser l'arithmétique ne peut prouver toutes ses vérités ni sa propre consistance. Cela ébranle le programme de Hilbert visant à formaliser toutes les mathématiques. Le premier théorème montre l'existence de propositions vraies mais indémontrables ; le second lie cohérence et non-contradiction. Ces résultats influencent philosophie, informatique et logique moderne.",
-      "why": "Gödel révèle l'imperfection inhérente à la raison formelle, posant les bases de l'informatique théorique et questionnant les fondements de la connaissance humaine.",
-      "category": "Philosophie"
+      "title": "Le dilemme de l'herbe du voisin : le paradoxe psychologique de la satisfaction humaine",
+      "summary": "Formulé par Barry Schwartz, ce concept explique pourquoi les gens sont souvent plus attirés par ce qu'ils n'ont pas, même si leur situation actuelle est satisfaisante, menant à une insatisfaction chronique. Psychologiquement, cela s'appuie sur l'adaptation hédonique où les plaisirs s'estompent rapidement, poussant à désirer le 'vert' de l'herbe du voisin. Des études montrent que cette comparaison sociale amplifie le stress et réduit le bonheur, particulièrement dans les sociétés consuméristes. Pour contrer cela, la gratitude et la focalisation sur ses propres accomplissements sont recommandées.",
+      "why": "Il éclaire les mécanismes intimes du mal-être moderne et offre des clés concrètes pour cultiver un contentement durable.",
+      "category": "Psychologie"
     },
     {
-      "title": "Fantasmagorie : le premier court-métrage d'animation de 1908",
-      "summary": "Réalisé par Émile Cohl, Fantasmagorie est un film de 2 minutes composé de 700 dessins animés à la main, pionnier du genre par sa technique de morphing fluide entre formes abstraites et figures humaines. Diffusé publiquement le 17 août 1908, il transforme des silhouettes en créatures fantastiques dans un style onirique et chaotique. Cohl, ancien caricaturiste, invente ainsi l'animation moderne sans recours à des objets réels. Ce bijou muet préfigure Mickey et les studios Disney.",
-      "why": "Ce court-métrage marque la naissance du cinéma d'animation, démontrant le potentiel infini de l'imagination dessinée en mouvement.",
-      "category": "Cinéma"
+      "title": "La cité perdue de Vilcabamba : le dernier bastion inca contre les conquistadors",
+      "summary": "Située dans la forêt andine du Pérou, Vilcabamba fut la capitale de l'État néo-inca de 1536 à 1572, après la chute de Cuzco face aux Espagnols. Manco Inca, fuyant Pizarro, y mena une guérilla de 36 ans, harcelant les envahisseurs avec des embuscades et des alliances locales. Redécouverte en 1964 par des archéologues, elle révèle des temples et fortifications intactes, témoignant d'une résistance farouche. Sa destruction finale par les forces de Viceroy Toledo marque la fin définitive de l'empire inca.",
+      "why": "Cette histoire méconnue révèle la ténacité inca face à la colonisation, enrichissant notre vision de l'histoire précolombienne.",
+      "category": "Géographie"
     },
     {
-      "title": "La découverte de la quinine et la fin du paludisme colonial",
-      "summary": "En 1820, les chimistes Pelletier et Caventou isolent la quinine de l'écorce de quinquina, remède amérindien contre le paludisme connu depuis les Incas. Cette molécule sauve des millions de vies, permettant l'exploration et la colonisation de zones tropicales comme l'Afrique et l'Inde. Utilisée par l'armée britannique, elle transforme les empires en rendant les fièvres endémiques gérables. Son efficacité diminue avec les résistances, mais elle reste un pilier pharmacologique.",
-      "why": "La quinine révolutionne la médecine et l'histoire mondiale, illustrant comment une plante andine a redessiné les cartes coloniales.",
+      "title": "Le Minotaure de Dédale : le labyrinthe comme métaphore de l'âme humaine",
+      "summary": "Dans la mythologie grecque, le Minotaure, mi-homme mi-taureau, fut enfermé par Minos dans un labyrinthe conçu par Dédale à Cnossos, en Crète. Ce monstre, né de l'union contre-nature de Pasiphaé et d'un taureau sacré, symbolise les pulsions bestiales refoulées de l'humain. Thésée le tua avec l'aide d'Ariane et de son fil, inaugurant le motif du 'fil d'Ariane' pour sortir des impasses. Le mythe explore les thèmes de la raison contre la passion et de l'emprisonnement intérieur.",
+      "why": "Il offre une lecture intemporelle des conflits psychiques, influençant littérature, art et psychanalyse jusqu'à aujourd'hui.",
+      "category": "Mythologie"
+    },
+    {
+      "title": "L'effet Dunning-Kruger : quand l'incompétence engendre la surconfiance",
+      "summary": "Découvert en 1999 par les psychologues David Dunning et Justin Kruger, cet effet cognitif montre que les personnes les moins compétentes surestiment leurs aptitudes, tandis que les experts sous-estiment les leurs. Cela résulte d'une incapacité à reconnaître ses propres limites, due à un manque de métacognition. Des expériences en humour, grammaire et logique ont validé ce biais, observable dans les débats en ligne ou les décisions managériales. La solution passe par l'éducation et la formation pour développer l'auto-évaluation.",
+      "why": "Il explique de nombreux dysfonctionnements sociaux et professionnels, aidant à mieux naviguer dans un monde de fausses certitudes.",
       "category": "Science pop"
-    },
-    {
-      "title": "Le record de la plus longue sieste : 23 jours en 1959",
-      "summary": "Randy Gardner, 17 ans, reste éveillé 264 heures (11 jours) en 1964, mais le record officieux de 'sieste compensatoire' suit : un homme dort 23 jours d'affilée après une privation similaire en 1959. Cet exploit, supervisé par des scientifiques, révèle les effets du manque de sommeil sur le cerveau. À son réveil, il souffre de paranoïa et de troubles cognitifs temporaires. L'expérience souligne les besoins physiologiques du sommeil paradoxal.",
-      "why": "Ce cas extrême éclaire les mécanismes du sommeil et ses impacts sur la santé mentale, fascinant par son audace scientifique borderline.",
-      "category": "Insolite"
     }
   ],
   "updates": []
