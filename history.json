@@ -1,15 +1,5 @@
 [
   {
-    "date": "10/03/2026",
-    "titles": [
-      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA, adoption fulgurante chez les jeunes",
-      "Gartner prévoit dépenses IT mondiales >5000 Md€ en 2026, boostées par l'infrastructure IA",
-      "CES 2026 met l'accent sur l'IA physique et les super-agents pour transformation industrielle",
-      "MWC 2026 : Google Cloud dévoile réseaux pilotés par agents IA autonomes",
-      "CES 2026 : l'IA devient infrastructure invisible intégrée à l'économie"
-    ]
-  },
-  {
     "date": "11/03/2026",
     "titles": [
       "Claude Cowork d'Anthropic provoque panique boursière avec 285 milliards de dollars évaporés",
@@ -68,6 +58,17 @@
       "Sommet mondial IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
       "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur Fortinet",
       "Hacktiv’ Summit ouvre aujourd'hui à Chantilly sur cybersécurité IA et business acceleration"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
+      "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
+      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
+      "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
+      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
+      "Claude reste l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone"
     ]
   }
 ]
