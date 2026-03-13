@@ -1,15 +1,5 @@
 [
   {
-    "date": "09/03/2026",
-    "titles": [
-      "Israël intensifie ses frappes sur Téhéran et étend les opérations au Liban",
-      "Attaque de drone iranien perturbe l'aéroport de Dubaï et vise des bases du Golfe",
-      "Donald Trump appelle explicitement au renversement du régime iranien",
-      "Royaume-Uni déploie avions de combat au Qatar et hélicoptères à Chypre",
-      "Ukraine accuse la Hongrie d'avoir saisi un convoi de fonds européens"
-    ]
-  },
-  {
     "date": "10/03/2026",
     "titles": [
       "Raids israéliens au Liban : 95 000 déplacés contraints de fuir",
@@ -69,6 +59,16 @@
       "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
       "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
       "Critiques européennes contre les frappes israélo-américaines sur l'Iran"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
+      "Ukraine propose son expertise anti-drones aux pays du Golfe contre les attaques iraniennes",
+      "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
+      "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump"
     ]
   }
 ]
