@@ -56,6 +56,31 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
+      - name: Déployer les pages HTML (avec clé injectée)
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
+        run: |
+          python - <<'PYEOF'
+          import os, base64, requests
+          token = os.environ["GITHUB_TOKEN"]
+          repo  = os.environ.get("GITHUB_REPO", "")
+          key   = os.environ.get("PERPLEXITY_API_KEY", "")
+          hdrs  = {"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"}
+          files = ["index.html","geo.html","eco.html","sport.html","music.html","science.html","culture.html","history.html"]
+          for fname in files:
+              if not os.path.exists(fname): print(f"⚠️ {fname} manquant"); continue
+              content = open(fname, encoding="utf-8").read().replace("__PERPLEXITY_KEY__", key)
+              encoded = base64.b64encode(content.encode()).decode()
+              url = f"https://api.github.com/repos/{repo}/contents/{fname}"
+              r = requests.get(url, headers=hdrs, params={"ref": "gh-pages"})
+              payload = {"message": f"chore: update {fname}", "content": encoded, "branch": "gh-pages"}
+              if r.status_code == 200: payload["sha"] = r.json()["sha"]
+              res = requests.put(url, json=payload, headers=hdrs)
+              print(f"{'✅' if res.status_code in (200,201) else '❌'} {fname} ({res.status_code})")
+          PYEOF
+
       - name: Digest IA
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
