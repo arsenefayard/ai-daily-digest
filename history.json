@@ -2,17 +2,6 @@
   {
     "date": "11/03/2026",
     "titles": [
-      "Claude devient l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone",
-      "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
-      "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
-      "MWC 2026 : l'IA devient le cœur de l'expérience mobile avec nouvelles fonctionnalités intégrées",
-      "Marché de l'assurance français s'organise face aux risques IA et au phénomène de « Silent IA »",
-      "Claude Cowork d'Anthropic provoque une panique boursière de 285 milliards de dollars"
-    ]
-  },
-  {
-    "date": "11/03/2026",
-    "titles": [
       "Claude Cowork d'Anthropic provoque une panique boursière avec 285 milliards de dollars évaporés",
       "Près de 900 employés de Google et OpenAI signent une lettre contre l'IA militaire",
       "OpenAI lance Codex Security, un agent IA pour l'analyse de vulnérabilités",
@@ -70,6 +59,16 @@
       "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
       "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
       "L'armée américaine utilise Claude malgré la rupture officielle avec Anthropic"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Startup Amilabs lève 1,03 milliard de dollars pour développer des world models",
+      "AXA prolonge partenariat avec Shift Technology pour détection fraude IA sur 5 ans",
+      "ANSSI publie panorama cybersécurité 2025 avec 3586 événements et focus IA",
+      "McKinsey prévoit marché IA souveraine à 600 Md$ d'ici 2030 avec 40% des dépenses dédiées",
+      "Assemblée nationale lance commission d'enquête sur dépendances aux géants tech"
     ]
   }
 ]
