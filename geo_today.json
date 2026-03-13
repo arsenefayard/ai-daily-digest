@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
-      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien traversant l'espace aérien turc, marquant une escalade des tensions au Moyen-Orient. Cette interception intervient dans le contexte d'échanges de tirs continus entre l'Iran, Israël et les forces américaines. Elle souligne les risques d'élargissement du conflit à l'OTAN via la Turquie, membre clé de l'alliance. Les implications incluent une possible activation de l'article 5 si les attaques persistent.",
-      "why": "Cela représente un risque direct d'embrasement régional impliquant l'OTAN, potentiellement transformant un conflit local en confrontation mondiale.",
+      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien entrant dans l'espace aérien turc, marquant une escalade des tensions au Moyen-Orient. Cette interception intervient dans le contexte d'échanges de tirs continus entre l'Iran, Israël et les forces américaines. L'incident souligne les risques d'élargissement du conflit à l'OTAN via la Turquie, membre clé de l'alliance. Les implications incluent une possible activation de l'article 5 si des attaques persistent.",
+      "why": "Cela représente une menace directe à un membre OTAN, potentiellement transformant un conflit régional en crise atlantique.",
       "category": "Conflit"
     },
     {
       "title": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
-      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à poser des mines dans le détroit d'Ormuz, suite aux menaces de Trump contre toute perturbation du trafic pétrolier. Cette opération vise à sécuriser 20% des approvisionnements mondiaux en pétrole. L'Iran riposte par des menaces de fermeture totale du détroit, aggravant la crise énergétique. Les prix du brut flambent, impactant l'économie mondiale.",
-      "why": "Le contrôle du détroit d'Ormuz est vital pour l'énergie globale; sa perturbation menace la stabilité économique des grandes puissances.",
-      "category": "Énergie"
+      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à poser des mines dans le détroit d'Ormuz, suite aux menaces de Trump contre toute perturbation du trafic pétrolier. Cette opération vise à sécuriser 20% du pétrole mondial transitant par cette voie. L'Iran nie mais riposte avec missiles et drones sur Israël et le Golfe. Les enjeux portent sur la stabilité énergétique mondiale et le risque de blocus total.",
+      "why": "Le détroit d'Ormuz est vital pour l'approvisionnement pétrolier; sa fermeture causerait une crise économique globale.",
+      "category": "Sécurité"
     },
     {
       "title": "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
-      "summary": "Onze pays du Golfe, dont l'Arabie saoudite, ont sollicité l'Ukraine pour contrer les attaques de drones iraniens, après 4 ans d'expérience contre les Shahed russes. Zelensky a accepté d'aider ces alliés potentiels en échange de soutien accru à Kyiv. Cela inverse les rôles, l'Ukraine aidant les adversaires de l'Iran, allié de la Russie. La Russie fournit désormais des composants à Téhéran, renforçant l'axe Moscou-Téhéran.",
-      "why": "Cela crée un nouveau front anti-iranien et affaiblit l'alliance Russie-Iran, avec des retombées sur la guerre en Ukraine.",
+      "summary": "Onze pays du Golfe, dont l'Arabie saoudite, ont sollicité Zelensky pour partager l'expertise ukrainienne acquise contre les drones russes, face aux attaques iraniennes. Kyiv accepte en échange de soutien passé, malgré le soutien iranien à Moscou via drones Shahed. La Russie fournirait désormais des composants à l'Iran pour cibler les USA. Cela renforce un axe anti-iranien incluant l'Ukraine, affaiblissant l'alliance Russie-Iran.",
+      "why": "Cela crée une coalition inattendue Ukraine-Golfe contre l'Iran, impactant la guerre en Ukraine et au Moyen-Orient.",
       "category": "Sécurité"
     },
     {
       "title": "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
-      "summary": "La France puise dans ses réserves pour contrer la flambée des prix due au blocage partiel du détroit d'Ormuz par l'Iran. Cette mesure suit l'annonce de Macron d'un déploiement naval massif pour sécuriser la zone. Elle vise à stabiliser les marchés européens face à une hausse de 30% du gaz. L'AIE prépare un déblocage record de stocks mondiaux.",
-      "why": "Cette action atténue le choc énergétique en Europe mais signale la gravité de la crise, avec risques de rationnements prolongés.",
+      "summary": "Emmanuel Macron annonce la libération de 400 millions de barils des réserves françaises pour contrer la flambée des prix due au conflit Iran-USA. Cette mesure suit une réunion à Matignon avec les partis politiques sur les conséquences économiques. L'AIE prépare un déblocage massif record pour stabiliser les marchés. Elle vise à atténuer l'impact sur l'Europe au 12e jour du conflit.",
+      "why": "Réponse critique à la volatilité pétrolière, protégeant l'économie européenne d'une récession induite par le chaos Ormuz.",
       "category": "Énergie"
     },
     {
-      "title": "Poutine appelle à une désescalade rapide avec l'Iran via la diplomatie",
-      "summary": "Vladimir Poutine a discuté avec le président iranien Massoud Pézechian et Trump pour privilégier une solution politique au conflit. Malgré le soutien russe à Téhéran via drones et renseignements, Moscou craint des pertes en pétrole et composants. Cette position contraste avec l'escalade militaire israélo-américaine. Elle vise à préserver l'influence russe au Moyen-Orient.",
-      "why": "La Russie, alliée clé de l'Iran, pourrait jouer un rôle médiateur, influençant l'issue du conflit et ses approvisionnements.",
-      "category": "Diplomatie"
+      "title": "Israël étend ses frappes à Téhéran et au Liban malgré Trump",
+      "summary": "Israël poursuit et étend ses bombardements sur Téhéran et le Liban, ciblant régime iranien et Hezbollah après la mort présumée de Khamenei. Cela ignore les déclarations de Trump sur une fin rapide de guerre. L'Iran refuse le cessez-le-feu, promettant punition. Les frappes visent commandements des Gardiens de la Révolution, visant un changement de régime.",
+      "why": "Escalade ignore les USA, risquant un conflit prolongé et instable au Moyen-Orient.",
+      "category": "Conflit"
     }
   ],
   "updates": []
