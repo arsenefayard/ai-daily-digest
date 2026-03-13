@@ -1,10 +1,6 @@
 [
   {
     "date": "11/03/2026",
-    "titles": []
-  },
-  {
-    "date": "11/03/2026",
     "titles": [
       "NASA découvre probable indice de vie dans échantillon Sapphire Canyon sur Mars",
       "Détection d'éclairs sur Mars expliquant variations de méthane"
@@ -60,6 +56,17 @@
       "Mission lunaire Artémis 2 : la Nasa annonce viser un lancement dès le 1er avril",
       "Deux espèces considérées comme éteintes depuis 6000 ans sont finalement toujours en vie",
       "Revirement des autorités américaines sur un potentiel traitement contre l'autisme"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Détection de silice cristallisée et minéraux réox sensibles sur Mars par Perseverance",
+      "Confirmation des microcharges électrostatiques sur Mars par grains minéraux chargés",
+      "Mission DART confirme la modification de l'orbite solaire du système Didymos-Dimorphos",
+      "Détection de photons micro-ondes individuels par capteur quantique supraconducteur",
+      "Projet UPNYL : transformation catalytique du nylon en polymères pour capture du CO₂",
+      "Halos opalins riches en eau détectés autour des fissures par Curiosity"
     ]
   }
 ]
