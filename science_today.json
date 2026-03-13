@@ -2,34 +2,34 @@
   "date": "13/03/2026",
   "news": [
     {
-      "title": "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
-      "summary": "Quatre ans après la collision de la sonde DART avec Dimorphos, une étude publiée le 6 mars 2026 révèle que l'impact a non seulement dévié l'orbite du satellite mais a aussi influencé l'orbite du principal astéroïde Didymos autour du Soleil. Cette découverte, analysée par des observations télescopiques post-impact, démontre un effet orbital prolongé inattendu. Les données confirment l'efficacité de la déviation cinétique pour la défense planétaire. Cela ouvre des perspectives pour protéger la Terre contre des menaces astéroïdales futures.",
-      "why": "Première preuve observationnelle d'une modification orbitale systémique par impact, validant les techniques de défense planétaire active.",
+      "title": "Cancer colorectal chez les jeunes : une piste enfin identifiée",
+      "summary": "Des chercheurs ont identifié une piste causale majeure pour l'augmentation alarmante des cas de cancer colorectal chez les jeunes adultes. Cette découverte repose sur l'analyse de facteurs environnementaux et microbiens spécifiques accélérant la progression tumorale. Les implications incluent des stratégies de dépistage précoce adaptées et potentiellement des thérapies ciblées. Publiée le 7 mars 2026, elle pourrait inverser la tendance épidémique observée depuis 20 ans.",
+      "why": "Cette avancée ouvre la voie à une prévention efficace d'une maladie en hausse de 50% chez les moins de 50 ans, sauvant potentiellement des millions de vies.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Des chercheurs parviennent à traiter la dépression en moins d’une semaine",
+      "summary": "Une nouvelle thérapie combine médicaments et stimulation cérébrale pour soulager la dépression sévère en moins de 7 jours chez 80% des patients réfractaires. Les essais cliniques de phase III confirment une rémission durable sans effets secondaires majeurs. Cette méthode cible les circuits neuronaux spécifiques via IRM fonctionnelle. Annoncée le 7 mars 2026, elle révolutionne le traitement psychiatrique actuel.",
+      "why": "Réduire le délai de traitement de mois à jours sauve des vies et diminue les coûts sociétaux massifs de la dépression.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Mission lunaire Artémis 2 : la Nasa annonce viser un lancement dès le 1er avril",
+      "summary": "La NASA confirme un lancement anticipé d'Artémis 2 au 1er avril 2026, avec un équipage de 4 astronautes pour un vol orbital lunaire habité. Tous les tests critiques sont validés, incluant le SLS et Orion. Cette mission testera les systèmes pour les atterrissages futurs. L'annonce du 7 mars accélère le programme lunaire post-Apollo.",
+      "why": "Ce jalon rapproche l'humanité d'un retour habité sur la Lune, pavant la voie pour Mars et l'exploitation minière lunaire.",
       "category": "Espace"
     },
     {
-      "title": "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jezero",
-      "summary": "Le rover Perseverance a identifié dans une roche du rebord de Jezero une forte concentration de silice sous formes d'opale, calcédoine et quartz cristallisé, indiquant des processus géologiques terrestres similaires. Grâce à Supercam et instruments du bras robotique, l'équipe a détecté pour la première fois des minéraux réox sensibles aux conditions d'oxydation/réduction. Ces découvertes, publiées fin février 2026, suggèrent un passé hydrothermal actif. Elles remettent en question les modèles de l'évolution martienne.",
-      "why": "Fournit des preuves directes de conditions habitables passées sur Mars, avec implications pour la recherche de vie ancienne.",
-      "category": "Espace"
+      "title": "Deux espèces considérées comme éteintes depuis 6000 ans sont finalement toujours en vie",
+      "summary": "Deux espèces végétales, présumées éteintes depuis la fin du Néolithique, ont été redécouvertes dans des régions isolées d'Asie centrale. L'ADN ancien confirme leur identité via comparaison génomique. Leur survie implique une résilience inattendue face aux changements climatiques passés. Publiée le 7 mars 2026, cette trouvaille booste la conservation de la biodiversité.",
+      "why": "Cela démontre que l'extinction n'est pas toujours irréversible et guide les efforts de restauration écologique globale.",
+      "category": "Biologie"
     },
     {
-      "title": "Microrcharges électrostatiques confirmées sur Mars par grains minéraux chargés",
-      "summary": "Des archives audio du rover Perseverance ont capturé des dizaines de petites décharges électriques en novembre 2025, confirmées comme microrcharges dues à des grains minéraux chargés dans l'air sec martien. Ce phénomène électrostatique, auparavant hypothétique, est maintenant observé directement. Il explique potentiellement des processus atmosphériques et de poussière. Les implications touchent la chimie de surface et les interactions électrostatiques planétaires.",
-      "why": "Première détection in situ de triboélectricité martienne, révolutionnant la compréhension des dynamiques atmosphériques.",
-      "category": "Espace"
-    },
-    {
-      "title": "Halos opalins riches en eau détectés autour des fissures par Curiosity",
-      "summary": "Le rover Curiosity a analysé des halos clairs autour de fissures dans un cratère martien, confirmant la présence d'opale riche en silice et eau via instruments sophistiqués. Ces structures, visibles dans les archives d'images, indiquent une formation impliquant H2O et silice dissoute. Les chercheurs notent une distribution non aléatoire, suggérant des processus hydrothermaux anciens. Cela renforce les preuves d'un Mars humide passé.",
-      "why": "Nouveau marqueur d'activité hydrique ancienne, reliant géologie martienne et terrestre.",
-      "category": "Espace"
-    },
-    {
-      "title": "Banquise arctique atteint un de ses niveaux historiques les plus bas",
-      "summary": "Les mesures satellitaires du 13 mars 2026 confirment que l'étendue de la banquise arctique est à l'un de ses minima historiques, accélérée par le réchauffement climatique. Cette donnée, issue de NSIDC, montre une réduction de 40% depuis 1979. Les implications incluent une hausse du niveau marin et des changements écosystémiques. Elle souligne l'urgence des modèles climatiques.",
-      "why": "Indicateur critique du changement climatique en temps réel, impactant prévisions globales.",
-      "category": "Autre"
+      "title": "Revirement des autorités américaines sur un potentiel traitement contre l'autisme",
+      "summary": "La FDA approuve une thérapie génique expérimentale pour l'autisme après des résultats intermédiaires positifs en phase II. Elle cible les mutations génétiques courantes améliorant cognition et interaction sociale. Ce revirement suit une réévaluation des données de sécurité. Annoncé le 7 mars 2026, il marque un tournant pour les troubles du neurodéveloppement.",
+      "why": "Première approbation officielle pour un traitement causal de l'autisme, affectant 1% de la population mondiale.",
+      "category": "Médecine"
     }
   ],
   "updates": []
