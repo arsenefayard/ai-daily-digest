@@ -1,36 +1,44 @@
 {
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "news": [
     {
-      "title": "Chute brutale des prix du pétrole et du gaz après déclarations de Trump",
-      "summary": "Les prix du pétrole ont chuté de 10% ce mardi 10 mars suite à des propos de Donald Trump évoquant une possible résolution rapide du conflit au Moyen-Orient. Le gaz suit la même tendance à la baisse, soulageant temporairement les pressions inflationnistes mondiales. Cette volatilité intervient après une période de flambée à 110-120 dollars le baril due aux tensions au détroit d'Ormuz. Les marchés réagissent avec prudence, craignant une reprise des hausses si les tensions persistent.",
-      "why": "Cette inversion soudaine des cours énergétiques impacte directement l'inflation mondiale et les anticipations de politique monétaire des banques centrales.",
+      "title": "Pétrole dépasse les 100 dollars : escalade majeure de la crise iranienne",
+      "summary": "Le baril de pétrole a franchi la barre des 100 dollars, enregistrant une hausse de 38% en moins de deux semaines depuis le début de la guerre en Iran. Cette flambée est alimentée par les attaques contre les infrastructures pétrolières iraniennes et les pétroliers dans le Golfe, notamment au large de l'Irak. L'Agence internationale de l'énergie a débloqué un record de 400 millions de barils mercredi pour tenter de contenir les prix, sans succès. Cette escalade crée un risque majeur de stagflation mondiale et menace l'approvisionnement énergétique européen.",
+      "why": "Un pétrole au-dessus de 100 dollars impacte directement l'inflation, les coûts de production et la croissance économique mondiale. C'est le principal facteur d'incertitude macroéconomique actuellement.",
       "category": "Matières premières"
     },
     {
-      "title": "France reconduit la contribution exceptionnelle sur l'IS des grandes entreprises",
-      "summary": "La loi de Finances pour 2026 proroge d'un exercice la contribution exceptionnelle sur l'impôt sur les sociétés due par les grandes entreprises. Cette mesure vise à financer les efforts budgétaires face à la dette publique croissante. Elle s'applique aux groupes réalisant des bénéfices élevés dans un contexte de ralentissement économique. Les impacts sur la compétitivité des firmes françaises sont débattus par les analystes.",
-      "why": "Renforce les recettes fiscales de l'État mais risque de peser sur les investissements des multinationales en période de tensions géopolitiques.",
+      "title": "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
+      "summary": "Après que la Cour Suprême américaine a annulé ses précédents tarifs douaniers, le président Trump a immédiatement mis en place des droits de douane mondiaux de 15% via un autre canal légal (section 122). Cette mesure peut être prolongée jusqu'à 150 jours sans approbation du Congrès. Les États-Unis pourraient être contraints de restituer jusqu'à 175 milliards de dollars aux entreprises affectées par les tarifs précédents, plus de 1 500 sociétés ayant engagé des procédures judiciaires.",
+      "why": "Ces tarifs relancent les tensions commerciales mondiales et créent une nouvelle source d'incertitude économique. Ils risquent d'alimenter l'inflation et de perturber les chaînes d'approvisionnement globales.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
-      "summary": "Le taux de la CSG applicable sur certains revenus du capital est porté de 9,2% à 10,6% au 1er janvier 2026, affectant notamment les PER et placements financiers. Cette mesure alourdit la fiscalité pour les investisseurs individuels et institutions. Elle s'inscrit dans un effort de consolidation budgétaire face à l'inflation énergétique. Les conséquences sur l'épargne retraite sont significatives pour les classes moyennes.",
-      "why": "Augmente la pression fiscale sur l'épargne, potentiellement freinant la consommation et les investissements en capital dans un climat incertain.",
-      "category": "Marchés"
+      "title": "Stellantis et Renault enregistrent des pertes records : crise structurelle de l'automobile",
+      "summary": "Stellantis affiche une perte nette abyssale de plus de 22 milliards d'euros, tandis que Renault bascule également dans le rouge. Ces pertes résultent de restructurations massives, d'investissements lourds en électrification et surtout de la concurrence chinoise agressive sur les segments clés du marché automobile. Le secteur automobile est devenu le maillon faible de la cote parisienne, plombant l'indice CAC 40.",
+      "why": "Ces pertes record reflètent une crise structurelle majeure de l'industrie automobile européenne face à la transition énergétique et à la concurrence asiatique. Cela menace l'emploi et la stabilité économique en Europe.",
+      "category": "Entreprises"
     },
     {
-      "title": "Impôts locaux en légère hausse en 2026 due à la faible inflation de 2025",
-      "summary": "Les impôts locaux devraient augmenter légèrement en 2026, conséquence de la faible inflation française en 2025 qui a limité la revalorisation des bases de calcul. Cette hausse modérée concerne taxes foncières et d'habitation pour des millions de ménages. Les collectivités locales en tirent des recettes supplémentaires pour leurs budgets. L'impact reste contenu par rapport aux chocs énergétiques actuels.",
-      "why": "Illustre les tensions budgétaires locales dans un contexte de croissance molle et de dette publique mondiale record.",
+      "title": "Trump nomme Kevin Warsh à la tête de la Fed : apaisement des tensions monétaires",
+      "summary": "Le président Trump a nommé Kevin Warsh à la présidence de la Réserve fédérale, remplaçant ainsi la direction précédente. Cette nomination rassure les marchés car Warsh est perçu comme défenseur de l'indépendance de la Banque centrale. Trump a simultanément relâché la pression qu'il exerçait sur la Fed pour qu'elle baisse ses taux, marquant un changement de ton significatif.",
+      "why": "Cette nomination réduit l'incertitude politique autour de la politique monétaire américaine et restaure la confiance des marchés dans l'indépendance institutionnelle de la Fed.",
+      "category": "Banques"
+    },
+    {
+      "title": "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
+      "summary": "L'inflation française atteint seulement 0,3% en rythme annuel en janvier, rapprochant dangereusement le pays du seuil de déflation. Cette faiblesse inflationniste remet en question la pertinence d'une politique monétaire prudente face à la faible croissance européenne. Le Financial Times rapporte que Christine Lagarde pourrait quitter son poste de présidente de la BCE avant la fin de son mandat prévu en octobre 2027.",
+      "why": "Le risque de déflation en France et les interrogations sur la direction de la BCE créent une incertitude majeure pour la politique monétaire européenne et la trajectoire économique de la zone euro.",
       "category": "Politique monétaire"
-    },
-    {
-      "title": "Bitcoin repasse au-dessus de 70 000 dollars dans contexte de tensions géopolitiques",
-      "summary": "Le bitcoin a retrouvé des couleurs en dépassant les 70 000 dollars une semaine après le début du conflit en Iran, agissant comme valeur refuge. Cette hausse contraste avec la correction des indices actions mondiaux. Les investisseurs fuient les actifs traditionnels vers les cryptos face aux risques énergétiques. Le volume d'échanges a bondi de 25% en 48 heures.",
-      "why": "Renforce le rôle des cryptomonnaies comme hedge contre l'instabilité géopolitique et inflationniste.",
-      "category": "Crypto"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Pétrole : nouvelle escalade au-delà de 100 dollars",
+      "original": "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées (12/03/2026)",
+      "summary": "Le pétrole a effectivement dépassé les 100 dollars mercredi 12 mars, confirmant la tendance haussière. Les attaques contre les infrastructures pétrolières iraniennes et les navires dans le Golfe continuent d'alimenter la hausse. L'AIE a débloqué un record de 400 millions de barils pour tenter de contenir les prix, sans succès. La situation reste volatile avec le risque d'une escalade supplémentaire.",
+      "why": "Cette confirmation de la hausse du pétrole au-delà de 100 dollars valide les craintes de stagflation et renforce le scénario pessimiste pour les marchés et l'inflation mondiale.",
+      "category": "Matières premières"
+    }
+  ]
 }
