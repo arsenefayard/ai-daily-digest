@@ -1,15 +1,5 @@
 [
   {
-    "date": "09/03/2026",
-    "titles": [
-      "Rapport sur l'emploi américain faible impacte les attentes de la Fed",
-      "Inflation en zone euro repart à la hausse à 1,9% en février",
-      "Dollar américain en route pour sa plus forte hausse hebdomadaire depuis plus d'un an",
-      "Stellantis et Renault affichent des pertes records dues à la concurrence chinoise",
-      "Banque centrale de Hongrie abaisse son taux directeur à 6,25%"
-    ]
-  },
-  {
     "date": "10/03/2026",
     "titles": [
       "Taux de l'OAT française grimpe à 3,5% en une semaine sous pression inflationniste",
@@ -70,6 +60,17 @@
       "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
       "Impôts locaux en légère hausse en 2026 due à la faible inflation de 2025",
       "Bitcoin repasse au-dessus de 70 000 dollars dans contexte de tensions géopolitiques"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Pétrole dépasse les 100 dollars : escalade majeure de la crise iranienne",
+      "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
+      "Stellantis et Renault enregistrent des pertes records : crise structurelle de l'automobile",
+      "Trump nomme Kevin Warsh à la tête de la Fed : apaisement des tensions monétaires",
+      "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
+      "Pétrole : nouvelle escalade au-delà de 100 dollars"
     ]
   }
 ]
