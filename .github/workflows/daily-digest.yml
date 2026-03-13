@@ -1,34 +1,13 @@
 name: Daily Digest (tous les thèmes)
 
 on:
-  schedule:
-    - cron: '0 7 * * *'   # 8h CET (hiver, UTC+1)
-    - cron: '0 6 * * *'   # 8h CEST (été, UTC+2)
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  check-time:
-    runs-on: ubuntu-latest
-    outputs:
-      should_run: ${{ steps.tz.outputs.should_run }}
-    steps:
-      - name: Vérifier l'heure française
-        id: tz
-        run: |
-          HOUR=$(TZ="Europe/Paris" date +%-H)
-          echo "Heure en France : ${HOUR}h"
-          if [ "$HOUR" -eq 8 ]; then
-            echo "should_run=true" >> $GITHUB_OUTPUT
-          else
-            echo "should_run=false" >> $GITHUB_OUTPUT
-          fi
-
   send-digest:
-    needs: check-time
-    if: needs.check-time.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Récupérer le code
