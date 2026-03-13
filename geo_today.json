@@ -1,35 +1,35 @@
 {
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "news": [
     {
-      "title": "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
-      "summary": "Des frappes aériennes conjointes menées par Israël et les États-Unis ont visé Téhéran, entraînant la mort de l'Ayatollah Ali Khamenei, figure centrale du régime iranien. Cette opération marque une escalade majeure dans le conflit en cours au Moyen-Orient, affaiblissant significativement la direction suprême de l'Iran. Les implications incluent un risque de chaos interne en Iran et une possible fragmentation des forces pro-iraniennes dans la région. Géopolitiquement, cela renforce la position de la coalition américano-israélienne mais expose à des représailles asymétriques de groupes alliés à Téhéran.",
-      "why": "La mort du Guide suprême représente un tournant historique qui pourrait précipiter la chute du régime iranien ou une guerre civile prolongée, redessinant les équilibres au Moyen-Orient.",
+      "title": "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
+      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien au-dessus de la Turquie, marquant une extension des frappes iraniennes vers les alliés de l'OTAN au Moyen-Orient. Cela survient au milieu de la hausse des prix du pétrole en Europe due aux perturbations dans le Golfe. Les échanges de tirs continuent entre Israël visant Téhéran et le Liban, et l'Iran ciblant Tel-Aviv, Jérusalem et bases du Golfe. Cette interception souligne le risque d'élargissement du conflit à l'Europe via l'OTAN.",
+      "why": "Cela représente la première interception OTAN de missiles iraniens, risquant d'impliquer directement l'Alliance atlantique et d'escalader le conflit régional en crise mondiale.",
       "category": "Conflit"
     },
     {
-      "title": "Pete Hegseth annonce le jour le plus intense de frappes sur l'Iran",
-      "summary": "Le secrétaire d'État américain à la guerre, Pete Hegseth, a promis que le 10 mars 2026 serait marqué par le plus grand nombre d'avions de combat et de bombardiers contre l'Iran. Cette intensification suit les déclarations optimistes de Trump sur une fin imminente du conflit. Les opérations visent à démanteler les capacités militaires iraniennes restantes. Cela accentue les tensions régionales et les pressions économiques mondiales liées à l'instabilité énergétique.",
-      "why": "Cette vague de frappes massive démontre la détermination américaine à achever la dégradation des forces iraniennes, influençant directement les dynamiques de pouvoir au Golfe.",
-      "category": "Conflit"
+      "title": "Ukraine propose son expertise anti-drones aux pays du Golfe contre les attaques iraniennes",
+      "summary": "Onze pays du Golfe, soutiens mesurés de Kyiv, ont demandé à Zelensky d'utiliser 4 ans d'expérience contre les drones russes pour contrer les drones iraniens. L'Ukraine accepte d'aider en échange de soutien accru, après avoir déjà assisté les USA en Jordanie. Cela s'inscrit dans un échange Russie-Iran: drones Shahed iraniens pour Moscou, et composants russes pour Téhéran contre navires US. Symbole fort contre l'axe Russie-Iran.",
+      "why": "Ce rapprochement Ukraine-Golfe fracture l'alliance Russie-Iran et renforce le soutien occidental à Kyiv via des transferts technologiques anti-drones.",
+      "category": "Sécurité"
     },
     {
-      "title": "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
-      "summary": "L'Iran a menacé de bloquer les exportations de pétrole via le détroit d'Ormuz en réponse aux frappes continues, provoquant une flambée des prix du baril au-delà de 115 dollars. Ce corridor stratégique transporte la majorité des exportations pétrolières du Golfe, rendant l'Asie particulièrement vulnérable. La menace souligne la stratégie iranienne de levier économique malgré ses faiblesses militaires. Les implications incluent une crise énergétique mondiale et une accélération des efforts de sécurisation par les puissances occidentales.",
-      "why": "La fermeture potentielle d'Ormuz pourrait déclencher une récession globale en coupant 20% des approvisionnements pétroliers mondiaux, forçant une réorientation des alliances énergétiques.",
+      "title": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à miner le détroit d'Ormuz, suite aux menaces de Trump contre les perturbations pétrolières. Trump avertit de 'conséquences militaires sans précédent' si des mines sont posées. L'Iran refuse tout cessez-le-feu et promet de punir l'agresseur. Les marchés européens chutent face à l'incertitude, avec CAC 40 et Eurostoxx en baisse.",
+      "why": "Le détroit d'Ormuz transporte 20% du pétrole mondial; son minage pourrait faire exploser les prix et provoquer une récession globale.",
       "category": "Énergie"
     },
     {
-      "title": "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "summary": "Mojtaba Khamenei, fils de l'Ayatollah décédé, a été nommé nouveau Guide suprême le 8 mars 2026, dans un contexte de bombardements intenses sur Téhéran. Cette succession rapide vise à maintenir la continuité du régime théocratique face à la pression militaire extérieure. Cependant, la légitimité de Mojtaba est contestée en interne, risquant des purges ou des dissensions. Géopolitiquement, cela pourrait prolonger la résistance iranienne ou accélérer une implosion du pouvoir central.",
-      "why": "Cette transition dynastique inédite teste la résilience du régime iranien et influence les calculs des acteurs régionaux quant à une intervention terrestre.",
-      "category": "Conflit"
+      "title": "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
+      "summary": "Macron annonce la libération de 400 millions de barils des réserves françaises pour contrer la flambée des prix due au conflit iranien. Réunion à Matignon avec partis politiques sur position française et impacts économiques. L'AIE prépare un déblocage massif record surpassant 2022. Cela vise à stabiliser les marchés au 12e jour du conflit.",
+      "why": "Cette mesure massive atténue l'impact inflationniste immédiat en Europe, mais signale la gravité de la crise énergétique mondiale.",
+      "category": "Énergie"
     },
     {
-      "title": "Critiques européennes contre les frappes israélo-américaines sur l'Iran",
-      "summary": "Plusieurs pays européens ont exprimé des critiques vives contre les frappes conjointes sur l'Iran, craignant une déstabilisation accrue du Moyen-Orient et une flambée migratoire. Malgré des déploiements navals français pour sécuriser Ormuz, l'UE insiste sur une solution diplomatique. Ces divergences transatlantiques mettent en lumière les fractures au sein de l'OTAN sur la stratégie iranienne. Les enjeux incluent un impact économique sur l'Europe via les prix de l'énergie et une pression humanitaire croissante.",
-      "why": "Les critiques européennes soulignent un clivage stratégique avec les États-Unis, potentiellement affaiblissant la cohésion occidentale face aux menaces russes et chinoises.",
-      "category": "Diplomatie"
+      "title": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
+      "summary": "Israël lance une nouvelle vague de frappes sur Téhéran et étend les opérations au Liban en riposte aux attaques du Hezbollah après la mort présumée de Khamenei. Les bombardements US-Israël visent centres de commandement des Gardiens de la Révolution. Trump appelle au renversement du régime iranien. Combats en Syrie/Irak poussent l'ONU à intensifier l'aide humanitaire.",
+      "why": "L'escalade ignore les appels de Trump à la fin de la guerre, risquant un embrasement régional avec Hezbollah et milices pro-iraniennes.",
+      "category": "Conflit"
     }
   ],
   "updates": []
