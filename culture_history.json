@@ -1,15 +1,5 @@
 [
   {
-    "date": "09/03/2026",
-    "titles": [
-      "L'étymologie du mot « théâtre » remonte au grec ancien « theatron »",
-      "Le paradoxe de Zénon : comment Achille ne peut jamais rattraper la tortue",
-      "La synesthésie : quand les sens se mélangent dans le cerveau",
-      "Le Minotaure : le monstre mi-homme mi-taureau de la mythologie grecque",
-      "L'effet Dunning-Kruger : quand l'ignorance engendre la confiance"
-    ]
-  },
-  {
     "date": "10/03/2026",
     "titles": [
       "La tapisserie de l'Apocalypse de la cathédrale d'Angers : le plus grand ensemble médiéval conservé",
@@ -67,6 +57,16 @@
       "Le voyage de Chihiro : comment un film d'animation a conquis les Oscars",
       "L'effet Mandela : quand des millions se souviennent d'événements qui n'ont jamais eu lieu",
       "La cité de Petra : la cité nabatéenne taillée dans la roche rose du désert"
+    ]
+  },
+  {
+    "date": "13/03/2026",
+    "titles": [
+      "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
+      "WOW Festival à Bordeaux : une semaine pluridisciplinaire autour des droits des femmes",
+      "Exposition sur les momies Chinchorros : 9 000 ans d'histoire funéraire à la Bourse du Commerce",
+      "Trois Cygnes à Toulouse : un ballet d'exception avec trois créations unifiées",
+      "Paris Manga Sci-Fi Show : 39ème édition avec première mondiale de Dragon Striker (Disney+)"
     ]
   }
 ]
