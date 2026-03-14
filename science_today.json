@@ -2,35 +2,43 @@
   "date": "14/03/2026",
   "news": [
     {
+      "title": "Nasa vise lancement d'Artemis 2 dès le 1er avril 2026",
+      "summary": "La Nasa a annoncé le 12 mars 2026 un lancement potentiel de la mission Artemis 2 dès le 1er avril, marquant le premier vol habité autour de la Lune depuis plus de 50 ans. Cette mission impliquera des astronautes orbitant la Lune après plusieurs reports dus à des problèmes techniques. L'annonce accélère le programme lunaire américain vers un retour humain sur la Lune. Elle renforce la coopération internationale dans l'exploration spatiale.",
+      "why": "Cette avancée concrétise le retour humain sur la Lune et pave la voie pour Artemis 3, avec des implications pour les bases lunaires permanentes.",
+      "category": "Espace"
+    },
+    {
+      "title": "Corbeaux mémorisent les territoires de chasse des loups",
+      "summary": "Une étude publiée dans Science le 12 mars 2026 démontre que les corbeaux utilisent une mémoire spatiale sophistiquée pour suivre les zones de chasse des loups et récupérer les restes de carcasses. Ces corvidés exhibent des capacités de navigation et de mémorisation comparables à celles des primates. Cette interaction inter-espèces révèle une intelligence sociale avancée chez les oiseaux. Les observations ont été menées sur le terrain avec suivi GPS.",
+      "why": "Cela repousse les limites de l'intelligence animale et éclaire les dynamiques écologiques complexes dans les écosystèmes sauvages.",
+      "category": "Biologie"
+    },
+    {
+      "title": "Ancêtre géant du T. rex découvert au Nouveau-Mexique",
+      "summary": "Un tibia fossile de 74 millions d'années, exhumé au Nouveau-Mexique, révèle un tyrannosaure géant proche du groupe de T. rex. Sa taille exceptionnelle et sa morphologie suggèrent une diversification précoce des tyrannosauridés. Cette découverte comble un vide dans l'arbre phylogénétique des dinosaures carnivores. L'analyse ostéologique confirme son appartenance aux tyrannosauridés nord-américains.",
+      "why": "Elle affine la compréhension de l'évolution des plus grands prédateurs terrestres et de la biodiversité mésozoïque.",
+      "category": "Biologie"
+    },
+    {
       "title": "SuperCam détecte carbonates dans roches martiennes riches en olivines",
-      "summary": "L'instrument français SuperCam du rover Perseverance a identifié des carbonates dans des roches contenant des olivines sur la bordure du delta de Jezero en 2024. Ces minéraux riches en carbone résultent d'altérations par de l'eau en contact avec une atmosphère contenant du CO2. Cela témoigne d'interactions chimiques propices à la vie microbienne passée. Les données renforcent l'hypothèse d'un environnement habitable ancien sur Mars.",
-      "why": "Cette découverte fournit des preuves directes d'activité hydratée et carbonatée, affinant les modèles d'habitabilité martienne.",
+      "summary": "SuperCam sur Perseverance a identifié en 2024 des carbonates dans des roches contenant des olivines sur la bordure du delta de Jezero. Ces minéraux riches en carbone résultent d'altérations par de l'eau en contact avec l'atmosphère CO2. Ils indiquent des conditions anciennes potentiellement habitables sur Mars. Cette découverte témoigne d'interactions hydro-chimiques propices à la vie.",
+      "why": "Elle fournit des preuves directes d'un passé aqueux et carbonaté sur Mars, clé pour la recherche de traces de vie.",
       "category": "Espace"
     },
     {
       "title": "SuperCam confirme silice précipitée par fluides hydrothermaux sur Mars",
-      "summary": "En février 2025, SuperCam a analysé des roches riches en silice sur la bordure du cratère Jezero via spectrométrie RAMAN. Ces silices, incluant opale, calcédoine et quartz cristallisé, se sont formées par précipitation lors de changements de pression et température dans des fluides hydrothermaux. Cela indique une circulation souterraine d'eau chaude passée. Les processus géologiques rappellent ceux de la Terre.",
-      "why": "Elle révèle une hydrologie martienne complexe similaire à la terrestre, avec implications pour la recherche de vie fossile.",
-      "category": "Espace"
-    },
-    {
-      "title": "Détection de décharges électrostatiques par micro de SuperCam dans poussières martiennes",
-      "summary": "En 2025, le microphone de SuperCam a capté des sons de décharges électrostatiques dues au frottement de grains dans un nuage de poussière martien. Ce phénomène confirme les microrcharges électrostatiques dans l'air sec de Mars. Il peut accélérer les réactions chimiques atmosphériques. Cela éclaire la chimie martienne et les phénomènes comme les tourbillons de poussière.",
-      "why": "Première preuve acoustique directe, impactant la compréhension des dynamiques atmosphériques et chimiques sur Mars.",
-      "category": "Espace"
-    },
-    {
-      "title": "Corbeaux mémorisent territoires de chasse des loups pour obtenir nourriture",
-      "summary": "Une étude publiée dans Science le 12 mars 2026 montre que les corbeaux utilisent une mémoire spatiale sophistiquée pour suivre les territoires de chasse des loups. Ils anticipent les carcasses abandonnées pour s'alimenter. Cela démontre des capacités cognitives avancées de navigation chez les corvidés. Les observations combinent suivi GPS et analyses comportementales.",
-      "why": "Révélation d'intelligence sociale inter-espèces, repoussant les limites de la cognition aviaire.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Nasa vise lancement Artemis 2 le 1er avril 2026",
-      "summary": "Le 12 mars 2026, la Nasa a annoncé viser un lancement d'Artemis 2 dès le 1er avril, avec un vol habité autour de la Lune. Première mission humaine lunaire en plus de 50 ans, après reports techniques. L'équipage testera le vaisseau Orion en conditions réelles. Cela pave la voie pour Artemis 3 et retours humains sur la Lune.",
-      "why": "Avancée majeure dans l'exploration lunaire, accélérant les plans pour bases lunaires durables.",
+      "summary": "En février 2025, SuperCam a analysé des roches riches en silice sur le bord du cratère Jezero via spectrométrie RAMAN. Ces silices (opale, calcédoine, quartz cristallisé) proviennent de fluides hydrothermaux transportant la silice dissoute. Leur précipitation s'est produite lors de changements de pression et température. Cela révèle une hydrologie martienne complexe similaire à la Terre.",
+      "why": "Cette confirmation de processus hydrothermaux martiens ouvre des perspectives pour l'habitabilité passée de la planète.",
       "category": "Espace"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "SuperCam capte décharges électrostatiques dans poussières martiennes",
+      "original": "Détection de décharges électriques dans les tourbillons de poussière sur Mars",
+      "summary": "En 2025, le microphone de SuperCam a enregistré des sons de décharges électrostatiques dues au frottement de grains dans les tourbillons poussiéreux. Ce phénomène confirme les microcharges dans l'air sec martien et accélère les réactions chimiques atmosphériques. Il éclaire la chimie de l'atmosphère et le mystère du méthane. Les données aident à modéliser les tempêtes de poussière globales.",
+      "why": "Cette première détection acoustique valide les modèles électrostatiques et impacte la compréhension des dynamiques atmosphériques martiennes.",
+      "category": "Espace"
+    }
+  ]
 }
