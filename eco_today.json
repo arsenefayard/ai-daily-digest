@@ -2,34 +2,34 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "FMI relève sa projection de croissance mondiale à 3,3% pour 2026",
-      "summary": "Le FMI a ajusté à la hausse sa prévision de croissance mondiale à 3,3% pour 2026, soulignant la résilience économique malgré les tensions commerciales et géopolitiques. Cette révision positive repose sur une reprise solide aux États-Unis et en Europe, malgré le ralentissement ponctuel dû au shutdown américain. Les investissements des entreprises accélèrent et le marché de l'emploi s'améliore légèrement. Cette perspective atténue les craintes d'une récession globale.",
-      "why": "Cette hausse de prévision renforce la confiance des investisseurs et influence les anticipations sur les politiques monétaires mondiales.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité",
-      "summary": "Google a été condamné à 23 millions d'euros par un jugement pour abus de position dominante dans la publicité en ligne. Cette décision crée une onde de choc dans le secteur technologique, affectant la confiance des investisseurs. Elle s'inscrit dans un contexte de régulation accrue des géants du numérique en Europe. Les implications incluent des risques de nouvelles amendes et restructurations.",
-      "why": "Cette sanction pèse sur la valorisation des actions technologiques et accélère le débat sur la régulation antitrust mondiale.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "France envisage de plafonner les marges des distributeurs de carburants",
-      "summary": "Le gouvernement français a tenu une réunion à Bercy pour discuter du plafonnement des marges des distributeurs face à la flambée des prix des carburants due à la crise au Moyen-Orient. Le baril de Brent a repassé les 100 dollars, impactant lourdement le pouvoir d'achat des automobilistes. Cette mesure vise à protéger les consommateurs en absorbant les hausses par les entreprises ou l'État. Les stations-service rurales sont particulièrement vulnérables avec des marges déjà réduites.",
-      "why": "Cette intervention étatique pourrait stabiliser les prix intérieurs mais risque de tensions avec les acteurs du secteur pétrolier.",
+      "title": "Goldman Sachs relève ses prévisions de prix du pétrole Brent à 71$ et WTI à 67$ pour Q4 2026",
+      "summary": "Goldman Sachs a ajusté à la hausse ses prévisions pour les prix du pétrole brut Brent et WTI au quatrième trimestre 2026, à respectivement 71 dollars et 67 dollars le baril. Cette révision s'explique par des risques persistants de perturbations dans le détroit d'Ormuz dus au conflit entre États-Unis, Israël et Iran. Les prix approchent déjà les 100 dollars suite à l'arrêt des ports pétroliers irakiens. L'AIE avertit d'une possible forte baisse de la production pétrolière du Golfe en mars 2026.",
+      "why": "Ces prévisions renforcent les craintes d'inflation mondiale persistante et impactent les marges des entreprises énergivores ainsi que les politiques monétaires des banques centrales.",
       "category": "Matières premières"
     },
     {
-      "title": "Grèce annonce le plafonnement des marges sur les prix des carburants",
-      "summary": "Le Premier ministre grec a annoncé un plafonnement des marges des distributeurs de carburants en réponse à la hausse des prix du pétrole liée à la crise iranienne. Cette mesure s'aligne sur des initiatives européennes pour atténuer l'impact inflationniste. Le pétrole en hausse menace la croissance et le pouvoir d'achat dans la zone euro. Elle vise à limiter la transmission des chocs externes aux consommateurs.",
-      "why": "Cette décision renforce la coordination européenne face aux chocs énergétiques et influence les politiques similaires dans l'UE.",
-      "category": "Politique monétaire"
+      "title": "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points, plombé par la volatilité pétrolière",
+      "summary": "Le CAC 40 a chuté de 1,54% sur la semaine, terminant à 8 041,81 points après des fluctuations liées aux cours du pétrole atteignant près de 120 dollars le baril. STMicroelectronics (+5%) et TotalEnergies (+4,7%) ont performé, tandis que Stellantis (-8,1%) et ArcelorMittal (-7,7%) ont dévisé. Le conflit au Moyen-Orient et la fermeture du détroit d'Ormuz alimentent l'incertitude. Les bourses internationales restent sous pression géopolitique.",
+      "why": "Cette volatilité boursière reflète les risques systémiques pour les marchés actions européens face aux chocs énergétiques.",
+      "category": "Marchés"
     },
     {
-      "title": "Téhéran soupçonné de financer ses proxys via les cryptomonnaies",
-      "summary": "L'Iran est soupçonné d'utiliser les cryptomonnaies pour financer ses groupes proxys au milieu de l'escalade au Moyen-Orient. Cette révélation aggrave les tensions géopolitiques et met en lumière les risques de contournement des sanctions via les actifs numériques. Les marchés crypto pourraient subir une volatilité accrue en raison de potentielles régulations renforcées. Cela complique les efforts internationaux de traçabilité financière.",
-      "why": "Cette accusation pourrait déclencher des mesures réglementaires globales sur les cryptos, impactant leur adoption et leur prix.",
-      "category": "Crypto"
+      "title": "Brent clôture au-dessus de 100 dollars pour la première fois depuis août 2022",
+      "summary": "Le baril de Brent a dépassé les 100 dollars, clôturant au-dessus de ce seuil pour la première fois depuis août 2022, suite à la fermeture maintenue du détroit d'Ormuz. Le dollar atteint de nouveaux sommets 2026, pénalisant l'euro. Les perturbations maritimes menacent les flux énergétiques mondiaux. Scott Bessent, Secrétaire au Trésor US, annonce une escorte militaire des navires dès que possible.",
+      "why": "Ce franchissement marque un pic inflationniste majeur, forçant les banques centrales à réévaluer leurs trajectoires de taux.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Inditex (Zara) affiche une hausse de 3,2% de ses ventes à 39,9 milliards pour 2025/2026",
+      "summary": "Inditex, propriétaire de Zara, a publié des ventes en hausse de 3,2% à 39,9 milliards d'euros pour l'exercice clos fin janvier 2026. Cette performance résiste malgré le contexte géopolitique tendu et les tensions commerciales. L'optimisme des marchés européens retombe au 12e jour du conflit iranien. Les investisseurs surveillent l'impact sur la consommation discrétionnaire.",
+      "why": "Cette résilience dans le retail contraste avec la crise sectorielle et soutient la confiance dans la consommation mondiale.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques",
+      "summary": "L'administration Trump a initié le 11 mars de vastes enquêtes commerciales visant de nombreux pays partenaires pour rétablir la pression tarifaire. Cela suit l'annulation judiciaire des droits de douane précédents. Les estimations évoquent des remboursements potentiels de 175 milliards de dollars à plus de 1 500 entreprises. FedEx mène les recours judiciaires.",
+      "why": "Ces enquêtes relancent les tensions commerciales mondiales, risquant de perturber les chaînes d'approvisionnement et la croissance.",
+      "category": "Marchés"
     }
   ],
   "updates": []
