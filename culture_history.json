@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
-      "WOW Festival à Bordeaux : une semaine pluridisciplinaire autour des droits des femmes",
-      "Exposition sur les momies Chinchorros : 9 000 ans d'histoire funéraire à la Bourse du Commerce",
-      "Trois Cygnes à Toulouse : un ballet d'exception avec trois créations unifiées",
-      "Paris Manga Sci-Fi Show : 39ème édition avec première mondiale de Dragon Striker (Disney+)"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "L'étymologie oubliée du mot « licorne » : entre mythe médiéval et symbolique royale",
       "Roger Caillois et la poésie minérale : quand les pierres deviennent des métaphores philosophiques",
       "Jean Dubuffet et l'Art Brut : la rébellion contre l'esthétique conventionnelle",
@@ -68,6 +58,16 @@
       "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
       "L'effet photoélectrique : Einstein et la naissance des quanta de lumière",
       "La plus longue langue humaine mesurée : 10,1 cm chez un Britannique"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "La tapisserie de Bayeux : le plus grand récit illustré du Moyen Âge",
+      "Le paradoxe de Zénon : Achille ne rattrape jamais la tortue",
+      "Le voyage dans la Lune de Georges Méliès : pionnier des effets spéciaux",
+      "L'effet photoélectrique : Einstein et les quanta de lumière",
+      "Le record du monde d'insomnie : 11 jours sans sommeil"
     ]
   }
 ]
