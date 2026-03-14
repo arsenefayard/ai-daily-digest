@@ -1,15 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "titles": [
-      "L’armée américaine utilise Claude malgré la rupture avec Anthropic",
-      "CyberStrikeAI détourné par pirates pour attaques sur pare-feu Fortinet",
-      "EBU organise séminaire DTS 2026 sur l’IA au cœur des médias publics",
-      "Usages IA en éducation se généralisent : automatisation QCM et veille",
-      "IA en entreprise atteint maturité en 2026 malgré complexité SI"
-    ]
-  },
-  {
     "date": "13/03/2026",
     "titles": [
       "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
@@ -58,5 +48,15 @@
   {
     "date": "14/03/2026",
     "titles": []
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "OpenAI lance GPT-5.4, premier modèle contrôlant nativement un ordinateur",
+      "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres",
+      "Microsoft intègre Claude dans Copilot Cowork pour Microsoft 365",
+      "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
+      "États-Unis rejettent toute gouvernance mondiale de l'IA"
+    ]
   }
 ]
