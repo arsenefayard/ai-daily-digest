@@ -2,33 +2,33 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "La tapisserie de la reine Sébile : l'histoire oubliée des croisades en bande dessinée médiévale",
-      "summary": "La tapisserie de la reine Sébile, tissée au XIIIe siècle, relate les aventures de Charlemagne et ses preux lors de la croisade contre les Sarrasins. Longue de 70 mètres et composée de 72 panneaux, elle mélange épopée chevaleresque et illustrations vivantes comme une bande dessinée antique. Exposée autrefois à Reims, elle fut détruite lors de la Révolution française, ne laissant que des fragments et descriptions. Ce chef-d'œuvre textile révèle comment les récits épiques étaient diffusés auprès des illettrés au Moyen Âge.",
-      "why": "Elle montre l'importance des arts narratifs populaires dans la transmission de l'histoire médiévale, bien au-delà de Bayeux.",
+      "title": "La tapisserie de Bayeux : le plus grand récit illustré du Moyen Âge",
+      "summary": "Longue de 70 mètres, cette tapisserie brodée vers 1070 relate la conquête normande de l'Angleterre par Guillaume le Conquérant. Composée de 50 scènes et 393 figures humaines ou animales, elle offre un témoignage unique sur les techniques textiles et l'iconographie médiévale. Exposée au musée de Bayeux, elle échappa miraculeusement aux destructions de la Seconde Guerre mondiale. Son style narratif en frise en fait un précurseur de la bande dessinée historique.",
+      "why": "Elle illustre la propagande politique au XIe siècle et reste un pilier de l'historiographie normande.",
       "category": "Histoire"
     },
     {
-      "title": "Le paradoxe de Zénon d'Élée : Achille ne rattrape jamais la tortue",
-      "summary": "Zénon d'Élée, philosophe présocratique du Ve siècle av. J.-C., défia les mathématiciens avec des paradoxes sur le mouvement. Dans celui d'Achille et la tortue, le héros, même plus rapide, ne peut jamais la dépasser car il doit d'abord atteindre son point précédent, divisant infiniment l'espace. Ces énigmes questionnaient la réalité du mouvement et la divisibilité de l'espace. Résolus plus tard par les limites et le calcul infinitésimal de Newton et Leibniz.",
-      "why": "Ce paradoxe fondateur a stimulé les avancées en mathématiques et philosophie du mouvement.",
+      "title": "Le paradoxe de Zénon : Achille ne rattrape jamais la tortue",
+      "summary": "Philosophe présocratique du Ve siècle av. J.-C., Zénon d'Élée défia les intuitions sur le mouvement avec ce paradoxe : Achille, plus rapide, divise infiniment l'espace pour rattraper la tortue partie avant lui. Cela questionne la divisibilité de l'espace et du temps en unités infiniment petites. Résolu mathématiquement par les limites de Cauchy au XIXe siècle, il inspira les fondements des mathématiques modernes. Il révèle les limites de la raison intuitive face à l'infini.",
+      "why": "Ce casse-tête philosophique a révolutionné la compréhension du mouvement et préfiguré le calcul infinitésimal.",
       "category": "Philosophie"
     },
     {
-      "title": "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
-      "summary": "Georges Méliès réalisa 'Le Voyage dans la Lune' en 1902, premier film de science-fiction avec fusée dans l'œil de la lune. Utilisant stop-motion, superpositions et décors peints, il inventa des effets spéciaux encore utilisés. Inspiré par Jules Verne et H.G. Wells, le film dura 14 minutes et connut un succès mondial. Restauré en 2011 avec bande-son, il reste un trésor du cinéma muet.",
-      "why": "Il marque la naissance des effets visuels et de la SF au cinéma, influençant Hollywood.",
+      "title": "Le voyage dans la Lune de Georges Méliès : pionnier des effets spéciaux",
+      "summary": "Sorti en 1902, ce film muet de 14 minutes montre une fusée dans l'œil de la Lune, réalisé avec des décors peints et des superpositions d'images. Méliès inventa la substitution de motifs et l'arrêt de caméra pour créer des disparitions magiques. Inspiré par Jules Verne et H.G. Wells, il attira 800 000 spectateurs et popularisa le cinéma fantastique. Restauré en 2011 avec une bande-son, il symbolise la naissance du 7e art narratif.",
+      "why": "Il marque l'invention des trucages cinématographiques, base des effets spéciaux actuels.",
       "category": "Cinéma"
     },
     {
-      "title": "L'effet photoélectrique : Einstein et la naissance des quanta de lumière",
-      "summary": "Expliqué par Einstein en 1905, l'effet photoélectrique montre que la lumière éjecte des électrons des métaux seulement au-dessus d'une fréquence seuil, indépendamment de l'intensité. Cela prouva la nature corpusculaire de la lumière en quanta appelés photons. Prix Nobel 1921 pour Einstein, cette découverte fonda la mécanique quantique. Applications : cellules solaires et photodétecteurs modernes.",
-      "why": "Décisive pour l'énergie solaire et les technologies quantiques actuelles.",
+      "title": "L'effet photoélectrique : Einstein et les quanta de lumière",
+      "summary": "Expliqué par Einstein en 1905, cet effet montre que la lumière éjecte des électrons d'un métal seulement au-dessus d'une fréquence seuil, indépendamment de l'intensité. Cela prouva la nature corpusculaire de la lumière sous forme de photons, contredisant l'onde classique. Prix Nobel en 1921, cette découverte fonda la mécanique quantique. Elle permit le développement des cellules photovoltaïques et détecteurs modernes.",
+      "why": "Elle révolutionna la physique en unifiant onde et particule, ouvrant l'ère quantique.",
       "category": "Science pop"
     },
     {
-      "title": "La plus longue langue humaine mesurée : 10,1 cm chez un Britannique",
-      "summary": "En 1998, le Guinness des records a mesuré la langue de Nick Stoeberl à 10,1 cm du bord à la pointe, record actuel. Cette anomalie génétique lui permet des prouesses comme lécher son cou. Autre record : Chanel Tapper roule sa langue en 3 tours. Ces curiosités illustrent la variabilité humaine extrême.",
-      "why": "Rappelle les limites biologiques fascinantes du corps humain.",
+      "title": "Le record du monde d'insomnie : 11 jours sans sommeil",
+      "summary": "En 1964, l'Américain Randy Gardner, 17 ans, resta éveillé 264 heures (11 jours et 25 minutes) sous supervision médicale pour un projet scolaire. Il souffrit de paranoïa, hallucinations et troubles cognitifs réversibles. Ce record, non battu officiellement pour raisons éthiques, étudia les effets du manque de sommeil sur le cerveau. Gardner se rendormit 15 heures après, récupérant sans séquelles permanentes.",
+      "why": "Cette expérience extrême révèle la résilience humaine et les dangers du privation de sommeil.",
       "category": "Insolite"
     }
   ],
