@@ -2,17 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Pétrole dépasse les 100 dollars : escalade majeure de la crise iranienne",
-      "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
-      "Stellantis et Renault enregistrent des pertes records : crise structurelle de l'automobile",
-      "Trump nomme Kevin Warsh à la tête de la Fed : apaisement des tensions monétaires",
-      "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
-      "Pétrole : nouvelle escalade au-delà de 100 dollars"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "Pétrole dépasse 100 dollars : escalade majeure de la crise iranienne",
       "G7 et AIE mobilisent les réserves stratégiques de pétrole",
       "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
@@ -69,6 +58,16 @@
       "Brent clôture au-dessus de 100 dollars pour la première fois depuis août 2022",
       "Inditex (Zara) affiche une hausse de 3,2% de ses ventes à 39,9 milliards pour 2025/2026",
       "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points sous l'effet de la volatilité pétrolière",
+      "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques",
+      "AIE avertit d'une forte baisse de la production pétrolière du Golfe due aux perturbations dans le détroit d'Ormuz",
+      "Faiblesse de la dynamique du crédit en Chine en février renforce les doutes sur la reprise économique",
+      "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité en ligne"
     ]
   }
 ]
