@@ -2,16 +2,6 @@
   {
     "date": "12/03/2026",
     "titles": [
-      "La cathédrale engloutie de Yubari au Japon",
-      "Le théorème de Gödel : les limites de la mathématique",
-      "Le premier court-métrage d'animation : Fantasmagorie de 1908",
-      "La découverte de la quinine et la fin du paludisme colonial",
-      "Le record de la plus longue sieste : 23 jours en 1959"
-    ]
-  },
-  {
-    "date": "12/03/2026",
-    "titles": [
       "La tapisserie de Bayeux : le plus grand comics médiéval jamais réalisé",
       "Le dilemme du prisonnier : le paradoxe qui explique la trahison humaine",
       "Le voyage de Chihiro : comment un film d'animation a conquis les Oscars",
@@ -68,6 +58,16 @@
       "L'effet Stroop : le conflit entre perception et cognition",
       "La cité de Machu Picchu : sanctuaire inca dans les Andes",
       "Le roman '1984' de George Orwell : prophétie dystopique"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "La tapisserie de la reine Mathilde : le plus grand récit illustré du Moyen Âge",
+      "Le pont de Gödel : quand les mathématiques prouvent leur propre incomplétude",
+      "Fantasmagorie d'Émile Cohl : la naissance du cinéma d'animation en 1908",
+      "L'origine péruvienne de la quinine : le remède qui ouvrit l'Amazonie aux Européens",
+      "Randy Gardner et le record du monde d'insomnie : 11 jours sans sommeil en 1964"
     ]
   }
 ]
