@@ -1,35 +1,35 @@
 {
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "news": [
     {
-      "title": "G7 approuve mobilisation d'urgence des réserves pétrolières stratégiques",
-      "summary": "Les pays du G7 ont officiellement soutenu l'utilisation de leurs réserves stratégiques de pétrole pour contrer les pénuries liées au conflit au Moyen-Orient. Cette décision vise à stabiliser les marchés face à la volatilité des prix. L'Agence Internationale de l'Energie (AIE) prévoit de débloquer 400 millions de barils dans les prochains jours. Cette mesure collective pourrait atténuer les chocs inflationnistes mais dépend de la durée du conflit.",
-      "why": "Cette coordination internationale est cruciale pour éviter une spirale inflationniste mondiale et soutenir la croissance économique face à la crise énergétique.",
+      "title": "FMI relève sa projection de croissance mondiale à 3,3% pour 2026",
+      "summary": "Le FMI a ajusté à la hausse sa prévision de croissance mondiale à 3,3% pour 2026, soulignant la résilience économique malgré les tensions commerciales et géopolitiques. Cette révision positive repose sur une reprise solide aux États-Unis et en Europe, malgré le ralentissement ponctuel dû au shutdown américain. Les investissements des entreprises accélèrent et le marché de l'emploi s'améliore légèrement. Cette perspective atténue les craintes d'une récession globale.",
+      "why": "Cette hausse de prévision renforce la confiance des investisseurs et influence les anticipations sur les politiques monétaires mondiales.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité",
+      "summary": "Google a été condamné à 23 millions d'euros par un jugement pour abus de position dominante dans la publicité en ligne. Cette décision crée une onde de choc dans le secteur technologique, affectant la confiance des investisseurs. Elle s'inscrit dans un contexte de régulation accrue des géants du numérique en Europe. Les implications incluent des risques de nouvelles amendes et restructurations.",
+      "why": "Cette sanction pèse sur la valorisation des actions technologiques et accélère le débat sur la régulation antitrust mondiale.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "France envisage de plafonner les marges des distributeurs de carburants",
+      "summary": "Le gouvernement français a tenu une réunion à Bercy pour discuter du plafonnement des marges des distributeurs face à la flambée des prix des carburants due à la crise au Moyen-Orient. Le baril de Brent a repassé les 100 dollars, impactant lourdement le pouvoir d'achat des automobilistes. Cette mesure vise à protéger les consommateurs en absorbant les hausses par les entreprises ou l'État. Les stations-service rurales sont particulièrement vulnérables avec des marges déjà réduites.",
+      "why": "Cette intervention étatique pourrait stabiliser les prix intérieurs mais risque de tensions avec les acteurs du secteur pétrolier.",
       "category": "Matières premières"
     },
     {
-      "title": "Japon puise dans ses réserves de pétrole à partir du 16 mars",
-      "summary": "La Première ministre japonaise Sanae Takachi a annoncé que le Japon entamera le 16 mars l'utilisation de ses réserves stratégiques de pétrole. Cette mesure répond à la hausse des prix de l'essence due aux tensions au Moyen-Orient. Le Japon, grand importateur net, vise à protéger son économie et ses consommateurs. Cela s'inscrit dans une réponse globale incluant l'AIE et le G7.",
-      "why": "En tant que troisième économie mondiale, cette action influence les prix mondiaux de l'énergie et signale une urgence accrue dans la chaîne d'approvisionnement.",
-      "category": "Matières premières"
+      "title": "Grèce annonce le plafonnement des marges sur les prix des carburants",
+      "summary": "Le Premier ministre grec a annoncé un plafonnement des marges des distributeurs de carburants en réponse à la hausse des prix du pétrole liée à la crise iranienne. Cette mesure s'aligne sur des initiatives européennes pour atténuer l'impact inflationniste. Le pétrole en hausse menace la croissance et le pouvoir d'achat dans la zone euro. Elle vise à limiter la transmission des chocs externes aux consommateurs.",
+      "why": "Cette décision renforce la coordination européenne face aux chocs énergétiques et influence les politiques similaires dans l'UE.",
+      "category": "Politique monétaire"
     },
     {
-      "title": "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
-      "summary": "Unifirst a annoncé l'acquisition de Cintas, leader des services uniformes et d'hygiène, pour 5,5 milliards de dollars en numéraire et actions. Cette transaction renforce la position d'Unifirst sur le marché nord-américain des services B2B. L'opération est financée par de la dette et des liquidités existantes, avec une clôture prévue mi-2026. Les actions Unifirst ont bondi de plus de 15% en séance.",
-      "why": "Ce rachat majeur consolide un secteur résilient et illustre la confiance des investisseurs dans les acquisitions stratégiques malgré les tensions géopolitiques.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Eli Lilly investit 3 milliards de dollars en Chine pour ses traitements anti-obésité",
-      "summary": "Eli Lilly prévoit d'investir 3 milliards de dollars en Chine pour produire et commercialiser ses médicaments amaigrissants comme le Mounjaro. L'entreprise a demandé l'autorisation de mise sur le marché chinois, où l'obésité explose. Cet investissement inclut une nouvelle usine et des partenariats locaux. Il cible un marché pharmaceutique en croissance de 8% par an.",
-      "why": "Cette expansion en Chine, deuxième marché pharma mondial, booste les perspectives de croissance d'Eli Lilly et souligne l'attractivité des biotechs malgré les risques commerciaux.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Target baisse les prix de plus de 3 000 produits face à la concurrence accrue",
-      "summary": "Target a annoncé la réduction des prix sur plus de 3 000 articles, des produits de base aux électroniques, pour stimuler ses ventes printanières. Cette stratégie répond à la pression de Walmart et Amazon dans un contexte d'inflation persistante. Les baisses varient de 5% à 20% et concernent 80% des rayons alimentaires. Les ventes du trimestre écoulé ont chuté de 2%.",
-      "why": "Dans un environnement de consommation sous pression, cette initiative révèle les défis du retail américain et pourrait influencer les marges sectorielles.",
-      "category": "Entreprises"
+      "title": "Téhéran soupçonné de financer ses proxys via les cryptomonnaies",
+      "summary": "L'Iran est soupçonné d'utiliser les cryptomonnaies pour financer ses groupes proxys au milieu de l'escalade au Moyen-Orient. Cette révélation aggrave les tensions géopolitiques et met en lumière les risques de contournement des sanctions via les actifs numériques. Les marchés crypto pourraient subir une volatilité accrue en raison de potentielles régulations renforcées. Cela complique les efforts internationaux de traçabilité financière.",
+      "why": "Cette accusation pourrait déclencher des mesures réglementaires globales sur les cryptos, impactant leur adoption et leur prix.",
+      "category": "Crypto"
     }
   ],
   "updates": []
