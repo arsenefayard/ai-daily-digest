@@ -5,12 +5,6 @@ on:
     - cron: '*/5 6 * * *'   # Toutes les 5 min à 6h UTC → 8h CEST (été, UTC+2)
     - cron: '*/5 7 * * *'   # Toutes les 5 min à 7h UTC → 8h CET (hiver, UTC+1)
   workflow_dispatch:
-    inputs:
-      html_only:
-        description: 'Déployer uniquement le HTML (sans générer de contenu ni envoyer d email)'
-        required: false
-        default: 'false'
-        type: string
 
 permissions:
   contents: write
@@ -104,7 +98,6 @@ jobs:
           PYEOF
 
       - name: Digest IA
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -112,7 +105,6 @@ jobs:
         run: python ai_digest.py
 
       - name: Digest Géopolitique
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -120,7 +112,6 @@ jobs:
         run: python geo_digest.py
 
       - name: Digest Économie
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -128,7 +119,6 @@ jobs:
         run: python eco_digest.py
 
       - name: Digest Sport
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -136,7 +126,6 @@ jobs:
         run: python sport_digest.py
 
       - name: Digest Musique
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -144,7 +133,6 @@ jobs:
         run: python music_digest.py
 
       - name: Digest Science
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -152,7 +140,6 @@ jobs:
         run: python science_digest.py
 
       - name: Digest Culture Générale
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -160,7 +147,6 @@ jobs:
         run: python culture_digest.py
 
       - name: Digest Histoire
-        if: github.event.inputs.html_only != 'true'
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -168,7 +154,6 @@ jobs:
         run: python history_digest.py
 
       - name: Envoyer l'email combiné
-        if: github.event.inputs.html_only != 'true'
         env:
           SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
