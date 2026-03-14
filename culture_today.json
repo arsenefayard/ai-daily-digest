@@ -1,35 +1,35 @@
 {
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "news": [
     {
-      "title": "La machine de Turing : l'ancêtre des ordinateurs modernes",
-      "summary": "Inventée par Alan Turing en 1936, la machine de Turing est un modèle théorique abstrait qui définit les principes fondamentaux du calcul algorithmique. Elle consiste en une bande infinie de cellules, un curseur de lecture/écriture et un ensemble de règles déterministes pour transformer des symboles. Ce dispositif hypothétique a posé les bases de l'informatique moderne en prouvant ce qui est calculable. Sans elle, les ordinateurs actuels n'existeraient pas sous leur forme actuelle.",
-      "why": "Elle démontre comment une idée simple peut révolutionner la technologie mondiale.",
-      "category": "Science pop"
-    },
-    {
-      "title": "Le mythe d'Icare : la leçon antique sur l'hybris humaine",
-      "summary": "Dans la mythologie grecque, Dédale fabrique des ailes de plumes et de cire pour lui et son fils Icare afin d'échapper au labyrinthe de Crète. Icare, exalté par le vol, s'approche trop du soleil, fond la cire de ses ailes et se noie dans la mer qui porte désormais son nom. Ce récit illustre l'avertissement contre l'excès d'ambition et le mépris des limites naturelles. Il inspire encore aujourd'hui littérature, art et expressions comme 'voler trop près du soleil'.",
-      "why": "Ce mythe universel explique les dangers de l'orgueil démesuré de façon intemporelle.",
-      "category": "Mythologie"
-    },
-    {
-      "title": "L'effet Stroop : le conflit entre perception et cognition",
-      "summary": "Découvert par John Ridley Stroop en 1935, cet effet psychologique montre qu'il est plus difficile de nommer la couleur d'un mot écrit dans une encre d'une autre couleur que de le lire normalement, comme 'ROUGE' en bleu. Cela révèle un conflit entre automatisme de lecture et contrôle attentionnel. Utilisé en neurosciences, il mesure l'inhibition cognitive et diagnostique des troubles comme le TDAH. Des millions de tests l'emploient quotidiennement en recherche.",
-      "why": "Il révèle les mécanismes cachés de notre cerveau face aux interférences quotidiennes.",
-      "category": "Psychologie"
-    },
-    {
-      "title": "La cité de Machu Picchu : sanctuaire inca dans les Andes",
-      "summary": "Construite au XVe siècle sous l'empire inca, Machu Picchu est une cité fortifiée perchée à 2 430 mètres d'altitude dans les Andes péruviennes, redécouverte intacte en 1911 par Hiram Bingham. Ses terrasses agricoles, temples alignés sur les solstices et systèmes hydrauliques sophistiqués témoignent d'une ingénierie avancée sans mortier ni roue. Abandonnée mystérieusement avant la conquête espagnole, elle reste un mystère archéologique. Classée au Patrimoine mondial de l'UNESCO, elle attire 1,5 million de visiteurs par an.",
-      "why": "Elle incarne le génie architectural précolombien et un enigma historique fascinant.",
+      "title": "La tapisserie de la reine Mathilde : le plus grand récit illustré du Moyen Âge",
+      "summary": "Commandée vers 1070 pour célébrer la conquête normande de l'Angleterre, cette broderie de 70 mètres relate en 58 scènes la bataille d'Hastings et les événements précédents. Réalisée par des artisans anglo-saxons sous la direction probable de la reine Mathilde, elle mélange histoire et légende avec un style narratif proche de la bande dessinée moderne. Exposée aujourd'hui au musée de Bayeux, elle offre un témoignage unique sur les techniques textiles et l'iconographie médiévale. Son anonymat des créateurs ajoute au mystère de cette œuvre collective exceptionnelle.",
+      "why": "Elle révèle comment les femmes nobles influençaient la mémoire historique au XIe siècle, transformant un événement guerrier en fresque visuelle intemporelle.",
       "category": "Histoire"
     },
     {
-      "title": "Le roman '1984' de George Orwell : prophétie dystopique",
-      "summary": "Publié en 1949, '1984' dépeint un régime totalitaire où Big Brother surveille tout via télécrans, manipule la vérité avec la 'novlangue' et réécrit l'histoire. Le protagoniste Winston Smith travaille au Ministère de la Vérité, falsifiant des archives pour le Parti. L'œuvre explore la perte de liberté individuelle, la propagande et le contrôle mental. Des termes comme 'Big Brother' ou 'orwellien' sont entrés dans le langage courant.",
-      "why": "Il anticipe avec précision les dérives des sociétés de surveillance modernes.",
-      "category": "Littérature"
+      "title": "Le pont de Gödel : quand les mathématiques prouvent leur propre incomplétude",
+      "summary": "En 1931, Kurt Gödel démontre que tout système axiomatique cohérent contient des propositions vraies mais indémontrables, brisant l'espoir d'une mathématique totale. Ce théorème d'incomplétude ébranle les fondations posées par Hilbert et révèle les limites intrinsèques de la logique formelle. Il influence la philosophie des sciences en montrant que la vérité mathématique dépasse la preuve mécanique. Gödel utilisa un encodage ingénieux pour 'numéroter' les preuves, anticipant l'informatique théorique.",
+      "why": "Ce résultat fondamental explique pourquoi l'intelligence artificielle ne pourra jamais tout prouver, redéfinissant notre compréhension de la connaissance absolue.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Fantasmagorie d'Émile Cohl : la naissance du cinéma d'animation en 1908",
+      "summary": "Ce court-métrage de 2 minutes, sorti le 17 août 1908, est reconnu comme le premier film d'animation de l'histoire par l'utilisation exclusive de dessins animés image par image. Cohl y dépeint un monde onirique où un bâtonnet se transforme en créatures fantastiques, préfigurant les principes du dessin animé moderne. Produit avec plus de 700 dessins sur papier translucide, il marque la transition du théâtre d'ombres à l'animation cinématographique. Restauré aujourd'hui, il émerveille par sa fluidité inventive malgré la technologie primitive.",
+      "why": "Il pose les bases créatives de Disney et Pixar, démontrant comment un pionnier français a inventé un art qui domine la culture mondiale.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "L'origine péruvienne de la quinine : le remède qui ouvrit l'Amazonie aux Européens",
+      "summary": "Extraite de l'écorce de l'arbre de quina au XVIIe siècle par les Jésuites au Pérou, la quinine révolutionne le traitement du paludisme, maladie qui freinait l'expansion coloniale. Les Incas l'utilisaient déjà contre les fièvres, mais son exportation vers l'Europe sauve des millions de vies et permet l'exploration africaine. En 1820, Pelletier et Caventou en isolent l'alcaloïde pur, fondant la chimie des médicaments. Aujourd'hui synthétisée, elle reste essentielle contre le paludisme résistant.",
+      "why": "Ce savoir autochtone a transformé la médecine mondiale et l'histoire des empires, illustrant les apports croisés des cultures.",
+      "category": "Science pop"
+    },
+    {
+      "title": "Randy Gardner et le record du monde d'insomnie : 11 jours sans sommeil en 1964",
+      "summary": "À 17 ans, l'Américain Randy Gardner reste éveillé 264 heures (11 jours et 25 minutes) sous supervision médicale, battant tout record vérifié. Durant l'expérience, il souffre de paranoïa, hallucinations et troubles cognitifs, soulignant les limites physiologiques du cerveau. Suivi par le chercheur Dement, cet exploit révèle l'importance du sommeil paradoxal pour la mémoire. À 70 ans, Gardner mène une vie normale mais met en garde contre la privation de sommeil chronique.",
+      "why": "Cette prouesse humaine met en lumière les dangers du manque de repos, expliquant des phénomènes modernes comme la fatigue sociétale.",
+      "category": "Insolite"
     }
   ],
   "updates": []
