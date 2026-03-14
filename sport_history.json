@@ -1,16 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "titles": [
-      "8es de finale aller Ligue Europa : Début des hostilités avec les grands clubs européens",
-      "Miami Open 2026 : Ouverture imminente du Masters 1000 ATP et WTA",
-      "Paris Basketball lance sa 'Paris Madness' à l'Adidas Arena",
-      "NBA : Clippers renversent les Celtics en prolongation dans un thriller",
-      "Paris-Nice 2026 : Troisième étape remportée au sprint par un favori",
-      "Real Madrid vs Manchester City LdC : City domine 3-1 sans Mbappé"
-    ]
-  },
-  {
     "date": "13/03/2026",
     "titles": [
       "France-Angleterre au Tournoi des 6 Nations : le match décisif des Bleus",
@@ -71,6 +60,16 @@
       "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
       "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
       "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance au championnat"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
+      "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales",
+      "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
+      "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
+      "Betclic Elite J22 : Monaco triomphe et prend la tête du classement"
     ]
   }
 ]
