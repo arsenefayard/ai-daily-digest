@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
-      "summary": "Les Bleus ont dominé l'Angleterre 28-20 au Stade de France ce soir dans le match décisif du Tournoi des 6 Nations. Avec des essais de Ramos et Jalibert, la France sécurise une 28e victoire historique dans la compétition. Ce succès confirme la suprématie des Bleus après une campagne solide. Les supporters célèbrent un back-to-back après le titre précédent.",
-      "why": "Ce triomphe propulse la France au sommet du rugby européen et renforce la dynamique pour les prochaines compétitions internationales.",
+      "summary": "Les Bleus ont dominé l'Angleterre 28-19 au Stade de France dans un match intense et décisif. Antoine Dupont a brillé avec deux essais, tandis que la défense française a tenu bon face aux assauts anglais. Ce succès offre à la France son sixième titre consécutif dans la compétition. Les supporters ont célébré cette victoire historique sous une ambiance électrique.",
+      "why": "Cette victoire scelle le doublé pour les Bleus après leur Grand Chelem l'an dernier et renforce leur domination en rugby européen.",
       "category": "Rugby"
     },
     {
-      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales après victoires convaincantes",
-      "summary": "Carlos Alcaraz a écarté Sinner en quarts de finale tandis que Iga Swiatek a dominé Gauff dans le tableau féminin à Indian Wells. Les deux stars confirment leur forme exceptionnelle dans ce Masters 1000. Les demi-finales promettent des chocs intenses dès demain. Des surprises persistent avec des outsiders en lice.",
-      "why": "Ces avancées des favoris intensifient la course aux titres et influencent les classements ATP/WTA avant les tournois sur terre battue.",
+      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales",
+      "summary": "Carlos Alcaraz a écrasé son adversaire en quarts de finale, confirmant son retour en forme après une période difficile. Iga Swiatek a également validé son billet pour les demies avec une performance solide et sans faute. Les deux stars affichent une confiance maximale à l'approche des demies. Le tournoi réserve encore des surprises avec des outsiders en lice.",
+      "why": "Alcaraz et Swiatek, favoris pour le titre, dominent et promettent un dernier carré explosif dans ce Masters 1000 prestigieux.",
       "category": "Tennis"
     },
     {
       "title": "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
-      "summary": "Le PSG a remporté un large succès 4-0 contre Monaco lors de la 26e journée de Ligue 1, avec un doublé de Mbappé. Cette victoire porte les Parisiens à +8 points sur leurs poursuivants. La course au podium s'emballe entre Marseille et Lyon. Les enjeux du maintien deviennent critiques pour plusieurs équipes.",
-      "why": "Ce résultat consolide la domination du PSG et oriente la fin de saison vers un probable titre anticipé.",
+      "summary": "Le PSG a remporté une victoire convaincante 4-1 contre Monaco au Parc des Princes lors de la 26e journée. Mbappé a inscrit un doublé, aidé par des buts de Dembélé et un jeune de l'académie. Monaco, en quête de podium, subit un coup d'arrêt dans sa dynamique. Le PSG porte son avance à 8 points sur son dauphin.",
+      "why": "Cette large victoire consolide la mainmise du PSG sur le titre et relance le débat sur leur invincibilité en Ligue 1.",
       "category": "Football"
     },
     {
-      "title": "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
-      "summary": "Monaco a battu Nanterre dans un match clé de la 22e journée de Betclic Elite, s'emparant de la première place. Paris Basketball suit de près après une victoire solide. La lutte pour les playoffs s'intensifie avec des résultats serrés. Les favoris confirment leur statut en cette fin de saison régulière.",
-      "why": "Ce changement en tête relance la compétition et définit les positions pour les phases finales du championnat français.",
-      "category": "Basketball"
+      "title": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
+      "summary": "Max Verstappen a triomphé au GP de Chine à Shanghai, devançant Leclerc et Norris après une course stratégique. Red Bull a dominé les qualifications et la course malgré une safety car précoce. Verstappen porte son avance au championnat à 34 points. Ferrari montre des signes de progrès avec le podium de Leclerc.",
+      "why": "Cette victoire renforce la position de leader de Verstappen dans une saison F1 ultra-compétitive marquée par des duels intenses.",
+      "category": "F1"
     },
     {
-      "title": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance au championnat",
-      "summary": "Max Verstappen a remporté le Grand Prix de Chine à Shanghai, devançant Leclerc et Norris. Sa pole position s'est muée en victoire dominante malgré la pression de Ferrari. Les points au championnat pilotes s'élargissent pour le Néerlandais. McLaren montre des progrès notables en course.",
-      "why": "Cette performance renforce la position de Verstappen dans la course au titre et met la pression sur ses rivaux précoces dans la saison.",
-      "category": "F1"
+      "title": "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
+      "summary": "L'AS Monaco a battu son rival direct dans un match à suspense de la 22e journée, grâce à un buzzer-beater décisif. Mike James a été le héros avec 28 points et 8 passes. Cette victoire permet à Monaco de dépasser Nanterre au classement. La course au titre s'annonce plus serrée que jamais.",
+      "why": "Monaco s'empare de la première place à trois journées de la fin, intensifiant la bataille pour le scudetto du basket français.",
+      "category": "Basketball"
     }
   ],
   "updates": []
