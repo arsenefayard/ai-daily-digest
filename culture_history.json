@@ -1,15 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "titles": [
-      "La tapisserie de Bayeux : le plus grand comics médiéval jamais réalisé",
-      "Le dilemme du prisonnier : le paradoxe qui explique la trahison humaine",
-      "Le voyage de Chihiro : comment un film d'animation a conquis les Oscars",
-      "L'effet Mandela : quand des millions se souviennent d'événements qui n'ont jamais eu lieu",
-      "La cité de Petra : la cité nabatéenne taillée dans la roche rose du désert"
-    ]
-  },
-  {
     "date": "13/03/2026",
     "titles": [
       "Le Printemps des Arts de Monte-Carlo : 27 concerts exceptionnels sous la présidence de la princesse de Hanovre",
@@ -68,6 +58,16 @@
       "Fantasmagorie d'Émile Cohl : la naissance du cinéma d'animation en 1908",
       "L'origine péruvienne de la quinine : le remède qui ouvrit l'Amazonie aux Européens",
       "Randy Gardner et le record du monde d'insomnie : 11 jours sans sommeil en 1964"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "La tapisserie de la reine Sébile : l'histoire oubliée des croisades en bande dessinée médiévale",
+      "Le paradoxe de Zénon d'Élée : Achille ne rattrape jamais la tortue",
+      "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
+      "L'effet photoélectrique : Einstein et la naissance des quanta de lumière",
+      "La plus longue langue humaine mesurée : 10,1 cm chez un Britannique"
     ]
   }
 ]
