@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien IA avec Perplexity API
 Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 """
@@ -111,19 +111,19 @@ RÈGLES STRICTES :
 1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
+   - Si les 5 news ne sont pas trouvées avec les priorités hautes, complète avec les meilleures actualités IA disponibles ce jour-là.
 
-2. PRIORITÉS — dans cet ordre de préférence :
+2. PRIORITÉS — dans cet ordre de préférence (mais toujours trouver 5 news) :
    a. Sortie ou annonce d'un nouveau modèle IA (GPT, Claude, Gemini, Llama, Mistral, etc.) : version, benchmarks, capacités
    b. Percée de recherche : nouveau papier scientifique majeur, résultat SOTA, architecture innovante
    c. Lancement de produit IA concret avec impact réel : nouvel outil, agent, fonctionnalité déployée
-   d. Mouvement stratégique majeur d'un acteur clé : acquisition, levée de fonds significative, partenariat technique
-   e. Régulation ou décision légale qui change les règles du jeu
+   d. Mouvement stratégique majeur : acquisition, levée de fonds significative, partenariat technique
+   e. Régulation ou décision légale, ou autre actualité IA significative du jour
 
-3. SUJETS À ÉVITER ABSOLUMENT :
-   - Sommets, conférences, forums, séminaires sur l'IA (sauf si une annonce concrète y est faite)
-   - Discours politiques ou déclarations sans substance technique
-   - Articles d'opinion sans fait nouveau
-   - Événements purement médiatiques sans impact sur la technologie
+3. PRÉFÉRENCES (pas d'exclusions absolues) :
+   - Préférer les faits techniques concrets aux simples déclarations
+   - Préférer les événements avec impact direct sur la technologie ou les utilisateurs
+   - Si une conférence a lieu, ne la mentionner QUE si une annonce concrète y a été faite
 
 4. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : sortie officielle d'un modèle annoncé, nouveaux benchmarks significatifs, revirement stratégique, incident ou faille majeure.
@@ -312,10 +312,16 @@ def main():
 
     history_context = build_history_context(history)
 
-    # 2. Génère les news en évitant les répétitions
-    data = get_ai_news_summaries(history_context)
-    if not data:
-        print("❌ Impossible de générer les résumés")
+    # 2. Génère les news (jusqu'à 3 tentatives si résultat vide)
+    data = None
+    for attempt in range(3):
+        data = get_ai_news_summaries(history_context)
+        if data and len(data.get("news", [])) >= 5:
+            break
+        news_count = len(data.get("news", [])) if data else 0
+        print(f"⚠️  Tentative {attempt+1}/3 — news obtenues : {news_count}/5, nouvelle tentative…")
+    if not data or len(data.get("news", [])) == 0:
+        print("❌ Impossible de générer les résumés après 3 tentatives")
         return
 
     # 3. Met à jour l'historique avec les news et mises à jour du jour
