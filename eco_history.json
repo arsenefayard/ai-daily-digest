@@ -1,15 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "titles": [
-      "Chute brutale des prix du pétrole et du gaz après déclarations de Trump",
-      "France reconduit la contribution exceptionnelle sur l'IS des grandes entreprises",
-      "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
-      "Impôts locaux en légère hausse en 2026 due à la faible inflation de 2025",
-      "Bitcoin repasse au-dessus de 70 000 dollars dans contexte de tensions géopolitiques"
-    ]
-  },
-  {
     "date": "13/03/2026",
     "titles": [
       "Pétrole dépasse les 100 dollars : escalade majeure de la crise iranienne",
@@ -69,6 +59,16 @@
       "France envisage de plafonner les marges des distributeurs de carburants",
       "Grèce annonce le plafonnement des marges sur les prix des carburants",
       "Téhéran soupçonné de financer ses proxys via les cryptomonnaies"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "Goldman Sachs relève ses prévisions de prix du pétrole Brent à 71$ et WTI à 67$ pour Q4 2026",
+      "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points, plombé par la volatilité pétrolière",
+      "Brent clôture au-dessus de 100 dollars pour la première fois depuis août 2022",
+      "Inditex (Zara) affiche une hausse de 3,2% de ses ventes à 39,9 milliards pour 2025/2026",
+      "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques"
     ]
   }
 ]
