@@ -261,7 +261,12 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
   animation:slideUp .3s cubic-bezier(.22,1,.36,1);
 }
 @keyframes slideUp { from{transform:translateY(100%)} to{transform:translateY(0)} }
-#ask-header { display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; }
+#ask-header {
+  display:flex; align-items:center; justify-content:space-between;
+  position:sticky; top:0; z-index:1; background:var(--card-bg);
+  padding-bottom:10px; margin-bottom:4px;
+  border-bottom:1px solid rgba(255,255,255,0.07);
+}
 #ask-context-label {
   font-family:'DM Mono',monospace; font-size:10px; letter-spacing:1px;
   color:var(--muted); text-transform:uppercase;
@@ -640,7 +645,7 @@ askSend.addEventListener('click', async () => {
       body: JSON.stringify({
         model: 'sonar',
         messages: [
-          { role: 'system', content: `Tu es un pédagogue expert. Réponds en français à la question posée sur cette actualité.\nContexte : ${_askCtx}\nFormat : sois clair et structuré, utilise des titres courts (## Titre) et du gras (**terme**) pour les points clés si la réponse s'y prête. Si la réponse est courte, reste concis en 2-3 phrases. N'inclus aucune référence bibliographique [1][2] ni URL.` },
+          { role: 'system', content: `Tu es un assistant concis. Réponds en français.\n- Pour une question simple (qui est X, qu'est-ce que Y, définition), réponds en 2-3 phrases maximum, pas de titres ni de listes.\n- Pour une question complexe qui demande vraiment une explication détaillée, structure avec des titres (## Titre) et du gras (**terme**).\nContexte de l'article : ${_askCtx}\nN'inclus jamais de références [1][2] ni d'URLs.` },
           { role: 'user', content: val }
         ],
         max_tokens: 400, temperature: 0.3
