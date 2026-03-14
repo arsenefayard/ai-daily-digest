@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -256,6 +256,8 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
   background:var(--card-bg); border:1px solid var(--border);
   border-radius:20px 20px 0 0; padding:20px 20px 24px;
   max-width:540px; width:100%;
+  max-height:calc(100vh - var(--header-h) - var(--footer-h) - 12px);
+  overflow-y:auto; -webkit-overflow-scrolling:touch;
   animation:slideUp .3s cubic-bezier(.22,1,.36,1);
 }
 @keyframes slideUp { from{transform:translateY(100%)} to{transform:translateY(0)} }
@@ -283,10 +285,20 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 }
 #ask-send:disabled { opacity:.4; cursor:default; }
 #ask-response {
-  display:none; margin-top:14px; font-size:13px; line-height:1.7;
+  display:none; margin-top:14px; font-size:13px; line-height:1.75;
   color:rgba(232,228,220,.82);
 }
 #ask-response.visible { display:block; }
+#ask-response p { margin:0 0 10px; }
+#ask-response p:last-child { margin-bottom:0; }
+#ask-response strong { color:rgba(232,228,220,1); font-weight:500; }
+#ask-response h4 {
+  font-family:'Fraunces',serif; font-size:14px; font-weight:600;
+  color:var(--accent); margin:12px 0 5px; letter-spacing:-.2px;
+}
+#ask-response ul { padding-left:18px; margin:4px 0 10px; }
+#ask-response li { margin-bottom:5px; }
+#ask-response em { color:var(--muted); font-style:normal; font-size:12px; }
 </style>
 </head>
 <body>
@@ -585,11 +597,41 @@ function openAsk(btn) {
   setTimeout(() => askInput.focus(), 320);
 }
 
+function formatAskResponse(text) {
+  text = text.replace(/\[\d+\]/g, '').trim();
+  text = text.replace(/^#{1,3}\s+(.+)$/gm, '<h4>$1</h4>');
+  text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  text = text.replace(/\*(.+?)\*/g, '<strong>$1</strong>');
+  const lines = text.split('\n');
+  const out = [];
+  let inList = false;
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) { if (inList) { out.push('</ul>'); inList = false; } out.push(''); continue; }
+    if (/^[-•*]\s+/.test(trimmed)) {
+      if (!inList) { out.push('<ul>'); inList = true; }
+      out.push('<li>' + trimmed.replace(/^[-•*]\s+/, '') + '</li>');
+    } else {
+      if (inList) { out.push('</ul>'); inList = false; }
+      out.push(trimmed);
+    }
+  }
+  if (inList) out.push('</ul>');
+  const blocks = out.join('\n').split(/\n{2,}/);
+  return blocks.map(b => {
+    b = b.trim();
+    if (!b) return '';
+    if (b.startsWith('<h4>') || b.startsWith('<ul>') || b.endsWith('</ul>')) return b;
+    if (b.includes('<ul>')) return b;
+    return '<p>' + b.replace(/\n/g, '<br>') + '</p>';
+  }).filter(Boolean).join('');
+}
+
 askSend.addEventListener('click', async () => {
   const val = askInput.value.trim();
   if (!val) return;
   askSend.disabled = true;
-  askResponse.textContent = '…';
+  askResponse.innerHTML = '<em>Chargement…</em>';
   askResponse.classList.add('visible');
   try {
     const r = await fetch('https://api.perplexity.ai/chat/completions', {
@@ -598,15 +640,16 @@ askSend.addEventListener('click', async () => {
       body: JSON.stringify({
         model: 'sonar',
         messages: [
-          { role: 'system', content: `Tu es un assistant concis qui aide à comprendre des actualités. Contexte de l'article : ${_askCtx}. Réponds en français, de façon claire et structurée en 3 phrases maximum.` },
+          { role: 'system', content: `Tu es un pédagogue expert. Réponds en français à la question posée sur cette actualité.\nContexte : ${_askCtx}\nFormat : sois clair et structuré, utilise des titres courts (## Titre) et du gras (**terme**) pour les points clés si la réponse s'y prête. Si la réponse est courte, reste concis en 2-3 phrases. N'inclus aucune référence bibliographique [1][2] ni URL.` },
           { role: 'user', content: val }
         ],
-        max_tokens: 250, temperature: 0.3
+        max_tokens: 400, temperature: 0.3
       })
     });
     const data = await r.json();
-    askResponse.textContent = data.choices?.[0]?.message?.content || 'Pas de réponse.';
-  } catch { askResponse.textContent = 'Erreur de connexion.'; }
+    const raw = data.choices?.[0]?.message?.content || 'Pas de réponse.';
+    askResponse.innerHTML = formatAskResponse(raw);
+  } catch { askResponse.innerHTML = '<em>Erreur de connexion.</em>'; }
   askSend.disabled = false;
 });
 
