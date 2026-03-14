@@ -2,42 +2,42 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
-      "summary": "Le président américain Donald Trump a tenu une rencontre avec Xi Jinping pour aborder les questions commerciales et de sécurité en Asie-Pacifique. Cette réunion met en lumière la rivalité stratégique entre Washington et Pékin au milieu des tensions mondiales. Elle souligne aussi la nécessité d'une coopération minimale pour prévenir une escalade militaire ou économique. Géopolitiquement, cela pourrait influencer les alliances en Indo-Pacifique et les chaînes d'approvisionnement mondiales.",
-      "why": "Cette rencontre bilatérale majeure pourrait moduler les tensions sino-américaines et impacter les dynamiques commerciales mondiales au-delà du Moyen-Orient.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Ursula von der Leyen en visite au Groenland pour partenariats énergétiques et climatiques",
-      "summary": "La présidente de la Commission européenne s'est rendue au Groenland pour renforcer les liens en matière d'énergie et de climat. L'Arctique émerge comme un nouveau théâtre géopolitique avec des enjeux environnementaux croisés aux ambitions économiques sur les ressources. Cette initiative vise à diversifier les approvisionnements européens face aux crises pétrolières. Elle positionne l'UE dans la compétition arctique face à la Russie, la Chine et les États-Unis.",
-      "why": "L'Arctique devient crucial pour l'énergie et les routes maritimes, rendant cette coopération stratégique pour la sécurité énergétique européenne.",
-      "category": "Énergie"
+      "title": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
+      "summary": "Israël a poursuivi et intensifié ses bombardements sur Téhéran, ciblant des centres de commandement des Gardiens de la Révolution, et étendu ses opérations au Liban en riposte aux attaques du Hezbollah suite à la mort présumée de l'Ayatollah Khamenei. Ces actions surviennent malgré les appels à la retenue de Donald Trump, qui priorise l'empêchement du programme nucléaire iranien. La crise s'aggrave avec des ripostes iraniennes par missiles et drones contre Israël et les bases US dans le Golfe, perturbant les infrastructures comme l'aéroport de Dubaï. Géopolitiquement, cela risque une escalade régionale impliquant le Hezbollah et potentiellement d'autres proxies iraniens, menaçant la stabilité du Moyen-Orient.",
+      "why": "Cette extension des frappes marque une défiance vis-à-vis des USA et pourrait entraîner une guerre plus large, affectant les routes énergétiques vitales.",
+      "category": "Conflit"
     },
     {
       "title": "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
-      "summary": "Le président brésilien Lula a révélé un engagement dans la production d'armes avec l'Afrique du Sud, craignant des actions américaines via le classement de gangs comme terroristes. Le Brésil, dépensant seulement 1,1% de son PIB en défense, cherche à contrer l'hégémonie US en Amérique latine. Cette alliance sud-sud renforce les pays émergents contre l'unilatéralisme occidental. Elle pourrait altérer les équilibres sécuritaires dans l'hémisphère sud.",
-      "why": "Cette alliance militaire marque un pivot géopolitique des BRICS contre l'influence américaine en Amérique du Sud.",
+      "summary": "Le président brésilien Lula a révélé un partenariat pour la production d'armes avec l'Afrique du Sud, motivé par les craintes d'actions US sur le sol brésilien après la classification de gangs locaux comme terroristes. Avec un budget défense limité à 1,1% du PIB, le Brésil cherche à renforcer sa souveraineté face à Washington. Cette alliance s'inscrit dans un mouvement des pays émergents contre l'hégémonie américaine au milieu des tensions au Moyen-Orient. Les implications incluent une polarisation accrue Sud-Sud, potentiellement affaiblissant l'influence US en Amérique latine et en Afrique.",
+      "why": "Cela signale une réorganisation des alliances globales, challengeant l'unilatéralisme US dans un contexte de crises multiples.",
       "category": "Sécurité"
     },
     {
-      "title": "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
-      "summary": "L'Union européenne approfondit ses liens avec l'Azerbaïdjan pour la sécurité et les approvisionnements énergétiques, diversifiant ainsi ses sources face à la crise iranienne. Bakou devient un pivot pour le gaz et le pétrole vers l'Europe via le corridor sud. Cette coopération inclut des aspects sécuritaires contre les menaces régionales. Elle atténue la dépendance russe et iranienne dans un contexte de tensions au Moyen-Orient.",
-      "why": "Essentielle pour la sécurité énergétique européenne, cette alliance contrebalance les disruptions au Golfe Persique.",
+      "title": "Crise au Qatar : usine de GNL de Ras Laffan à l'arrêt, impact sur l'approvisionnement mondial en hélium",
+      "summary": "Une attaque de drones a paralysé l'usine de GNL de Ras Laffan au Qatar, qui fournit un tiers de l'hélium mondial essentiel aux semi-conducteurs. Les fabricants de puces s'inquiètent de perturbations dans leurs chaînes d'approvisionnement critiques. Cette mise à l'arrêt s'ajoute à la guerre au Moyen-Orient, avec le Qatar émettant des mises en garde. Géopolitiquement, cela menace l'industrie tech mondiale, particulièrement en Asie et aux USA, et renforce la vulnérabilité des supply chains face aux conflits énergétiques.",
+      "why": "L'hélium est irremplaçable à court terme pour l'électronique, risquant une crise industrielle mondiale amplifiée par la tension Iran-Golfe.",
       "category": "Énergie"
     },
     {
-      "title": "Macron s'oppose à la levée des sanctions contre la Russie",
-      "summary": "Le président français Emmanuel Macron a rejeté fermement toute levée des sanctions contre la Russie, malgré les pressions pour stabiliser les marchés énergétiques. Cette position maintient la pression sur Moscou au milieu de la guerre en Ukraine et des crises globales. Elle reflète les divergences intra-européennes sur la Russie. Géopolitiquement, elle solidifie le front occidental contre l'agression russe.",
-      "why": "Renforce la cohésion européenne face à la Russie et impacte les négociations énergétiques mondiales.",
+      "title": "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
+      "summary": "Donald Trump s'est entretenu avec Xi Jinping pour discuter commerce et sécurité, dans un contexte de tensions au Moyen-Orient et de risques sur les approvisionnements pétroliers chinois. Les échanges visent à stabiliser les relations bilatérales malgré les frappes US en Iran. La Chine, dépendante du pétrole iranien, craint des pertes d'approvisionnement. Cela pourrait mener à des ajustements commerciaux ou à une médiation chinoise, influençant les dynamiques USA-Chine face aux crises globales.",
+      "why": "Cette rencontre est cruciale pour éviter une escalade économique sino-américaine sur fond de chaos pétrolier.",
       "category": "Diplomatie"
+    },
+    {
+      "title": "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
+      "summary": "L'Union européenne approfondit ses liens avec l'Azerbaïdjan en matière de sécurité et d'énergie, diversifiant ses sources face à la crise iranienne et aux sanctions russes. Cette coopération inclut des accords sur le gaz et la défense régionale. Bakou gagne en influence comme pivot énergétique eurasiatique. Géopolitiquement, cela réduit la dépendance UE à la Russie et au Moyen-Orient instable, renforçant la résilience européenne.",
+      "why": "Dans le chaos Ormuz, l'Azerbaïdjan devient un atout stratégique pour l'énergie UE, altérant les équilibres Caspienne.",
+      "category": "Énergie"
     }
   ],
   "updates": [
     {
-      "title": "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave",
-      "original": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
-      "summary": "Téhéran a accru ses frappes dans le Golfe, visant à pressurer les pays du Golfe pour rompre leurs liens avec les USA et perturber les exportations pétrolières. La stratégie iranienne vise à mettre en faillite les économies du Golfe via la crise d'Ormuz. Trump menace de conséquences militaires massives si des mines sont posées. Cela prolonge l'escalade au 13e jour de conflit.",
-      "why": "Cette intensification militaire risque de bloquer les flux pétroliers mondiaux, amplifiant la volatilité économique globale.",
+      "title": "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave avec ciblage des pays du Golfe",
+      "original": "Iran intensifie ses frappes dans le Golfe tandis que la crise d'Ormouz s'aggrave",
+      "summary": "L'Iran cible spécifiquement les pays du Golfe avec missiles et drones pour les mettre en faillite et les pousser à rompre avec les USA, bloquant partiellement Ormuz. Cela perturbe l'approvisionnement pétrolier mondial et provoque des spéculations sur les exportations. Téhéran menace explicitement les exportations de pétrole en réponse aux destructions US de navires pose-mines. La stratégie vise à isoler les alliés US dans la région.",
+      "why": "Cette escalade économique force une réévaluation des alliances Golfo-US et amplifie la crise énergétique globale.",
       "category": "Conflit"
     }
   ]
