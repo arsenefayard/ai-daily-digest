@@ -2,34 +2,34 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "Nouvelle méthode pour mesurer l'expansion de l'Univers résolvant la tension de Hubble",
-      "summary": "Des astronomes ont développé une méthode innovante pour mesurer le taux d'expansion de l'Univers, appelée constante de Hubble, qui résout la 'tension de Hubble' – une discrepancy entre mesures locales et cosmologiques. Cette approche combine observations de supernovae et de lentilles gravitationnelles pour une précision accrue. Les résultats, publiés le 12 mars 2026, valident un modèle unifié de l'Univers. Cela pourrait redéfinir notre compréhension de l'énergie sombre et de la géométrie cosmique.",
-      "why": "Cette avancée clarifie un des plus grands paradoxes de la cosmologie moderne, potentiellement révolutionnant les modèles du Big Bang et des futures missions spatiales.",
+      "title": "SuperCam détecte carbonates dans roches martiennes riches en olivines",
+      "summary": "L'instrument français SuperCam du rover Perseverance a identifié des carbonates dans des roches contenant des olivines sur la bordure du delta de Jezero en 2024. Ces minéraux riches en carbone résultent d'altérations par de l'eau en contact avec une atmosphère contenant du CO2. Cela témoigne d'interactions chimiques propices à la vie microbienne passée. Les données renforcent l'hypothèse d'un environnement habitable ancien sur Mars.",
+      "why": "Cette découverte fournit des preuves directes d'activité hydratée et carbonatée, affinant les modèles d'habitabilité martienne.",
       "category": "Espace"
     },
     {
-      "title": "Découverte d'une cellule visuelle unique chez les poissons des abysses",
-      "summary": "Une cellule rétinienne inédite a été identifiée chez des poissons abyssaux, capable de détecter des niveaux de lumière extrêmement faibles grâce à une structure moléculaire unique. Publiée le 11 mars 2026, cette découverte repose sur des analyses génétiques et optiques de spécimens profonds. Elle explique l'adaptation visuelle aux environnements sans lumière. Les implications touchent la biologie évolutive et les technologies d'imagerie nocturne.",
-      "why": "Cela ouvre des voies pour des capteurs optiques ultra-sensibles inspirés de la nature, utiles en médecine et exploration sous-marine.",
+      "title": "SuperCam confirme silice précipitée par fluides hydrothermaux sur Mars",
+      "summary": "En février 2025, SuperCam a analysé des roches riches en silice sur la bordure du cratère Jezero via spectrométrie RAMAN. Ces silices, incluant opale, calcédoine et quartz cristallisé, se sont formées par précipitation lors de changements de pression et température dans des fluides hydrothermaux. Cela indique une circulation souterraine d'eau chaude passée. Les processus géologiques rappellent ceux de la Terre.",
+      "why": "Elle révèle une hydrologie martienne complexe similaire à la terrestre, avec implications pour la recherche de vie fossile.",
+      "category": "Espace"
+    },
+    {
+      "title": "Détection de décharges électrostatiques par micro de SuperCam dans poussières martiennes",
+      "summary": "En 2025, le microphone de SuperCam a capté des sons de décharges électrostatiques dues au frottement de grains dans un nuage de poussière martien. Ce phénomène confirme les microrcharges électrostatiques dans l'air sec de Mars. Il peut accélérer les réactions chimiques atmosphériques. Cela éclaire la chimie martienne et les phénomènes comme les tourbillons de poussière.",
+      "why": "Première preuve acoustique directe, impactant la compréhension des dynamiques atmosphériques et chimiques sur Mars.",
+      "category": "Espace"
+    },
+    {
+      "title": "Corbeaux mémorisent territoires de chasse des loups pour obtenir nourriture",
+      "summary": "Une étude publiée dans Science le 12 mars 2026 montre que les corbeaux utilisent une mémoire spatiale sophistiquée pour suivre les territoires de chasse des loups. Ils anticipent les carcasses abandonnées pour s'alimenter. Cela démontre des capacités cognitives avancées de navigation chez les corvidés. Les observations combinent suivi GPS et analyses comportementales.",
+      "why": "Révélation d'intelligence sociale inter-espèces, repoussant les limites de la cognition aviaire.",
       "category": "Biologie"
     },
     {
-      "title": "Phobos, lune de Mars, destinée à une destruction plus rapide que prévu",
-      "summary": "Des simulations orbitales récentes montrent que Phobos s'approchera de Mars plus vite que estimé, menant à sa désintégration en anneau de débris d'ici 10-20 millions d'années. Annoncée le 10 mars 2026, l'étude intègre des données de sondes passées et modélisations gravitationnelles. Cela contredit les prévisions antérieures de 30-50 millions d'années. Les débris pourraient influencer l'atmosphère martienne.",
-      "why": "Cette révision accélérée impacte les plans de missions futures vers Mars et notre modèle de dynamique lunaire.",
+      "title": "Nasa vise lancement Artemis 2 le 1er avril 2026",
+      "summary": "Le 12 mars 2026, la Nasa a annoncé viser un lancement d'Artemis 2 dès le 1er avril, avec un vol habité autour de la Lune. Première mission humaine lunaire en plus de 50 ans, après reports techniques. L'équipage testera le vaisseau Orion en conditions réelles. Cela pave la voie pour Artemis 3 et retours humains sur la Lune.",
+      "why": "Avancée majeure dans l'exploration lunaire, accélérant les plans pour bases lunaires durables.",
       "category": "Espace"
-    },
-    {
-      "title": "Détection de décharges électriques dans les tourbillons de poussière sur Mars",
-      "summary": "Les microphones de Perseverance ont capturé des décharges électriques générées par des tourbillons de poussière dans l'atmosphère martienne sèche. Publiée récemment, cette première détection confirme des phénomènes électrostatiques naturels. Elle éclaire les tempêtes de poussière et le mystère des fluctuations de méthane. Les données suggèrent une activité atmosphérique plus dynamique que prévu.",
-      "why": "Cela révolutionne la compréhension du climat martien, aidant à la conception de futures bases humaines.",
-      "category": "Espace"
-    },
-    {
-      "title": "Un ancêtre géant du T. rex découvert au Nouveau-Mexique",
-      "summary": "Un tibia fossile de 74 millions d'années révèle un tyrannosaure géant, proche parent du T. rex, plus massif que les spécimens connus. Annoncé le 12 mars 2026, l'analyse morphologique indique une évolution précoce des tyrannosauridés en Amérique du Nord. La découverte comble un vide dans l'arbre phylogénétique des dinosaures. Elle suggère une diversification rapide avant l'extinction Crétacé-Tertiaire.",
-      "why": "Cette trouvaille réécrit l'histoire évolutive des prédateurs apex, influençant les modèles paléontologiques globaux.",
-      "category": "Biologie"
     }
   ],
   "updates": []
