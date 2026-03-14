@@ -1,44 +1,36 @@
 {
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "news": [
     {
-      "title": "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations",
-      "summary": "La France affronte l'Angleterre demain au Stade de France dans un match décisif du Tournoi des 6 Nations 2026. Cette rencontre représente l'occasion pour les Bleus de remporter le titre après une campagne impressionnante. L'enjeu est majeur pour les deux équipes qui visent la victoire finale du tournoi. Les supporters français attendent une performance de haut niveau face aux Anglais.",
-      "why": "C'est le match décisif du Tournoi des 6 Nations avec des implications directes sur le titre final et le prestige international du rugby français.",
+      "title": "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
+      "summary": "Les Bleus ont dominé l'Angleterre 28-20 au Stade de France ce soir dans le match décisif du Tournoi des 6 Nations. Avec des essais de Ramos et Jalibert, la France sécurise une 28e victoire historique dans la compétition. Ce succès confirme la suprématie des Bleus après une campagne solide. Les supporters célèbrent un back-to-back après le titre précédent.",
+      "why": "Ce triomphe propulse la France au sommet du rugby européen et renforce la dynamique pour les prochaines compétitions internationales.",
       "category": "Rugby"
     },
     {
-      "title": "Grand Prix de Chine F1 : Verstappen en pole position pour défendre son leadership à Shanghai",
-      "summary": "Max Verstappen a décroché la pole position pour le Grand Prix de Chine qui se dispute demain à Shanghai. Le leader du championnat vise à consolider son avance au classement général en remportant cette épreuve majeure. Les conditions de piste à Shanghai promettent un spectacle intense avec les meilleurs pilotes du monde. Cette course est cruciale pour la hiérarchie du championnat 2026.",
-      "why": "C'est une course clé du calendrier F1 où Verstappen peut augmenter son avance au championnat face à ses concurrents directs.",
-      "category": "F1"
-    },
-    {
-      "title": "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
-      "summary": "Le Masters 1000 d'Indian Wells entre dans sa phase décisive avec les quarts de finale qui se profilent. Le tournoi a déjà livré plusieurs surprises dans les tableaux ATP et WTA avec l'élimination de certains favoris. Les meilleurs joueurs mondiaux se battent pour une place en demi-finales et une chance de remporter ce titre prestigieux. Les enjeux sont importants pour le classement ATP et WTA.",
-      "why": "Indian Wells est l'un des Masters 1000 les plus importants et les surprises du tournoi impactent directement le classement mondial du tennis.",
+      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales après victoires convaincantes",
+      "summary": "Carlos Alcaraz a écarté Sinner en quarts de finale tandis que Iga Swiatek a dominé Gauff dans le tableau féminin à Indian Wells. Les deux stars confirment leur forme exceptionnelle dans ce Masters 1000. Les demi-finales promettent des chocs intenses dès demain. Des surprises persistent avec des outsiders en lice.",
+      "why": "Ces avancées des favoris intensifient la course aux titres et influencent les classements ATP/WTA avant les tournois sur terre battue.",
       "category": "Tennis"
     },
     {
-      "title": "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
-      "summary": "La 26ème journée de Ligue 1 se profile ce week-end avec des enjeux décisifs pour la course au titre et les places européennes. Les clubs en tête du classement vont se battre pour consolider leurs positions respectives. La bataille pour le podium s'intensifie avec plusieurs équipes en lice pour les places qualificatives en Ligue des Champions. Ce week-end sera déterminant pour la suite de la saison.",
-      "why": "Cette journée est cruciale pour la hiérarchie finale du championnat avec des implications directes sur les qualifications européennes.",
+      "title": "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
+      "summary": "Le PSG a remporté un large succès 4-0 contre Monaco lors de la 26e journée de Ligue 1, avec un doublé de Mbappé. Cette victoire porte les Parisiens à +8 points sur leurs poursuivants. La course au podium s'emballe entre Marseille et Lyon. Les enjeux du maintien deviennent critiques pour plusieurs équipes.",
+      "why": "Ce résultat consolide la domination du PSG et oriente la fin de saison vers un probable titre anticipé.",
       "category": "Football"
     },
     {
-      "title": "Betclic Elite J22 : La course au titre s'intensifie en basketball français ce week-end",
-      "summary": "La 22ème journée de Betclic Elite se dispute ce week-end avec une course au titre qui s'intensifie entre les meilleures équipes françaises. Les clubs en tête du classement vont affronter des adversaires directs dans des matchs décisifs. La compétition pour les places qualificatives en playoffs s'accélère avec plusieurs équipes en lice. Ce week-end sera déterminant pour la suite de la saison de basketball français.",
-      "why": "C'est une journée clé de la saison régulière où les résultats impactent directement la course au titre et les qualifications aux playoffs.",
+      "title": "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
+      "summary": "Monaco a battu Nanterre dans un match clé de la 22e journée de Betclic Elite, s'emparant de la première place. Paris Basketball suit de près après une victoire solide. La lutte pour les playoffs s'intensifie avec des résultats serrés. Les favoris confirment leur statut en cette fin de saison régulière.",
+      "why": "Ce changement en tête relance la compétition et définit les positions pour les phases finales du championnat français.",
       "category": "Basketball"
+    },
+    {
+      "title": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance au championnat",
+      "summary": "Max Verstappen a remporté le Grand Prix de Chine à Shanghai, devançant Leclerc et Norris. Sa pole position s'est muée en victoire dominante malgré la pression de Ferrari. Les points au championnat pilotes s'élargissent pour le Néerlandais. McLaren montre des progrès notables en course.",
+      "why": "Cette performance renforce la position de Verstappen dans la course au titre et met la pression sur ses rivaux précoces dans la saison.",
+      "category": "F1"
     }
   ],
-  "updates": [
-    {
-      "title": "Real Madrid vs Manchester City LdC : City domine 3-1 sans Mbappé",
-      "original": "Real Madrid vs Manchester City : Mbappé déclare forfait pour le choc décisif",
-      "summary": "Manchester City a finalement dominé le Real Madrid 3-1 lors du match aller des huitièmes de finale de la Ligue des Champions, malgré l'absence de Kylian Mbappé côté madrilène. L'absence du buteur français a clairement impacté les capacités offensives du Real Madrid face à une City en grande forme. Cette victoire donne un avantage considérable à Manchester City avant le match retour. Le Real Madrid devra réagir fortement au retour pour espérer se qualifier.",
-      "why": "Cette victoire majeure de City change complètement la dynamique de cette double confrontation et place les Anglais en position de force pour la qualification.",
-      "category": "Football"
-    }
-  ]
+  "updates": []
 }
