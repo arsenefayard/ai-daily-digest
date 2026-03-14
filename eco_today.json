@@ -2,34 +2,34 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "Goldman Sachs relève ses prévisions de prix du pétrole Brent à 71$ et WTI à 67$ pour Q4 2026",
-      "summary": "Goldman Sachs a ajusté à la hausse ses prévisions pour les prix du pétrole brut Brent et WTI au quatrième trimestre 2026, à respectivement 71 dollars et 67 dollars le baril. Cette révision s'explique par des risques persistants de perturbations dans le détroit d'Ormuz dus au conflit entre États-Unis, Israël et Iran. Les prix approchent déjà les 100 dollars suite à l'arrêt des ports pétroliers irakiens. L'AIE avertit d'une possible forte baisse de la production pétrolière du Golfe en mars 2026.",
-      "why": "Ces prévisions renforcent les craintes d'inflation mondiale persistante et impactent les marges des entreprises énergivores ainsi que les politiques monétaires des banques centrales.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points, plombé par la volatilité pétrolière",
-      "summary": "Le CAC 40 a chuté de 1,54% sur la semaine, terminant à 8 041,81 points après des fluctuations liées aux cours du pétrole atteignant près de 120 dollars le baril. STMicroelectronics (+5%) et TotalEnergies (+4,7%) ont performé, tandis que Stellantis (-8,1%) et ArcelorMittal (-7,7%) ont dévisé. Le conflit au Moyen-Orient et la fermeture du détroit d'Ormuz alimentent l'incertitude. Les bourses internationales restent sous pression géopolitique.",
-      "why": "Cette volatilité boursière reflète les risques systémiques pour les marchés actions européens face aux chocs énergétiques.",
+      "title": "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points sous l'effet de la volatilité pétrolière",
+      "summary": "Le CAC 40 a connu une semaine en dents de scie avec des pertes cumulées de 1,54%, clôturant à 8 041,81 points, plombé par les fluctuations des cours du pétrole dues au conflit au Moyen-Orient. Les cours du Brent ont frôlé les 120 dollars le baril lundi en raison du blocage du détroit d'Ormuz par l'Iran. STMicroelectronics a gagné 5% et TotalEnergies 4,7%, tandis que Stellantis a chuté de 8,1% et ArcelorMittal de 7,7%. Cette volatilité reflète l'incertitude géopolitique impactant les marchés européens.",
+      "why": "La baisse du CAC 40 illustre l'impact direct du conflit iranien sur les indices boursiers européens, augmentant les risques d'inflation et freinant la confiance des investisseurs.",
       "category": "Marchés"
-    },
-    {
-      "title": "Brent clôture au-dessus de 100 dollars pour la première fois depuis août 2022",
-      "summary": "Le baril de Brent a dépassé les 100 dollars, clôturant au-dessus de ce seuil pour la première fois depuis août 2022, suite à la fermeture maintenue du détroit d'Ormuz. Le dollar atteint de nouveaux sommets 2026, pénalisant l'euro. Les perturbations maritimes menacent les flux énergétiques mondiaux. Scott Bessent, Secrétaire au Trésor US, annonce une escorte militaire des navires dès que possible.",
-      "why": "Ce franchissement marque un pic inflationniste majeur, forçant les banques centrales à réévaluer leurs trajectoires de taux.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Inditex (Zara) affiche une hausse de 3,2% de ses ventes à 39,9 milliards pour 2025/2026",
-      "summary": "Inditex, propriétaire de Zara, a publié des ventes en hausse de 3,2% à 39,9 milliards d'euros pour l'exercice clos fin janvier 2026. Cette performance résiste malgré le contexte géopolitique tendu et les tensions commerciales. L'optimisme des marchés européens retombe au 12e jour du conflit iranien. Les investisseurs surveillent l'impact sur la consommation discrétionnaire.",
-      "why": "Cette résilience dans le retail contraste avec la crise sectorielle et soutient la confiance dans la consommation mondiale.",
-      "category": "Entreprises"
     },
     {
       "title": "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques",
-      "summary": "L'administration Trump a initié le 11 mars de vastes enquêtes commerciales visant de nombreux pays partenaires pour rétablir la pression tarifaire. Cela suit l'annulation judiciaire des droits de douane précédents. Les estimations évoquent des remboursements potentiels de 175 milliards de dollars à plus de 1 500 entreprises. FedEx mène les recours judiciaires.",
-      "why": "Ces enquêtes relancent les tensions commerciales mondiales, risquant de perturber les chaînes d'approvisionnement et la croissance.",
+      "summary": "L'administration Trump a initié le 11 mars de nouvelles enquêtes commerciales visant de nombreux pays partenaires, après l'annulation judiciaire de ses outils tarifaires précédents. Cette mesure vise à rétablir une pression tarifaire mondiale, dans un contexte de tensions accrues. Elle s'ajoute aux droits de douane de 15% déjà instaurés, exposant les entreprises à des risques de remboursements estimés à 175 milliards de dollars. Plus de 1 500 sociétés, dont FedEx, ont saisi la justice.",
+      "why": "Ces enquêtes relancent les tensions commerciales mondiales, menaçant la croissance et les chaînes d'approvisionnement internationales.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "AIE avertit d'une forte baisse de la production pétrolière du Golfe due aux perturbations dans le détroit d'Ormuz",
+      "summary": "L'Agence internationale de l'énergie a signalé le 12 mars que les perturbations maritimes dans le détroit d'Ormuz, causées par le conflit Moyen-Orient, pourraient entraîner une chute significative de la production pétrolière du Golfe en mars 2026. Les prix du pétrole ont approché les 100 dollars après l'arrêt des ports pétroliers irakiens. Goldman Sachs estime qu'une fermeture de quatre semaines pourrait ajouter 15 dollars au baril. L'AIE a libéré 400 millions de barils de réserves stratégiques pour stabiliser les prix.",
+      "why": "Cette menace pèse sur l'offre mondiale d'énergie, risquant une inflation persistante et un ralentissement économique global.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Faiblesse de la dynamique du crédit en Chine en février renforce les doutes sur la reprise économique",
+      "summary": "Les données chinoises de février montrent une faiblesse persistante de la croissance du crédit, alimentant les interrogations sur la demande intérieure et l'efficacité des mesures de relance. Cela impacte les perspectives pour les marchés des métaux industriels, de l'énergie et des actions cycliques. Les investisseurs surveillent les rapports d'entreprises comme AVIC et Yonyou Network pour évaluer la reprise industrielle. Une impulsion faible du crédit pourrait entraîner une prudence accrue sur les actifs émergents.",
+      "why": "La Chine, locomotive économique mondiale, voit sa reprise fragilisée, affectant les matières premières et les exportateurs globaux.",
       "category": "Marchés"
+    },
+    {
+      "title": "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité en ligne",
+      "summary": "Google a été condamné le 12 mars à 23 millions d'euros par une juridiction européenne pour abus de position dominante dans la publicité numérique. Cette décision crée une onde de choc dans le secteur technologique, accentuant la pression réglementaire sur les géants du numérique. Elle intervient dans un contexte de volatilité accrue due aux tensions géopolitiques. Les marchés tech pourraient voir leurs valorisations impactées par des enquêtes similaires.",
+      "why": "Cette amende renforce la régulation antitrust en Europe, potentiellement freinant la croissance des revenus publicitaires des Big Tech.",
+      "category": "Entreprises"
     }
   ],
   "updates": []
