@@ -2,33 +2,33 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "La tapisserie de la reine Mathilde : le plus grand récit illustré du Moyen Âge",
-      "summary": "Commandée vers 1070 pour célébrer la conquête normande de l'Angleterre, cette broderie de 70 mètres relate en 58 scènes la bataille d'Hastings et les événements précédents. Réalisée par des artisans anglo-saxons sous la direction probable de la reine Mathilde, elle mélange histoire et légende avec un style narratif proche de la bande dessinée moderne. Exposée aujourd'hui au musée de Bayeux, elle offre un témoignage unique sur les techniques textiles et l'iconographie médiévale. Son anonymat des créateurs ajoute au mystère de cette œuvre collective exceptionnelle.",
-      "why": "Elle révèle comment les femmes nobles influençaient la mémoire historique au XIe siècle, transformant un événement guerrier en fresque visuelle intemporelle.",
+      "title": "La tapisserie de la reine Sébile : l'histoire oubliée des croisades en bande dessinée médiévale",
+      "summary": "La tapisserie de la reine Sébile, tissée au XIIIe siècle, relate les aventures de Charlemagne et ses preux lors de la croisade contre les Sarrasins. Longue de 70 mètres et composée de 72 panneaux, elle mélange épopée chevaleresque et illustrations vivantes comme une bande dessinée antique. Exposée autrefois à Reims, elle fut détruite lors de la Révolution française, ne laissant que des fragments et descriptions. Ce chef-d'œuvre textile révèle comment les récits épiques étaient diffusés auprès des illettrés au Moyen Âge.",
+      "why": "Elle montre l'importance des arts narratifs populaires dans la transmission de l'histoire médiévale, bien au-delà de Bayeux.",
       "category": "Histoire"
     },
     {
-      "title": "Le pont de Gödel : quand les mathématiques prouvent leur propre incomplétude",
-      "summary": "En 1931, Kurt Gödel démontre que tout système axiomatique cohérent contient des propositions vraies mais indémontrables, brisant l'espoir d'une mathématique totale. Ce théorème d'incomplétude ébranle les fondations posées par Hilbert et révèle les limites intrinsèques de la logique formelle. Il influence la philosophie des sciences en montrant que la vérité mathématique dépasse la preuve mécanique. Gödel utilisa un encodage ingénieux pour 'numéroter' les preuves, anticipant l'informatique théorique.",
-      "why": "Ce résultat fondamental explique pourquoi l'intelligence artificielle ne pourra jamais tout prouver, redéfinissant notre compréhension de la connaissance absolue.",
+      "title": "Le paradoxe de Zénon d'Élée : Achille ne rattrape jamais la tortue",
+      "summary": "Zénon d'Élée, philosophe présocratique du Ve siècle av. J.-C., défia les mathématiciens avec des paradoxes sur le mouvement. Dans celui d'Achille et la tortue, le héros, même plus rapide, ne peut jamais la dépasser car il doit d'abord atteindre son point précédent, divisant infiniment l'espace. Ces énigmes questionnaient la réalité du mouvement et la divisibilité de l'espace. Résolus plus tard par les limites et le calcul infinitésimal de Newton et Leibniz.",
+      "why": "Ce paradoxe fondateur a stimulé les avancées en mathématiques et philosophie du mouvement.",
       "category": "Philosophie"
     },
     {
-      "title": "Fantasmagorie d'Émile Cohl : la naissance du cinéma d'animation en 1908",
-      "summary": "Ce court-métrage de 2 minutes, sorti le 17 août 1908, est reconnu comme le premier film d'animation de l'histoire par l'utilisation exclusive de dessins animés image par image. Cohl y dépeint un monde onirique où un bâtonnet se transforme en créatures fantastiques, préfigurant les principes du dessin animé moderne. Produit avec plus de 700 dessins sur papier translucide, il marque la transition du théâtre d'ombres à l'animation cinématographique. Restauré aujourd'hui, il émerveille par sa fluidité inventive malgré la technologie primitive.",
-      "why": "Il pose les bases créatives de Disney et Pixar, démontrant comment un pionnier français a inventé un art qui domine la culture mondiale.",
+      "title": "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
+      "summary": "Georges Méliès réalisa 'Le Voyage dans la Lune' en 1902, premier film de science-fiction avec fusée dans l'œil de la lune. Utilisant stop-motion, superpositions et décors peints, il inventa des effets spéciaux encore utilisés. Inspiré par Jules Verne et H.G. Wells, le film dura 14 minutes et connut un succès mondial. Restauré en 2011 avec bande-son, il reste un trésor du cinéma muet.",
+      "why": "Il marque la naissance des effets visuels et de la SF au cinéma, influençant Hollywood.",
       "category": "Cinéma"
     },
     {
-      "title": "L'origine péruvienne de la quinine : le remède qui ouvrit l'Amazonie aux Européens",
-      "summary": "Extraite de l'écorce de l'arbre de quina au XVIIe siècle par les Jésuites au Pérou, la quinine révolutionne le traitement du paludisme, maladie qui freinait l'expansion coloniale. Les Incas l'utilisaient déjà contre les fièvres, mais son exportation vers l'Europe sauve des millions de vies et permet l'exploration africaine. En 1820, Pelletier et Caventou en isolent l'alcaloïde pur, fondant la chimie des médicaments. Aujourd'hui synthétisée, elle reste essentielle contre le paludisme résistant.",
-      "why": "Ce savoir autochtone a transformé la médecine mondiale et l'histoire des empires, illustrant les apports croisés des cultures.",
+      "title": "L'effet photoélectrique : Einstein et la naissance des quanta de lumière",
+      "summary": "Expliqué par Einstein en 1905, l'effet photoélectrique montre que la lumière éjecte des électrons des métaux seulement au-dessus d'une fréquence seuil, indépendamment de l'intensité. Cela prouva la nature corpusculaire de la lumière en quanta appelés photons. Prix Nobel 1921 pour Einstein, cette découverte fonda la mécanique quantique. Applications : cellules solaires et photodétecteurs modernes.",
+      "why": "Décisive pour l'énergie solaire et les technologies quantiques actuelles.",
       "category": "Science pop"
     },
     {
-      "title": "Randy Gardner et le record du monde d'insomnie : 11 jours sans sommeil en 1964",
-      "summary": "À 17 ans, l'Américain Randy Gardner reste éveillé 264 heures (11 jours et 25 minutes) sous supervision médicale, battant tout record vérifié. Durant l'expérience, il souffre de paranoïa, hallucinations et troubles cognitifs, soulignant les limites physiologiques du cerveau. Suivi par le chercheur Dement, cet exploit révèle l'importance du sommeil paradoxal pour la mémoire. À 70 ans, Gardner mène une vie normale mais met en garde contre la privation de sommeil chronique.",
-      "why": "Cette prouesse humaine met en lumière les dangers du manque de repos, expliquant des phénomènes modernes comme la fatigue sociétale.",
+      "title": "La plus longue langue humaine mesurée : 10,1 cm chez un Britannique",
+      "summary": "En 1998, le Guinness des records a mesuré la langue de Nick Stoeberl à 10,1 cm du bord à la pointe, record actuel. Cette anomalie génétique lui permet des prouesses comme lécher son cou. Autre record : Chanel Tapper roule sa langue en 3 tours. Ces curiosités illustrent la variabilité humaine extrême.",
+      "why": "Rappelle les limites biologiques fascinantes du corps humain.",
       "category": "Insolite"
     }
   ],
