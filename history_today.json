@@ -3,31 +3,35 @@
   "subject": {
     "name": "Bataille de Montiel",
     "type": "Bataille",
-    "period": "1369 · Guerre de Cent Ans",
-    "context": "Au cœur de la première guerre civile castillane, Pierre Ier le Cruel, allié des Anglais, affronte son demi-frère Henri de Trastamare soutenu par la France et la Castille. Bertrand du Guesclin, connétable de France, mène une coalition franco-castillane contre une alliance pro-anglaise portugaise et castillane. La bataille se déroule dans une plaine aride près de Montiel, au sud-est de la Castille. Du Guesclin utilise une ruse décisive : il feint une retraite pour attirer l'ennemi dans un piège. Pierre le Cruel est assassiné dans une tente par un traître, marquant la fin de son règne sanguinaire. Cette victoire consolide l'influence française en Ibérie et affaiblit les Anglais dans la guerre de Cent Ans.",
+    "period": "1369 · Guerre de Cent Ans, fin de la première guerre civile castillane",
+    "context": "La bataille de Montiel oppose le 14 mars 1369 Bertrand du Guesclin, connétable de France au service d'Henri de Trastamare, à Pierre Ier le Cruel, roi de Castille allié aux Anglais. Ce conflit s'inscrit dans la guerre de Cent Ans et une guerre civile espagnole déclenchée par les ambitions des bâtards du père de Pierre Ier. Du Guesclin, maître tacticien, assiège Pierre dans le château de Montiel et feint une négociation pour l'attirer dehors. Dans un duel sanglant, Henri de Trastamare achève son demi-frère félon, un meurtre qui scelle la victoire française en Espagne. Peu connu, Du Guesclin utilisa un stratagème ingénieux : il infiltra un faux négociateur pour ouvrir une brèche.",
     "dates": [
       {
-        "year": "1350-1367",
-        "label": "Première guerre civile castillane entre Pierre le Cruel et Henri de Trastamare"
+        "year": "1350",
+        "label": "Début de la guerre civile castillane avec révolte des nobles contre Pierre Ier"
+      },
+      {
+        "year": "1366",
+        "label": "Défaite de Nájera : Pierre Ier reprend le trône avec aide anglaise"
+      },
+      {
+        "year": "1367",
+        "label": "Assassinat de Henri de Trastamare (faux, il survit et contre-attaque)"
       },
       {
         "year": "1369",
-        "label": "Bertrand du Guesclin bat les forces pro-anglaises à Montiel"
-      },
-      {
-        "year": "1369",
-        "label": "Ruse de retraite pour piéger Pierre Ier"
-      },
-      {
-        "year": "1369",
-        "label": "Assassinat de Pierre le Cruel par un traître dans sa tente"
+        "label": "Victoire décisive de Du Guesclin à Montiel"
       },
       {
         "year": "1369",
         "label": "Couronnement d'Henri II roi de Castille"
+      },
+      {
+        "year": "1379",
+        "label": "Mort de Du Guesclin, héros français"
       }
     ],
-    "legacy": "La maison de Trastamare domine l'Espagne jusqu'en 1504, unissant les couronnes de Castille et d'Aragon. Cette bataille renforce la position française en Europe et pave la voie à l'expansion ibérique. Elle illustre l'usage précoce de la tromperie tactique en guerre médiévale, influençant les stratégies futures.",
-    "why": "Du Guesclin, simple fils de hobereau breton, humilie un roi par une ruse de Sioux, prouvant que l'intelligence l'emporte sur la cruauté légitime."
+    "legacy": "Cette bataille consolide l'alliance franco-castillane contre l'Angleterre, affaiblissant les positions anglaises en péninsule ibérique lors de la guerre de Cent Ans. Elle marque l'ascension de la dynastie des Trastamare, régnant sur Castille jusqu'en 1504 et influençant l'unification espagnole. Son impact perdure dans l'historiographie comme exemple de ruse militaire médiévale.",
+    "why": "Montiel illustre comment un meurtre fratricide, maquillé en duel honorable, redessina l'Europe médiévale, préfigurant les intrigues impitoyables des cours royales modernes."
   }
 }
