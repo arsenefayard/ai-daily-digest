@@ -2,35 +2,50 @@
   "date": "14/03/2026",
   "news": [
     {
-      "title": "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
-      "summary": "Les Bleus ont dominé l'Angleterre 28-19 au Stade de France dans un match intense et décisif. Antoine Dupont a brillé avec deux essais, tandis que la défense française a tenu bon face aux assauts anglais. Ce succès offre à la France son sixième titre consécutif dans la compétition. Les supporters ont célébré cette victoire historique sous une ambiance électrique.",
-      "why": "Cette victoire scelle le doublé pour les Bleus après leur Grand Chelem l'an dernier et renforce leur domination en rugby européen.",
-      "category": "Rugby"
-    },
-    {
-      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales",
-      "summary": "Carlos Alcaraz a écrasé son adversaire en quarts de finale, confirmant son retour en forme après une période difficile. Iga Swiatek a également validé son billet pour les demies avec une performance solide et sans faute. Les deux stars affichent une confiance maximale à l'approche des demies. Le tournoi réserve encore des surprises avec des outsiders en lice.",
-      "why": "Alcaraz et Swiatek, favoris pour le titre, dominent et promettent un dernier carré explosif dans ce Masters 1000 prestigieux.",
+      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek qualifiés pour les demi-finales",
+      "summary": "Carlos Alcaraz a dominé son quart de finale avec autorité, confirmant son statut de favori sur dur. Iga Swiatek a également brillé chez les filles, renversant une adversaire tenace. Ces victoires propulsent les deux stars vers les demies, avec des enjeux majeurs pour le titre. Le tournoi continue de livrer des surprises dans les tableaux inférieurs.",
+      "why": "Victoires de deux numéros 1 mondiaux qui structurent le tournoi et attirent l'attention globale sur le tennis.",
       "category": "Tennis"
     },
     {
-      "title": "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
-      "summary": "Le PSG a remporté une victoire convaincante 4-1 contre Monaco au Parc des Princes lors de la 26e journée. Mbappé a inscrit un doublé, aidé par des buts de Dembélé et un jeune de l'académie. Monaco, en quête de podium, subit un coup d'arrêt dans sa dynamique. Le PSG porte son avance à 8 points sur son dauphin.",
-      "why": "Cette large victoire consolide la mainmise du PSG sur le titre et relance le débat sur leur invincibilité en Ligue 1.",
+      "title": "Quarts de finale Coupe de France : Surprises avec les qualifications de Reims et Toulouse",
+      "summary": "Reims (L2) a créé la sensation en éliminant Strasbourg (L1) lors des matchs du 4-5 mars. Toulouse a écarté l'OM dans un match intense, tandis que Nice et Lens se qualifient aussi. Ces résultats bouleversent la hiérarchie avant les demies. Les petits clubs prouvent leur compétitivité face aux cadors.",
+      "why": "Éliminations inattendues de clubs de L1 qui relancent l'intérêt pour la compétition nationale.",
       "category": "Football"
     },
     {
-      "title": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
-      "summary": "Max Verstappen a triomphé au GP de Chine à Shanghai, devançant Leclerc et Norris après une course stratégique. Red Bull a dominé les qualifications et la course malgré une safety car précoce. Verstappen porte son avance au championnat à 34 points. Ferrari montre des signes de progrès avec le podium de Leclerc.",
-      "why": "Cette victoire renforce la position de leader de Verstappen dans une saison F1 ultra-compétitive marquée par des duels intenses.",
-      "category": "F1"
+      "title": "NBA : Série de matchs serrés avec victoires des Lakers, Warriors et Knicks",
+      "summary": "Les Lakers ont battu les Bulls dans un final haletant, boostant leur place en playoffs. Golden State s'impose face à Minnesota, Indiana triomphe des Knicks dans un choc Est, et d'autres résultats comme Dallas-Cleveland marquent la nuit. Ces outcomes resserrent la course aux playoffs à l'Est et l'Ouest. Les stars comme LeBron et Curry ont brillé.",
+      "why": "Matchs récents influençant directement les classements NBA à un mois des playoffs.",
+      "category": "Basketball"
     },
     {
-      "title": "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
-      "summary": "L'AS Monaco a battu son rival direct dans un match à suspense de la 22e journée, grâce à un buzzer-beater décisif. Mike James a été le héros avec 28 points et 8 passes. Cette victoire permet à Monaco de dépasser Nanterre au classement. La course au titre s'annonce plus serrée que jamais.",
-      "why": "Monaco s'empare de la première place à trois journées de la fin, intensifiant la bataille pour le scudetto du basket français.",
-      "category": "Basketball"
+      "title": "UFC 326 : Holloway vs Oliveira 2 vole la vedette le 8 mars à Las Vegas",
+      "summary": "Le combat revanche entre Max Holloway et Charles Oliveira a tenu toutes ses promesses lors de l'événement du 8 mars. Des knockouts spectaculaires ont enflammé le T-Mobile Arena. Cet UFC marque un pic d'audience pour le MMA. Les implications pour les titres légers sont énormes.",
+      "why": "Revanche très attendue entre deux légendes qui redéfinit la hiérarchie en featherweight/lightweight.",
+      "category": "Autre"
+    },
+    {
+      "title": "Paris-Nice 2026 : Début explosif de la course cycliste le 8 mars",
+      "summary": "La 84e édition de Paris-Nice a démarré le 8 mars avec une première étape remportée par un sprinteur français. Les favoris comme Pogacar surveillent leurs rivaux dans cette course préparatoire au Tour de France. Les conditions météo difficiles ont sélectionné le peloton. C'est le premier grand test printanier sur route.",
+      "why": "Ouverture de la saison cycliste majeure avec enjeux pour les GC avant les Grands Tours.",
+      "category": "Cyclisme"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Tournoi des 6 Nations : France remporte le titre après victoire sur l'Angleterre",
+      "original": "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations",
+      "summary": "La France a battu l'Angleterre 28-19 au Stade de France ce 14 mars dans un match tendu. Les Bleus décrochent ainsi le Tournoi des 6 Nations 2026 avec le bonus offensif. Ramos et Jalibert ont été décisifs, malgré une résistance anglaise. Ce sacre confirme la domination tricolore.",
+      "why": "Titre majeur conquis avec panache, point final glorieux à la campagne des Bleus.",
+      "category": "Rugby"
+    },
+    {
+      "title": "Grand Prix de Chine F1 : Verstappen s'impose et creuse l'écart",
+      "original": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
+      "summary": "Max Verstappen a remporté le GP de Chine le 15 mars à Shanghai après une pole magistrale. Red Bull domine, laissant McLaren et Ferrari en retrait. Cette 3e victoire consécutive porte son avance à 34 points au championnat. Leclerc signe le meilleur tour en vain.",
+      "why": "Victoire confirmant la suprématie de Verstappen tôt dans la saison.",
+      "category": "F1"
+    }
+  ]
 }
