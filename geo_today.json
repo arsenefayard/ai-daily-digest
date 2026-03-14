@@ -1,36 +1,44 @@
 {
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "news": [
     {
-      "title": "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
-      "summary": "L'OTAN a intercepté un deuxième missile balistique iranien entrant dans l'espace aérien turc, marquant une escalade des tensions au Moyen-Orient. Cette interception intervient dans le contexte d'échanges de tirs continus entre l'Iran, Israël et les forces américaines. L'incident souligne les risques d'élargissement du conflit à l'OTAN via la Turquie, membre clé de l'alliance. Les implications incluent une possible activation de l'article 5 si des attaques persistent.",
-      "why": "Cela représente une menace directe à un membre OTAN, potentiellement transformant un conflit régional en crise atlantique.",
-      "category": "Conflit"
+      "title": "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
+      "summary": "Le président américain Donald Trump a tenu une rencontre avec Xi Jinping pour aborder les questions commerciales et de sécurité en Asie-Pacifique. Cette réunion met en lumière la rivalité stratégique entre Washington et Pékin au milieu des tensions mondiales. Elle souligne aussi la nécessité d'une coopération minimale pour prévenir une escalade militaire ou économique. Géopolitiquement, cela pourrait influencer les alliances en Indo-Pacifique et les chaînes d'approvisionnement mondiales.",
+      "why": "Cette rencontre bilatérale majeure pourrait moduler les tensions sino-américaines et impacter les dynamiques commerciales mondiales au-delà du Moyen-Orient.",
+      "category": "Diplomatie"
     },
     {
-      "title": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
-      "summary": "L'armée américaine a coulé 16 navires iraniens destinés à poser des mines dans le détroit d'Ormuz, suite aux menaces de Trump contre toute perturbation du trafic pétrolier. Cette opération vise à sécuriser 20% du pétrole mondial transitant par cette voie. L'Iran nie mais riposte avec missiles et drones sur Israël et le Golfe. Les enjeux portent sur la stabilité énergétique mondiale et le risque de blocus total.",
-      "why": "Le détroit d'Ormuz est vital pour l'approvisionnement pétrolier; sa fermeture causerait une crise économique globale.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
-      "summary": "Onze pays du Golfe, dont l'Arabie saoudite, ont sollicité Zelensky pour partager l'expertise ukrainienne acquise contre les drones russes, face aux attaques iraniennes. Kyiv accepte en échange de soutien passé, malgré le soutien iranien à Moscou via drones Shahed. La Russie fournirait désormais des composants à l'Iran pour cibler les USA. Cela renforce un axe anti-iranien incluant l'Ukraine, affaiblissant l'alliance Russie-Iran.",
-      "why": "Cela crée une coalition inattendue Ukraine-Golfe contre l'Iran, impactant la guerre en Ukraine et au Moyen-Orient.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
-      "summary": "Emmanuel Macron annonce la libération de 400 millions de barils des réserves françaises pour contrer la flambée des prix due au conflit Iran-USA. Cette mesure suit une réunion à Matignon avec les partis politiques sur les conséquences économiques. L'AIE prépare un déblocage massif record pour stabiliser les marchés. Elle vise à atténuer l'impact sur l'Europe au 12e jour du conflit.",
-      "why": "Réponse critique à la volatilité pétrolière, protégeant l'économie européenne d'une récession induite par le chaos Ormuz.",
+      "title": "Ursula von der Leyen en visite au Groenland pour partenariats énergétiques et climatiques",
+      "summary": "La présidente de la Commission européenne s'est rendue au Groenland pour renforcer les liens en matière d'énergie et de climat. L'Arctique émerge comme un nouveau théâtre géopolitique avec des enjeux environnementaux croisés aux ambitions économiques sur les ressources. Cette initiative vise à diversifier les approvisionnements européens face aux crises pétrolières. Elle positionne l'UE dans la compétition arctique face à la Russie, la Chine et les États-Unis.",
+      "why": "L'Arctique devient crucial pour l'énergie et les routes maritimes, rendant cette coopération stratégique pour la sécurité énergétique européenne.",
       "category": "Énergie"
     },
     {
-      "title": "Israël étend ses frappes à Téhéran et au Liban malgré Trump",
-      "summary": "Israël poursuit et étend ses bombardements sur Téhéran et le Liban, ciblant régime iranien et Hezbollah après la mort présumée de Khamenei. Cela ignore les déclarations de Trump sur une fin rapide de guerre. L'Iran refuse le cessez-le-feu, promettant punition. Les frappes visent commandements des Gardiens de la Révolution, visant un changement de régime.",
-      "why": "Escalade ignore les USA, risquant un conflit prolongé et instable au Moyen-Orient.",
-      "category": "Conflit"
+      "title": "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
+      "summary": "Le président brésilien Lula a révélé un engagement dans la production d'armes avec l'Afrique du Sud, craignant des actions américaines via le classement de gangs comme terroristes. Le Brésil, dépensant seulement 1,1% de son PIB en défense, cherche à contrer l'hégémonie US en Amérique latine. Cette alliance sud-sud renforce les pays émergents contre l'unilatéralisme occidental. Elle pourrait altérer les équilibres sécuritaires dans l'hémisphère sud.",
+      "why": "Cette alliance militaire marque un pivot géopolitique des BRICS contre l'influence américaine en Amérique du Sud.",
+      "category": "Sécurité"
+    },
+    {
+      "title": "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
+      "summary": "L'Union européenne approfondit ses liens avec l'Azerbaïdjan pour la sécurité et les approvisionnements énergétiques, diversifiant ainsi ses sources face à la crise iranienne. Bakou devient un pivot pour le gaz et le pétrole vers l'Europe via le corridor sud. Cette coopération inclut des aspects sécuritaires contre les menaces régionales. Elle atténue la dépendance russe et iranienne dans un contexte de tensions au Moyen-Orient.",
+      "why": "Essentielle pour la sécurité énergétique européenne, cette alliance contrebalance les disruptions au Golfe Persique.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Macron s'oppose à la levée des sanctions contre la Russie",
+      "summary": "Le président français Emmanuel Macron a rejeté fermement toute levée des sanctions contre la Russie, malgré les pressions pour stabiliser les marchés énergétiques. Cette position maintient la pression sur Moscou au milieu de la guerre en Ukraine et des crises globales. Elle reflète les divergences intra-européennes sur la Russie. Géopolitiquement, elle solidifie le front occidental contre l'agression russe.",
+      "why": "Renforce la cohésion européenne face à la Russie et impacte les négociations énergétiques mondiales.",
+      "category": "Diplomatie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave",
+      "original": "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
+      "summary": "Téhéran a accru ses frappes dans le Golfe, visant à pressurer les pays du Golfe pour rompre leurs liens avec les USA et perturber les exportations pétrolières. La stratégie iranienne vise à mettre en faillite les économies du Golfe via la crise d'Ormuz. Trump menace de conséquences militaires massives si des mines sont posées. Cela prolonge l'escalade au 13e jour de conflit.",
+      "why": "Cette intensification militaire risque de bloquer les flux pétroliers mondiaux, amplifiant la volatilité économique globale.",
+      "category": "Conflit"
+    }
+  ]
 }
