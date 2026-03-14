@@ -1,15 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "titles": [
-      "Frappes conjointes Israël-États-Unis sur Téhéran tuent l'Ayatollah Khamenei",
-      "Pete Hegseth annonce le jour le plus intense de frappes sur l'Iran",
-      "Iran menace de fermer le détroit d’Ormuz face à l'envolée des prix du pétrole",
-      "Mojtaba Khamenei désigné successeur comme Guide suprême de l'Iran au milieu de la guerre",
-      "Critiques européennes contre les frappes israélo-américaines sur l'Iran"
-    ]
-  },
-  {
     "date": "13/03/2026",
     "titles": [
       "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
@@ -68,6 +58,17 @@
       "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
       "Macron s'oppose à la levée des sanctions contre la Russie",
       "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
+      "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
+      "Crise au Qatar : usine de GNL de Ras Laffan à l'arrêt, impact sur l'approvisionnement mondial en hélium",
+      "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
+      "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
+      "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave avec ciblage des pays du Golfe"
     ]
   }
 ]
