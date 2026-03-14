@@ -3,16 +3,6 @@
     "date": "13/03/2026",
     "titles": [
       "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
-      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
-      "Sommet mondial IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
-      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur Fortinet",
-      "Hacktiv’ Summit ouvre aujourd'hui à Chantilly sur cybersécurité IA et business acceleration"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
-      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
       "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
       "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
       "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
@@ -57,6 +47,16 @@
       "Microsoft intègre Claude dans Copilot Cowork pour Microsoft 365",
       "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
       "États-Unis rejettent toute gouvernance mondiale de l'IA"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
+      "Alibaba lance les Qwen Glasses, lunettes IA à 275 dollars au MWC",
+      "Oregon adopte la première loi américaine sur les chatbots IA",
+      "Mistral et DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
+      "Explosion du coding agentique : 7 IDE multi-agents se disputent le marché"
     ]
   }
 ]
