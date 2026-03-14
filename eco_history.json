@@ -2,17 +2,6 @@
   {
     "date": "12/03/2026",
     "titles": [
-      "Pétrole entre 110-120 dollars : stagflation et correction boursière prolongée redoutées",
-      "Inflation européenne : risque de 3-4% supplémentaires si les cours énergétiques se maintiennent",
-      "Détroit d'Ormuz : simple menace suffisante pour bloquer la navigation, 20% du pétrole mondial en jeu",
-      "CAC 40 en baisse de 0,98% : secteur automobile effondré avec pertes records de Stellantis et Renault",
-      "Trump instaure droits de douane mondiaux de 15% après annulation judiciaire des précédents tarifs",
-      "Détente des taux OAT et BTP européens avec espoirs d'accalmie au Moyen-Orient"
-    ]
-  },
-  {
-    "date": "12/03/2026",
-    "titles": [
       "Chute brutale des prix du pétrole et du gaz après déclarations de Trump",
       "France reconduit la contribution exceptionnelle sur l'IS des grandes entreprises",
       "Hausse de la CSG sur les revenus du capital à 10,6% depuis janvier 2026",
@@ -70,6 +59,16 @@
       "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
       "Eli Lilly investit 3 milliards de dollars en Chine pour ses traitements anti-obésité",
       "Target baisse les prix de plus de 3 000 produits face à la concurrence accrue"
+    ]
+  },
+  {
+    "date": "14/03/2026",
+    "titles": [
+      "FMI relève sa projection de croissance mondiale à 3,3% pour 2026",
+      "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité",
+      "France envisage de plafonner les marges des distributeurs de carburants",
+      "Grèce annonce le plafonnement des marges sur les prix des carburants",
+      "Téhéran soupçonné de financer ses proxys via les cryptomonnaies"
     ]
   }
 ]
