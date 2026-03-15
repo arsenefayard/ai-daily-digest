@@ -3,17 +3,6 @@
     "date": "13/03/2026",
     "titles": [
       "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
-      "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
-      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
-      "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
-      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
-      "Claude reste l'application IA gratuite n°1 aux États-Unis malgré le blacklist du Pentagone"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
-      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
       "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
       "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
       "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
@@ -57,6 +46,16 @@
       "Oregon adopte la première loi américaine sur les chatbots IA",
       "Mistral et DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
       "Explosion du coding agentique : 7 IDE multi-agents se disputent le marché"
+    ]
+  },
+  {
+    "date": "15/03/2026",
+    "titles": [
+      "xAI publie Grok 4.20 Beta 2 optimisé pour le code",
+      "OpenAI sort GPT-5.3 Instant pour corriger les hallucinations",
+      "Oregon adopte la première loi US sur les chatbots IA",
+      "Étude UER-BBC : 45% des assistants IA ont des problèmes majeurs",
+      "IA en entreprise atteint la maturité en 2026 selon La Tribune"
     ]
   }
 ]
