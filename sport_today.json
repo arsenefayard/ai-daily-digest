@@ -1,50 +1,43 @@
 {
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "news": [
     {
-      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek qualifiés pour les demi-finales",
-      "summary": "Carlos Alcaraz a dominé son quart de finale avec autorité, confirmant son statut de favori sur dur. Iga Swiatek a également brillé chez les filles, renversant une adversaire tenace. Ces victoires propulsent les deux stars vers les demies, avec des enjeux majeurs pour le titre. Le tournoi continue de livrer des surprises dans les tableaux inférieurs.",
-      "why": "Victoires de deux numéros 1 mondiaux qui structurent le tournoi et attirent l'attention globale sur le tennis.",
+      "title": "Indian Wells Masters 1000 : Finales explosives avec sacres d'Alcaraz et Swiatek",
+      "summary": "Carlos Alcaraz a remporté le titre ATP en battant Jannik Sinner en finale hier, confirmant sa domination sur dur. Iga Swiatek s'est imposée en WTA face à Aryna Sabalenka, réalisant le doublé après ses demies. Ces victoires boostent leurs classements avant Miami. Le tournoi a battu des records d'affluence et de prize money.",
+      "why": "Victoires majeures en Masters 1000 qui redessinent la hiérarchie mondiale avant la saison sur terre battue.",
       "category": "Tennis"
     },
     {
-      "title": "Quarts de finale Coupe de France : Surprises avec les qualifications de Reims et Toulouse",
-      "summary": "Reims (L2) a créé la sensation en éliminant Strasbourg (L1) lors des matchs du 4-5 mars. Toulouse a écarté l'OM dans un match intense, tandis que Nice et Lens se qualifient aussi. Ces résultats bouleversent la hiérarchie avant les demies. Les petits clubs prouvent leur compétitivité face aux cadors.",
-      "why": "Éliminations inattendues de clubs de L1 qui relancent l'intérêt pour la compétition nationale.",
+      "title": "Huitièmes de finale retour Ligue des Champions : Qualifications choc pour quarts",
+      "summary": "Manchester City a renversé le Real Madrid hier soir (4-2 ap, 7-3 au total) malgré l'absence de Mbappé, grâce à un triplé de Haaland. Arsenal et Bayern Munich se qualifient facilement contre Inter et PSG. Inter et PSG éliminés prématurément. Les quarts s'annoncent intenses avec City-Arsenal en perspective.",
+      "why": "Éliminations inattendues de cadors comme le Real et PSG relancent la compétition européenne.",
       "category": "Football"
     },
     {
-      "title": "NBA : Série de matchs serrés avec victoires des Lakers, Warriors et Knicks",
-      "summary": "Les Lakers ont battu les Bulls dans un final haletant, boostant leur place en playoffs. Golden State s'impose face à Minnesota, Indiana triomphe des Knicks dans un choc Est, et d'autres résultats comme Dallas-Cleveland marquent la nuit. Ces outcomes resserrent la course aux playoffs à l'Est et l'Ouest. Les stars comme LeBron et Curry ont brillé.",
-      "why": "Matchs récents influençant directement les classements NBA à un mois des playoffs.",
+      "title": "NBA : Lakers et Celtics en pleine série victorieuse avant All-Star",
+      "summary": "Les Lakers de LeBron James ont enchaîné 5 victoires consécutives, dont un succès clutch contre les Nuggets hier. Boston reste leader Est avec une défense étouffante. Les Warriors rebondissent avec Curry en feu. Ces résultats intensifient la course aux playoffs.",
+      "why": "Momentum crucial pour les favoris à deux semaines de l'All-Star Game, impactant les classements.",
       "category": "Basketball"
     },
     {
-      "title": "UFC 326 : Holloway vs Oliveira 2 vole la vedette le 8 mars à Las Vegas",
-      "summary": "Le combat revanche entre Max Holloway et Charles Oliveira a tenu toutes ses promesses lors de l'événement du 8 mars. Des knockouts spectaculaires ont enflammé le T-Mobile Arena. Cet UFC marque un pic d'audience pour le MMA. Les implications pour les titres légers sont énormes.",
-      "why": "Revanche très attendue entre deux légendes qui redéfinit la hiérarchie en featherweight/lightweight.",
+      "title": "Paris-Nice 2026 : Pogacar remporte l'étape-reine et le général",
+      "summary": "Tadej Pogacar a dominé la dernière étape hier dans les Alpes, s'adjugeant la course cycliste de référence pré-Tour de France. Vingegaard deuxième, mais distancé. Evenepoel impressionne chez les jeunes. La course a vu des chutes spectaculaires sans blessures graves.",
+      "why": "Première grande bataille Pogacar-Vingegaard de l'année, indicateur clé pour le Tour de France.",
       "category": "Autre"
     },
     {
-      "title": "Paris-Nice 2026 : Début explosif de la course cycliste le 8 mars",
-      "summary": "La 84e édition de Paris-Nice a démarré le 8 mars avec une première étape remportée par un sprinteur français. Les favoris comme Pogacar surveillent leurs rivaux dans cette course préparatoire au Tour de France. Les conditions météo difficiles ont sélectionné le peloton. C'est le premier grand test printanier sur route.",
-      "why": "Ouverture de la saison cycliste majeure avec enjeux pour les GC avant les Grands Tours.",
-      "category": "Cyclisme"
+      "title": "UFC 326 : Oliveira bat Holloway par soumission en 2e round",
+      "summary": "Charles Oliveira a défait Max Holloway par arm-triangle hier soir à Las Vegas dans un combat explosif. Revanche très attendue après leur premier choc. Oliveira reprend du terrain chez les légers. L'événement a attiré un record d'audience PPV.",
+      "why": "Victoire majeure pour Oliveira qui se relance dans la course au titre UFC lightweight.",
+      "category": "Autre"
     }
   ],
   "updates": [
     {
-      "title": "Tournoi des 6 Nations : France remporte le titre après victoire sur l'Angleterre",
-      "original": "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations",
-      "summary": "La France a battu l'Angleterre 28-19 au Stade de France ce 14 mars dans un match tendu. Les Bleus décrochent ainsi le Tournoi des 6 Nations 2026 avec le bonus offensif. Ramos et Jalibert ont été décisifs, malgré une résistance anglaise. Ce sacre confirme la domination tricolore.",
-      "why": "Titre majeur conquis avec panache, point final glorieux à la campagne des Bleus.",
-      "category": "Rugby"
-    },
-    {
-      "title": "Grand Prix de Chine F1 : Verstappen s'impose et creuse l'écart",
+      "title": "Grand Prix de Chine F1 : Verstappen vainqueur, mais accrochage avec Leclerc",
       "original": "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
-      "summary": "Max Verstappen a remporté le GP de Chine le 15 mars à Shanghai après une pole magistrale. Red Bull domine, laissant McLaren et Ferrari en retrait. Cette 3e victoire consécutive porte son avance à 34 points au championnat. Leclerc signe le meilleur tour en vain.",
-      "why": "Victoire confirmant la suprématie de Verstappen tôt dans la saison.",
+      "summary": "Verstappen a confirmé sa victoire dimanche dernier à Shanghai, mais un accrochage avec Leclerc en fin de course a créé la polémique. Enquête FIA en cours sans pénalité pour l'instant. Hamilton troisième malgré une stratégie ratée chez Mercedes. Verstappen porte son avance à 34 points.",
+      "why": "Controverse post-course qui pourrait impacter les relations pilotes et le championnat.",
       "category": "F1"
     }
   ]
