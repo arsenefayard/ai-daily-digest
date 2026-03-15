@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "France-Angleterre : Les Bleus se préparent pour le match décisif du Tournoi des 6 Nations demain au Stade de France",
-      "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises dans les tableaux ATP et WTA",
-      "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai dès demain",
-      "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
-      "Betclic Elite J22 : La course au titre s'intensifie ce week-end en basketball français"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "Tournoi des 6 Nations : Les Bleus se préparent pour le match décisif contre l'Angleterre demain",
       "Indian Wells Masters 1000 : Quarts de finale approchent avec surprises ATP et WTA",
       "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai",
@@ -71,6 +61,17 @@
       "Paris-Nice 2026 : Début explosif de la course cycliste le 8 mars",
       "Tournoi des 6 Nations : France remporte le titre après victoire sur l'Angleterre",
       "Grand Prix de Chine F1 : Verstappen s'impose et creuse l'écart"
+    ]
+  },
+  {
+    "date": "15/03/2026",
+    "titles": [
+      "Indian Wells Masters 1000 : Finales explosives avec sacres d'Alcaraz et Swiatek",
+      "Huitièmes de finale retour Ligue des Champions : Qualifications choc pour quarts",
+      "NBA : Lakers et Celtics en pleine série victorieuse avant All-Star",
+      "Paris-Nice 2026 : Pogacar remporte l'étape-reine et le général",
+      "UFC 326 : Oliveira bat Holloway par soumission en 2e round",
+      "Grand Prix de Chine F1 : Verstappen vainqueur, mais accrochage avec Leclerc"
     ]
   }
 ]
