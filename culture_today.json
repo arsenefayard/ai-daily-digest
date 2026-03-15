@@ -1,34 +1,34 @@
 {
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "news": [
     {
-      "title": "La tapisserie de Bayeux : le plus grand récit illustré du Moyen Âge",
-      "summary": "Longue de 70 mètres, cette tapisserie brodée vers 1070 relate la conquête normande de l'Angleterre par Guillaume le Conquérant. Composée de 50 scènes et 393 figures humaines ou animales, elle offre un témoignage unique sur les techniques textiles et l'iconographie médiévale. Exposée au musée de Bayeux, elle échappa miraculeusement aux destructions de la Seconde Guerre mondiale. Son style narratif en frise en fait un précurseur de la bande dessinée historique.",
-      "why": "Elle illustre la propagande politique au XIe siècle et reste un pilier de l'historiographie normande.",
+      "title": "L'origine sumérienne de l'écriture cunéiforme",
+      "summary": "Vers 3200 av. J.-C., les Sumériens de Mésopotamie inventèrent le cunéiforme, le plus ancien système d'écriture connu, en gravant des signes en forme de clous sur des tablettes d'argile. Initialement pictographique pour comptabiliser les récoltes et le bétail, il évolua vers des symboles abstraits représentant des sons et des idées. Ce système permit la naissance des premières lois, épopées comme celle de Gilgamesh et archives administratives. Il influença les civilisations akkadienne, babylonienne et assyrienne sur plus de trois millénaires.",
+      "why": "Cette invention marque le passage de la préhistoire à l'histoire écrite, fondement de toutes les civilisations complexes.",
       "category": "Histoire"
     },
     {
-      "title": "Le paradoxe de Zénon : Achille ne rattrape jamais la tortue",
-      "summary": "Philosophe présocratique du Ve siècle av. J.-C., Zénon d'Élée défia les intuitions sur le mouvement avec ce paradoxe : Achille, plus rapide, divise infiniment l'espace pour rattraper la tortue partie avant lui. Cela questionne la divisibilité de l'espace et du temps en unités infiniment petites. Résolu mathématiquement par les limites de Cauchy au XIXe siècle, il inspira les fondements des mathématiques modernes. Il révèle les limites de la raison intuitive face à l'infini.",
-      "why": "Ce casse-tête philosophique a révolutionné la compréhension du mouvement et préfiguré le calcul infinitésimal.",
+      "title": "Le dilemme du prisonnier en théorie des jeux",
+      "summary": "Formulé en 1950 par Merrill Flood et Melvin Dresher, puis popularisé par Albert Tucker, ce paradoxe oppose deux prisonniers qui doivent choisir de trahir ou coopérer sans communication. La trahison mutuelle mène au pire résultat collectif, tandis que la coopération offre le meilleur gain partagé, mais l'incitation individuelle pousse à la défection. Il illustre les conflits entre intérêt personnel et collectif dans l'économie, la biologie évolutive et les relations internationales. Des variantes comme le dilemme du voyageur montrent comment la répétition peut favoriser la coopération.",
+      "why": "Il explique pourquoi les humains et animaux peinent à coopérer malgré les bénéfices mutuels, éclairant guerres, pollution et négociations.",
       "category": "Philosophie"
     },
     {
-      "title": "Le voyage dans la Lune de Georges Méliès : pionnier des effets spéciaux",
-      "summary": "Sorti en 1902, ce film muet de 14 minutes montre une fusée dans l'œil de la Lune, réalisé avec des décors peints et des superpositions d'images. Méliès inventa la substitution de motifs et l'arrêt de caméra pour créer des disparitions magiques. Inspiré par Jules Verne et H.G. Wells, il attira 800 000 spectateurs et popularisa le cinéma fantastique. Restauré en 2011 avec une bande-son, il symbolise la naissance du 7e art narratif.",
-      "why": "Il marque l'invention des trucages cinématographiques, base des effets spéciaux actuels.",
+      "title": "Les 400 coups de François Truffaut",
+      "summary": "Sorti en 1959, ce film semi-autobiographique lance la Nouvelle Vague française en brisant les conventions hollywoodiennes avec un tournage en décors réels et acteurs non professionnels. Il suit Antoine Doinel, jeune délinquant parisien en quête d'affection face à une société rigide. Truffaut y capture l'enfance rebelle avec un zoom final iconique sur un visage en mer. Chef-d'œuvre oscarisé, il inspira des générations de cinéastes par sa liberté narrative.",
+      "why": "Il révolutionna le cinéma en démocratisant la création et en humanisant l'adolescence marginale.",
       "category": "Cinéma"
     },
     {
-      "title": "L'effet photoélectrique : Einstein et les quanta de lumière",
-      "summary": "Expliqué par Einstein en 1905, cet effet montre que la lumière éjecte des électrons d'un métal seulement au-dessus d'une fréquence seuil, indépendamment de l'intensité. Cela prouva la nature corpusculaire de la lumière sous forme de photons, contredisant l'onde classique. Prix Nobel en 1921, cette découverte fonda la mécanique quantique. Elle permit le développement des cellules photovoltaïques et détecteurs modernes.",
-      "why": "Elle révolutionna la physique en unifiant onde et particule, ouvrant l'ère quantique.",
+      "title": "La découverte de la structure de l'ADN par Watson et Crick",
+      "summary": "En 1953, James Watson et Francis Crick modélisèrent la double hélice de l'ADN à Cambridge, s'appuyant sur les données de diffraction de Rosalind Franklin. Cette structure en échelle torsadée explique la réplication génétique par complémentarité des bases A-T et G-C. Elle posa les bases de la biologie moléculaire, du séquençage génétique et des thérapies géniques. Nobel de médecine en 1962, elle transforma notre compréhension de la vie.",
+      "why": "Elle ouvrit l'ère de la génétique moderne, impactant médecine, agriculture et éthique scientifique.",
       "category": "Science pop"
     },
     {
-      "title": "Le record du monde d'insomnie : 11 jours sans sommeil",
-      "summary": "En 1964, l'Américain Randy Gardner, 17 ans, resta éveillé 264 heures (11 jours et 25 minutes) sous supervision médicale pour un projet scolaire. Il souffrit de paranoïa, hallucinations et troubles cognitifs réversibles. Ce record, non battu officiellement pour raisons éthiques, étudia les effets du manque de sommeil sur le cerveau. Gardner se rendormit 15 heures après, récupérant sans séquelles permanentes.",
-      "why": "Cette expérience extrême révèle la résilience humaine et les dangers du privation de sommeil.",
+      "title": "L'homme qui ne cligna pas des yeux pendant 1 heure 7 minutes",
+      "summary": "En 1937, lors d'une compétition à Cannes, le Français Paul Le Bœuf fixa un point sans cligner pendant 1 heure et 7 minutes, record mondial Guinness toujours inégalé. Ce défi extrême sollicite les muscles oculaires au maximum, provoquant fatigue et vision floue. Il illustre les limites physiologiques humaines, comparables à des exploits comme retenir sa respiration. Aujourd'hui, des apps testent cette capacité pour évaluer la concentration.",
+      "why": "Ce record révèle les prouesses corporelles inattendues et fascine par son absurdité physiologique.",
       "category": "Insolite"
     }
   ],
