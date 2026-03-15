@@ -1,37 +1,37 @@
 {
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "subject": {
-    "name": "Bataille de Montiel",
-    "type": "Bataille",
-    "period": "1369 · Guerre de Cent Ans, fin de la première guerre civile castillane",
-    "context": "La bataille de Montiel oppose le 14 mars 1369 Bertrand du Guesclin, connétable de France au service d'Henri de Trastamare, à Pierre Ier le Cruel, roi de Castille allié aux Anglais. Ce conflit s'inscrit dans la guerre de Cent Ans et une guerre civile espagnole déclenchée par les ambitions des bâtards du père de Pierre Ier. Du Guesclin, maître tacticien, assiège Pierre dans le château de Montiel et feint une négociation pour l'attirer dehors. Dans un duel sanglant, Henri de Trastamare achève son demi-frère félon, un meurtre qui scelle la victoire française en Espagne. Peu connu, Du Guesclin utilisa un stratagème ingénieux : il infiltra un faux négociateur pour ouvrir une brèche.",
+    "name": "Théodoric le Grand élimine Odoacre",
+    "type": "Événement",
+    "period": "493 · Haut Moyen Âge · Royaume ostrogoth d'Italie",
+    "context": "Après la chute de l'Empire romain d'Occident en 476, Odoacre, chef hérule, domine l'Italie depuis Ravenne, menaçant l'Empire d'Orient. L'empereur Zénon mandate Théodoric, roi des Ostrogoths, pour le renverser ; ce dernier envahit la péninsule en 489, remporte des victoires décisives mais s'enlise devant Ravenne assiégée de 491 à 493. Un traité de paix est conclu, divisant l'Italie entre les deux rivaux. Théodoric aspire à restaurer la grandeur romaine en protégeant les institutions, les sénateurs et l'Église catholique malgré son arianisme. Son règne marque une fusion unique entre traditions romaines et germaniques, avec des monuments comme les mausolées de Ravenne. Peu connu : il gouverna avec une administration romaine intacte, promouvant la tolérance religieuse initiale.",
     "dates": [
       {
-        "year": "1350",
-        "label": "Début de la guerre civile castillane avec révolte des nobles contre Pierre Ier"
+        "year": "489",
+        "label": "Invasion de l'Italie par Théodoric contre Odoacre"
       },
       {
-        "year": "1366",
-        "label": "Défaite de Nájera : Pierre Ier reprend le trône avec aide anglaise"
+        "year": "28 août 489",
+        "label": "Victoire sur l'Isonzo"
       },
       {
-        "year": "1367",
-        "label": "Assassinat de Henri de Trastamare (faux, il survit et contre-attaque)"
+        "year": "30 septembre 489",
+        "label": "Défaite des Hérules à Vérone"
       },
       {
-        "year": "1369",
-        "label": "Victoire décisive de Du Guesclin à Montiel"
+        "year": "491-493",
+        "label": "Siège de Ravenne"
       },
       {
-        "year": "1369",
-        "label": "Couronnement d'Henri II roi de Castille"
+        "year": "15 mars 493",
+        "label": "Assassinat d'Odoacre lors d'un banquet par Théodoric"
       },
       {
-        "year": "1379",
-        "label": "Mort de Du Guesclin, héros français"
+        "year": "524",
+        "label": "Exécutions de Boèce et du pape Jean Ier par crainte de révolte"
       }
     ],
-    "legacy": "Cette bataille consolide l'alliance franco-castillane contre l'Angleterre, affaiblissant les positions anglaises en péninsule ibérique lors de la guerre de Cent Ans. Elle marque l'ascension de la dynastie des Trastamare, régnant sur Castille jusqu'en 1504 et influençant l'unification espagnole. Son impact perdure dans l'historiographie comme exemple de ruse militaire médiévale.",
-    "why": "Montiel illustre comment un meurtre fratricide, maquillé en duel honorable, redessina l'Europe médiévale, préfigurant les intrigues impitoyables des cours royales modernes."
+    "legacy": "Théodoric instaure un royaume ostrogoth stable de 33 ans, préfigurant les royaumes romano-barbares d'Europe. Ses édifices, comme les églises arianes reconverties, influencent l'architecture byzantine et romane. Son modèle de gouvernance tolérante inspire les rois mérovingiens et carolingiens. Sa postérité survit via l'historien Procope et des légendes comme Dietrich von Bern dans la littérature germanique.",
+    "why": "Cet assassinat banquet révèle comment un 'barbare' sauva l'héritage romain en Italie, posant les bases de l'Europe médiévale multiculturelle bien avant Charlemagne."
   }
 }
