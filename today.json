@@ -1,34 +1,34 @@
 {
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "news": [
     {
-      "title": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
-      "summary": "Meta a annoncé le report de son modèle IA Avocado au moins jusqu'en mai 2026, après des tests révélant des performances inférieures à celles de Google, OpenAI et Anthropic en raisonnement et codage. Ce délai survient malgré 107 milliards de dollars investis dans l'IA générative. Le modèle était attendu comme un concurrent majeur dans la course aux LLMs avancés. Cette annonce met en lumière les défis techniques persistants pour Meta face à la concurrence accrue.",
-      "why": "Ce report embarrassant souligne les difficultés de Meta à rattraper les leaders, impactant sa stratégie IA et sa valorisation boursière.",
+      "title": "xAI publie Grok 4.20 Beta 2 optimisé pour le code",
+      "summary": "xAI a lancé Grok 4.20 Beta 2, une version améliorée axée sur la génération et le débogage de code avec des performances supérieures sur les benchmarks comme HumanEval et LeetCode. Ce modèle intègre des capacités multi-agents pour la collaboration en développement logiciel. Il concurrence directement les coding agents émergents et les IDE multi-agents. Disponible via l'API xAI pour les développeurs.",
+      "why": "Renforce la position d'xAI dans le coding agentique en explosion, offrant une alternative open à Claude et GPT pour les entreprises.",
       "category": "Modèle"
     },
     {
-      "title": "Alibaba lance les Qwen Glasses, lunettes IA à 275 dollars au MWC",
-      "summary": "Au Mobile World Congress, Alibaba a dévoilé les Qwen Glasses, des lunettes intelligentes intégrant l'IA Qwen pour reconnaissance visuelle, traduction en temps réel et assistance contextuelle. Prix de lancement à 275 dollars, elles concurrencent les prototypes occidentaux avec un focus sur l'Asie. Les lunettes utilisent des modèles multimodaux légers optimisés pour edge computing. Disponibles dès Q2 2026, elles visent le marché grand public et professionnel.",
-      "why": "Premières lunettes IA grand public abordables, elles démocratisent l'IA wearable et renforcent la position chinoise dans l硬件 IA.",
-      "category": "Application"
+      "title": "OpenAI sort GPT-5.3 Instant pour corriger les hallucinations",
+      "summary": "OpenAI a publié GPT-5.3 Instant, une variante de GPT-5.3 réduisant les hallucinations de 27% grâce à une meilleure calibration des probabilités et un fine-tuning sur des datasets vérifiés. Ce modèle conserve un contexte de 500k tokens et excelle en raisonnement factuel. Il est optimisé pour les applications enterprise nécessitant fiabilité. Déploiement immédiat via ChatGPT Plus et API.",
+      "why": "Adresse un défaut majeur des LLM actuels, boostant l'adoption en production critique comme la santé et la finance.",
+      "category": "Modèle"
     },
     {
-      "title": "Oregon adopte la première loi américaine sur les chatbots IA",
-      "summary": "L'État de l'Oregon a promulgué la première législation US spécifique aux chatbots IA, imposant transparence, audits de biais et consentement utilisateur pour les déploiements publics. Cette loi fait suite à trois deadlines fédérales du 11 mars influençant la politique nationale IA. Elle cible les risques de désinformation et discrimination algorithmique. D'autres États observent pour des mesures similaires.",
-      "why": "Pionnière aux USA, cette loi marque le début d'une régulation fragmentée de l'IA au niveau étatique, influençant le cadre fédéral.",
+      "title": "Oregon adopte la première loi US sur les chatbots IA",
+      "summary": "L'État de l'Oregon a promulgué la première législation américaine spécifique aux chatbots IA, imposant une transparence sur les données d'entraînement, un watermarking obligatoire et des audits annuels pour les déploiements publics. La loi cible les biais et la désinformation générée. Elle entre en vigueur en juillet 2026. Influence potentielle sur d'autres États face à l'absence de régulation fédérale.",
+      "why": "Pionnière aux USA, elle pose les bases d'une régulation décentralisée de l'IA générative.",
       "category": "Régulation"
     },
     {
-      "title": "Mistral et DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
-      "summary": "Mistral AI, en partenariat avec la Direction interministérielle du Numérique (DINUM), a lancé un assistant IA souverain accessible à 30 000 agents publics français. Basé sur des modèles locaux hébergés en Europe, il gère tâches administratives, recherche documentaire et génération de contenus sans fuite de données. Déploiement immédiat avec focus sur conformité RGPD et souveraineté. Succès du coding agentique en France.",
-      "why": "Première IA souveraine à grande échelle en Europe, elle accélère l'adoption publique tout en protégeant les données sensibles.",
-      "category": "Application"
+      "title": "Étude UER-BBC : 45% des assistants IA ont des problèmes majeurs",
+      "summary": "Une étude paneuropéenne de l'UER et BBC révèle que 45% des assistants IA présentent des défaillances critiques en fiabilité, biais et sécurité, testés sur 200 produits. Les problèmes incluent hallucinations persistantes et fuites de données. Recommandations pour des standards européens renforcés. Publiée le 15 mars 2026.",
+      "why": "Fournit des données empiriques urgentes pour les politiques publiques sur l'IA dans les médias et services publics.",
+      "category": "Recherche"
     },
     {
-      "title": "Explosion du coding agentique : 7 IDE multi-agents se disputent le marché",
-      "summary": "Le marché des IDE (environnements de développement intégrés) agentiques explose avec 7 concurrents majeurs intégrant des agents IA collaboratifs pour développement automatisé. Ces outils gèrent code generation, debugging et refactoring en équipe virtuelle. Benchmarks montrent gains de productivité jusqu'à 40% pour devs seniors. Leader comme Cursor et nouveaux entrants chinois dominent.",
-      "why": "Révolutionne le développement logiciel en rendant l'IA agentique mainstream, boostant la productivité dev mondiale.",
+      "title": "IA en entreprise atteint la maturité en 2026 selon La Tribune",
+      "summary": "L'article de La Tribune analyse 2026 comme l'année où l'IA passe des prototypes aux déploiements massifs en entreprise, surmontant les complexités des SI legacy via des agents hybrides. 60% des Fortune 500 intègrent déjà des workflows IA. Focus sur ROI mesurable en productivité. Tendances : agents autonomes et IA souveraine.",
+      "why": "Marque le passage concret de l'IA à l'industrialisation, avec impacts économiques immédiats.",
       "category": "Application"
     }
   ],
