@@ -1,37 +1,33 @@
 {
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "subject": {
-    "name": "Théodoric le Grand élimine Odoacre",
-    "type": "Événement",
-    "period": "493 · Haut Moyen Âge · Royaume ostrogoth d'Italie",
-    "context": "Après la chute de l'Empire romain d'Occident en 476, Odoacre, chef hérule, domine l'Italie depuis Ravenne, menaçant l'Empire d'Orient. L'empereur Zénon mandate Théodoric, roi des Ostrogoths, pour le renverser ; ce dernier envahit la péninsule en 489, remporte des victoires décisives mais s'enlise devant Ravenne assiégée de 491 à 493. Un traité de paix est conclu, divisant l'Italie entre les deux rivaux. Théodoric aspire à restaurer la grandeur romaine en protégeant les institutions, les sénateurs et l'Église catholique malgré son arianisme. Son règne marque une fusion unique entre traditions romaines et germaniques, avec des monuments comme les mausolées de Ravenne. Peu connu : il gouverna avec une administration romaine intacte, promouvant la tolérance religieuse initiale.",
+    "name": "Pierre Blancard",
+    "type": "Personnalité",
+    "period": "1765 – 1826 · Époque moderne",
+    "context": "Capitaine au long cours originaire de Marseille, Pierre Blancard se distingua par son intelligence scientifique et sa passion pour les voyages exotiques. Ses navigations répétées en Asie, notamment en Chine et au Japon, lui permirent d'observer et de collecter des spécimens botaniques rares. Curieux de sciences naturelles, il rapporta en France des plantes inconnues, dont le chrysanthème, symbole de longévité en Orient. Introducteur discret mais pionnier de l'horticulture exotique européenne, il contribua à enrichir les jardins français au tournant du XIXe siècle. Peu connu du grand public, son rôle illustre comment des marins aventureux ont favorisé les échanges botaniques mondiaux bien avant les expéditions officielles.",
     "dates": [
       {
-        "year": "489",
-        "label": "Invasion de l'Italie par Théodoric contre Odoacre"
+        "year": "1765",
+        "label": "Naissance à Marseille"
       },
       {
-        "year": "28 août 489",
-        "label": "Victoire sur l'Isonzo"
+        "year": "1780s",
+        "label": "Début des voyages en Asie comme capitaine"
       },
       {
-        "year": "30 septembre 489",
-        "label": "Défaite des Hérules à Vérone"
+        "year": "1790s",
+        "label": "Introduction du chrysanthème en France depuis la Chine"
       },
       {
-        "year": "491-493",
-        "label": "Siège de Ravenne"
+        "year": "1800s",
+        "label": "Collecte de spécimens botaniques lors de missions commerciales"
       },
       {
-        "year": "15 mars 493",
-        "label": "Assassinat d'Odoacre lors d'un banquet par Théodoric"
-      },
-      {
-        "year": "524",
-        "label": "Exécutions de Boèce et du pape Jean Ier par crainte de révolte"
+        "year": "1826",
+        "label": "Mort à Marseille"
       }
     ],
-    "legacy": "Théodoric instaure un royaume ostrogoth stable de 33 ans, préfigurant les royaumes romano-barbares d'Europe. Ses édifices, comme les églises arianes reconverties, influencent l'architecture byzantine et romane. Son modèle de gouvernance tolérante inspire les rois mérovingiens et carolingiens. Sa postérité survit via l'historien Procope et des légendes comme Dietrich von Bern dans la littérature germanique.",
-    "why": "Cet assassinat banquet révèle comment un 'barbare' sauva l'héritage romain en Italie, posant les bases de l'Europe médiévale multiculturelle bien avant Charlemagne."
+    "legacy": "Les chrysanthèmes de Blancard devinrent un pilier des jardins européens, hybridés et multipliés pour orner parcs et cimetières. Son importation impulsiona l'essor de l'horticulture ornementale en France, préfigurant les serres impériales de Napoléon. Aujourd'hui, ces fleurs symbolisent la Toussaint et influencent l'industrie florale mondiale.",
+    "why": "Dans un monde obsédé par les découvertes spectaculaires, Blancard rappelle que les vraies révolutions botaniques naissent souvent de capitaines anonymes, reliant commerce et science pour transformer nos paysages quotidiens."
   }
 }
