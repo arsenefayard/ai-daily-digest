@@ -1,50 +1,43 @@
 {
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "news": [
     {
-      "title": "Nouveau guide suprême iranien Mojtaba Khamenei réaffirme blocus d'Ormuz et menace nouveaux fronts",
-      "summary": "Mojtaba Khamenei, successeur d'Ali Khamenei présumé mort, publie sa première déclaration le 13 mars lors de la Journée d'Al-Quds, réitérant le blocus du détroit d'Ormuz comme moyen de pression contre les USA et menaçant d'attaquer bases américaines dans les pays voisins. Il annonce l'ouverture de nouveaux fronts dans zones vulnérables pour l'ennemi et exige réparations de guerre américaines. Le Brent dépasse 100 dollars, amplifiant le chantage énergétique mondial avec réduction drastique du trafic pétrolier. L'AIE alerte sur la plus grande perturbation énergétique de l'histoire moderne malgré écoulement continu vers la Chine.",
-      "why": "Cette déclaration escalade la crise, transformant Ormuz en levier économique global et risquant une guerre régionale élargie impliquant alliés du Golfe et Occident.",
+      "title": "USA frappent l'île stratégique de Kharg, hub pétrolier iranien",
+      "summary": "Les États-Unis ont bombardé des sites militaires sur l'île de Kharg, centre vital des exportations pétrolières iraniennes, marquant une escalade dans le conflit au détroit d'Ormuz. Trump menace de viser toutes les installations pétrolières si l'Iran ne rouvre pas le détroit, tout en évoquant un possible capitulation de Téhéran. Cette opération s'inscrit dans une stratégie combinant frappes militaires et pressions diplomatiques pour forcer un changement de régime. Les implications incluent des perturbations potentielles sur les marchés énergétiques mondiaux et une riposte iranienne accrue.",
+      "why": "Cette frappe cible directement l'économie iranienne et risque de perturber 20% du pétrole mondial transitant par Ormuz, impactant l'économie globale.",
       "category": "Conflit"
     },
     {
-      "title": "USA accordent exemption temporaire sanctions pour pétrole russe en haute mer",
-      "summary": "L'administration Trump concède une exemption aux sanctions pour achats de pétrole russe en haute mer, sous pression des marchés énergétiques tendus par la crise iranienne. Cette décision contredit la cohérence géopolitique occidentale face à l'escalade au Moyen-Orient. Elle vise à stabiliser les prix du baril dépassant 100 dollars Brent sur marchés asiatiques. Pékin bénéficie indirectement via flux iraniens maintenus.",
-      "why": "Cela révèle les limites de la stratégie anti-Russie et Iran, priorisant stabilité énergétique sur principes idéologiques au risque de diviser l'Occident.",
+      "title": "Israël étend ses frappes à Téhéran et au Liban après la mort présumée de Khamenei",
+      "summary": "Israël a intensifié ses bombardements sur Téhéran et élargi ses opérations au Liban en réponse aux attaques du Hezbollah, suite à la mort supposée du guide suprême Ali Khamenei et de hauts responsables iraniens. Les frappes visent des centres de commandement des Gardiens de la Révolution, dans un contexte de 'guerre existentielle' affirmée par le chef d'état-major israélien. L'Iran riposte avec missiles et drones contre Israël et les bases US dans le Golfe, causant des dommages limités comme à l'aéroport de Dubaï. Cela accentue les tensions régionales et humanitaires au Moyen-Orient.",
+      "why": "La possible élimination de figures clés du régime iranien pourrait précipiter un changement de pouvoir, redessinant les alliances au Moyen-Orient.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Parlement taïwanais approuve commande massive d'armes US à 11 milliards de dollars",
+      "summary": "Le parlement taïwanais a entériné l'achat de systèmes de défense américains pour plus de 11 milliards de dollars, malgré les obstructions passées, faisant des USA le seul fournisseur extérieur d'armes à Taïwan. Cette décision renforce les capacités défensives face aux menaces chinoises, dans un contexte de rivalité sino-américaine. Elle intervient après la rencontre Trump-Xi sur le commerce et la sécurité régionale. Géopolitiquement, cela consolide l'arc de containment US en Asie-Pacifique.",
+      "why": "Ce méga-contrat militarise davantage le détroit de Taïwan, augmentant les risques d'escalade avec Pékin et structurant les alliances indo-pacifiques.",
+      "category": "Sécurité"
+    },
+    {
+      "title": "USA étendent dérogation sanctions sur pétrole russe à tous acheteurs pour stabiliser prix",
+      "summary": "Les États-Unis ont élargi l'exemption temporaire des sanctions sur le pétrole russe en haute mer à tous les acheteurs, visant à contenir la flambée des prix énergétiques amid la crise Ormuz. L'UE s'oppose à cette mesure, craignant un renforcement de Moscou. Cette décision pragmatique intervient malgré les tensions avec l'Iran et la guerre en Ukraine. Elle illustre les dilemmes énergétiques mondiaux face aux disruptions simultanées.",
+      "why": "En pleine crise pétrolière au Golfe, cela prévient une récession globale mais affaiblit la pression sur la Russie, modifiant les dynamiques sanctions.",
       "category": "Énergie"
     },
     {
-      "title": "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
-      "summary": "Donald Trump a rencontré Xi Jinping pour aborder commerce et sécurité, illustrant rivalité sino-américaine au milieu tensions moyen-orientales. La discussion souligne besoin coopération minimale pour éviter escalade globale. Elle survient dans contexte perturbations logistiques au Golfe affectant chaînes d'approvisionnement mondiales. Pékin tire avantage géopolitique de l'Iran affaibli mais actif.",
-      "why": "Cette rencontre bilatérale critique pourrait moduler impacts économiques de la crise iranienne sur l'économie mondiale dominée par ces deux puissances.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Von der Leyen au Groenland pour partenariats énergétiques et climatiques en Arctique",
-      "summary": "Ursula von der Leyen visite le Groenland pour renforcer liens UE en énergie et climat, faisant de l'Arctique un nouveau théâtre géopolitique. Enjeux croisent fonte glaces, ressources minérales et routes maritimes contestées par Russie, Chine et USA. Cela diversifie approvisionnements européens face dépendance Golfe perturbé. Visite répond à besoin sécuriser alternatives énergétiques urgentes.",
-      "why": "L'Arctique émerge comme pivot stratégique pour souveraineté énergétique UE, contrecarrant vulnérabilités exposées par crise Ormuz.",
-      "category": "Énergie"
-    },
-    {
-      "title": "UE renforce coopération avec Azerbaïdjan en sécurité et énergie",
-      "summary": "L'UE approfondit partenariats avec l'Azerbaïdjan sur sécurité et gaz, visant diversifier approvisionnements face blackout Ormuz. Cela inclut corridors énergétiques Caspienne-Europe pour pallier hausse brutale prix pétrole. Collaboration s'étend à stabilité régionale post-Nagorno-Karabakh. Initiative répond à alertes stagflationniste en Europe par escalade iranienne.",
-      "why": "Diversification gazière critique protège économie UE d'un choc pétrolier, renforçant résilience face instabilité Moyen-Orient.",
-      "category": "Énergie"
+      "title": "Frappes russes massives en Ukraine : au moins 6 morts dans plusieurs régions",
+      "summary": "La Russie a lancé des frappes massives sur l'oblast de Kiev, Soumy, Kharkiv, Dnipro et Mykolaïv, tuant au moins six personnes selon Zelensky. Ces attaques intensifient la guerre malgré les efforts diplomatiques. Elles coïncident avec des tensions élargies au Moyen-Orient, potentiellement détournant l'aide occidentale. Les enjeux humanitaires s'aggravent avec des records de déplacés.",
+      "why": "Ces frappes montrent la résilience russe malgré les sanctions, compliquant l'aide à Kiev au moment où l'Occident gère la crise iranienne.",
+      "category": "Conflit"
     }
   ],
   "updates": [
     {
-      "title": "Israël étend frappes à Téhéran et Liban après mort présumée Khamenei",
-      "original": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
-      "summary": "Israël poursuit bombardements sur Téhéran et étend opérations au Liban suite attaques Hezbollah revendiquant riposte à mort Ali Khamenei. Frappes US antérieures visaient commandements Gardiens Révolution, éliminant hauts responsables. Iran riposte missiles/drones sur Israël et Golfe, endommageant aéroport Dubaï. Trump appelle explicitement Iraniens à renverser régime, marquant escalade objectif régime change.",
-      "why": "Extension au Liban et appel au renversement signalent basculement vers guerre régionale ouverte, avec risques contagion Syrie/Irak.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Crise Ormuz s'aggrave avec menaces blocus et mines navales",
-      "original": "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave",
-      "summary": "Nouveau guide Khamenei réaffirme blocus Ormuz comme pression, malgré démentis antérieurs, avec mines navales US détruites récemment. Trafic pétroliers tiers chute drastiquement, Brent >100$, AIE alerte perturbation historique. Iran continue export Chine 1.5M barils/jour, profitant chaos. France libère réserves mais Macron note capacités iraniennes intactes.",
-      "why": "Chantage énergétique mondialisé menace récession globale, forçant concessions comme exemption pétrole russe.",
+      "title": "USA accordent exemption élargie sur pétrole russe après annonce initiale",
+      "original": "USA accordent exemption temporaire sanctions pour pétrole russe en haute mer",
+      "summary": "Initialement limitée, l'exemption US sur le pétrole russe est désormais ouverte à tous acheteurs pour juguler la hausse des prix amid crise Ormuz. L'UE critique cette extension, voyant un soutien indirect à l'effort de guerre russe. Trump priorise la stabilité énergétique mondiale sur la cohésion atlantique. Cela marque un revirement tactique face à l'escalade iranienne.",
+      "why": "Ce changement élargi impacte directement les marchés et affaiblit l'unité occidentale sur les sanctions.",
       "category": "Énergie"
     }
   ]
