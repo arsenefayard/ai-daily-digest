@@ -1,44 +1,36 @@
 {
-  "date": "14/03/2026",
+  "date": "16/03/2026",
   "news": [
     {
-      "title": "Nasa vise lancement d'Artemis 2 dès le 1er avril 2026",
-      "summary": "La Nasa a annoncé le 12 mars 2026 un lancement potentiel de la mission Artemis 2 dès le 1er avril, marquant le premier vol habité autour de la Lune depuis plus de 50 ans. Cette mission impliquera des astronautes orbitant la Lune après plusieurs reports dus à des problèmes techniques. L'annonce accélère le programme lunaire américain vers un retour humain sur la Lune. Elle renforce la coopération internationale dans l'exploration spatiale.",
-      "why": "Cette avancée concrétise le retour humain sur la Lune et pave la voie pour Artemis 3, avec des implications pour les bases lunaires permanentes.",
-      "category": "Espace"
-    },
-    {
-      "title": "Corbeaux mémorisent les territoires de chasse des loups",
-      "summary": "Une étude publiée dans Science le 12 mars 2026 démontre que les corbeaux utilisent une mémoire spatiale sophistiquée pour suivre les zones de chasse des loups et récupérer les restes de carcasses. Ces corvidés exhibent des capacités de navigation et de mémorisation comparables à celles des primates. Cette interaction inter-espèces révèle une intelligence sociale avancée chez les oiseaux. Les observations ont été menées sur le terrain avec suivi GPS.",
-      "why": "Cela repousse les limites de l'intelligence animale et éclaire les dynamiques écologiques complexes dans les écosystèmes sauvages.",
+      "title": "Guidage magnétique : découverte de l'organe chez le pigeon biset",
+      "summary": "Des chercheurs de l'université de Munich ont identifié l'oreille interne comme l'organe responsable du sens magnétique chez le pigeon biset, permettant l'orientation via le champ magnétique terrestre. Cette avancée résout un mystère clé du guidage migratoire partagé par de nombreuses espèces comme les passereaux, papillons, saumons et baleines. Les observations détaillent le mécanisme biologique impliqué dans ce 'sixième sens'. Cela ouvre des perspectives pour comprendre la navigation animale et potentiellement des applications en biomimétisme.",
+      "why": "Cette découverte majeure éclaire les mécanismes de migration animale et pourrait inspirer de nouvelles technologies de navigation.",
       "category": "Biologie"
     },
     {
-      "title": "Ancêtre géant du T. rex découvert au Nouveau-Mexique",
-      "summary": "Un tibia fossile de 74 millions d'années, exhumé au Nouveau-Mexique, révèle un tyrannosaure géant proche du groupe de T. rex. Sa taille exceptionnelle et sa morphologie suggèrent une diversification précoce des tyrannosauridés. Cette découverte comble un vide dans l'arbre phylogénétique des dinosaures carnivores. L'analyse ostéologique confirme son appartenance aux tyrannosauridés nord-américains.",
-      "why": "Elle affine la compréhension de l'évolution des plus grands prédateurs terrestres et de la biodiversité mésozoïque.",
-      "category": "Biologie"
-    },
-    {
-      "title": "SuperCam détecte carbonates dans roches martiennes riches en olivines",
-      "summary": "SuperCam sur Perseverance a identifié en 2024 des carbonates dans des roches contenant des olivines sur la bordure du delta de Jezero. Ces minéraux riches en carbone résultent d'altérations par de l'eau en contact avec l'atmosphère CO2. Ils indiquent des conditions anciennes potentiellement habitables sur Mars. Cette découverte témoigne d'interactions hydro-chimiques propices à la vie.",
-      "why": "Elle fournit des preuves directes d'un passé aqueux et carbonaté sur Mars, clé pour la recherche de traces de vie.",
+      "title": "Vie microbienne possible dans l'océan d'Europe grâce à la radioactivité",
+      "summary": "Des chercheurs ont démontré qu'une vie microbienne pourrait exister dans l'océan souterrain d'Europe, lune de Jupiter, en s'appuyant sur l'énergie fournie par des éléments radioactifs. Cette étude modélise les conditions énergétiques favorables malgré l'absence de lumière solaire. Les implications concernent la recherche de vie extraterrestre dans des environnements extrêmes. Cela renforce l'intérêt pour de futures missions comme Europa Clipper.",
+      "why": "Elle élargit les zones potentielles de vie dans le système solaire et guide les priorités d'exploration spatiale.",
       "category": "Espace"
     },
     {
-      "title": "SuperCam confirme silice précipitée par fluides hydrothermaux sur Mars",
-      "summary": "En février 2025, SuperCam a analysé des roches riches en silice sur le bord du cratère Jezero via spectrométrie RAMAN. Ces silices (opale, calcédoine, quartz cristallisé) proviennent de fluides hydrothermaux transportant la silice dissoute. Leur précipitation s'est produite lors de changements de pression et température. Cela révèle une hydrologie martienne complexe similaire à la Terre.",
-      "why": "Cette confirmation de processus hydrothermaux martiens ouvre des perspectives pour l'habitabilité passée de la planète.",
+      "title": "Saisons sèches et humides anciennes sur Mars détectées par Curiosity",
+      "summary": "Des chercheurs toulousains ont découvert des dépôts de sels hexagonaux dans des couches sédimentaires martiennes datées de 3,8 à 3,6 milliards d'années, via les instruments Mastcam et ChemCam de Curiosity. Ces motifs indiquent des saisons sèches et humides similaires à celles de la Terre. L'environnement offrait des conditions idéales pour former des composés prébiotiques comme l'ARN. L'étude a été publiée le 9 août dans Nature.",
+      "why": "Cette preuve d'un climat terrestre ancien sur Mars renforce les hypothèses d'habitabilité passée.",
       "category": "Espace"
+    },
+    {
+      "title": "Plus d'eau sur Mars ancien révélée par la météorite Black Beauty",
+      "summary": "Une équipe internationale a utilisé tomographie aux rayons X et neutronique pour détecter une signature hydrogène riche dans la météorite Black Beauty, indiquant plus d'eau circulante dans la croûte martienne qu'estimé. Cette méthode non invasive révèle des minéraux hydratés similaires à ceux du cratère Jezero observés par Perseverance. Les résultats, publiés en janvier 2026 sur arXiv, suggèrent des interactions eau-roche étendues. Cela revoit l'histoire hydrologique de Mars.",
+      "why": "Elle quantifie mieux l'abondance passée d'eau, clé pour l'évaluation de la vie potentielle.",
+      "category": "Espace"
+    },
+    {
+      "title": "Avancées CRISPR-Cas9 avec essais cliniques attendus en 2026",
+      "summary": "La technique CRISPR-Cas9, dite 'ciseaux génétiques', verra en 2026 le lancement de deux essais cliniques majeurs pour manipuler le génome en médecine. Après une décennie de promesses, ces tests visent des applications thérapeutiques précises. L'outil cible des séquences génomiques pour corriger des maladies. Cela marque une étape vers la thérapie génique de routine.",
+      "why": "Ces essais pourraient révolutionner le traitement de maladies génétiques incurables.",
+      "category": "Médecine"
     }
   ],
-  "updates": [
-    {
-      "title": "SuperCam capte décharges électrostatiques dans poussières martiennes",
-      "original": "Détection de décharges électriques dans les tourbillons de poussière sur Mars",
-      "summary": "En 2025, le microphone de SuperCam a enregistré des sons de décharges électrostatiques dues au frottement de grains dans les tourbillons poussiéreux. Ce phénomène confirme les microcharges dans l'air sec martien et accélère les réactions chimiques atmosphériques. Il éclaire la chimie de l'atmosphère et le mystère du méthane. Les données aident à modéliser les tempêtes de poussière globales.",
-      "why": "Cette première détection acoustique valide les modèles électrostatiques et impacte la compréhension des dynamiques atmosphériques martiennes.",
-      "category": "Espace"
-    }
-  ]
+  "updates": []
 }
