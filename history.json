@@ -2,17 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Microsoft inaugure sa première 'super-usine' d'IA pour entraîner des modèles géants en semaines",
-      "WAICF 2026 consacre l'ère de l'industrialisation de l'IA avec focus sur agents autonomes et santé",
-      "Sommet mondial de l'IA en Inde vise à créer un troisième bloc géopolitique face aux USA et Chine",
-      "CyberStrikeAI, outil open source de test sécurité, détourné par pirates pour attaques sur pare-feu Fortinet",
-      "OpenAI lance Codex Security, un agent IA pour l'analyse avancée de vulnérabilités",
-      "L'armée américaine utilise Claude malgré la rupture officielle avec Anthropic"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "Startup Amilabs lève 1,03 milliard de dollars pour développer des world models",
       "AXA prolonge partenariat avec Shift Technology pour détection fraude IA sur 5 ans",
       "ANSSI publie panorama cybersécurité 2025 avec 3586 événements et focus IA",
@@ -56,6 +45,16 @@
       "Oregon adopte la première loi US sur les chatbots IA",
       "Étude UER-BBC : 45% des assistants IA ont des problèmes majeurs",
       "IA en entreprise atteint la maturité en 2026 selon La Tribune"
+    ]
+  },
+  {
+    "date": "16/03/2026",
+    "titles": [
+      "Anthropic déploie en bêta la génération de visuels pour Claude",
+      "Perplexity lance Personal Computer, agent IA 24/7 sur Mac mini",
+      "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
+      "Google intègre Gemini plus profondément dans Workspace",
+      "USA retirent projet de règlement sur exportations puces IA"
     ]
   }
 ]
