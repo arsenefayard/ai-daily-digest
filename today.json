@@ -1,35 +1,35 @@
 {
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "news": [
     {
-      "title": "xAI publie Grok 4.20 Beta 2 optimisé pour le code",
-      "summary": "xAI a lancé Grok 4.20 Beta 2, une version améliorée axée sur la génération et le débogage de code avec des performances supérieures sur les benchmarks comme HumanEval et LeetCode. Ce modèle intègre des capacités multi-agents pour la collaboration en développement logiciel. Il concurrence directement les coding agents émergents et les IDE multi-agents. Disponible via l'API xAI pour les développeurs.",
-      "why": "Renforce la position d'xAI dans le coding agentique en explosion, offrant une alternative open à Claude et GPT pour les entreprises.",
+      "title": "Anthropic déploie en bêta la génération de visuels pour Claude",
+      "summary": "Anthropic a lancé une fonctionnalité bêta pour son assistant Claude permettant de générer des graphiques, diagrammes et illustrations interactives directement dans les réponses. Ces visuels s'affichent en temps réel au fil de la conversation, améliorant la capacité d'analyse et de présentation de données complexes. Cette avancée multimodal renforce Claude face à la concurrence en intégrant nativement la visualisation dans les flux de travail professionnels. Elle marque un pas vers des agents IA plus complets pour la productivité.",
+      "why": "Cette fonctionnalité élève Claude au niveau des outils multimodaux leaders, boostant son adoption en entreprise pour des tâches analytiques visuelles.",
       "category": "Modèle"
     },
     {
-      "title": "OpenAI sort GPT-5.3 Instant pour corriger les hallucinations",
-      "summary": "OpenAI a publié GPT-5.3 Instant, une variante de GPT-5.3 réduisant les hallucinations de 27% grâce à une meilleure calibration des probabilités et un fine-tuning sur des datasets vérifiés. Ce modèle conserve un contexte de 500k tokens et excelle en raisonnement factuel. Il est optimisé pour les applications enterprise nécessitant fiabilité. Déploiement immédiat via ChatGPT Plus et API.",
-      "why": "Adresse un défaut majeur des LLM actuels, boostant l'adoption en production critique comme la santé et la finance.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Oregon adopte la première loi US sur les chatbots IA",
-      "summary": "L'État de l'Oregon a promulgué la première législation américaine spécifique aux chatbots IA, imposant une transparence sur les données d'entraînement, un watermarking obligatoire et des audits annuels pour les déploiements publics. La loi cible les biais et la désinformation générée. Elle entre en vigueur en juillet 2026. Influence potentielle sur d'autres États face à l'absence de régulation fédérale.",
-      "why": "Pionnière aux USA, elle pose les bases d'une régulation décentralisée de l'IA générative.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Étude UER-BBC : 45% des assistants IA ont des problèmes majeurs",
-      "summary": "Une étude paneuropéenne de l'UER et BBC révèle que 45% des assistants IA présentent des défaillances critiques en fiabilité, biais et sécurité, testés sur 200 produits. Les problèmes incluent hallucinations persistantes et fuites de données. Recommandations pour des standards européens renforcés. Publiée le 15 mars 2026.",
-      "why": "Fournit des données empiriques urgentes pour les politiques publiques sur l'IA dans les médias et services publics.",
-      "category": "Recherche"
-    },
-    {
-      "title": "IA en entreprise atteint la maturité en 2026 selon La Tribune",
-      "summary": "L'article de La Tribune analyse 2026 comme l'année où l'IA passe des prototypes aux déploiements massifs en entreprise, surmontant les complexités des SI legacy via des agents hybrides. 60% des Fortune 500 intègrent déjà des workflows IA. Focus sur ROI mesurable en productivité. Tendances : agents autonomes et IA souveraine.",
-      "why": "Marque le passage concret de l'IA à l'industrialisation, avec impacts économiques immédiats.",
+      "title": "Perplexity lance Personal Computer, agent IA 24/7 sur Mac mini",
+      "summary": "Perplexity étend son système agentique avec Personal Computer, un agent qui opère en continu sur un Mac mini connecté aux fichiers et applications de l'utilisateur. Il gère des tâches autonomes comme l'analyse de documents, l'automatisation de workflows et les interactions avec des logiciels tiers. Cette intégration hardware-software permet une IA personnelle persistante, accessible via API ou interface web. Elle cible les professionnels cherchant une assistance IA embarquée et sécurisée.",
+      "why": "Personal Computer démocratise les agents IA résidents, potentiellement transformant l'usage quotidien des ordinateurs personnels.",
       "category": "Application"
+    },
+    {
+      "title": "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
+      "summary": "Adobe rend publique la bêta de son assistant IA dans Photoshop, accessible sur web, iOS et Android avec générations illimitées pour les abonnés. L'outil automatise l'édition, la génération et la retouche d'images via commandes naturelles. Il intègre des modèles Firefly pour une création rapide de visuels professionnels. Cette disponibilité large accélère l'adoption de l'IA créative chez les designers.",
+      "why": "La généralisation sur multi-plateformes rend l'IA générative accessible à des millions d'utilisateurs créatifs, boostant la productivité Adobe.",
+      "category": "Application"
+    },
+    {
+      "title": "Google intègre Gemini plus profondément dans Workspace",
+      "summary": "Gemini s'invite dans Docs, Sheets, Slides et Drive avec de nouvelles fonctionnalités IA en bêta pour les abonnés AI Premium. Il automatise la rédaction, l'analyse de données, la création de présentations et la recherche dans Drive. Ces outils agentiques gèrent des tâches complexes comme la synthèse de rapports ou la génération de graphiques. Le déploiement vise à concurrencer Copilot dans l'entreprise.",
+      "why": "Cette intégration renforce la domination Google en productivité IA, impactant des milliards d'utilisateurs Workspace.",
+      "category": "Application"
+    },
+    {
+      "title": "USA retirent projet de règlement sur exportations puces IA",
+      "summary": "Le ministère américain du Commerce a retiré son projet 'AI Action Plan Implementation' sur les exportations de puces IA avancées, publié fin février. La règle visait à exiger des investissements alliés dans des data centers US ou garanties sécurité pour +200k puces. Ce retrait reflète des divergences internes sur la stratégie de domination IA face à la Chine. Il maintient partiellement les restrictions Biden tout en simplifiant le cadre.",
+      "why": "Ce revirement géopolitique affecte la chaîne d'approvisionnement globale des puces IA, influençant la concurrence USA-Chine.",
+      "category": "Régulation"
     }
   ],
   "updates": []
