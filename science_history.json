@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos",
-      "Perseverance détecte silice cristallisée et minéraux réox sensibles à Jezero",
-      "Microrcharges électrostatiques confirmées sur Mars par grains minéraux chargés",
-      "Halos opalins riches en eau détectés autour des fissures par Curiosity",
-      "Banquise arctique atteint un de ses niveaux historiques les plus bas"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "Cancer colorectal chez les jeunes : une piste enfin identifiée",
       "Des chercheurs parviennent à traiter la dépression en moins d’une semaine",
       "Mission lunaire Artémis 2 : la Nasa annonce viser un lancement dès le 1er avril",
@@ -65,6 +55,16 @@
       "SuperCam détecte carbonates dans roches martiennes riches en olivines",
       "SuperCam confirme silice précipitée par fluides hydrothermaux sur Mars",
       "SuperCam capte décharges électrostatiques dans poussières martiennes"
+    ]
+  },
+  {
+    "date": "16/03/2026",
+    "titles": [
+      "Guidage magnétique : découverte de l'organe chez le pigeon biset",
+      "Vie microbienne possible dans l'océan d'Europe grâce à la radioactivité",
+      "Saisons sèches et humides anciennes sur Mars détectées par Curiosity",
+      "Plus d'eau sur Mars ancien révélée par la météorite Black Beauty",
+      "Avancées CRISPR-Cas9 avec essais cliniques attendus en 2026"
     ]
   }
 ]
