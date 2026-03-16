@@ -2,17 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Pétrole dépasse 100 dollars : escalade majeure de la crise iranienne",
-      "G7 et AIE mobilisent les réserves stratégiques de pétrole",
-      "Trump instaure des droits de douane mondiaux de 15% après annulation judiciaire",
-      "Crise structurelle de l'automobile : Stellantis et Renault enregistrent des pertes records",
-      "Risque de déflation en France : inflation à 0,3% en janvier, interrogations sur Christine Lagarde",
-      "Pétrole : nouvelle escalade au-delà de 100 dollars"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "Arrêt de l'usine de GNL de Ras Laffan au Qatar suite à opération iranienne",
       "AIE débloque 400 millions de barils de pétrole des réserves stratégiques",
       "Japon puise dans ses réserves de pétrole à partir du 16 mars",
@@ -68,6 +57,16 @@
       "AIE avertit d'une forte baisse de la production pétrolière du Golfe due aux perturbations dans le détroit d'Ormuz",
       "Faiblesse de la dynamique du crédit en Chine en février renforce les doutes sur la reprise économique",
       "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité en ligne"
+    ]
+  },
+  {
+    "date": "16/03/2026",
+    "titles": [
+      "Nomination de Kevin Warsh à la tête de la Réserve fédérale par Donald Trump",
+      "PIB américain décevant à 1,4% au T4 2025 dû au shutdown gouvernemental",
+      "Faiblesse persistante de la dynamique du crédit en Chine en février 2026",
+      "Enquête mensuelle de conjoncture de la Banque de France début mars 2026",
+      "Printemps de l'économie 2026 du 17 au 20 mars sur les rapports de force mondiaux"
     ]
   }
 ]
