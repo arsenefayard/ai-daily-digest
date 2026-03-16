@@ -1,35 +1,35 @@
 {
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "news": [
     {
-      "title": "L'origine sumérienne de l'écriture cunéiforme",
-      "summary": "Vers 3200 av. J.-C., les Sumériens de Mésopotamie inventèrent le cunéiforme, le plus ancien système d'écriture connu, en gravant des signes en forme de clous sur des tablettes d'argile. Initialement pictographique pour comptabiliser les récoltes et le bétail, il évolua vers des symboles abstraits représentant des sons et des idées. Ce système permit la naissance des premières lois, épopées comme celle de Gilgamesh et archives administratives. Il influença les civilisations akkadienne, babylonienne et assyrienne sur plus de trois millénaires.",
-      "why": "Cette invention marque le passage de la préhistoire à l'histoire écrite, fondement de toutes les civilisations complexes.",
+      "title": "Les origines africaines du zombie au Musée des Confluences",
+      "summary": "L'exposition 'Zombis, aux origines' explore les racines vaudou africaines du zombie, un esprit sans volonté créé par des sorciers en Haïti. Contrairement à l'image hollywoodienne de revenants cannibales, le zombie haïtien incarne l'esclavage éternel et la perte d'identité. Présentée à Lyon, elle retrace l'évolution culturelle jusqu'à la pop culture moderne. Des rituels authentiques et artefacts haïtiens y sont exposés.",
+      "why": "Cela révèle les distorsions culturelles d'un mythe populaire et sensibilise aux traditions vaudou vivantes.",
       "category": "Histoire"
     },
     {
-      "title": "Le dilemme du prisonnier en théorie des jeux",
-      "summary": "Formulé en 1950 par Merrill Flood et Melvin Dresher, puis popularisé par Albert Tucker, ce paradoxe oppose deux prisonniers qui doivent choisir de trahir ou coopérer sans communication. La trahison mutuelle mène au pire résultat collectif, tandis que la coopération offre le meilleur gain partagé, mais l'incitation individuelle pousse à la défection. Il illustre les conflits entre intérêt personnel et collectif dans l'économie, la biologie évolutive et les relations internationales. Des variantes comme le dilemme du voyageur montrent comment la répétition peut favoriser la coopération.",
-      "why": "Il explique pourquoi les humains et animaux peinent à coopérer malgré les bénéfices mutuels, éclairant guerres, pollution et négociations.",
-      "category": "Philosophie"
+      "title": "Le Minotaure et le labyrinthe de Dédale dans la mythologie grecque",
+      "summary": "Le Minotaure, mi-homme mi-taureau, fut enfermé par Minos dans un labyrinthe conçu par Dédale pour dévorer des victimes athéniennes. Ariane offrit à Thésée un fil pour s'échapper après avoir tué la créature. Ce mythe symbolise la lutte contre les pulsions bestiales et l'ingéniosité humaine. Il inspira architecture, art et psychologie freudienne.",
+      "why": "Il offre une métaphore intemporelle de l'exploration intérieure et des monstres psychologiques.",
+      "category": "Mythologie"
     },
     {
-      "title": "Les 400 coups de François Truffaut",
-      "summary": "Sorti en 1959, ce film semi-autobiographique lance la Nouvelle Vague française en brisant les conventions hollywoodiennes avec un tournage en décors réels et acteurs non professionnels. Il suit Antoine Doinel, jeune délinquant parisien en quête d'affection face à une société rigide. Truffaut y capture l'enfance rebelle avec un zoom final iconique sur un visage en mer. Chef-d'œuvre oscarisé, il inspira des générations de cinéastes par sa liberté narrative.",
-      "why": "Il révolutionna le cinéma en démocratisant la création et en humanisant l'adolescence marginale.",
-      "category": "Cinéma"
+      "title": "L'effet Dunning-Kruger : l'incompétence surconfiante",
+      "summary": "Découvert en 1999, cet effet psychologique montre que les moins compétents surestiment leurs aptitudes par manque de métacognition. Les experts, au contraire, sous-estiment souvent leurs savoirs. Des expériences simples, comme des tests de logique, le démontrent clairement. Il explique bien des comportements sociaux irrationnels.",
+      "why": "Comprendre ce biais améliore l'auto-évaluation et les débats publics.",
+      "category": "Psychologie"
     },
     {
-      "title": "La découverte de la structure de l'ADN par Watson et Crick",
-      "summary": "En 1953, James Watson et Francis Crick modélisèrent la double hélice de l'ADN à Cambridge, s'appuyant sur les données de diffraction de Rosalind Franklin. Cette structure en échelle torsadée explique la réplication génétique par complémentarité des bases A-T et G-C. Elle posa les bases de la biologie moléculaire, du séquençage génétique et des thérapies géniques. Nobel de médecine en 1962, elle transforma notre compréhension de la vie.",
-      "why": "Elle ouvrit l'ère de la génétique moderne, impactant médecine, agriculture et éthique scientifique.",
+      "title": "La machine analytique de Charles Babbage, ancêtre des ordinateurs",
+      "summary": "Conçue en 1837, cette machine à différence programmable préfigurait les ordinateurs modernes avec cartes perforées et calculs automatisés. Ada Lovelace y écrivit le premier algorithme pour calculer des nombres de Bernoulli. Jamais construite de son vivant faute de fonds, elle fut validée en 1991. Elle marque le passage du mécanique au numérique.",
+      "why": "Elle démontre que l'informatique naquit au XIXe siècle, pas au XXe.",
       "category": "Science pop"
     },
     {
-      "title": "L'homme qui ne cligna pas des yeux pendant 1 heure 7 minutes",
-      "summary": "En 1937, lors d'une compétition à Cannes, le Français Paul Le Bœuf fixa un point sans cligner pendant 1 heure et 7 minutes, record mondial Guinness toujours inégalé. Ce défi extrême sollicite les muscles oculaires au maximum, provoquant fatigue et vision floue. Il illustre les limites physiologiques humaines, comparables à des exploits comme retenir sa respiration. Aujourd'hui, des apps testent cette capacité pour évaluer la concentration.",
-      "why": "Ce record révèle les prouesses corporelles inattendues et fascine par son absurdité physiologique.",
-      "category": "Insolite"
+      "title": "Le paradoxe de Zénon : Achille n'attrape jamais la tortue",
+      "summary": "Zénon d'Élée (Ve siècle av. J.-C.) argua qu'Achille, plus rapide, ne rattrape jamais la tortue car il doit d'abord parcourir la moitié de la distance, puis la moitié de la moitié, à l'infini. Ce paradoxe défie le mouvement continu et les nombres réels. Résolu par les mathématiques modernes via les limites et séries infinies. Il inspira la théorie des ensembles.",
+      "why": "Il pose les bases philosophiques des mathématiques du continu et de l'infini.",
+      "category": "Philosophie"
     }
   ],
   "updates": []
