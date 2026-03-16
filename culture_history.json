@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "La cathédrale engloutie de Yubari au Japon",
-      "Le théorème de Gödel : les limites de la mathématique",
-      "Fantasmagorie : le premier court-métrage d'animation de 1908",
-      "La découverte de la quinine et la fin du paludisme colonial",
-      "Le record de la plus longue sieste : 23 jours en 1959"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "La machine analytique de Charles Babbage : l'ancêtre oublié des ordinateurs modernes",
       "Le dilemme de l'herbe du voisin : le paradoxe psychologique de la satisfaction humaine",
       "La cité perdue de Vilcabamba : le dernier bastion inca contre les conquistadors",
@@ -67,6 +57,16 @@
       "Les 400 coups de François Truffaut",
       "La découverte de la structure de l'ADN par Watson et Crick",
       "L'homme qui ne cligna pas des yeux pendant 1 heure 7 minutes"
+    ]
+  },
+  {
+    "date": "16/03/2026",
+    "titles": [
+      "Les origines africaines du zombie au Musée des Confluences",
+      "Le Minotaure et le labyrinthe de Dédale dans la mythologie grecque",
+      "L'effet Dunning-Kruger : l'incompétence surconfiante",
+      "La machine analytique de Charles Babbage, ancêtre des ordinateurs",
+      "Le paradoxe de Zénon : Achille n'attrape jamais la tortue"
     ]
   }
 ]
