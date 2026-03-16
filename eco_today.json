@@ -1,35 +1,35 @@
 {
-  "date": "14/03/2026",
+  "date": "16/03/2026",
   "news": [
     {
-      "title": "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points sous l'effet de la volatilité pétrolière",
-      "summary": "Le CAC 40 a connu une semaine en dents de scie avec des pertes cumulées de 1,54%, clôturant à 8 041,81 points, plombé par les fluctuations des cours du pétrole dues au conflit au Moyen-Orient. Les cours du Brent ont frôlé les 120 dollars le baril lundi en raison du blocage du détroit d'Ormuz par l'Iran. STMicroelectronics a gagné 5% et TotalEnergies 4,7%, tandis que Stellantis a chuté de 8,1% et ArcelorMittal de 7,7%. Cette volatilité reflète l'incertitude géopolitique impactant les marchés européens.",
-      "why": "La baisse du CAC 40 illustre l'impact direct du conflit iranien sur les indices boursiers européens, augmentant les risques d'inflation et freinant la confiance des investisseurs.",
-      "category": "Marchés"
-    },
-    {
-      "title": "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques",
-      "summary": "L'administration Trump a initié le 11 mars de nouvelles enquêtes commerciales visant de nombreux pays partenaires, après l'annulation judiciaire de ses outils tarifaires précédents. Cette mesure vise à rétablir une pression tarifaire mondiale, dans un contexte de tensions accrues. Elle s'ajoute aux droits de douane de 15% déjà instaurés, exposant les entreprises à des risques de remboursements estimés à 175 milliards de dollars. Plus de 1 500 sociétés, dont FedEx, ont saisi la justice.",
-      "why": "Ces enquêtes relancent les tensions commerciales mondiales, menaçant la croissance et les chaînes d'approvisionnement internationales.",
+      "title": "Nomination de Kevin Warsh à la tête de la Réserve fédérale par Donald Trump",
+      "summary": "Donald Trump a nommé Kevin Warsh président de la Fed, signalant une volonté de maintenir l'indépendance de la banque centrale face aux pressions antérieures pour des baisses de taux. Cette décision apaise les marchés en contrastant avec les tensions passées entre Trump et la Fed. Warsh est perçu comme un faucon modéré favorable à une politique monétaire prudente. Elle intervient dans un contexte d'incertitudes géopolitiques et commerciales qui pèsent sur l'inflation et la croissance.",
+      "why": "Cette nomination influence les attentes sur les taux d'intérêt américains, impactant les marchés mondiaux et les coûts d'emprunt globaux.",
       "category": "Politique monétaire"
     },
     {
-      "title": "AIE avertit d'une forte baisse de la production pétrolière du Golfe due aux perturbations dans le détroit d'Ormuz",
-      "summary": "L'Agence internationale de l'énergie a signalé le 12 mars que les perturbations maritimes dans le détroit d'Ormuz, causées par le conflit Moyen-Orient, pourraient entraîner une chute significative de la production pétrolière du Golfe en mars 2026. Les prix du pétrole ont approché les 100 dollars après l'arrêt des ports pétroliers irakiens. Goldman Sachs estime qu'une fermeture de quatre semaines pourrait ajouter 15 dollars au baril. L'AIE a libéré 400 millions de barils de réserves stratégiques pour stabiliser les prix.",
-      "why": "Cette menace pèse sur l'offre mondiale d'énergie, risquant une inflation persistante et un ralentissement économique global.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Faiblesse de la dynamique du crédit en Chine en février renforce les doutes sur la reprise économique",
-      "summary": "Les données chinoises de février montrent une faiblesse persistante de la croissance du crédit, alimentant les interrogations sur la demande intérieure et l'efficacité des mesures de relance. Cela impacte les perspectives pour les marchés des métaux industriels, de l'énergie et des actions cycliques. Les investisseurs surveillent les rapports d'entreprises comme AVIC et Yonyou Network pour évaluer la reprise industrielle. Une impulsion faible du crédit pourrait entraîner une prudence accrue sur les actifs émergents.",
-      "why": "La Chine, locomotive économique mondiale, voit sa reprise fragilisée, affectant les matières premières et les exportateurs globaux.",
+      "title": "PIB américain décevant à 1,4% au T4 2025 dû au shutdown gouvernemental",
+      "summary": "Le PIB des États-Unis a ralenti à 1,4% au quatrième trimestre 2025, impacté par un shutdown qui a coûté environ 1,5% de croissance via la non-consommation des fonctionnaires non payés. Ce ralentissement suit deux trimestres de forte expansion et devrait être partiellement récupéré. L'investissement des entreprises accélère en début 2026, et le marché de l'emploi s'améliore légèrement. Cela ne remet pas en cause la résilience globale de l'économie américaine.",
+      "why": "Ce chiffre modifie les prévisions de croissance mondiale et renforce les débats sur la robustesse de la première économie face aux chocs.",
       "category": "Marchés"
     },
     {
-      "title": "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité en ligne",
-      "summary": "Google a été condamné le 12 mars à 23 millions d'euros par une juridiction européenne pour abus de position dominante dans la publicité numérique. Cette décision crée une onde de choc dans le secteur technologique, accentuant la pression réglementaire sur les géants du numérique. Elle intervient dans un contexte de volatilité accrue due aux tensions géopolitiques. Les marchés tech pourraient voir leurs valorisations impactées par des enquêtes similaires.",
-      "why": "Cette amende renforce la régulation antitrust en Europe, potentiellement freinant la croissance des revenus publicitaires des Big Tech.",
-      "category": "Entreprises"
+      "title": "Faiblesse persistante de la dynamique du crédit en Chine en février 2026",
+      "summary": "Les données de crédit chinois de février montrent une faiblesse qui alimente les doutes sur la demande intérieure et l'efficacité des mesures de relance. Cela impacte les perspectives de reprise industrielle et la demande pour les métaux et l'énergie. Les marchés des matières premières et actions cycliques adoptent une prudence accrue. Ce signal est crucial pour l'Asie et les exportateurs mondiaux.",
+      "why": "La Chine étant un moteur clé de la croissance mondiale, cette faiblesse risque de peser sur les commodities et les chaînes d'approvisionnement globales.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Enquête mensuelle de conjoncture de la Banque de France début mars 2026",
+      "summary": "La Banque de France a publié son enquête mensuelle de conjoncture début mars, offrant un diagnostic sur l'économie française via des indicateurs de climat des affaires. Elle reflète l'impact des tensions pétrolières et géopolitiques sur la confiance des entreprises. Les résultats guident les attentes pour les décisions de la BCE. Ce baromètre est essentiel pour anticiper l'évolution de l'activité en zone euro.",
+      "why": "Ces indicateurs influencent les politiques monétaires européennes et les investissements dans un contexte de volatilité énergétique.",
+      "category": "Banques"
+    },
+    {
+      "title": "Printemps de l'économie 2026 du 17 au 20 mars sur les rapports de force mondiaux",
+      "summary": "L'événement se tient du 17 au 20 mars à Paris, décryptant les rapports de force économiques dans un monde fragmenté par géopolitique et recompositions industrielles. Thèmes : IA, défense, finance numérique, inégalités et transition écologique. Il interroge les marges de manœuvre des États et l'avenir du multilatéralisme. Sessions sur euro numérique et actifs digitaux soulignent les mutations financières.",
+      "why": "Cet forum oriente les débats sur la puissance économique européenne face aux défis globaux, influençant stratégies d'entreprises et politiques publiques.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": []
