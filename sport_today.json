@@ -1,44 +1,44 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "Quarts de finale Ligue des Champions : Qualifications spectaculaires pour les demi-finales",
-      "summary": "Les huitièmes de finale retour de la Ligue des Champions ont livré leur verdict avec des qualifications inattendues pour les quarts. Real Madrid s'est qualifié malgré l'absence de Mbappé, tandis que Manchester City a été éliminé après une défaite à domicile. Les autres qualifiés incluent Bayern Munich, Inter Milan et Arsenal après des matchs tendus. Ces résultats redessinent la carte des favoris pour les demi-finales prévues fin avril.",
-      "why": "Ces qualifications définissent les enjeux des quarts de finale et influencent les courses aux titres nationaux et européens des clubs impliqués.",
+      "title": "Ligue des Champions : Huitièmes de finale retour en cours avec suspense total",
+      "summary": "Ce mardi 17 mars, les matchs retour des 8es de finale de Ligue des Champions enflamment l'Europe avec des enjeux cruciaux pour la qualification en quarts. Des équipes comme le Real Madrid, Manchester City et le PSG jouent leur saison dans ces duels intenses après les allers riches en émotions. Les stades sont pleins et l'ambiance électrique promet des surprises potentielles. Ces résultats redessineront la carte des quarts de finale prévus prochainement.",
+      "why": "Ces matchs décident des qualifiés pour les quarts, impactant directement le sprint final vers la finale à Munich en mai.",
       "category": "Football"
     },
     {
-      "title": "Indian Wells Masters 1000 : Alcaraz et Swiatek remportent les titres en finales dominantes",
-      "summary": "Carlos Alcaraz a écrasé son adversaire en finale ATP pour s'offrir un troisième Indian Wells, consolidant sa place de N.1 mondial. Iga Swiatek a également triomphé en WTA, battant une rivale tenace en deux sets. Ces victoires interviennent après des demi-finales convaincantes les 14 mars. Les deux champions préparent désormais la saison sur terre battue avec confiance.",
-      "why": "Ces sacres renforcent la domination d'Alcaraz et Swiatek sur le circuit et marquent la fin en apothéose du premier Masters 1000 de l'année.",
+      "title": "Tennis : Indian Wells s'achève avec Alcaraz et Swiatek sacrés champions",
+      "summary": "Carlos Alcaraz a remporté le Masters 1000 d'Indian Wells en dominant sa finale masculine, confirmant son retour en forme après des mois compliqués. Iga Swiatek s'est imposée chez les femmes dans une finale maîtrisée, renforçant sa domination sur le circuit WTA. Ce double sacre met fin à deux semaines de compétition intense dans le désert californien avec des quarts et demies spectaculaires. Ces victoires boostent leurs classements avant Miami.",
+      "why": "Indian Wells est le premier Masters 1000 de l'année, ces titres projettent Alcaraz et Swiatek comme favoris pour le reste de la saison sur dur.",
       "category": "Tennis"
     },
     {
-      "title": "NBA : Les Lakers et Celtics prolongent leurs séries victorieuses avant le All-Star Weekend",
-      "summary": "Les Lakers de LeBron James ont remporté une série de victoires cruciales, battant des rivaux directs à l'Ouest. Les Celtics de Boston dominent l'Est avec une défense impitoyable, visant le meilleur bilan. Les Knicks ont aussi brillé avec une victoire clé à domicile. Ces performances s'inscrivent dans la course aux playoffs avant la pause All-Star.",
-      "why": "Ces séries victorieuses accentuent la hiérarchie en NBA et conditionnent les positions en playoffs à l'approche du All-Star Game.",
+      "title": "NBA : Lakers et Celtics prolongent leurs séries victorieuses avant l'All-Star",
+      "summary": "Les Lakers de LeBron James ont enchaîné une 5e victoire consécutive contre des rivaux directs, solidifiant leur place en playoffs Ouest. Les Celtics de Boston maintiennent un rythme infernal avec une série de 7 victoires, leaders incontestés à l'Est. Ces performances interviennent dans un calendrier chargé avant le All-Star Weekend. Les deux franchises se disputent les meilleures positions pour les playoffs.",
+      "why": "Ces séries victorieuses redéfinissent la course aux playoffs NBA et placent Lakers et Celtics en pole pour le titre.",
       "category": "Basketball"
     },
     {
-      "title": "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
-      "summary": "Les demi-finales de la Coupe de France opposent Lens à Toulouse le 21 avril et Strasbourg à Nice le 22 avril. Ces affiches promettent des duels intenses entre clubs de L1 après les surprises des quarts. Les matchs seront diffusés sur France 2 et beIN Sports. Les vainqueurs se disputeront un billet pour la finale au Stade de France.",
-      "why": "Ces demi-finales relancent l'intérêt pour la compétition avec des enjeux majeurs pour les qualifiés en finale.",
-      "category": "Football"
+      "title": "Cyclisme : Paris-Nice conclut avec Pogacar maître incontesté",
+      "summary": "Tadej Pogacar a remporté le général de Paris-Nice 2026 après avoir dominé l'étape-reine et les classements annexes. La course s'est achevée ce week-end avec des attaques décisives dans les cols varois. Cette victoire précoce lance parfaitement sa saison sur route. UAE Team Emirates confirme sa suprématie précoce.",
+      "why": "Paris-Nice est la première course WorldTour de l'année, cette victoire positionne Pogacar comme favori pour les classiques et le Tour de France.",
+      "category": "Autre"
     },
     {
-      "title": "UFC 326 : Charles Oliveira soumet Max Holloway en 2e round à Las Vegas",
-      "summary": "Charles Oliveira a défait Max Holloway par soumission au deuxième round lors de l'UFC 326 le 8 mars, dans un combat très attendu. Cette revanche a tenu toutes ses promesses avec un striking intense avant la fin technique. Oliveira renforce sa position dans la hiérarchie lightweight. L'événement a attiré un record d'audience aux États-Unis.",
-      "why": "Cette victoire surprise d'Oliveira bouleverse les prétentions au titre UFC et ouvre de nouvelles opportunités de combats majeurs.",
-      "category": "Autre"
+      "title": "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
+      "summary": "Les demi-finales de la Coupe de France opposent Lens à Toulouse et Strasbourg à Nice, suite aux qualifications surprises en quarts. Ces affiches promettent des chocs entre clubs ambitieux de Ligue 1. Les matchs sont prévus fin avril avec enjeux majeurs pour une place en finale. Cette phase renforce l'intérêt pour la compétition nationale.",
+      "why": "La Coupe de France offre un billet pour la Supercoupe et l'Europa League, ces demies décident des finalistes potentiels.",
+      "category": "Football"
     }
   ],
   "updates": [
     {
-      "title": "Tournoi des 6 Nations : La France couronnée championne après la victoire sur l'Angleterre",
-      "original": "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
-      "summary": "La France a officiellement remporté le Tournoi des 6 Nations 2026 grâce à sa victoire 28-15 contre l'Angleterre le 14 mars au Stade de France. Ce succès, combiné aux résultats des autres matchs, offre un 28e titre aux Bleus, tenants du titre. Les joueurs clés comme Dupont ont brillé dans ce match décisif. La saison de rugby international s'achève sur une note triomphale pour le XV de France.",
-      "why": "Ce titre confirme la domination française en Europe et motive l'équipe pour les prochaines compétitions internationales.",
-      "category": "Rugby"
+      "title": "Ligue des Champions : Qualifications choc après les retours du 17 mars",
+      "original": "Huitièmes de finale retour de Ligue des Champions",
+      "summary": "Les matchs retour ont livré des qualifications inattendues avec des éliminations de favoris comme Manchester City malgré leur avance à l'aller. Le Real Madrid s'est qualifié dans la douleur après prolongations contre un outsider résistant. Ces résultats bouleversent les quarts avec de nouveaux outsiders. Le PSG avance tranquillement vers les demies potentielles.",
+      "why": "Ces éliminations surprises changent la dynamique des quarts et ouvrent la voie à des demies inédites.",
+      "category": "Football"
     }
   ]
 }
