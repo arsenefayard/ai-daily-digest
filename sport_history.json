@@ -2,17 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations demain",
-      "Grand Prix de Chine F1 : Verstappen en pole pour défendre son leadership à Shanghai",
-      "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
-      "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
-      "Betclic Elite J22 : La course au titre s'intensifie en basketball français ce week-end",
-      "Huitièmes de finale retour de Ligue des Champions : Les grands clubs européens en action"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations",
       "Grand Prix de Chine F1 : Verstappen en pole position pour défendre son leadership à Shanghai",
       "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
@@ -73,6 +62,17 @@
       "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
       "UFC 326 : Charles Oliveira soumet Max Holloway en 2e round à Las Vegas",
       "Tournoi des 6 Nations : La France couronnée championne après la victoire sur l'Angleterre"
+    ]
+  },
+  {
+    "date": "17/03/2026",
+    "titles": [
+      "Ligue des Champions : Huitièmes de finale retour en cours avec suspense total",
+      "Tennis : Indian Wells s'achève avec Alcaraz et Swiatek sacrés champions",
+      "NBA : Lakers et Celtics prolongent leurs séries victorieuses avant l'All-Star",
+      "Cyclisme : Paris-Nice conclut avec Pogacar maître incontesté",
+      "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
+      "Ligue des Champions : Qualifications choc après les retours du 17 mars"
     ]
   }
 ]
