@@ -1,36 +1,44 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "Les origines africaines du zombie au Musée des Confluences",
-      "summary": "L'exposition 'Zombis, aux origines' explore les racines vaudou africaines du zombie, un esprit sans volonté créé par des sorciers en Haïti. Contrairement à l'image hollywoodienne de revenants cannibales, le zombie haïtien incarne l'esclavage éternel et la perte d'identité. Présentée à Lyon, elle retrace l'évolution culturelle jusqu'à la pop culture moderne. Des rituels authentiques et artefacts haïtiens y sont exposés.",
-      "why": "Cela révèle les distorsions culturelles d'un mythe populaire et sensibilise aux traditions vaudou vivantes.",
+      "title": "Les origines africaines du zombi révélées au Musée des Confluences de Lyon",
+      "summary": "L'exposition « Zombis, aux origines » explore le phénomène méconnu du zombi (sans « e »), un concept issu des pratiques magico-religieuses africaines, du vaudou haïtien et de la maîtrise des poisons par les peuples caribéens. Contrairement à la version hollywoodienne du revenant, le zombi est un phénomène anthropologique et religieux toujours existant en Haïti. L'exposition examine toutes les facettes de ce phénomène, du contexte historique à son appropriation par la culture populaire contemporaine. C'est l'une des grandes expositions à ne pas rater cette année à Lyon.",
+      "why": "Cette exposition révèle comment un concept culturel authentique a été transformé par la pop culture, offrant une compréhension nuancée des croyances et pratiques des peuples africains et caribéens.",
       "category": "Histoire"
     },
     {
-      "title": "Le Minotaure et le labyrinthe de Dédale dans la mythologie grecque",
-      "summary": "Le Minotaure, mi-homme mi-taureau, fut enfermé par Minos dans un labyrinthe conçu par Dédale pour dévorer des victimes athéniennes. Ariane offrit à Thésée un fil pour s'échapper après avoir tué la créature. Ce mythe symbolise la lutte contre les pulsions bestiales et l'ingéniosité humaine. Il inspira architecture, art et psychologie freudienne.",
-      "why": "Il offre une métaphore intemporelle de l'exploration intérieure et des monstres psychologiques.",
-      "category": "Mythologie"
+      "title": "Le Festival Paris Music 2026 : concerts dans des lieux emblématiques et insolites",
+      "summary": "Le Festival Paris Music revient à Paris avec une programmation de concerts organisés dans des lieux exceptionnels et insolites comme la Manufacture Chanson, le Bateau El Alamein ou l'appartement de Boris Vian. Cette approche novatrice transforme des espaces historiques et intimistes en salles de concert, créant une expérience musicale unique et immersive. Le festival célèbre la musique en la réinscrivant dans des contextes patrimoniaux et personnels plutôt que dans des salles traditionnelles.",
+      "why": "Cette initiative redéfinit l'expérience du concert en fusionnant musique, histoire et intimité, offrant aux spectateurs une connexion plus profonde avec les artistes et les lieux.",
+      "category": "Cinéma"
     },
     {
-      "title": "L'effet Dunning-Kruger : l'incompétence surconfiante",
-      "summary": "Découvert en 1999, cet effet psychologique montre que les moins compétents surestiment leurs aptitudes par manque de métacognition. Les experts, au contraire, sous-estiment souvent leurs savoirs. Des expériences simples, comme des tests de logique, le démontrent clairement. Il explique bien des comportements sociaux irrationnels.",
-      "why": "Comprendre ce biais améliore l'auto-évaluation et les débats publics.",
-      "category": "Psychologie"
-    },
-    {
-      "title": "La machine analytique de Charles Babbage, ancêtre des ordinateurs",
-      "summary": "Conçue en 1837, cette machine à différence programmable préfigurait les ordinateurs modernes avec cartes perforées et calculs automatisés. Ada Lovelace y écrivit le premier algorithme pour calculer des nombres de Bernoulli. Jamais construite de son vivant faute de fonds, elle fut validée en 1991. Elle marque le passage du mécanique au numérique.",
-      "why": "Elle démontre que l'informatique naquit au XIXe siècle, pas au XXe.",
+      "title": "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans",
+      "summary": "Une exposition présente les momies Chinchorros, les plus anciens corps momifiés connus, datant de 9 000 ans et provenant de la région entre le Pérou et le Chili. Ces vestiges témoignent de pratiques funéraires sophistiquées et de rituels religieux complexes développés par cette ancienne civilisation. L'exposition invite les visiteurs à rencontrer ces momies authentiques et à s'interroger sur les enjeux éthiques et scientifiques de la conservation des restes humains.",
+      "why": "Cette découverte archéologique fascine car elle révèle que les pratiques de momification remontent bien avant l'Égypte ancienne, redéfinissant notre compréhension de l'histoire humaine.",
       "category": "Science pop"
     },
     {
-      "title": "Le paradoxe de Zénon : Achille n'attrape jamais la tortue",
-      "summary": "Zénon d'Élée (Ve siècle av. J.-C.) argua qu'Achille, plus rapide, ne rattrape jamais la tortue car il doit d'abord parcourir la moitié de la distance, puis la moitié de la moitié, à l'infini. Ce paradoxe défie le mouvement continu et les nombres réels. Résolu par les mathématiques modernes via les limites et séries infinies. Il inspira la théorie des ensembles.",
-      "why": "Il pose les bases philosophiques des mathématiques du continu et de l'infini.",
-      "category": "Philosophie"
+      "title": "Jef Aérosol expose ses « Interstices » : street art et musique fusionnés à Paris",
+      "summary": "Le célèbre pochoiriste français Jef Aérosol présente l'exposition gratuite « Interstices » à la Galerie Mathgoth dans le 13e arrondissement de Paris, du 12 mars au 18 avril 2026. Cette exposition originale mêle le street art avec la musique, créant une expérience multisensorielle qui explore les espaces interstitiels entre art urbain et création musicale. L'exposition gratuite rend accessible l'œuvre d'un artiste majeur de la culture urbaine française.",
+      "why": "Cette exposition illustre comment le street art s'est institutionnalisé tout en conservant son essence rebelle, et comment les frontières entre art urbain et art classique continuent de s'effacer.",
+      "category": "Art"
+    },
+    {
+      "title": "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
+      "summary": "Le Printemps des Arts revient à Monte-Carlo du 11 mars au 19 avril 2026 sous la présidence de la princesse de Hanovre, avec un programme exceptionnel de 27 concerts répartis dans 24 lieux différents. Le festival propose 12 créations mondiales et met en avant une cinquantaine de compositeurs, accompagnées d'ateliers, de projections, de théâtre et de cartes blanches d'artistes. Cette édition 2026 promet une immersion complète dans la création musicale contemporaine et classique.",
+      "why": "Ce festival représente un événement culturel majeur en Europe, célébrant la diversité musicale et offrant une plateforme aux compositeurs émergents et établis.",
+      "category": "Littérature"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Nouvelles révélations sur les origines africaines du zombi",
+      "original": "Les origines africaines du zombie au Musée des Confluences (16/03/2026)",
+      "summary": "L'exposition « Zombis, aux origines » au Musée des Confluences de Lyon approfondit désormais son analyse en examinant spécifiquement comment le concept africain authentique a été transformé par la culture populaire hollywoodienne. L'exposition révèle que le zombi haïtien est un phénomène anthropologique réel, résultant du mélange de pratiques magico-religieuses africaines, du vaudou et de la maîtrise des poisons, bien distinct de la créature de cinéma. Cette mise à jour enrichit la compréhension du public sur la distinction entre réalité culturelle et fiction populaire.",
+      "why": "Cette clarification est importante car elle corrige les malentendus populaires sur le zombi et valorise les traditions africaines et caribéennes souvent marginalisées dans la culture occidentale.",
+      "category": "Histoire"
+    }
+  ]
 }
