@@ -1,16 +1,6 @@
 [
   {
     "date": "13/03/2026",
-    "titles": [
-      "Startup Amilabs lève 1,03 milliard de dollars pour développer des world models",
-      "AXA prolonge partenariat avec Shift Technology pour détection fraude IA sur 5 ans",
-      "ANSSI publie panorama cybersécurité 2025 avec 3586 événements et focus IA",
-      "McKinsey prévoit marché IA souveraine à 600 Md$ d'ici 2030 avec 40% des dépenses dédiées",
-      "Assemblée nationale lance commission d'enquête sur dépendances aux géants tech"
-    ]
-  },
-  {
-    "date": "13/03/2026",
     "titles": []
   },
   {
@@ -55,6 +45,17 @@
       "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
       "Google intègre Gemini plus profondément dans Workspace",
       "USA retirent projet de règlement sur exportations puces IA"
+    ]
+  },
+  {
+    "date": "17/03/2026",
+    "titles": [
+      "Anthropic déploie la génération de visuels pour Claude en bêta",
+      "Perplexity lance Personal Computer, un agent IA 24/7 sur Mac mini",
+      "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
+      "Google intègre Gemini plus profondément dans Google Workspace",
+      "USA retirent le projet de règlement sur les exportations de puces IA",
+      "Perplexity Personal Computer : expansion de l'IA agentique autonome"
     ]
   }
 ]
