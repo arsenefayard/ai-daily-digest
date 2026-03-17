@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "La machine analytique de Charles Babbage : l'ancêtre oublié des ordinateurs modernes",
-      "Le dilemme de l'herbe du voisin : le paradoxe psychologique de la satisfaction humaine",
-      "La cité perdue de Vilcabamba : le dernier bastion inca contre les conquistadors",
-      "Le Minotaure de Dédale : le labyrinthe comme métaphore de l'âme humaine",
-      "L'effet Dunning-Kruger : quand l'incompétence engendre la surconfiance"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "La machine de Turing : l'ancêtre des ordinateurs modernes",
       "Le mythe d'Icare : la leçon antique sur l'hybris humaine",
       "L'effet Stroop : le conflit entre perception et cognition",
@@ -67,6 +57,17 @@
       "L'effet Dunning-Kruger : l'incompétence surconfiante",
       "La machine analytique de Charles Babbage, ancêtre des ordinateurs",
       "Le paradoxe de Zénon : Achille n'attrape jamais la tortue"
+    ]
+  },
+  {
+    "date": "17/03/2026",
+    "titles": [
+      "Les origines africaines du zombi révélées au Musée des Confluences de Lyon",
+      "Le Festival Paris Music 2026 : concerts dans des lieux emblématiques et insolites",
+      "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans",
+      "Jef Aérosol expose ses « Interstices » : street art et musique fusionnés à Paris",
+      "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
+      "Nouvelles révélations sur les origines africaines du zombi"
     ]
   }
 ]
