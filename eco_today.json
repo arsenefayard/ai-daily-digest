@@ -1,35 +1,35 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "Nomination de Kevin Warsh à la tête de la Réserve fédérale par Donald Trump",
-      "summary": "Donald Trump a nommé Kevin Warsh président de la Fed, signalant une volonté de maintenir l'indépendance de la banque centrale face aux pressions antérieures pour des baisses de taux. Cette décision apaise les marchés en contrastant avec les tensions passées entre Trump et la Fed. Warsh est perçu comme un faucon modéré favorable à une politique monétaire prudente. Elle intervient dans un contexte d'incertitudes géopolitiques et commerciales qui pèsent sur l'inflation et la croissance.",
-      "why": "Cette nomination influence les attentes sur les taux d'intérêt américains, impactant les marchés mondiaux et les coûts d'emprunt globaux.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "PIB américain décevant à 1,4% au T4 2025 dû au shutdown gouvernemental",
-      "summary": "Le PIB des États-Unis a ralenti à 1,4% au quatrième trimestre 2025, impacté par un shutdown qui a coûté environ 1,5% de croissance via la non-consommation des fonctionnaires non payés. Ce ralentissement suit deux trimestres de forte expansion et devrait être partiellement récupéré. L'investissement des entreprises accélère en début 2026, et le marché de l'emploi s'améliore légèrement. Cela ne remet pas en cause la résilience globale de l'économie américaine.",
-      "why": "Ce chiffre modifie les prévisions de croissance mondiale et renforce les débats sur la robustesse de la première économie face aux chocs.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Faiblesse persistante de la dynamique du crédit en Chine en février 2026",
-      "summary": "Les données de crédit chinois de février montrent une faiblesse qui alimente les doutes sur la demande intérieure et l'efficacité des mesures de relance. Cela impacte les perspectives de reprise industrielle et la demande pour les métaux et l'énergie. Les marchés des matières premières et actions cycliques adoptent une prudence accrue. Ce signal est crucial pour l'Asie et les exportateurs mondiaux.",
-      "why": "La Chine étant un moteur clé de la croissance mondiale, cette faiblesse risque de peser sur les commodities et les chaînes d'approvisionnement globales.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Enquête mensuelle de conjoncture de la Banque de France début mars 2026",
-      "summary": "La Banque de France a publié son enquête mensuelle de conjoncture début mars, offrant un diagnostic sur l'économie française via des indicateurs de climat des affaires. Elle reflète l'impact des tensions pétrolières et géopolitiques sur la confiance des entreprises. Les résultats guident les attentes pour les décisions de la BCE. Ce baromètre est essentiel pour anticiper l'évolution de l'activité en zone euro.",
-      "why": "Ces indicateurs influencent les politiques monétaires européennes et les investissements dans un contexte de volatilité énergétique.",
+      "title": "Risque de krach du crédit privé à 2.000 milliards de dollars",
+      "summary": "Le secteur du crédit privé fait face à un possible krach d'une ampleur de 2.000 milliards de dollars, selon des analyses récentes relayées par Ecorama le 16 mars. Ce marché, dominé par des acteurs comme Morgan Stanley et KKR, souffre de la volatilité accrue due aux tensions géopolitiques et à la hausse des taux d'intérêt. Les investisseurs institutionnels pourraient subir des pertes massives si les défauts d'entreprises s'accélèrent. Cela menace la stabilité financière globale en réduisant la liquidité pour les entreprises non cotées.",
+      "why": "Un krach de cette taille pourrait déclencher une crise de liquidité systémique, impactant banques et fonds de pension.",
       "category": "Banques"
     },
     {
-      "title": "Printemps de l'économie 2026 du 17 au 20 mars sur les rapports de force mondiaux",
-      "summary": "L'événement se tient du 17 au 20 mars à Paris, décryptant les rapports de force économiques dans un monde fragmenté par géopolitique et recompositions industrielles. Thèmes : IA, défense, finance numérique, inégalités et transition écologique. Il interroge les marges de manœuvre des États et l'avenir du multilatéralisme. Sessions sur euro numérique et actifs digitaux soulignent les mutations financières.",
-      "why": "Cet forum oriente les débats sur la puissance économique européenne face aux défis globaux, influençant stratégies d'entreprises et politiques publiques.",
+      "title": "Stellantis enregistre une perte nette de 22 milliards d'euros",
+      "summary": "Stellantis a annoncé une perte nette abyssale de plus de 22 milliards d'euros, plombée par la restructuration et les investissements massifs dans l'électrification. Renault suit la même tendance avec des pertes dues à la transition énergétique et à la concurrence chinoise agressive sur les véhicules électriques. Le secteur automobile européen devient le maillon faible des bourses, avec une dégradation rapide des valorisations. Ces résultats soulignent les défis structurels face à la Chine et à la volatilité des matières premières.",
+      "why": "Révélation de la fragilité du secteur auto européen, avec implications sur l'emploi et les chaînes d'approvisionnement mondiales.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Donald Trump impose des droits de douane mondiaux de 15%",
+      "summary": "Après l'annulation par la Cour Suprême des droits de douane précédents, Donald Trump a réinstauré des tarifs douaniers mondiaux de 15% via la section 122, avec une hausse supplémentaire de 5% possible. Cela pourrait durer 150 jours maximum sans approbation du Congrès et vise à contrer les déséquilibres commerciaux. Plus de 1.500 entreprises, dont FedEx, exigent des remboursements estimés à 175 milliards de dollars. Cette mesure relance les tensions commerciales mondiales au pire moment géopolitique.",
+      "why": "Risque d'escalade protectionniste freinant la croissance mondiale et augmentant l'inflation importée.",
       "category": "Politique monétaire"
+    },
+    {
+      "title": "Statistiques économiques chinoises au centre des attentions le 15 mars",
+      "summary": "Les données chinoises du 15 mars, incluant production industrielle, ventes au détail, investissements fixes, marché immobilier et chômage, dictent la direction des matières premières et indices asiatiques. Ces chiffres précoces influencent les devises émergentes et les attentes sur la reprise post-crédit faible. Au milieu des tensions pétrolières, ils signalent la résilience ou la faiblesse de la deuxième économie mondiale. Les investisseurs scrutent ces indicateurs pour anticiper les flux de capitaux globaux.",
+      "why": "La Chine pilote les tendances des commodities et émergents, crucial pour les marchés mondiaux en crise énergétique.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Flambée des prix de l'essence relance le débat sur les taxes françaises",
+      "summary": "Les prix des carburants atteignent des sommets le 16 mars, provoquant des interrogations sur le rôle de l'État dans les taxes à la pompe. Avec le Brent au-dessus de 100 dollars, les hausses impactent le pouvoir d'achat et l'inflation. La France envisageait déjà un plafonnement des marges des distributeurs. Cette dynamique exacerbe les pressions sur les ménages et les entreprises dépendantes du transport.",
+      "why": "Accentue l'inflation en Europe et pousse à des mesures politiques urgentes sur l'énergie.",
+      "category": "Matières premières"
     }
   ],
   "updates": []
