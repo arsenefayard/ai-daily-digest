@@ -1,44 +1,44 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "USA frappent l'île stratégique de Kharg, hub pétrolier iranien",
-      "summary": "Les États-Unis ont bombardé des sites militaires sur l'île de Kharg, centre vital des exportations pétrolières iraniennes, marquant une escalade dans le conflit au détroit d'Ormuz. Trump menace de viser toutes les installations pétrolières si l'Iran ne rouvre pas le détroit, tout en évoquant un possible capitulation de Téhéran. Cette opération s'inscrit dans une stratégie combinant frappes militaires et pressions diplomatiques pour forcer un changement de régime. Les implications incluent des perturbations potentielles sur les marchés énergétiques mondiaux et une riposte iranienne accrue.",
-      "why": "Cette frappe cible directement l'économie iranienne et risque de perturber 20% du pétrole mondial transitant par Ormuz, impactant l'économie globale.",
+      "title": "Escalade militaire dans le Golfe : les USA frappent l'île de Kharg, hub pétrolier iranien",
+      "summary": "Les États-Unis ont lancé des frappes aériennes contre des sites militaires de l'île de Kharg, l'un des plus importants centres de production pétrolière iranienne. Cette action représente une escalade majeure dans le conflit Iran-USA qui dure depuis deux semaines. Les frappes visent à affaiblir les capacités de projection de force de l'Iran dans le Golfe Persique. Cet incident intensifie les tensions autour du détroit d'Ormuz et menace davantage l'approvisionnement énergétique mondial.",
+      "why": "Kharg est un hub pétrolier stratégique dont la destruction ou l'endommagement aurait des répercussions majeures sur les prix du pétrole mondiaux et l'économie globale. Cette frappe marque une escalade directe contre les infrastructures civiles iraniennes.",
       "category": "Conflit"
     },
     {
-      "title": "Israël étend ses frappes à Téhéran et au Liban après la mort présumée de Khamenei",
-      "summary": "Israël a intensifié ses bombardements sur Téhéran et élargi ses opérations au Liban en réponse aux attaques du Hezbollah, suite à la mort supposée du guide suprême Ali Khamenei et de hauts responsables iraniens. Les frappes visent des centres de commandement des Gardiens de la Révolution, dans un contexte de 'guerre existentielle' affirmée par le chef d'état-major israélien. L'Iran riposte avec missiles et drones contre Israël et les bases US dans le Golfe, causant des dommages limités comme à l'aéroport de Dubaï. Cela accentue les tensions régionales et humanitaires au Moyen-Orient.",
-      "why": "La possible élimination de figures clés du régime iranien pourrait précipiter un changement de pouvoir, redessinant les alliances au Moyen-Orient.",
+      "title": "Trump constitue une coalition internationale pour sécuriser le détroit d'Ormuz",
+      "summary": "Le président américain Donald Trump demande à environ sept pays de rejoindre une coalition militaire pour protéger et maintenir ouvert le détroit d'Ormuz face aux menaces iraniennes. Aucun État n'a encore confirmé publiquement son adhésion à cette initiative. Trump menace également de s'en prendre aux infrastructures pétrolières iraniennes si le passage libre des navires n'est pas rétabli. L'Iran répond en menaçant de réduire en cendre les sites pétroliers liés aux États-Unis.",
+      "why": "La formation d'une coalition internationale pour sécuriser une voie maritime stratégique est un enjeu majeur de stabilité économique mondiale. Le refus des alliés de rejoindre la coalition affaiblit la position américaine et révèle les divisions géopolitiques.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "L'Iran intensifie ses attaques de drones et missiles contre les pays du Golfe",
+      "summary": "L'Iran poursuit une campagne d'attaques massives utilisant des drones et des missiles contre les pays du Golfe, notamment l'Irak, pour faire pression sur les économies mondiales et maintenir son blocus du détroit d'Ormuz. Ces frappes ciblent à la fois des installations militaires et des zones civiles, selon les rapports. Le Qatar a rejeté les démentis iraniens concernant les attaques contre des cibles civiles. Ces opérations visent à paralyser le commerce maritime et à augmenter les prix de l'énergie.",
+      "why": "Les attaques iraniennes menacent directement la stabilité économique mondiale en bloquant une voie maritime par laquelle transite une part significative du pétrole mondial. Elles créent une crise énergétique qui affecte tous les pays importateurs.",
       "category": "Conflit"
     },
     {
-      "title": "Parlement taïwanais approuve commande massive d'armes US à 11 milliards de dollars",
-      "summary": "Le parlement taïwanais a entériné l'achat de systèmes de défense américains pour plus de 11 milliards de dollars, malgré les obstructions passées, faisant des USA le seul fournisseur extérieur d'armes à Taïwan. Cette décision renforce les capacités défensives face aux menaces chinoises, dans un contexte de rivalité sino-américaine. Elle intervient après la rencontre Trump-Xi sur le commerce et la sécurité régionale. Géopolitiquement, cela consolide l'arc de containment US en Asie-Pacifique.",
-      "why": "Ce méga-contrat militarise davantage le détroit de Taïwan, augmentant les risques d'escalade avec Pékin et structurant les alliances indo-pacifiques.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "USA étendent dérogation sanctions sur pétrole russe à tous acheteurs pour stabiliser prix",
-      "summary": "Les États-Unis ont élargi l'exemption temporaire des sanctions sur le pétrole russe en haute mer à tous les acheteurs, visant à contenir la flambée des prix énergétiques amid la crise Ormuz. L'UE s'oppose à cette mesure, craignant un renforcement de Moscou. Cette décision pragmatique intervient malgré les tensions avec l'Iran et la guerre en Ukraine. Elle illustre les dilemmes énergétiques mondiaux face aux disruptions simultanées.",
-      "why": "En pleine crise pétrolière au Golfe, cela prévient une récession globale mais affaiblit la pression sur la Russie, modifiant les dynamiques sanctions.",
-      "category": "Énergie"
-    },
-    {
-      "title": "Frappes russes massives en Ukraine : au moins 6 morts dans plusieurs régions",
-      "summary": "La Russie a lancé des frappes massives sur l'oblast de Kiev, Soumy, Kharkiv, Dnipro et Mykolaïv, tuant au moins six personnes selon Zelensky. Ces attaques intensifient la guerre malgré les efforts diplomatiques. Elles coïncident avec des tensions élargies au Moyen-Orient, potentiellement détournant l'aide occidentale. Les enjeux humanitaires s'aggravent avec des records de déplacés.",
-      "why": "Ces frappes montrent la résilience russe malgré les sanctions, compliquant l'aide à Kiev au moment où l'Occident gère la crise iranienne.",
+      "title": "Crise humanitaire et militaire en Ukraine : frappes russes massives et pourparlers de paix",
+      "summary": "Des frappes russes massives ont tué au moins quatre personnes dans la région de Kyiv et d'autres régions ukrainiennes. Parallèlement, Kyiv se déclare prête à engager un nouveau cycle de pourparlers de paix, signalant une possible ouverture diplomatique. L'Ukraine continue de subir des bombardements intensifs tout en explorant des voies de négociation. Cette dualité reflète la complexité de la situation militaire et diplomatique en Europe de l'Est.",
+      "why": "L'Ukraine reste un foyer de tension majeur en Europe. Les pourparlers de paix potentiels pourraient redessiner la géopolitique européenne et influencer la position de l'OTAN face à la Russie.",
       "category": "Conflit"
+    },
+    {
+      "title": "Tensions sino-américaines : Trump rencontre Xi Jinping sur commerce et sécurité régionale",
+      "summary": "Le président américain Donald Trump a rencontré le leader chinois Xi Jinping pour discuter de commerce et de sécurité régionale, illustrant la rivalité stratégique persistante entre Washington et Pékin. Cette rencontre souligne la nécessité d'une coopération minimale pour éviter une escalade majeure. Les démocrates américains estiment que les droits de douane imposés par Trump pourraient coûter 2 500 dollars aux ménages américains. Les tensions commerciales restent un enjeu central des relations sino-américaines.",
+      "why": "Les relations sino-américaines façonnent l'ordre géopolitique mondial. Les discussions sur le commerce et la sécurité régionale déterminent la stabilité économique et militaire en Asie-Pacifique et au-delà.",
+      "category": "Diplomatie"
     }
   ],
   "updates": [
     {
-      "title": "USA accordent exemption élargie sur pétrole russe après annonce initiale",
-      "original": "USA accordent exemption temporaire sanctions pour pétrole russe en haute mer",
-      "summary": "Initialement limitée, l'exemption US sur le pétrole russe est désormais ouverte à tous acheteurs pour juguler la hausse des prix amid crise Ormuz. L'UE critique cette extension, voyant un soutien indirect à l'effort de guerre russe. Trump priorise la stabilité énergétique mondiale sur la cohésion atlantique. Cela marque un revirement tactique face à l'escalade iranienne.",
-      "why": "Ce changement élargi impacte directement les marchés et affaiblit l'unité occidentale sur les sanctions.",
-      "category": "Énergie"
+      "title": "Escalade israélienne : Israël étend ses frappes à Téhéran et au Liban après la mort présumée de Khamenei",
+      "original": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
+      "summary": "Israël a intensifié ses opérations militaires contre l'Iran et le Hezbollah au Liban, notamment après la mort présumée du guide suprême iranien Khamenei. Les frappes israéliennes se poursuivent dans une phase décisive qui s'étendra aussi longtemps que nécessaire selon les déclarations du gouvernement. Cette escalade israélienne se déroule indépendamment des positions diplomatiques de l'administration Trump. Les tensions entre Israël et ses adversaires régionaux atteignent un niveau critique.",
+      "why": "La mort du guide suprême iranien marque un tournant potentiel dans le conflit régional. L'escalade israélienne pourrait déclencher une réaction iranienne majeure et déstabiliser davantage le Moyen-Orient.",
+      "category": "Conflit"
     }
   ]
 }
