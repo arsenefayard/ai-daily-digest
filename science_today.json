@@ -1,35 +1,35 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "Guidage magnétique : découverte de l'organe chez le pigeon biset",
-      "summary": "Des chercheurs de l'université de Munich ont identifié l'oreille interne comme l'organe responsable du sens magnétique chez le pigeon biset, permettant l'orientation via le champ magnétique terrestre. Cette avancée résout un mystère clé du guidage migratoire partagé par de nombreuses espèces comme les passereaux, papillons, saumons et baleines. Les observations détaillent le mécanisme biologique impliqué dans ce 'sixième sens'. Cela ouvre des perspectives pour comprendre la navigation animale et potentiellement des applications en biomimétisme.",
-      "why": "Cette découverte majeure éclaire les mécanismes de migration animale et pourrait inspirer de nouvelles technologies de navigation.",
-      "category": "Biologie"
+      "title": "Spintronique : l'électronique quantique révolutionne la vitesse et l'efficacité énergétique",
+      "summary": "La spintronique, basée sur l'exploitation des propriétés quantiques de l'électron, permet de traiter l'information bien plus rapidement que l'électronique classique tout en consommant beaucoup moins d'énergie. Issue de la découverte de la magnétorésistance géante dans les années 1980, cette technologie passe maintenant à l'échelle industrielle grâce à la ligne pilote Spinfab à Grenoble. Cette avancée ouvre la voie à des dispositifs électroniques révolutionnaires combinant performance et sobriété énergétique. Les applications potentielles concernent tous les secteurs de l'informatique et de l'électronique grand public.",
+      "why": "Cette technologie pourrait transformer radicalement l'industrie électronique en offrant des performances supérieures avec une consommation énergétique drastiquement réduite, répondant aux enjeux de transition énergétique et de puissance de calcul.",
+      "category": "Physique"
     },
     {
-      "title": "Vie microbienne possible dans l'océan d'Europe grâce à la radioactivité",
-      "summary": "Des chercheurs ont démontré qu'une vie microbienne pourrait exister dans l'océan souterrain d'Europe, lune de Jupiter, en s'appuyant sur l'énergie fournie par des éléments radioactifs. Cette étude modélise les conditions énergétiques favorables malgré l'absence de lumière solaire. Les implications concernent la recherche de vie extraterrestre dans des environnements extrêmes. Cela renforce l'intérêt pour de futures missions comme Europa Clipper.",
-      "why": "Elle élargit les zones potentielles de vie dans le système solaire et guide les priorités d'exploration spatiale.",
-      "category": "Espace"
+      "title": "Aluminium superhydrophobe : un matériau révolutionnaire pour des navires insubmersibles",
+      "summary": "Des chercheurs ont développé un aluminium superhydrophobe gravé au laser capable de piéger durablement l'air à sa surface. Ce matériau innovant présente des propriétés de rejet d'eau exceptionnelles qui pourraient révolutionner la conception navale. L'air emprisonné dans la structure de surface crée une barrière hydrophobe permanente, offrant une flottabilité intrinsèque. Cette découverte ouvre des perspectives majeures pour la sécurité maritime et la conception de navires impossibles à couler.",
+      "why": "Cette innovation pourrait transformer la sécurité maritime en rendant les navires fondamentalement insubmersibles, représentant une avancée majeure dans la prévention des naufrages et la protection des vies en mer.",
+      "category": "Chimie"
     },
     {
-      "title": "Saisons sèches et humides anciennes sur Mars détectées par Curiosity",
-      "summary": "Des chercheurs toulousains ont découvert des dépôts de sels hexagonaux dans des couches sédimentaires martiennes datées de 3,8 à 3,6 milliards d'années, via les instruments Mastcam et ChemCam de Curiosity. Ces motifs indiquent des saisons sèches et humides similaires à celles de la Terre. L'environnement offrait des conditions idéales pour former des composés prébiotiques comme l'ARN. L'étude a été publiée le 9 août dans Nature.",
-      "why": "Cette preuve d'un climat terrestre ancien sur Mars renforce les hypothèses d'habitabilité passée.",
-      "category": "Espace"
-    },
-    {
-      "title": "Plus d'eau sur Mars ancien révélée par la météorite Black Beauty",
-      "summary": "Une équipe internationale a utilisé tomographie aux rayons X et neutronique pour détecter une signature hydrogène riche dans la météorite Black Beauty, indiquant plus d'eau circulante dans la croûte martienne qu'estimé. Cette méthode non invasive révèle des minéraux hydratés similaires à ceux du cratère Jezero observés par Perseverance. Les résultats, publiés en janvier 2026 sur arXiv, suggèrent des interactions eau-roche étendues. Cela revoit l'histoire hydrologique de Mars.",
-      "why": "Elle quantifie mieux l'abondance passée d'eau, clé pour l'évaluation de la vie potentielle.",
-      "category": "Espace"
-    },
-    {
-      "title": "Avancées CRISPR-Cas9 avec essais cliniques attendus en 2026",
-      "summary": "La technique CRISPR-Cas9, dite 'ciseaux génétiques', verra en 2026 le lancement de deux essais cliniques majeurs pour manipuler le génome en médecine. Après une décennie de promesses, ces tests visent des applications thérapeutiques précises. L'outil cible des séquences génomiques pour corriger des maladies. Cela marque une étape vers la thérapie génique de routine.",
-      "why": "Ces essais pourraient révolutionner le traitement de maladies génétiques incurables.",
+      "title": "Prédiction des maladies cardiovasculaires et neurodégénératives par intelligence artificielle médicale",
+      "summary": "Des équipes du MIT et de Harvard ont développé des modèles d'intelligence artificielle capables de prédire le risque de maladies cardiovasculaires, de diabète et de troubles neurodégénératifs en analysant des données combinées : analyses sanguines, imagerie médicale, historique de sommeil et paramètres inflammatoires. Ces outils identifient des trajectoires de risque sans poser un diagnostic définitif, permettant une médecine véritablement prédictive. Cette approche marque le passage d'une médecine réactive à une médecine préventive basée sur les données.",
+      "why": "Cette avancée révolutionne l'approche médicale en permettant l'identification précoce des risques de maladies graves, ouvrant la voie à des interventions préventives et à une personnalisation du suivi médical.",
       "category": "Médecine"
+    },
+    {
+      "title": "Système glymphatique : le sommeil profond élimine les protéines toxiques du cerveau dix fois plus efficacement",
+      "summary": "Une étude de l'Université de Rochester publiée dans Science a démontré que le système glymphatique cérébral, responsable de l'élimination des protéines toxiques associées aux maladies neurodégénératives comme Alzheimer, fonctionne jusqu'à dix fois plus activement durant le sommeil profond qu'en période d'éveil. Cette découverte révèle le mécanisme fondamental par lequel le sommeil protège la santé cérébrale. Les implications sont majeures : traiter le sommeil revient désormais à traiter simultanément le cerveau, l'immunité et la santé mentale.",
+      "why": "Cette compréhension du rôle nettoyant du sommeil profond ouvre des perspectives thérapeutiques révolutionnaires pour prévenir les maladies neurodégénératives et optimiser la santé cognitive à long terme.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Minéraux réox sensibles détectés sur Mars : preuve de processus géologiques complexes anciens",
+      "summary": "Le rover Perseverance a identifié pour la première fois un ensemble complet de minéraux dits réox sensibles dans la zone du rebord du cratère de Jzer, révélant des processus géologiques extrêmement similaires à ceux observés sur Terre concernant la précipitation et la cristallisation de la silice. Ces minéraux, sensibles aux conditions d'oxydation ou de réduction chimique, ont été détectés grâce à une combinaison d'instruments montés sur le bras robotique et de techniques d'analyse à distance. Cette découverte s'ajoute aux détections précédentes de silice cristallisée sous plusieurs formes (opale, calcédoine, quartz bien cristallisé).",
+      "why": "La présence de minéraux réox sensibles indique des environnements géologiques anciens complexes sur Mars, renforçant les preuves d'une planète autrefois habitable avec des processus hydrothermaux actifs similaires à ceux favorisant la vie sur Terre.",
+      "category": "Espace"
     }
   ],
   "updates": []
