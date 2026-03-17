@@ -1,36 +1,44 @@
 {
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "news": [
     {
-      "title": "Anthropic déploie en bêta la génération de visuels pour Claude",
-      "summary": "Anthropic a lancé une fonctionnalité bêta pour son assistant Claude permettant de générer des graphiques, diagrammes et illustrations interactives directement dans les réponses. Ces visuels s'affichent en temps réel au fil de la conversation, améliorant la capacité d'analyse et de présentation de données complexes. Cette avancée multimodal renforce Claude face à la concurrence en intégrant nativement la visualisation dans les flux de travail professionnels. Elle marque un pas vers des agents IA plus complets pour la productivité.",
-      "why": "Cette fonctionnalité élève Claude au niveau des outils multimodaux leaders, boostant son adoption en entreprise pour des tâches analytiques visuelles.",
+      "title": "Anthropic déploie la génération de visuels pour Claude en bêta",
+      "summary": "Anthropic a lancé en version bêta la capacité de génération d'images pour Claude, élargissant les capacités multimodales du modèle au-delà du texte et de l'analyse d'images. Cette fonctionnalité positionne Claude comme concurrent direct de GPT-4 Vision et Gemini Pro Vision dans la création de contenu visuel. Le déploiement bêta permet aux utilisateurs de tester la génération d'illustrations, de diagrammes et de visuels créatifs directement dans l'interface Claude. Cette avancée renforce la position d'Anthropic dans l'IA générative multimodal et répond à la demande croissante de modèles capables de générer du contenu visuel de qualité.",
+      "why": "C'est un jalon majeur pour Anthropic qui transforme Claude en plateforme multimodal complète, augmentant son utilité en entreprise et sa compétitivité face à OpenAI et Google.",
       "category": "Modèle"
     },
     {
-      "title": "Perplexity lance Personal Computer, agent IA 24/7 sur Mac mini",
-      "summary": "Perplexity étend son système agentique avec Personal Computer, un agent qui opère en continu sur un Mac mini connecté aux fichiers et applications de l'utilisateur. Il gère des tâches autonomes comme l'analyse de documents, l'automatisation de workflows et les interactions avec des logiciels tiers. Cette intégration hardware-software permet une IA personnelle persistante, accessible via API ou interface web. Elle cible les professionnels cherchant une assistance IA embarquée et sécurisée.",
-      "why": "Personal Computer démocratise les agents IA résidents, potentiellement transformant l'usage quotidien des ordinateurs personnels.",
+      "title": "Perplexity lance Personal Computer, un agent IA 24/7 sur Mac mini",
+      "summary": "Perplexity a annoncé le lancement de Personal Computer, un agent IA autonome fonctionnant 24/7 sur Mac mini, capable de gérer des tâches complexes sans intervention humaine. Cet agent représente une évolution majeure vers l'IA agentique, permettant l'automatisation complète de workflows professionnels et personnels. Le système s'exécute en continu sur le matériel local, offrant confidentialité et performance sans dépendre entièrement du cloud. Cette initiative positionne Perplexity comme acteur clé dans la course aux agents IA autonomes, rivalisantavec les annonces d'OpenAI et xAI.",
+      "why": "C'est une démonstration concrète de l'évolution vers l'IA agentique autonome, marquant un tournant dans la façon dont les utilisateurs interagissent avec l'IA au quotidien.",
       "category": "Application"
     },
     {
       "title": "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
-      "summary": "Adobe rend publique la bêta de son assistant IA dans Photoshop, accessible sur web, iOS et Android avec générations illimitées pour les abonnés. L'outil automatise l'édition, la génération et la retouche d'images via commandes naturelles. Il intègre des modèles Firefly pour une création rapide de visuels professionnels. Cette disponibilité large accélère l'adoption de l'IA créative chez les designers.",
-      "why": "La généralisation sur multi-plateformes rend l'IA générative accessible à des millions d'utilisateurs créatifs, boostant la productivité Adobe.",
+      "summary": "Adobe a étendu l'accès bêta de son assistant IA intégré dans Photoshop à un public plus large, permettant aux utilisateurs de générer, modifier et améliorer des images directement dans l'application. L'assistant utilise les modèles de génération d'Adobe pour offrir des capacités de création assistée par IA natives. Cette généralisation bêta accélère l'adoption de l'IA générative dans les workflows créatifs professionnels. L'intégration profonde dans Photoshop positionne Adobe comme leader de l'IA créative appliquée aux outils de production existants.",
+      "why": "C'est un moment clé pour démocratiser l'IA générative auprès des créatifs professionnels, transformant les outils de production établis en plateformes IA-first.",
       "category": "Application"
     },
     {
-      "title": "Google intègre Gemini plus profondément dans Workspace",
-      "summary": "Gemini s'invite dans Docs, Sheets, Slides et Drive avec de nouvelles fonctionnalités IA en bêta pour les abonnés AI Premium. Il automatise la rédaction, l'analyse de données, la création de présentations et la recherche dans Drive. Ces outils agentiques gèrent des tâches complexes comme la synthèse de rapports ou la génération de graphiques. Le déploiement vise à concurrencer Copilot dans l'entreprise.",
-      "why": "Cette intégration renforce la domination Google en productivité IA, impactant des milliards d'utilisateurs Workspace.",
+      "title": "Google intègre Gemini plus profondément dans Google Workspace",
+      "summary": "Google a annoncé une intégration renforcée de Gemini dans sa suite Workspace (Gmail, Docs, Sheets, Meet), offrant des capacités d'IA générative natives pour la rédaction, l'analyse de données et la collaboration. Cette intégration systémique positionne Gemini comme assistant central pour les utilisateurs professionnels de Workspace. Les fonctionnalités incluent la génération de contenu, la synthèse de réunions et l'optimisation de feuilles de calcul. Cette stratégie consolide la position de Google dans l'IA d'entreprise en rendant Gemini indispensable aux workflows quotidiens.",
+      "why": "C'est une consolidation stratégique majeure qui transforme Workspace en plateforme IA-native, renforçant la compétitivité de Google face à Microsoft Copilot.",
       "category": "Application"
     },
     {
-      "title": "USA retirent projet de règlement sur exportations puces IA",
-      "summary": "Le ministère américain du Commerce a retiré son projet 'AI Action Plan Implementation' sur les exportations de puces IA avancées, publié fin février. La règle visait à exiger des investissements alliés dans des data centers US ou garanties sécurité pour +200k puces. Ce retrait reflète des divergences internes sur la stratégie de domination IA face à la Chine. Il maintient partiellement les restrictions Biden tout en simplifiant le cadre.",
-      "why": "Ce revirement géopolitique affecte la chaîne d'approvisionnement globale des puces IA, influençant la concurrence USA-Chine.",
+      "title": "USA retirent le projet de règlement sur les exportations de puces IA",
+      "summary": "Les États-Unis ont retiré un projet de règlement visant à restreindre les exportations de puces IA avancées, marquant un revirement dans la politique technologique américaine. Cette décision reflète les tensions entre la sécurité nationale et les intérêts commerciaux des géants tech américains. Le retrait du projet suggère une approche moins restrictive envers les exportations de technologie IA, potentiellement favorisant les entreprises comme NVIDIA et Intel. Ce changement de politique a des implications majeures pour la géopolitique technologique et la course mondiale à l'IA.",
+      "why": "C'est un tournant géopolitique significatif qui affecte la stratégie d'exportation technologique américaine et la dynamique concurrentielle mondiale en IA.",
       "category": "Régulation"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Perplexity Personal Computer : expansion de l'IA agentique autonome",
+      "original": "Explosion du coding agentique : 7 IDE multi-agents se disputent le marché (14/03/2026)",
+      "summary": "Au-delà du coding agentique limité aux IDE, Perplexity élargit la vision des agents IA autonomes avec Personal Computer, un système capable de gérer des tâches générales 24/7 sur Mac mini. Tandis que les 7 IDE multi-agents se concentrent sur le développement logiciel, Personal Computer représente une généralisation de l'agentique à tous les domaines. Cette évolution montre que l'agentique dépasse désormais le seul secteur du code pour devenir une plateforme transversale. Le marché des agents IA s'élargit donc bien au-delà des outils de développement.",
+      "why": "C'est une démonstration que l'agentique IA évolue d'un phénomène limité au coding vers une transformation systémique de l'interaction humain-machine.",
+      "category": "Application"
+    }
+  ]
 }
