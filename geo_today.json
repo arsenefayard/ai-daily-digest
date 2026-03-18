@@ -1,44 +1,36 @@
 {
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "news": [
     {
-      "title": "Escalade militaire dans le Golfe : les USA frappent l'île de Kharg, hub pétrolier iranien",
-      "summary": "Les États-Unis ont lancé des frappes aériennes contre des sites militaires de l'île de Kharg, l'un des plus importants centres de production pétrolière iranienne. Cette action représente une escalade majeure dans le conflit Iran-USA qui dure depuis deux semaines. Les frappes visent à affaiblir les capacités de projection de force de l'Iran dans le Golfe Persique. Cet incident intensifie les tensions autour du détroit d'Ormuz et menace davantage l'approvisionnement énergétique mondial.",
-      "why": "Kharg est un hub pétrolier stratégique dont la destruction ou l'endommagement aurait des répercussions majeures sur les prix du pétrole mondiaux et l'économie globale. Cette frappe marque une escalade directe contre les infrastructures civiles iraniennes.",
+      "title": "Trump exhorte les alliés à former une coalition pour sécuriser le détroit d'Ormuz",
+      "summary": "Donald Trump appelle publiquement la Chine, la France, le Japon, la Corée du Sud, le Royaume-Uni et d'autres pays à envoyer des navires dans le détroit d'Ormuz pour contrer les menaces iraniennes persistantes malgré la destruction de ses capacités militaires. Cette initiative vise à débloquer la voie navigable essentielle au transport de 90 % du pétrole iranien et à prévenir un blocus total. Les enjeux incluent une stabilisation des marchés énergétiques mondiaux et une pression accrue sur Téhéran pour une capitulation.",
+      "why": "Cette coalition pourrait transformer le conflit en une opération multilatérale, répartissant les coûts et risquant d'isoler davantage l'Iran géopolitiquement.",
       "category": "Conflit"
     },
     {
-      "title": "Trump constitue une coalition internationale pour sécuriser le détroit d'Ormuz",
-      "summary": "Le président américain Donald Trump demande à environ sept pays de rejoindre une coalition militaire pour protéger et maintenir ouvert le détroit d'Ormuz face aux menaces iraniennes. Aucun État n'a encore confirmé publiquement son adhésion à cette initiative. Trump menace également de s'en prendre aux infrastructures pétrolières iraniennes si le passage libre des navires n'est pas rétabli. L'Iran répond en menaçant de réduire en cendre les sites pétroliers liés aux États-Unis.",
-      "why": "La formation d'une coalition internationale pour sécuriser une voie maritime stratégique est un enjeu majeur de stabilité économique mondiale. Le refus des alliés de rejoindre la coalition affaiblit la position américaine et révèle les divisions géopolitiques.",
-      "category": "Diplomatie"
+      "title": "L'Iran menace de détruire les installations pétrolières des pays du Golfe alliés aux États-Unis",
+      "summary": "Le porte-parole des Gardiens de la Révolution, via le quartier général Khatam al-Anbiya, annonce la destruction immédiate des installations pétrolières, économiques et énergétiques détenues par des compagnies coopérant avec les États-Unis dans la région. Cette menace s'inscrit dans une stratégie de terre brûlée face aux frappes américaines sur l'île de Kharg et aux opérations israéliennes à Téhéran. Les implications touchent directement les pétromarchies du Golfe et l'approvisionnement énergétique mondial.",
+      "why": "Une escalade vers ces cibles pourrait provoquer une crise pétrolière majeure, impactant l'économie globale et forçant une réponse militaire élargie.",
+      "category": "Énergie"
     },
     {
-      "title": "L'Iran intensifie ses attaques de drones et missiles contre les pays du Golfe",
-      "summary": "L'Iran poursuit une campagne d'attaques massives utilisant des drones et des missiles contre les pays du Golfe, notamment l'Irak, pour faire pression sur les économies mondiales et maintenir son blocus du détroit d'Ormuz. Ces frappes ciblent à la fois des installations militaires et des zones civiles, selon les rapports. Le Qatar a rejeté les démentis iraniens concernant les attaques contre des cibles civiles. Ces opérations visent à paralyser le commerce maritime et à augmenter les prix de l'énergie.",
-      "why": "Les attaques iraniennes menacent directement la stabilité économique mondiale en bloquant une voie maritime par laquelle transite une part significative du pétrole mondial. Elles créent une crise énergétique qui affecte tous les pays importateurs.",
+      "title": "Spéculations sur l'état de santé du nouveau guide suprême iranien Mojtaba Khamenei",
+      "summary": "Le ministre américain de la Défense Pete Hegseth affirme que Mojtaba Khamenei est blessé et probablement défiguré suite aux 7600 frappes israéliennes sur l'Iran en deux semaines. Ces spéculations surviennent alors qu'Israël poursuit ses bombardements sur Téhéran sans confirmation officielle de Téhéran. Cela renforce les incertitudes sur la stabilité du régime et la chaîne de commandement iranienne.",
+      "why": "La vulnérabilité du leadership suprême pourrait accélérer un effondrement interne ou une radicalisation, modifiant les dynamiques du conflit au Moyen-Orient.",
       "category": "Conflit"
     },
     {
-      "title": "Crise humanitaire et militaire en Ukraine : frappes russes massives et pourparlers de paix",
-      "summary": "Des frappes russes massives ont tué au moins quatre personnes dans la région de Kyiv et d'autres régions ukrainiennes. Parallèlement, Kyiv se déclare prête à engager un nouveau cycle de pourparlers de paix, signalant une possible ouverture diplomatique. L'Ukraine continue de subir des bombardements intensifs tout en explorant des voies de négociation. Cette dualité reflète la complexité de la situation militaire et diplomatique en Europe de l'Est.",
-      "why": "L'Ukraine reste un foyer de tension majeur en Europe. Les pourparlers de paix potentiels pourraient redessiner la géopolitique européenne et influencer la position de l'OTAN face à la Russie.",
+      "title": "Israël étend ses frappes au Liban et déploie des troupes au sol",
+      "summary": "Israël bombarde simultanément l'Iran et le Liban, où le Hezbollah revendique des affrontements directs avec ses forces dans le sud, et annonce un déploiement de soldats sur de nouvelles positions. Le Liban forme une délégation pour négocier un arrêt des hostilités avec Israël. Cette extension des opérations répond aux attaques du Hezbollah en représailles à la mort présumée d'Ali Khamenei.",
+      "why": "L'ouverture d'un front libanais risque une guerre régionale plus large, impliquant le Hezbollah et potentiellement d'autres acteurs comme la Syrie.",
       "category": "Conflit"
     },
     {
-      "title": "Tensions sino-américaines : Trump rencontre Xi Jinping sur commerce et sécurité régionale",
-      "summary": "Le président américain Donald Trump a rencontré le leader chinois Xi Jinping pour discuter de commerce et de sécurité régionale, illustrant la rivalité stratégique persistante entre Washington et Pékin. Cette rencontre souligne la nécessité d'une coopération minimale pour éviter une escalade majeure. Les démocrates américains estiment que les droits de douane imposés par Trump pourraient coûter 2 500 dollars aux ménages américains. Les tensions commerciales restent un enjeu central des relations sino-américaines.",
-      "why": "Les relations sino-américaines façonnent l'ordre géopolitique mondial. Les discussions sur le commerce et la sécurité régionale déterminent la stabilité économique et militaire en Asie-Pacifique et au-delà.",
-      "category": "Diplomatie"
+      "title": "Wall Street en baisse sous l'effet de l'angoisse géopolitique liée au conflit",
+      "summary": "La Bourse de New York chute nettement au quatrième jour du conflit israélo-américain avec l'Iran, plombée par la flambée des prix de l'énergie et les craintes d'inflation. Les opérateurs s'inquiètent des répercussions économiques de la guerre sur les marchés mondiaux. Cela reflète l'impact immédiat des tensions au Moyen-Orient sur les économies occidentales.",
+      "why": "Cette réaction boursière souligne les risques systémiques pour l'économie globale, potentiellement freinant les interventions militaires prolongées.",
+      "category": "Économie"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade israélienne : Israël étend ses frappes à Téhéran et au Liban après la mort présumée de Khamenei",
-      "original": "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
-      "summary": "Israël a intensifié ses opérations militaires contre l'Iran et le Hezbollah au Liban, notamment après la mort présumée du guide suprême iranien Khamenei. Les frappes israéliennes se poursuivent dans une phase décisive qui s'étendra aussi longtemps que nécessaire selon les déclarations du gouvernement. Cette escalade israélienne se déroule indépendamment des positions diplomatiques de l'administration Trump. Les tensions entre Israël et ses adversaires régionaux atteignent un niveau critique.",
-      "why": "La mort du guide suprême iranien marque un tournant potentiel dans le conflit régional. L'escalade israélienne pourrait déclencher une réaction iranienne majeure et déstabiliser davantage le Moyen-Orient.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
