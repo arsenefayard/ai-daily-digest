@@ -2,16 +2,6 @@
   {
     "date": "13/03/2026",
     "titles": [
-      "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
-      "Eli Lilly investit 3 milliards de dollars en Chine pour ses médicaments amaigrissants",
-      "Target réduit les prix de plus de 3 000 produits pour contrer la concurrence",
-      "Morgan Stanley et KKR sous pression sur les fonds de crédit privé",
-      "Alimentation : hausses de prix de 1-1,5% en 2026, jusqu'à 14% pour le chocolat"
-    ]
-  },
-  {
-    "date": "13/03/2026",
-    "titles": [
       "G7 approuve mobilisation d'urgence des réserves pétrolières stratégiques",
       "Japon puise dans ses réserves de pétrole à partir du 16 mars",
       "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
@@ -67,6 +57,17 @@
       "Donald Trump impose des droits de douane mondiaux de 15%",
       "Statistiques économiques chinoises au centre des attentions le 15 mars",
       "Flambée des prix de l'essence relance le débat sur les taxes françaises"
+    ]
+  },
+  {
+    "date": "18/03/2026",
+    "titles": [
+      "Négociations sino-américaines constructives à Paris ouvrant la voie à une visite de Trump en Chine",
+      "L'AIE libère immédiatement des réserves stratégiques de pétrole face aux perturbations du Moyen-Orient",
+      "L'économie chinoise se redresse de manière inattendue malgré les risques géopolitiques",
+      "Trump revendique l'autorité absolue pour imposer de nouveaux droits de douane malgré le rejet de la Cour suprême",
+      "Décision de la Réserve bancaire d'Australie et indices ZEW du 17 mars influençant les perspectives économiques mondiales",
+      "Escalade tarifaire américaine : Trump impose 15 % de droits de douane mondiaux après le rejet de la Cour suprême"
     ]
   }
 ]
