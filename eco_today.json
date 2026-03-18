@@ -1,36 +1,44 @@
 {
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "news": [
     {
-      "title": "Risque de krach du crédit privé à 2.000 milliards de dollars",
-      "summary": "Le secteur du crédit privé fait face à un possible krach d'une ampleur de 2.000 milliards de dollars, selon des analyses récentes relayées par Ecorama le 16 mars. Ce marché, dominé par des acteurs comme Morgan Stanley et KKR, souffre de la volatilité accrue due aux tensions géopolitiques et à la hausse des taux d'intérêt. Les investisseurs institutionnels pourraient subir des pertes massives si les défauts d'entreprises s'accélèrent. Cela menace la stabilité financière globale en réduisant la liquidité pour les entreprises non cotées.",
-      "why": "Un krach de cette taille pourrait déclencher une crise de liquidité systémique, impactant banques et fonds de pension.",
-      "category": "Banques"
-    },
-    {
-      "title": "Stellantis enregistre une perte nette de 22 milliards d'euros",
-      "summary": "Stellantis a annoncé une perte nette abyssale de plus de 22 milliards d'euros, plombée par la restructuration et les investissements massifs dans l'électrification. Renault suit la même tendance avec des pertes dues à la transition énergétique et à la concurrence chinoise agressive sur les véhicules électriques. Le secteur automobile européen devient le maillon faible des bourses, avec une dégradation rapide des valorisations. Ces résultats soulignent les défis structurels face à la Chine et à la volatilité des matières premières.",
-      "why": "Révélation de la fragilité du secteur auto européen, avec implications sur l'emploi et les chaînes d'approvisionnement mondiales.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Donald Trump impose des droits de douane mondiaux de 15%",
-      "summary": "Après l'annulation par la Cour Suprême des droits de douane précédents, Donald Trump a réinstauré des tarifs douaniers mondiaux de 15% via la section 122, avec une hausse supplémentaire de 5% possible. Cela pourrait durer 150 jours maximum sans approbation du Congrès et vise à contrer les déséquilibres commerciaux. Plus de 1.500 entreprises, dont FedEx, exigent des remboursements estimés à 175 milliards de dollars. Cette mesure relance les tensions commerciales mondiales au pire moment géopolitique.",
-      "why": "Risque d'escalade protectionniste freinant la croissance mondiale et augmentant l'inflation importée.",
+      "title": "Négociations sino-américaines constructives à Paris ouvrant la voie à une visite de Trump en Chine",
+      "summary": "Les hauts responsables économiques américains et chinois ont tenu des discussions « franches et constructives » à Paris le 16 mars 2026, marquant un tournant dans les tensions commerciales entre les deux puissances. Les échanges ont porté sur des domaines clés où un accord pourrait être trouvé, notamment l'agriculture, les minéraux essentiels et la mise en place de mécanismes communs de gestion des échanges. Cette avancée diplomatique ouvre la voie à la visite du président Donald Trump en Chine prévue pour fin mars 2026, signalant une possible désescalade des hostilités tarifaires.",
+      "why": "Ces négociations représentent un tournant majeur dans la guerre commerciale sino-américaine, avec des implications directes sur les marchés mondiaux, les chaînes d'approvisionnement et la stabilité économique globale.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Statistiques économiques chinoises au centre des attentions le 15 mars",
-      "summary": "Les données chinoises du 15 mars, incluant production industrielle, ventes au détail, investissements fixes, marché immobilier et chômage, dictent la direction des matières premières et indices asiatiques. Ces chiffres précoces influencent les devises émergentes et les attentes sur la reprise post-crédit faible. Au milieu des tensions pétrolières, ils signalent la résilience ou la faiblesse de la deuxième économie mondiale. Les investisseurs scrutent ces indicateurs pour anticiper les flux de capitaux globaux.",
-      "why": "La Chine pilote les tendances des commodities et émergents, crucial pour les marchés mondiaux en crise énergétique.",
+      "title": "L'AIE libère immédiatement des réserves stratégiques de pétrole face aux perturbations du Moyen-Orient",
+      "summary": "L'Agence internationale de l'énergie a décidé de libérer des réserves stratégiques de pétrole pour pallier les perturbations d'approvisionnement causées par le conflit au Moyen-Orient. Les réserves d'Asie et d'Océanie seront libérées immédiatement, tandis que les approvisionnements provenant des Amériques et d'Europe commenceront à être libérés à partir de fin mars 2026. Cette intervention vise à stabiliser les marchés énergétiques mondiaux face aux risques de pénurie.",
+      "why": "Cette décision est cruciale pour contenir la volatilité des prix du pétrole et prévenir une crise énergétique mondiale, avec des répercussions directes sur l'inflation, les coûts de production et la croissance économique.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "L'économie chinoise se redresse de manière inattendue malgré les risques géopolitiques",
+      "summary": "Les principaux indicateurs économiques chinois des deux premiers mois de 2026 ont dépassé les attentes, suggérant que l'économie repose sur des bases plus solides que prévu. La production industrielle a enregistré son rythme de croissance le plus rapide depuis septembre 2025, les investissements en capital fixe ont progressé de manière inattendue et les ventes au détail ont connu une forte accélération. Cette dynamique positive intervient dans un contexte d'incertitude géopolitique liée au conflit au Moyen-Orient.",
+      "why": "Cette redynamisation économique chinoise est importante car elle influence la demande mondiale de matières premières, d'énergies et les chaînes logistiques globales, tout en renforçant la position de négociation de la Chine dans les discussions commerciales avec les États-Unis.",
       "category": "Marchés"
     },
     {
-      "title": "Flambée des prix de l'essence relance le débat sur les taxes françaises",
-      "summary": "Les prix des carburants atteignent des sommets le 16 mars, provoquant des interrogations sur le rôle de l'État dans les taxes à la pompe. Avec le Brent au-dessus de 100 dollars, les hausses impactent le pouvoir d'achat et l'inflation. La France envisageait déjà un plafonnement des marges des distributeurs. Cette dynamique exacerbe les pressions sur les ménages et les entreprises dépendantes du transport.",
-      "why": "Accentue l'inflation en Europe et pousse à des mesures politiques urgentes sur l'énergie.",
-      "category": "Matières premières"
+      "title": "Trump revendique l'autorité absolue pour imposer de nouveaux droits de douane malgré le rejet de la Cour suprême",
+      "summary": "Le président américain Donald Trump a déclaré avoir « l'autorité absolue » pour imposer de nouveaux droits de douane, malgré le rejet par la Cour suprême de ses précédentes mesures tarifaires internationales. Le président a invoqué la section 122 pour instaurer une hausse de 10 % des tarifs mondiaux, suivie rapidement d'une majoration de 5 % supplémentaire, portant les droits de douane mondiaux à 15 %. Toutefois, cette mesure ne peut être prolongée au-delà de 150 jours sans l'aval du Congrès.",
+      "why": "Cette escalade tarifaire crée une incertitude majeure pour les marchés mondiaux et les chaînes d'approvisionnement, avec des risques d'inflation accrue et de ralentissement économique, tout en compliquant les négociations commerciales en cours.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Décision de la Réserve bancaire d'Australie et indices ZEW du 17 mars influençant les perspectives économiques mondiales",
+      "summary": "Le 17 mars 2026, la Réserve bancaire d'Australie a pris une décision sur les taux d'intérêt tandis que les indices ZEW des attentes économiques pour mars ont été publiés pour l'Allemagne et la zone euro. Ces indicateurs fournissent des signaux clés sur la trajectoire de la politique monétaire en Asie-Pacifique et sur l'évaluation des perspectives économiques européennes dans un contexte externe instable. Les données du marché du travail et de l'immobilier américains ont également été scrutées par les investisseurs.",
+      "why": "Ces publications macroéconomiques sont essentielles pour orienter les décisions d'investissement mondiaux, influencer les anticipations d'inflation et guider les stratégies de politique monétaire des banques centrales face aux incertitudes géopolitiques et commerciales.",
+      "category": "Politique monétaire"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Escalade tarifaire américaine : Trump impose 15 % de droits de douane mondiaux après le rejet de la Cour suprême",
+      "original": "Donald Trump impose des droits de douane mondiaux de 15% (17/03/2026)",
+      "summary": "Après le rejet par la Cour suprême de ses précédentes mesures tarifaires, Donald Trump a contourné cette décision en invoquant la section 122 pour instaurer une hausse de 10 % des tarifs mondiaux, suivie d'une majoration de 5 % supplémentaire. Cette escalade tarifaire s'accompagne d'une revendication de « l'autorité absolue » pour imposer de nouveaux droits de douane, créant une incertitude majeure pour les marchés. Les États-Unis pourraient être contraints de restituer jusqu'à 175 milliards de dollars aux entreprises affectées par les droits de douane précédents, avec plus de 1 500 sociétés ayant engagé des procédures judiciaires.",
+      "why": "Cette escalade représente une intensification majeure des tensions commerciales mondiales avec des implications directes sur l'inflation, les coûts de production et la croissance économique globale, compliquant simultanément les négociations sino-américaines en cours.",
+      "category": "Politique monétaire"
+    }
+  ]
 }
