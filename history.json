@@ -1,9 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": []
-  },
-  {
     "date": "14/03/2026",
     "titles": []
   },
@@ -56,6 +52,16 @@
       "Google intègre Gemini plus profondément dans Google Workspace",
       "USA retirent le projet de règlement sur les exportations de puces IA",
       "Perplexity Personal Computer : expansion de l'IA agentique autonome"
+    ]
+  },
+  {
+    "date": "18/03/2026",
+    "titles": [
+      "Arcep publie son Baromètre du numérique 2026 : explosion des usages de l'IA générative",
+      "Le Trésor américain publie un guide sur les risques IA pour les institutions financières",
+      "Oracle annonce un carnet de commandes de 553 milliards de dollars pour son infrastructure IA",
+      "Anthropic assigne le gouvernement Trump en justice pour sanctions excessives sur l'IA",
+      "Prestataires de services IA confrontés à l'épreuve du passage à l'échelle agentique"
     ]
   }
 ]
