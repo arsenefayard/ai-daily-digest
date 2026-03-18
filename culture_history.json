@@ -1,15 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": [
-      "La machine de Turing : l'ancêtre des ordinateurs modernes",
-      "Le mythe d'Icare : la leçon antique sur l'hybris humaine",
-      "L'effet Stroop : le conflit entre perception et cognition",
-      "La cité de Machu Picchu : sanctuaire inca dans les Andes",
-      "Le roman '1984' de George Orwell : prophétie dystopique"
-    ]
-  },
-  {
     "date": "14/03/2026",
     "titles": [
       "La tapisserie de la reine Mathilde : le plus grand récit illustré du Moyen Âge",
@@ -68,6 +58,16 @@
       "Jef Aérosol expose ses « Interstices » : street art et musique fusionnés à Paris",
       "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
       "Nouvelles révélations sur les origines africaines du zombi"
+    ]
+  },
+  {
+    "date": "18/03/2026",
+    "titles": [
+      "Le paradoxe de l'écriture cunéiforme : la plus ancienne forme d'écriture humaine",
+      "L'effet Dunning-Kruger : quand l'incompétence engendre la confiance excessive",
+      "La machine analytique de Charles Babbage : le véritable ancêtre de l'ordinateur moderne",
+      "Le Minotaure et le labyrinthe de Dédale : le mythe grec de la monstruosité enfermée",
+      "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans"
     ]
   }
 ]
