@@ -1,16 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": [
-      "France-Angleterre : Les Bleus en quête du titre au Tournoi des 6 Nations",
-      "Grand Prix de Chine F1 : Verstappen en pole position pour défendre son leadership à Shanghai",
-      "Indian Wells Masters 1000 : Les quarts de finale approchent avec des surprises ATP et WTA",
-      "Ligue 1 J26 : Enjeux majeurs ce week-end avec la course au titre et la bataille pour le podium",
-      "Betclic Elite J22 : La course au titre s'intensifie en basketball français ce week-end",
-      "Real Madrid vs Manchester City LdC : City domine 3-1 sans Mbappé"
-    ]
-  },
-  {
     "date": "14/03/2026",
     "titles": [
       "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
@@ -73,6 +62,17 @@
       "Cyclisme : Paris-Nice conclut avec Pogacar maître incontesté",
       "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
       "Ligue des Champions : Qualifications choc après les retours du 17 mars"
+    ]
+  },
+  {
+    "date": "18/03/2026",
+    "titles": [
+      "Championnats du monde en salle d'athlétisme à Torun",
+      "Championnats du monde de patinage artistique à Prague",
+      "Ligue des Champions : huitièmes de finale retour en cours",
+      "Milan-San Remo : classique du cyclisme sur route le 21 mars",
+      "Seyfulla Itaev champion d'Europe U23 de lutte",
+      "Ligue des Champions : qualifications spectaculaires après les huitièmes retour"
     ]
   }
 ]
