@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien science avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -82,7 +82,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte et implications concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Physique|Chimie|Biologie|Maths|Espace|Médecine|Autre"
     }}
@@ -91,7 +91,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Physique|Chimie|Biologie|Maths|Espace|Médecine|Autre"
     }}
@@ -107,6 +107,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : confirmation d'une découverte, publication dans Nature ou Science, prix Nobel, réfutation d'une théorie, nouvelle mission spatiale.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : physique (quantique, particules, cosmologie), chimie, biologie, mathématiques, exploration spatiale, médecine et génétique, climate science.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Quelles sont les 5 avancées scientifiques les plus importantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}

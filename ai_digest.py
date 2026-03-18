@@ -91,7 +91,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte, détails techniques et implications concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte, détails techniques et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Modèle|Entreprise|Recherche|Application|Régulation"
     }}
@@ -100,7 +100,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Modèle|Entreprise|Recherche|Application|Régulation"
     }}
@@ -129,6 +129,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : sortie officielle d'un modèle annoncé, nouveaux benchmarks significatifs, revirement stratégique, incident ou faille majeure.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+5. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
             {

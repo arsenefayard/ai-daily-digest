@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien Histoire avec Perplexity API
 Génère un point historique (personnalité ou événement) avec dates clés et contexte.
 """
@@ -101,7 +101,7 @@ Format JSON strict :
     "name": "Nom complet ou intitulé de l'événement",
     "type": "Personnalité|Événement|Civilisation|Découverte|Mouvement|Bataille|Révolution",
     "period": "Période ou dates (ex: 1452 – 1519 · Renaissance italienne)",
-    "context": "Contexte détaillé en 5-6 phrases : origines, parcours ou déroulement, contributions ou conséquences majeures, faits marquants peu connus.",
+    "context": "Contexte détaillé en 4-5 phrases complètes et grammaticalement correctes : origines, parcours ou déroulement, contributions ou conséquences majeures, faits marquants peu connus.",
     "dates": [
       {{"year": "AAAA ou siècle", "label": "Événement clé concis"}},
       {{"year": "AAAA", "label": "Événement clé concis"}},
@@ -109,7 +109,7 @@ Format JSON strict :
       {{"year": "AAAA", "label": "Événement clé concis"}},
       {{"year": "AAAA", "label": "Événement clé concis"}}
     ],
-    "legacy": "Héritage en 3-4 phrases : impact durable, influence sur le monde actuel, postérité culturelle ou scientifique.",
+    "legacy": "Héritage en 2-3 phrases complètes : impact durable, influence sur le monde actuel, postérité culturelle ou scientifique.",
     "why": "Pertinence ou leçon actuelle en 1-2 phrases percutantes."
   }}
 }}
@@ -119,6 +119,7 @@ RÈGLES :
 - "context" ne répète pas les informations de "dates" : c'est une narration, pas une liste
 - "why" doit surprendre ou apporter un éclairage inattendu
 - Évite les sujets trop génériques (Napoléon, Christophe Colomb, Einstein) sauf si l'angle est très original
+- QUALITÉ DE LANGUE — obligatoire : Chaque champ textuel ("context", "legacy", "why") doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles, déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique.
 - Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },
             {

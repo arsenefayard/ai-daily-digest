@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien Économie/Finance avec Perplexity API
 """
 
@@ -50,7 +50,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte, chiffres clés et implications économiques concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte, chiffres clés et implications économiques concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Marchés|Banques|Entreprises|Crypto|Matières premières|Politique monétaire"
     }}
@@ -59,7 +59,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Marchés|Banques|Entreprises|Crypto|Matières premières|Politique monétaire"
     }}
@@ -75,6 +75,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : variation majeure des marchés, décision de banque centrale, faillite ou rachat, chiffres économiques surprenants, crise financière émergente.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : marchés financiers, banques centrales, grandes entreprises, cryptomonnaies, matières premières, politique économique mondiale.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Quelles sont les 5 actualités économiques les plus importantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}

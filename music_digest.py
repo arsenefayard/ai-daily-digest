@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien music avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -82,7 +82,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte et implications concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Métal|Rock|Pop|Hip-Hop|Électro|Classique|Autre"
     }}
@@ -91,7 +91,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Métal|Rock|Pop|Hip-Hop|Électro|Classique|Autre"
     }}
@@ -109,6 +109,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : album surprise, décès d'un artiste majeur, scandale, annulation de tournée, récompense majeure.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : métal (slide dédiée), sorties d'albums, tournées, décès de musiciens, controverses, Grammy et récompenses, streaming, nouvelles tendances musicales.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Donne-moi 5 actualités musicales : 1 actu métal en premier, puis 4 actus d'autres genres musicaux variés. Date : {datetime.now().strftime('%d/%m/%Y')}"}

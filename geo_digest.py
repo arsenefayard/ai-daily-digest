@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien Géopolitique avec Perplexity API
 Génère un fichier JSON sur GitHub Pages et envoie un lien par email.
 """
@@ -86,7 +86,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte, enjeux et implications géopolitiques concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte, enjeux et implications géopolitiques concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Conflit|Diplomatie|Économie|Élection|Énergie|Sécurité"
     }}
@@ -95,7 +95,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Conflit|Diplomatie|Économie|Élection|Énergie|Sécurité"
     }}
@@ -119,6 +119,8 @@ RÈGLES STRICTES :
      * Incident majeur (attaque, catastrophe, crise humanitaire) qui change la donne
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : conflits armés, diplomatie internationale, économie mondiale, élections majeures, énergie et ressources, sécurité internationale.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""
             },

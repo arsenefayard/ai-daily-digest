@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien sport avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -83,7 +83,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte et implications concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Football|Tennis|Basketball|F1|Rugby|Autre"
     }}
@@ -92,7 +92,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Football|Tennis|Basketball|F1|Rugby|Autre"
     }}
@@ -108,6 +108,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : résultat majeur inattendu, blessure d'un joueur star, transfert confirmé, scandale ou controverse, record battu.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : football mondial, tennis (OBLIGATOIRE : inclure au moins 1 actualité tennis), basketball NBA, Formule 1, rugby, autres sports majeurs.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Quelles sont les 5 actualités sportives les plus importantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}

@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script de digest quotidien culture avec Perplexity API
 """
 import os, json, re, requests, base64
@@ -87,7 +87,7 @@ Format JSON strict :
   "news": [
     {{
       "title": "Titre de l'actualité",
-      "summary": "Résumé détaillé en 4 phrases avec contexte et implications concrètes.",
+      "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
       "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop"
     }}
@@ -96,7 +96,7 @@ Format JSON strict :
     {{
       "title": "Titre de la mise à jour",
       "original": "Sujet original couvert récemment",
-      "summary": "Ce qui a changé depuis, en 3-4 phrases.",
+      "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
       "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop"
     }}
@@ -112,6 +112,8 @@ RÈGLES STRICTES :
    - Ne mettre une update que si : révélation majeure sur un sujet déjà évoqué, nouveau rebondissement inattendu.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
    - Ne jamais inventer une mise à jour.
+
+3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : faits historiques méconnus, anecdotes de cinéma ou de musique, concepts philosophiques expliqués simplement, records et curiosités, étymologie de mots courants, coulisses de grandes œuvres, mythologie, géographie insolite, psychologie humaine, paradoxes et illusions — PAS d'actualité récente, uniquement de la culture générale intemporelle.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
             {"role": "user", "content": f"Quelles sont les 5 informations culturelles ou insolites les plus intéressantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}
