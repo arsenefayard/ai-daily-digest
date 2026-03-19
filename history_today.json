@@ -1,37 +1,33 @@
 {
-  "date": "17/03/2026",
+  "date": "19/03/2026",
   "subject": {
-    "name": "Conjuration d'Ambroise",
-    "type": "Événement",
-    "period": "1560 · Guerres de Religion en France",
-    "context": "Au cœur des tensions religieuses entre catholiques et protestants, la conjuration d'Ambroise fut un complot audacieux ourdi par les princes Bourbons, Antoine de Bourbon et Louis de Condé, alliés à des chefs huguenots comme Gaspard de Coligny. Leur objectif était d'enlever le jeune roi François II, âgé de 16 ans, pour le soustraire à l'emprise des Guise, puissante famille catholique dominant la cour. Le plan impliquait La Renaudie, gentilhomme protestant, qui leva une armée de 10 000 hommes dans le sud-ouest, tandis que des conjurés devaient agir à Amboise, château royal. L'affaire tourna au fiasco lorsque des traîtres alertèrent les Guise, menant à l'arrestation massive de suspects. Plus de 1200 conjurés furent emprisonnés, dont 200 exécutés de manière spectaculaire par pendaison aux balcons du château, marquant un tournant répressif contre les huguenots. Cet échec renforça paradoxalement la cause protestante en martyrisant ses adeptes et en exposant les divisions internes du royaume.",
+    "name": "René-Robert Cavelier de La Salle",
+    "type": "Personnalité",
+    "period": "1643 – 1687 · Exploration française en Amérique du Nord",
+    "context": "René-Robert Cavelier de La Salle fut l'un des plus grands explorateurs français du XVIIe siècle, animé par l'ambition de découvrir une route vers la Chine et d'étendre l'influence française en Amérique du Nord. Après des années de préparation et de voyages périlleux, il entreprit en 1682 une expédition majeure qui le conduisit à descendre le Mississippi jusqu'à son embouchure dans le golfe du Mexique, accomplissement extraordinaire qui lui permit de revendiquer l'immense territoire de la Louisiane au nom du roi Louis XIV. Cet exploit territorial, bien que géographiquement remarquable, ne lui apporta pas la gloire espérée : les financiers retirèrent leur soutien, et La Salle dut affronter une ultime expédition désastreuse pour tenter de localiser l'embouchure du Mississippi par la mer. Trahi par ses propres compagnons, affaibli par les maladies et les mutineries, il périt le 19 mars 1687, assassiné par l'un de ses hommes au Texas, loin de la civilisation et sans avoir vu se concrétiser son rêve colonial.",
     "dates": [
       {
-        "year": "1559",
-        "label": "Mort d'Henri II ; François II monte sur le trône sous influence des Guise"
+        "year": "1643",
+        "label": "Naissance de René-Robert Cavelier de La Salle à Rouen"
       },
       {
-        "year": "Février 1560",
-        "label": "Réunion secrète à Nantes pour planifier l'enlèvement du roi"
+        "year": "1678-1680",
+        "label": "Expéditions préliminaires sur les Grands Lacs et le Mississippi inférieur"
       },
       {
-        "year": "Mars 1560",
-        "label": "La Renaudie lève 10 000 hommes ; début de la marche sur Amboise"
+        "year": "1682",
+        "label": "Descente triomphale du Mississippi jusqu'au golfe du Mexique ; prise de possession de la Louisiane"
       },
       {
-        "year": "17 mars 1560",
-        "label": "Échec total de la conjuration ; arrestations massives"
+        "year": "1684",
+        "label": "Départ de France pour une expédition maritime destinée à coloniser la Louisiane"
       },
       {
-        "year": "19 mars 1560",
-        "label": "Exécution publique de La Renaudie et pendaison de 200 conjurés"
-      },
-      {
-        "year": "1561",
-        "label": "Coligny acquitté mais tensions persistent vers nouvelle guerre"
+        "year": "1687",
+        "label": "Assassinat de La Salle par ses compagnons au Texas le 19 mars"
       }
     ],
-    "legacy": "La conjuration accéléra les Guerres de Religion (1562-1598), causant des centaines de milliers de morts et modelant la tolérance édifiée par l'Édit de Nantes en 1598. Elle inspira des pamphlets protestants diffusés en Europe, influençant la Réforme et les idées de résistance à la tyrannie. Son souvenir hante encore le château d'Amboise, symbole des fractures confessionnelles françaises.",
-    "why": "Cet échec sanglant révèle comment un complot maladroit peut catalyser une guerre civile : les bourreaux des Guise pendus aux chaînes du château devinrent des icônes protestantes, inversant la victoire en martyre éternel."
+    "legacy": "Bien que La Salle n'ait pu fonder de colonie durable, son exploration du Mississippi et sa revendication de la Louisiane établirent les fondations des prétentions françaises en Amérique du Nord, influençant les rivalités coloniales du siècle suivant. Son nom reste attaché à la découverte d'un continent et à l'une des plus grandes tragédies de l'exploration, symbolisant les rêves démesurés et les périls de l'ambition coloniale. La Louisiane, bien que vendue aux États-Unis en 1803, porte toujours l'empreinte de cette exploration française pionnière.",
+    "why": "La mort de La Salle le 19 mars 1687 rappelle que les plus grands exploits historiques s'accompagnent souvent de drames humains oubliés : un homme visionnaire assassiné par ses propres hommes, victime de son propre rêve, incarne les contradictions sanglantes de l'expansion coloniale et l'isolement tragique de ceux qui osent explorer l'inconnu."
   }
 }
