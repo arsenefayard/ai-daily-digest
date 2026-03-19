@@ -1,35 +1,35 @@
 {
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "news": [
     {
-      "title": "Arcep publie son Baromètre du numérique 2026 : explosion des usages de l'IA générative",
-      "summary": "Le baromètre du numérique 2026 de l'Arcep révèle que près d'un Français sur deux utilise déjà l'IA générative, marquant une adoption record en un temps très court. Les jeunes de 18-24 ans l'emploient à 73 % pour l'aide aux devoirs, tandis que 74 % des utilisateurs citent le gain de temps comme principal facteur d'adoption. L'IA surpasse désormais les moteurs de recherche pour la rédaction, la traduction et la génération d'idées, mais soulève des préoccupations écologiques avec 46 % des Français estimant son impact supérieur à celui des outils traditionnels.[4]",
-      "why": "Cette étude officielle démontre la maturité rapide des usages IA en France et impose aux acteurs du numérique de concilier innovation et sobriété écologique.",
+      "title": "Google lance le Pixel Drop de mars 2026 avec Gemini au centre",
+      "summary": "Google a publié le Pixel Drop de mars 2026 qui place Gemini au cœur des fonctionnalités des smartphones Pixel, avec des intégrations avancées pour l'assistance vocale, la photographie IA et la gestion des tâches quotidiennes. Ce mise à jour apporte des améliorations significatives en termes de réactivité et de compréhension contextuelle, surpassant les versions précédentes. Les utilisateurs bénéficient désormais d'une expérience IA unifiée directement dans l'écosystème Android.",
+      "why": "Cette mise à jour marque une accélération de l'intégration de l'IA dans les appareils grand public, renforçant la position de Google face à Apple et Samsung sur le marché des smartphones intelligents.",
       "category": "Application"
     },
     {
-      "title": "Le Trésor américain publie un guide sur les risques IA pour les institutions financières",
-      "summary": "Le Trésor américain a lancé le CRI Financial Services AI Risk Management Framework pour aider plus de 100 institutions financières à gérer les risques liés à l'IA. Élaboré avec des régulateurs et experts, ce cadre vise une adoption responsable des technologies IA dans le secteur financier. Il s'agit d'une réponse proactive aux défis posés par l'intégration croissante de l'IA dans les services bancaires et assurantiels.[2]",
-      "why": "Ce guide marque une étape clé dans la régulation sectorielle de l'IA aux États-Unis, influençant les pratiques mondiales en finance.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Oracle annonce un carnet de commandes de 553 milliards de dollars pour son infrastructure IA",
-      "summary": "Porté par la demande en IA générative, Oracle affiche sa meilleure performance trimestrielle en 15 ans avec des revenus cloud en hausse de 84 %. Son carnet de commandes a quadruplé en un an pour atteindre 553 milliards de dollars, dont environ 300 milliards liés à un contrat avec OpenAI. Le groupe doit désormais rentabiliser ce backlog titanesque face aux défis de cash-flow.[6]",
-      "why": "Cette croissance spectaculaire valide le boom des infrastructures IA et souligne les risques de concentration sur quelques clients majeurs.",
+      "title": "Samsung vise 800 millions d'unités avec son écosystème IA",
+      "summary": "Samsung annonce un objectif ambitieux de 800 millions d'unités vendues d'ici 2030 pour ses appareils intégrant l'IA, incluant smartphones, montres et électroménagers connectés. L'entreprise mise sur Galaxy AI pour des fonctionnalités comme la traduction en temps réel et l'édition photo avancée. Ce plan s'appuie sur des partenariats avec des fournisseurs de puces pour optimiser les performances.",
+      "why": "Cela positionne Samsung comme leader potentiel du marché IA grand public, avec un impact massif sur l'adoption quotidienne de l'IA par des milliards d'utilisateurs.",
       "category": "Entreprise"
     },
     {
-      "title": "Anthropic assigne le gouvernement Trump en justice pour sanctions excessives sur l'IA",
-      "summary": "Le ministère de la Défense américain a placé Anthropic sur sa liste d'acteurs à risque pour la sécurité nationale, interdisant son utilisation par l'administration et ses partenaires. La société a contre-attaqué en assignant plusieurs entités gouvernementales devant un tribunal fédéral en Californie pour lever ces sanctions jugées disproportionnées. Cette bataille survient après des restrictions timides d'Anthropic sur l'usage de ses modèles.[5]",
-      "why": "Ce conflit oppose innovation IA et sécurité nationale, avec des implications potentielles sur les contrats fédéraux et la politique IA sous Trump.",
-      "category": "Régulation"
+      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
+      "summary": "OpenAI étend Codex, son modèle spécialisé en codage, à Windows via des agents parallèles capables d'exécuter plusieurs tâches simultanément comme l'édition de code et les tests automatisés. Cette version supporte des environnements de développement complexes et intègre une fenêtre de contexte étendue. Les développeurs gagnent en productivité grâce à une exécution fluide sur le système dominant du marché.",
+      "why": "Le déploiement sur Windows démocratise l'accès aux agents de codage avancés, accélérant l'adoption en entreprise où ce OS prédomine.",
+      "category": "Application"
     },
     {
-      "title": "Prestataires de services IA confrontés à l'épreuve du passage à l'échelle agentique",
-      "summary": "L'essor de l'IA générative en 2024 et l'émergence de l'IA agentique en 2025 reconfigurent profondément le marché des services informatiques. Les prestataires doivent scaler leurs offres pour répondre à la demande explosive en agents autonomes et multi-agents. Cette transition teste leur capacité à industrialiser des solutions complexes au-delà des prototypes.[8]",
-      "why": "Cette reconfiguration du marché des services IT accélère l'adoption industrielle de l'IA agentique, redessinant les chaînes de valeur numériques.",
+      "title": "xAI annonce un nouveau rack d'accélérateur Grok 3 pour l'inférence ultra-rapide",
+      "summary": "xAI dévoile un rack d'accélérateur dédié à Grok 3, optimisé pour l'inférence avec trois fois plus de bande passante mémoire par cœur et deux fois plus d'efficacité énergétique que les architectures concurrentes. Conçu pour répondre instantanément aux requêtes complexes, il surpasse les serveurs IS-86 actuels. Cette hardware cible les déploiements à grande échelle pour des applications temps réel.",
+      "why": "Cette avancée hardware réduit les coûts et latences de l'IA, favorisant les usages critiques comme la robotique et les services en direct.",
       "category": "Entreprise"
+    },
+    {
+      "title": "Univ Nantes lance trois formations courtes en IA et data en mars 2026",
+      "summary": "L'Université de Nantes propose trois formations courtes de 1 à 2 jours sur l'IA et la data, couvrant la maturité IA pour l'industrie, la création de contenus génératifs et le cadre réglementaire IA Act. Destinées aux TPE, PME et ETI ligériennes, elles bénéficient d'une prise en charge à 50% via le programme DIVA. Les sessions du 19 mars portent sur la régulation de l'IA.",
+      "why": "Ces formations accélèrent la montée en compétences des entreprises françaises face à l'explosion des usages IA, soutenant l'innovation locale.",
+      "category": "Application"
     }
   ],
   "updates": []
