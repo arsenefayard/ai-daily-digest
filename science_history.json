@@ -1,11 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": [
-      "Mission DART modifie l'orbite solaire du système Didymos-Dimorphos"
-    ]
-  },
-  {
     "date": "14/03/2026",
     "titles": [
       "Nouvelle méthode pour mesurer l'expansion de l'Univers résolvant la tension de Hubble",
@@ -64,6 +58,16 @@
       "Une étoile supergéante se transforme en hypergéante sous observation directe",
       "Dégel du pergélisol sibérien : transfert massif de carbone vers l'atmosphère",
       "Chasse mondiale aux sources de neutrinos cosmiques"
+    ]
+  },
+  {
+    "date": "19/03/2026",
+    "titles": [
+      "Découverte de roches blanches riches en kaolinite dans le cratère Jezero par Perseverance",
+      "Variations saisonnières de méthane et activité thermique sous-estimée dans le sous-sol martien",
+      "Détection de minéraux réox sensibles dans les roches martiennes par Perseverance",
+      "Découverte de nucléobases, acides aminés, phosphates et glucose dans l'astéroïde Bennu",
+      "Nouvelle lune découverte autour d'Uranus portant le total à 29"
     ]
   }
 ]
