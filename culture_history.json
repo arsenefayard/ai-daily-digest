@@ -2,16 +2,6 @@
   {
     "date": "14/03/2026",
     "titles": [
-      "La tapisserie de la reine Mathilde : le plus grand récit illustré du Moyen Âge",
-      "Le pont de Gödel : quand les mathématiques prouvent leur propre incomplétude",
-      "Fantasmagorie d'Émile Cohl : la naissance du cinéma d'animation en 1908",
-      "L'origine péruvienne de la quinine : le remède qui ouvrit l'Amazonie aux Européens",
-      "Randy Gardner et le record du monde d'insomnie : 11 jours sans sommeil en 1964"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
       "La tapisserie de la reine Sébile : l'histoire oubliée des croisades en bande dessinée médiévale",
       "Le paradoxe de Zénon d'Élée : Achille ne rattrape jamais la tortue",
       "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
@@ -68,6 +58,17 @@
       "La machine analytique de Charles Babbage : le véritable ancêtre de l'ordinateur moderne",
       "Le Minotaure et le labyrinthe de Dédale : le mythe grec de la monstruosité enfermée",
       "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans"
+    ]
+  },
+  {
+    "date": "19/03/2026",
+    "titles": [
+      "L'exposition Nan Goldin au Grand Palais : une rétrospective intime et monumentale",
+      "Rosalía en concert à l'Accor Arena : la tournée mondiale de l'album Lux",
+      "Magdalena Abakanowicz au Musée Bourdelle : l'hommage français à la sculptrice polonaise",
+      "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
+      "Marcoville à la cathédrale de la Major : des installations géantes en verre recyclé",
+      "Cyrano de Bergerac avec Édouard Baer : la tournée théâtrale continue"
     ]
   }
 ]
