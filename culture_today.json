@@ -1,36 +1,44 @@
 {
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "news": [
     {
-      "title": "Le paradoxe de l'écriture cunéiforme : la plus ancienne forme d'écriture humaine",
-      "summary": "L'écriture cunéiforme, inventée par les Sumériens vers 3200 avant notre ère, est la plus ancienne forme d'écriture connue de l'humanité. Elle a été développée initialement pour enregistrer les transactions commerciales et les inventaires de temples, utilisant des caractères en forme de coins gravés sur des tablettes d'argile. Cette révolution intellectuelle a permis le passage de la transmission orale à la documentation écrite, transformant profondément les sociétés antiques et jetant les bases de la civilisation occidentale.",
-      "why": "Comprendre les origines de l'écriture nous aide à saisir comment l'humanité a pu conserver et transmettre le savoir, marquant le début de l'histoire enregistrée et de la complexité administrative des premières cités.",
-      "category": "Histoire"
+      "title": "L'exposition Nan Goldin au Grand Palais : une rétrospective intime et monumentale",
+      "summary": "La photographe américaine Nan Goldin présente son exposition « This Will Not End Well » au Grand Palais de Paris à partir du 18 mars 2026, après avoir circulé à Stockholm, Amsterdam, Berlin et Milan. L'architecte Hala Wardé a conçu une scénographie unique composée de pavillons dispersés dans le Salon d'honneur et la chapelle Saint-Louis de la Salpêtrière, créant une expérience immersive autour de l'œuvre de cette pionnière de la photographie documentaire. Cette exposition s'étendra jusqu'au 21 juin 2026 et marque un événement majeur pour les amateurs de photographie contemporaine en France.",
+      "why": "Nan Goldin est une figure majeure de la photographie moderne dont l'œuvre intime et crue a révolutionné le médium. Cette exposition parisienne offre une occasion rare de découvrir son travail dans un cadre architectural exceptionnel.",
+      "category": "Cinéma"
     },
     {
-      "title": "L'effet Dunning-Kruger : quand l'incompétence engendre la confiance excessive",
-      "summary": "L'effet Dunning-Kruger est un biais cognitif découvert par les psychologues David Dunning et Justin Kruger en 1999, selon lequel les personnes peu compétentes dans un domaine surestiment systématiquement leurs capacités. Ce phénomène repose sur le fait que les incompétents manquent précisément des connaissances métacognitives nécessaires pour reconnaître leur propre incompétence. À l'inverse, les experts tendent à sous-estimer légèrement leurs compétences, car ils savent combien il y a encore à apprendre.",
-      "why": "Cet effet explique de nombreux comportements humains quotidiens et aide à comprendre pourquoi les personnes les moins qualifiées sont souvent les plus confiantes, ce qui a des implications majeures en éducation, management et débat public.",
-      "category": "Psychologie"
+      "title": "Rosalía en concert à l'Accor Arena : la tournée mondiale de l'album Lux",
+      "summary": "La chanteuse espagnole Rosalía présente sa tournée mondiale pour son album « Lux », sorti le 7 novembre 2025, avec une double escale parisienne les 18 et 20 mars 2026 à l'Accor Arena. Cet album a mis « le Système solaire en ébullition » selon les critiques, et sa transposition en live promet une expérience musicale mystique et visuelle. La tournée traverse 31 villes à travers le monde, confirmant le statut international de l'artiste.",
+      "why": "Rosalía est l'une des artistes les plus innovantes de la musique contemporaine, fusionnant flamenco, électronique et pop. Ses concerts sont réputés pour leur dimension artistique et leur mise en scène spectaculaire.",
+      "category": "Cinéma"
     },
     {
-      "title": "La machine analytique de Charles Babbage : le véritable ancêtre de l'ordinateur moderne",
-      "summary": "Charles Babbage, mathématicien britannique du dix-neuvième siècle, a conçu la machine analytique entre 1837 et 1871, un dispositif mécanique révolutionnaire considéré comme le précurseur direct des ordinateurs modernes. Contrairement à sa machine à différences antérieure, la machine analytique possédait une unité de calcul, une mémoire, et surtout un système de programmation par cartes perforées inspiré des métiers à tisser Jacquard. Bien que jamais entièrement construite de son vivant, ses plans détaillés contenaient tous les éléments fondamentaux de l'architecture informatique contemporaine.",
-      "why": "La machine analytique de Babbage représente un tournant conceptuel majeur : elle montre que l'informatique n'est pas une invention du vingtième siècle, mais le fruit d'une réflexion mathématique et mécanique qui remonte au dix-neuvième siècle.",
-      "category": "Science pop"
+      "title": "Magdalena Abakanowicz au Musée Bourdelle : l'hommage français à la sculptrice polonaise",
+      "summary": "Le Musée Bourdelle à Paris accueille une exposition majeure consacrée à Magdalena Abakanowicz, artiste polonaise disparue en 2017, rassemblant près de 70 de ses œuvres monumentales. Entre sculpture et tapisserie, ces pièces textiles géantes démontrent comment l'artiste a transformé le tissu en matériau aussi majestueux que le marbre ou le métal. Cette exposition fait suite à des présentations à la Tate de Londres et représente un hommage français à la hauteur des ambitions artistiques de cette créatrice majeure du XXe siècle.",
+      "why": "Magdalena Abakanowicz est une figure incontournable de l'art contemporain dont l'œuvre explore les frontières entre sculpture, textile et installation. Cet hommage parisien reconnaît enfin son importance dans l'histoire de l'art moderne.",
+      "category": "Cinéma"
     },
     {
-      "title": "Le Minotaure et le labyrinthe de Dédale : le mythe grec de la monstruosité enfermée",
-      "summary": "Dans la mythologie grecque, le Minotaure est une créature hybride, mi-homme mi-taureau, fils de Pasiphaé, reine de Crète, et d'un taureau blanc envoyé par Poséidon. Enfermé dans un labyrinthe inextricable conçu par l'architecte Dédale, le Minotaure était nourri de jeunes Athéniens envoyés en tribut tous les neuf ans, jusqu'à ce que le héros Thésée ne le tue en trouvant la sortie grâce au fil d'Ariane. Ce mythe symbolise la lutte entre la civilisation et la bestialité, ainsi que le pouvoir de l'intelligence et de l'amour face à la monstruosité.",
-      "why": "Le mythe du Minotaure a profondément influencé la littérature, l'art et la philosophie occidentales, incarnant les peurs humaines face à l'inconnu et l'enfermement, tout en célébrant le courage et la ruse.",
-      "category": "Mythologie"
+      "title": "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
+      "summary": "Le festival Printemps des Arts de Monte-Carlo revient du 11 mars au 19 avril 2026 sous la présidence de la princesse de Hanovre, proposant une programmation exceptionnelle de 27 concerts dans 24 lieux différents. Le festival accueille douze créations mondiales et une cinquantaine de compositeurs, enrichi par des ateliers auprès d'artistes, des projections, du théâtre, des cartes blanches et diverses surprises. Cette édition 2026 confirme le statut du festival comme l'un des plus prestigieux événements musicaux d'Europe.",
+      "why": "Le Printemps des Arts est un festival de renommée internationale qui réunit les plus grands musiciens et compositeurs. Les créations mondiales et la diversité des formats en font un événement incontournable pour les mélomanes.",
+      "category": "Cinéma"
     },
     {
-      "title": "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans",
-      "summary": "Les momies Chinchorros, découvertes au Chili dans le désert d'Atacama, sont les plus anciens corps momifiés intentionnellement de l'humanité, datant d'environ 9 000 ans avant notre ère. Contrairement aux momies égyptiennes, les Chinchorros, peuple de chasseurs-cueilleurs côtiers, momifiaient leurs morts bien avant le développement de l'agriculture ou de l'écriture, utilisant des techniques sophistiquées incluant l'éviscération, le séchage et la reconstruction du corps avec des matériaux naturels. Ces pratiques révèlent une profonde spiritualité et un respect rituel envers les défunts, antérieur de plusieurs millénaires aux civilisations pharaoniques.",
-      "why": "Les momies Chinchorros redéfinissent notre compréhension de la complexité culturelle et religieuse des sociétés préhistoriques, montrant que le culte des morts et les pratiques de conservation n'étaient pas l'apanage des grandes civilisations.",
+      "title": "Marcoville à la cathédrale de la Major : des installations géantes en verre recyclé",
+      "summary": "L'artiste Marcoville présente une exposition exceptionnelle à la cathédrale de la Major à Marseille, mettant en scène des installations monumentales créées exclusivement à partir de matériaux de rebut, notamment le verre. Ces gigantesques créations rassemblent des dizaines de milliers de pièces et établissent une relation intime et profonde avec chaque spectateur. Cette exposition démontre comment un artiste peut transformer des matériaux considérés comme des déchets en œuvres d'art d'une envergure et d'une beauté remarquables.",
+      "why": "Marcoville représente une approche artistique novatrice qui allie écologie et création esthétique. Ses installations monumentales en verre recyclé offrent une réflexion profonde sur la consommation et la beauté cachée dans nos rebuts.",
       "category": "Insolite"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Cyrano de Bergerac avec Édouard Baer : la tournée théâtrale continue",
+      "original": "Spectacles et événements culturels en Moselle",
+      "summary": "Édouard Baer endosse le rôle mythique de Cyrano de Bergerac dans un spectacle théâtral exceptionnel qui s'est arrêté à Thionville le mercredi 18 mars 2026. Cette adaptation contemporaine du chef-d'œuvre de Rostand par un acteur et humoriste de renom apporte une nouvelle perspective à cette pièce intemporelle. La tournée continue de circuler dans les grandes villes françaises, confirmant l'intérêt durable du public pour cette tragédie romantique.",
+      "why": "Cyrano de Bergerac reste l'une des pièces les plus jouées du répertoire français. L'interprétation d'Édouard Baer, connu pour son charisme et son talent dramatique, offre une relecture contemporaine d'un classique incontournable.",
+      "category": "Cinéma"
+    }
+  ]
 }
