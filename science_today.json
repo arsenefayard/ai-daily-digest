@@ -1,35 +1,35 @@
 {
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "news": [
     {
-      "title": "Découverte d'une espèce d'arbre-zombie en Australie",
-      "summary": "Une nouvelle espèce d'arbre présentant des caractéristiques de « zombie » a été découverte en Australie le 15 mars 2026. Cet arbre possède des propriétés biologiques inhabituelles qui le distinguent des espèces connues jusqu'à présent. Cette découverte élargit notre compréhension de la biodiversité australienne et des mécanismes d'adaptation des plantes aux environnements extrêmes.",
-      "why": "Cette découverte est importante car elle révèle l'existence de formes de vie végétale aux caractéristiques exceptionnelles, potentiellement porteuses d'enseignements sur la résilience biologique et l'évolution des espèces dans des conditions environnementales particulières.",
-      "category": "Biologie"
+      "title": "Découverte de roches blanches riches en kaolinite dans le cratère Jezero par Perseverance",
+      "summary": "Le rover Perseverance a analysé des fragments rocheux clairs, presque blancs, dans le cratère Jezero, révélant une forte concentration en kaolinite, une argile formée par un lessivage profond des sols avec beaucoup d'eau. Ces roches indiquent un climat martien ancien radicalement différent, potentiellement tropical, il y a environ trois milliards d'années. Les analyses spectroscopiques de SuperCam et Mastcam-Z ont confirmé cette minéralogie via des signatures infrarouges caractéristiques.",
+      "why": "Cette découverte fournit un marqueur direct de conditions de surface propices à la vie, renforçant notre compréhension de l'évolution climatique de Mars.",
+      "category": "Espace"
     },
     {
-      "title": "La frontière entre étoiles et planètes devient de plus en plus floue",
-      "summary": "Les observations astronomiques récentes montrent que la distinction traditionnelle entre les étoiles et les planètes n'est pas aussi nette qu'on le pensait auparavant. Les astronomes ont identifié des objets célestes présentant des caractéristiques intermédiaires, remettant en question les critères de classification actuels. Cette découverte suggère un continuum plutôt qu'une séparation binaire entre ces deux catégories d'objets.",
-      "why": "Cette révision conceptuelle est cruciale pour la compréhension de la formation et de l'évolution des systèmes stellaires, et elle pourrait transformer les modèles théoriques de la cosmologie et de l'astrophysique.",
-      "category": "Astrophysique"
+      "title": "Variations saisonnières de méthane et activité thermique sous-estimée dans le sous-sol martien",
+      "summary": "Les données récentes des orbiteurs et rovers sur Mars révèlent des variations saisonnières intrigantes de gaz comme le méthane, relançant le débat sur une activité géologique ou biologique actuelle. En parallèle, de nouvelles preuves montrent que le sous-sol martien reste thermiquement actif grâce à une chaleur interne plus importante que prévu. Ces observations changent notre vision de la planète rouge en 2026.",
+      "why": "Elles ouvrent des perspectives sur une possible habitabilité contemporaine de Mars et guident les futures missions d'exploration.",
+      "category": "Espace"
     },
     {
-      "title": "Une étoile supergéante se transforme en hypergéante sous observation directe",
-      "summary": "Les astronomes ont observé en direct la transformation d'une étoile supergéante en hypergéante, un événement exceptionnel qui se produit rarement dans l'histoire de l'astronomie moderne. Cette transition implique une augmentation drastique de la taille et de la luminosité de l'étoile, modifiant profondément sa structure interne et son environnement. Les données collectées lors de cette transformation offrent une fenêtre unique sur les processus physiques extrêmes qui gouvernent l'évolution stellaire.",
-      "why": "Observer directement une telle transformation est extraordinaire car elle permet aux astrophysiciens de valider et d'affiner les modèles théoriques de l'évolution stellaire, particulièrement pour les étoiles massives en fin de vie.",
-      "category": "Astrophysique"
+      "title": "Détection de minéraux réox sensibles dans les roches martiennes par Perseverance",
+      "summary": "L'équipe de Perseverance a identifié pour la première fois des minéraux dits réox sensibles, réagissant aux conditions d'oxydation ou de réduction chimique, grâce à une combinaison d'instruments sur le bras robotique du rover. Ces minéraux témoignent de processus géologiques complexes anciens sur Mars. Cette analyse à distance complète les études précédentes sur la chimie planétaire.",
+      "why": "Elle approfondit la connaissance des environnements chimiques passés de Mars, essentiels pour évaluer son potentiel biologique.",
+      "category": "Espace"
     },
     {
-      "title": "Dégel du pergélisol sibérien : transfert massif de carbone vers l'atmosphère",
-      "summary": "Le dégel accéléré du pergélisol en Sibérie libère d'importantes quantités de carbone stocké depuis des millénaires, qui se transfère vers l'atmosphère sous forme de dioxyde de carbone et de méthane. Ce processus crée une boucle de rétroaction positive où le réchauffement climatique accélère le dégel, qui à son tour amplifie le réchauffement. Les mesures effectuées le 17 mars 2026 confirment l'ampleur de ce phénomène et ses implications pour le cycle du carbone global.",
-      "why": "Cette découverte est critique car elle démontre un mécanisme de rétroaction climatique majeur qui pourrait accélérer le changement climatique de manière imprévisible, avec des conséquences potentiellement catastrophiques pour l'équilibre climatique terrestre.",
-      "category": "Autre"
+      "title": "Découverte de nucléobases, acides aminés, phosphates et glucose dans l'astéroïde Bennu",
+      "summary": "Les échantillons rapportés de l'astéroïde Bennu contiennent toutes les nucléobases nécessaires aux acides nucléiques, ainsi que des acides aminés, des phosphates et même du glucose, un sucre clé pour le métabolisme. Publiés dans des revues comme Nature, ces résultats détaillent la répartition et la stabilité de ces composés organiques complexes. Ils surpassent les findings d'autres météorites tombées sur Terre.",
+      "why": "Cette abondance de briques de vie prébiotiques renforce les théories sur l'origine extraterrestre de la vie sur Terre.",
+      "category": "Espace"
     },
     {
-      "title": "Chasse mondiale aux sources de neutrinos cosmiques",
-      "summary": "Une collaboration scientifique internationale a lancé une campagne coordonnée pour identifier et localiser les sources de neutrinos cosmiques détectés dans l'univers. Cette initiative mobilise des observatoires et des détecteurs à travers le monde pour tracer l'origine de ces particules élusives provenant de phénomènes astrophysiques extrêmes. Les efforts combinés visent à créer une cartographie complète des sources de neutrinos cosmiques et à comprendre les mécanismes physiques qui les produisent.",
-      "why": "Cette recherche est fondamentale car les neutrinos cosmiques offrent une fenêtre directe sur les événements les plus violents et énergétiques de l'univers, tels que les supernovae et les trous noirs, permettant une compréhension nouvelle de la physique extrême.",
-      "category": "Astrophysique"
+      "title": "Nouvelle lune découverte autour d'Uranus portant le total à 29",
+      "summary": "Une nouvelle lune a été détectée autour d'Uranus, confirmant que le système uranien est plus riche en satellites que prévu, avec un total passant de 28 à 29. Cette découverte repose sur des observations récentes et souligne la dynamique complexe de ce géant de glace. Elle s'inscrit dans les avancées de 2025-2026 sur les systèmes planétaires externes.",
+      "why": "Elle enrichit notre catalogue des lunes et prépare les futures missions vers Uranus prévues par la NASA.",
+      "category": "Espace"
     }
   ],
   "updates": []
