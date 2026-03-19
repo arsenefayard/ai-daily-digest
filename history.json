@@ -1,10 +1,6 @@
 [
   {
     "date": "14/03/2026",
-    "titles": []
-  },
-  {
-    "date": "14/03/2026",
     "titles": [
       "OpenAI lance GPT-5.4, premier modèle contrôlant nativement un ordinateur",
       "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres",
@@ -62,6 +58,16 @@
       "Oracle annonce un carnet de commandes de 553 milliards de dollars pour son infrastructure IA",
       "Anthropic assigne le gouvernement Trump en justice pour sanctions excessives sur l'IA",
       "Prestataires de services IA confrontés à l'épreuve du passage à l'échelle agentique"
+    ]
+  },
+  {
+    "date": "19/03/2026",
+    "titles": [
+      "Google lance le Pixel Drop de mars 2026 avec Gemini au centre",
+      "Samsung vise 800 millions d'unités avec son écosystème IA",
+      "OpenAI déploie Codex sur Windows avec agents parallèles",
+      "xAI annonce un nouveau rack d'accélérateur Grok 3 pour l'inférence ultra-rapide",
+      "Univ Nantes lance trois formations courtes en IA et data en mars 2026"
     ]
   }
 ]
