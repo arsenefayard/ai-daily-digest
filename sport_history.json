@@ -3,16 +3,6 @@
     "date": "14/03/2026",
     "titles": [
       "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
-      "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales après victoires convaincantes",
-      "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
-      "Betclic Elite J22 : Monaco triomphe et prend la tête du classement",
-      "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance au championnat"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
-      "Tournoi des 6 Nations : France bat l'Angleterre et remporte le titre",
       "Indian Wells Masters 1000 : Alcaraz et Swiatek en demi-finales",
       "Ligue 1 J26 : PSG écrase Monaco et creuse l'écart en tête",
       "Grand Prix de Chine F1 : Verstappen gagne et accentue son avance",
@@ -73,6 +63,16 @@
       "Milan-San Remo : classique du cyclisme sur route le 21 mars",
       "Seyfulla Itaev champion d'Europe U23 de lutte",
       "Ligue des Champions : qualifications spectaculaires après les huitièmes retour"
+    ]
+  },
+  {
+    "date": "19/03/2026",
+    "titles": [
+      "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
+      "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
+      "Milan-San Remo : le classique du cyclisme sur route se dispute le 21 mars",
+      "ATP et WTA : les favoris se préparent pour les grands tournois de printemps",
+      "UFC Fight Night : Lemos vs Robertson à Londres le 21 mars"
     ]
   }
 ]
