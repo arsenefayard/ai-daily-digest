@@ -1,15 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": [
-      "G7 approuve mobilisation d'urgence des réserves pétrolières stratégiques",
-      "Japon puise dans ses réserves de pétrole à partir du 16 mars",
-      "Unifirst acquiert Cintas pour 5,5 milliards de dollars",
-      "Eli Lilly investit 3 milliards de dollars en Chine pour ses traitements anti-obésité",
-      "Target baisse les prix de plus de 3 000 produits face à la concurrence accrue"
-    ]
-  },
-  {
     "date": "14/03/2026",
     "titles": [
       "FMI relève sa projection de croissance mondiale à 3,3% pour 2026",
@@ -68,6 +58,16 @@
       "Trump revendique l'autorité absolue pour imposer de nouveaux droits de douane malgré le rejet de la Cour suprême",
       "Décision de la Réserve bancaire d'Australie et indices ZEW du 17 mars influençant les perspectives économiques mondiales",
       "Escalade tarifaire américaine : Trump impose 15 % de droits de douane mondiaux après le rejet de la Cour suprême"
+    ]
+  },
+  {
+    "date": "19/03/2026",
+    "titles": [
+      "L'or dépasse les 2 440 dollars l'once en 24 heures",
+      "La Chine lance un plan historique de soutien à l'immobilier",
+      "Explosion des prix du fret aérien jusqu'à 82% sur certaines liaisons",
+      "L'UE annonce la fin de ses importations d'énergie russe",
+      "La BCE envisage un premier abaissement des taux en juin"
     ]
   }
 ]
