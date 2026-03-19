@@ -1,44 +1,36 @@
 {
-  "date": "18/03/2026",
+  "date": "19/03/2026",
   "news": [
     {
-      "title": "Championnats du monde en salle d'athlétisme à Torun",
-      "summary": "Les championnats du monde en salle d'athlétisme se déroulent du 20 au 22 mars 2026 à Torun en Pologne. Le coureur français Yann Schrub, détenteur du record de France du 3000 mètres en salle, participera à cette compétition majeure. Cette épreuve réunit les meilleurs athlètes mondiaux pour des performances exceptionnelles en indoor.",
-      "why": "C'est un événement majeur du calendrier athlétique mondial où les plus grands champions se disputent les titres mondiaux en salle.",
-      "category": "Autre"
-    },
-    {
-      "title": "Championnats du monde de patinage artistique à Prague",
-      "summary": "Les championnats du monde de patinage artistique auront lieu du 24 au 29 mars 2026 à Prague en République Tchèque. Cette compétition rassemble les meilleurs patineurs du monde pour déterminer les champions mondiaux dans les différentes catégories. C'est l'une des plus prestigieuses compétitions de patinage artistique de l'année.",
-      "why": "Les championnats du monde de patinage artistique constituent l'événement majeur de la discipline et attirent l'attention des fans du monde entier.",
-      "category": "Autre"
-    },
-    {
-      "title": "Ligue des Champions : huitièmes de finale retour en cours",
-      "summary": "Les huitièmes de finale retour de la Ligue des Champions se jouent les 17 et 18 mars 2026, avec des matchs décisifs qui détermineront les qualifiés pour les quarts de finale. Ces rencontres opposent les meilleures équipes européennes dans des affrontements à fort enjeu. Les résultats de ces matchs retour sont cruciaux pour la suite de la compétition.",
-      "why": "La Ligue des Champions est la compétition club la plus prestigieuse d'Europe et ces huitièmes de finale retour sont des moments clés de la saison.",
+      "title": "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
+      "summary": "Les huitièmes de finale retour de la Ligue des Champions se sont déroulés les 17 et 18 mars 2026, avec des matchs décisifs pour les qualifications en quarts de finale. Le Paris Saint-Germain a confirmé sa qualification face à Chelsea après sa victoire 5-2 au Parc des Princes, tandis que le Real Madrid a tenté un retour miraculeux contre Manchester City après sa défaite 3-0 à l'aller. Arsenal affrontait également le Bayern Leverkusen dans un match où tout restait à jouer après les résultats de la première manche.",
+      "why": "La Ligue des Champions est la compétition club la plus prestigieuse d'Europe, et ces matchs retour déterminent les quatre demi-finalistes qui disputeront le titre.",
       "category": "Football"
     },
     {
-      "title": "Milan-San Remo : classique du cyclisme sur route le 21 mars",
-      "summary": "La classique cycliste Milan-San Remo se dispute le 21 mars 2026 en Italie, marquant le début de la saison des grands classiques printaniers. Cette course légendaire de plus de 290 kilomètres attire les meilleurs coureurs mondiaux qui cherchent à remporter l'une des plus prestigieuses victoires du calendrier. C'est une épreuve traditionnelle qui lance la saison des classiques.",
-      "why": "Milan-San Remo est l'une des cinq Monuments du cyclisme et représente un objectif majeur pour les coureurs sprinteurs et polyvalents.",
+      "title": "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
+      "summary": "Les huitièmes de finale retour de l'Europa League se sont déroulés le 19 mars 2026, avec plusieurs matchs décisifs pour déterminer les qualifications en quarts de finale. Cette journée a permis aux équipes restantes de valider ou de confirmer leur billet pour la suite de la compétition européenne. Les enjeux étaient majeurs pour les clubs en quête d'une qualification continentale.",
+      "why": "L'Europa League est la deuxième compétition européenne la plus importante et offre une voie alternative vers la Ligue des Champions pour la saison suivante.",
+      "category": "Football"
+    },
+    {
+      "title": "Milan-San Remo : le classique du cyclisme sur route se dispute le 21 mars",
+      "summary": "La classique cycliste Milan-San Remo est programmée pour le 21 mars 2026, l'une des plus prestigieuses épreuves d'une journée du calendrier professionnel. Cette course légendaire, qui relie Milan à San Remo en Italie, attire les meilleurs coureurs mondiaux et constitue traditionnellement le premier grand classique de la saison printanière. Les coureurs affronteront un parcours exigeant avec plusieurs cols avant le sprint final.",
+      "why": "Milan-San Remo est l'une des cinq Mondiaux du cyclisme professionnel et marque le début de la saison des classiques printanières, événement majeur du calendrier cycliste.",
       "category": "Autre"
     },
     {
-      "title": "Seyfulla Itaev champion d'Europe U23 de lutte",
-      "summary": "Le lutteur français Seyfulla Itaev, originaire de Sarreguemines, a remporté sa première médaille d'or aux championnats d'Europe U23 de lutte qui se sont déroulés en Serbie le 16 mars 2026. Itaev a dominé la compétition en remportant ses quarts de finale par grande supériorité avant de gagner sa demi-finale et sa finale aux points. Cette victoire marque un tournant dans sa carrière de jeune lutteur français.",
-      "why": "C'est une performance remarquable pour un jeune athlète français qui confirme son potentiel au niveau européen dans une discipline exigeante.",
+      "title": "ATP et WTA : les favoris se préparent pour les grands tournois de printemps",
+      "summary": "Le calendrier tennistique de printemps 2026 approche avec les favoris mondiaux en position de force. Chez les hommes, Jannik Sinner, Carlos Alcaraz et Novak Djokovic sont attendus comme les principaux candidats aux titres majeurs, tandis que chez les femmes, Iga Świątek, Aryna Sabalenka et Coco Gauff dominent les classements. Les prochains tournois Masters 1000 et les épreuves de printemps verront ces champions en quête de nouveaux succès.",
+      "why": "Le tennis professionnel est un sport majeur avec des enjeux commerciaux et sportifs considérables, et les performances des top joueurs façonnent le calendrier des compétitions mondiales.",
+      "category": "Tennis"
+    },
+    {
+      "title": "UFC Fight Night : Lemos vs Robertson à Londres le 21 mars",
+      "summary": "L'événement UFC Fight Night mettant en vedette le combat Lemos vs Robertson se déroulera le 21 mars 2026 à l'O2 Arena de Londres. Cet événement de combat rapproché attire les amateurs de sports de combat et propose des affrontements de haut niveau entre des combattants de renommée internationale. La salle londonienne accueillera plusieurs combats de la carte principale et des préliminaires.",
+      "why": "L'UFC est la plus grande organisation mondiale d'arts martiaux mixtes, et ses événements génèrent un intérêt considérable auprès des fans de sports de combat.",
       "category": "Autre"
     }
   ],
-  "updates": [
-    {
-      "title": "Ligue des Champions : qualifications spectaculaires après les huitièmes retour",
-      "original": "Huitièmes de finale retour Ligue des Champions le 17-18 mars 2026",
-      "summary": "Les huitièmes de finale retour de la Ligue des Champions se sont déroulés les 17 et 18 mars 2026 avec des résultats spectaculaires et des qualifications choc pour les quarts de finale. Plusieurs équipes favorites ont connu des éliminations surprenantes tandis que d'autres ont confirmé leur statut de prétendants au titre. Ces matchs ont livré des performances mémorables et des retournements de situation dramatiques.",
-      "why": "Ces qualifications choc redessinent complètement le tableau des quarts de finale et créent une dynamique nouvelle pour la suite de la compétition.",
-      "category": "Football"
-    }
-  ]
+  "updates": []
 }
