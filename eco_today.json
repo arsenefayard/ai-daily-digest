@@ -1,35 +1,35 @@
 {
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "news": [
     {
-      "title": "L'or dépasse les 2 440 dollars l'once en 24 heures",
-      "summary": "Le cours de l'or a franchi le seuil symbolique des 2 440 dollars l'once en seulement vingt-quatre heures, stimulé par l'appétit vorace des banques centrales et les incertitudes politiques mondiales croissantes. Cette flambée s'inscrit dans un contexte de tensions géopolitiques au Moyen-Orient qui renforcent le rôle de valeur refuge de l'or. Les investisseurs anticipent une poursuite de cette tendance haussière tant que les risques persistent.",
-      "why": "Cette hausse record de l'or reflète l'aversion au risque généralisée sur les marchés et pourrait peser sur les portefeuilles diversifiés en augmentant la volatilité globale.",
+      "title": "Le cuivre franchit les 11 000 dollars la tonne à Londres",
+      "summary": "Le prix du cuivre a dépassé le seuil des 11 000 dollars la tonne sur le marché de Londres en raison d'un short squeeze combiné à une forte demande liée à la transition énergétique mondiale. Cette hausse s'inscrit dans une ruée générale sur les matières premières stimulée par les incertitudes géopolitiques. Les implications incluent une pression accrue sur les coûts de production pour les secteurs industriels et technologiques.",
+      "why": "Cette flambée renforce les pressions inflationnistes mondiales et impacte directement les chaînes d'approvisionnement pour l'énergie verte.",
       "category": "Matières premières"
     },
     {
-      "title": "La Chine lance un plan historique de soutien à l'immobilier",
-      "summary": "Pékin a déployé un plan massif d'assouplissement des conditions de crédit et de rachat de logements invendus pour stabiliser le secteur immobilier en crise. Cette mesure, qualifiée d'historique, vise à relancer la demande et à éviter une spirale déflationniste dans l'économie chinoise. Les marchés scrutent attentivement son impact potentiel sur la consommation intérieure et les exportations.",
-      "why": "Ce soutien massif pourrait relancer la croissance chinoise et booster les secteurs du luxe et des matières premières, avec des répercussions positives sur l'économie mondiale.",
-      "category": "Entreprises"
+      "title": "États-Unis proposent un Conseil commercial avec la Chine",
+      "summary": "L'administration Trump a proposé la création d'un Conseil commercial formel avec la Chine pour superviser et rééquilibrer les relations économiques bilatérales jugées inégales par Washington. Cette initiative vise à structurer les échanges et à réduire les déséquilibres persistants. Elle intervient après des tensions ravivées sur les véhicules électriques et semi-conducteurs.",
+      "why": "Cette mesure pourrait apaiser ou au contraire exacerber la guerre commerciale sino-américaine, influençant les flux commerciaux mondiaux.",
+      "category": "Politique monétaire"
     },
     {
-      "title": "Explosion des prix du fret aérien jusqu'à 82% sur certaines liaisons",
-      "summary": "Les prix du fret aérien ont connu une envolée spectaculaire, avec des hausses atteignant 82% sur certaines routes, selon les données de Freightos, en raison de la flambée du carburant et des perturbations dans le Golfe. Cette crise affecte gravement les chaînes d'approvisionnement mondiales, notamment pour les produits pharmaceutiques indiens, les équipements électroniques et la mode. La fermeture du détroit d'Ormuz par l'Iran amplifie ces tensions logistiques.",
-      "why": "Cette surge des coûts logistiques menace les marges des entreprises multinationales et pourrait alimenter l'inflation importée à l'échelle mondiale.",
+      "title": "Paraguay ratifie l'accord UE-MERCOSUR",
+      "summary": "Le Paraguay a officiellement ratifié l'accord de libre-échange entre l'Union européenne et le MERCOSUR, devenant le dernier membre du bloc sud-américain à achever le processus. Cet accord ouvre des marchés pour 780 millions de consommateurs et réduit les barrières tarifaires sur de nombreux produits agricoles et industriels. Il marque une avancée majeure pour le commerce transatlantique.",
+      "why": "Cette ratification booste les exportations européennes et sud-américaines, stimulant la croissance dans un contexte de tensions commerciales ailleurs.",
       "category": "Marchés"
     },
     {
-      "title": "L'UE annonce la fin de ses importations d'énergie russe",
-      "summary": "L'Union européenne a officiellement déclaré mettre un terme à sa dépendance énergétique envers la Russie en cessant progressivement les importations de gaz naturel et de pétrole. Cette décision s'inscrit dans un effort de diversification des sources d'approvisionnement face aux tensions géopolitiques persistantes. Les impacts sur les prix de l'énergie en Europe pourraient se faire sentir à court terme.",
-      "why": "Cette mesure accélère la transition énergétique européenne mais risque d'exacerber la volatilité des prix du gaz et du pétrole sur le continent.",
+      "title": "Japon reprend les subventions sur l'essence face à la flambée des prix",
+      "summary": "Le gouvernement japonais va relancer les subventions sur l'essence et le diesel à partir du 19 mars alors que les prix des carburants atteignent des records historiques. Cette mesure vise à atténuer l'impact sur les ménages et les entreprises dans un contexte de perturbations pétrolières mondiales. Elle s'ajoute à d'autres interventions pour stabiliser l'économie.",
+      "why": "Elle illustre la riposte des grandes économies aux chocs énergétiques, avec des effets potentiels sur la consommation et l'inflation japonaise.",
       "category": "Matières premières"
     },
     {
-      "title": "La BCE envisage un premier abaissement des taux en juin",
-      "summary": "Isabel Schnabel et les membres de la BCE ont validé la possibilité d'un premier abaissement des taux directeurs en juin, conditionné à une trajectoire d'inflation maîtrisée. Cette perspective tempère les attentes d'assouplissement immédiat tout en signalant une politique adaptable aux données économiques entrantes. Les marchés obligataires réagissent positivement à cette flexibilité annoncée.",
-      "why": "Cette ouverture à une baisse des taux pourrait stimuler la croissance en zone euro et influencer les décisions des autres banques centrales.",
-      "category": "Politique monétaire"
+      "title": "Irak rétablit partiellement ses exportations pétrolières via la Turquie",
+      "summary": "L'Irak a annoncé le 18 mars le redémarrage limité de ses exportations de pétrole à 250 000 barils par jour via le port turc de Ceyhan, après une chute due aux perturbations dans le détroit d'Ormuz. Cette reprise partielle soulage légèrement les tensions sur l'approvisionnement mondial. Elle intervient dans un marché tendu par la flambée des prix.",
+      "why": "Cette évolution atténue potentiellement la crise pétrolière, mais reste fragile face aux risques géopolitiques persistants.",
+      "category": "Matières premières"
     }
   ],
   "updates": []
