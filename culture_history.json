@@ -2,16 +2,6 @@
   {
     "date": "14/03/2026",
     "titles": [
-      "La tapisserie de la reine Sébile : l'histoire oubliée des croisades en bande dessinée médiévale",
-      "Le paradoxe de Zénon d'Élée : Achille ne rattrape jamais la tortue",
-      "Le voyage dans la lune de Méliès : pionnier des effets spéciaux en 1902",
-      "L'effet photoélectrique : Einstein et la naissance des quanta de lumière",
-      "La plus longue langue humaine mesurée : 10,1 cm chez un Britannique"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
       "La tapisserie de Bayeux : le plus grand récit illustré du Moyen Âge",
       "Le paradoxe de Zénon : Achille ne rattrape jamais la tortue",
       "Le voyage dans la Lune de Georges Méliès : pionnier des effets spéciaux",
@@ -69,6 +59,16 @@
       "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
       "Marcoville à la cathédrale de la Major : des installations géantes en verre recyclé",
       "Cyrano de Bergerac avec Édouard Baer : la tournée théâtrale continue"
+    ]
+  },
+  {
+    "date": "20/03/2026",
+    "titles": [
+      "80 000 tulipes en fleurs au Château de Dampierre",
+      "Rêveries de pierres : l'exposition poétique de Roger Caillois",
+      "Muséum du Pastel : le bleu historique d’Occitanie à Labège",
+      "Paliss’Art : street art XXL sur les palissades de Toulouse",
+      "La serre volante de la Compagnie La Machine à Toulouse"
     ]
   }
 ]
