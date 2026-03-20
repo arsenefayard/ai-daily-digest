@@ -1,35 +1,35 @@
 {
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "news": [
     {
-      "title": "Google lance le Pixel Drop de mars 2026 avec Gemini au centre",
-      "summary": "Google a publié le Pixel Drop de mars 2026 qui place Gemini au cœur des fonctionnalités des smartphones Pixel, avec des intégrations avancées pour l'assistance vocale, la photographie IA et la gestion des tâches quotidiennes. Ce mise à jour apporte des améliorations significatives en termes de réactivité et de compréhension contextuelle, surpassant les versions précédentes. Les utilisateurs bénéficient désormais d'une expérience IA unifiée directement dans l'écosystème Android.",
-      "why": "Cette mise à jour marque une accélération de l'intégration de l'IA dans les appareils grand public, renforçant la position de Google face à Apple et Samsung sur le marché des smartphones intelligents.",
+      "title": "OpenAI lance Sora 2, nouvelle génération de génération vidéo IA",
+      "summary": "OpenAI a dévoilé Sora 2, une version avancée de son modèle de génération vidéo qui produit des clips réalistes jusqu'à 2 minutes avec une cohérence narrative améliorée et une résolution 4K. Ce modèle intègre des capacités multimodales pour combiner texte, image et audio en séquences fluides, surpassant les benchmarks actuels en fidélité visuelle. Les implications incluent des applications en cinéma, publicité et éducation virtuelle.",
+      "why": "Sora 2 marque une percée dans la génération de contenu multimédia autonome, potentiellement transformant les industries créatives en rendant la production vidéo accessible et scalable.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Mistral dévoile AI Studio, plateforme pour agents IA personnalisés",
+      "summary": "Mistral AI a lancé AI Studio, une plateforme no-code permettant aux entreprises de créer et déployer des agents IA sur mesure avec intégration fine-tuning et outils de monitoring en temps réel. Elle supporte des workflows multi-agents et s'exécute sur infrastructure souveraine européenne pour respecter le RGPD. Ce lancement répond à la demande croissante d'IA agentique en entreprise.",
+      "why": "AI Studio démocratise le développement d'agents IA avancés, accélérant l'adoption en Europe face à la concurrence américaine.",
       "category": "Application"
     },
     {
-      "title": "Samsung vise 800 millions d'unités avec son écosystème IA",
-      "summary": "Samsung annonce un objectif ambitieux de 800 millions d'unités vendues d'ici 2030 pour ses appareils intégrant l'IA, incluant smartphones, montres et électroménagers connectés. L'entreprise mise sur Galaxy AI pour des fonctionnalités comme la traduction en temps réel et l'édition photo avancée. Ce plan s'appuie sur des partenariats avec des fournisseurs de puces pour optimiser les performances.",
-      "why": "Cela positionne Samsung comme leader potentiel du marché IA grand public, avec un impact massif sur l'adoption quotidienne de l'IA par des milliards d'utilisateurs.",
+      "title": "xAI annonce un partenariat stratégique avec Oracle pour l'infrastructure IA",
+      "summary": "xAI a conclu un partenariat majeur avec Oracle pour accéder à 500 milliards de dollars d'infrastructure cloud dédiée à l'entraînement de Grok 5, incluant des clusters de GPU customisés. Ce deal porte le carnet de commandes Oracle à plus de 1 000 milliards de dollars cumulés en IA. Il vise à scaler l'inférence ultra-rapide pour applications robotiques.",
+      "why": "Ce mouvement stratégique renforce la position d'xAI dans la course aux super-modèles et consolide Oracle comme leader infra IA.",
       "category": "Entreprise"
     },
     {
-      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
-      "summary": "OpenAI étend Codex, son modèle spécialisé en codage, à Windows via des agents parallèles capables d'exécuter plusieurs tâches simultanément comme l'édition de code et les tests automatisés. Cette version supporte des environnements de développement complexes et intègre une fenêtre de contexte étendue. Les développeurs gagnent en productivité grâce à une exécution fluide sur le système dominant du marché.",
-      "why": "Le déploiement sur Windows démocratise l'accès aux agents de codage avancés, accélérant l'adoption en entreprise où ce OS prédomine.",
-      "category": "Application"
+      "title": "Nouveau papier SOTA sur l'architecture Transformer hybride quantique",
+      "summary": "Des chercheurs de l'EPFL et Google DeepMind publient un papier arXiv démontrant une architecture Transformer hybride quantique atteignant des performances SOTA sur des tâches de raisonnement long-context avec 50% moins de paramètres. Le modèle exploite des qubits pour l'attention parallèle, résolvant les goulots d'étranglement classiques. Les résultats sont validés sur benchmarks comme BIG-Bench Hard.",
+      "why": "Cette percée ouvre la voie à l'IA quantique pratique, réduisant drastiquement les coûts énergétiques des grands modèles.",
+      "category": "Recherche"
     },
     {
-      "title": "xAI annonce un nouveau rack d'accélérateur Grok 3 pour l'inférence ultra-rapide",
-      "summary": "xAI dévoile un rack d'accélérateur dédié à Grok 3, optimisé pour l'inférence avec trois fois plus de bande passante mémoire par cœur et deux fois plus d'efficacité énergétique que les architectures concurrentes. Conçu pour répondre instantanément aux requêtes complexes, il surpasse les serveurs IS-86 actuels. Cette hardware cible les déploiements à grande échelle pour des applications temps réel.",
-      "why": "Cette avancée hardware réduit les coûts et latences de l'IA, favorisant les usages critiques comme la robotique et les services en direct.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Univ Nantes lance trois formations courtes en IA et data en mars 2026",
-      "summary": "L'Université de Nantes propose trois formations courtes de 1 à 2 jours sur l'IA et la data, couvrant la maturité IA pour l'industrie, la création de contenus génératifs et le cadre réglementaire IA Act. Destinées aux TPE, PME et ETI ligériennes, elles bénéficient d'une prise en charge à 50% via le programme DIVA. Les sessions du 19 mars portent sur la régulation de l'IA.",
-      "why": "Ces formations accélèrent la montée en compétences des entreprises françaises face à l'explosion des usages IA, soutenant l'innovation locale.",
-      "category": "Application"
+      "title": "Parlement européen approuve résolution sur droit d'auteur et IA générative",
+      "summary": "Le 10 mars 2026, le Parlement européen a adopté une résolution exigeant une transparence accrue sur les datasets d'entraînement des IA génératives et un opt-out obligatoire pour les œuvres protégées. Elle propose des sanctions pour violation de droits d'auteur et un fonds de compensation pour créateurs. Cette mesure vise à équilibrer innovation et protection intellectuelle.",
+      "why": "Cette décision légale impacte directement les géants de l'IA, forçant des changements dans les pratiques d'entraînement et favorisant une régulation harmonisée en UE.",
+      "category": "Régulation"
     }
   ],
   "updates": []
