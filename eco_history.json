@@ -2,16 +2,6 @@
   {
     "date": "14/03/2026",
     "titles": [
-      "FMI relève sa projection de croissance mondiale à 3,3% pour 2026",
-      "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité",
-      "France envisage de plafonner les marges des distributeurs de carburants",
-      "Grèce annonce le plafonnement des marges sur les prix des carburants",
-      "Téhéran soupçonné de financer ses proxys via les cryptomonnaies"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
       "Goldman Sachs relève ses prévisions de prix du pétrole Brent à 71$ et WTI à 67$ pour Q4 2026",
       "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points, plombé par la volatilité pétrolière",
       "Brent clôture au-dessus de 100 dollars pour la première fois depuis août 2022",
@@ -68,6 +58,16 @@
       "Explosion des prix du fret aérien jusqu'à 82% sur certaines liaisons",
       "L'UE annonce la fin de ses importations d'énergie russe",
       "La BCE envisage un premier abaissement des taux en juin"
+    ]
+  },
+  {
+    "date": "20/03/2026",
+    "titles": [
+      "Le cuivre franchit les 11 000 dollars la tonne à Londres",
+      "États-Unis proposent un Conseil commercial avec la Chine",
+      "Paraguay ratifie l'accord UE-MERCOSUR",
+      "Japon reprend les subventions sur l'essence face à la flambée des prix",
+      "Irak rétablit partiellement ses exportations pétrolières via la Turquie"
     ]
   }
 ]
