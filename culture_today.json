@@ -1,44 +1,36 @@
 {
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "news": [
     {
-      "title": "L'exposition Nan Goldin au Grand Palais : une rétrospective intime et monumentale",
-      "summary": "La photographe américaine Nan Goldin présente son exposition « This Will Not End Well » au Grand Palais de Paris à partir du 18 mars 2026, après avoir circulé à Stockholm, Amsterdam, Berlin et Milan. L'architecte Hala Wardé a conçu une scénographie unique composée de pavillons dispersés dans le Salon d'honneur et la chapelle Saint-Louis de la Salpêtrière, créant une expérience immersive autour de l'œuvre de cette pionnière de la photographie documentaire. Cette exposition s'étendra jusqu'au 21 juin 2026 et marque un événement majeur pour les amateurs de photographie contemporaine en France.",
-      "why": "Nan Goldin est une figure majeure de la photographie moderne dont l'œuvre intime et crue a révolutionné le médium. Cette exposition parisienne offre une occasion rare de découvrir son travail dans un cadre architectural exceptionnel.",
+      "title": "80 000 tulipes en fleurs au Château de Dampierre",
+      "summary": "Le Domaine de Dampierre dans les Yvelines accueille les Printanières de fin mars à début mai 2026 avec 80 000 tulipes en pleine floraison. Une Journée de la Tulipe et une Fête des Plantes sont au programme pour célébrer le printemps. Ces événements attirent les amateurs de nature et de jardinage dans un cadre historique enchanteur.",
+      "why": "Cette floraison spectaculaire met en lumière le patrimoine horticole français et offre une immersion poétique dans la beauté printanière.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Rêveries de pierres : l'exposition poétique de Roger Caillois",
+      "summary": "Du 6 novembre 2025 au 29 mars 2026, L’École des Arts Joailliers présente 'Rêveries de pierres : Poésie et minéraux de Roger Caillois' en partenariat avec le Muséum national d’histoire naturelle. L'écrivain surréaliste collectionnait des minéraux pour leur beauté poétique et mystérieuse. Cette exposition invite à une contemplation envoûtante des pierres précieuses.",
+      "why": "Elle révèle le lien entre littérature surréaliste et sciences naturelles, enrichissant notre regard sur les trésors minéraux.",
       "category": "Cinéma"
     },
     {
-      "title": "Rosalía en concert à l'Accor Arena : la tournée mondiale de l'album Lux",
-      "summary": "La chanteuse espagnole Rosalía présente sa tournée mondiale pour son album « Lux », sorti le 7 novembre 2025, avec une double escale parisienne les 18 et 20 mars 2026 à l'Accor Arena. Cet album a mis « le Système solaire en ébullition » selon les critiques, et sa transposition en live promet une expérience musicale mystique et visuelle. La tournée traverse 31 villes à travers le monde, confirmant le statut international de l'artiste.",
-      "why": "Rosalía est l'une des artistes les plus innovantes de la musique contemporaine, fusionnant flamenco, électronique et pop. Ses concerts sont réputés pour leur dimension artistique et leur mise en scène spectaculaire.",
+      "title": "Muséum du Pastel : le bleu historique d’Occitanie à Labège",
+      "summary": "Le Muséum du Pastel à Labège propose un parcours ludique sur l'Isatis tinctoria, plante à l'origine du bleu pastel emblématique de la région. Ce savoir-faire, lié au pays de Cocagne, est classé au Patrimoine immatériel de France. Les visiteurs découvrent l'histoire d'une industrie florissante du XVIe siècle.",
+      "why": "Cette sortie insolite perpétue un héritage textile méconnu et met en valeur l'innovation botanique occitane.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Paliss’Art : street art XXL sur les palissades de Toulouse",
+      "summary": "À Saint-Aubin, l'exposition Paliss’Art transforme les palissades du chantier de métro en musée à ciel ouvert avec 30 œuvres originales autour du thème 'Sous la surface'. Graffs, peintures et BD sont visibles ce week-end et mises en vente aux enchères. Les QR codes permettent d'en savoir plus sur les artistes toulousains.",
+      "why": "Cette initiative soutient la scène street art locale et réinvente l'urbanisme en espace culturel accessible.",
       "category": "Cinéma"
     },
     {
-      "title": "Magdalena Abakanowicz au Musée Bourdelle : l'hommage français à la sculptrice polonaise",
-      "summary": "Le Musée Bourdelle à Paris accueille une exposition majeure consacrée à Magdalena Abakanowicz, artiste polonaise disparue en 2017, rassemblant près de 70 de ses œuvres monumentales. Entre sculpture et tapisserie, ces pièces textiles géantes démontrent comment l'artiste a transformé le tissu en matériau aussi majestueux que le marbre ou le métal. Cette exposition fait suite à des présentations à la Tate de Londres et représente un hommage français à la hauteur des ambitions artistiques de cette créatrice majeure du XXe siècle.",
-      "why": "Magdalena Abakanowicz est une figure incontournable de l'art contemporain dont l'œuvre explore les frontières entre sculpture, textile et installation. Cet hommage parisien reconnaît enfin son importance dans l'histoire de l'art moderne.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
-      "summary": "Le festival Printemps des Arts de Monte-Carlo revient du 11 mars au 19 avril 2026 sous la présidence de la princesse de Hanovre, proposant une programmation exceptionnelle de 27 concerts dans 24 lieux différents. Le festival accueille douze créations mondiales et une cinquantaine de compositeurs, enrichi par des ateliers auprès d'artistes, des projections, du théâtre, des cartes blanches et diverses surprises. Cette édition 2026 confirme le statut du festival comme l'un des plus prestigieux événements musicaux d'Europe.",
-      "why": "Le Printemps des Arts est un festival de renommée internationale qui réunit les plus grands musiciens et compositeurs. Les créations mondiales et la diversité des formats en font un événement incontournable pour les mélomanes.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "Marcoville à la cathédrale de la Major : des installations géantes en verre recyclé",
-      "summary": "L'artiste Marcoville présente une exposition exceptionnelle à la cathédrale de la Major à Marseille, mettant en scène des installations monumentales créées exclusivement à partir de matériaux de rebut, notamment le verre. Ces gigantesques créations rassemblent des dizaines de milliers de pièces et établissent une relation intime et profonde avec chaque spectateur. Cette exposition démontre comment un artiste peut transformer des matériaux considérés comme des déchets en œuvres d'art d'une envergure et d'une beauté remarquables.",
-      "why": "Marcoville représente une approche artistique novatrice qui allie écologie et création esthétique. Ses installations monumentales en verre recyclé offrent une réflexion profonde sur la consommation et la beauté cachée dans nos rebuts.",
-      "category": "Insolite"
+      "title": "La serre volante de la Compagnie La Machine à Toulouse",
+      "summary": "La Halle de La Machine accueille l’Aéroflorale II, une serre volante aux pattes géantes imaginée par la Compagnie La Machine. Cette exposition immersive suit les aventures d'explorateurs en phytovoltaïsme avec récits de voyages et installations botaniques fascinantes. Elle mêle art mécanique, nature et poésie pour une expérience unique.",
+      "why": "Elle illustre la créativité française en matière de spectacles immersifs et sensibilise à l'innovation écologique.",
+      "category": "Science pop"
     }
   ],
-  "updates": [
-    {
-      "title": "Cyrano de Bergerac avec Édouard Baer : la tournée théâtrale continue",
-      "original": "Spectacles et événements culturels en Moselle",
-      "summary": "Édouard Baer endosse le rôle mythique de Cyrano de Bergerac dans un spectacle théâtral exceptionnel qui s'est arrêté à Thionville le mercredi 18 mars 2026. Cette adaptation contemporaine du chef-d'œuvre de Rostand par un acteur et humoriste de renom apporte une nouvelle perspective à cette pièce intemporelle. La tournée continue de circuler dans les grandes villes françaises, confirmant l'intérêt durable du public pour cette tragédie romantique.",
-      "why": "Cyrano de Bergerac reste l'une des pièces les plus jouées du répertoire français. L'interprétation d'Édouard Baer, connu pour son charisme et son talent dramatique, offre une relecture contemporaine d'un classique incontournable.",
-      "category": "Cinéma"
-    }
-  ]
+  "updates": []
 }
