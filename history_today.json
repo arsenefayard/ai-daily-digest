@@ -1,33 +1,33 @@
 {
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "subject": {
-    "name": "René-Robert Cavelier de La Salle",
+    "name": "Adrienne Lecouvreur",
     "type": "Personnalité",
-    "period": "1643 – 1687 · Exploration française en Amérique du Nord",
-    "context": "René-Robert Cavelier de La Salle fut l'un des plus grands explorateurs français du XVIIe siècle, animé par l'ambition de découvrir une route vers la Chine et d'étendre l'influence française en Amérique du Nord. Après des années de préparation et de voyages périlleux, il entreprit en 1682 une expédition majeure qui le conduisit à descendre le Mississippi jusqu'à son embouchure dans le golfe du Mexique, accomplissement extraordinaire qui lui permit de revendiquer l'immense territoire de la Louisiane au nom du roi Louis XIV. Cet exploit territorial, bien que géographiquement remarquable, ne lui apporta pas la gloire espérée : les financiers retirèrent leur soutien, et La Salle dut affronter une ultime expédition désastreuse pour tenter de localiser l'embouchure du Mississippi par la mer. Trahi par ses propres compagnons, affaibli par les maladies et les mutineries, il périt le 19 mars 1687, assassiné par l'un de ses hommes au Texas, loin de la civilisation et sans avoir vu se concrétiser son rêve colonial.",
+    "period": "1692 – 1730 · Siècle des Lumières français",
+    "context": "Née près d'Épernay en 1692 dans une famille modeste, Adrienne Lecouvreur gravit les échelons du théâtre parisien par son talent exceptionnel, révolutionnant la déclamation tragique en introduisant un naturalisme émouvant qui rompt avec les conventions classiques rigides. Sociétaire de la Comédie-Française dès 1717, elle devient l'une des actrices les plus adulées de son temps, interprétant avec brio des rôles de Racine et Corneille tout en menant une vie sentimentale tumultueuse avec le maréchal Maurice de Saxe. Sa mort soudaine le 20 mars 1730 à l'âge de trente-huit ans, après une ultime représentation, est entourée de rumeurs d'empoisonnement par la duchesse de Bouillon, sa rivale amoureuse, bien que les historiens penchent aujourd'hui pour une intoxication alimentaire ou une tuberculose. Son enterrement clandestin sans sacrements religieux, imposé par l'Église qui refusait les honneurs aux actrices, provoque un scandale et alimente les pamphlets anticléricaux. Voltaire, épris d'elle, lui rend un vibrant hommage posthume, immortalisant sa mémoire dans une tragédie.",
     "dates": [
       {
-        "year": "1643",
-        "label": "Naissance de René-Robert Cavelier de La Salle à Rouen"
+        "year": "1692",
+        "label": "Naissance près d'Épernay"
       },
       {
-        "year": "1678-1680",
-        "label": "Expéditions préliminaires sur les Grands Lacs et le Mississippi inférieur"
+        "year": "1717",
+        "label": "Sociétaire de la Comédie-Française"
       },
       {
-        "year": "1682",
-        "label": "Descente triomphale du Mississippi jusqu'au golfe du Mexique ; prise de possession de la Louisiane"
+        "year": "1721",
+        "label": "Début de liaison avec Maurice de Saxe"
       },
       {
-        "year": "1684",
-        "label": "Départ de France pour une expédition maritime destinée à coloniser la Louisiane"
+        "year": "1730",
+        "label": "Mort mystérieuse à Paris"
       },
       {
-        "year": "1687",
-        "label": "Assassinat de La Salle par ses compagnons au Texas le 19 mars"
+        "year": "1730",
+        "label": "Hommage de Voltaire"
       }
     ],
-    "legacy": "Bien que La Salle n'ait pu fonder de colonie durable, son exploration du Mississippi et sa revendication de la Louisiane établirent les fondations des prétentions françaises en Amérique du Nord, influençant les rivalités coloniales du siècle suivant. Son nom reste attaché à la découverte d'un continent et à l'une des plus grandes tragédies de l'exploration, symbolisant les rêves démesurés et les périls de l'ambition coloniale. La Louisiane, bien que vendue aux États-Unis en 1803, porte toujours l'empreinte de cette exploration française pionnière.",
-    "why": "La mort de La Salle le 19 mars 1687 rappelle que les plus grands exploits historiques s'accompagnent souvent de drames humains oubliés : un homme visionnaire assassiné par ses propres hommes, victime de son propre rêve, incarne les contradictions sanglantes de l'expansion coloniale et l'isolement tragique de ceux qui osent explorer l'inconnu."
+    "legacy": "Adrienne Lecouvreur a posé les bases du jeu théâtral moderne en privilégiant l'émotion authentique sur la récitation ampoulée, influençant les réformateurs du théâtre comme Diderot et Beaumarchais. Son décès tragique a inspiré des opéras, dont celui de Scribe et Legros en 1849, et nourrit la légende romantique de l'artiste maudite. Elle symbolise la lutte pour la reconnaissance des femmes sur scène et contre les préjugés ecclésiastiques.",
+    "why": "Son empoisonnement supposé révèle comment la passion amoureuse et les rivalités aristocratiques pouvaient détruire une vie au XVIIIe siècle. Moins connue que ses contemporaines, elle préfigure le féminisme culturel en défiant les normes par son art irrésistible."
   }
 }
