@@ -1,34 +1,34 @@
 {
-  "date": "19/03/2026",
+  "date": "20/03/2026",
   "news": [
     {
-      "title": "Découverte de roches blanches riches en kaolinite dans le cratère Jezero par Perseverance",
-      "summary": "Le rover Perseverance a analysé des fragments rocheux clairs, presque blancs, dans le cratère Jezero, révélant une forte concentration en kaolinite, une argile formée par un lessivage profond des sols avec beaucoup d'eau. Ces roches indiquent un climat martien ancien radicalement différent, potentiellement tropical, il y a environ trois milliards d'années. Les analyses spectroscopiques de SuperCam et Mastcam-Z ont confirmé cette minéralogie via des signatures infrarouges caractéristiques.",
-      "why": "Cette découverte fournit un marqueur direct de conditions de surface propices à la vie, renforçant notre compréhension de l'évolution climatique de Mars.",
-      "category": "Espace"
-    },
-    {
-      "title": "Variations saisonnières de méthane et activité thermique sous-estimée dans le sous-sol martien",
-      "summary": "Les données récentes des orbiteurs et rovers sur Mars révèlent des variations saisonnières intrigantes de gaz comme le méthane, relançant le débat sur une activité géologique ou biologique actuelle. En parallèle, de nouvelles preuves montrent que le sous-sol martien reste thermiquement actif grâce à une chaleur interne plus importante que prévu. Ces observations changent notre vision de la planète rouge en 2026.",
-      "why": "Elles ouvrent des perspectives sur une possible habitabilité contemporaine de Mars et guident les futures missions d'exploration.",
-      "category": "Espace"
-    },
-    {
       "title": "Détection de minéraux réox sensibles dans les roches martiennes par Perseverance",
-      "summary": "L'équipe de Perseverance a identifié pour la première fois des minéraux dits réox sensibles, réagissant aux conditions d'oxydation ou de réduction chimique, grâce à une combinaison d'instruments sur le bras robotique du rover. Ces minéraux témoignent de processus géologiques complexes anciens sur Mars. Cette analyse à distance complète les études précédentes sur la chimie planétaire.",
-      "why": "Elle approfondit la connaissance des environnements chimiques passés de Mars, essentiels pour évaluer son potentiel biologique.",
+      "summary": "Le rover Perseverance a identifié pour la première fois un ensemble de minéraux dits réox sensibles, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique, grâce à une combinaison d'instruments sur son bras robotique et de techniques d'analyse à distance. Cette découverte, réalisée dans le cratère Jezero, révèle des processus géologiques complexes anciens sur Mars. Elle oblige l'équipe scientifique à prioriser les carottes à forer pour le retour d'échantillons sur Terre.",
+      "why": "Cette avancée fournit des indices cruciaux sur l'évolution chimique passée de Mars et pourrait révéler des environnements habitables anciens.",
       "category": "Espace"
     },
     {
-      "title": "Découverte de nucléobases, acides aminés, phosphates et glucose dans l'astéroïde Bennu",
-      "summary": "Les échantillons rapportés de l'astéroïde Bennu contiennent toutes les nucléobases nécessaires aux acides nucléiques, ainsi que des acides aminés, des phosphates et même du glucose, un sucre clé pour le métabolisme. Publiés dans des revues comme Nature, ces résultats détaillent la répartition et la stabilité de ces composés organiques complexes. Ils surpassent les findings d'autres météorites tombées sur Terre.",
-      "why": "Cette abondance de briques de vie prébiotiques renforce les théories sur l'origine extraterrestre de la vie sur Terre.",
+      "title": "Éclairs martiens détectés par la NASA transformant la chimie organique",
+      "summary": "La NASA a enregistré des éclairs sur Mars qui pourraient avoir profondément altéré l'histoire de la chimie organique à la surface de la planète. Ces phénomènes électriques omniprésents dans l'air sec martien pourraient expliquer les variations de méthane détectées par Curiosity depuis le sol mais non par les orbiteurs comme l'ESA. Ils offrent un mécanisme de destruction supplémentaire pour ce gaz potentiellement biosignature.",
+      "why": "Cette découverte révolutionne notre compréhension de l'atmosphère martienne et de la préservation potentielle de traces de vie.",
       "category": "Espace"
     },
     {
-      "title": "Nouvelle lune découverte autour d'Uranus portant le total à 29",
-      "summary": "Une nouvelle lune a été détectée autour d'Uranus, confirmant que le système uranien est plus riche en satellites que prévu, avec un total passant de 28 à 29. Cette découverte repose sur des observations récentes et souligne la dynamique complexe de ce géant de glace. Elle s'inscrit dans les avancées de 2025-2026 sur les systèmes planétaires externes.",
-      "why": "Elle enrichit notre catalogue des lunes et prépare les futures missions vers Uranus prévues par la NASA.",
+      "title": "Cinquième nucléobase ADN découverte dans échantillons de Bennu",
+      "summary": "Une étude publiée dans Nature Astronomy révèle la présence des cinq nucléobases fondamentales de l'ADN et ARN — adénine, guanine, cytosine, thymine et uracile — dans les échantillons rapportés par OSIRIS-REx de l'astéroïde Bennu. Ces molécules essentielles au stockage génétique se forment via un mécanisme inconnu dans le système solaire primitif. Cela suggère des voies de synthèse variées pour les briques de la vie.",
+      "why": "Elle ouvre des perspectives inédites sur l'origine de la vie en indiquant que ces composés organiques étaient disponibles tôt dans l'histoire du système solaire.",
+      "category": "Espace"
+    },
+    {
+      "title": "Le 'Jerk' sismique pour prédire les éruptions volcaniques en avance",
+      "summary": "Des chercheurs ont développé une méthode utilisant le 'jerk' sismique, une mesure de l'accélération du mouvement, pour détecter précocement les éruptions volcaniques. Cette technique analyse les signaux sismiques anormaux avant les phases classiques de gonflement. Elle promet d'améliorer la surveillance et l'évacuation des populations menacées.",
+      "why": "Cette innovation pourrait sauver des vies en offrant un délai de prévision plus long pour les catastrophes volcaniques.",
+      "category": "Physique"
+    },
+    {
+      "title": "Mission chinoise de sauvetage après collision en orbite",
+      "summary": "La Chine a réussi une mission de sauvetage suite à une collision en orbite impliquant ses satellites. Les équipes ont détaillé le déroulé des opérations pour rétablir les communications et éviter une prolifération de débris. Cela met en lumière les risques croissants du trafic spatial et l'urgence de protocoles internationaux.",
+      "why": "Elle démontre les capacités chinoises en gestion de crise spatiale et souligne la nécessité de réguler l'encombrement orbital.",
       "category": "Espace"
     }
   ],
