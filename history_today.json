@@ -1,33 +1,37 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "subject": {
-    "name": "Adrienne Lecouvreur",
-    "type": "Personnalité",
-    "period": "1692 – 1730 · Siècle des Lumières français",
-    "context": "Née près d'Épernay en 1692 dans une famille modeste, Adrienne Lecouvreur gravit les échelons du théâtre parisien par son talent exceptionnel, révolutionnant la déclamation tragique en introduisant un naturalisme émouvant qui rompt avec les conventions classiques rigides. Sociétaire de la Comédie-Française dès 1717, elle devient l'une des actrices les plus adulées de son temps, interprétant avec brio des rôles de Racine et Corneille tout en menant une vie sentimentale tumultueuse avec le maréchal Maurice de Saxe. Sa mort soudaine le 20 mars 1730 à l'âge de trente-huit ans, après une ultime représentation, est entourée de rumeurs d'empoisonnement par la duchesse de Bouillon, sa rivale amoureuse, bien que les historiens penchent aujourd'hui pour une intoxication alimentaire ou une tuberculose. Son enterrement clandestin sans sacrements religieux, imposé par l'Église qui refusait les honneurs aux actrices, provoque un scandale et alimente les pamphlets anticléricaux. Voltaire, épris d'elle, lui rend un vibrant hommage posthume, immortalisant sa mémoire dans une tragédie.",
+    "name": "Rébellion de Kronstadt",
+    "type": "Événement",
+    "period": "1921 · Révolution russe et début de l'URSS",
+    "context": "Au lendemain de la guerre civile russe, les marins de la base navale de Kronstadt, héros de la Révolution d'Octobre 1917, se révoltent contre le régime bolchevique en réclamant la restauration des soviets authentiques et des libertés démocratiques face à la dictature du parti communiste. Ils élisent un comité de défense et hissent le drapeau 'Conseils ouvriers et paysans, non pas bolcheviks !', dénonçant la répression des opposants et la bureaucratie naissante. L'Armée rouge, dirigée par Trotski, lance une répression sanglante du 7 au 21 mars, massacrant des milliers de rebelles et exécutant les survivants. Cet épisode révèle les tensions internes au bolchevisme et accélère l'introduction de la Nouvelle Politique Économique par Lénine pour apaiser les mécontentements.",
     "dates": [
       {
-        "year": "1692",
-        "label": "Naissance près d'Épernay"
+        "year": "1917",
+        "label": "Marins de Kronstadt soutiennent la Révolution bolchevique"
       },
       {
-        "year": "1717",
-        "label": "Sociétaire de la Comédie-Française"
+        "year": "1921",
+        "label": "Congrès des ouvriers réclame des réformes démocratiques"
       },
       {
-        "year": "1721",
-        "label": "Début de liaison avec Maurice de Saxe"
+        "year": "7 mars 1921",
+        "label": "Début de la mutinerie et prise de la forteresse"
       },
       {
-        "year": "1730",
-        "label": "Mort mystérieuse à Paris"
+        "year": "17 mars 1921",
+        "label": "Première offensive ratée de l'Armée rouge sur la glace"
       },
       {
-        "year": "1730",
-        "label": "Hommage de Voltaire"
+        "year": "21 mars 1921",
+        "label": "Victoire bolchevique et massacre des rebelles"
+      },
+      {
+        "year": "Avril 1921",
+        "label": "Lénine annonce la NEP en réponse à la crise"
       }
     ],
-    "legacy": "Adrienne Lecouvreur a posé les bases du jeu théâtral moderne en privilégiant l'émotion authentique sur la récitation ampoulée, influençant les réformateurs du théâtre comme Diderot et Beaumarchais. Son décès tragique a inspiré des opéras, dont celui de Scribe et Legros en 1849, et nourrit la légende romantique de l'artiste maudite. Elle symbolise la lutte pour la reconnaissance des femmes sur scène et contre les préjugés ecclésiastiques.",
-    "why": "Son empoisonnement supposé révèle comment la passion amoureuse et les rivalités aristocratiques pouvaient détruire une vie au XVIIIe siècle. Moins connue que ses contemporaines, elle préfigure le féminisme culturel en défiant les normes par son art irrésistible."
+    "legacy": "La répression de Kronstadt marque la fin des illusions sur la démocratie soviétique et pave la voie à la dictature stalinienne en éliminant une opposition potentielle au sein même de la révolution. Elle influence durablement l'historiographie du communisme, symbolisant le paradoxe d'une révolution qui se retourne contre ses propres idéaux. Son souvenir reste vivace chez les anarchistes et les trotskystes comme un avertissement contre l'autoritarisme.",
+    "why": "Cette révolte oubliée des héros bolcheviques eux-mêmes révèle que le totalitarisme soviétique s'est forgé dès 1921, bien avant Staline, surprenant par sa proximité avec les idéaux originels de la Révolution."
   }
 }
