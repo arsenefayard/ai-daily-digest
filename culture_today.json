@@ -1,35 +1,35 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "80 000 tulipes en fleurs au Château de Dampierre",
-      "summary": "Le Domaine de Dampierre dans les Yvelines accueille les Printanières de fin mars à début mai 2026 avec 80 000 tulipes en pleine floraison. Une Journée de la Tulipe et une Fête des Plantes sont au programme pour célébrer le printemps. Ces événements attirent les amateurs de nature et de jardinage dans un cadre historique enchanteur.",
-      "why": "Cette floraison spectaculaire met en lumière le patrimoine horticole français et offre une immersion poétique dans la beauté printanière.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Rêveries de pierres : l'exposition poétique de Roger Caillois",
-      "summary": "Du 6 novembre 2025 au 29 mars 2026, L’École des Arts Joailliers présente 'Rêveries de pierres : Poésie et minéraux de Roger Caillois' en partenariat avec le Muséum national d’histoire naturelle. L'écrivain surréaliste collectionnait des minéraux pour leur beauté poétique et mystérieuse. Cette exposition invite à une contemplation envoûtante des pierres précieuses.",
-      "why": "Elle révèle le lien entre littérature surréaliste et sciences naturelles, enrichissant notre regard sur les trésors minéraux.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "Muséum du Pastel : le bleu historique d’Occitanie à Labège",
-      "summary": "Le Muséum du Pastel à Labège propose un parcours ludique sur l'Isatis tinctoria, plante à l'origine du bleu pastel emblématique de la région. Ce savoir-faire, lié au pays de Cocagne, est classé au Patrimoine immatériel de France. Les visiteurs découvrent l'histoire d'une industrie florissante du XVIe siècle.",
-      "why": "Cette sortie insolite perpétue un héritage textile méconnu et met en valeur l'innovation botanique occitane.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Paliss’Art : street art XXL sur les palissades de Toulouse",
-      "summary": "À Saint-Aubin, l'exposition Paliss’Art transforme les palissades du chantier de métro en musée à ciel ouvert avec 30 œuvres originales autour du thème 'Sous la surface'. Graffs, peintures et BD sont visibles ce week-end et mises en vente aux enchères. Les QR codes permettent d'en savoir plus sur les artistes toulousains.",
-      "why": "Cette initiative soutient la scène street art locale et réinvente l'urbanisme en espace culturel accessible.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "La serre volante de la Compagnie La Machine à Toulouse",
-      "summary": "La Halle de La Machine accueille l’Aéroflorale II, une serre volante aux pattes géantes imaginée par la Compagnie La Machine. Cette exposition immersive suit les aventures d'explorateurs en phytovoltaïsme avec récits de voyages et installations botaniques fascinantes. Elle mêle art mécanique, nature et poésie pour une expérience unique.",
-      "why": "Elle illustre la créativité française en matière de spectacles immersifs et sensibilise à l'innovation écologique.",
+      "title": "La machine de Turing : l'ancêtre conceptuel de l'informatique moderne",
+      "summary": "En 1936, Alan Turing publia un article révolutionnaire décrivant une machine hypothétique capable de simuler n'importe quel algorithme sur une bande infinie de papier. Cette machine de Turing définit encore aujourd'hui ce qui est calculable par une ordinateur. Elle a posé les bases de l'informatique théorique et influencé le développement des premiers ordinateurs.",
+      "why": "Ce concept fondamental explique les limites de l'intelligence artificielle et reste au cœur des algorithmes contemporains.",
       "category": "Science pop"
+    },
+    {
+      "title": "Le bateau de Thésée : un paradoxe philosophique millénaire",
+      "summary": "Dans l'Antiquité, les Athéniens remplaçaient pièce par pièce les planches pourries du navire d'Héraclès, posant la question : reste-t-il le même bateau ? Ce paradoxe interroge l'identité des objets et des personnes au fil du temps. Il inspire encore les débats en philosophie de l'esprit et en physique quantique.",
+      "why": "Il challenge notre perception de la continuité personnelle et matérielle dans un monde en perpétuel changement.",
+      "category": "Philosophie"
+    },
+    {
+      "title": "Le chat de Schrödinger : l'expérience mentale qui défie la réalité",
+      "summary": "En 1935, Erwin Schrödinger imagina un chat à la fois mort et vivant tant qu'on n'ouvre pas la boîte contenant un mécanisme radioactif. Ce paradoxe illustre la superposition quantique où les particules existent dans plusieurs états simultanément. Il popularisa les mystères de la mécanique quantique auprès du grand public.",
+      "why": "Cette pensée expérimentale rend accessible les fondements étranges de la physique moderne et questionne la nature de la réalité.",
+      "category": "Science pop"
+    },
+    {
+      "title": "La bibliothèque d'Alexandrie : le plus grand savoir perdu de l'Antiquité",
+      "summary": "Fondée au IIIe siècle avant J.-C., cette immense bibliothèque égyptienne abritait jusqu'à 700 000 rouleaux et attira les plus grands érudits comme Euclide. Sa destruction progressive entre 48 av. J.-C. et le VIIe siècle marqua la fin d'une ère de connaissances accumulées. On estime que 90 % des textes grecs classiques ont disparu avec elle.",
+      "why": "Elle symbolise la fragilité du savoir humain et l'importance de sa préservation numérique aujourd'hui.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Le syndrome de l'imposteur : quand le succès alimente le doute",
+      "summary": "Décrit en 1978 par deux psychologues américaines, ce phénomène touche des millions de personnes performantes qui attribuent leurs réussites à la chance plutôt qu'au talent. Il affecte particulièrement les femmes et les minorités dans les milieux compétitifs. Des études montrent qu'il freine les carrières malgré des compétences avérées.",
+      "why": "Comprendre ce biais psychologique aide à booster la confiance et à valoriser les mérites réels.",
+      "category": "Psychologie"
     }
   ],
   "updates": []
