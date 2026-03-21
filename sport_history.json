@@ -1,17 +1,5 @@
 [
   {
-    "date": "14/03/2026",
-    "titles": [
-      "Indian Wells Masters 1000 : Alcaraz et Swiatek qualifiés pour les demi-finales",
-      "Quarts de finale Coupe de France : Surprises avec les qualifications de Reims et Toulouse",
-      "NBA : Série de matchs serrés avec victoires des Lakers, Warriors et Knicks",
-      "UFC 326 : Holloway vs Oliveira 2 vole la vedette le 8 mars à Las Vegas",
-      "Paris-Nice 2026 : Début explosif de la course cycliste le 8 mars",
-      "Tournoi des 6 Nations : France remporte le titre après victoire sur l'Angleterre",
-      "Grand Prix de Chine F1 : Verstappen s'impose et creuse l'écart"
-    ]
-  },
-  {
     "date": "15/03/2026",
     "titles": [
       "Indian Wells Masters 1000 : Finales explosives avec sacres d'Alcaraz et Swiatek",
@@ -73,6 +61,16 @@
       "Milan-San Remo : le classique du cyclisme sur route se dispute le 21 mars",
       "UFC Fight Night : Lemos vs Robertson à Londres le 21 mars",
       "Ligue 1 Journée 27 : les enjeux du championnat de France se précisent le 21 mars"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
+      "Euroleague : Monaco et Maccabi brillent avec des victoires cruciales",
+      "Ligue Europa : AZ Alkmaar et Fiorentina se qualifient en quarts avec autorité",
+      "Miami Open : Début du Masters 1000 avec les favoris Alcaraz et Swiatek en lice",
+      "Ligue Conférence : Upsets avec Samsunspor et Lech Poznan en huitièmes"
     ]
   }
 ]
