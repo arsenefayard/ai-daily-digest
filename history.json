@@ -1,15 +1,5 @@
 [
   {
-    "date": "15/03/2026",
-    "titles": [
-      "xAI publie Grok 4.20 Beta 2 optimisé pour le code",
-      "OpenAI sort GPT-5.3 Instant pour corriger les hallucinations",
-      "Oregon adopte la première loi US sur les chatbots IA",
-      "Étude UER-BBC : 45% des assistants IA ont des problèmes majeurs",
-      "IA en entreprise atteint la maturité en 2026 selon La Tribune"
-    ]
-  },
-  {
     "date": "16/03/2026",
     "titles": [
       "Anthropic déploie en bêta la génération de visuels pour Claude",
@@ -68,6 +58,16 @@
       "Google déploie le Pixel Drop de mars 2026 centré sur Gemini",
       "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA",
       "Anthropic assigne le gouvernement américain en justice pour sanctions excessives sur l'IA"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "Conférence de presse chinoise du 20 mars 2026 sur les investissements massifs en IA et technologies de pointe",
+      "Trois employés de Super Micro Computer inculpés aux États-Unis pour exportation illégale de puces Nvidia vers la Chine",
+      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative, une adoption fulgurante",
+      "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA le 11 mars 2026",
+      "Résolution du Parlement européen du 10 mars 2026 sur le droit d'auteur et l'IA générative"
     ]
   }
 ]
