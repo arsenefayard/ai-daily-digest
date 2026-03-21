@@ -2,33 +2,33 @@
   "date": "21/03/2026",
   "news": [
     {
-      "title": "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
-      "summary": "Cursor, l'IDE agentique leader, déploie sa version 2.6 qui intègre les MCP Apps pour une exécution multi-agents fluide et un support natif des IDE JetBrains comme IntelliJ et PyCharm. Cette mise à jour permet aux développeurs de déléguer des tâches complexes de refactoring et de debugging à des agents autonomes avec une précision accrue de 35 % sur les benchmarks internes. Elle marque une accélération de la concurrence dans le coding agentique en rendant les workflows multi-outils plus accessibles.",
-      "why": "Cette évolution renforce la productivité des développeurs en unifiant les écosystèmes IDE, positionnant Cursor comme pivot central face à l'explosion des agents IA dans le développement logiciel.",
-      "category": "Application"
+      "title": "Conférence de presse chinoise du 20 mars 2026 sur les investissements massifs en IA et technologies de pointe",
+      "summary": "Lors d'une conférence de presse tenue le 20 mars 2026, le porte-parole du ministère chinois des Affaires étrangères a annoncé que la Chine accélère ses investissements dans l'intelligence artificielle, la technologie quantique, la biofabrication et l'énergie verte dans le cadre du 15e Plan quinquennal (2026-2030). Ce plan prévoit des dispositions spécifiques pour renforcer l'autonomie scientifique et technologique de haut niveau, en plaçant l'innovation au cœur du développement des forces productives de nouvelle qualité. La Chine exprime sa volonté de collaborer internationalement pour diffuser ces technologies au bénéfice de tous, en offrant un vaste marché pour les applications industrielles mondiales.",
+      "why": "Cette annonce souligne l'engagement stratégique de la Chine à dominer les technologies émergentes, avec des implications géopolitiques majeures sur la course mondiale à l'IA et la souveraineté technologique.",
+      "category": "Entreprise"
     },
     {
-      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
-      "summary": "OpenAI lance Codex nativement sur Windows, permettant à des agents IA parallèles de collaborer en temps réel sur des projets de code volumineux avec gestion de branches Git automatisée. La fonctionnalité exploite une architecture distribuée pour exécuter jusqu'à 8 agents simultanément, réduisant les temps de compilation de 40 % sur des benchmarks comme HumanEval. Ce déploiement élargit l'accès à l'IA agentique pour les utilisateurs Windows, majoritaires dans l'entreprise.",
-      "why": "Ce lancement démocratise les agents de codage avancés sur la plateforme dominante du marché pro, accélérant l'adoption massive du développement assisté par IA.",
-      "category": "Application"
-    },
-    {
-      "title": "Google déploie le Pixel Drop de mars 2026 centré sur Gemini",
-      "summary": "Google publie le Pixel Drop mensuel de mars 2026 qui intègre Gemini en profondeur dans les Pixel, avec des fonctionnalités comme la transcription live multilingue et l'édition photo agentique en un clic. Les mises à jour incluent une optimisation de l'inférence sur Tensor G4 pour une latence réduite de 25 % et une nouvelle API pour agents locaux. Cela renforce l'écosystème mobile IA de Google face à Samsung et Apple.",
-      "why": "Ce drop positionne les Pixel comme leaders de l'IA embarquée, avec un impact direct sur des millions d'utilisateurs via des usages quotidiens concrets.",
-      "category": "Application"
-    },
-    {
-      "title": "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA",
-      "summary": "Le 11 mars 2026, le Parlement européen valide à une large majorité la Convention-cadre du Conseil de l'Europe, premier traité international contraignant sur l'IA, imposant des standards éthiques et de transparence aux systèmes à haut risque. Ce pacte couvre la protection des droits humains, la non-discrimination et l'audit des modèles, avec ratification par 46 États membres. Il préfigure une régulation globale harmonisée au-delà de l'UE.",
-      "why": "Ce traité marque un tournant réglementaire mondial, forçant les acteurs IA à adopter des normes éthiques unifiées et impactant directement les déploiements transfrontaliers.",
+      "title": "Trois employés de Super Micro Computer inculpés aux États-Unis pour exportation illégale de puces Nvidia vers la Chine",
+      "summary": "Le 20 mars 2026, lors d'une conférence de presse chinoise, une question a été posée sur l'inculpation de trois employés de Super Micro Computer aux États-Unis pour avoir fourni des puces d'intelligence artificielle Nvidia à la Chine en violation des contrôles à l'exportation américains. Bien que le porte-parole chinois n'ait pas commenté directement l'affaire, cet événement met en lumière les tensions croissantes autour des restrictions sur les technologies IA. Les inculpations soulignent les efforts des États-Unis pour limiter l'accès de la Chine à des composants critiques pour l'entraînement de modèles IA avancés.",
+      "why": "Cet incident renforce les frictions sino-américaines sur les semi-conducteurs IA, impactant directement les chaînes d'approvisionnement mondiales et les capacités de développement IA en Chine.",
       "category": "Régulation"
     },
     {
-      "title": "Anthropic assigne le gouvernement américain en justice pour sanctions excessives sur l'IA",
-      "summary": "Anthropic porte plainte contre l'administration Trump pour des sanctions jugées disproportionnées sur les exports de technologies IA, arguant qu'elles freinent l'innovation sans justification sécuritaire claire. La procédure vise à suspendre des restrictions sur les puces et modèles vers des alliés, avec des audiences prévues en avril. Cela révèle les tensions croissantes entre Big Tech et régulateurs sur la souveraineté IA.",
-      "why": "Cette action judiciaire inédite pourrait redéfinir les politiques d'export US, influençant la concurrence globale et l'accès aux technologies de pointe.",
+      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative, une adoption fulgurante",
+      "summary": "Le Crédoc a publié en 2026 son baromètre du numérique indiquant que 48% des Français ont utilisé l'intelligence artificielle générative en 2025, contre 20% en 2023, marquant une diffusion fulgurante particulièrement chez les 18-24 ans et 25-39 ans. Bien que 52% restent méfiants, la confiance progresse de 5 points en un an. Le nombre de startups IA françaises a doublé à 1 000 depuis 2021, positionnant la France au niveau des acteurs américains et chinois.",
+      "why": "Ces chiffres démontrent l'adoption massive de l'IA en Europe, avec des implications pour les politiques publiques, l'éducation et l'économie numérique.",
+      "category": "Application"
+    },
+    {
+      "title": "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA le 11 mars 2026",
+      "summary": "Le Parlement européen a approuvé à une large majorité la Convention-cadre du Conseil de l'Europe sur l'intelligence artificielle le 11 mars 2026, visant à établir des normes internationales pour un développement responsable de l'IA. Ce texte, premier du genre à portée mondiale, aborde les droits humains, la transparence et la responsabilité dans les systèmes IA. Il s'inscrit dans une série d'initiatives européennes pour réguler l'IA générative et ses impacts sociétaux.",
+      "why": "Cette approbation marque un pas décisif vers une régulation globale de l'IA, influençant les standards internationaux et protégeant les citoyens européens.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Résolution du Parlement européen du 10 mars 2026 sur le droit d'auteur et l'IA générative",
+      "summary": "Le 10 mars 2026, le Parlement européen a adopté une résolution sur le droit d'auteur et l'intelligence artificielle générative, examinant les opportunités et défis posés par l'entraînement de modèles sur des contenus protégés. Le document appelle à un équilibre entre innovation IA et protection des créateurs, avec des propositions pour la transparence des données d'entraînement et la rémunération des ayants droit. Cette résolution complète les efforts législatifs en cours sur l'IA en Europe.",
+      "why": "Elle clarifie les tensions entre IA et propriété intellectuelle, orientant les futures lois et impactant les entreprises d'IA générative.",
       "category": "Régulation"
     }
   ],
