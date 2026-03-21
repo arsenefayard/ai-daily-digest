@@ -1,15 +1,5 @@
 [
   {
-    "date": "14/03/2026",
-    "titles": [
-      "CAC 40 termine la semaine en baisse de 1,54% à 8 041,81 points sous l'effet de la volatilité pétrolière",
-      "États-Unis lancent enquêtes commerciales contre des dizaines de partenaires économiques",
-      "AIE avertit d'une forte baisse de la production pétrolière du Golfe due aux perturbations dans le détroit d'Ormuz",
-      "Faiblesse de la dynamique du crédit en Chine en février renforce les doutes sur la reprise économique",
-      "Google condamné à 23 millions d'euros pour pratiques anticoncurrentielles en publicité en ligne"
-    ]
-  },
-  {
     "date": "16/03/2026",
     "titles": [
       "Nomination de Kevin Warsh à la tête de la Réserve fédérale par Donald Trump",
@@ -68,6 +58,16 @@
       "Les réserves pétrolières offshore s'épuisent rapidement en raison des perturbations au Moyen-Orient",
       "Flambée des prix du carburant booste les ventes de véhicules électriques en France",
       "La Banque d'Angleterre maintient son taux à 3,75% et se dit prête à agir"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "Discours attendu du président de la Réserve fédérale sur l'inflation et les taux",
+      "Rapports annuels 2025 de Ping An Bank et China Shenhua Energy publiés",
+      "Guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
+      "Trump rétablit des droits de douane mondiaux de 15% malgré l'annulation par la Cour suprême",
+      "Banques centrales mondiales adoptent une prudence accrue face à la flambée énergétique"
     ]
   }
 ]
