@@ -2,17 +2,6 @@
   {
     "date": "14/03/2026",
     "titles": [
-      "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
-      "Ursula von der Leyen en visite au Groenland pour partenariats énergétiques et climatiques",
-      "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
-      "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
-      "Macron s'oppose à la levée des sanctions contre la Russie",
-      "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
       "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
       "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
       "Crise au Qatar : usine de GNL de Ras Laffan à l'arrêt, impact sur l'approvisionnement mondial en hélium",
@@ -74,6 +63,17 @@
       "La Russie renforce discrètement sa position en soutenant l'Iran et en bénéficiant de l'attention détournée de l'Ukraine",
       "Veto d'Orbán bloque un prêt européen de 90 milliards d'euros à l'Ukraine au sommet de l'UE",
       "Intensification des frappes israéliennes au Liban après la mort présumée du guide suprême Khamenei"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "Escalade énergétique majeure : destruction des infrastructures pétrolières et gazières iraniennes",
+      "Refus des pays du Golfe d'entrer en guerre malgré les attaques iraniennes",
+      "Objectif américain de changement politique en Iran et élimination présumée du guide suprême",
+      "Crise du Qatar : arrêt des contrats de gaz naturel liquéfié et perturbations logistiques majeures",
+      "Coalition internationale pour sécuriser le détroit d'Ormuz et stabiliser les marchés énergétiques",
+      "Veto hongrois bloquant l'aide européenne à l'Ukraine lié à la crise énergétique russe"
     ]
   }
 ]
