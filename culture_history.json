@@ -1,15 +1,5 @@
 [
   {
-    "date": "14/03/2026",
-    "titles": [
-      "La tapisserie de Bayeux : le plus grand récit illustré du Moyen Âge",
-      "Le paradoxe de Zénon : Achille ne rattrape jamais la tortue",
-      "Le voyage dans la Lune de Georges Méliès : pionnier des effets spéciaux",
-      "L'effet photoélectrique : Einstein et les quanta de lumière",
-      "Le record du monde d'insomnie : 11 jours sans sommeil"
-    ]
-  },
-  {
     "date": "15/03/2026",
     "titles": [
       "L'origine sumérienne de l'écriture cunéiforme",
@@ -69,6 +59,16 @@
       "Muséum du Pastel : le bleu historique d’Occitanie à Labège",
       "Paliss’Art : street art XXL sur les palissades de Toulouse",
       "La serre volante de la Compagnie La Machine à Toulouse"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "La machine de Turing : l'ancêtre conceptuel de l'informatique moderne",
+      "Le bateau de Thésée : un paradoxe philosophique millénaire",
+      "Le chat de Schrödinger : l'expérience mentale qui défie la réalité",
+      "La bibliothèque d'Alexandrie : le plus grand savoir perdu de l'Antiquité",
+      "Le syndrome de l'imposteur : quand le succès alimente le doute"
     ]
   }
 ]
