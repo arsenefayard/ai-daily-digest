@@ -1,15 +1,5 @@
 [
   {
-    "date": "13/03/2026",
-    "titles": [
-      "OTAN intercepte un deuxième missile iranien dans l'espace aérien turc",
-      "USA détruisent 16 navires iraniens pose-mines dans le détroit d'Ormuz",
-      "Ukraine propose son expertise anti-drones aux pays du Golfe contre l'Iran",
-      "France libère 400 millions de barils de ses réserves stratégiques de pétrole",
-      "Israël étend ses frappes à Téhéran et au Liban malgré Trump"
-    ]
-  },
-  {
     "date": "14/03/2026",
     "titles": [
       "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
@@ -73,6 +63,17 @@
       "Spéculations sur l'état de santé du nouveau guide suprême iranien Mojtaba Khamenei",
       "Israël étend ses frappes au Liban et déploie des troupes au sol",
       "Wall Street en baisse sous l'effet de l'angoisse géopolitique liée au conflit"
+    ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": [
+      "Escalade énergétique majeure : les États-Unis et Israël frappent les infrastructures pétrolières et gazières iraniennes",
+      "L'Iran refuse les négociations et poursuit une stratégie d'escalade militaire assumée",
+      "Les pays du Golfe, dont les Émirats arabes unis et l'Arabie saoudite, refusent d'entrer en guerre malgré les attaques",
+      "La Russie renforce discrètement sa position en soutenant l'Iran et en bénéficiant de l'attention détournée de l'Ukraine",
+      "Veto d'Orbán bloque un prêt européen de 90 milliards d'euros à l'Ukraine au sommet de l'UE",
+      "Intensification des frappes israéliennes au Liban après la mort présumée du guide suprême Khamenei"
     ]
   }
 ]
