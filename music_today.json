@@ -1,35 +1,35 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "Exodus fait son grand retour avec l'album Goliath et Rob Dukes au chant",
-      "summary": "Le groupe de thrash metal Exodus sort aujourd'hui son nouvel album Goliath, marquant son retour avec le chanteur historique Rob Dukes à la tête du groupe. Cet album représente un événement majeur pour la scène thrash metal, confirmant le renouveau de l'une des formations pionnières du genre. Les fans attendent depuis longtemps ce retour, qui ravive la dynamique de la formation californienne.",
-      "why": "Exodus est un groupe fondateur du thrash metal américain, et ce retour avec Rob Dukes symbolise la continuité d'une légende du genre. C'est un événement attendu par la communauté metal mondiale.",
+      "title": "Gaerea sort son nouvel album Loss le 20 mars",
+      "summary": "Le groupe portugais Gaerea, connu pour son post-black metal intense et atmosphérique, a publié son nouvel album Loss le 20 mars 2026. Cet opus marque un retour très attendu après plusieurs années d'absence, avec des compositions qui explorent des thèmes sombres et immersifs. Les critiques soulignent déjà sa puissance émotionnelle et sa production soignée, renforçant la position de Gaerea comme acteur majeur de la scène black metal contemporaine.",
+      "why": "Cette sortie enrichit le paysage du black metal post-atmosphérique et attire l'attention des fans en quête de nouveautés extrêmes au printemps 2026.",
       "category": "Métal"
     },
     {
-      "title": "Aerosmith sort son édition Legendary Edition le 20 mars",
-      "summary": "Aerosmith publie aujourd'hui une édition Legendary Edition de son album emblématique Aerosmith, enrichissant son catalogue avec des contenus spéciaux et des rééditions de qualité. Cette réédition permet aux fans de redécouvrir les classiques du groupe de hard rock avec une présentation modernisée. L'édition Legendary Edition s'inscrit dans la tendance des rééditions enrichies qui dominent le marché musical en ce début 2026.",
-      "why": "Aerosmith est l'un des plus grands groupes de hard rock de tous les temps, et cette réédition permet à la nouvelle génération de fans de découvrir ou redécouvrir leur héritage musical.",
+      "title": "The Dear Hunter dévoile Sunya le 20 mars",
+      "summary": "Le projet solo de Casey Crescenzo, The Dear Hunter, a sorti son nouvel album Sunya le 20 mars 2026 dans un style progressive rock ambitieux. Cet opus propose une narration complexe avec des arrangements orchestraux et des influences indie rock sophistiquées. Il s'inscrit dans la lignée des œuvres conceptuelles du groupe, offrant une expérience immersive pour les amateurs de rock narratif.",
+      "why": "Sunya représente une étape clé dans la discographie de The Dear Hunter et pourrait influencer les tendances du progressive rock indépendant actuel.",
       "category": "Rock"
     },
     {
-      "title": "The Dear Hunter dévoile son nouvel album Sunya",
-      "summary": "Le groupe de rock progressif The Dear Hunter sort aujourd'hui son nouvel album Sunya, poursuivant son exploration musicale complexe et ambitieuse. Cet album s'ajoute à la discographie riche du groupe, connu pour ses compositions élaborées et ses arrangements sophistiqués. La sortie de Sunya confirme la vitalité créative de The Dear Hunter dans le paysage du rock progressif contemporain.",
-      "why": "The Dear Hunter est reconnu pour son approche novatrice du rock progressif, et chaque nouvel album est attendu par les amateurs de musique complexe et expérimentale.",
-      "category": "Rock"
+      "title": "Taylor Swift annonce une résidence à Las Vegas",
+      "summary": "La superstar mondiale Taylor Swift a révélé les détails de sa première résidence scénique à Las Vegas pour l'automne 2026, avec dix dates confirmées au Sphere. Ce format innovant permettra des shows immersifs avec effets visuels spectaculaires adaptés à son répertoire pop. Les billets se sont écoulés en quelques heures, confirmant son statut de phénomène commercial.",
+      "why": "Cette résidence marque un tournant dans les tournées pop et booste l'économie locale tout en innovant dans les expériences live.",
+      "category": "Pop"
     },
     {
-      "title": "Hanging Garden sort Isle Of Bliss en melodic doom metal",
-      "summary": "Le groupe suédois Hanging Garden publie aujourd'hui son album Isle Of Bliss, un projet de melodic doom metal gothique qui mêle mélancolie et atmosphères sombres. Cet album représente une contribution significative au sous-genre du doom metal mélodique, avec des influences gothiques prononcées. La sortie d'Isle Of Bliss enrichit l'offre musicale des amateurs de doom metal atmosphérique.",
-      "why": "Hanging Garden s'est établi comme une figure importante du doom metal mélodique européen, et Isle Of Bliss poursuit cette tradition avec une approche artistique mature et réfléchie.",
-      "category": "Métal"
+      "title": "Drake bat un nouveau record de streams sur Spotify",
+      "summary": "Le rappeur canadien Drake a franchi la barre des 100 milliards d'écoutes cumulées sur Spotify, devenant le premier artiste à atteindre ce milestone historique. Ce record s'appuie sur ses derniers singles et albums qui dominent les classements mondiaux. Il illustre la domination persistante du hip-hop dans l'ère du streaming.",
+      "why": "Ce record souligne l'impact massif de Drake sur l'industrie musicale et les plateformes de streaming.",
+      "category": "Hip-Hop"
     },
     {
-      "title": "Poison The Well sort Peace In Place, nouvel album de metalcore",
-      "summary": "Le groupe de metalcore Poison The Well sort aujourd'hui son nouvel album Peace In Place, marquant une nouvelle étape dans l'évolution sonore du groupe. Cet album s'inscrit dans la continuité de leur approche du metalcore, genre qui continue de se réinventer en 2026. La sortie de Peace In Place offre aux fans du metalcore une nouvelle proposition musicale attendue.",
-      "why": "Poison The Well est un groupe influent du metalcore, et chaque nouvel album est suivi attentivement par la communauté des amateurs de musique heavy alternative.",
-      "category": "Métal"
+      "title": "Charlotte de Witte headliner du Tomorrowland 2026",
+      "summary": "La DJ belge Charlotte de Witte a été annoncée comme headliner du mainstage pour Tomorrowland 2026, consolidant son statut de reine de la techno. Son set promet une immersion dans des sonorités industrielles et hypnotiques sur la scène la plus prestigieuse du festival. Cette nouvelle attire déjà des milliers de fans électro à travers le monde.",
+      "why": "Cette nomination renforce la programmation électro de premier plan de Tomorrowland et propulse Charlotte de Witte vers un public encore plus large.",
+      "category": "Électro"
     }
   ],
   "updates": []
