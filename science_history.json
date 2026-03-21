@@ -2,16 +2,6 @@
   {
     "date": "14/03/2026",
     "titles": [
-      "SuperCam détecte carbonates dans roches martiennes riches en olivines",
-      "SuperCam confirme silice précipitée par fluides hydrothermaux sur Mars",
-      "Détection de décharges électrostatiques par micro de SuperCam dans poussières martiennes",
-      "Corbeaux mémorisent territoires de chasse des loups pour obtenir nourriture",
-      "Nasa vise lancement Artemis 2 le 1er avril 2026"
-    ]
-  },
-  {
-    "date": "14/03/2026",
-    "titles": [
       "Nasa vise lancement d'Artemis 2 dès le 1er avril 2026",
       "Corbeaux mémorisent les territoires de chasse des loups",
       "Ancêtre géant du T. rex découvert au Nouveau-Mexique",
@@ -69,5 +59,9 @@
       "Le 'Jerk' sismique pour prédire les éruptions volcaniques en avance",
       "Mission chinoise de sauvetage après collision en orbite"
     ]
+  },
+  {
+    "date": "21/03/2026",
+    "titles": []
   }
 ]
