@@ -1,36 +1,44 @@
 {
-  "date": "18/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "Trump exhorte les alliés à former une coalition pour sécuriser le détroit d'Ormuz",
-      "summary": "Donald Trump appelle publiquement la Chine, la France, le Japon, la Corée du Sud, le Royaume-Uni et d'autres pays à envoyer des navires dans le détroit d'Ormuz pour contrer les menaces iraniennes persistantes malgré la destruction de ses capacités militaires. Cette initiative vise à débloquer la voie navigable essentielle au transport de 90 % du pétrole iranien et à prévenir un blocus total. Les enjeux incluent une stabilisation des marchés énergétiques mondiaux et une pression accrue sur Téhéran pour une capitulation.",
-      "why": "Cette coalition pourrait transformer le conflit en une opération multilatérale, répartissant les coûts et risquant d'isoler davantage l'Iran géopolitiquement.",
-      "category": "Conflit"
-    },
-    {
-      "title": "L'Iran menace de détruire les installations pétrolières des pays du Golfe alliés aux États-Unis",
-      "summary": "Le porte-parole des Gardiens de la Révolution, via le quartier général Khatam al-Anbiya, annonce la destruction immédiate des installations pétrolières, économiques et énergétiques détenues par des compagnies coopérant avec les États-Unis dans la région. Cette menace s'inscrit dans une stratégie de terre brûlée face aux frappes américaines sur l'île de Kharg et aux opérations israéliennes à Téhéran. Les implications touchent directement les pétromarchies du Golfe et l'approvisionnement énergétique mondial.",
-      "why": "Une escalade vers ces cibles pourrait provoquer une crise pétrolière majeure, impactant l'économie globale et forçant une réponse militaire élargie.",
+      "title": "Escalade énergétique majeure : les États-Unis et Israël frappent les infrastructures pétrolières et gazières iraniennes",
+      "summary": "Les États-Unis et Israël ont intensifié leurs bombardements contre les installations énergétiques iraniennes, notamment les réserves gazières de l'île de South Pars, causant des dégâts estimés à plusieurs milliards de dollars. L'Iran a riposté en frappant les infrastructures énergétiques du Qatar et d'autres pays du Golfe, provoquant des perturbations logistiques majeures et menaçant les contrats d'approvisionnement en gaz naturel liquéfié. Cette escalade énergétique représente un tournant stratégique dans le conflit, avec des implications directes sur les prix mondiaux du pétrole et la sécurité des routes maritimes.",
+      "why": "Cette guerre énergétique déclarée menace l'approvisionnement énergétique mondial et pourrait déstabiliser l'économie globale. Les perturbations dans le détroit d'Ormuz et les dégâts aux infrastructures gazières créent une crise d'approvisionnement sans précédent.",
       "category": "Énergie"
     },
     {
-      "title": "Spéculations sur l'état de santé du nouveau guide suprême iranien Mojtaba Khamenei",
-      "summary": "Le ministre américain de la Défense Pete Hegseth affirme que Mojtaba Khamenei est blessé et probablement défiguré suite aux 7600 frappes israéliennes sur l'Iran en deux semaines. Ces spéculations surviennent alors qu'Israël poursuit ses bombardements sur Téhéran sans confirmation officielle de Téhéran. Cela renforce les incertitudes sur la stabilité du régime et la chaîne de commandement iranienne.",
-      "why": "La vulnérabilité du leadership suprême pourrait accélérer un effondrement interne ou une radicalisation, modifiant les dynamiques du conflit au Moyen-Orient.",
+      "title": "L'Iran refuse les négociations et poursuit une stratégie d'escalade militaire assumée",
+      "summary": "Malgré les appels au cessez-le-feu lancés par Emmanuel Macron et d'autres dirigeants européens, l'Iran a clairement indiqué qu'il ne ferait preuve d'aucune retenue et ne cherche pas à négocier. L'Iran a lancé des missiles balistiques et hypersoniques en riposte aux frappes américano-israéliennes, démontrant une volonté de poursuivre l'escalade militaire plutôt que de chercher une désescalade. Cette position ferme de Téhéran suggère que le conflit pourrait s'étendre davantage dans la région.",
+      "why": "Le refus iranien de négocier ferme la porte à une résolution diplomatique rapide et augmente le risque d'une guerre régionale prolongée impliquant plusieurs acteurs du Golfe.",
       "category": "Conflit"
     },
     {
-      "title": "Israël étend ses frappes au Liban et déploie des troupes au sol",
-      "summary": "Israël bombarde simultanément l'Iran et le Liban, où le Hezbollah revendique des affrontements directs avec ses forces dans le sud, et annonce un déploiement de soldats sur de nouvelles positions. Le Liban forme une délégation pour négocier un arrêt des hostilités avec Israël. Cette extension des opérations répond aux attaques du Hezbollah en représailles à la mort présumée d'Ali Khamenei.",
-      "why": "L'ouverture d'un front libanais risque une guerre régionale plus large, impliquant le Hezbollah et potentiellement d'autres acteurs comme la Syrie.",
-      "category": "Conflit"
+      "title": "Les pays du Golfe, dont les Émirats arabes unis et l'Arabie saoudite, refusent d'entrer en guerre malgré les attaques",
+      "summary": "Malgré les attaques iraniennes contre leurs territoires et infrastructures, les Émirats arabes unis et l'Arabie saoudite maintiennent une position de neutralité stratégique, refusant de basculer dans le conflit. Cette décision repose sur une obsession de stabilité économique, des intérêts commerciaux colossaux et une méfiance croissante envers la politique de Donald Trump. Les pays du Golfe cherchent à préserver leurs équilibres économiques et diplomatiques face à la confrontation tripartite entre Israël, les États-Unis et l'Iran.",
+      "why": "La neutralité des pays du Golfe est cruciale pour éviter une régionalisation complète du conflit. Leur entrée en guerre changerait radicalement la donne géopolitique et économique du Moyen-Orient.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Wall Street en baisse sous l'effet de l'angoisse géopolitique liée au conflit",
-      "summary": "La Bourse de New York chute nettement au quatrième jour du conflit israélo-américain avec l'Iran, plombée par la flambée des prix de l'énergie et les craintes d'inflation. Les opérateurs s'inquiètent des répercussions économiques de la guerre sur les marchés mondiaux. Cela reflète l'impact immédiat des tensions au Moyen-Orient sur les économies occidentales.",
-      "why": "Cette réaction boursière souligne les risques systémiques pour l'économie globale, potentiellement freinant les interventions militaires prolongées.",
+      "title": "La Russie renforce discrètement sa position en soutenant l'Iran et en bénéficiant de l'attention détournée de l'Ukraine",
+      "summary": "Tandis que la communauté internationale se concentre sur le conflit Iran-Israël-États-Unis, la Russie aide discrètement l'Iran en fournissant des informations électroniques et en renforçant sa présence régionale. Vladimir Poutine maintient le silence diplomatique tout en consolidant sa position géostratégique, sachant que l'attention mondiale s'éloigne de la guerre en Ukraine. Cette stratégie permet à la Russie de préserver ses intérêts régionaux sans intervention directe visible.",
+      "why": "La Russie exploite la crise du Moyen-Orient pour renforcer son influence régionale et réduire la pression internationale sur ses actions en Ukraine, modifiant l'équilibre des puissances globales.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Veto d'Orbán bloque un prêt européen de 90 milliards d'euros à l'Ukraine au sommet de l'UE",
+      "summary": "Le Premier ministre hongrois Viktor Orbán a bloqué l'approbation d'un prêt crucial de 90 milliards d'euros destiné à l'Ukraine lors du sommet de l'Union européenne. Cette décision empêche l'UE de valider le financement, créant une impasse diplomatique au moment où l'Ukraine fait face à des frappes russes massives et à une situation humanitaire critique. Le blocage d'Orbán illustre les divisions internes au sein de l'UE sur la politique étrangère et le soutien à l'Ukraine.",
+      "why": "Ce veto compromet la capacité de l'Ukraine à financer sa défense et sa reconstruction, affaiblissant la position européenne face à la Russie et démontrant les failles de l'unité européenne.",
       "category": "Économie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Intensification des frappes israéliennes au Liban après la mort présumée du guide suprême Khamenei",
+      "original": "Israël étend ses frappes à Téhéran et au Liban après la mort présumée de Khamenei",
+      "summary": "Israël a poursuivi et intensifié ses bombardements sur Téhéran et étendu ses opérations militaires au Liban, ciblant notamment les positions du Hezbollah en représailles à la mort d'Ali Khamenei. Cette escalade militaire représente une montée en puissance significative par rapport aux opérations précédentes, avec des frappes désormais coordonnées sur plusieurs fronts régionaux. Le déploiement de troupes israéliennes au sol au Liban marque une nouvelle phase du conflit.",
+      "why": "L'escalade israélienne sur plusieurs fronts augmente considérablement le risque d'une guerre régionale généralisée impliquant le Hezbollah, la Syrie et potentiellement d'autres acteurs régionaux.",
+      "category": "Conflit"
+    }
+  ]
 }
