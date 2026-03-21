@@ -1,34 +1,34 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
-      "summary": "Les huitièmes de finale retour de la Ligue des Champions se sont déroulés les 17 et 18 mars 2026, déterminant les équipes qualifiées pour les quarts de finale. Ces matchs ont livré des résultats spectaculaires et des rebondissements majeurs, avec plusieurs équipes favorites éliminées ou miraculeusement sauvées. Les qualifications pour la suite de la compétition européenne la plus prestigieuse se sont jouées sur ces deux soirées décisives.",
-      "why": "La Ligue des Champions est la compétition club la plus importante d'Europe, et ces huitièmes retour déterminent les quatre meilleures équipes continentales qui poursuivront leur rêve de titre.",
+      "title": "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
+      "summary": "Liverpool a dominé Galatasaray 4-0 lors du match retour des huitièmes de finale, après une courte victoire 1-0 à l'aller, se qualifiant ainsi pour les quarts de finale où il défiera le PSG. Ismail Jakobs et son équipe turque ont été éliminés malgré une bonne performance initiale. Cette qualification spectaculaire à Anfield renforce les ambitions des Reds dans la compétition européenne.",
+      "why": "Ce résultat inattendu élimine un outsider et promet un choc explosif entre deux géants européens en quarts de finale.",
       "category": "Football"
     },
     {
-      "title": "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
-      "summary": "Les huitièmes de finale retour de l'Europa League se sont disputés le 19 mars 2026, permettant aux équipes de valider ou de confirmer leur qualification pour les quarts de finale. Cette compétition européenne secondaire offre une belle opportunité aux clubs français et européens de poursuivre leur parcours continental. Les enjeux étaient importants pour les formations engagées dans cette course aux quarts de finale.",
-      "why": "L'Europa League représente le second niveau des compétitions européennes et offre une voie alternative vers les trophées continentaux pour les clubs ambitieux.",
+      "title": "Euroleague : Monaco et Maccabi brillent avec des victoires cruciales",
+      "summary": "AS Monaco Basket a surpris Anadolu Efes 98-93 tandis que Maccabi Tel-Aviv a battu ASVEL 89-85 lors de la 30e journée. Zalgiris Kaunas a également créé la sensation en s'imposant 87-85 face au Real Madrid. Panathinaïkos a dominé l'Etoile Rouge 82-74, intensifiant la course aux playoffs.",
+      "why": "Ces upsets bouleversent le classement et relancent la lutte pour les dernières places qualificatives en playoffs.",
+      "category": "Basketball"
+    },
+    {
+      "title": "Ligue Europa : AZ Alkmaar et Fiorentina se qualifient en quarts avec autorité",
+      "summary": "AZ Alkmaar a écrasé Sparta Prague 4-0 tandis que Fiorentina a renversé Rakow Czestochowa 2-1 lors des huitièmes de finale retour. Crystal Palace s'est imposé 2-1 après prolongations contre AEK Larnaca. Ces résultats spectaculaires propulsent ces équipes dans le dernier carré de la compétition.",
+      "why": "Les qualifications de ces clubs outsiders promettent des quarts de finale imprévisibles et riches en suspense.",
       "category": "Football"
     },
     {
-      "title": "Milan-San Remo : le classique du cyclisme sur route se dispute le 21 mars",
-      "summary": "La classique cycliste Milan-San Remo se déroulera le 21 mars 2026, marquant le début de la saison des grands classiques printaniers. Cette épreuve mythique de 298 kilomètres, l'une des plus anciennes du calendrier professionnel, attire les meilleurs sprinteurs et coureurs d'un jour du peloton mondial. Les conditions météorologiques et le parcours accidenté promettent une compétition intense et imprévisible.",
-      "why": "Milan-San Remo est l'une des cinq Monumens du cyclisme professionnel et représente un objectif majeur pour les coureurs sprinteurs en début de saison.",
-      "category": "Autre"
+      "title": "Miami Open : Début du Masters 1000 avec les favoris Alcaraz et Swiatek en lice",
+      "summary": "Le Miami Open, Masters 1000 ATP et WTA, a démarré le 18 mars et oppose les meilleurs joueurs mondiaux jusqu'au 29 mars. Carlos Alcaraz et Iga Swiatek, tout frais lauréats d'Indian Wells, partent favoris pour doubler la mise sur dur. Ce tournoi attire l'attention après les récents sacres à Indian Wells.",
+      "why": "Ce double Masters consécutif permet aux stars du tennis de consolider leur domination et de préparer la saison sur terre battue.",
+      "category": "Tennis"
     },
     {
-      "title": "UFC Fight Night : Lemos vs Robertson à Londres le 21 mars",
-      "summary": "L'événement UFC Fight Night mettant en vedette le combat Lemos contre Robertson se tiendra le 21 mars 2026 à l'O2 Arena de Londres. Cet événement de la plus grande organisation de combat libre au monde attirera les amateurs de MMA et proposera plusieurs affrontements de haut niveau. Le combat principal promet une belle affiche avec deux combattants de talent.",
-      "why": "Les événements UFC Fight Night offrent des combats de qualité et permettent aux combattants de progresser dans les classements de l'organisation.",
-      "category": "Autre"
-    },
-    {
-      "title": "Ligue 1 Journée 27 : les enjeux du championnat de France se précisent le 21 mars",
-      "summary": "La 27e journée de Ligue 1 se déroulera le 21 mars 2026, avec des matchs décisifs pour la course au titre et les places européennes. Cette journée du championnat français permettra aux équipes de poursuivre leur quête de points précieux dans la lutte pour les premières places. Les résultats de cette journée pourraient redessiner la hiérarchie du classement et influencer les ambitions des clubs.",
-      "why": "La Ligue 1 est le championnat professionnel français majeur, et chaque journée rapproche les équipes de leurs objectifs saisonniers, qu'il s'agisse du titre ou de la qualification européenne.",
+      "title": "Ligue Conférence : Upsets avec Samsunspor et Lech Poznan en huitièmes",
+      "summary": "Samsunspor a surpris Rayo Vallecano 1-0 tandis que Lech Poznan a éliminé Shakhtar Donetsk 2-1 lors des 8es de finale aller. Mayence a dominé Sigma Olomouc 2-0 dans cette phase. Ces résultats inattendus secouent la compétition européenne mineure.",
+      "why": "Les performances des clubs turc et polonais créent des surprises majeures et diversifient les affiches des prochains tours.",
       "category": "Football"
     }
   ],
