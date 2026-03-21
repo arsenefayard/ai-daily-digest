@@ -1,35 +1,35 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "Le cuivre franchit les 11 000 dollars la tonne à Londres",
-      "summary": "Le prix du cuivre a dépassé le seuil des 11 000 dollars la tonne sur le marché de Londres en raison d'un short squeeze combiné à une forte demande liée à la transition énergétique mondiale. Cette hausse s'inscrit dans une ruée générale sur les matières premières stimulée par les incertitudes géopolitiques. Les implications incluent une pression accrue sur les coûts de production pour les secteurs industriels et technologiques.",
-      "why": "Cette flambée renforce les pressions inflationnistes mondiales et impacte directement les chaînes d'approvisionnement pour l'énergie verte.",
+      "title": "La Banque centrale russe abaisse son taux directeur à 15% pour la septième fois consécutive",
+      "summary": "Le 20 mars 2026, la Banque centrale russe a réduit son taux directeur de 50 points de base supplémentaires, le portant à 15 %, dans le cadre d'une série de sept baisses successives. Cette décision vise à soutenir une croissance économique équilibrée malgré les incertitudes géopolitiques mondiales. Elle reflète les efforts de la Russie pour stabiliser ses marchés et favoriser la reprise post-sanctions.",
+      "why": "Cette mesure monétaire assouplissante influence les flux de capitaux émergents et les perspectives de change du rouble, avec des répercussions potentielles sur les marchés obligataires internationaux.",
+      "category": "Banques"
+    },
+    {
+      "title": "Principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
+      "summary": "JP Morgan, Morgan Stanley et Barclays prévoient une première hausse des taux d'intérêt par la BCE dès avril 2026, motivée par l'inflation liée au conflit au Moyen-Orient. Ces prévisions contrastent avec les attentes antérieures d'assouplissement et soulignent les pressions sur les prix de l'énergie. Elles pourraient modifier les trajectoires des obligations européennes et des emprunts d'État.",
+      "why": "Ce consensus d'analystes majeurs renforce la volatilité sur les marchés de taux et impacte les stratégies d'investissement en zone euro face à une inflation persistante.",
+      "category": "Banques"
+    },
+    {
+      "title": "Les réserves pétrolières offshore s'épuisent rapidement en raison des perturbations au Moyen-Orient",
+      "summary": "Les stocks mondiaux de pétrole à bord des pétroliers diminuent à vue d'œil pour la troisième semaine consécutive, suite aux perturbations des approvisionnements du Golfe. Cette situation exacerbe les tensions sur les marchés énergétiques mondiaux et alimente les craintes de pénuries. Les prix du Brent et du WTI continuent de fluctuer violemment sous l'effet de ces contraintes logistiques.",
+      "why": "Cette érosion des réserves offshore amplifie les risques de choc énergétique global, affectant l'inflation et la croissance dans les économies importatrices.",
       "category": "Matières premières"
     },
     {
-      "title": "États-Unis proposent un Conseil commercial avec la Chine",
-      "summary": "L'administration Trump a proposé la création d'un Conseil commercial formel avec la Chine pour superviser et rééquilibrer les relations économiques bilatérales jugées inégales par Washington. Cette initiative vise à structurer les échanges et à réduire les déséquilibres persistants. Elle intervient après des tensions ravivées sur les véhicules électriques et semi-conducteurs.",
-      "why": "Cette mesure pourrait apaiser ou au contraire exacerber la guerre commerciale sino-américaine, influençant les flux commerciaux mondiaux.",
-      "category": "Politique monétaire"
+      "title": "Flambée des prix du carburant booste les ventes de véhicules électriques en France",
+      "summary": "Les commandes de véhicules électriques chez les concessionnaires français ont explosé ces dernières semaines, stimulées par la hausse des prix du carburant plutôt que par des incitations fiscales. Les consommateurs optent massivement pour des modèles à coûts d'utilisation réduits face à la crise énergétique. Cette tendance marque un tournant dans la transition automobile, indépendante des subventions gouvernementales.",
+      "why": "Ce basculement vers l'électrique renforce la demande de batteries et de métaux rares, avec des implications pour les chaînes d'approvisionnement européennes et la balance commerciale.",
+      "category": "Entreprises"
     },
     {
-      "title": "Paraguay ratifie l'accord UE-MERCOSUR",
-      "summary": "Le Paraguay a officiellement ratifié l'accord de libre-échange entre l'Union européenne et le MERCOSUR, devenant le dernier membre du bloc sud-américain à achever le processus. Cet accord ouvre des marchés pour 780 millions de consommateurs et réduit les barrières tarifaires sur de nombreux produits agricoles et industriels. Il marque une avancée majeure pour le commerce transatlantique.",
-      "why": "Cette ratification booste les exportations européennes et sud-américaines, stimulant la croissance dans un contexte de tensions commerciales ailleurs.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Japon reprend les subventions sur l'essence face à la flambée des prix",
-      "summary": "Le gouvernement japonais va relancer les subventions sur l'essence et le diesel à partir du 19 mars alors que les prix des carburants atteignent des records historiques. Cette mesure vise à atténuer l'impact sur les ménages et les entreprises dans un contexte de perturbations pétrolières mondiales. Elle s'ajoute à d'autres interventions pour stabiliser l'économie.",
-      "why": "Elle illustre la riposte des grandes économies aux chocs énergétiques, avec des effets potentiels sur la consommation et l'inflation japonaise.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Irak rétablit partiellement ses exportations pétrolières via la Turquie",
-      "summary": "L'Irak a annoncé le 18 mars le redémarrage limité de ses exportations de pétrole à 250 000 barils par jour via le port turc de Ceyhan, après une chute due aux perturbations dans le détroit d'Ormuz. Cette reprise partielle soulage légèrement les tensions sur l'approvisionnement mondial. Elle intervient dans un marché tendu par la flambée des prix.",
-      "why": "Cette évolution atténue potentiellement la crise pétrolière, mais reste fragile face aux risques géopolitiques persistants.",
-      "category": "Matières premières"
+      "title": "La Banque d'Angleterre maintient son taux à 3,75% et se dit prête à agir",
+      "summary": "Le 18 mars 2026, la BoE a laissé son taux directeur inchangé à 3,75 %, conforme aux attentes du marché, tout en signalant sa disponibilité à intervenir face aux incertitudes. Cette posture vigilante reflète les préoccupations sur l'inflation importée et la croissance britannique. Les minutes de la réunion soulignent une analyse prudente des chocs externes comme la guerre en Iran.",
+      "why": "Cette décision stabilise les attentes sur les changes sterling et influence les politiques monétaires coordonnées en Europe face aux pressions inflationnistes communes.",
+      "category": "Banques"
     }
   ],
   "updates": []
