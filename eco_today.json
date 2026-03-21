@@ -2,33 +2,33 @@
   "date": "21/03/2026",
   "news": [
     {
-      "title": "La Banque centrale russe abaisse son taux directeur à 15% pour la septième fois consécutive",
-      "summary": "Le 20 mars 2026, la Banque centrale russe a réduit son taux directeur de 50 points de base supplémentaires, le portant à 15 %, dans le cadre d'une série de sept baisses successives. Cette décision vise à soutenir une croissance économique équilibrée malgré les incertitudes géopolitiques mondiales. Elle reflète les efforts de la Russie pour stabiliser ses marchés et favoriser la reprise post-sanctions.",
-      "why": "Cette mesure monétaire assouplissante influence les flux de capitaux émergents et les perspectives de change du rouble, avec des répercussions potentielles sur les marchés obligataires internationaux.",
+      "title": "Discours attendu du président de la Réserve fédérale sur l'inflation et les taux",
+      "summary": "Le président de la Fed s'exprime ce 21 mars 2026 dans un contexte de prudence accrue après la réunion récente de la banque centrale, qui met l'accent sur les risques inflationnistes persistants dus à l'énergie chère et aux chocs géopolitiques. Les investisseurs scrutent si la Fed juge le nouveau cycle inflationniste durable, si elle maintiendra des taux élevés plus longtemps, et comment les perturbations externes altèrent le scénario économique américain. Ce discours pourrait influencer les attentes mondiales sur la politique monétaire stricte.",
+      "why": "Ce discours oriente les marchés financiers mondiaux en clarifiant la trajectoire des taux américains, avec des implications directes sur les devises, les actions et les obligations.",
       "category": "Banques"
     },
     {
-      "title": "Principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
-      "summary": "JP Morgan, Morgan Stanley et Barclays prévoient une première hausse des taux d'intérêt par la BCE dès avril 2026, motivée par l'inflation liée au conflit au Moyen-Orient. Ces prévisions contrastent avec les attentes antérieures d'assouplissement et soulignent les pressions sur les prix de l'énergie. Elles pourraient modifier les trajectoires des obligations européennes et des emprunts d'État.",
-      "why": "Ce consensus d'analystes majeurs renforce la volatilité sur les marchés de taux et impacte les stratégies d'investissement en zone euro face à une inflation persistante.",
-      "category": "Banques"
-    },
-    {
-      "title": "Les réserves pétrolières offshore s'épuisent rapidement en raison des perturbations au Moyen-Orient",
-      "summary": "Les stocks mondiaux de pétrole à bord des pétroliers diminuent à vue d'œil pour la troisième semaine consécutive, suite aux perturbations des approvisionnements du Golfe. Cette situation exacerbe les tensions sur les marchés énergétiques mondiaux et alimente les craintes de pénuries. Les prix du Brent et du WTI continuent de fluctuer violemment sous l'effet de ces contraintes logistiques.",
-      "why": "Cette érosion des réserves offshore amplifie les risques de choc énergétique global, affectant l'inflation et la croissance dans les économies importatrices.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Flambée des prix du carburant booste les ventes de véhicules électriques en France",
-      "summary": "Les commandes de véhicules électriques chez les concessionnaires français ont explosé ces dernières semaines, stimulées par la hausse des prix du carburant plutôt que par des incitations fiscales. Les consommateurs optent massivement pour des modèles à coûts d'utilisation réduits face à la crise énergétique. Cette tendance marque un tournant dans la transition automobile, indépendante des subventions gouvernementales.",
-      "why": "Ce basculement vers l'électrique renforce la demande de batteries et de métaux rares, avec des implications pour les chaînes d'approvisionnement européennes et la balance commerciale.",
+      "title": "Rapports annuels 2025 de Ping An Bank et China Shenhua Energy publiés",
+      "summary": "Les rapports annuels 2025 de Ping An Bank Co., Ltd. et de China Shenhua Energy sont au centre de l'attention des investisseurs ce 21 mars 2026. Ping An Bank sert d'indicateur clé de la qualité du cycle de crédit chinois, de l'activité économique et de la demande intérieure. China Shenhua Energy reflète la résilience du secteur énergétique chinois, la demande de charbon et les flux de trésorerie dans un marché des matières premières volatil.",
+      "why": "Ces publications évaluent la santé de l'économie chinoise, influençant les perspectives sur la croissance asiatique et les investissements en matières premières.",
       "category": "Entreprises"
     },
     {
-      "title": "La Banque d'Angleterre maintient son taux à 3,75% et se dit prête à agir",
-      "summary": "Le 18 mars 2026, la BoE a laissé son taux directeur inchangé à 3,75 %, conforme aux attentes du marché, tout en signalant sa disponibilité à intervenir face aux incertitudes. Cette posture vigilante reflète les préoccupations sur l'inflation importée et la croissance britannique. Les minutes de la réunion soulignent une analyse prudente des chocs externes comme la guerre en Iran.",
-      "why": "Cette décision stabilise les attentes sur les changes sterling et influence les politiques monétaires coordonnées en Europe face aux pressions inflationnistes communes.",
+      "title": "Guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
+      "summary": "Depuis les frappes américano-israéliennes du 28 février 2026 contre l'Iran, la fermeture effective du détroit d'Ormuz bloque 20% de l'offre mondiale de pétrole, soit 14 millions de barils par jour de brut et 4 millions de produits raffinés. Ce choc énergétique majeur de l'histoire menace la croissance mondiale et relance l'inflation. Trois scénarios sont envisagés, du conflit court à une guerre prolongée impactant PIB et prix à la consommation.",
+      "why": "Cette crise perturbe les approvisionnements énergétiques globaux, avec des effets inflationnistes majeurs et un ralentissement économique potentiel dans les zones dépendantes du pétrole.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Trump rétablit des droits de douane mondiaux de 15% malgré l'annulation par la Cour suprême",
+      "summary": "Après l'annulation par la Cour suprême des droits de douane précédents, Donald Trump a annoncé le 21 mars 2026 une nouvelle imposition de droits de douane mondiaux de 15% via un autre canal légal. Cette mesure relance les tensions commerciales internationales dans un contexte de guerre en Iran. L'incertitude liée à la personnalité du président pèse sur les échanges mondiaux.",
+      "why": "Ces tariffs risquent d'exacerber l'inflation importée et de freiner la croissance mondiale, particulièrement sensible en période de chocs énergétiques.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Banques centrales mondiales adoptent une prudence accrue face à la flambée énergétique",
+      "summary": "La Fed, la BCE et la Banque du Japon maintiennent un ton prudent ce 21 mars 2026, priorisant les risques inflationnistes dus au nouvel élan énergétique sur un assouplissement rapide. Les marchés entrent dans le week-end avec des attentes de taux plus stricts qu'au début mars. Cette convergence reflète l'impact des perturbations géopolitiques sur l'inflation mondiale.",
+      "why": "Cette orientation monétaire restrictive influence les rendements obligataires, les changes et la valorisation des actifs risqués à l'échelle globale.",
       "category": "Banques"
     }
   ],
