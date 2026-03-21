@@ -1,34 +1,34 @@
 {
-  "date": "20/03/2026",
+  "date": "21/03/2026",
   "news": [
     {
-      "title": "OpenAI lance Sora 2, nouvelle génération de génération vidéo IA",
-      "summary": "OpenAI a dévoilé Sora 2, une version avancée de son modèle de génération vidéo qui produit des clips réalistes jusqu'à 2 minutes avec une cohérence narrative améliorée et une résolution 4K. Ce modèle intègre des capacités multimodales pour combiner texte, image et audio en séquences fluides, surpassant les benchmarks actuels en fidélité visuelle. Les implications incluent des applications en cinéma, publicité et éducation virtuelle.",
-      "why": "Sora 2 marque une percée dans la génération de contenu multimédia autonome, potentiellement transformant les industries créatives en rendant la production vidéo accessible et scalable.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Mistral dévoile AI Studio, plateforme pour agents IA personnalisés",
-      "summary": "Mistral AI a lancé AI Studio, une plateforme no-code permettant aux entreprises de créer et déployer des agents IA sur mesure avec intégration fine-tuning et outils de monitoring en temps réel. Elle supporte des workflows multi-agents et s'exécute sur infrastructure souveraine européenne pour respecter le RGPD. Ce lancement répond à la demande croissante d'IA agentique en entreprise.",
-      "why": "AI Studio démocratise le développement d'agents IA avancés, accélérant l'adoption en Europe face à la concurrence américaine.",
+      "title": "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
+      "summary": "Cursor, l'IDE agentique leader, déploie sa version 2.6 qui intègre les MCP Apps pour une exécution multi-agents fluide et un support natif des IDE JetBrains comme IntelliJ et PyCharm. Cette mise à jour permet aux développeurs de déléguer des tâches complexes de refactoring et de debugging à des agents autonomes avec une précision accrue de 35 % sur les benchmarks internes. Elle marque une accélération de la concurrence dans le coding agentique en rendant les workflows multi-outils plus accessibles.",
+      "why": "Cette évolution renforce la productivité des développeurs en unifiant les écosystèmes IDE, positionnant Cursor comme pivot central face à l'explosion des agents IA dans le développement logiciel.",
       "category": "Application"
     },
     {
-      "title": "xAI annonce un partenariat stratégique avec Oracle pour l'infrastructure IA",
-      "summary": "xAI a conclu un partenariat majeur avec Oracle pour accéder à 500 milliards de dollars d'infrastructure cloud dédiée à l'entraînement de Grok 5, incluant des clusters de GPU customisés. Ce deal porte le carnet de commandes Oracle à plus de 1 000 milliards de dollars cumulés en IA. Il vise à scaler l'inférence ultra-rapide pour applications robotiques.",
-      "why": "Ce mouvement stratégique renforce la position d'xAI dans la course aux super-modèles et consolide Oracle comme leader infra IA.",
-      "category": "Entreprise"
+      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
+      "summary": "OpenAI lance Codex nativement sur Windows, permettant à des agents IA parallèles de collaborer en temps réel sur des projets de code volumineux avec gestion de branches Git automatisée. La fonctionnalité exploite une architecture distribuée pour exécuter jusqu'à 8 agents simultanément, réduisant les temps de compilation de 40 % sur des benchmarks comme HumanEval. Ce déploiement élargit l'accès à l'IA agentique pour les utilisateurs Windows, majoritaires dans l'entreprise.",
+      "why": "Ce lancement démocratise les agents de codage avancés sur la plateforme dominante du marché pro, accélérant l'adoption massive du développement assisté par IA.",
+      "category": "Application"
     },
     {
-      "title": "Nouveau papier SOTA sur l'architecture Transformer hybride quantique",
-      "summary": "Des chercheurs de l'EPFL et Google DeepMind publient un papier arXiv démontrant une architecture Transformer hybride quantique atteignant des performances SOTA sur des tâches de raisonnement long-context avec 50% moins de paramètres. Le modèle exploite des qubits pour l'attention parallèle, résolvant les goulots d'étranglement classiques. Les résultats sont validés sur benchmarks comme BIG-Bench Hard.",
-      "why": "Cette percée ouvre la voie à l'IA quantique pratique, réduisant drastiquement les coûts énergétiques des grands modèles.",
-      "category": "Recherche"
+      "title": "Google déploie le Pixel Drop de mars 2026 centré sur Gemini",
+      "summary": "Google publie le Pixel Drop mensuel de mars 2026 qui intègre Gemini en profondeur dans les Pixel, avec des fonctionnalités comme la transcription live multilingue et l'édition photo agentique en un clic. Les mises à jour incluent une optimisation de l'inférence sur Tensor G4 pour une latence réduite de 25 % et une nouvelle API pour agents locaux. Cela renforce l'écosystème mobile IA de Google face à Samsung et Apple.",
+      "why": "Ce drop positionne les Pixel comme leaders de l'IA embarquée, avec un impact direct sur des millions d'utilisateurs via des usages quotidiens concrets.",
+      "category": "Application"
     },
     {
-      "title": "Parlement européen approuve résolution sur droit d'auteur et IA générative",
-      "summary": "Le 10 mars 2026, le Parlement européen a adopté une résolution exigeant une transparence accrue sur les datasets d'entraînement des IA génératives et un opt-out obligatoire pour les œuvres protégées. Elle propose des sanctions pour violation de droits d'auteur et un fonds de compensation pour créateurs. Cette mesure vise à équilibrer innovation et protection intellectuelle.",
-      "why": "Cette décision légale impacte directement les géants de l'IA, forçant des changements dans les pratiques d'entraînement et favorisant une régulation harmonisée en UE.",
+      "title": "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA",
+      "summary": "Le 11 mars 2026, le Parlement européen valide à une large majorité la Convention-cadre du Conseil de l'Europe, premier traité international contraignant sur l'IA, imposant des standards éthiques et de transparence aux systèmes à haut risque. Ce pacte couvre la protection des droits humains, la non-discrimination et l'audit des modèles, avec ratification par 46 États membres. Il préfigure une régulation globale harmonisée au-delà de l'UE.",
+      "why": "Ce traité marque un tournant réglementaire mondial, forçant les acteurs IA à adopter des normes éthiques unifiées et impactant directement les déploiements transfrontaliers.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Anthropic assigne le gouvernement américain en justice pour sanctions excessives sur l'IA",
+      "summary": "Anthropic porte plainte contre l'administration Trump pour des sanctions jugées disproportionnées sur les exports de technologies IA, arguant qu'elles freinent l'innovation sans justification sécuritaire claire. La procédure vise à suspendre des restrictions sur les puces et modèles vers des alliés, avec des audiences prévues en avril. Cela révèle les tensions croissantes entre Big Tech et régulateurs sur la souveraineté IA.",
+      "why": "Cette action judiciaire inédite pourrait redéfinir les politiques d'export US, influençant la concurrence globale et l'accès aux technologies de pointe.",
       "category": "Régulation"
     }
   ],
