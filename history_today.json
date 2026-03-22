@@ -1,37 +1,33 @@
 {
   "date": "22/03/2026",
   "subject": {
-    "name": "Mouvement du 22 mars",
-    "type": "Mouvement",
-    "period": "1968 · Mai 68 en France",
-    "context": "Le Mouvement du 22 mars émerge à Nanterre lors d'une période de tensions étudiantes contre la guerre du Vietnam et l'autorité universitaire. À la suite d'une manifestation où des militants sont arrêtés après avoir saccagé l'agence American Express à Paris, environ 600 à 700 étudiants se réunissent en assemblée générale pour exiger leur libération. Ils décident d'occuper le dernier étage de la tour administrative de la faculté, siège symbolique du pouvoir excluant les étudiants des décisions. Mené par des figures comme Daniel Cohn-Bendit, ce groupe hétéroclite d'extrême gauche antiautoritaire critique le capitalisme, l'impérialisme et les hiérarchies académiques, marquant le début d'une radicalisation qui culminera avec les événements de Mai 68. Peu connu du grand public, il révèle les fractures profondes de la société française des années 1960, mêlant anarchistes, situationnistes et communistes libertaires.",
+    "name": "Pierre Brossolette",
+    "type": "Personnalité",
+    "period": "1903 – 1944 · Résistance française pendant la Seconde Guerre mondiale",
+    "context": "Pierre Brossolette était un journaliste et écrivain français devenu l'une des figures majeures de la Résistance intérieure pendant l'occupation nazie. Engagé politiquement dès les années 1930, il s'opposa au fascisme et au régime de Vichy avec une détermination remarquable. Arrêté par la Gestapo en février 1944, il fut soumis à des tortures brutales pour le contraindre à révéler les secrets de son réseau clandestin. Refusant de trahir ses compagnons et conscient des risques qu'une confession ferait peser sur la Résistance, Brossolette choisit de mettre fin à ses jours en se jetant par la fenêtre de sa cellule le 22 mars 1944, préférant la mort à la compromission.",
     "dates": [
       {
-        "year": "Novembre 1966",
-        "label": "Manifestation anti-Vietnam et saccage de l'American Express"
+        "year": "1903",
+        "label": "Naissance de Pierre Brossolette à Paris"
       },
       {
-        "year": "22 mars 1968",
-        "label": "Occupation de la tour administrative à Nanterre"
+        "year": "1930s",
+        "label": "Engagement politique contre le fascisme et les régimes autoritaires"
       },
       {
-        "year": "23 mars 1968",
-        "label": "Exclusion de Cohn-Bendit et des Enragés"
+        "year": "Février 1944",
+        "label": "Arrestation par la Gestapo et début des tortures"
       },
       {
-        "year": "Avril 1968",
-        "label": "Arrestation de Cohn-Bendit pour 'incitation à la violence'"
+        "year": "22 mars 1944",
+        "label": "Suicide en se jetant par la fenêtre de sa cellule"
       },
       {
-        "year": "2-3 mai 1968",
-        "label": "Fermeture de Nanterre et extension à la Sorbonne"
-      },
-      {
-        "year": "Mai 1968",
-        "label": "Symbole de la contestation nationale"
+        "year": "1946",
+        "label": "Reconnaissance posthume comme héros de la Résistance par la France libérée"
       }
     ],
-    "legacy": "Ce mouvement a catalysé Mai 68, provoquant la plus grande grève générale de l'histoire française et forçant des réformes sociétales profondes comme la loi Faure sur l'université autonome. Son esprit libertaire influence encore les mouvements altermondialistes et écologistes actuels. Sa postérité culturelle perdure dans la mémoire collective comme un acte fondateur de la révolte étudiante.",
-    "why": "Souvent éclipsé par Mai 68, il démontre comment une occupation locale peut embraser un pays entier, rappelant que les révolutions naissent souvent de colères oubliées."
+    "legacy": "La mémoire de Pierre Brossolette incarne le sacrifice ultime des résistants français face à la barbarie nazie. Son geste a inspiré plusieurs générations de militants et de citoyens engagés dans la défense des valeurs de liberté et de dignité humaine. Aujourd'hui encore, son exemple symbolise le courage moral face à l'oppression et demeure un symbole puissant de la Résistance française.",
+    "why": "À l'heure où les libertés individuelles et collectives sont constamment questionnées, Brossolette rappelle que certaines valeurs méritent des sacrifices absolus : le refus de trahir, la protection des autres et l'intégrité morale face aux régimes totalitaires restent des leçons intemporelles."
   }
 }
