@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Offenbach en concert explosif au Zénith de Paris le 13 mars",
-      "summary": "Le groupe rock québécois Offenbach investit le Zénith de Paris le 13 mars pour un show immersif et futuriste qui revisite ses classiques avec une mise en scène innovante. Cette performance marque un retour en force du groupe sur la scène française après plusieurs années d'absence. Les fans attendent avec impatience cette explosion d'énergie live qui promet de faire vibrer la salle.",
-      "why": "Offenbach reste une légende du rock francophone et ce concert au Zénith renforce les liens culturels entre le Québec et la France.",
+      "title": "Lara Fabian de retour à l'Accor Arena le 10 mars",
+      "summary": "La chanteuse belgo-canadienne Lara Fabian fera son grand retour sur la scène de l'Accor Arena à Paris le 10 mars 2026 avec un spectacle mêlant ses plus grands hits et de nouvelles balades émouvantes. Ce concert s'inscrit dans une tournée européenne très attendue après plusieurs années d'absence en France. Les fans se pressent déjà pour réserver leurs places face à l'engouement massif autour de cette voix légendaire.",
+      "why": "Ce retour marque un événement majeur pour les amateurs de pop vocale, avec un show promis comme l'un des plus intenses de l'année.",
+      "category": "Pop"
+    },
+    {
+      "title": "Coeur de Pirate en concert intime à l'Olympia le 12 mars",
+      "summary": "La chanteuse québécoise Coeur de Pirate se produira à l'Olympia de Paris le 12 mars 2026 pour un concert dans un univers intime et mélancolique, tirant de son répertoire récent et de classiques comme 'Adieu'. Ce spectacle mettra en avant sa voix unique et ses textes poignants sur l'amour et la perte. Il coïncide avec une période créative intense pour l'artiste après plusieurs collaborations internationales.",
+      "why": "Ce concert représente une rare occasion de voir Coeur de Pirate dans une salle mythique, renforçant son statut iconique en France.",
+      "category": "Pop"
+    },
+    {
+      "title": "Rosalia annonce des concerts très attendus à l'Accor Arena",
+      "summary": "La star espagnole Rosalia se produira à l'Accor Arena de Paris en mars 2026 pour une série de concerts événementiels mêlant flamenco moderne, reggaeton et pop expérimentale. Ces dates s'inscrivent dans sa tournée mondiale post-album, avec des mises en scène innovantes et des invités surprises potentiels. Les billets partent déjà à vive allure auprès des fans européens.",
+      "why": "Rosalia incarne une fusion culturelle unique qui attire un public jeune et diversifié, faisant de ces shows un highlight du mois.",
+      "category": "Pop"
+    },
+    {
+      "title": "Salaisse Blues Festival ouvre ses portes le 27 mars",
+      "summary": "Le Salaisse Blues Festival débutera le 27 mars 2026 dans la région Auvergne-Rhône-Alpes avec une programmation riche en artistes blues internationaux et locaux, incluant des jams sessions et ateliers. Cet événement gratuit met l'accent sur la scène émergente et les légendes du genre pour une immersion totale. Il attire chaque année des milliers de passionnés dans une ambiance conviviale.",
+      "why": "Ce festival dédié au blues revitalise la scène locale et offre une alternative authentique aux grands événements pop.",
       "category": "Rock"
     },
     {
-      "title": "Rosalia de retour à l'Accor Arena pour des concerts très attendus",
-      "summary": "La star espagnole Rosalia fait son grand retour à Paris avec des concerts à l'Accor Arena en mars 2026, mêlant flamenco moderne et sonorités urbaines. Ces dates s'inscrivent dans une tournée mondiale qui suit son dernier album acclamé par la critique. Les billets risquent de s'arracher rapidement vu l'engouement pour son univers unique.",
-      "why": "Rosalia incarne une fusion innovante de genres qui influence la pop mondiale et attire un public jeune et international.",
-      "category": "Pop"
-    },
-    {
-      "title": "Barbara Pravi au Zénith de Paris le 26 mars avec sa voix puissante",
-      "summary": "Barbara Pravi investit le Zénith de Paris le 26 mars pour un concert où elle déploie sa voix puissante et ses textes incarnés issus de son répertoire récent. Cette date marque une étape majeure dans sa carrière solo après ses succès à l'Eurovision. Le spectacle promet une soirée émouvante et intimiste malgré l'ampleur de la salle.",
-      "why": "En tant que figure montante de la chanson française, ce concert au Zénith consacre son statut de star nationale.",
-      "category": "Pop"
-    },
-    {
-      "title": "Jazz en Nord s'étend jusqu'au 4 mai 2026 dans le Nord de la France",
-      "summary": "Le festival Jazz en Nord, lancé le 20 janvier, prolonge sa programmation jusqu'au 4 mai 2026 à Marcq-en-Barœul, avec des artistes jazz internationaux et locaux. Cet événement met en lumière des talents variés dans des lieux emblématiques de la région. Il attire les amateurs de jazz pour sa qualité et sa diversité.",
-      "why": "Ce festival renforce la scène jazz française et offre une programmation riche qui soutient les artistes émergents.",
-      "category": "Classique"
-    },
-    {
-      "title": "Paris Music Festival du 18 au 22 mars à Paris",
-      "summary": "Le Paris Music Festival se tient du 18 au 22 mars 2026 dans la capitale, proposant une programmation éclectique avec des artistes de tous horizons musicaux. Cet événement gratuit ou à tarif modéré démocratise l'accès à la musique live en plein cœur de la ville. Il s'agit d'un rendez-vous incontournable pour découvrir de nouvelles tendances.",
-      "why": "En tant que festival urbain majeur, il favorise la diversité musicale et attire un public large en mars.",
+      "title": "Aspects, festival des musiques d'aujourd'hui à Caen du 17 au 22 mars",
+      "summary": "Le festival Aspects se tiendra du 17 au 22 mars 2026 à Caen, célébrant les musiques contemporaines avec des compositeurs avant-gardistes, des performances électro-acoustiques et des installations sonores immersives. Organisé par des institutions culturelles locales, il propose des rencontres avec des artistes innovants et des projections de films musicaux. Cette édition met l'accent sur l'expérimentation sonore accessible à tous.",
+      "why": "Il positionne Caen comme un hub pour la musique contemporaine, favorisant la découverte d'œuvres novatrices hors des circuits mainstream.",
       "category": "Autre"
     }
   ],
