@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Le paradoxe du grand-père en philosophie du voyage dans le temps",
-      "summary": "Le paradoxe du grand-père est un dilemme philosophique posé par René Barjavel dans son roman Le Voyageur imprudent, où un voyageur dans le temps tue son propre grand-père avant la naissance de son père, empêchant ainsi sa propre existence et rendant impossible son voyage temporel. Ce paradoxe illustre les incohérences logiques des voyages dans le passé et a inspiré de nombreuses théories en physique quantique et en cosmologie. Il soulève des questions profondes sur la causalité et la nature du temps.",
-      "why": "Ce paradoxe enrichit la réflexion sur la réalité et influence la science-fiction moderne ainsi que les débats scientifiques actuels sur les trous de ver.",
+      "title": "Le paradoxe de Zénon d'Élée et la flèche qui ne bouge jamais",
+      "summary": "Zénon d'Élée, philosophe grec présocratique du Ve siècle avant J.-C., a formulé le paradoxe de la flèche pour contester la réalité du mouvement. Selon lui, une flèche en vol occupe à chaque instant un espace égal à sa taille, donc elle est immobile à cet instant précis, ce qui implique qu'elle ne peut se déplacer. Ce raisonnement a fasciné les mathématiciens pendant des siècles et a inspiré les concepts modernes de limite et d'infini en calcul infinitésimal.",
+      "why": "Ce paradoxe illustre comment la philosophie antique peut défier notre perception intuitive du monde et préfigurer les avancées mathématiques contemporaines.",
       "category": "Philosophie"
     },
     {
-      "title": "La cité engloutie de Pavlopetri, la plus ancienne ville submergée",
-      "summary": "Pavlopetri, située au large des côtes grecques du Péloponnèse, est considérée comme la plus ancienne ville engloutie au monde, datant d'environ 5 000 ans avant notre ère avec ses rues, bâtiments et tombes préservés sous l'eau. Découverte en 1967, elle offre un aperçu unique de l'urbanisme minoen grâce à sa submersion progressive due à des tremblements de terre et à la montée des eaux. Les archéologues y ont identifié jusqu'à 15 structures organisées autour de places publiques.",
-      "why": "Cette découverte révolutionne notre compréhension des premières civilisations urbaines et met en lumière les effets du changement climatique sur le patrimoine ancien.",
+      "title": "La cité perdue de Pétrogramme en Jordanie, gravée de 100 000 images rupestres",
+      "summary": "Pétrogramme, située dans le désert jordanien, abrite le plus grand site de pétroglyphes au monde avec environ 100 000 gravures datant de 12 000 ans. Ces images représentent des scènes de chasse, d'élevage et des symboles abstraits réalisés par des peuples préhistoriques. Découvertes dans les années 1990, elles offrent un témoignage unique sur les migrations et les modes de vie des premières communautés humaines du Proche-Orient.",
+      "why": "Ce site révèle les premières expressions artistiques humaines et enrichit notre compréhension des civilisations oubliées avant l'écriture.",
       "category": "Histoire"
     },
     {
-      "title": "Le film Nosferatu de 1922 et ses effets spéciaux révolutionnaires",
-      "summary": "Nosferatu le vampire, réalisé par F.W. Murnau en 1922, est un pilier du cinéma expressionniste allemand qui adapte illégalement Dracula de Bram Stoker avec le comte Orlok comme figure terrifiante. Ses effets spéciaux innovants, comme les ombres animées et les superpositions, créent une atmosphère d'horreur psychologique sans effets numériques. Le film a influencé des générations de réalisateurs et reste un chef-d'œuvre du muet malgré sa destruction partielle ordonnée par les ayants droit.",
-      "why": "Il pose les bases du genre horreur au cinéma et démontre la puissance narrative du visuel pur.",
+      "title": "Le film Métropolis de Fritz Lang et ses visions prophétiques de 1927",
+      "summary": "Sorti en 1927, Métropolis de Fritz Lang dépeint une ville futuriste dystopique divisée entre ouvriers exploités et élite oisive, avec des robots et des gratte-ciel immenses. Ce chef-d'œuvre expressionniste allemand a influencé des générations de cinéastes comme George Lucas ou Ridley Scott. Ses effets spéciaux novateurs, comme la maquette de la ville, ont anticipé les thèmes de l'intelligence artificielle et des inégalités sociales modernes.",
+      "why": "Ce film démontre la prescience du cinéma muet en imaginant des problèmes technologiques et sociétaux qui hantent encore notre époque.",
       "category": "Cinéma"
     },
     {
-      "title": "L'effet placebo, une guérison par la croyance",
-      "summary": "L'effet placebo est un phénomène psychologique où un traitement sans principe actif pharmacologique provoque une amélioration des symptômes grâce à la conviction du patient en son efficacité. Découvert dans les années 1940 lors d'essais cliniques, il implique la libération d'endorphines et peut soulager la douleur ou réduire l'anxiété dans 30 à 40 % des cas. Des études montrent même un 'nocebo' inverse où les attentes négatives aggravent les symptômes.",
-      "why": "Il révèle le pouvoir de l'esprit sur le corps et guide les protocoles médicaux modernes pour isoler les vrais effets des traitements.",
+      "title": "L'effet Baader-Meinhof, l'illusion de fréquence soudaine",
+      "summary": "L'effet Baader-Meinhof, aussi appelé illusion de fréquence, survient quand on découvre un mot ou un concept nouveau et qu'il semble soudain apparaître partout. Décrit psychologiquement comme une forme de biais de confirmation, il résulte de l'attention sélective du cerveau qui amplifie la perception d'événements rares. Ce phénomène, nommé d'après un groupe terroriste allemand mentionné dans un forum en 1994, explique pourquoi les coïncidences paraissent plus fréquentes après une première exposition.",
+      "why": "Il éclaire les mécanismes subtils de notre cognition et aide à mieux comprendre les biais qui influencent nos jugements quotidiens.",
       "category": "Psychologie"
     },
     {
-      "title": "La cascade intérieure la plus haute du monde au Ice Hotel de Suède",
-      "summary": "La cascade intérieure la plus haute du monde, mesurant 16 mètres, se trouve au sein de l'Icehotel de Jukkasjärvi en Suède, sculptée entièrement dans la glace et l'eau gelée pendant l'hiver. Créée annuellement par des artistes internationaux, elle recycle l'eau de la rivière Torne et fond au printemps pour reformer un cycle naturel. Ce record insolite attire des milliers de visiteurs dans cet hôtel éphémère reconstruit chaque année depuis 1989.",
-      "why": "Cette prouesse allie art, nature et ingénierie, symbolisant la fragilité du climat arctique tout en offrant une expérience unique.",
+      "title": "La plus grande fleur du monde, la Rafflesia arnoldii d'Indonésie",
+      "summary": "La Rafflesia arnoldii, endémique des forêts de Sumatra et Bornéo, détient le record de la plus grande fleur individuelle avec un diamètre atteignant un mètre et un poids de 11 kg. Cette plante parasite sans feuilles émet une odeur de chair putréfiée pour attirer les mouches pollinisatrices. Découverte en 1818 par le naturaliste anglais Sir Thomas Stamford Raffles, elle symbolise les merveilles et les fragilités de la biodiversité tropicale menacée par la déforestation.",
+      "why": "Ce record naturel fascine par son gigantisme et sensibilise à la conservation des écosystèmes uniques en voie de disparition.",
       "category": "Insolite"
     }
   ],
