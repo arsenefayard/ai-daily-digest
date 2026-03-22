@@ -1,16 +1,5 @@
 [
   {
-    "date": "19/03/2026",
-    "titles": [
-      "L'exposition Nan Goldin au Grand Palais : une rétrospective intime et monumentale",
-      "Rosalía en concert à l'Accor Arena : la tournée mondiale de l'album Lux",
-      "Magdalena Abakanowicz au Musée Bourdelle : l'hommage français à la sculptrice polonaise",
-      "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
-      "Marcoville à la cathédrale de la Major : des installations géantes en verre recyclé",
-      "Cyrano de Bergerac avec Édouard Baer : la tournée théâtrale continue"
-    ]
-  },
-  {
     "date": "20/03/2026",
     "titles": [
       "80 000 tulipes en fleurs au Château de Dampierre",
@@ -68,6 +57,16 @@
       "Les faux arrêts de bus en Allemagne pour patients Alzheimer",
       "La sueur de gladiateurs comme parfum chez les Romaines riches",
       "Le mot 'sandwich' né d'un aristocrate joueur de cartes"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
+      "L'invention des lunettes : une évolution de treize siècles",
+      "Le mot « sandwich » doit son nom à un aristocrate du dix-huitième siècle",
+      "La plus ancienne œuvre d'art connue remonte à quarante-quatre mille ans en Indonésie",
+      "L'Empire mongol : le plus grand empire terrestre contigu de l'histoire"
     ]
   }
 ]
