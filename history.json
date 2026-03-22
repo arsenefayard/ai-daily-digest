@@ -1,15 +1,5 @@
 [
   {
-    "date": "19/03/2026",
-    "titles": [
-      "Google lance le Pixel Drop de mars 2026 avec Gemini au centre",
-      "Samsung vise 800 millions d'unités avec son écosystème IA",
-      "OpenAI déploie Codex sur Windows avec agents parallèles",
-      "xAI annonce un nouveau rack d'accélérateur Grok 3 pour l'inférence ultra-rapide",
-      "Univ Nantes lance trois formations courtes en IA et data en mars 2026"
-    ]
-  },
-  {
     "date": "20/03/2026",
     "titles": [
       "OpenAI lance Sora 2, nouvelle génération de génération vidéo IA",
@@ -67,6 +57,16 @@
       "Sept IDE leaders se disputent le marché du développement multi-agent",
       "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
       "xAI lance Grok 4.20 Beta 2, version optimisée pour le codage"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative",
+      "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 des préoccupations mondiales",
+      "Meta retarde son modèle Avocado à mai pour performances insuffisantes",
+      "Meta acquiert Moltbook, réseau social pour bots IA",
+      "Sept IDE leaders se disputent le marché du développement multi-agent"
     ]
   }
 ]
