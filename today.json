@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "OpenAI lance GPT-5.4, premier modèle capable de contrôler nativement un ordinateur",
-      "summary": "OpenAI a dévoilé GPT-5.4, un modèle révolutionnaire doté d'un contexte de 1 million de tokens qui peut interagir directement avec un ordinateur via le clavier, la souris et les captures d'écran. Cette capacité de contrôle natif marque une avancée majeure dans l'autonomie des agents IA, permettant des tâches complexes sans intervention humaine. Les benchmarks montrent une supériorité en raisonnement et multitâche par rapport aux versions précédentes.",
-      "why": "Cette innovation propulse l'IA vers une utilisation pratique dans les environnements professionnels et domestiques, transformant les assistants virtuels en opérateurs autonomes.",
+      "title": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
+      "summary": "Meta a annoncé le report de son modèle d'intelligence artificielle baptisé Avocado au moins jusqu'en mai 2026, car ses performances en raisonnement et en génération de code restent inférieures à celles des leaders comme Google, OpenAI et Anthropic. Ce retard survient malgré des investissements massifs de 107 milliards de dollars dans le développement de ce modèle. Cette décision met en lumière les défis techniques rencontrés par Meta pour rivaliser dans la course aux modèles avancés.",
+      "why": "Ce report embarrassant souligne les difficultés de Meta à maintenir son avance en IA générative et pourrait impacter sa position stratégique face à la concurrence accrue.",
       "category": "Modèle"
     },
     {
-      "title": "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres optimisé pour Huawei",
-      "summary": "DeepSeek a présenté V4, un modèle multimodal de 1000 milliards de paramètres capable de traiter texte, images et vidéos nativement, spécifiquement optimisé pour les puces Huawei Ascend. Cette version surpasse les concurrents chinois en efficacité énergétique et en vitesse d'inférence sur hardware local. Elle répond aux sanctions américaines en renforçant l'indépendance technologique de la Chine.",
-      "why": "V4 accélère la souveraineté IA chinoise et démontre que des performances de pointe sont possibles sans dépendre des puces Nvidia.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour Microsoft 365",
-      "summary": "Microsoft a lancé Copilot Cowork, une suite intégrant le modèle Claude d'Anthropic directement dans Word, Excel, PowerPoint et Outlook de Microsoft 365. Cette intégration offre des capacités avancées de raisonnement et de génération de contenu aux entreprises. Elle positionne Claude comme un acteur clé dans l'écosystème enterprise face à Gemini et GPT.",
-      "why": "Ce partenariat stratégique renforce la concurrence dans les outils de productivité IA et accélère l'adoption en entreprise.",
-      "category": "Application"
-    },
-    {
-      "title": "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
-      "summary": "Elon Musk a officialisé Macrohard, une fusion entre Tesla et xAI visant à développer Digital Optimus, un agent IA incarné dans un corps robotique humanoid. Ce projet combine les avancées en vision par ordinateur de Tesla avec les modèles Grok pour une interaction physique avancée. L'initiative cible l'automatisation industrielle et domestique à grande échelle.",
-      "why": "Cette fusion marque l'émergence de l'IA incarnée, avec un impact potentiel massif sur la robotique et l'économie du travail.",
+      "title": "Meta acquiert Moltbook, réseau social pour bots IA, et intègre son équipe dans ses labs",
+      "summary": "Meta a racheté Moltbook, une plateforme sociale dédiée exclusivement aux bots d'intelligence artificielle, et a intégré son équipe au sein de Meta Superintelligence Labs. Cette acquisition vise à accélérer les avancées en interactions sociales automatisées et en superintelligence. Elle s'inscrit dans une stratégie plus large de Meta pour dominer les écosystèmes IA multi-agents.",
+      "why": "Cette opération renforce les capacités de Meta en IA sociale et pourrait transformer les interactions numériques en intégrant des bots avancés dans les plateformes quotidiennes.",
       "category": "Entreprise"
     },
     {
-      "title": "Alibaba lance les Qwen Glasses, lunettes IA abordables à 275 dollars au MWC",
-      "summary": "Au Mobile World Congress, Alibaba a dévoilé les Qwen Glasses, des lunettes connectées IA à seulement 275 dollars intégrant le modèle Qwen pour traduction en temps réel, navigation AR et assistance contextuelle. Équipées d'un processeur dédié et d'une batterie longue durée, elles rivalisent avec les prototypes occidentaux à un prix accessible. Ce lancement démocratise l'IA portable pour les consommateurs chinois et mondiaux.",
-      "why": "Les Qwen Glasses rendent l'IA omniprésente et abordable, accélérant l'adoption massive des wearables intelligents.",
+      "title": "Sept IDE leaders se disputent le marché du développement multi-agent",
+      "summary": "Le marché des environnements de développement intégrés (IDE) connaît une explosion avec sept outils principaux qui rivalisent pour dominer le développement assisté par agents IA multi-agents. Ces IDE intègrent des capacités agentiques pour automatiser le codage collaboratif et complexe. Cette concurrence stimule l'innovation dans les outils de programmation intelligents.",
+      "why": "Cette compétition accélère l'adoption des agents IA dans le développement logiciel, rendant le codage plus efficace et accessible aux développeurs.",
       "category": "Application"
+    },
+    {
+      "title": "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
+      "summary": "Mistral AI, en partenariat avec la Direction interministérielle du numérique (DINUM), a déployé un assistant d'intelligence artificielle souverain destiné à 30 000 agents publics en France. Cet outil garantit la souveraineté des données et répond aux besoins administratifs spécifiques. Il marque une étape clé dans l'adoption de l'IA au sein des services publics.",
+      "why": "Ce déploiement démontre l'intégration réussie de l'IA souveraine dans l'administration, renforçant la sécurité et l'indépendance numérique de la France.",
+      "category": "Application"
+    },
+    {
+      "title": "xAI lance Grok 4.20 Beta 2, version optimisée pour le codage",
+      "summary": "xAI a publié Grok 4.20 Beta 2, une version bêta de son modèle focalisée sur la génération et l'optimisation de code avec des améliorations significatives en précision et vitesse. Ce modèle s'appuie sur les avancées précédentes de Grok pour concurrencer les outils comme Codex d'OpenAI. Il est disponible pour les tests en environnement de développement.",
+      "why": "Cette sortie positionne xAI comme un acteur majeur dans l'IA dédiée au codage, favorisant l'innovation dans les outils de programmation assistée.",
+      "category": "Modèle"
     }
   ],
   "updates": []
