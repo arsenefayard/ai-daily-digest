@@ -1,15 +1,5 @@
 [
   {
-    "date": "16/03/2026",
-    "titles": [
-      "Les origines africaines du zombie au Musée des Confluences",
-      "Le Minotaure et le labyrinthe de Dédale dans la mythologie grecque",
-      "L'effet Dunning-Kruger : l'incompétence surconfiante",
-      "La machine analytique de Charles Babbage, ancêtre des ordinateurs",
-      "Le paradoxe de Zénon : Achille n'attrape jamais la tortue"
-    ]
-  },
-  {
     "date": "17/03/2026",
     "titles": [
       "Les origines africaines du zombi révélées au Musée des Confluences de Lyon",
@@ -69,6 +59,16 @@
       "Le cinéma expressionniste allemand et le Cabinet du docteur Caligari",
       "La plus longue rivière souterraine du monde en Slovénie",
       "L'homme qui planta un milliard d'arbres au Canada"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Le paradoxe du grand-père en philosophie du voyage dans le temps",
+      "La cité engloutie de Pavlopetri, la plus ancienne ville submergée",
+      "Le film Nosferatu de 1922 et ses effets spéciaux révolutionnaires",
+      "L'effet placebo, une guérison par la croyance",
+      "La cascade intérieure la plus haute du monde au Ice Hotel de Suède"
     ]
   }
 ]
