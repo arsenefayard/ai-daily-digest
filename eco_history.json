@@ -1,15 +1,5 @@
 [
   {
-    "date": "19/03/2026",
-    "titles": [
-      "L'or dépasse les 2 440 dollars l'once en 24 heures",
-      "La Chine lance un plan historique de soutien à l'immobilier",
-      "Explosion des prix du fret aérien jusqu'à 82% sur certaines liaisons",
-      "L'UE annonce la fin de ses importations d'énergie russe",
-      "La BCE envisage un premier abaissement des taux en juin"
-    ]
-  },
-  {
     "date": "20/03/2026",
     "titles": [
       "Le cuivre franchit les 11 000 dollars la tonne à Londres",
@@ -67,6 +57,16 @@
       "La crise au Moyen-Orient détourne des millions de touristes vers l'Europe",
       "France, Royaume-Uni et alliés prêts à sécuriser le détroit d'Ormuz",
       "Inflation persistante aux États-Unis prévue à +3,0 % en 2026 due aux tariffs et pétrole"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Trump envisage l'envoi d'une force terrestre en Iran",
+      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
+      "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
+      "La crise moyen-orientale détourne des millions de touristes vers l'Europe",
+      "L'Agence internationale de l'énergie publie 10 mesures contre la crise énergétique"
     ]
   }
 ]
