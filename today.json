@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 mondial des préoccupations",
-      "summary": "Le baromètre des risques 2026 d'Allianz place l'intelligence artificielle parmi les cinq principaux risques mondiaux, entrant directement dans le top 10 avec la plus forte progression et se classant troisième en Europe à 29 %. Trois catégories de risques sont identifiées : opérationnels, juridiques/conformité et réputationnels, alors que les entreprises priorisent la gouvernance et la conformité IA pour 2026. Cette montée en puissance reflète le passage de l'expérimentation à la mise à l'échelle de l'IA, élargissant sa valeur stratégique mais aussi ses menaces.",
-      "why": "Cette actualité souligne l'émergence de l'IA comme risque majeur pour les entreprises mondiales, incitant à une gouvernance renforcée et influençant les stratégies d'assurance et de compliance.",
+      "title": "Oregon adopte la première loi américaine sur les chatbots IA",
+      "summary": "L'État de l'Oregon a promulgué la première législation aux États-Unis spécifiquement dédiée aux chatbots IA, imposant des exigences de transparence et de protection des utilisateurs contre les contenus trompeurs. Cette loi marque un tournant dans la régulation fédérale en attente et vise à encadrer l'usage des agents conversationnels dans les services publics et privés. Elle inclut des sanctions pour non-respect des disclosures obligatoires sur l'origine IA des réponses.",
+      "why": "Cette initiative pionnière pourrait influencer les politiques nationales et servir de modèle pour d'autres États face à la prolifération des chatbots.",
       "category": "Régulation"
     },
     {
-      "title": "Tendances IA 2026 : l'essor des agents autonomes et l'urgence de l'efficacité énergétique",
-      "summary": "En 2026, les agents IA autonomes capables de planifier, décider et agir en réseaux interconnectés deviendront centraux pour les opérations comme les achats ou la logistique, collaborant avec les humains tout en posant des défis de sécurité et d'interopérabilité. Parallèlement, l'efficacité énergétique s'impose comme priorité face à la consommation croissante, avec des modèles sobres, puces spécialisées et edge computing pour 'faire mieux avec moins'. Les architectures ouvertes remplaceront les plateformes fermées, favorisant l'intégration dans les systèmes existants comme les ERP.",
-      "why": "Ces tendances annoncent une maturité industrielle de l'IA, transformant les opérations d'entreprise et la compétition technologique autour de la sobriété et de l'interopérabilité.",
-      "category": "Recherche"
-    },
-    {
-      "title": "L'IA devient l'infrastructure invisible de l'économie au CES 2026",
-      "summary": "Au CES 2026, l'intelligence artificielle évolue vers une intégration diffuse et invisible au cœur de l'économie, remplaçant les usages visibles par des systèmes embarqués décisifs. Cette transformation culturelle et technique marque la fin de l'affichage ostentatoire de l'IA au profit d'une présence omniprésente mais discrète dans les processus économiques. Les innovations se concentrent sur l'invisibilité fonctionnelle pour maximiser l'impact opérationnel.",
-      "why": "Cette évolution positionne l'IA comme pilier infrastructurel essentiel, redéfinissant les modèles économiques et les attentes des consommateurs.",
+      "title": "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
+      "summary": "Mistral AI, en partenariat avec la Direction interministérielle du numérique (DINUM), a lancé un assistant IA souverain destiné à 30 000 agents publics français pour optimiser les tâches administratives quotidiennes. Cet outil, hébergé en France et conforme au RGPD, intègre des capacités de recherche documentaire et de rédaction automatisée sans dépendre de modèles étrangers. Le déploiement vise à accélérer la transformation numérique de l'administration publique.",
+      "why": "Ce projet renforce la souveraineté numérique de la France et démontre l'adoption massive de l'IA dans les services publics européens.",
       "category": "Application"
     },
     {
-      "title": "Oregon adopte la première loi américaine sur les chatbots IA",
-      "summary": "L'État de l'Oregon a adopté la première législation américaine spécifique aux chatbots IA, imposant des règles sur la transparence et la responsabilité des interactions automatisées. Cette loi fait partie de trois deadlines fédérales du 11 mars qui façonneront la politique IA nationale aux États-Unis. Elle vise à protéger les utilisateurs contre les abus et les biais dans les systèmes conversationnels.",
-      "why": "Première régulation locale aux USA sur les chatbots, elle préfigure une fragmentation réglementaire nationale et influence les déploiements IA.",
-      "category": "Régulation"
+      "title": "xAI lance Grok 4.20 Beta 2 optimisé pour le codage",
+      "summary": "xAI a publié Grok 4.20 Beta 2, une version affinée de son modèle focalisée sur le codage avec des améliorations en génération de code multi-langages et débogage autonome. Ce modèle surpasse ses prédécesseurs sur les benchmarks de programmation comme HumanEval et excelle dans les tâches de refactoring complexes. Il est accessible via l'API xAI pour les développeurs.",
+      "why": "Cette mise à jour intensifie la compétition dans les outils IA pour développeurs et accélère l'automatisation du codage.",
+      "category": "Modèle"
     },
     {
-      "title": "Explosion du marché des IDE pour développement multi-agent avec 7 leaders en compétition",
-      "summary": "Le marché des IDE (environnements de développement intégrés) pour le développement multi-agent connaît une explosion, avec sept acteurs leaders se disputant des parts dans un écosystème agentique en pleine croissance. Ces outils facilitent la création d'agents IA collaboratifs pour le codage avancé, intégrant planification et exécution autonome. Cette concurrence stimule l'innovation dans les workflows de développement logiciel.",
-      "why": "Cette dynamique accélère l'adoption des agents IA en développement, transformant les pratiques de codage et favorisant des gains de productivité massifs.",
+      "title": "Meta acquiert Moltbook, réseau social pour bots IA",
+      "summary": "Meta a racheté Moltbook, une plateforme sociale dédiée exclusivement aux bots IA, et intègre son équipe au sein de Meta Superintelligence Labs pour booster ses recherches en agents autonomes. Cette acquisition permet à Meta d'explorer les interactions bot-à-bot et d'améliorer ses modèles en multi-agents. L'opération s'inscrit dans une stratégie d'expansion vers l'IA sociale post-Avocado.",
+      "why": "Elle positionne Meta comme leader en IA sociale et ouvre des perspectives pour des écosystèmes de bots intelligents.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Alibaba lance les Qwen Glasses au MWC",
+      "summary": "Au Mobile World Congress, Alibaba a dévoilé les Qwen Glasses, des lunettes connectées IA abordables à 275 dollars intégrant le modèle Qwen pour reconnaissance visuelle en temps réel et assistance contextuelle. Ces lunettes offrent une traduction instantanée, navigation AR et interaction vocale sans smartphone. Elles visent le grand public en Asie et concurrencent les dispositifs occidentaux haut de gamme.",
+      "why": "Ce lancement démocratise l'IA wearable et renforce la présence chinoise sur le marché des wearables intelligents.",
       "category": "Application"
     }
   ],
