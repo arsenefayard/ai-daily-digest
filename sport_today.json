@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "summary": "Liverpool a dominé Galatasaray 4-0 lors du match retour des huitièmes de finale, après une courte victoire 1-0 à l'aller, se qualifiant ainsi pour les quarts de finale où il défiera le PSG. Ismail Jakobs et son équipe turque ont été éliminés malgré une bonne performance initiale. Cette qualification spectaculaire à Anfield renforce les ambitions des Reds dans la compétition européenne.",
-      "why": "Ce résultat inattendu élimine un outsider et promet un choc explosif entre deux géants européens en quarts de finale.",
+      "summary": "Liverpool a dominé Galatasaray 4-0 lors des huitièmes de finale retour à Anfield, avec des buts de Szobolszlai, Ekitike, Gravenberch et Salah, renversant la défaite 0-1 de l'aller. Les Reds se qualifient ainsi pour les quarts de finale où ils défieront le Paris Saint-Germain. Ce choc entre deux clubs historiques promet un duel intense et spectaculaire.",
+      "why": "Ce tirage au sort oppose deux puissances européennes actuelles et relance l'intérêt pour les quarts de la Ligue des Champions.",
       "category": "Football"
     },
     {
-      "title": "Euroleague : Monaco et Maccabi brillent avec des victoires cruciales",
-      "summary": "AS Monaco Basket a surpris Anadolu Efes 98-93 tandis que Maccabi Tel-Aviv a battu ASVEL 89-85 lors de la 30e journée. Zalgiris Kaunas a également créé la sensation en s'imposant 87-85 face au Real Madrid. Panathinaïkos a dominé l'Etoile Rouge 82-74, intensifiant la course aux playoffs.",
-      "why": "Ces upsets bouleversent le classement et relancent la lutte pour les dernières places qualificatives en playoffs.",
-      "category": "Basketball"
-    },
-    {
-      "title": "Ligue Europa : AZ Alkmaar et Fiorentina se qualifient en quarts avec autorité",
-      "summary": "AZ Alkmaar a écrasé Sparta Prague 4-0 tandis que Fiorentina a renversé Rakow Czestochowa 2-1 lors des huitièmes de finale retour. Crystal Palace s'est imposé 2-1 après prolongations contre AEK Larnaca. Ces résultats spectaculaires propulsent ces équipes dans le dernier carré de la compétition.",
-      "why": "Les qualifications de ces clubs outsiders promettent des quarts de finale imprévisibles et riches en suspense.",
+      "title": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
+      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa après une performance décevante face au Celta Vigo lors des huitièmes de finale retour le 19 mars. Les Gones, déjà en difficulté, n'ont pas su se qualifier et quittent la compétition prématurément. Le coach adverse a même jubilé après cette victoire inattendue.",
+      "why": "Cette élimination précoce accentue la crise de l'OL et soulève des questions sur la gestion du club en pleine saison européenne.",
       "category": "Football"
     },
     {
-      "title": "Miami Open : Début du Masters 1000 avec les favoris Alcaraz et Swiatek en lice",
-      "summary": "Le Miami Open, Masters 1000 ATP et WTA, a démarré le 18 mars et oppose les meilleurs joueurs mondiaux jusqu'au 29 mars. Carlos Alcaraz et Iga Swiatek, tout frais lauréats d'Indian Wells, partent favoris pour doubler la mise sur dur. Ce tournoi attire l'attention après les récents sacres à Indian Wells.",
-      "why": "Ce double Masters consécutif permet aux stars du tennis de consolider leur domination et de préparer la saison sur terre battue.",
+      "title": "Ligue Conférence : Strasbourg se qualifie aux forceps pour les quarts face à Rijeka",
+      "summary": "Le Racing Club de Strasbourg a arraché sa qualification en quarts de finale de la Ligue Conférence après un match nul obtenu dans les dernières minutes contre Rijeka le 19 mars. Malgré un match aller compliqué, les Alsaciens ont su faire preuve de résilience pour avancer. La Fiorentina s'est également qualifiée dans cette compétition.",
+      "why": "Cette qualification surprise propulse Strasbourg parmi les outsiders européens et booste les ambitions du club en Conférence.",
+      "category": "Football"
+    },
+    {
+      "title": "Miami Open : Le tournoi Masters 1000 perturbé par des pluies abondantes",
+      "summary": "Le Miami Open, Masters 1000 ATP et WTA, a vu son programme bouleversé par des pluies intenses dès le 18 mars, retardant de nombreux matchs des favoris comme Alcaraz et Swiatek. Les organisateurs ont dû ajuster le calendrier pour rattraper les rencontres. Cette météo défavorable teste la patience des joueurs et des spectateurs.",
+      "why": "Ce Masters 1000 majeur conditionne les classements avant Roland-Garros, et les perturbations pourraient influencer les résultats finaux.",
       "category": "Tennis"
     },
     {
-      "title": "Ligue Conférence : Upsets avec Samsunspor et Lech Poznan en huitièmes",
-      "summary": "Samsunspor a surpris Rayo Vallecano 1-0 tandis que Lech Poznan a éliminé Shakhtar Donetsk 2-1 lors des 8es de finale aller. Mayence a dominé Sigma Olomouc 2-0 dans cette phase. Ces résultats inattendus secouent la compétition européenne mineure.",
-      "why": "Les performances des clubs turc et polonais créent des surprises majeures et diversifient les affiches des prochains tours.",
-      "category": "Football"
+      "title": "Cyclisme : Tom Pidcock remporte Milan-Turin avec une attaque décisive",
+      "summary": "Tom Pidcock a gagné la 106e édition de Milan-Turin le 18 mars grâce à une attaque lancée à 600 mètres de l'arrivée, devançant Tobias Johannessen et Primoz Roglic. C'est sa deuxième victoire de la saison après le Tour d'Andalousie. Le Britannique de Pinarello - Q36.5 confirme sa forme ascendante avant Milan-San Remo.",
+      "why": "Cette classique italienne sert de préparation idéale pour Milan-San Remo ce week-end et met Pidcock en lice pour les grandes classiques printanières.",
+      "category": "Autre"
     }
   ],
   "updates": []
