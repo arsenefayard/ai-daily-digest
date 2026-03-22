@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Les carottes étaient originellement blanches",
-      "summary": "Les carottes sauvages, originaires d'Asie centrale, étaient à l'origine blanches ou violettes il y a environ cinq mille ans. Les agriculteurs européens ont sélectionné des variétés jaunes puis orange au XVIe siècle pour des raisons gustatives et symboliques, l'orange rendant hommage à la maison de Nassau. Cette évolution botanique a transformé cet aliment quotidien en icône de la nutrition moderne.",
-      "why": "Ce fait illustre comment la sélection humaine modifie la nature et influence notre alimentation contemporaine.",
-      "category": "Science pop"
-    },
-    {
-      "title": "L'imprimerie inventée par Gutenberg vers 1440",
-      "summary": "Johannes Gutenberg a développé l'imprimerie à caractères mobiles vers 1440 en Allemagne, révolutionnant la diffusion du savoir en Europe. Avant cela, les livres étaient copiés à la main, limitant leur accès aux élites. Son invention a permis la production de masse de la Bible de Gutenberg, accélérant la Renaissance et la Réforme.",
-      "why": "Elle marque le début de l'ère de l'information accessible, fondement de la société du savoir actuelle.",
+      "title": "Le règne record de Louis XIV",
+      "summary": "Louis XIV, roi de France, a détenu le record du règne le plus long de l'histoire avec soixante-douze ans et cent dix jours au pouvoir, de 1643 à 1715. Ce monarque absolu a centralisé le pouvoir, construit le palais de Versailles et marqué l'Europe par sa politique expansionniste. Son long règne a façonné l'image de la monarchie absolue et influencé les arts et la culture française pour des siècles.",
+      "why": "Ce record illustre comment un seul dirigeant peut transformer un pays et laisse un héritage durable en architecture, politique et culture européenne.",
       "category": "Histoire"
     },
     {
-      "title": "Le Point Némo, lieu le plus isolé de la Terre",
-      "summary": "Le Point Némo, situé dans l'océan Pacifique sud, est le point terrestre le plus éloigné de toute terre émergée, à plus de deux mille six cent kilomètres des îles les plus proches. Nommé d'après le capitaine Nemo de Jules Verne, il sert d'atterrissage pour les débris spatiaux. Cette zone hyperocéanique abrite une biodiversité unique et mystérieuse.",
-      "why": "Il symbolise les limites de l'exploration humaine et les secrets encore intacts des océans.",
-      "category": "Géographie"
+      "title": "L'imprimerie de Gutenberg",
+      "summary": "Vers 1440, Johannes Gutenberg a inventé l'imprimerie à caractères mobiles en Europe, révolutionnant la diffusion du savoir en permettant la production massive de livres. Cette innovation a accéléré la Renaissance, la Réforme et l'éducation des masses en rendant les textes accessibles au-delà des manuscrits monastiques. Elle a posé les bases de la presse moderne et de la société de l'information.",
+      "why": "Cette invention a démocratisé la connaissance et changé le cours de l'histoire en favorisant les mouvements intellectuels et scientifiques majeurs.",
+      "category": "Science pop"
     },
     {
-      "title": "Les larmes révèlent la cause des émotions",
-      "summary": "Selon une croyance populaire analysée scientifiquement, la première larme coulant de l'œil droit indiquerait de la joie, tandis que celle de l'œil gauche signalerait du chagrin. Bien que non prouvée, cette idée fascine en reliant physiologie et émotions. Elle apparaît dans des ouvrages de littérature jeunesse explorant les mystères humains.",
-      "why": "Ce concept mêle science et mythe, invitant à réfléchir sur la lecture des émotions humaines.",
+      "title": "Les larmes qui révèlent les émotions",
+      "summary": "Les larmes humaines portent des marqueurs chimiques distincts selon l'émotion : celles de joie diffèrent compositionnellement de celles de tristesse, permettant potentiellement une analyse scientifique de l'état émotionnel. Cette découverte montre que le corps exprime les sentiments au niveau moléculaire, au-delà des expressions faciales. Elle ouvre des perspectives en psychologie et en médecine pour mieux comprendre et traiter les troubles émotionnels.",
+      "why": "Cela démontre la sophistication du corps humain et enrichit notre compréhension des émotions, avec des applications en santé mentale.",
       "category": "Psychologie"
     },
     {
-      "title": "Les soldats chinois s'entraînaient avec des aiguilles au col",
-      "summary": "Dans l'ancienne Chine, les nouveaux soldats recevaient des aiguilles plantées dans le col de leur tunique pour les forcer à garder la tête haute pendant l'entraînement. Cette méthode disciplinaire visait à inculquer posture et endurance. Elle reflète les rigueurs des armées impériales dans l'art de la guerre.",
-      "why": "Cette anecdote révèle les techniques ingénieuses de formation militaire antiques toujours sources d'inspiration.",
+      "title": "La torture par chatouilles chez les Romains",
+      "summary": "Dans la Rome antique, les Romains utilisaient les chatouilles comme méthode de torture en attachant les victimes et en laissant des chèvres lécher leurs pieds trempés dans de l'eau salée, provoquant une souffrance insoutenable sans traces visibles. Cette pratique révélait la cruauté ingénieuse des punitions antiques, évitant les dommages permanents tout en brisant psychologiquement les prisonniers. Elle illustre les méthodes variées de contrôle social dans l'Empire romain.",
+      "why": "Cette anecdote met en lumière les aspects sombres et inventifs des pratiques punitives antiques, contrastant avec les normes modernes.",
+      "category": "Insolite"
+    },
+    {
+      "title": "Le plus ancien pays du monde : l'Égypte",
+      "summary": "L'Égypte est considérée comme le plus ancien pays du monde, avec une continuité politique et culturelle remontant à 3100 avant notre ère, sous la première dynastie pharaonique. Ses frontières et son identité ont perduré à travers les millénaires malgré invasions et changements dynastiques. Ce statut souligne sa résilience et son rôle fondateur dans l'histoire humaine.",
+      "why": "Cela ancre l'Égypte comme berceau de la civilisation et offre une perspective sur la longévité des nations face aux tumultes historiques.",
       "category": "Histoire"
     }
   ],
