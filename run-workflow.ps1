@@ -26,6 +26,8 @@ if (-not $env:GITHUB_TOKEN) {
   Write-Host "GITHUB_TOKEN vide dans .env" -ForegroundColor Red
   exit 1
 }
+# Nettoyage espaces / retours (évite 401 si copier-coller)
+$env:GITHUB_TOKEN = $env:GITHUB_TOKEN.Trim()
 
 $headers = @{
   Authorization = "Bearer $($env:GITHUB_TOKEN)"
