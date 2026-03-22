@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
-      "summary": "Meta a annoncé le report de son modèle d'intelligence artificielle baptisé Avocado au moins jusqu'en mai 2026, car ses performances en raisonnement et en génération de code restent inférieures à celles des leaders comme Google, OpenAI et Anthropic. Ce retard survient malgré des investissements massifs de 107 milliards de dollars dans le développement de ce modèle. Cette décision met en lumière les défis techniques rencontrés par Meta pour rivaliser dans la course aux modèles avancés.",
-      "why": "Ce report embarrassant souligne les difficultés de Meta à maintenir son avance en IA générative et pourrait impacter sa position stratégique face à la concurrence accrue.",
+      "title": "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative",
+      "summary": "Le Centre de recherche pour l'étude et l'observation des conditions de vie (Crédoc) publie l'édition 2026 du baromètre du numérique, révélant que 48% des Français ont utilisé l'intelligence artificielle générative en 2025, marquant une adoption fulgurante passée de 20% en 2023. Cette progression concerne particulièrement les 18-24 ans et dans une moindre mesure les 25-39 ans, surpassant même l'adoption d'internet qui a mis cinq ans pour atteindre un niveau similaire. Malgré cela, 52% des personnes restent méfiantes envers l'IA, bien que la confiance progresse de 5 points en un an.",
+      "why": "Cette statistique illustre l'accélération massive de l'adoption de l'IA en France, avec des implications sociétales et économiques majeures pour les politiques publiques et les entreprises.",
+      "category": "Application"
+    },
+    {
+      "title": "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 des préoccupations mondiales",
+      "summary": "Dans sa quinzième édition du baromètre des risques internationaux, Allianz place l'intelligence artificielle parmi les cinq risques majeurs dans toutes les régions et secteurs, entrant directement dans le top 10 avec la plus forte progression. À l'échelle européenne, l'IA se hisse à la troisième place avec 29% des préoccupations, aux côtés des cyberincidents. Les risques identifiés incluent les aspects opérationnels, juridiques, de conformité et réputationnels, avec une gouvernance de l'IA comme priorité urgente pour 2026.",
+      "why": "Ce classement reflète le passage de l'IA de l'expérimentation à la mise à l'échelle industrielle, imposant une gestion rigoureuse des risques pour les entreprises mondiales.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Meta retarde son modèle Avocado à mai pour performances insuffisantes",
+      "summary": "Meta annonce le report de son modèle d'IA Avocado au moins jusqu'en mai 2026, ses performances en raisonnement et codage étant inférieures à celles de Google, OpenAI et Anthropic. Ce retard survient après 107 milliards de dollars d'investissements dans l'IA, constituant un aveu embarrassant pour l'entreprise. Avocado devait concurrencer les leaders du marché mais peine à atteindre les benchmarks attendus.",
+      "why": "Ce report met en lumière les défis techniques persistants dans la course aux modèles avancés et pourrait affecter la position de Meta face à ses concurrents.",
       "category": "Modèle"
     },
     {
-      "title": "Meta acquiert Moltbook, réseau social pour bots IA, et intègre son équipe dans ses labs",
-      "summary": "Meta a racheté Moltbook, une plateforme sociale dédiée exclusivement aux bots d'intelligence artificielle, et a intégré son équipe au sein de Meta Superintelligence Labs. Cette acquisition vise à accélérer les avancées en interactions sociales automatisées et en superintelligence. Elle s'inscrit dans une stratégie plus large de Meta pour dominer les écosystèmes IA multi-agents.",
-      "why": "Cette opération renforce les capacités de Meta en IA sociale et pourrait transformer les interactions numériques en intégrant des bots avancés dans les plateformes quotidiennes.",
+      "title": "Meta acquiert Moltbook, réseau social pour bots IA",
+      "summary": "Meta rachète Moltbook, une plateforme dédiée aux réseaux sociaux de bots IA, et intègre son équipe au sein de Meta Superintelligence Labs. Cette acquisition vise à accélérer les avancées en intelligence artificielle superintelligente en exploitant les innovations de Moltbook. Elle s'inscrit dans la stratégie plus large de Meta pour dominer les interactions IA personnalisées.",
+      "why": "Cette opération stratégique renforce les capacités de Meta en IA conversationnelle et multi-agents, avec un potentiel impact sur les futurs produits sociaux.",
       "category": "Entreprise"
     },
     {
       "title": "Sept IDE leaders se disputent le marché du développement multi-agent",
-      "summary": "Le marché des environnements de développement intégrés (IDE) connaît une explosion avec sept outils principaux qui rivalisent pour dominer le développement assisté par agents IA multi-agents. Ces IDE intègrent des capacités agentiques pour automatiser le codage collaboratif et complexe. Cette concurrence stimule l'innovation dans les outils de programmation intelligents.",
-      "why": "Cette compétition accélère l'adoption des agents IA dans le développement logiciel, rendant le codage plus efficace et accessible aux développeurs.",
+      "summary": "Le marché des IDE (environnements de développement intégrés) pour le développement multi-agent connaît une explosion, avec sept acteurs principaux en concurrence acharnée. Ces outils facilitent la création d'agents IA collaboratifs pour le codage avancé. Cursor passe notamment en version 2.6 avec intégration MCP Apps et JetBrains, intensifiant la compétition.",
+      "why": "Cette dynamique accélère l'innovation dans le codage agentique, transformant les pratiques de développement logiciel pour les entreprises et développeurs.",
       "category": "Application"
-    },
-    {
-      "title": "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
-      "summary": "Mistral AI, en partenariat avec la Direction interministérielle du numérique (DINUM), a déployé un assistant d'intelligence artificielle souverain destiné à 30 000 agents publics en France. Cet outil garantit la souveraineté des données et répond aux besoins administratifs spécifiques. Il marque une étape clé dans l'adoption de l'IA au sein des services publics.",
-      "why": "Ce déploiement démontre l'intégration réussie de l'IA souveraine dans l'administration, renforçant la sécurité et l'indépendance numérique de la France.",
-      "category": "Application"
-    },
-    {
-      "title": "xAI lance Grok 4.20 Beta 2, version optimisée pour le codage",
-      "summary": "xAI a publié Grok 4.20 Beta 2, une version bêta de son modèle focalisée sur la génération et l'optimisation de code avec des améliorations significatives en précision et vitesse. Ce modèle s'appuie sur les avancées précédentes de Grok pour concurrencer les outils comme Codex d'OpenAI. Il est disponible pour les tests en environnement de développement.",
-      "why": "Cette sortie positionne xAI comme un acteur majeur dans l'IA dédiée au codage, favorisant l'innovation dans les outils de programmation assistée.",
-      "category": "Modèle"
     }
   ],
   "updates": []
