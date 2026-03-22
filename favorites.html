@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+<title>Favoris</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600&family=DM+Mono:wght@300;400&family=Outfit:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #06080d; --ink: #e8e4dc; --muted: #6b7280;
+  --border: rgba(255,255,255,0.06);
+  --header-h: 56px;
+}
+html, body {
+  min-height: 100%;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+  opacity: 0.35;
+}
+.wrap { position: relative; z-index: 1; max-width: 520px; margin: 0 auto; padding: 20px 18px 40px; }
+header.top {
+  margin-bottom: 22px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+h1 {
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+.count {
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 6px;
+  letter-spacing: 0.5px;
+}
+.theme-block { margin-bottom: 28px; }
+.theme-head {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  padding-left: 2px;
+}
+.fav-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 14px 14px 12px;
+  margin-bottom: 10px;
+  border-left: 3px solid var(--accent, #fbbf24);
+}
+.fav-date {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.fav-title {
+  font-family: 'Fraunces', serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-bottom: 8px;
+}
+.fav-note {
+  font-size: 13px;
+  line-height: 1.55;
+  color: rgba(232,228,220,0.72);
+  margin-bottom: 12px;
+  white-space: pre-wrap;
+}
+.fav-note:empty { display: none; }
+.fav-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.btn {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(0,0,0,0.25);
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn-primary {
+  border-color: rgba(251,191,36,0.35);
+  color: #fbbf24;
+}
+.btn-danger {
+  border-color: rgba(248,113,113,0.35);
+  color: #f87171;
+}
+.toolbar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.empty {
+  text-align: center;
+  padding: 40px 16px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Favoris ⭐</h1>
+    <p class="count" id="fav-count">0 favori</p>
+  </header>
+  <div class="toolbar">
+    <a class="btn" href="index.html">← Retour</a>
+    <button type="button" class="btn btn-danger" id="clear-all">Tout effacer</button>
+  </div>
+  <div id="root"></div>
+</div>
+<script>
+function loadAllFavs() {
+  const list = [];
+  try {
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (!key || !key.startsWith('fav_')) continue;
+      try {
+        const raw = localStorage.getItem(key);
+        if (!raw) continue;
+        const o = JSON.parse(raw);
+        if (o && typeof o.savedAt === 'number') {
+          list.push({ key, ...o });
+        }
+      } catch (_) {}
+    }
+  } catch (_) {}
+  return list.sort((a, b) => b.savedAt - a.savedAt);
+}
+
+function groupByTheme(items) {
+  const g = {};
+  for (const it of items) {
+    const t = it.theme || 'Autre';
+    if (!g[t]) g[t] = [];
+    g[t].push(it);
+  }
+  for (const k of Object.keys(g)) {
+    g[k].sort((a, b) => b.savedAt - a.savedAt);
+  }
+  return g;
+}
+
+function render() {
+  const items = loadAllFavs();
+  const root = document.getElementById('root');
+  const cnt = document.getElementById('fav-count');
+  cnt.textContent = items.length + ' favori' + (items.length !== 1 ? 's' : '');
+  if (!items.length) {
+    root.innerHTML = '<p class="empty">Aucun favori pour le moment. Enregistre une carte depuis un digest (étoile ☆).</p>';
+    return;
+  }
+  const groups = groupByTheme(items);
+  const order = Object.keys(groups).sort((a, b) => {
+    const ta = groups[a][0].savedAt;
+    const tb = groups[b][0].savedAt;
+    return tb - ta;
+  });
+  let html = '';
+  for (const theme of order) {
+    const color = groups[theme][0].themeColor || '#fbbf24';
+    html += '<section class="theme-block">';
+    html += '<div class="theme-head" style="color:' + color + '">' + escapeHtml(theme) + '</div>';
+    for (const f of groups[theme]) {
+      html += '<article class="fav-card" style="--accent:' + color + '">';
+      html += '<div class="fav-date">' + escapeHtml(f.date || '') + '</div>';
+      html += '<div class="fav-title">' + escapeHtml(f.title || '') + '</div>';
+      if (f.note) html += '<div class="fav-note">' + escapeHtml(f.note) + '</div>';
+      html += '<div class="fav-actions">';
+      if (f.url) {
+        html += '<a class="btn btn-primary" href="' + escapeAttr(f.url) + '" target="_blank" rel="noopener">Ouvrir</a>';
+      }
+      html += '<button type="button" class="btn btn-danger" data-key="' + escapeAttr(f.key) + '">Supprimer</button>';
+      html += '</div></article>';
+    }
+    html += '</section>';
+  }
+  root.innerHTML = html;
+  root.querySelectorAll('button[data-key]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const k = btn.getAttribute('data-key');
+      try { localStorage.removeItem(k); } catch (_) {}
+      render();
+    });
+  });
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function escapeAttr(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;');
+}
+
+document.getElementById('clear-all').addEventListener('click', () => {
+  if (!confirm('Supprimer tous les favoris de cet appareil ?')) return;
+  try {
+    const keys = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (k && k.startsWith('fav_')) keys.push(k);
+    }
+    keys.forEach(k => { try { localStorage.removeItem(k); } catch (_) {} });
+  } catch (_) {}
+  render();
+});
+
+render();
+</script>
+</body>
+</html>
