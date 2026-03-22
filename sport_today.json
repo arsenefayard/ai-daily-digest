@@ -2,49 +2,42 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Milan-San Remo : Tom Pidcock remporte le classique du cyclisme sur route",
-      "summary": "Le cycliste britannique Tom Pidcock a remporté dimanche la classique milanaise Milan-San Remo avec une attaque décisive dans les derniers kilomètres. Cette victoire confirme le retour en forme de Pidcock après une période difficile et lui permet de s'imposer face à une concurrence relevée sur l'une des plus prestigieuses courses d'une journée du calendrier cycliste mondial. Le succès de Pidcock marque un tournant important dans la saison printanière du cyclisme sur route.",
-      "why": "Milan-San Remo est l'une des cinq Monumens du cyclisme professionnel et sa victoire par un coureur britannique de haut niveau représente un résultat majeur qui redessine les hiérarchies de la saison printanière.",
+      "title": "Tom Pidcock triomphe sur Milan-San Remo avec une attaque magistrale",
+      "summary": "Le Britannique Tom Pidcock a remporté la classique Milan-San Remo ce dimanche en lançant une attaque décisive dans les derniers kilomètres, devançant ses rivaux au sprint final. Cette victoire marque son premier succès dans cette course mythique du cyclisme mondial. Pidcock conforte ainsi sa position parmi les leaders de la saison printanière.",
+      "why": "Milan-San Remo est l'une des cinq monuments du cyclisme, et cette victoire inattendue de Pidcock relance la course au classement WorldTour.",
       "category": "Autre"
     },
     {
-      "title": "Ligue 1 - Journée 27 : Lens reprend la tête du classement",
-      "summary": "À l'issue de la vingt-septième journée de Ligue 1 disputée ce week-end, le Racing Club de Lens a repris la première place du classement en devançant ses concurrents directs. Cette performance confirme la solidité de l'équipe nordiste qui maintient une dynamique positive tout au long de la saison régulière. La reprise de la tête par Lens relance la lutte pour le titre de champion de France avec plusieurs équipes toujours en lice.",
-      "why": "La reprise de la tête du classement par Lens est décisive pour la course au titre en Ligue 1 et montre l'intensité de la compétition à quelques journées de la fin de la saison régulière.",
+      "title": "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
+      "summary": "Le RC Lens a profité des résultats de la 27e journée de Ligue 1 pour reprendre la tête du championnat de France, grâce à une victoire convaincante à domicile. Les Sang et Or comptent désormais un point d'avance sur leurs poursuivants directs. Cette performance renforce leurs ambitions pour le titre.",
+      "why": "La bataille pour le titre en Ligue 1 s'intensifie, et Lens émerge comme un outsider sérieux face aux cadors habituels.",
       "category": "Football"
     },
     {
-      "title": "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
-      "summary": "Le joueur français Atmane a réussi à se qualifier pour le deuxième tour d'un tournoi de tennis majeur en remportant son match d'ouverture. Cette progression confirme le potentiel du jeune talent français qui continue à progresser dans le classement mondial. La performance d'Atmane représente un signal positif pour le tennis français en cette période de printemps.",
-      "why": "La progression d'un joueur français dans un tournoi majeur est importante pour le développement du tennis hexagonal et montre l'émergence de nouveaux talents sur la scène internationale.",
+      "title": "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont facilement remporté leurs matchs d'entrée au Miami Open, ce Masters 1000 perturbé par des averses tropicales qui ont retardé le programme. Les deux numéros un mondiaux affichent une forme impeccable en ce début de tournoi. Leurs victoires propulsent les favoris vers les phases finales.",
+      "why": "Le Miami Open est un rendez-vous clé du tennis printanier, et les performances des leaders valident leur statut avant les grands chelems.",
       "category": "Tennis"
     },
     {
-      "title": "Biathlon : Premier sacre pour Perrot",
-      "summary": "Le biathlète français Perrot a remporté sa première victoire majeure en compétition internationale, marquant ainsi un tournant décisif dans sa carrière sportive. Cette consécration intervient après plusieurs années de travail acharné et de progression constante au sein de l'équipe de France de biathlon. Le succès de Perrot ouvre des perspectives prometteuses pour les compétitions à venir et renforce la position de la France dans cette discipline.",
-      "why": "Le premier sacre d'un athlète français en biathlon est un événement significatif qui marque l'émergence d'un nouveau champion et renforce la compétitivité française dans cette discipline hivernale.",
+      "title": "Biathlon : Le Français Perrot signe son premier sacre mondial",
+      "summary": "Le biathlète français Perrot a remporté sa première médaille d'or en Coupe du monde lors d'une épreuve disputée ce week-end, marquant un tournant dans sa carrière. Sa précision au tir et sa vitesse au ski ont surpassé les favoris. Cette victoire booste le moral de l'équipe de France avant les Championnats du monde.",
+      "why": "Ce premier titre individuel propulse Perrot parmi l'élite mondiale et renforce la domination française en biathlon.",
       "category": "Autre"
     },
     {
-      "title": "UFC Fight Night : Lemos vs Robertson à Londres",
-      "summary": "L'événement UFC Fight Night s'est déroulé samedi à la O2 Arena de Londres avec le combat principal opposant Lemos à Robertson. Cette soirée de combats de haut niveau a rassemblé les meilleures combattantes de la catégorie féminin dans un affrontement très attendu par les fans d'arts martiaux mixtes. Le déroulement de cet événement confirme le dynamisme du calendrier UFC au printemps 2026.",
-      "why": "Les événements UFC Fight Night sont des étapes importantes du calendrier des arts martiaux mixtes et attirent une audience mondiale importante, particulièrement en Europe.",
-      "category": "Autre"
+      "title": "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000",
+      "summary": "Le Français Atmane a surpris son adversaire direct pour se qualifier au deuxième tour d'un prestigieux Masters 1000 ce week-end, confirmant sa progression fulgurante. Ce résultat inattendu met en lumière le vivier de talents tricolores. Atmane vise désormais un tableau final historique.",
+      "why": "Cette performance d'Atmane illustre l'émergence de la nouvelle génération française et dynamise le tennis hexagonal.",
+      "category": "Tennis"
     }
   ],
   "updates": [
     {
-      "title": "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "original": "Huitièmes de finale retour de Ligue des Champions en cours",
-      "summary": "Liverpool a remporté une victoire écrasante contre Galatasaray lors du huitième de finale retour de la Ligue des Champions, se qualifiant ainsi pour les quarts de finale. Le club anglais affrontera désormais le Paris Saint-Germain dans la phase suivante de la compétition, promettant un duel de prestige entre deux géants européens. Cette qualification confirme la domination de Liverpool dans cette édition de la Ligue des Champions.",
-      "why": "La qualification de Liverpool et l'affrontement PSG-Liverpool en quarts de finale représentent un changement majeur dans le scénario de la Ligue des Champions avec un choc de très haut niveau.",
-      "category": "Football"
-    },
-    {
-      "title": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
-      "original": "Huitièmes de finale retour d'Europa League en cours",
-      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa par le Celta Vigo lors des huitièmes de finale retour, mettant fin prématurément à l'aventure européenne du club rhodanien. Cette élimination surprise représente une déception majeure pour l'OL qui visait une profonde course en Ligue Europa. Le Celta Vigo se qualifie pour les quarts de finale en réalisant un exploit face à l'équipe française.",
-      "why": "L'élimination de l'OL, un club français majeur, dès les huitièmes de finale est un résultat inattendu qui modifie significativement le paysage de la Ligue Europa.",
+      "title": "Ligue Europa : L'OL éliminé de manière choc par le Celta Vigo",
+      "original": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
+      "summary": "L'Olympique Lyonnais a été sorti en huitièmes de finale retour par le Celta Vigo, confirmant une élimination précoce malgré un match aller encourageant. Les Gones ont craqué en seconde période sous la pression galicienne. Cette défaite ruine leurs espoirs européens pour cette saison.",
+      "why": "L'élimination précoce de l'OL, club historique, provoque un séisme en Ligue 1 et questionne la stratégie de l'entraîneur.",
       "category": "Football"
     }
   ]
