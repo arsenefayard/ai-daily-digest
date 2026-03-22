@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Oscillations de luminosité dans la supernova superlumineuse 2024afav confirmées par quatre sursauts",
-      "summary": "Des astronomes ont observé pour la première fois quatre sursauts de luminosité confirmés dans la supernova superlumineuse 2024afav, avec des intervalles diminuant de 50 à 20 jours. Ces oscillations sont attribuées à la précession d'un disque d'accrétion autour d'un magnétar naissant, un phénomène des centaines de millions de fois plus intense que sur Terre. Cette découverte renforce le modèle des supernovas alimentées par magnétars et pave la voie à des études futures avec le LSST.",
-      "why": "Elle fournit des preuves observationnelles solides pour un mécanisme clé de formation des magnétars et pourrait résoudre le mystère des supernovas superlumineuses.",
-      "category": "Espace"
-    },
-    {
-      "title": "Détection de silice cristallisée (opale, calcédoine, quartz) dans le cratère Jezero par Perseverance",
-      "summary": "Le rover Perseverance a identifié une forte concentration de silice sous formes d'opale, calcédoine et quartz bien cristallisé dans une roche du rebord du cratère Jezero. Ces minéraux indiquent des processus géologiques hydrothermaux similaires à ceux de la Terre, impliquant précipitation et cristallisation. Cette découverte concurrence les argiles à kaolinite et guide la priorisation des carottes pour le retour d'échantillons.",
-      "why": "Elle révèle une histoire géologique complexe sur Mars, analogue à la Terre, et affine les cibles pour les futures analyses terrestres.",
-      "category": "Espace"
-    },
-    {
-      "title": "Première identification de minéraux réox sensibles sur Mars par Perseverance",
-      "summary": "Grâce à des instruments robotiques et analyses à distance, l'équipe de Perseverance a détecté pour la première fois des minéraux réox sensibles aux conditions d'oxydation ou réduction chimique dans des roches martiennes. Ces minéraux préservent des informations sur l'environnement chimique ancien de la planète. Cette avancée éclaire les processus redox passés sur Mars.",
-      "why": "Elle offre un aperçu inédit des conditions chimiques anciennes de Mars, crucial pour évaluer son habitabilité potentielle.",
-      "category": "Espace"
-    },
-    {
-      "title": "Observation de microcharges électrostatiques dues à des grains minéraux sur Mars",
-      "summary": "Des rencontres répétées de grains minéraux chargés électriquement dans l'air sec de Mars produisent des microcharges électrostatiques, confirmant un phénomène auparavant hypothétique. Ce processus électrostatique a des implications pour la chimie atmosphérique et la dust devils martiens. Les données des rovers valident ce mécanisme in situ.",
-      "why": "Cette découverte explique des phénomènes atmosphériques martiens et impacte les modèles climatiques planétaires.",
+      "title": "Oscillations de luminosité confirmées dans la supernova superlumineuse 2024afav par quatre sursauts",
+      "summary": "Des astronomes ont observé pour la première fois quatre sursauts d'oscillations de luminosité dans la supernova superlumineuse 2024afav, avec des intervalles diminuant de 50 à 20 jours. Ces observations, réalisées avec une précision inédite, soutiennent le modèle selon lequel ces supernovas sont alimentées par des magnétars dont le disque d'accrétion précesse en raison de l'effet Lense-Thirring. À l'avenir, le télescope Vera C. Rubin permettra d'étudier des milliers de ces objets pour tester davantage ce modèle.[2]",
+      "why": "Cette découverte fournit des preuves solides pour l'origine des supernovas superlumineuses et ouvre la voie à une meilleure compréhension des phénomènes extrêmes dans l'univers.",
       "category": "Espace"
     },
     {
       "title": "Corrélation potentiellement importante découverte pour la matière noire",
-      "summary": "Une nouvelle observation suggère une corrélation significative liée à la matière noire, bien que les détails précis restent à préciser dans les données récentes. Cette avancée provient d'analyses astrophysiques actuelles et pourrait lier des phénomènes cosmiques à la composante manquante de l'univers. Elle ouvre des perspectives pour de futures vérifications.",
-      "why": "Si confirmée, elle représenterait une percée majeure dans la compréhension de la matière noire, un des plus grands mystères de la cosmologie.",
+      "summary": "Une étude récente a identifié une corrélation significative dans les données qui pourrait révéler la nature de la matière noire, longtemps insaisissable. Cette avancée repose sur des observations précises de distributions galactiques inhabituelles. Elle pourrait révolutionner notre compréhension de la composition de l'univers.[2]",
+      "why": "Si confirmée, cette corrélation offrirait la première piste concrète sur la matière noire, représentant environ 27 % de l'univers.",
       "category": "Physique"
+    },
+    {
+      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
+      "summary": "Des chercheurs ont découvert une protéine spécifique impliquée dans les mécanismes cérébraux de l'addiction à la cocaïne chez les mammifères. Cette protéine module les réponses dopaminergiques dans le circuit de la récompense. Elle ouvre des perspectives pour développer de nouveaux traitements contre les dépendances.[3]",
+      "why": "Cette identification permet de cibler précisément les thérapies pharmacologiques, potentiellement réduisant les rechutes chez les patients.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Neutrino ultra-énergétique détecté, possiblement issu d'un blazar",
+      "summary": "Le neutrino le plus énergétique jamais observé a été détecté et pourrait provenir d'un blazar, un noyau galactique actif émettant des jets relativistes. Cette détection relie les messagers cosmiques de haute énergie à des sources astrophysiques précises. Elle affine les modèles de production de particules extrêmes.[3]",
+      "why": "Elle confirme l'origine cosmique des neutrinos de haute énergie et guide les futures observations multi-messagers.",
+      "category": "Physique"
+    },
+    {
+      "title": "Hérissons sensibles aux ultrasons, implications pour leur protection",
+      "summary": "Une étude révèle que les hérissons perçoivent les ultrasons émis par les infrastructures humaines, ce qui perturbe leur comportement et leur habitat. Cette sensibilité inédite explique leur déclin dans les zones urbaines. Des mesures acoustiques adaptées pourraient être mises en place pour les préserver.[3]",
+      "why": "Cette découverte permet de concevoir des stratégies de conservation efficaces contre l'urbanisation bruyante.",
+      "category": "Biologie"
     }
   ],
   "updates": []
