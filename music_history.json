@@ -1,15 +1,5 @@
 [
   {
-    "date": "21/03/2026",
-    "titles": [
-      "Gaerea sort son nouvel album Loss le 20 mars",
-      "The Dear Hunter dévoile Sunya le 20 mars",
-      "Taylor Swift annonce une résidence à Las Vegas",
-      "Drake bat un nouveau record de streams sur Spotify",
-      "Charlotte de Witte headliner du Tomorrowland 2026"
-    ]
-  },
-  {
     "date": "22/03/2026",
     "titles": [
       "Threat Signal dévoile Revelations le 27 mars en metalcore",
@@ -67,6 +57,16 @@
       "Barbara Pravi au Zénith de Paris le 26 mars avec sa voix puissante",
       "Jazz en Nord s'étend jusqu'au 4 mai 2026 dans le Nord de la France",
       "Paris Music Festival du 18 au 22 mars à Paris"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Lara Fabian de retour à l'Accor Arena le 10 mars",
+      "Coeur de Pirate en concert intime à l'Olympia le 12 mars",
+      "Rosalia annonce des concerts très attendus à l'Accor Arena",
+      "Salaisse Blues Festival ouvre ses portes le 27 mars",
+      "Aspects, festival des musiques d'aujourd'hui à Caen du 17 au 22 mars"
     ]
   }
 ]
