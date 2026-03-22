@@ -6,6 +6,12 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
+_MONTHS_FR = (
+    "janvier", "février", "mars", "avril", "mai", "juin",
+    "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+)
+
+
 def send_combined_email():
     sender   = os.environ.get('SENDER_EMAIL')
     password = os.environ.get('EMAIL_PASSWORD')
@@ -17,103 +23,171 @@ def send_combined_email():
     username = repo.split('/')[0] if '/' in repo else ''
     reponame = repo.split('/')[1] if '/' in repo else ''
     base = f"https://{username}.github.io/{reponame}"
-    date_str = datetime.now().strftime('%d/%m/%Y')
+    now = datetime.now()
+    date_str = now.strftime('%d/%m/%Y')
+    date_header = f"{now.day} {_MONTHS_FR[now.month - 1]} {now.year}"
+    year = now.year
 
     html = f"""
 <html>
 <head><meta charset="UTF-8"></head>
-<body style="margin:0;padding:40px 20px;background:#1a1a1a;font-family:Georgia,serif;">
-<div style="max-width:560px;margin:0 auto;background:#111111;border:0.5px solid #2a2a2a;">
+<body style="margin:0;padding:0;background:#1a1a1a;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#1a1a1a;">
+<tr><td align="center" style="padding:30px 16px;">
+<table width="560" cellpadding="0" cellspacing="0" border="0" style="background:#222222;max-width:560px;">
 
-  <!-- Header -->
-  <div style="background:#0a0a0a;padding:22px 32px;border-bottom:0.5px solid #2a2a2a;">
-    <div style="display:flex;align-items:center;justify-content:space-between;">
-      <div style="display:flex;align-items:center;gap:14px;">
-        <div style="width:2px;height:34px;background:#c8a96e;flex-shrink:0;"></div>
-        <div>
-          <div style="font-size:16px;font-weight:500;color:#f0ede6;letter-spacing:0.3px;font-family:Georgia,serif;">Daily Briefing</div>
-          <div style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-top:3px;">Veille Stratégique</div>
-        </div>
-      </div>
-      <div style="text-align:right;">
-        <div style="font-size:11px;color:#c8a96e;font-family:Georgia,serif;font-style:italic;">{date_str}</div>
-        <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#444;font-family:Arial,sans-serif;margin-top:3px;">Édition matinale</div>
-      </div>
-    </div>
-  </div>
+  <!-- HEADER -->
+  <tr>
+    <td style="background:#1a1a1a;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+            <div style="font-size:9px;letter-spacing:3px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-bottom:8px;">{date_header} · Édition matinale</div>
+            <div style="font-size:32px;font-weight:700;color:#f0ede6;line-height:1;font-family:Georgia,serif;">DAILY<br>BRIEFING</div>
+            <div style="margin-top:14px;height:2px;width:40px;background:#c8a96e;"></div>
+          </td>
+          <td align="right" valign="top">
+            <div style="font-size:9px;letter-spacing:2px;color:#444;font-family:Arial,sans-serif;">VOL. 01</div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-  <!-- Ligne dorée -->
-  <div style="height:1px;background:#c8a96e;opacity:0.25;"></div>
+  <!-- SPACER -->
+  <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <!-- Grille 2 colonnes -->
-  <div style="padding:16px 16px 12px;display:grid;grid-template-columns:1fr 1fr;gap:7px;">
+  <!-- LIGNE 1 : IA + GEO -->
+  <tr>
+    <td style="padding:0;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="50%" style="background:#2d3d2e;padding:22px 20px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#5aaa72;font-family:Arial,sans-serif;margin-bottom:10px;">Intelligence Artificielle</div>
+            <div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Modèles, régulation<br>et entreprises tech</div>
+            <div style="margin-top:14px;"><a href="{base}/" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#5aaa72;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+          <td width="2" style="background:#111;"></td>
+          <td width="50%" style="background:#1e2a38;padding:22px 20px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#4a88c0;font-family:Arial,sans-serif;margin-bottom:10px;">Géopolitique</div>
+            <div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Conflits, diplomatie<br>et élections mondiales</div>
+            <div style="margin-top:14px;"><a href="{base}/geo.html" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#4a88c0;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-    <a href="{base}/" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#5aaa72;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Intelligence Artificielle</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- SPACER -->
+  <tr><td style="height:2px;background:#111;"></td></tr>
 
-    <a href="{base}/geo.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#4a88c0;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Géopolitique</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- LIGNE 2 : ECO + SPORT -->
+  <tr>
+    <td style="padding:0;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="50%" style="background:#382a1a;padding:22px 20px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#c8862a;font-family:Arial,sans-serif;margin-bottom:10px;">Économie &amp; Finance</div>
+            <div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Marchés, banques<br>et crypto</div>
+            <div style="margin-top:14px;"><a href="{base}/eco.html" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#c8862a;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+          <td width="2" style="background:#111;"></td>
+          <td width="50%" style="background:#38201e;padding:22px 20px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#c84a4a;font-family:Arial,sans-serif;margin-bottom:10px;">Sport</div>
+            <div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Football, tennis,<br>F1 &amp; NBA</div>
+            <div style="margin-top:14px;"><a href="{base}/sport.html" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#c84a4a;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-    <a href="{base}/eco.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#c8862a;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Économie & Finance</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- SPACER -->
+  <tr><td style="height:2px;background:#111;"></td></tr>
 
-    <a href="{base}/sport.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#c84a4a;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Sport</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- LIGNE 3 : MUSIQUE + SCIENCES + CULTURE -->
+  <tr>
+    <td style="padding:0;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="33%" style="background:#261e38;padding:18px 16px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#7a5cc8;font-family:Arial,sans-serif;margin-bottom:8px;">Musique</div>
+            <div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Métal, rock<br>&amp; industrie</div>
+            <div style="margin-top:12px;"><a href="{base}/music.html" style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#7a5cc8;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+          <td width="1" style="background:#111;"></td>
+          <td width="33%" style="background:#1a2e28;padding:18px 16px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#2a9e7a;font-family:Arial,sans-serif;margin-bottom:8px;">Sciences</div>
+            <div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Physique, espace<br>&amp; médecine</div>
+            <div style="margin-top:12px;"><a href="{base}/science.html" style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#2a9e7a;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+          <td width="1" style="background:#111;"></td>
+          <td width="33%" style="background:#2e1a28;padding:18px 16px;vertical-align:top;">
+            <div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#c84a8a;font-family:Arial,sans-serif;margin-bottom:8px;">Culture</div>
+            <div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">Philo, cinéma<br>&amp; insolite</div>
+            <div style="margin-top:12px;"><a href="{base}/culture.html" style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#c84a8a;font-family:Arial,sans-serif;text-decoration:none;">Lire →</a></div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-    <a href="{base}/music.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#7a5cc8;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Musique</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- SPACER -->
+  <tr><td style="height:2px;background:#111;"></td></tr>
 
-    <a href="{base}/science.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#2a9e7a;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Sciences</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- HISTOIRE pleine largeur -->
+  <tr>
+    <td style="background:#2a2010;padding:18px 22px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="4" style="background:#a07840;vertical-align:top;padding-right:14px;"></td>
+          <td style="padding-left:14px;">
+            <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;margin-bottom:6px;">Histoire</div>
+            <div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">Antiquité, guerres &amp; civilisations</div>
+          </td>
+          <td align="right" valign="middle">
+            <a href="{base}/history.html" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;text-decoration:none;white-space:nowrap;">Lire →</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-    <a href="{base}/culture.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#c84a8a;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Culture Générale</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- SPACER -->
+  <tr><td style="height:2px;background:#111;"></td></tr>
 
-    <a href="{base}/history.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
-      <div style="width:2px;height:22px;background:#a07840;flex-shrink:0;"></div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Histoire</div>
-      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
-    </a>
+  <!-- FAVORIS -->
+  <tr>
+    <td style="background:#1e1c10;padding:14px 22px;border-top:1px solid #2a2418;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+            <span style="font-size:13px;color:#c8a96e;">★</span>
+            <span style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:700;margin-left:10px;">Mes Favoris</span>
+          </td>
+          <td align="right">
+            <a href="{base}/favorites.html" style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#554f3a;font-family:Arial,sans-serif;text-decoration:none;">Retrouver →</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-  </div>
+  <!-- FOOTER -->
+  <tr>
+    <td style="background:#111;padding:12px 24px;border-top:1px solid #1e1e1e;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">Diffusion restreinte · Usage professionnel</td>
+          <td align="right" style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">{year}</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-  <!-- Favoris -->
-  <div style="margin:0 16px 16px;padding-top:8px;border-top:0.5px solid #1e1e1e;">
-    <a href="{base}/favorites.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;padding:11px 14px;border:0.5px solid #2a2418;background:#131108;">
-      <div style="font-size:12px;color:#c8a96e;flex-shrink:0;">★</div>
-      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:500;flex:1;">Mes Favoris</div>
-      <div style="font-size:10px;color:#554f3a;font-family:Arial,sans-serif;">→</div>
-    </a>
-  </div>
-
-  <!-- Footer -->
-  <div style="background:#0a0a0a;border-top:0.5px solid #1e1e1e;padding:13px 32px;display:flex;justify-content:space-between;align-items:center;">
-    <div style="font-size:9px;color:#333;font-family:Arial,sans-serif;letter-spacing:1px;text-transform:uppercase;">Diffusion restreinte · Usage professionnel</div>
-    <div style="font-size:9px;color:#333;font-family:Arial,sans-serif;letter-spacing:1px;text-transform:uppercase;">Daily Briefing</div>
-  </div>
-
-</div>
+</table>
+</td></tr>
+</table>
 </body>
 </html>
 """
