@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Explosion des prix des engrais en Europe due à la guerre au Moyen-Orient",
-      "summary": "La guerre en Iran provoque une flambée des prix des engrais en Europe en raison des perturbations dans les approvisionnements mondiaux de matières premières comme l'azote et le phosphate. Les coûts ont augmenté de plus de 50 % en quelques semaines, affectant directement les agriculteurs et les chaînes alimentaires. Cette hausse risque de se répercuter sur les prix des denrées alimentaires, aggravant l'inflation dans la zone euro.",
-      "why": "Cette crise alimentaire potentielle menace la sécurité alimentaire européenne et pourrait forcer les banques centrales à revoir leurs politiques monétaires face à une inflation importée.",
+      "title": "Trump envisage l'envoi d'une force terrestre en Iran",
+      "summary": "Le président américain Donald Trump explore activement les options pour déployer une force terrestre en Iran, au-delà des frappes aériennes actuelles menées avec Israël contre les sites nucléaires et balistiques iraniens. Cette escalade potentielle vise à affaiblir ou changer le régime de Téhéran, selon des sources proches de la Maison Blanche. Les marchés financiers réagissent avec nervosité, craignant une prolongation du conflit qui maintiendrait les prix du pétrole au-dessus de 100 dollars le baril.",
+      "why": "Cette décision pourrait transformer le choc pétrolier actuel en crise prolongée, impactant la croissance mondiale et forçant les banques centrales à durcir leur politique monétaire.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
+      "summary": "Les autorités françaises ont intercepté en mer Méditerranée un tanker suspecté de faire partie de la flotte fantôme russe, utilisée pour contourner les sanctions occidentales sur le pétrole. Cette opération s'inscrit dans un renforcement des contrôles maritimes face aux perturbations géopolitiques au Moyen-Orient. Elle souligne les tensions persistantes entre l'Occident et la Russie, avec des implications sur les flux énergétiques mondiaux.",
+      "why": "L'action renforce l'application des sanctions et pourrait réduire l'offre pétrolière russe, exacerbant la flambée des prix des énergies et l'inflation mondiale.",
       "category": "Matières premières"
     },
     {
-      "title": "Investissements des entreprises américaines s'accélèrent malgré le ralentissement économique",
-      "summary": "Les entreprises américaines augmentent leurs investissements en ce début d'année, avec une hausse notable des dépenses en équipements et technologies, malgré un ralentissement temporaire de la croissance lié au shutdown. Ce dynamisme compense en partie le déficit d'activité récent et soutient l'emploi qui s'améliore légèrement. Cette accélération intervient dans un contexte d'incertitudes géopolitiques et commerciales.",
-      "why": "Cette résilience des investissements privés renforce la toile de fond favorable de l'économie américaine et pourrait atténuer les effets négatifs du conflit iranien.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "La crise au Moyen-Orient détourne des millions de touristes vers l'Europe",
-      "summary": "Les perturbations au Moyen-Orient, notamment la guerre en Iran, incitent des millions de touristes à reporter leurs voyages vers des destinations européennes comme la Méditerranée et l'Espagne. Le Conseil mondial du voyage et du tourisme estime un afflux soudain de voyageurs, boostant le secteur touristique. Les aéroports européens font face à un défi logistique majeur pour gérer cette redirection des flux.",
-      "why": "Ce transfert touristique pourrait injecter des milliards d'euros dans les économies du Sud de l'Europe, compensant partiellement les pertes dues à la flambée énergétique.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "France, Royaume-Uni et alliés prêts à sécuriser le détroit d'Ormuz",
-      "summary": "La France, le Royaume-Uni et quatre autres pays annoncent leur readiness à contribuer à une opération de sécurisation du détroit d'Ormuz, fermé en raison du conflit iranien. Cette initiative vise à restaurer les flux pétroliers représentant 20 % de l'offre mondiale, soit 14 millions de barils par jour. Les contours de l'opération restent flous mais pourraient impliquer des moyens navals importants.",
-      "why": "La réouverture potentielle du détroit est cruciale pour stabiliser les prix du pétrole et éviter un choc inflationniste prolongé sur les marchés mondiaux.",
+      "title": "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
+      "summary": "Un tanker russe battant pavillon inconnu a été signalé à la dérive dans les eaux libyennes, provoquant une alerte écologique majeure en raison du risque de marée noire. Les autorités internationales coordonnent une intervention d'urgence pour éviter une catastrophe environnementale. Cet incident complique davantage les chaînes d'approvisionnement maritimes déjà perturbées par le conflit au Moyen-Orient.",
+      "why": "Une marée noire perturberait les exportations pétrolières méditerranéennes, aggravant les pénuries et les hausses de prix des carburants en Europe.",
       "category": "Matières premières"
     },
     {
-      "title": "Inflation persistante aux États-Unis prévue à +3,0 % en 2026 due aux tariffs et pétrole",
-      "summary": "Les prévisions indiquent une inflation américaine persistante au-dessus de 3,0 % en 2026, alimentée par les droits de douane de Trump et la hausse des prix du pétrole liée à la guerre en Iran. Bien que l'impact des tariffs soit moindre que prévu, il combine avec le choc énergétique pour dépasser la cible de la Fed. La croissance reste au-dessus du potentiel à +2 % annuel moyen.",
-      "why": "Cette trajectoire inflationniste complique les décisions de la Fed et influence les politiques monétaires mondiales face à des pressions synchronisées.",
-      "category": "Marchés"
+      "title": "La crise moyen-orientale détourne des millions de touristes vers l'Europe",
+      "summary": "La guerre en Iran et les perturbations au Moyen-Orient poussent des millions de touristes à reporter leurs voyages vers des destinations européennes comme l'Espagne et la Méditerranée. Selon le Conseil mondial du voyage et du tourisme, cet afflux soudain représente une opportunité économique pour le secteur hôtelier et aérien. Les pays bénéficiaires pourraient voir leur PIB touristique bondir de 10 à 15 % au deuxième trimestre.",
+      "why": "Ce transfert de flux touristiques stimule la croissance en Europe tout en soulageant partiellement les pressions inflationnistes sur les services.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "L'Agence internationale de l'énergie publie 10 mesures contre la crise énergétique",
+      "summary": "L'Agence internationale de l'énergie a dévoilé dix mesures concrètes destinées aux ménages, entreprises et gouvernements pour atténuer l'impact de la guerre au Moyen-Orient sur les prix de l'énergie. Ces recommandations incluent des rationnements temporaires et des libérations de stocks stratégiques, après une première vague la semaine dernière. Elles visent à stabiliser les marchés face à la fermeture persistante du détroit d'Ormuz, transitant 20 % du pétrole mondial.",
+      "why": "Ces actions pourraient modérer la flambée des prix du pétrole et limiter l'inflation à +3-4 % dans les grandes économies, évitant une récession.",
+      "category": "Matières premières"
     }
   ],
   "updates": []
