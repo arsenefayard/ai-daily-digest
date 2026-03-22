@@ -2,35 +2,43 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Origine de la vie : ressuscitation d'une enzyme vieille de 3 milliards d'années",
-      "summary": "Des scientifiques ont réussi à ressusciter une enzyme ancestrale datant de 3 milliards d'années, présente dans les premiers organismes terrestres. Cette prouesse a été obtenue par ingénierie protéique, permettant de recréer son activité catalytique dans des conditions modernes. Elle révèle les mécanismes biochimiques qui ont permis l'émergence de la vie complexe sur Terre.",
-      "why": "Cette découverte éclaire l'évolution précoce de la vie et pourrait inspirer de nouvelles biotechnologies pour des enzymes ultra-résistantes.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Éclairs trahissant la présence de trous noirs binaires",
-      "summary": "Des observations astrophysiques ont détecté des éclairs intenses indiquant la présence de trous noirs binaires dans des systèmes stellaires. Ces signaux électromagnétiques proviennent de matière accélérée dans les disques d'accrétion autour de ces paires gravitationnelles. Cette méthode de détection ouvre une nouvelle fenêtre sur l'étude des fusions de trous noirs supermassifs.",
-      "why": "Elle permet de cartographier les trous noirs binaires, essentiels pour comprendre la formation des galaxies et les ondes gravitationnelles.",
+      "title": "Confirmation des oscillations de luminosité dans la supernova superlumineuse 2024afav par quatre sursauts",
+      "summary": "L'équipe de Farah et ses collaborateurs a détecté avec une précision sans précédent quatre sursauts de luminosité dans la supernova superlumineuse 2024afav, alors que les observations précédentes de supernovas superlumineuses n'en avaient jamais détecté plus de deux. Les chercheurs ont constaté que l'intervalle de temps entre chaque sursaut diminuait avec le temps, passant d'environ 50 jours à environ 20 jours entre les deux derniers sursauts confirmés. Ce phénomène serait causé par la précession du disque d'accrétion autour d'un magnétar, un processus gravitationnel des centaines de millions de fois plus intense que celui observé sur les orbites des satellites terrestres.",
+      "why": "Cette découverte apporte des preuves encourageantes que les supernovas superlumineuses pourraient effectivement être alimentées par des magnétars, ce qui résoudrait l'un des plus grands mystères de l'astrophysique moderne et transformerait notre compréhension des phénomènes extrêmes de l'univers.",
       "category": "Espace"
     },
     {
-      "title": "Cellule visuelle unique découverte chez les poissons des abysses",
-      "summary": "Une cellule rétinienne inédite a été identifiée chez des poissons vivant dans les abysses océaniques, adaptée à la détection de lumière extrêmement faible. Cette découverte repose sur des analyses microscopiques et génétiques de spécimens collectés en haute mer. Elle explique comment ces organismes perçoivent leur environnement dans l'obscurité totale.",
-      "why": "Cette percée enrichit la neurobiologie visuelle et pourrait inspirer des capteurs optiques pour l'exploration sous-marine ou spatiale.",
-      "category": "Biologie"
+      "title": "Détection de silice cristallisée sous plusieurs formes dans le cratère Jezero par Perseverance",
+      "summary": "La spectroscopie Raman de Supercam du rover Perseverance a détecté une forte concentration de silice sous plusieurs formes cristallisées, dont l'opale, la calcédoine et le quartz bien cristallisé, dans une roche de la zone du rebord du cratère Jezero. Cette découverte indique des processus géologiques extrêmement similaires à ceux de la Terre en ce qui concerne la précipitation et la cristallisation de la silice. L'équipe scientifique doit désormais prioriser les carottes à forer en tenant compte de la découverte d'une compétition entre la silice hydrothermale et les argiles à base de caolinite.",
+      "why": "Cette détection révèle que Mars a connu des processus hydrogéologiques complexes comparables à ceux terrestres, ce qui renforce l'hypothèse d'un environnement martien autrefois plus habitable et guide les stratégies de recherche de traces de vie passée.",
+      "category": "Espace"
     },
     {
-      "title": "Détection du neutrino le plus énergétique, possiblement d'un blazar",
-      "summary": "Le neutrino ultra-énergétique le plus puissant jamais observé a été détecté par des observatoires terrestres, avec une origine probable dans un blazar distant. Ce particule cosmique voyage à près de la vitesse de la lumière sur des milliards d'années-lumière. Son énergie exceptionnelle défie les modèles actuels d'accélération de particules.",
-      "why": "Elle confirme les blazars comme sources de rayons cosmiques de haute énergie, révolutionnant l'astrophysique des particules.",
+      "title": "Première identification de minéraux réox sensibles sur Mars par Perseverance",
+      "summary": "L'équipe scientifique de Perseverance a identifié pour la première fois un ensemble de minéraux dits réox sensibles, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique, grâce à une combinaison d'instruments montés sur le bras robotique du rover et de techniques d'analyse à distance. Cette découverte majeure ouvre de nouvelles perspectives sur la compréhension de la chimie minérale martienne et des conditions environnementales passées. Ces minéraux réox sensibles pourraient servir de marqueurs des conditions chimiques anciennes de Mars.",
+      "why": "L'identification de ces minéraux sensibles aux conditions d'oxydoréduction permet de mieux reconstituer l'histoire chimique et climatique de Mars, notamment les transitions entre environnements oxydants et réducteurs qui auraient pu affecter l'habitabilité de la planète.",
+      "category": "Espace"
+    },
+    {
+      "title": "Observation de microcharges électrostatiques dues à des grains minéraux sur Mars",
+      "summary": "Les instruments de Perseverance ont détecté pour la première fois une rencontre répétée de grains minéraux chargés électriquement dans l'air très sec martien, produisant des microcharges, un phénomène électrostatique que l'on ne soupçonnait auparavant qu'au stade de l'hypothèse. Cette observation révèle que l'interaction entre les grains minéraux et l'atmosphère martienne génère des charges électriques significatives. Les implications d'une telle découverte sont multiples et pourraient affecter notre compréhension de la chimie atmosphérique et de la surface martienne.",
+      "why": "Cette découverte inattendue pourrait expliquer certains phénomènes chimiques observés sur Mars et avoir des implications importantes pour la conception des futurs rovers et habitats humains, notamment en ce qui concerne les risques électrostatiques et les réactions chimiques induites.",
+      "category": "Espace"
+    },
+    {
+      "title": "Corrélation potentiellement importante découverte pour la matière noire",
+      "summary": "Une découverte potentiellement très importante vient d'être effectuée au sujet de la matière noire, avec l'existence d'une corrélation significative identifiée par les chercheurs. Bien que les détails complets de cette corrélation ne soient pas entièrement explicités dans les sources disponibles, cette avancée représente une percée majeure dans la compréhension de l'une des plus grandes énigmes de la physique moderne. Cette découverte pourrait ouvrir de nouvelles voies pour la détection et la caractérisation de la matière noire.",
+      "why": "La matière noire constitue environ 85 % de la matière de l'univers, et toute corrélation nouvelle pourrait révolutionner notre compréhension de la structure et de l'évolution de l'univers, ainsi que permettre des avancées majeures en cosmologie et en physique fondamentale.",
       "category": "Physique"
-    },
-    {
-      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
-      "summary": "Une protéine cérébrale spécifique a été découverte comme clé dans le mécanisme d'addiction à la cocaïne chez les mammifères. Des expériences sur modèles animaux ont montré son rôle dans la plasticité synaptique induite par la drogue. Bloquer cette protéine réduit significativement les comportements de recherche de drogue.",
-      "why": "Cette identification pave la voie à des traitements ciblés contre les addictions, avec un impact majeur sur la santé publique.",
-      "category": "Médecine"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Confirmation de la détection de toutes les bases de l'ADN sur l'astéroïde Bennu",
+      "original": "Cinquième nucléobase ADN découverte dans échantillons de Bennu (20/03/2026)",
+      "summary": "Les analyses des échantillons rapportés par la mission OSIRIS-REx de l'astéroïde Bennu ont confirmé la présence de toutes les bases de l'ADN, y compris la cinquième nucléobase précédemment annoncée. Cette confirmation complète renforce considérablement les preuves que les briques fondamentales de la vie sont présentes dans les petits corps célestes primitifs. Ces résultats ouvrent la voie à la mission japonaise MMX, qui sera lancée en octobre 2026 pour ramener des échantillons de Phobos en 2031.",
+      "why": "Cette confirmation établit définitivement le lien entre les astéroïdes primitifs et les composants chimiques essentiels à la vie, soutenant la théorie de la panspermie et guidant les futures missions d'exploration des corps célestes pour la recherche de traces de vie extraterrestre.",
+      "category": "Espace"
+    }
+  ]
 }
