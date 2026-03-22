@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Détection de silice cristallisée dans le cratère Jezero par Perseverance",
-      "summary": "Le rover Perseverance a identifié pour la première fois de la silice cristallisée sous forme d'opale, de calcédoine et de quartz dans une roche du rebord du cratère Jezero sur Mars. Cette découverte, obtenue grâce à la spectroscopie de SuperCam, révèle des processus géologiques hydrothermaux similaires à ceux de la Terre. Elle oblige les scientifiques à prioriser les sites de forage pour le retour d'échantillons martiens.[1]",
-      "why": "Cette avancée indique un passé géologique riche en eau chaude sur Mars et pourrait révéler des indices sur l'habitabilité passée de la planète.",
-      "category": "Espace"
-    },
-    {
-      "title": "Première identification de minéraux réox sensibles sur Mars",
-      "summary": "L'équipe de Perseverance a détecté un ensemble de minéraux réox sensibles, réagissant aux conditions d'oxydation ou de réduction chimique, dans des roches martiennes. Cette identification repose sur une combinaison d'instruments robotiques et d'analyses à distance. Elle fournit des insights inédits sur l'évolution chimique de la surface martienne.[1]",
-      "why": "Ces minéraux sensibles préservent l'histoire redox de Mars et pourraient indiquer des environnements propices à la vie microbienne ancienne.",
-      "category": "Espace"
-    },
-    {
-      "title": "Observation de microcharges électrostatiques sur Mars",
-      "summary": "Des grains minéraux chargés électriquement ont été observés en rencontre répétée dans l'air sec martien, produisant des microcharges électrostatiques. Ce phénomène, auparavant hypothétique, a été confirmé par les instruments du rover. Il ouvre de nouvelles perspectives sur les interactions atmosphériques et de surface sur Mars.[1]",
-      "why": "Cette découverte explique des processus électrostatiques inattendus et impacte la conception future des missions robotiques et humaines.",
-      "category": "Espace"
-    },
-    {
-      "title": "Suzetrigine : premier médicament sélectif contre la douleur périphérique",
-      "summary": "Suzetrigine, un nouveau médicament, bloque sélectivement les canaux sodiques NaV1.8 dans les neurones sensoriels périphériques de la douleur. Contrairement aux opioïdes, il évite les risques d'addiction et les effets cardiaques ou cérébraux, avec une sélectivité supérieure à 31 000 fois. Des recherches explorent aussi les canaux NaV1.7 et NaV1.9.[5]",
-      "why": "Cette percée offre une alternative non addictive aux analgésiques traditionnels et révolutionne la gestion de la douleur chronique.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Édition CRISPR des racines pour cultures résistantes à la sécheresse",
-      "summary": "Des équipes ont utilisé CRISPR/Cas9 et l'édition de bases pour modifier les gènes d'architecture racinaire du riz, du blé et du maïs, favorisant des racines plus profondes et efficaces en eau. Ces plantes accèdent mieux à l'humidité des couches profondes du sol sans perte de rendement. Des essais en champs confirment des rendements accrus.[5]",
-      "why": "Face au changement climatique, cette innovation assure la sécurité alimentaire en rendant les cultures résilientes aux sécheresses prolongées.",
+      "title": "Origine de la vie : ressuscitation d'une enzyme vieille de 3 milliards d'années",
+      "summary": "Des scientifiques ont réussi à ressusciter une enzyme ancestrale datant de 3 milliards d'années, présente dans les premiers organismes terrestres. Cette prouesse a été obtenue par ingénierie protéique, permettant de recréer son activité catalytique dans des conditions modernes. Elle révèle les mécanismes biochimiques qui ont permis l'émergence de la vie complexe sur Terre.",
+      "why": "Cette découverte éclaire l'évolution précoce de la vie et pourrait inspirer de nouvelles biotechnologies pour des enzymes ultra-résistantes.",
       "category": "Biologie"
+    },
+    {
+      "title": "Éclairs trahissant la présence de trous noirs binaires",
+      "summary": "Des observations astrophysiques ont détecté des éclairs intenses indiquant la présence de trous noirs binaires dans des systèmes stellaires. Ces signaux électromagnétiques proviennent de matière accélérée dans les disques d'accrétion autour de ces paires gravitationnelles. Cette méthode de détection ouvre une nouvelle fenêtre sur l'étude des fusions de trous noirs supermassifs.",
+      "why": "Elle permet de cartographier les trous noirs binaires, essentiels pour comprendre la formation des galaxies et les ondes gravitationnelles.",
+      "category": "Espace"
+    },
+    {
+      "title": "Cellule visuelle unique découverte chez les poissons des abysses",
+      "summary": "Une cellule rétinienne inédite a été identifiée chez des poissons vivant dans les abysses océaniques, adaptée à la détection de lumière extrêmement faible. Cette découverte repose sur des analyses microscopiques et génétiques de spécimens collectés en haute mer. Elle explique comment ces organismes perçoivent leur environnement dans l'obscurité totale.",
+      "why": "Cette percée enrichit la neurobiologie visuelle et pourrait inspirer des capteurs optiques pour l'exploration sous-marine ou spatiale.",
+      "category": "Biologie"
+    },
+    {
+      "title": "Détection du neutrino le plus énergétique, possiblement d'un blazar",
+      "summary": "Le neutrino ultra-énergétique le plus puissant jamais observé a été détecté par des observatoires terrestres, avec une origine probable dans un blazar distant. Ce particule cosmique voyage à près de la vitesse de la lumière sur des milliards d'années-lumière. Son énergie exceptionnelle défie les modèles actuels d'accélération de particules.",
+      "why": "Elle confirme les blazars comme sources de rayons cosmiques de haute énergie, révolutionnant l'astrophysique des particules.",
+      "category": "Physique"
+    },
+    {
+      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
+      "summary": "Une protéine cérébrale spécifique a été découverte comme clé dans le mécanisme d'addiction à la cocaïne chez les mammifères. Des expériences sur modèles animaux ont montré son rôle dans la plasticité synaptique induite par la drogue. Bloquer cette protéine réduit significativement les comportements de recherche de drogue.",
+      "why": "Cette identification pave la voie à des traitements ciblés contre les addictions, avec un impact majeur sur la santé publique.",
+      "category": "Médecine"
     }
   ],
   "updates": []
