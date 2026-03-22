@@ -1,15 +1,5 @@
 [
   {
-    "date": "20/03/2026",
-    "titles": [
-      "OpenAI lance Sora 2, nouvelle génération de génération vidéo IA",
-      "Mistral dévoile AI Studio, plateforme pour agents IA personnalisés",
-      "xAI annonce un partenariat stratégique avec Oracle pour l'infrastructure IA",
-      "Nouveau papier SOTA sur l'architecture Transformer hybride quantique",
-      "Parlement européen approuve résolution sur droit d'auteur et IA générative"
-    ]
-  },
-  {
     "date": "21/03/2026",
     "titles": [
       "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
@@ -67,6 +57,16 @@
       "Meta retarde son modèle Avocado à mai pour performances insuffisantes",
       "Meta acquiert Moltbook, réseau social pour bots IA",
       "Sept IDE leaders se disputent le marché du développement multi-agent"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 mondial des préoccupations",
+      "Tendances IA 2026 : l'essor des agents autonomes et l'urgence de l'efficacité énergétique",
+      "L'IA devient l'infrastructure invisible de l'économie au CES 2026",
+      "Oregon adopte la première loi américaine sur les chatbots IA",
+      "Explosion du marché des IDE pour développement multi-agent avec 7 leaders en compétition"
     ]
   }
 ]
