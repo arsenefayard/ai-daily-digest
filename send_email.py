@@ -19,64 +19,109 @@ def send_combined_email():
     base = f"https://{username}.github.io/{reponame}"
     date_str = datetime.now().strftime('%d/%m/%Y')
 
-    digests = [
-        {"label": "IA",           "emoji": "🤖", "url": f"{base}/",                "accent": "#c8f064", "bg": "#0d1117"},
-        {"label": "Géopolitique", "emoji": "🌍", "url": f"{base}/geo.html",        "accent": "#60c8f0", "bg": "#080d11"},
-        {"label": "Économie",     "emoji": "💰", "url": f"{base}/eco.html",        "accent": "#f59e0b", "bg": "#0d0a00"},
-        {"label": "Sport",        "emoji": "⚽", "url": f"{base}/sport.html",      "accent": "#f87171", "bg": "#0d0606"},
-        {"label": "Musique",      "emoji": "🎸", "url": f"{base}/music.html",      "accent": "#a78bfa", "bg": "#08060d"},
-        {"label": "Science",      "emoji": "🔬", "url": f"{base}/science.html",    "accent": "#34d399", "bg": "#040d09"},
-        {"label": "Culture",      "emoji": "🎲", "url": f"{base}/culture.html",    "accent": "#f472b6", "bg": "#0d0609"},
-        {"label": "Histoire",     "emoji": "📜", "url": f"{base}/history.html",    "accent": "#e8b86d", "bg": "#0d0900"},
-    ]
-
-    # Build 2-column grid
-    rows = ""
-    for i in range(0, len(digests), 2):
-        pair = digests[i:i+2]
-        cells = ""
-        for d in pair:
-            cells += f"""
-            <td style="width:50%;padding:6px;vertical-align:top;">
-              <a href="{d['url']}" style="display:block;text-decoration:none;background:{d['bg']};border:1px solid rgba(255,255,255,0.07);border-radius:12px;padding:18px 16px;transition:opacity .2s;">
-                <div style="font-size:22px;margin-bottom:8px;">{d['emoji']}</div>
-                <div style="color:{d['accent']};font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-family:monospace;margin-bottom:6px;">{d['label']}</div>
-                <div style="color:rgba(232,228,220,0.4);font-size:11px;font-family:monospace;">5 infos →</div>
-              </a>
-            </td>"""
-        # pad last row if odd
-        if len(pair) == 1:
-            cells += "<td style='width:50%;padding:6px;'></td>"
-        rows += f"<tr>{cells}</tr>"
-
-    fav_section = f"""
-<div style="margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.06);">
-  <a href="{base}/favorites.html" style="display:block;text-decoration:none;background:#0d0d0d;border:1px solid rgba(251,191,36,0.2);border-radius:12px;padding:16px 20px;text-align:center;">
-    <span style="font-size:20px;">⭐</span>
-    <div style="color:#fbbf24;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-family:monospace;margin-top:6px;">Mes Favoris</div>
-  </a>
-</div>
-"""
-
     html = f"""
-    <html><head><meta charset="UTF-8"></head>
-    <body style="font-family:Georgia,serif;background:#000000;margin:0;padding:30px 16px;">
-      <div style="max-width:480px;margin:0 auto;">
-        <p style="color:#555;font-size:11px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px;text-align:center;font-family:monospace;">Daily Digest</p>
-        <p style="color:#333;font-size:11px;text-align:center;margin:0 0 24px;font-family:monospace;">{date_str}</p>
-        <table style="width:100%;border-collapse:collapse;">
-          {rows}
-        </table>
-        {fav_section}
-        <p style="color:#333;font-size:10px;text-align:center;margin:20px 0 0;font-family:monospace;">Généré automatiquement · Perplexity AI</p>
+<html>
+<head><meta charset="UTF-8"></head>
+<body style="margin:0;padding:40px 20px;background:#1a1a1a;font-family:Georgia,serif;">
+<div style="max-width:560px;margin:0 auto;background:#111111;border:0.5px solid #2a2a2a;">
+
+  <!-- Header -->
+  <div style="background:#0a0a0a;padding:22px 32px;border-bottom:0.5px solid #2a2a2a;">
+    <div style="display:flex;align-items:center;justify-content:space-between;">
+      <div style="display:flex;align-items:center;gap:14px;">
+        <div style="width:2px;height:34px;background:#c8a96e;flex-shrink:0;"></div>
+        <div>
+          <div style="font-size:16px;font-weight:500;color:#f0ede6;letter-spacing:0.3px;font-family:Georgia,serif;">Daily Briefing</div>
+          <div style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-top:3px;">Veille Stratégique</div>
+        </div>
       </div>
-    </body></html>
-    """
+      <div style="text-align:right;">
+        <div style="font-size:11px;color:#c8a96e;font-family:Georgia,serif;font-style:italic;">{date_str}</div>
+        <div style="font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:#444;font-family:Arial,sans-serif;margin-top:3px;">Édition matinale</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ligne dorée -->
+  <div style="height:1px;background:#c8a96e;opacity:0.25;"></div>
+
+  <!-- Grille 2 colonnes -->
+  <div style="padding:16px 16px 12px;display:grid;grid-template-columns:1fr 1fr;gap:7px;">
+
+    <a href="{base}/" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#5aaa72;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Intelligence Artificielle</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/geo.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#4a88c0;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Géopolitique</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/eco.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#c8862a;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Économie & Finance</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/sport.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#c84a4a;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Sport</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/music.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#7a5cc8;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Musique</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/science.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#2a9e7a;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Sciences</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/culture.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#c84a8a;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Culture Générale</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+    <a href="{base}/history.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;border:0.5px solid #222;padding:13px 14px;background:#161616;">
+      <div style="width:2px;height:22px;background:#a07840;flex-shrink:0;"></div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#b8b5ae;font-family:Arial,sans-serif;font-weight:500;flex:1;">Histoire</div>
+      <div style="font-size:10px;color:#3a3a3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+
+  </div>
+
+  <!-- Favoris -->
+  <div style="margin:0 16px 16px;padding-top:8px;border-top:0.5px solid #1e1e1e;">
+    <a href="{base}/favorites.html" style="text-decoration:none;display:flex;align-items:center;gap:12px;padding:11px 14px;border:0.5px solid #2a2418;background:#131108;">
+      <div style="font-size:12px;color:#c8a96e;flex-shrink:0;">★</div>
+      <div style="font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:500;flex:1;">Mes Favoris</div>
+      <div style="font-size:10px;color:#554f3a;font-family:Arial,sans-serif;">→</div>
+    </a>
+  </div>
+
+  <!-- Footer -->
+  <div style="background:#0a0a0a;border-top:0.5px solid #1e1e1e;padding:13px 32px;display:flex;justify-content:space-between;align-items:center;">
+    <div style="font-size:9px;color:#333;font-family:Arial,sans-serif;letter-spacing:1px;text-transform:uppercase;">Diffusion restreinte · Usage professionnel</div>
+    <div style="font-size:9px;color:#333;font-family:Arial,sans-serif;letter-spacing:1px;text-transform:uppercase;">Daily Briefing</div>
+  </div>
+
+</div>
+</body>
+</html>
+"""
 
     recipients = [r.strip() for r in receiver.split(',') if r.strip()]
     try:
         msg = MIMEMultipart()
-        msg['Subject'] = f"📰 Daily Digest — {date_str}"
+        msg['Subject'] = f"Daily Briefing — {date_str}"
         msg['From']    = sender
         msg['To']      = ', '.join(recipients)
         msg.attach(MIMEText(html, 'html', 'utf-8'))
