@@ -43,12 +43,13 @@ Variable d’environnement **`GITHUB_REPO`** : `owner/repo` (ex. `user/ai-daily-
 ## 3. Flux de données (fin à fin)
 
 1. Déclenchement **schedule** (crons toutes les 5 min à 6h et 7h UTC) ou **`workflow_dispatch`** (manuel).
-2. Job **`check-time`** : n’autorise le run “quotidien” automatique que si **heure Paris = 8h** et si **`today.json`** sur `gh-pages` n’a pas déjà la **date du jour** (déduplication).
+2. Job **`check-time`** : n’autorise le run “quotidien” automatique que si **heure Paris = 8h** et si **`scheduled_digest_done.json`** sur `gh-pages` n’a pas déjà la **date du jour** (déduplication **uniquement** du digest planifié ; les runs manuels ne bloquent pas le cron 8h).
 3. Job **`send-digest`** (si `should_run` ou run manuel) :
    - Checkout `main`
    - **Déploiement des 8 HTML** vers `gh-pages` via **GitHub Contents API** : remplace le placeholder `__PX_KEY_B64__` par la clé Perplexity encodée en **base64** (voir § clé API).
    - Enchaîne `ai_digest.py` → … → `history_digest.py`
    - `python send_email.py` : email HTML avec grille des thèmes + lien favoris (voir `send_email.py`).
+   - Si **`schedule`** (cron) : étape finale qui met à jour **`scheduled_digest_done.json`** sur `gh-pages` (marqueur « digest 8h fait » pour ce jour).
 
 Les scripts Python **poussent** aussi leurs JSON + leur `.html` thématique (avec injection clé) sur `gh-pages`.
 

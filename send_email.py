@@ -89,4 +89,5 @@ def send_combined_email():
         print(f"❌ Erreur : {e}"); return False
 
 if __name__ == "__main__":
-    send_combined_email()
+    import sys
+    sys.exit(0 if send_combined_email() else 1)
