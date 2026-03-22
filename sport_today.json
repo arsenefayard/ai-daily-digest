@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "Tom Pidcock remporte Milan-San Remo avec une attaque magistrale",
-      "summary": "Le Britannique Tom Pidcock a triomphé sur la classique Milan-San Remo ce dimanche 22 mars, en lançant une attaque décisive dans les derniers kilomètres du Poggio. Cette victoire prestigieuse, l'une des plus grandes courses cyclistes au monde, confirme son talent polyvalent après ses succès en VTT et sur route. Pidcock devance ses rivaux dans un sprint final tendu, renforçant sa position parmi l'élite mondiale du cyclisme.",
-      "why": "Milan-San Remo est la première des cinq Monumentales, et cette victoire propulse Pidcock vers les favoris du printemps cycliste.",
+      "summary": "Le Britannique Tom Pidcock a triomphé sur la classique Milan-San Remo ce 21 mars 2026 grâce à une attaque décisive dans les derniers kilomètres. Cette victoire prestigieuse sur la course la plus longue du World Tour (près de 300 km) confirme son talent sur les monuments cyclistes. Pidcock devance ses rivaux dans un sprint final tendu, renforçant sa position parmi l'élite mondiale.",
+      "why": "Milan-San Remo est l'un des cinq monuments du cyclisme, et cette victoire marque un tournant pour Pidcock dans la saison des classiques printanières.",
       "category": "Autre"
     },
     {
-      "title": "Miami Open perturbé par des pluies abondantes malgré les avancées d'Alcaraz et Swiatek",
-      "summary": "Le Masters 1000 de Miami subit de fortes perturbations dues à des pluies torrentielles ce 22 mars, entraînant de multiples reports de matches. Carlos Alcaraz et Iga Swiatek ont toutefois dominé leurs premiers tours avant les intempéries, préservant leurs chances de titres. Le tournoi, l'un des plus riches en dotations, risque des ajustements majeurs dans son programme pour les prochains jours.",
-      "why": "Les conditions météo inhabituelles menacent le déroulement fluide d'un événement clé du circuit ATP et WTA, impactant les favoris et les enjeux de classement.",
-      "category": "Tennis"
-    },
-    {
-      "title": "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
-      "summary": "RC Lens a repris la tête de la Ligue 1 à l'issue de la 27e journée jouée le 21 mars, grâce à une victoire convaincante qui relègue ses poursuivants. Cette performance renforce les Sang et Or dans la course au titre, alors que les cadors parisiens trébuchent. Le championnat français s'annonce plus disputé que jamais avec ce changement de leader.",
-      "why": "Ce basculement en tête ravive la concurrence en Ligue 1 et met la pression sur les favoris traditionnels pour les prochaines journées.",
-      "category": "Football"
-    },
-    {
-      "title": "Biathlon : Le Français Perrot signe son premier sacre mondial",
-      "summary": "Le biathlète français Perrot a remporté son premier titre mondial le 20 mars lors d'une épreuve majeure, marquant un tournant dans sa carrière. Cette victoire, obtenue dans des conditions exigeantes, propulse la France au premier plan de la discipline hivernale. Perrot, jusque-là dans l'ombre des stars, devient un nouveau porte-drapeau tricolore.",
-      "why": "Ce sacre individuel booste le biathlon français à un moment clé de la saison, avec des implications pour les classements nations et les Mondiaux à venir.",
+      "title": "UFC Fight Night : Amanda Lemos bat Michelle Robertson à Londres",
+      "summary": "Amanda Lemos a remporté le combat principal de l'UFC Fight Night du 21 mars 2026 à l'O2 Arena de Londres face à Michelle Robertson. La Brésilienne a dominé par sa striking précise et ses takedowns, obtenant une décision unanime des juges. Cette performance consolide sa place dans la division paille et ouvre des perspectives pour un title shot.",
+      "why": "Ce main event attire des dizaines de milliers de fans en Europe et influence directement les classements UFC pour les combats à venir.",
       "category": "Autre"
     },
     {
-      "title": "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000",
-      "summary": "Le Français Atmane a surpris son adversaire au deuxième tour d'un Masters 1000 le 20 mars, confirmant son ascension fulgurante sur le circuit. Classé outsider, il enchaîne les performances solides pour viser les huitièmes, un exploit rare pour un joueur tricolore. Cette avancée met en lumière une nouvelle génération talentueuse en tennis masculin français.",
-      "why": "Cette performance inattendue chez un jeune Français ravive l'espoir d'un renouveau pour le tennis hexagonal dans les grands tournois.",
+      "title": "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont facilement remporté leurs matchs d'entrée au Miami Open, Masters 1000 perturbé par des pluies abondantes depuis le 18 mars 2026. L'Espagnol a écrasé son adversaire en deux sets secs, tandis que la Polonaise a montré sa forme impeccable sur dur. Les organisateurs gèrent les interruptions, mais les favoris avancent sereinement vers les huitièmes.",
+      "why": "Le Miami Open est un des plus grands tournois ATP/WTA, et les performances des numéros 1 mondiaux dictent les favoris pour le reste de la saison sur dur.",
       "category": "Tennis"
+    },
+    {
+      "title": "TOP 14 : Résultats cruciaux de la 19e journée avec des chocs au sommet",
+      "summary": "La 19e journée du TOP 14 s'est disputée le 21 mars 2026, avec des victoires importantes pour les leaders du classement comme Toulouse et Bordeaux-Bègles. Ces résultats resserrent la course au titre et à la qualification en phases finales. Les promus ont surpris en battant des cadors, accentuant la compétitivité du championnat.",
+      "why": "Le TOP 14 est le championnat de rugby le plus relevé d'Europe, et cette journée définit les enjeux pour le sprint final vers les playoffs.",
+      "category": "Rugby"
+    },
+    {
+      "title": "Betclic Elite : La 23e journée voit des surprises en basketball français",
+      "summary": "La 23e journée de Betclic Elite, jouée le 21 mars 2026, a apporté son lot de surprises avec des victoires d'outsiders contre les favoris comme Monaco et l'ASVEL. Ces résultats bouleversent le haut du tableau et intensifient la lutte pour les playoffs. Les meneurs au classement doivent désormais se méfier de la concurrence montante.",
+      "why": "La Betclic Elite détermine les représentants français en Euroleague, et ces bouleversements impactent la scène européenne du basketball.",
+      "category": "Basketball"
     }
   ],
   "updates": []
