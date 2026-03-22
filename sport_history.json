@@ -1,16 +1,5 @@
 [
   {
-    "date": "18/03/2026",
-    "titles": [
-      "Championnats du monde en salle d'athlétisme à Torun",
-      "Championnats du monde de patinage artistique à Prague",
-      "Ligue des Champions : huitièmes de finale retour en cours",
-      "Milan-San Remo : classique du cyclisme sur route le 21 mars",
-      "Seyfulla Itaev champion d'Europe U23 de lutte",
-      "Ligue des Champions : qualifications spectaculaires après les huitièmes retour"
-    ]
-  },
-  {
     "date": "19/03/2026",
     "titles": [
       "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
@@ -72,6 +61,17 @@
       "UFC Fight Night : Lemos vs Robertson à Londres",
       "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
       "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Tom Pidcock triomphe sur Milan-San Remo avec une attaque magistrale",
+      "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
+      "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
+      "Biathlon : Le Français Perrot signe son premier sacre mondial",
+      "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000",
+      "Ligue Europa : L'OL éliminé de manière choc par le Celta Vigo"
     ]
   }
 ]
