@@ -1,15 +1,5 @@
 [
   {
-    "date": "21/03/2026",
-    "titles": [
-      "La machine de Turing : l'ancêtre conceptuel de l'informatique moderne",
-      "Le bateau de Thésée : un paradoxe philosophique millénaire",
-      "Le chat de Schrödinger : l'expérience mentale qui défie la réalité",
-      "La bibliothèque d'Alexandrie : le plus grand savoir perdu de l'Antiquité",
-      "Le syndrome de l'imposteur : quand le succès alimente le doute"
-    ]
-  },
-  {
     "date": "22/03/2026",
     "titles": [
       "Le paradoxe du bateau de Thésée",
@@ -67,6 +57,16 @@
       "Le Point Némo, lieu le plus isolé de la Terre",
       "Les larmes révèlent la cause des émotions",
       "Les soldats chinois s'entraînaient avec des aiguilles au col"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Le règne record de Louis XIV",
+      "L'imprimerie de Gutenberg",
+      "Les larmes qui révèlent les émotions",
+      "La torture par chatouilles chez les Romains",
+      "Le plus ancien pays du monde : l'Égypte"
     ]
   }
 ]
