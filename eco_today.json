@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Accélération des investissements des entreprises américaines malgré le ralentissement économique",
-      "summary": "Les entreprises américaines accélèrent leurs investissements en ce début d'année, compensant un ralentissement ponctuel de la croissance lié au shutdown gouvernemental. Ce dynamisme survient après deux trimestres de forte expansion et s'appuie sur un marché de l'emploi en légère amélioration. Cette tendance renforce la résilience de l'économie américaine face aux incertitudes géopolitiques actuelles.",
-      "why": "Cette accélération des investissements soutient la croissance à long terme des États-Unis et pourrait atténuer l'impact des chocs externes comme la guerre en Iran.",
+      "title": "Explosion des prix des engrais en Europe due à la guerre au Moyen-Orient",
+      "summary": "La guerre en Iran provoque une flambée des prix des engrais en Europe en raison des perturbations dans les approvisionnements mondiaux de matières premières comme l'azote et le phosphate. Les coûts ont augmenté de plus de 50 % en quelques semaines, affectant directement les agriculteurs et les chaînes alimentaires. Cette hausse risque de se répercuter sur les prix des denrées alimentaires, aggravant l'inflation dans la zone euro.",
+      "why": "Cette crise alimentaire potentielle menace la sécurité alimentaire européenne et pourrait forcer les banques centrales à revoir leurs politiques monétaires face à une inflation importée.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Investissements des entreprises américaines s'accélèrent malgré le ralentissement économique",
+      "summary": "Les entreprises américaines augmentent leurs investissements en ce début d'année, avec une hausse notable des dépenses en équipements et technologies, malgré un ralentissement temporaire de la croissance lié au shutdown. Ce dynamisme compense en partie le déficit d'activité récent et soutient l'emploi qui s'améliore légèrement. Cette accélération intervient dans un contexte d'incertitudes géopolitiques et commerciales.",
+      "why": "Cette résilience des investissements privés renforce la toile de fond favorable de l'économie américaine et pourrait atténuer les effets négatifs du conflit iranien.",
       "category": "Entreprises"
     },
     {
-      "title": "Donald Trump nomme Kevin Warsh à la tête de la Fed pour apaiser les tensions",
-      "summary": "Le président américain Donald Trump a nommé Kevin Warsh à la présidence de la Réserve fédérale, relâchant ainsi la pression exercée précédemment pour des baisses de taux. Cette décision vise à maintenir l'indépendance de la banque centrale et à rassurer les marchés financiers. Les investisseurs saluent cette nomination comme un signal de stabilité monétaire.",
-      "why": "Cette nomination pourrait stabiliser les attentes sur la politique monétaire américaine et influencer les marchés mondiaux dans un contexte d'incertitude élevée.",
-      "category": "Banques"
+      "title": "La crise au Moyen-Orient détourne des millions de touristes vers l'Europe",
+      "summary": "Les perturbations au Moyen-Orient, notamment la guerre en Iran, incitent des millions de touristes à reporter leurs voyages vers des destinations européennes comme la Méditerranée et l'Espagne. Le Conseil mondial du voyage et du tourisme estime un afflux soudain de voyageurs, boostant le secteur touristique. Les aéroports européens font face à un défi logistique majeur pour gérer cette redirection des flux.",
+      "why": "Ce transfert touristique pourrait injecter des milliards d'euros dans les économies du Sud de l'Europe, compensant partiellement les pertes dues à la flambée énergétique.",
+      "category": "Entreprises"
     },
     {
-      "title": "Perturbations au Moyen-Orient désorganisent les circuits du commerce maritime mondial",
-      "summary": "Les conflits au Moyen-Orient, notamment la guerre en Iran, provoquent une désorganisation profonde des routes maritimes mondiales, affectant les chaînes d'approvisionnement. La fermeture du détroit d'Ormuz limite la circulation à environ 90 navires, dont des pétroliers, pour un transit habituel de 20% du pétrole mondial. Ces disruptions entraînent des retards massifs et des hausses de coûts logistiques.",
-      "why": "Cette désorganisation menace la croissance mondiale en augmentant les coûts des importations et en amplifiant l'inflation énergétique.",
+      "title": "France, Royaume-Uni et alliés prêts à sécuriser le détroit d'Ormuz",
+      "summary": "La France, le Royaume-Uni et quatre autres pays annoncent leur readiness à contribuer à une opération de sécurisation du détroit d'Ormuz, fermé en raison du conflit iranien. Cette initiative vise à restaurer les flux pétroliers représentant 20 % de l'offre mondiale, soit 14 millions de barils par jour. Les contours de l'opération restent flous mais pourraient impliquer des moyens navals importants.",
+      "why": "La réouverture potentielle du détroit est cruciale pour stabiliser les prix du pétrole et éviter un choc inflationniste prolongé sur les marchés mondiaux.",
       "category": "Matières premières"
     },
     {
-      "title": "Principales banques anticipent une hausse des taux de la BCE en avril face aux risques inflationnistes",
-      "summary": "Des banques comme JP Morgan, Morgan Stanley et Barclays prévoient une première hausse des taux d'intérêt par la Banque centrale européenne dès avril 2026. Cette anticipation repose sur les risques inflationnistes accrus dus au conflit au Moyen-Orient et à la flambée des prix du pétrole. Une telle décision marquerait un revirement par rapport aux attentes antérieures d'assouplissement.",
-      "why": "Ce durcissement potentiel de la politique monétaire européenne pourrait freiner la croissance de la zone euro tout en combattant l'inflation persistante.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Stocks mondiaux de pétrole offshore s'épuisent rapidement à cause des perturbations au Golfe",
-      "summary": "Les réserves pétrolières à bord des pétroliers mondiaux diminuent à vue d'œil pour la troisième semaine consécutive en raison des perturbations d'approvisionnement dans le Golfe Persique. Le conflit en Iran accentue cette pénurie, limitant les flux via le détroit d'Ormuz qui représente 14 millions de barils par jour de brut. Les marchés pétroliers subissent une tension accrue avec des prix en hausse soutenue.",
-      "why": "Cette épuisement rapide des stocks offshore risque de prolonger le choc pétrolier, impactant l'inflation et la croissance mondiale.",
-      "category": "Matières premières"
+      "title": "Inflation persistante aux États-Unis prévue à +3,0 % en 2026 due aux tariffs et pétrole",
+      "summary": "Les prévisions indiquent une inflation américaine persistante au-dessus de 3,0 % en 2026, alimentée par les droits de douane de Trump et la hausse des prix du pétrole liée à la guerre en Iran. Bien que l'impact des tariffs soit moindre que prévu, il combine avec le choc énergétique pour dépasser la cible de la Fed. La croissance reste au-dessus du potentiel à +2 % annuel moyen.",
+      "why": "Cette trajectoire inflationniste complique les décisions de la Fed et influence les politiques monétaires mondiales face à des pressions synchronisées.",
+      "category": "Marchés"
     }
   ],
   "updates": []
