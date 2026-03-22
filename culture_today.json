@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
-      "summary": "Marie Curie reste l'une des figures scientifiques les plus remarquables de l'histoire : elle a remporté le prix Nobel de physique en 1903 pour ses travaux sur la radioactivité, puis le prix Nobel de chimie en 1911 pour la découverte du radium et du polonium. Cette double distinction dans deux domaines scientifiques distincts demeure un exploit exceptionnel qui témoigne de l'ampleur de ses contributions à la science moderne. Son parcours illustre comment le génie scientifique peut transcender les barrières disciplinaires et les préjugés de son époque.",
-      "why": "C'est un accomplissement scientifique majeur qui montre l'importance des femmes dans l'histoire des sciences et reste un symbole d'excellence académique inégalée.",
+      "title": "Les carottes étaient originellement blanches",
+      "summary": "Les carottes sauvages, originaires d'Asie centrale, étaient à l'origine blanches ou violettes il y a environ cinq mille ans. Les agriculteurs européens ont sélectionné des variétés jaunes puis orange au XVIe siècle pour des raisons gustatives et symboliques, l'orange rendant hommage à la maison de Nassau. Cette évolution botanique a transformé cet aliment quotidien en icône de la nutrition moderne.",
+      "why": "Ce fait illustre comment la sélection humaine modifie la nature et influence notre alimentation contemporaine.",
+      "category": "Science pop"
+    },
+    {
+      "title": "L'imprimerie inventée par Gutenberg vers 1440",
+      "summary": "Johannes Gutenberg a développé l'imprimerie à caractères mobiles vers 1440 en Allemagne, révolutionnant la diffusion du savoir en Europe. Avant cela, les livres étaient copiés à la main, limitant leur accès aux élites. Son invention a permis la production de masse de la Bible de Gutenberg, accélérant la Renaissance et la Réforme.",
+      "why": "Elle marque le début de l'ère de l'information accessible, fondement de la société du savoir actuelle.",
       "category": "Histoire"
     },
     {
-      "title": "L'invention des lunettes : une évolution de treize siècles",
-      "summary": "Les lunettes ont été inventées vers le treizième siècle, mais elles ont connu une évolution remarquable au fil des siècles. À l'origine, elles étaient simplement posées sur le nez sans système de maintien. Ce n'est qu'au milieu du dix-huitième siècle qu'un opticien anglais a eu l'idée d'ajouter des branches, d'abord courtes et recouvrant uniquement les tempes pour ne pas endommager les perruques de l'époque. Par la suite, ces branches ont été allongées et recourbées pour adopter la forme que nous connaissons aujourd'hui.",
-      "why": "Cette histoire montre comment une invention pratique évolue graduellement en réponse aux besoins sociaux et aux contraintes culturelles, illustrant l'ingéniosité humaine dans l'amélioration des objets du quotidien.",
-      "category": "Linguistique"
-    },
-    {
-      "title": "Le mot « sandwich » doit son nom à un aristocrate du dix-huitième siècle",
-      "summary": "Le mot « sandwich » provient du quatrième Comte de Sandwich, un aristocrate britannique du dix-huitième siècle. Cet homme, passionné par les jeux de cartes, aurait demandé qu'on lui serve de la viande entre deux tranches de pain pour pouvoir continuer à jouer sans interrompre sa partie. Cette pratique commode s'est popularisée et le nom du comte s'est attaché à ce type de repas, devenant ainsi un terme universel dans de nombreuses langues.",
-      "why": "C'est une étymologie fascinante qui montre comment les habitudes personnelles d'une figure historique peuvent laisser une trace durable dans le langage mondial.",
-      "category": "Linguistique"
-    },
-    {
-      "title": "La plus ancienne œuvre d'art connue remonte à quarante-quatre mille ans en Indonésie",
-      "summary": "En 2019, des scientifiques ont découvert sur l'île indonésienne de Sulawesi la plus ancienne œuvre d'art connue au monde, datant de quarante-quatre mille ans. Cette peinture rupestre représente trois personnes et un cochon, témoignant de l'existence d'une expression artistique sophistiquée chez les premiers humains modernes. Cette découverte repousse considérablement nos connaissances sur les origines de la créativité humaine et démontre que l'art n'est pas une invention récente mais une caractéristique fondamentale de notre espèce.",
-      "why": "Cette découverte archéologique majeure redéfinit notre compréhension de l'évolution culturelle humaine et prouve que l'expression artistique remonte aux débuts de notre histoire.",
+      "title": "Le Point Némo, lieu le plus isolé de la Terre",
+      "summary": "Le Point Némo, situé dans l'océan Pacifique sud, est le point terrestre le plus éloigné de toute terre émergée, à plus de deux mille six cent kilomètres des îles les plus proches. Nommé d'après le capitaine Nemo de Jules Verne, il sert d'atterrissage pour les débris spatiaux. Cette zone hyperocéanique abrite une biodiversité unique et mystérieuse.",
+      "why": "Il symbolise les limites de l'exploration humaine et les secrets encore intacts des océans.",
       "category": "Géographie"
     },
     {
-      "title": "L'Empire mongol : le plus grand empire terrestre contigu de l'histoire",
-      "summary": "L'Empire mongol, qui s'est étendu aux treizième et quatorzième siècles, reste le plus grand empire terrestre contigu jamais constitué dans l'histoire de l'humanité. Fondé par Gengis Khan, cet empire s'étendait sur une superficie immense, reliant l'Asie de l'Est à l'Europe de l'Est et créant des routes commerciales majeures comme la Route de la Soie. Son influence sur le commerce, la technologie et les échanges culturels a façonné le monde médiéval et au-delà, malgré sa relative brièveté en tant que puissance unifiée.",
-      "why": "C'est un repère historique fondamental pour comprendre comment les empires continentaux se forment et comment ils transforment les échanges mondiaux, influençant la géopolitique pendant des siècles.",
+      "title": "Les larmes révèlent la cause des émotions",
+      "summary": "Selon une croyance populaire analysée scientifiquement, la première larme coulant de l'œil droit indiquerait de la joie, tandis que celle de l'œil gauche signalerait du chagrin. Bien que non prouvée, cette idée fascine en reliant physiologie et émotions. Elle apparaît dans des ouvrages de littérature jeunesse explorant les mystères humains.",
+      "why": "Ce concept mêle science et mythe, invitant à réfléchir sur la lecture des émotions humaines.",
+      "category": "Psychologie"
+    },
+    {
+      "title": "Les soldats chinois s'entraînaient avec des aiguilles au col",
+      "summary": "Dans l'ancienne Chine, les nouveaux soldats recevaient des aiguilles plantées dans le col de leur tunique pour les forcer à garder la tête haute pendant l'entraînement. Cette méthode disciplinaire visait à inculquer posture et endurance. Elle reflète les rigueurs des armées impériales dans l'art de la guerre.",
+      "why": "Cette anecdote révèle les techniques ingénieuses de formation militaire antiques toujours sources d'inspiration.",
       "category": "Histoire"
     }
   ],
