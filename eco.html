@@ -235,7 +235,56 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 #why-overlay.body-mode #why-expanded-text { color:rgba(232,228,220,0.88); }
 
 /* ── META RIGHT ── */
-.meta-right { display:flex; align-items:center; gap:8px; }
+.meta-right { display:flex; align-items:center; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+
+/* ── FAV STAR ── */
+.fav-star {
+  background:none; border:none; cursor:pointer; font-size:15px; line-height:1; padding:2px 4px;
+  color:rgba(255,255,255,0.35); transition:color .2s, transform .15s; flex-shrink:0;
+}
+.fav-star.fav-on { color:#fbbf24; text-shadow:0 0 12px rgba(251,191,36,0.35); }
+.fav-star:active { transform:scale(0.92); }
+
+/* ── FONT SIZE (active card) ── */
+.font-size-controls {
+  position:absolute; bottom:12px; right:14px; z-index:6; display:flex; gap:6px; pointer-events:auto;
+}
+.card:not(.active) .font-size-controls { visibility:hidden; pointer-events:none; }
+.font-btn {
+  background:rgba(0,0,0,0.45); border:1px solid rgba(255,255,255,0.12); border-radius:8px;
+  color:var(--ink); font-family:'DM Mono',monospace; font-size:11px; padding:6px 10px; cursor:pointer;
+  transition:opacity .2s, border-color .2s;
+}
+.font-btn:active { opacity:.85; }
+
+.card-body.scrolls {
+  overflow-y:auto; -webkit-overflow-scrolling:touch; touch-action:pan-y;
+}
+.card-body.scrolls::after {
+  content:''; position:absolute; left:0; right:0; bottom:0; height:28px; pointer-events:none;
+  background:linear-gradient(to top, var(--card-bg), rgba(13,17,23,0));
+}
+
+/* ── FAV SAVE POPUP ── */
+#fav-overlay {
+  display:none; position:fixed; inset:0; z-index:400;
+  background:rgba(6,8,13,0.88); backdrop-filter:blur(10px);
+  align-items:center; justify-content:center; padding:24px;
+}
+#fav-overlay.open { display:flex; }
+#fav-panel {
+  background:var(--card-bg); border:1px solid var(--border); border-radius:16px; padding:20px;
+  max-width:400px; width:100%;
+}
+#fav-panel h3 { font-family:'Fraunces',serif; font-size:16px; margin-bottom:12px; color:var(--ink); }
+#fav-note { width:100%; min-height:88px; background:rgba(255,255,255,0.05); border:1px solid var(--border);
+  border-radius:10px; padding:12px; color:var(--ink); font-family:'Outfit',sans-serif; font-size:14px; resize:vertical; }
+#fav-actions { display:flex; gap:10px; margin-top:14px; justify-content:flex-end; }
+#fav-cancel, #fav-save {
+  font-family:'DM Mono',monospace; font-size:11px; padding:10px 16px; border-radius:10px; cursor:pointer; border:none;
+}
+#fav-cancel { background:transparent; color:var(--muted); }
+#fav-save { background:var(--accent); color:#06080d; }
 
 /* ── ASK BUTTON ── */
 .ask-btn {
@@ -245,7 +294,7 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 }
 .ask-btn:active { opacity:.9; }
 
-/* ── ASK OVERLAY ── */
+/* ── CHAT OVERLAY (loupe) ── */
 #ask-overlay {
   display:none; position:fixed; inset:0; z-index:300;
   background:rgba(6,8,13,0.88); backdrop-filter:blur(10px);
@@ -254,27 +303,79 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 #ask-overlay.open { display:flex; }
 #ask-panel {
   background:var(--card-bg); border:1px solid var(--border);
-  border-radius:20px 20px 0 0; padding:20px 20px 24px;
+  border-radius:20px 20px 0 0;
   max-width:540px; width:100%;
-  max-height:calc(100vh - var(--header-h) - var(--footer-h) - 12px);
-  overflow-y:auto; -webkit-overflow-scrolling:touch;
+  max-height:90vh;
+  height:min(90vh, 560px);
+  overflow:hidden;
+  display:flex; flex-direction:column;
   animation:slideUp .3s cubic-bezier(.22,1,.36,1);
 }
 @keyframes slideUp { from{transform:translateY(100%)} to{transform:translateY(0)} }
 #ask-header {
-  display:flex; align-items:center; justify-content:space-between;
-  position:sticky; top:0; z-index:1; background:var(--card-bg);
-  padding-bottom:10px; margin-bottom:4px;
+  display:flex; align-items:center; justify-content:space-between; gap:10px;
+  flex-shrink:0;
+  position:sticky; top:0; z-index:10;
+  background:var(--card-bg);
+  padding:16px 18px 12px;
   border-bottom:1px solid rgba(255,255,255,0.07);
 }
 #ask-context-label {
-  font-family:'DM Mono',monospace; font-size:10px; letter-spacing:1px;
-  color:var(--muted); text-transform:uppercase;
-  overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:75%;
+  font-family:'DM Mono',monospace; font-size:11px; letter-spacing:0.5px;
+  color:var(--ink); font-weight:500;
+  overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:1; min-width:0;
 }
-#ask-close {
+.ask-header-actions { display:flex; align-items:center; gap:8px; flex-shrink:0; }
+#ask-new-conv, #ask-close {
   background:none; border:none; cursor:pointer; font-family:'DM Mono',monospace;
-  font-size:10px; color:var(--muted); letter-spacing:1px; padding:0; flex-shrink:0;
+  font-size:10px; color:var(--muted); letter-spacing:0.5px; padding:4px 6px;
+}
+#ask-new-conv { color:var(--accent); }
+#ask-messages {
+  flex:1 1 0;
+  min-height:0;
+  overflow-y:auto;
+  -webkit-overflow-scrolling:touch;
+  touch-action:pan-y;
+  padding:14px 16px;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+.chat-sep {
+  text-align:center; font-family:'DM Mono',monospace; font-size:10px; color:var(--muted);
+  padding:8px 0; opacity:0.85;
+}
+.chat-msg { max-width:92%; padding:10px 13px; border-radius:14px; font-size:13px; line-height:1.65; word-break:break-word; }
+.chat-msg-assistant {
+  align-self:flex-start;
+  background:rgba(255,255,255,0.06);
+  border:1px solid rgba(255,255,255,0.08);
+  color:rgba(232,228,220,0.9);
+}
+.chat-msg-user {
+  align-self:flex-end;
+  background:rgba(255,255,255,0.08);
+  border:1px solid rgba(255,255,255,0.16);
+  color:rgba(232,228,220,0.95);
+}
+.chat-msg p { margin:0 0 8px; }
+.chat-msg p:last-child { margin-bottom:0; }
+.chat-msg strong { color:rgba(232,228,220,1); font-weight:500; }
+.chat-msg h4 {
+  font-family:'Fraunces',serif; font-size:13px; font-weight:600;
+  color:var(--accent); margin:0 0 6px;
+}
+.chat-msg ul { padding-left:16px; margin:4px 0; }
+.chat-msg li { margin-bottom:4px; }
+.chat-msg em { color:var(--muted); font-style:normal; font-size:12px; }
+#ask-input-wrap {
+  flex-shrink:0;
+  position:sticky; bottom:0;
+  z-index:5;
+  background:var(--card-bg);
+  border-top:1px solid rgba(255,255,255,0.07);
+  padding:12px 16px 18px;
 }
 .ask-input-row { display:flex; gap:8px; }
 #ask-input {
@@ -289,21 +390,6 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
   color:#06080d; white-space:nowrap; transition:opacity .2s; flex-shrink:0;
 }
 #ask-send:disabled { opacity:.4; cursor:default; }
-#ask-response {
-  display:none; margin-top:14px; font-size:13px; line-height:1.75;
-  color:rgba(232,228,220,.82);
-}
-#ask-response.visible { display:block; }
-#ask-response p { margin:0 0 10px; }
-#ask-response p:last-child { margin-bottom:0; }
-#ask-response strong { color:rgba(232,228,220,1); font-weight:500; }
-#ask-response h4 {
-  font-family:'Fraunces',serif; font-size:14px; font-weight:600;
-  color:var(--accent); margin:12px 0 5px; letter-spacing:-.2px;
-}
-#ask-response ul { padding-left:18px; margin:4px 0 10px; }
-#ask-response li { margin-bottom:5px; }
-#ask-response em { color:var(--muted); font-style:normal; font-size:12px; }
 </style>
 </head>
 <body>
@@ -339,18 +425,34 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
   </div>
 </div>
 
-<!-- Ask overlay -->
+<!-- Chat overlay (loupe) -->
 <div id="ask-overlay">
   <div id="ask-panel">
     <div id="ask-header">
-      <span id="ask-context-label"></span>
-      <button id="ask-close">fermer ×</button>
+      <span id="ask-context-label">Discussion</span>
+      <div class="ask-header-actions">
+        <button type="button" id="ask-new-conv">Nouvelle conversation</button>
+        <button type="button" id="ask-close">fermer ×</button>
+      </div>
     </div>
-    <div class="ask-input-row">
-      <input id="ask-input" type="text" autocomplete="off" spellcheck="false" placeholder="Que voulez-vous comprendre ?">
-      <button id="ask-send">Envoyer →</button>
+    <div id="ask-messages"></div>
+    <div id="ask-input-wrap">
+      <div class="ask-input-row">
+        <input id="ask-input" type="text" autocomplete="off" spellcheck="false" placeholder="Écris ton message…">
+        <button type="button" id="ask-send">Envoyer →</button>
+      </div>
     </div>
-    <div id="ask-response"></div>
+  </div>
+</div>
+
+<div id="fav-overlay">
+  <div id="fav-panel">
+    <h3 id="fav-panel-title">Enregistrer en favori</h3>
+    <textarea id="fav-note" placeholder="Note optionnelle…"></textarea>
+    <div id="fav-actions">
+      <button type="button" id="fav-cancel">Annuler</button>
+      <button type="button" id="fav-save">Enregistrer</button>
+    </div>
   </div>
 </div>
 
@@ -394,12 +496,15 @@ function makeCard(slide, idx) {
     : `<span class="card-num">0${newsIdx+1}</span>`;
 
   const cleanText = t => t ? t.replace(/\[\d+\]/g, '').trim() : t;
+  div.dataset.newsIdx = String(newsIdx);
+  div.dataset.isUpdate = isUpdate ? '1' : '0';
   div.innerHTML = `
     <div class="card-meta">
       ${numLabel}
       <div class="meta-right">
         <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
-        <button class="ask-btn" onclick="openAsk(this)">🔍</button>
+        <button type="button" class="fav-star" data-news-idx="${newsIdx}" title="Favori" aria-label="Favori">☆</button>
+        <button type="button" class="ask-btn" onclick="openChat(this)">🔍</button>
       </div>
     </div>
     ${isUpdate && item.original ? `<div class="update-origin">↳ suite : ${item.original}</div>` : '<div class="divider"></div>'}
@@ -408,22 +513,35 @@ function makeCard(slide, idx) {
       <div class="card-body">${cleanText(item.summary)}</div>
       <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${cleanText(item.why)}</span></div>
     </div>
+    <div class="font-size-controls" aria-label="Taille du texte">
+      <button type="button" class="font-btn" data-delta="-1">A−</button>
+      <button type="button" class="font-btn" data-delta="1">A+</button>
+    </div>
   `;
   return div;
 }
 
+function readDigestFontSize() {
+  let fs = 14;
+  try {
+    const v = localStorage.getItem('digestFontSize');
+    if (v != null) fs = Math.max(10, Math.min(20, parseInt(v, 10) || 14));
+  } catch (_) {}
+  return fs;
+}
+
+function writeDigestFontSize(fs) {
+  try { localStorage.setItem('digestFontSize', String(fs)); } catch (_) {}
+}
+
 function fitTextToBox(card) {
+  const fs = readDigestFontSize();
   const body = card.querySelector('.card-body');
   if (body) {
-    body.classList.remove('body-expandable');
-    let fs = 14;
     body.style.fontSize = fs + 'px';
-    while (body.scrollHeight > body.clientHeight && fs > 9) {
-      fs -= 0.5;
-      body.style.fontSize = fs + 'px';
-    }
+    body.classList.remove('body-expandable', 'scrolls');
     if (body.scrollHeight > body.clientHeight + 2) {
-      body.classList.add('body-expandable');
+      body.classList.add('body-expandable', 'scrolls');
     }
   }
   const whyText = card.querySelector('.why-text');
@@ -446,6 +564,7 @@ function renderAll() {
   // Fit text after a frame so layout is computed
   requestAnimationFrame(() => {
     stage.querySelectorAll('.card').forEach(fitTextToBox);
+    refreshFavStars();
   });
   updateChrome();
 }
@@ -489,17 +608,28 @@ function goTo(next) {
 
 /* ── SWIPE ── */
 let startX=0, startY=0, dx=0, tracking=false, swiping=false, raf=null;
+let touchScrollBody = null;
 
 document.body.addEventListener('touchmove', e => { if (swiping) e.preventDefault(); }, { passive:false });
 
-function onStart(x,y) { startX=x; startY=y; dx=0; tracking=true; swiping=false; }
+function onStart(x,y,ev) {
+  touchScrollBody = ev && ev.target && ev.target.closest ? ev.target.closest('.card-body.scrolls') : null;
+  startX=x; startY=y; dx=0; tracking=true; swiping=false;
+}
 
 function onMove(x,y) {
   if (!tracking) return;
   const diffX=x-startX, diffY=y-startY;
+  if (touchScrollBody) {
+    if (Math.abs(diffY) > Math.abs(diffX) && Math.abs(diffY) > 12) {
+      tracking = false;
+      touchScrollBody = null;
+      return;
+    }
+  }
   if (!swiping) {
     if (Math.abs(diffX)<8 && Math.abs(diffY)<8) return;
-    if (Math.abs(diffY)>Math.abs(diffX)) { tracking=false; return; }
+    if (Math.abs(diffY)>Math.abs(diffX)) { tracking=false; touchScrollBody=null; return; }
     swiping=true;
   }
   dx=diffX;
@@ -544,11 +674,11 @@ function onEnd() {
   dx=0;
 }
 
-stage.addEventListener('touchstart',  e=>onStart(e.touches[0].clientX,e.touches[0].clientY),{passive:true});
+stage.addEventListener('touchstart',  e=>onStart(e.touches[0].clientX,e.touches[0].clientY,e),{passive:true});
 stage.addEventListener('touchmove',   e=>onMove(e.touches[0].clientX,e.touches[0].clientY), {passive:true});
 stage.addEventListener('touchend',    onEnd,{passive:true});
 stage.addEventListener('touchcancel', onEnd,{passive:true});
-stage.addEventListener('mousedown',   e=>onStart(e.clientX,e.clientY));
+stage.addEventListener('mousedown',   e=>onStart(e.clientX,e.clientY,e));
 window.addEventListener('mousemove',  e=>{ if(tracking) onMove(e.clientX,e.clientY); });
 window.addEventListener('mouseup',    onEnd);
 window.addEventListener('keydown',    e=>{ if(e.key==='ArrowRight'||e.key==='ArrowDown') goTo(cur+1); if(e.key==='ArrowLeft'||e.key==='ArrowUp') goTo(cur-1); });
@@ -580,26 +710,55 @@ whyOverlay.addEventListener('click', e => {
   if (e.target === whyOverlay) whyOverlay.classList.remove('open', 'body-mode', 'update-mode');
 });
 
-/* ── ASK FEATURE ── */
-const _PX_KEY     = atob('cHBseC1GOTljQ1c3ME9va3ZIOTNISFZ0c1YwTVN1NDBVOVY0UVpzbm1UVzdWam1iN0dnTVY=');
-const askOverlay  = document.getElementById('ask-overlay');
-const askInput    = document.getElementById('ask-input');
-const askSend     = document.getElementById('ask-send');
-const askResponse = document.getElementById('ask-response');
-const askCtxLabel = document.getElementById('ask-context-label');
-let   _askCtx     = '';
+/* ── THEME / STORAGE ── */
+const THEME = 'eco';
+const THEME_LABEL = 'Économie';
+const THEME_COLOR = '#f59e0b';
+let digestDate = '';
+const WELCOME_TEXT = 'Je suis là pour approfondir ce sujet. Que veux-tu savoir ?';
 
-function openAsk(btn) {
-  const card = btn.closest('.card');
-  const title   = card.querySelector('.card-title')?.textContent?.trim() || '';
+const _PX_KEY = atob('cHBseC1GOTljQ1c3ME9va3ZIOTNISFZ0c1YwTVN1NDBVOVY0UVpzbm1UVzdWam1iN0dnTVY=');
+const askOverlay = document.getElementById('ask-overlay');
+const askInput = document.getElementById('ask-input');
+const askSend = document.getElementById('ask-send');
+const askMessages = document.getElementById('ask-messages');
+const askCtxLabel = document.getElementById('ask-context-label');
+const favOverlay = document.getElementById('fav-overlay');
+const favNote = document.getElementById('fav-note');
+let _chatNewsIdx = 0;
+let _chatCard = null;
+
+function chatStorageKey(newsIdx) { return 'chat_' + THEME + '_' + newsIdx; }
+
+function loadChatState(newsIdx) {
+  try {
+    const raw = localStorage.getItem(chatStorageKey(newsIdx));
+    if (!raw) return { cardTitle: '', messages: [], archives: [] };
+    const o = JSON.parse(raw);
+    return {
+      cardTitle: o.cardTitle || '',
+      messages: Array.isArray(o.messages) ? o.messages : [],
+      archives: Array.isArray(o.archives) ? o.archives : []
+    };
+  } catch (_) {
+    return { cardTitle: '', messages: [], archives: [] };
+  }
+}
+
+function saveChatState(newsIdx, state) {
+  try { localStorage.setItem(chatStorageKey(newsIdx), JSON.stringify(state)); } catch (_) {}
+}
+
+function favStorageKey(newsIdx) {
+  const d = digestDate || 'nodate';
+  return 'fav_' + THEME + '_' + newsIdx + '_' + d;
+}
+
+function getCardContext(card) {
+  const title = card.querySelector('.card-title')?.textContent?.trim() || '';
   const summary = card.querySelector('.card-body')?.textContent?.trim() || '';
-  _askCtx = `Titre : "${title}". Résumé : "${summary.slice(0, 500)}"`;
-  askCtxLabel.textContent = title;
-  askResponse.textContent = '';
-  askResponse.classList.remove('visible');
-  askInput.value = '';
-  askOverlay.classList.add('open');
-  setTimeout(() => askInput.focus(), 320);
+  const why = card.querySelector('.why-text')?.textContent?.trim() || '';
+  return { title, summary, why };
 }
 
 function formatAskResponse(text) {
@@ -632,35 +791,206 @@ function formatAskResponse(text) {
   }).filter(Boolean).join('');
 }
 
+function renderChatMessages(newsIdx) {
+  askMessages.innerHTML = '';
+  const st = loadChatState(newsIdx);
+  const archives = st.archives || [];
+  const messages = st.messages || [];
+
+  const appendBubble = (role, html) => {
+    const div = document.createElement('div');
+    div.className = 'chat-msg ' + (role === 'user' ? 'chat-msg-user' : 'chat-msg-assistant');
+    div.innerHTML = html;
+    askMessages.appendChild(div);
+  };
+
+  archives.forEach((arch, ai) => {
+    (arch.messages || []).forEach(m => {
+      if (m.role === 'user' || m.role === 'assistant') {
+        appendBubble(m.role, m.role === 'assistant' ? formatAskResponse(m.content) : '<p>' + escapeHtml(m.content) + '</p>');
+      }
+    });
+    const hasMore = (ai < archives.length - 1) || messages.length > 0;
+    if (hasMore) {
+      const sep = document.createElement('div');
+      sep.className = 'chat-sep';
+      sep.textContent = '— Session précédente —';
+      askMessages.appendChild(sep);
+    }
+  });
+
+  messages.forEach(m => {
+    if (m.role === 'user' || m.role === 'assistant') {
+      appendBubble(m.role, m.role === 'assistant' ? formatAskResponse(m.content) : '<p>' + escapeHtml(m.content) + '</p>');
+    }
+  });
+
+  askMessages.scrollTop = askMessages.scrollHeight;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function messagesForApi(st) {
+  const out = [];
+  (st.messages || []).forEach(m => {
+    if (m.role === 'assistant' && m.content === WELCOME_TEXT) return;
+    if (m.role === 'user' || m.role === 'assistant') out.push({ role: m.role, content: m.content });
+  });
+  return out;
+}
+
+function openChat(btn) {
+  const card = btn.closest('.card');
+  _chatCard = card;
+  const newsIdx = parseInt(card.dataset.newsIdx, 10) || 0;
+  _chatNewsIdx = newsIdx;
+  const { title, summary, why } = getCardContext(card);
+  askCtxLabel.textContent = 'Discussion';
+  let st = loadChatState(newsIdx);
+  st.cardTitle = title;
+  if (!st.messages.length && !(st.archives && st.archives.length)) {
+    st.messages.push({ role: 'assistant', content: WELCOME_TEXT, timestamp: Date.now() });
+    saveChatState(newsIdx, st);
+  }
+  renderChatMessages(newsIdx);
+  askInput.value = '';
+  askOverlay.classList.add('open');
+  setTimeout(() => askInput.focus(), 320);
+}
+
+function newConversation() {
+  const newsIdx = _chatNewsIdx;
+  let st = loadChatState(newsIdx);
+  if (st.messages && st.messages.length) {
+    st.archives = st.archives || [];
+    st.archives.push({ savedAt: Date.now(), messages: st.messages.slice() });
+    st.archives = st.archives.slice(-5);
+  }
+  st.messages = [{ role: 'assistant', content: WELCOME_TEXT, timestamp: Date.now() }];
+  saveChatState(newsIdx, st);
+  const card = _chatCard;
+  if (card) {
+    const t = card.querySelector('.card-title')?.textContent?.trim() || '';
+    st.cardTitle = t;
+    saveChatState(newsIdx, st);
+  }
+  renderChatMessages(newsIdx);
+}
+
+document.getElementById('ask-new-conv').addEventListener('click', newConversation);
+
 askSend.addEventListener('click', async () => {
   const val = askInput.value.trim();
   if (!val) return;
+  const newsIdx = _chatNewsIdx;
+  const st = loadChatState(newsIdx);
+  st.messages.push({ role: 'user', content: val, timestamp: Date.now() });
+  saveChatState(newsIdx, st);
+  askInput.value = '';
+  renderChatMessages(newsIdx);
   askSend.disabled = true;
-  askResponse.innerHTML = '<em>Chargement…</em>';
-  askResponse.classList.add('visible');
+  const card = _chatCard || stage.querySelector('.card[data-news-idx="' + newsIdx + '"]');
+  const { title, summary, why } = card ? getCardContext(card) : { title: '', summary: '', why: '' };
+  const sys = `Tu es un assistant concis. Réponds en français.\n- Pour une question simple (qui est X, qu'est-ce que Y, définition), réponds en 2-3 phrases maximum, pas de titres ni de listes.\n- Pour une question complexe qui demande vraiment une explication détaillée, structure avec des titres (## Titre) et du gras (**terme**).\nContexte de la carte :\nTitre : ${title}\nRésumé : ${summary.slice(0, 1200)}\nPourquoi : ${why.slice(0, 400)}\nN'inclus jamais de références [1][2] ni d'URLs.`;
+  const hist = messagesForApi(loadChatState(newsIdx));
   try {
     const r = await fetch('https://api.perplexity.ai/chat/completions', {
       method: 'POST',
       headers: { 'Authorization': `Bearer ${_PX_KEY}`, 'Content-Type': 'application/json' },
       body: JSON.stringify({
         model: 'sonar',
-        messages: [
-          { role: 'system', content: `Tu es un assistant concis. Réponds en français.\n- Pour une question simple (qui est X, qu'est-ce que Y, définition), réponds en 2-3 phrases maximum, pas de titres ni de listes.\n- Pour une question complexe qui demande vraiment une explication détaillée, structure avec des titres (## Titre) et du gras (**terme**).\nContexte de l'article : ${_askCtx}\nN'inclus jamais de références [1][2] ni d'URLs.` },
-          { role: 'user', content: val }
-        ],
-        max_tokens: 400, temperature: 0.3
+        messages: [{ role: 'system', content: sys }].concat(hist),
+        max_tokens: 500,
+        temperature: 0.3
       })
     });
     const data = await r.json();
     const raw = data.choices?.[0]?.message?.content || 'Pas de réponse.';
-    askResponse.innerHTML = formatAskResponse(raw);
-  } catch { askResponse.innerHTML = '<em>Erreur de connexion.</em>'; }
+    const st2 = loadChatState(newsIdx);
+    st2.messages.push({ role: 'assistant', content: raw.replace(/\[\d+\]/g, '').trim(), timestamp: Date.now() });
+    saveChatState(newsIdx, st2);
+    renderChatMessages(newsIdx);
+  } catch (_) {
+    const st2 = loadChatState(newsIdx);
+    st2.messages.push({ role: 'assistant', content: 'Erreur de connexion.', timestamp: Date.now() });
+    saveChatState(newsIdx, st2);
+    renderChatMessages(newsIdx);
+  }
   askSend.disabled = false;
 });
 
 askInput.addEventListener('keydown', e => { if (e.key === 'Enter') askSend.click(); });
 document.getElementById('ask-close').addEventListener('click', () => askOverlay.classList.remove('open'));
 askOverlay.addEventListener('click', e => { if (e.target === askOverlay) askOverlay.classList.remove('open'); });
+
+/* ── FAVORIS ── */
+let _favTargetNewsIdx = null;
+
+function refreshFavStars() {
+  stage.querySelectorAll('.fav-star').forEach(btn => {
+    const n = parseInt(btn.dataset.newsIdx, 10);
+    const key = favStorageKey(n);
+    let on = false;
+    try { on = localStorage.getItem(key) != null; } catch (_) {}
+    btn.classList.toggle('fav-on', on);
+    btn.textContent = on ? '★' : '☆';
+  });
+}
+
+document.addEventListener('click', e => {
+  const star = e.target.closest('.fav-star');
+  if (!star || !stage.contains(star)) return;
+  e.stopPropagation();
+  const newsIdx = parseInt(star.dataset.newsIdx, 10);
+  const key = favStorageKey(newsIdx);
+  let existing = null;
+  try { existing = localStorage.getItem(key); } catch (_) {}
+  if (existing) {
+    if (!confirm('Retirer ce favori ?')) return;
+    try { localStorage.removeItem(key); } catch (_) {}
+    refreshFavStars();
+    return;
+  }
+  _favTargetNewsIdx = newsIdx;
+  favNote.value = '';
+  favOverlay.classList.add('open');
+});
+
+document.getElementById('fav-cancel').addEventListener('click', () => { favOverlay.classList.remove('open'); _favTargetNewsIdx = null; });
+document.getElementById('fav-save').addEventListener('click', () => {
+  if (_favTargetNewsIdx == null) return;
+  const card = stage.querySelector('.card[data-news-idx="' + _favTargetNewsIdx + '"]');
+  const title = card?.querySelector('.card-title')?.textContent?.trim() || '';
+  const note = favNote.value.trim();
+  const payload = {
+    title,
+    theme: THEME_LABEL,
+    themeColor: THEME_COLOR,
+    date: digestDate,
+    url: typeof location !== 'undefined' ? location.href.split('#')[0] : '',
+    note,
+    savedAt: Date.now()
+  };
+  try { localStorage.setItem(favStorageKey(_favTargetNewsIdx), JSON.stringify(payload)); } catch (_) {}
+  favOverlay.classList.remove('open');
+  _favTargetNewsIdx = null;
+  refreshFavStars();
+});
+favOverlay.addEventListener('click', e => { if (e.target === favOverlay) favOverlay.classList.remove('open'); });
+
+/* ── FONT A− / A+ ── */
+document.addEventListener('click', e => {
+  const b = e.target.closest('.font-btn');
+  if (!b || !stage.contains(b)) return;
+  e.stopPropagation();
+  const delta = parseInt(b.dataset.delta, 10) || 0;
+  let fs = readDigestFontSize() + delta;
+  fs = Math.max(10, Math.min(20, fs));
+  writeDigestFontSize(fs);
+  stage.querySelectorAll('.card').forEach(fitTextToBox);
+});
 
 /* ── INIT ── */
 (async()=>{
@@ -670,6 +1000,7 @@ askOverlay.addEventListener('click', e => { if (e.target === askOverlay) askOver
   try { const r=await fetch('eco_today.json?t='+Date.now()); if(!r.ok) throw new Error(); data=await r.json(); }
   catch { loading.style.opacity='0'; setTimeout(()=>{ loading.style.display='none'; errorState.style.display='flex'; },400); return; }
   document.getElementById('header-date').textContent=data.date||'';
+  digestDate = data.date || '';
   buildSlides(data);
   renderAll();
   loading.style.opacity='0';
