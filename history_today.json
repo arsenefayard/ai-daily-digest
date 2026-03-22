@@ -1,37 +1,33 @@
 {
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "subject": {
-    "name": "Rébellion de Kronstadt",
-    "type": "Événement",
-    "period": "1921 · Révolution russe et début de l'URSS",
-    "context": "Au lendemain de la guerre civile russe, les marins de la base navale de Kronstadt, héros de la Révolution d'Octobre 1917, se révoltent contre le régime bolchevique en réclamant la restauration des soviets authentiques et des libertés démocratiques face à la dictature du parti communiste. Ils élisent un comité de défense et hissent le drapeau 'Conseils ouvriers et paysans, non pas bolcheviks !', dénonçant la répression des opposants et la bureaucratie naissante. L'Armée rouge, dirigée par Trotski, lance une répression sanglante du 7 au 21 mars, massacrant des milliers de rebelles et exécutant les survivants. Cet épisode révèle les tensions internes au bolchevisme et accélère l'introduction de la Nouvelle Politique Économique par Lénine pour apaiser les mécontentements.",
+    "name": "Bataille du Vieil-Baugé",
+    "type": "Bataille",
+    "period": "1421 · Guerre de Cent Ans",
+    "context": "Au cours de la Guerre de Cent Ans, une armée anglaise commandée par le duc de Clarence, frère du roi Henri V, envahit l'Anjou pour affaiblir les forces françaises. Les Franco-Écossais, menés par le connétable de Richemont et des chevaliers écossais comme sir Robert Stewart, tendent une embuscade aux Anglais près du Vieil-Baugé. Malgré leur supériorité numérique, les Anglais sont surpris dans la nuit et subissent une défaite cuisante. Ce revers inattendu brise l'invincibilité apparente des armées anglaises et redonne espoir aux Français au moment où Jeanne d'Arc n'était pas encore apparue.",
     "dates": [
       {
-        "year": "1917",
-        "label": "Marins de Kronstadt soutiennent la Révolution bolchevique"
+        "year": "1415",
+        "label": "Bataille d'Azincourt renforce les Anglais"
       },
       {
-        "year": "1921",
-        "label": "Congrès des ouvriers réclame des réformes démocratiques"
+        "year": "1421",
+        "label": "Duke de Clarence envahit l'Anjou"
       },
       {
-        "year": "7 mars 1921",
-        "label": "Début de la mutinerie et prise de la forteresse"
+        "year": "22 mars 1421",
+        "label": "Embuscade nocturne et défaite anglaise"
       },
       {
-        "year": "17 mars 1921",
-        "label": "Première offensive ratée de l'Armée rouge sur la glace"
+        "year": "1421",
+        "label": "Mort du duc de Clarence au combat"
       },
       {
-        "year": "21 mars 1921",
-        "label": "Victoire bolchevique et massacre des rebelles"
-      },
-      {
-        "year": "Avril 1921",
-        "label": "Lénine annonce la NEP en réponse à la crise"
+        "year": "1429",
+        "label": "Jeanne d'Arc somme les Anglais huit ans plus tard"
       }
     ],
-    "legacy": "La répression de Kronstadt marque la fin des illusions sur la démocratie soviétique et pave la voie à la dictature stalinienne en éliminant une opposition potentielle au sein même de la révolution. Elle influence durablement l'historiographie du communisme, symbolisant le paradoxe d'une révolution qui se retourne contre ses propres idéaux. Son souvenir reste vivace chez les anarchistes et les trotskystes comme un avertissement contre l'autoritarisme.",
-    "why": "Cette révolte oubliée des héros bolcheviques eux-mêmes révèle que le totalitarisme soviétique s'est forgé dès 1921, bien avant Staline, surprenant par sa proximité avec les idéaux originels de la Révolution."
+    "legacy": "Cette victoire mineure mais symbolique marque le début du reflux anglais en France et inspire la résistance. Elle démontre l'efficacité des tactiques de guérilla contre les archers longs anglais. Son impact psychologique perdure dans l'historiographie de la Guerre de Cent Ans.",
+    "why": "Peu connue, elle prouve que l'invincibilité anglaise était un mythe fragile, préfigurant les retournements inattendus de l'Histoire."
   }
 }
