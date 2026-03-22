@@ -2,43 +2,35 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Supernovas superlumineuses alimentées par des magnétars : oscillations de luminosité détectées",
-      "summary": "Des chercheurs ont observé pour la première fois quatre sursauts de luminosité dans la supernova 2024afav avec une précision sans précédent, alors que les observations précédentes n'en avaient jamais détecté plus de deux. L'équipe a découvert que ces oscillations seraient causées par un disque en précession autour d'un magnétar, un phénomène de Lense-Thirring des centaines de millions de fois plus intense que celui observé autour des satellites terrestres. Cette découverte apporte des preuves encourageantes que les supernovas superlumineuses pourraient effectivement être alimentées par des magnétars, bien que le mécanisme exact reliant la précession à la luminosité reste à préciser.",
-      "why": "Cette avancée révolutionne notre compréhension des supernovas superlumineuses et pourrait expliquer l'une des énigmes majeures de l'astrophysique moderne. Le futur observatoire LSST permettra de découvrir des milliers de ces objets pour valider ce modèle.",
+      "title": "Oscillations de luminosité dans la supernova superlumineuse 2024afav confirmées par quatre sursauts",
+      "summary": "Des astronomes ont observé pour la première fois quatre sursauts de luminosité confirmés dans la supernova superlumineuse 2024afav, avec des intervalles diminuant de 50 à 20 jours. Ces oscillations sont attribuées à la précession d'un disque d'accrétion autour d'un magnétar naissant, un phénomène des centaines de millions de fois plus intense que sur Terre. Cette découverte renforce le modèle des supernovas alimentées par magnétars et pave la voie à des études futures avec le LSST.",
+      "why": "Elle fournit des preuves observationnelles solides pour un mécanisme clé de formation des magnétars et pourrait résoudre le mystère des supernovas superlumineuses.",
       "category": "Espace"
     },
     {
-      "title": "Doolysaurus : nouveau dinosaure juvénile découvert en Corée du Sud",
-      "summary": "Un dinosaure juvénile a été découvert en Corée du Sud et nommé Doolysaurus en hommage à un personnage de la culture populaire. Son crâne, resté invisible jusqu'à un scanner haute résolution, révèle de nouvelles données morphologiques sur les dinosaures asiatiques et enrichit notre compréhension de la paléontologie régionale. Cette découverte contribue à combler les lacunes des connaissances sur les dinosaures du continent asiatique.",
-      "why": "Cette découverte élargit notre connaissance des écosystèmes dinosauriens asiatiques et démontre l'importance des techniques d'imagerie moderne pour révéler des détails anatomiques cachés dans les fossiles.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Neutrino ultra-énergétique détecté : possiblement originaire d'un blazar",
-      "summary": "Le neutrino le plus énergétique jamais détecté a été observé et pourrait provenir d'un blazar, un noyau galactique actif extrêmement lumineux. Cette détection représente un jalon majeur dans l'astronomie des neutrinos et ouvre une nouvelle fenêtre d'observation sur les phénomènes astrophysiques les plus violents de l'univers. L'identification de la source potentielle du neutrino permet de mieux comprendre les mécanismes d'accélération des particules dans ces objets exotiques.",
-      "why": "Cette découverte marque une avancée cruciale dans l'étude de l'univers à très haute énergie et pourrait révéler de nouveaux phénomènes physiques jusqu'alors inaccessibles à l'observation directe.",
+      "title": "Détection de silice cristallisée (opale, calcédoine, quartz) dans le cratère Jezero par Perseverance",
+      "summary": "Le rover Perseverance a identifié une forte concentration de silice sous formes d'opale, calcédoine et quartz bien cristallisé dans une roche du rebord du cratère Jezero. Ces minéraux indiquent des processus géologiques hydrothermaux similaires à ceux de la Terre, impliquant précipitation et cristallisation. Cette découverte concurrence les argiles à kaolinite et guide la priorisation des carottes pour le retour d'échantillons.",
+      "why": "Elle révèle une histoire géologique complexe sur Mars, analogue à la Terre, et affine les cibles pour les futures analyses terrestres.",
       "category": "Espace"
     },
     {
-      "title": "Découverte d'une protéine responsable de l'addiction à la cocaïne",
-      "summary": "Des chercheurs ont identifié une protéine spécifique responsable de l'addiction à la cocaïne, ouvrant de nouvelles perspectives thérapeutiques pour traiter la dépendance aux drogues. Cette découverte moléculaire permet de mieux comprendre les mécanismes neurobiologiques sous-jacents à l'addiction et pourrait conduire au développement de traitements ciblés. L'identification de cette protéine représente une avancée significative dans la neuropharmacologie et la médecine des addictions.",
-      "why": "Cette découverte pourrait révolutionner le traitement des addictions en offrant une cible thérapeutique précise et en réduisant les taux de rechute chez les patients dépendants.",
-      "category": "Médecine"
+      "title": "Première identification de minéraux réox sensibles sur Mars par Perseverance",
+      "summary": "Grâce à des instruments robotiques et analyses à distance, l'équipe de Perseverance a détecté pour la première fois des minéraux réox sensibles aux conditions d'oxydation ou réduction chimique dans des roches martiennes. Ces minéraux préservent des informations sur l'environnement chimique ancien de la planète. Cette avancée éclaire les processus redox passés sur Mars.",
+      "why": "Elle offre un aperçu inédit des conditions chimiques anciennes de Mars, crucial pour évaluer son habitabilité potentielle.",
+      "category": "Espace"
     },
     {
-      "title": "Sensibilité des hérissons aux ultrasons : implications pour leur protection",
-      "summary": "Des chercheurs ont découvert que les hérissons sont sensibles aux ultrasons, une capacité sensorielle jusqu'alors insoupçonnée chez ces mammifères. Cette découverte ouvre des perspectives novatrices pour développer des dispositifs de protection basés sur les ultrasons afin de réduire les collisions routières et les accidents impliquant les hérissons. La compréhension de cette sensibilité pourrait transformer les stratégies de conservation de cette espèce vulnérable.",
-      "why": "Cette découverte pourrait sauver des milliers de hérissons en permettant de créer des systèmes d'alerte ultrasonique efficaces, contribuant ainsi à la préservation de cette espèce en déclin.",
-      "category": "Biologie"
+      "title": "Observation de microcharges électrostatiques dues à des grains minéraux sur Mars",
+      "summary": "Des rencontres répétées de grains minéraux chargés électriquement dans l'air sec de Mars produisent des microcharges électrostatiques, confirmant un phénomène auparavant hypothétique. Ce processus électrostatique a des implications pour la chimie atmosphérique et la dust devils martiens. Les données des rovers valident ce mécanisme in situ.",
+      "why": "Cette découverte explique des phénomènes atmosphériques martiens et impacte les modèles climatiques planétaires.",
+      "category": "Espace"
+    },
+    {
+      "title": "Corrélation potentiellement importante découverte pour la matière noire",
+      "summary": "Une nouvelle observation suggère une corrélation significative liée à la matière noire, bien que les détails précis restent à préciser dans les données récentes. Cette avancée provient d'analyses astrophysiques actuelles et pourrait lier des phénomènes cosmiques à la composante manquante de l'univers. Elle ouvre des perspectives pour de futures vérifications.",
+      "why": "Si confirmée, elle représenterait une percée majeure dans la compréhension de la matière noire, un des plus grands mystères de la cosmologie.",
+      "category": "Physique"
     }
   ],
-  "updates": [
-    {
-      "title": "Toutes les bases de l'ADN détectées sur l'astéroïde Bennu",
-      "original": "Découverte de nucléobases, acides aminés, phosphates et glucose dans l'astéroïde Bennu (19/03/2026)",
-      "summary": "Une cinquième nucléobase ADN a été confirmée dans les échantillons de l'astéroïde Bennu, complétant ainsi la détection de toutes les bases essentielles de l'ADN. Cette confirmation renforce considérablement l'hypothèse que les briques élémentaires de la vie sont présentes dans les petits corps célestes primitifs. La découverte de l'ensemble complet des bases ADN sur Bennu établit un lien encore plus direct entre les astéroïdes et l'origine de la vie sur Terre.",
-      "why": "Cette mise à jour confirme que les astéroïdes primitifs contiennent tous les composants moléculaires nécessaires à la vie, soutenant la théorie de la panspermie et révolutionnant notre compréhension de l'abiogenèse.",
-      "category": "Espace"
-    }
-  ]
+  "updates": []
 }
