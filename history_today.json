@@ -1,33 +1,33 @@
 {
   "date": "22/03/2026",
   "subject": {
-    "name": "Pierre Brossolette",
-    "type": "Personnalité",
-    "period": "1903 – 1944 · Résistance française pendant la Seconde Guerre mondiale",
-    "context": "Pierre Brossolette était un journaliste et écrivain français devenu l'une des figures majeures de la Résistance intérieure pendant l'occupation nazie. Engagé politiquement dès les années 1930, il s'opposa au fascisme et au régime de Vichy avec une détermination remarquable. Arrêté par la Gestapo en février 1944, il fut soumis à des tortures brutales pour le contraindre à révéler les secrets de son réseau clandestin. Refusant de trahir ses compagnons et conscient des risques qu'une confession ferait peser sur la Résistance, Brossolette choisit de mettre fin à ses jours en se jetant par la fenêtre de sa cellule le 22 mars 1944, préférant la mort à la compromission.",
+    "name": "Bataille de Baugé",
+    "type": "Bataille",
+    "period": "1421 · Guerre de Cent Ans",
+    "context": "Au cours de la Guerre de Cent Ans, une alliance franco-écossaise inattendue se forma pour contrer l'avancée anglaise en Anjou. Les forces écossaises, menées par le comte d'Angoulême et Sir John Stewart, tendirent une embuscade aux Anglais commandés par le duc de Clarence, frère du roi Henri V, lors d'une campagne mal préparée. La bataille, survenue près du Vieil-Baugé, vit les chevaliers écossais charger à pied avec une discipline remarquable, massacrant l'arrière-garde anglaise surprise sans armure. Peu connue pour son impact immédiat limité, elle démoralisa les Anglais et redonna espoir au dauphin Charles, futur Charles VII, en brisant l'invincibilité apparente de l'armée du Lancastre. Un fait marquant est que le duc de Clarence fut tué par un simple écuyer écossais lors d'un combat singulier, soulignant la vulnérabilité des chefs anglais.",
     "dates": [
       {
-        "year": "1903",
-        "label": "Naissance de Pierre Brossolette à Paris"
+        "year": "1419",
+        "label": "Signature du traité franco-écossais d'Aix-la-Chapelle renforçant l'alliance 'Auld Alliance'"
       },
       {
-        "year": "1930s",
-        "label": "Engagement politique contre le fascisme et les régimes autoritaires"
+        "year": "1421",
+        "label": "Arrivée des contingents écossais en France pour soutenir Charles VII"
       },
       {
-        "year": "Février 1944",
-        "label": "Arrestation par la Gestapo et début des tortures"
+        "year": "22 mars 1421",
+        "label": "Victoire décisive franco-écossaise à la bataille de Baugé"
       },
       {
-        "year": "22 mars 1944",
-        "label": "Suicide en se jetant par la fenêtre de sa cellule"
+        "year": "1421",
+        "label": "Mort du duc de Clarence, frère d'Henri V, lors du combat"
       },
       {
-        "year": "1946",
-        "label": "Reconnaissance posthume comme héros de la Résistance par la France libérée"
+        "year": "1429",
+        "label": "Inspiration pour Jeanne d'Arc dans sa campagne de reconquête"
       }
     ],
-    "legacy": "La mémoire de Pierre Brossolette incarne le sacrifice ultime des résistants français face à la barbarie nazie. Son geste a inspiré plusieurs générations de militants et de citoyens engagés dans la défense des valeurs de liberté et de dignité humaine. Aujourd'hui encore, son exemple symbolise le courage moral face à l'oppression et demeure un symbole puissant de la Résistance française.",
-    "why": "À l'heure où les libertés individuelles et collectives sont constamment questionnées, Brossolette rappelle que certaines valeurs méritent des sacrifices absolus : le refus de trahir, la protection des autres et l'intégrité morale face aux régimes totalitaires restent des leçons intemporelles."
+    "legacy": "Cette bataille marqua un tournant psychologique dans la Guerre de Cent Ans en prouvant que les Anglais n'étaient pas invincibles, favorisant ultérieurement les succès français. Elle renforça durablement l'alliance franco-écossaise et influença les stratégies d'embuscade en Europe médiévale. Son héritage perdure dans l'historiographie comme un exemple de victoire alliée inattendue contre un ennemi supérieur.",
+    "why": "Dans un monde obsédé par les victoires anglaises mythifiées, Baugé révèle comment une embuscade rusée d'alliés outsiders peut renverser l'arrogance d'un empire en pleine expansion."
   }
 }
