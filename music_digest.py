@@ -102,8 +102,12 @@ RÈGLES STRICTES :
 1. "news" contient TOUJOURS exactement 5 actualités. Jamais moins, jamais vide.
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
-   - La PREMIÈRE news (index 0) est OBLIGATOIREMENT une actualité du monde du métal (category: "Métal") : sorties d'albums, tournées, formations/séparations de groupes, décès d'un musicien métal, festivals métal, etc. Si l'actualité métal est faible ce jour-là, choisis l'info métal la plus pertinente des 48 dernières heures.
-   - Les 4 news suivantes (index 1 à 4) couvrent le reste du monde de la musique (Rock, Pop, Hip-Hop, Électro, Classique, Autre). Aucune d'elles ne doit être catégorie "Métal". La diversité de genres est obligatoire : pas deux fois le même genre parmi ces 4.
+
+DIVERSITÉ — pour les 5 « news » (champ « category » : Métal|Rock|Pop|Hip-Hop|Électro|Classique|Autre) :
+- Objectif : cinq informations réellement distinctes par le sujet et l’angle, avec une bonne variété de genres (métal, rock, pop, hip-hop, électro, classique, jazz, R&B, etc.) quand l’actualité le permet.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les artistes, sorties ou événements sont clairement distincts.
+- Si un genre manque d’actus fortes, tu peux compléter avec une info transversale (streaming, droits, Grammy, festival majeur, décès d’artiste) en choisissant une « category » pertinente ou « Autre ».
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle (même sortie, même polémique recyclée). Dans ces cas, approfondis la recherche web et rééquilibre avant de répondre.
 
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : album surprise, décès d'un artiste majeur, scandale, annulation de tournée, récompense majeure.
@@ -111,9 +115,9 @@ RÈGLES STRICTES :
    - Ne jamais inventer une mise à jour.
 
 3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
-Concentre-toi sur : métal (slide dédiée), sorties d'albums, tournées, décès de musiciens, controverses, Grammy et récompenses, streaming, nouvelles tendances musicales.
+Concentre-toi sur : sorties d'albums, tournées, décès de musiciens, controverses, Grammy et récompenses, streaming, nouvelles tendances musicales.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
-            {"role": "user", "content": f"Donne-moi 5 actualités musicales : 1 actu métal en premier, puis 4 actus d'autres genres musicaux variés. Date : {datetime.now().strftime('%d/%m/%Y')}"}
+            {"role": "user", "content": f"Donne-moi 5 actualités musicales récentes, variées et non redondantes (règle DIVERSITÉ ci-dessus). Date : {datetime.now().strftime('%d/%m/%Y')}"}
         ],
         "temperature": 0.2, "max_tokens": 2000
     }

@@ -115,6 +115,7 @@ Format JSON strict :
 }}
 
 RÈGLES :
+- DIVERSITÉ dans la frise "dates" : chaque entrée doit refléter un type de jalons varié (naissance, tournant politique, œuvre majeure, voyage, traité, bataille, etc.) ; évite plus de deux entrées du même type d'événement si d'autres moments clés existent — sinon approfondis la recherche pour enrichir la chronologie sans répétitions artificielles.
 - "dates" contient entre 4 et 6 entrées, dans l'ordre chronologique, couvrant les moments clés
 - "context" ne répète pas les informations de "dates" : c'est une narration, pas une liste
 - "why" doit surprendre ou apporter un éclairage inattendu

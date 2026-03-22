@@ -49,6 +49,15 @@ def send_combined_email():
             cells += "<td style='width:50%;padding:6px;'></td>"
         rows += f"<tr>{cells}</tr>"
 
+    fav_section = f"""
+<div style="margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.06);">
+  <a href="{base}/favorites.html" style="display:block;text-decoration:none;background:#0d0d0d;border:1px solid rgba(251,191,36,0.2);border-radius:12px;padding:16px 20px;text-align:center;">
+    <span style="font-size:20px;">⭐</span>
+    <div style="color:#fbbf24;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;font-family:monospace;margin-top:6px;">Mes Favoris</div>
+  </a>
+</div>
+"""
+
     html = f"""
     <html><head><meta charset="UTF-8"></head>
     <body style="font-family:Georgia,serif;background:#000000;margin:0;padding:30px 16px;">
@@ -58,6 +67,7 @@ def send_combined_email():
         <table style="width:100%;border-collapse:collapse;">
           {rows}
         </table>
+        {fav_section}
         <p style="color:#333;font-size:10px;text-align:center;margin:20px 0 0;font-family:monospace;">Généré automatiquement · Perplexity AI</p>
       </div>
     </body></html>

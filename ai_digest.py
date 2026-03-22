@@ -113,6 +113,11 @@ RÈGLES STRICTES :
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
    - Si les 5 news ne sont pas trouvées avec les priorités hautes, complète avec les meilleures actualités IA disponibles ce jour-là.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Modèle|Entreprise|Recherche|Application|Régulation) :
+- Objectif : cinq informations réellement distinctes par le sujet et l’angle, pas cinq variantes du même filon.
+- Tu n’es pas obligé d’avoir 5 valeurs de « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les acteurs, produits ou événements sont clairement distincts.
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle (même événement/conférence recyclée). Dans ces cas, approfondis la recherche web (autres sources, autres acteurs, autres sous-thèmes) et rééquilibre avant de répondre.
+
 2. PRIORITÉS — dans cet ordre de préférence (mais toujours trouver 5 news) :
    a. Sortie ou annonce d'un nouveau modèle IA (GPT, Claude, Gemini, Llama, Mistral, etc.) : version, benchmarks, capacités
    b. Percée de recherche : nouveau papier scientifique majeur, résultat SOTA, architecture innovante
@@ -232,6 +237,11 @@ def push_to_github(data, history):
             html_content = html_content.replace("__PX_KEY_B64__", __import__("base64").b64encode(os.environ.get("PERPLEXITY_API_KEY","").encode()).decode())
             push_file_to_gh_pages(repo, headers, "index.html", html_content, "chore: update index.html")
             print("✅ index.html publié")
+
+        if os.path.exists("favorites.html"):
+            with open("favorites.html", "r", encoding="utf-8") as f:
+                push_file_to_gh_pages(repo, headers, "favorites.html", f.read(), "chore: update favorites.html")
+            print("✅ favorites.html publié")
 
         return True
 

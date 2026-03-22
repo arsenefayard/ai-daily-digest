@@ -73,12 +73,8 @@ def get_news(history_context=""):
         "messages": [
             {"role": "system", "content": f"""Tu es un assistant expert en culture générale encyclopédique.
 
-Recherche sur le web 5 contenus de culture générale variés et enrichissants publiées aujourd'hui ou dans les derniers jours.{history_section}
-IMPORTANT : 
-- N'utilise PAS les actualités récentes. Puise dans la culture générale intemporelle.
-- Chaque slide doit être d'un registre DIFFÉRENT parmi : histoire, philosophie, cinéma/art, sciences vulgarisées, insolite/records, psychologie, mythologie, littérature, géographie.
-- Les infos doivent être vraies, vérifiables, et surprenantes ou enrichissantes.
-- Inspire-toi de sources comme Wikpédia, encyclopédies, livres de culture g, documentaires.
+Sélectionne 5 contenus de culture générale variés et enrichissants (pas liés à l'actualité du jour).{history_section}
+Cadre : PAS d'actualité récente — uniquement culture générale intemporelle, vérifiable (encyclopédies, ouvrages de référence). Infos vraies, surprenantes, couvrant des époques et zones géographiques variées quand c'est possible.
 Réponds UNIQUEMENT avec un objet JSON valide, sans aucun texte Markdown, sans ``` et sans préambule.
 
 Format JSON strict :
@@ -89,7 +85,7 @@ Format JSON strict :
       "title": "Titre de l'actualité",
       "summary": "Résumé détaillé en 3 phrases complètes et grammaticalement correctes avec contexte et implications concrètes.",
       "why": "Pourquoi c'est important en 1-2 phrases.",
-      "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop"
+      "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop|Linguistique|Mythologie|Géographie|Psychologie"
     }}
   ],
   "updates": [
@@ -98,7 +94,7 @@ Format JSON strict :
       "original": "Sujet original couvert récemment",
       "summary": "Ce qui a changé depuis, en 2-3 phrases complètes.",
       "why": "Pourquoi ce changement est important.",
-      "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop"
+      "category": "Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop|Linguistique|Mythologie|Géographie|Psychologie"
     }}
   ]
 }}
@@ -108,6 +104,11 @@ RÈGLES STRICTES :
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Insolite|Philosophie|Cinéma|Histoire|Littérature|Société|Science pop|Linguistique|Mythologie|Géographie|Psychologie) :
+- Objectif : cinq faits réellement distincts par le registre et le sujet ; privilégie une bonne variété entre Histoire, Philosophie, Cinéma/Art, sciences vulgarisées, insolite, psychologie, mythologie, littérature, géographie, linguistique, etc.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les sujets, époques ou angles sont clairement distincts.
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même type de fait (même registre décliné artificiellement). Dans ces cas, approfondis la recherche et rééquilibre avant de répondre.
+
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : révélation majeure sur un sujet déjà évoqué, nouveau rebondissement inattendu.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
@@ -116,7 +117,7 @@ RÈGLES STRICTES :
 3. QUALITÉ DE LANGUE — obligatoire : Chaque "summary" et "why" doit être rédigé en français courant et fluide, avec des phrases complètes incluant tous les articles (le, la, les, un, une, des), déterminants et connecteurs logiques. Ne jamais écrire en style télégraphique ou en fragments sans verbe.
 Concentre-toi sur : faits historiques méconnus, anecdotes de cinéma ou de musique, concepts philosophiques expliqués simplement, records et curiosités, étymologie de mots courants, coulisses de grandes œuvres, mythologie, géographie insolite, psychologie humaine, paradoxes et illusions — PAS d'actualité récente, uniquement de la culture générale intemporelle.
 Réponds UNIQUEMENT avec le JSON, rien d'autre."""},
-            {"role": "user", "content": f"Quelles sont les 5 informations culturelles ou insolites les plus intéressantes des dernières 48 heures ? Date : {datetime.now().strftime('%d/%m/%Y')}"}
+            {"role": "user", "content": f"Propose 5 faits de culture générale intemporels, vérifiables, en respectant la diversité des registres. Date du digest : {datetime.now().strftime('%d/%m/%Y')}"}
         ],
         "temperature": 0.2, "max_tokens": 2000
     }

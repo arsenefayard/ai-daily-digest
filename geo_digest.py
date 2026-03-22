@@ -109,6 +109,11 @@ RÈGLES STRICTES :
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
    - En cas de doute : remplis "news" avec 5 éléments et laisse "updates" vide.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Conflit|Diplomatie|Économie|Élection|Énergie|Sécurité) :
+- Objectif : cinq informations réellement distinctes par le sujet et l’angle, pas cinq variantes du même dossier géopolitique.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les acteurs, zones ou événements sont clairement distincts.
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle (même crise déclinée cinq fois). Dans ces cas, approfondis la recherche web et rééquilibre avant de répondre.
+
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si l'un de ces critères est rempli :
      * Escalade ou désescalade militaire significative

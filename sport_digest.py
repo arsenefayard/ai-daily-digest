@@ -104,6 +104,11 @@ RÈGLES STRICTES :
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Football|Tennis|Basketball|F1|Rugby|Autre) :
+- Objectif : cinq informations réellement distinctes par le sujet et l’angle, pas cinq fois le même championnat ou le même club sous des titres différents.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les compétitions, athlètes ou faits sont clairement distincts.
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle. Dans ces cas, approfondis la recherche web et rééquilibre avant de répondre.
+
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : résultat majeur inattendu, blessure d'un joueur star, transfert confirmé, scandale ou controverse, record battu.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].

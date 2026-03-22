@@ -103,6 +103,11 @@ RÈGLES STRICTES :
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Physique|Chimie|Biologie|Maths|Espace|Médecine|Autre) :
+- Objectif : cinq avancées réellement distinctes par la discipline et le sujet, pas cinq titres sur le même papier ou la même conférence.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les travaux, équipes ou questions scientifiques sont clairement distincts (ex. deux percées différentes en biologie).
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle (même découverte, même source médiatique recyclée). Dans ces cas, approfondis la recherche web (autres disciplines, autres journaux, autres équipes) et rééquilibre avant de répondre.
+
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : confirmation d'une découverte, publication dans Nature ou Science, prix Nobel, réfutation d'une théorie, nouvelle mission spatiale.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].

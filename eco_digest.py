@@ -71,6 +71,11 @@ RÈGLES STRICTES :
    - Chaque info doit être un fait ou angle totalement nouveau, absent de l'historique ci-dessus.
    - "news" et "updates" ne doivent jamais couvrir le même sujet.
 
+DIVERSITÉ — pour les 5 « news » (champ « category » : Marchés|Banques|Entreprises|Crypto|Matières premières|Politique monétaire) :
+- Objectif : cinq informations réellement distinctes par le sujet et l’angle, pas cinq variations sur le même mouvement de marché.
+- Tu n’es pas obligé d’avoir 5 « category » toutes différentes : jusqu’à 2 news peuvent partager la même « category » si les acteurs, instruments ou événements sont clairement distincts.
+- Inacceptable : les 5 news toutes dans la même « category », ou plus de 2 news avec la même « category », ou plus de deux fois le même angle réducteur. Dans ces cas, approfondis la recherche web et rééquilibre avant de répondre.
+
 2. "updates" contient entre 0 et 2 évolutions de sujets déjà présents dans l'historique.
    - Ne mettre une update que si : variation majeure des marchés, décision de banque centrale, faillite ou rachat, chiffres économiques surprenants, crise financière émergente.
    - Si aucun critère n'est rempli, laisser "updates" vide : [].
