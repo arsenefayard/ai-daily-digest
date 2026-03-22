@@ -1,15 +1,5 @@
 [
   {
-    "date": "15/03/2026",
-    "titles": [
-      "L'origine sumérienne de l'écriture cunéiforme",
-      "Le dilemme du prisonnier en théorie des jeux",
-      "Les 400 coups de François Truffaut",
-      "La découverte de la structure de l'ADN par Watson et Crick",
-      "L'homme qui ne cligna pas des yeux pendant 1 heure 7 minutes"
-    ]
-  },
-  {
     "date": "16/03/2026",
     "titles": [
       "Les origines africaines du zombie au Musée des Confluences",
@@ -69,6 +59,16 @@
       "Le chat de Schrödinger : l'expérience mentale qui défie la réalité",
       "La bibliothèque d'Alexandrie : le plus grand savoir perdu de l'Antiquité",
       "Le syndrome de l'imposteur : quand le succès alimente le doute"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Le paradoxe du bateau de Thésée",
+      "La tapisserie de Bayeux, chronique visuelle de la conquête normande",
+      "Le cinéma expressionniste allemand et le Cabinet du docteur Caligari",
+      "La plus longue rivière souterraine du monde en Slovénie",
+      "L'homme qui planta un milliard d'arbres au Canada"
     ]
   }
 ]
