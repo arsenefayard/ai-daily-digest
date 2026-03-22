@@ -1,15 +1,5 @@
 [
   {
-    "date": "19/03/2026",
-    "titles": [
-      "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
-      "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
-      "Milan-San Remo : le classique du cyclisme sur route se dispute le 21 mars",
-      "ATP et WTA : les favoris se préparent pour les grands tournois de printemps",
-      "UFC Fight Night : Lemos vs Robertson à Londres le 21 mars"
-    ]
-  },
-  {
     "date": "20/03/2026",
     "titles": [
       "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
@@ -72,6 +62,16 @@
       "Biathlon : Le Français Perrot signe son premier sacre mondial",
       "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000",
       "Ligue Europa : L'OL éliminé de manière choc par le Celta Vigo"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Tom Pidcock remporte Milan-San Remo avec une attaque magistrale",
+      "Miami Open perturbé par des pluies abondantes, Alcaraz et Swiatek en lice",
+      "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
+      "Biathlon : Le Français Perrot signe son premier sacre mondial",
+      "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000"
     ]
   }
 ]
