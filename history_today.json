@@ -1,33 +1,33 @@
 {
   "date": "22/03/2026",
   "subject": {
-    "name": "Bataille du Vieil-Baugé",
-    "type": "Bataille",
-    "period": "1421 · Guerre de Cent Ans",
-    "context": "Au cours de la Guerre de Cent Ans, une armée anglaise commandée par le duc de Clarence, frère du roi Henri V, envahit l'Anjou pour affaiblir les forces françaises. Les Franco-Écossais, menés par le connétable de Richemont et des chevaliers écossais comme sir Robert Stewart, tendent une embuscade aux Anglais près du Vieil-Baugé. Malgré leur supériorité numérique, les Anglais sont surpris dans la nuit et subissent une défaite cuisante. Ce revers inattendu brise l'invincibilité apparente des armées anglaises et redonne espoir aux Français au moment où Jeanne d'Arc n'était pas encore apparue.",
+    "name": "Jean-Baptiste Lully",
+    "type": "Personnalité",
+    "period": "1632 – 1687 · Baroque français",
+    "context": "Jean-Baptiste Lully est l'une des plus grandes figures de la musique baroque européenne et le créateur de l'opéra français. Né à Florence en 1632, il arrive en France à l'âge de quatorze ans et devient rapidement le musicien favori de Louis XIV. Il révolutionne la musique en invenant l'ouverture à la française, en codifiant le ballet de cour et en créant un style d'opéra distinctement français qui s'oppose au modèle italien. Ses compositions pour l'orchestre royal et ses ballets-tragédies établissent les fondations de la musique française classique. Lully meurt le 22 mars 1687, emporté par une gangrène après s'être blessé en dirigeant avec un bâton de direction, un accident survenu lors d'une représentation au palais de Versailles.",
     "dates": [
       {
-        "year": "1415",
-        "label": "Bataille d'Azincourt renforce les Anglais"
+        "year": "1646",
+        "label": "Débuts à la cour de Louis XIV comme danseur et compositeur"
       },
       {
-        "year": "1421",
-        "label": "Duke de Clarence envahit l'Anjou"
+        "year": "1661",
+        "label": "Nomination de surintendant de la musique du roi"
       },
       {
-        "year": "22 mars 1421",
-        "label": "Embuscade nocturne et défaite anglaise"
+        "year": "1673",
+        "label": "Création d'Atys, son opéra majeur qui consacre le style lyrique français"
       },
       {
-        "year": "1421",
-        "label": "Mort du duc de Clarence au combat"
+        "year": "1686",
+        "label": "Blessure à la jambe durant une répétition au palais de Versailles"
       },
       {
-        "year": "1429",
-        "label": "Jeanne d'Arc somme les Anglais huit ans plus tard"
+        "year": "1687",
+        "label": "Décès le 22 mars à Paris des suites de la gangrène"
       }
     ],
-    "legacy": "Cette victoire mineure mais symbolique marque le début du reflux anglais en France et inspire la résistance. Elle démontre l'efficacité des tactiques de guérilla contre les archers longs anglais. Son impact psychologique perdure dans l'historiographie de la Guerre de Cent Ans.",
-    "why": "Peu connue, elle prouve que l'invincibilité anglaise était un mythe fragile, préfigurant les retournements inattendus de l'Histoire."
+    "legacy": "Lully demeure le père fondateur de l'opéra français et de l'orchestration moderne. Son influence s'étend bien au-delà de son époque : les compositeurs français du XVIIIe et XIXe siècles perpétuent ses principes d'harmonie et de structure dramatique. Son système de notation musicale et ses techniques de direction d'orchestre deviennent les modèles européens. Aujourd'hui encore, ses œuvres sont jouées dans les grandes salles d'opéra du monde et restent des références pédagogiques essentielles.",
+    "why": "Lully incarne le paradoxe fascinant du génie créatif au service du pouvoir absolu : il a transformé la musique en outil politique tout en créant des chef-d'œuvres intemporels. Son mort accidentelle, survenue lors d'une représentation, rappelle que même les plus grands artistes restent vulnérables aux caprices du destin."
   }
 }
