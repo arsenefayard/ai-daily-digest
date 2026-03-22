@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Geese en double concert à Paris au Bataclan et à la Cigale",
-      "summary": "Le groupe américain Geese, porté par le succès de son troisième album Getting Killed sorti en 2025 via Partisan Records, se produit les 6 et 7 mars au Bataclan puis à la Cigale à Paris. Cameron Winter et ses musiciens viennent ainsi récompenser leur fanbase française grandissante après un succès international. Ces dates s'inscrivent dans une tournée européenne majeure pour le groupe incontournable de la scène indie rock actuelle.[1]",
-      "why": "Geese représente l'une des sensations rock les plus prometteuses, et ces concerts parisiens offrent une rare occasion de voir ce phénomène live en France.",
+      "title": "Offenbach en concert explosif au Zénith de Paris le 13 mars",
+      "summary": "Le groupe rock québécois Offenbach investit le Zénith de Paris le 13 mars pour un show immersif et futuriste qui revisite ses classiques avec une mise en scène innovante. Cette performance marque un retour en force du groupe sur la scène française après plusieurs années d'absence. Les fans attendent avec impatience cette explosion d'énergie live qui promet de faire vibrer la salle.",
+      "why": "Offenbach reste une légende du rock francophone et ce concert au Zénith renforce les liens culturels entre le Québec et la France.",
       "category": "Rock"
     },
     {
-      "title": "Sleaford Mods de retour sur scène au Casino de Paris le 10 mars",
-      "summary": "Le duo electro-punk britannique Sleaford Mods, après une année de pause, reprend la route avec un concert prévu le 10 mars au Casino de Paris. Jason Williamson et Andrew Fearn pourront puiser dans leurs 13 albums studio pour un set explosif. Cette escale parisienne marque le retour très attendu du groupe sur la scène française.[1]",
-      "why": "Ce comeback live ravive l'énergie punk contestataire de Sleaford Mods auprès d'un public français fidèle, confirmant leur statut culte.",
-      "category": "Électro"
-    },
-    {
-      "title": "Les Chants de Mars : festival lyonnais dédié à la chanson francophone du 12 au 28 mars",
-      "summary": "Le festival Les Chants de Mars revient à Lyon du 12 au 28 mars pour célébrer la chanson francophone avec une programmation éclectique mêlant pop, rock, hip-hop et électro. Plus de 60 % des artistes sont des femmes, et des scènes queer comme Alex Montembault ou le Cabaret des Dessous Lesbiens sont mises en avant. Le public peut même participer à un concert choral avec 150 amateurs, renforçant l'engagement inclusif et la pratique musicale amateur.[3]",
-      "why": "Ce rendez-vous engagé promeut la diversité artistique francophone et reflète les enjeux sociétaux actuels dans la musique.",
-      "category": "Autre"
-    },
-    {
-      "title": "Kendji Girac annonce deux concerts à l'Accor Arena les 14 et 15 mars",
-      "summary": "À l'occasion de la sortie de son nouvel album Vivre..., Kendji Girac étend sa tournée française avec deux dates supplémentaires à l'Accor Arena de Paris les 14 et 15 mars 2026. L'artiste occitan y présentera ses hits et nouveaux titres devant des milliers de fans. Cette extension témoigne du succès massif de son retour sur scène.[2]",
-      "why": "Kendji Girac domine la scène pop française, et ces concerts géants soulignent son influence auprès d'un public intergénérationnel.",
+      "title": "Rosalia de retour à l'Accor Arena pour des concerts très attendus",
+      "summary": "La star espagnole Rosalia fait son grand retour à Paris avec des concerts à l'Accor Arena en mars 2026, mêlant flamenco moderne et sonorités urbaines. Ces dates s'inscrivent dans une tournée mondiale qui suit son dernier album acclamé par la critique. Les billets risquent de s'arracher rapidement vu l'engouement pour son univers unique.",
+      "why": "Rosalia incarne une fusion innovante de genres qui influence la pop mondiale et attire un public jeune et international.",
       "category": "Pop"
     },
     {
-      "title": "Electronic Peak : festival électro à ne pas manquer du 25 au 27 mars",
-      "summary": "Le festival Electronic Peak se tient du 25 au 27 mars 2026 et promet une programmation pointue d'artistes électro émergents et confirmés. Inscrit parmi les temps forts de mars, il attire les amateurs de beats innovants dans une ambiance immersive. Cet événement s'ajoute à la riche cartel des festivals printaniers français.[4]",
-      "why": "Electronic Peak renforce la vitalité de la scène électro hexagonale en offrant une plateforme aux talents variés au cœur du printemps.",
-      "category": "Électro"
+      "title": "Barbara Pravi au Zénith de Paris le 26 mars avec sa voix puissante",
+      "summary": "Barbara Pravi investit le Zénith de Paris le 26 mars pour un concert où elle déploie sa voix puissante et ses textes incarnés issus de son répertoire récent. Cette date marque une étape majeure dans sa carrière solo après ses succès à l'Eurovision. Le spectacle promet une soirée émouvante et intimiste malgré l'ampleur de la salle.",
+      "why": "En tant que figure montante de la chanson française, ce concert au Zénith consacre son statut de star nationale.",
+      "category": "Pop"
+    },
+    {
+      "title": "Jazz en Nord s'étend jusqu'au 4 mai 2026 dans le Nord de la France",
+      "summary": "Le festival Jazz en Nord, lancé le 20 janvier, prolonge sa programmation jusqu'au 4 mai 2026 à Marcq-en-Barœul, avec des artistes jazz internationaux et locaux. Cet événement met en lumière des talents variés dans des lieux emblématiques de la région. Il attire les amateurs de jazz pour sa qualité et sa diversité.",
+      "why": "Ce festival renforce la scène jazz française et offre une programmation riche qui soutient les artistes émergents.",
+      "category": "Classique"
+    },
+    {
+      "title": "Paris Music Festival du 18 au 22 mars à Paris",
+      "summary": "Le Paris Music Festival se tient du 18 au 22 mars 2026 dans la capitale, proposant une programmation éclectique avec des artistes de tous horizons musicaux. Cet événement gratuit ou à tarif modéré démocratise l'accès à la musique live en plein cœur de la ville. Il s'agit d'un rendez-vous incontournable pour découvrir de nouvelles tendances.",
+      "why": "En tant que festival urbain majeur, il favorise la diversité musicale et attire un public large en mars.",
+      "category": "Autre"
     }
   ],
   "updates": []
