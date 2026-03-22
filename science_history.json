@@ -1,15 +1,5 @@
 [
   {
-    "date": "17/03/2026",
-    "titles": [
-      "Spintronique : l'électronique quantique révolutionne la vitesse et l'efficacité énergétique",
-      "Aluminium superhydrophobe : un matériau révolutionnaire pour des navires insubmersibles",
-      "Prédiction des maladies cardiovasculaires et neurodégénératives par intelligence artificielle médicale",
-      "Système glymphatique : le sommeil profond élimine les protéines toxiques du cerveau dix fois plus efficacement",
-      "Minéraux réox sensibles détectés sur Mars : preuve de processus géologiques complexes anciens"
-    ]
-  },
-  {
     "date": "18/03/2026",
     "titles": [
       "Découverte d'une espèce d'arbre-zombie en Australie",
@@ -62,6 +52,16 @@
       "Première identification de minéraux réox sensibles sur Mars par Perseverance",
       "Observation de microcharges électrostatiques dues à des grains minéraux sur Mars",
       "Corrélation potentiellement importante découverte pour la matière noire"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Oscillations de luminosité confirmées dans la supernova superlumineuse 2024afav par quatre sursauts",
+      "Corrélation potentiellement importante découverte pour la matière noire",
+      "Protéine responsable de l'addiction à la cocaïne identifiée",
+      "Neutrino ultra-énergétique détecté, possiblement issu d'un blazar",
+      "Hérissons sensibles aux ultrasons, implications pour leur protection"
     ]
   }
 ]
