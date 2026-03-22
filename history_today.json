@@ -1,33 +1,37 @@
 {
   "date": "22/03/2026",
   "subject": {
-    "name": "Bataille du Vieil-Baugé",
-    "type": "Bataille",
-    "period": "1421 · Guerre de Cent Ans",
-    "context": "Au cours de la Guerre de Cent Ans, les forces françaises alliées aux Écossais affrontent une armée anglaise commandée par le duc de Clarence, frère du roi Henri V, près du Vieil-Baugé en Anjou. Les Anglais, confiants après leurs victoires précédentes, campent sans précautions suffisantes et sous-estiment leurs adversaires. Une embuscade bien orchestrée par les Franco-Écossais surprend les cavaliers anglais lors d'une charge imprudente, menant à un carnage où le duc de Clarence est tué au combat, un fait marquant car c'est le premier prince du sang anglais mort face aux Français depuis l'invasion de 1415. Cette victoire inattendue redonne espoir aux Français et freine temporairement l'expansion anglaise dans l'Ouest de la France, bien que l'avantage stratégique reste limité.",
+    "name": "Mouvement du 22 mars",
+    "type": "Mouvement",
+    "period": "1968 · Mai 68 en France",
+    "context": "Le Mouvement du 22 mars émerge à Nanterre lors d'une période de tensions étudiantes contre la guerre du Vietnam et l'autorité universitaire. À la suite d'une manifestation où des militants sont arrêtés après avoir saccagé l'agence American Express à Paris, environ 600 à 700 étudiants se réunissent en assemblée générale pour exiger leur libération. Ils décident d'occuper le dernier étage de la tour administrative de la faculté, siège symbolique du pouvoir excluant les étudiants des décisions. Mené par des figures comme Daniel Cohn-Bendit, ce groupe hétéroclite d'extrême gauche antiautoritaire critique le capitalisme, l'impérialisme et les hiérarchies académiques, marquant le début d'une radicalisation qui culminera avec les événements de Mai 68. Peu connu du grand public, il révèle les fractures profondes de la société française des années 1960, mêlant anarchistes, situationnistes et communistes libertaires.",
     "dates": [
       {
-        "year": "1415",
-        "label": "Début de l'invasion anglaise avec Azincourt"
+        "year": "Novembre 1966",
+        "label": "Manifestation anti-Vietnam et saccage de l'American Express"
       },
       {
-        "year": "1421",
-        "label": "Convergence des armées à Baugé"
+        "year": "22 mars 1968",
+        "label": "Occupation de la tour administrative à Nanterre"
       },
       {
-        "year": "22 mars 1421",
-        "label": "Embuscade et mort du duc de Clarence"
+        "year": "23 mars 1968",
+        "label": "Exclusion de Cohn-Bendit et des Enragés"
       },
       {
-        "year": "1429",
-        "label": "Jeanne d'Arc s'inspire des victoires comme celle-ci"
+        "year": "Avril 1968",
+        "label": "Arrestation de Cohn-Bendit pour 'incitation à la violence'"
       },
       {
-        "year": "1453",
-        "label": "Fin de la Guerre de Cent Ans"
+        "year": "2-3 mai 1968",
+        "label": "Fermeture de Nanterre et extension à la Sorbonne"
+      },
+      {
+        "year": "Mai 1968",
+        "label": "Symbole de la contestation nationale"
       }
     ],
-    "legacy": "Cette bataille marque un tournant psychologique en démontrant la vulnérabilité anglaise et booste le moral français avant l'arrivée de Jeanne d'Arc. Elle influence les tactiques de guérilla ultérieures et reste un symbole de résistance dans l'historiographie angevine. Son impact perdure dans les récits de la Guerre de Cent Ans comme preuve que l'arrogance peut causer la chute des plus puissants.",
-    "why": "Souvent éclipsée par Azincourt, elle révèle comment une simple erreur tactique renversa le cours d'une guerre séculaire, rappelant que l'histoire bascule sur des détails imprévus."
+    "legacy": "Ce mouvement a catalysé Mai 68, provoquant la plus grande grève générale de l'histoire française et forçant des réformes sociétales profondes comme la loi Faure sur l'université autonome. Son esprit libertaire influence encore les mouvements altermondialistes et écologistes actuels. Sa postérité culturelle perdure dans la mémoire collective comme un acte fondateur de la révolte étudiante.",
+    "why": "Souvent éclipsé par Mai 68, il démontre comment une occupation locale peut embraser un pays entier, rappelant que les révolutions naissent souvent de colères oubliées."
   }
 }
