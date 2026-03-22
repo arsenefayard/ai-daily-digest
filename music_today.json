@@ -1,35 +1,35 @@
 {
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "news": [
     {
-      "title": "Gaerea sort son nouvel album Loss le 20 mars",
-      "summary": "Le groupe portugais Gaerea, connu pour son post-black metal intense et atmosphérique, a publié son nouvel album Loss le 20 mars 2026. Cet opus marque un retour très attendu après plusieurs années d'absence, avec des compositions qui explorent des thèmes sombres et immersifs. Les critiques soulignent déjà sa puissance émotionnelle et sa production soignée, renforçant la position de Gaerea comme acteur majeur de la scène black metal contemporaine.",
-      "why": "Cette sortie enrichit le paysage du black metal post-atmosphérique et attire l'attention des fans en quête de nouveautés extrêmes au printemps 2026.",
+      "title": "Threat Signal dévoile Revelations le 27 mars en metalcore",
+      "summary": "Le groupe canadien Threat Signal, formé en 2004, publie son nouvel album Revelations le 27 mars 2026 dans un style metalcore intense et technique. Cet opus marque un retour attendu après plusieurs années d'absence, avec des riffs puissants et une production moderne qui ravira les fans du genre. Les premiers extraits promettent une explosion d'énergie live lors des prochaines tournées.",
+      "why": "Ce comeback renforce la vitalité du metalcore nord-américain en ce printemps 2026, offrant une alternative fraîche aux sorties thrash dominantes.",
       "category": "Métal"
     },
     {
-      "title": "The Dear Hunter dévoile Sunya le 20 mars",
-      "summary": "Le projet solo de Casey Crescenzo, The Dear Hunter, a sorti son nouvel album Sunya le 20 mars 2026 dans un style progressive rock ambitieux. Cet opus propose une narration complexe avec des arrangements orchestraux et des influences indie rock sophistiquées. Il s'inscrit dans la lignée des œuvres conceptuelles du groupe, offrant une expérience immersive pour les amateurs de rock narratif.",
-      "why": "Sunya représente une étape clé dans la discographie de The Dear Hunter et pourrait influencer les tendances du progressive rock indépendant actuel.",
+      "title": "Myrath sort Wilderness Of Mirrors le 27 mars en progressive metal oriental",
+      "summary": "Le groupe tunisien Myrath lance son album Wilderness Of Mirrors le 27 mars 2026, fusionnant progressive rock avec des influences orientales uniques. Cet effort explore des thèmes mystiques à travers des compositions complexes et des mélodies envoûtantes. Il s'inscrit dans la lignée de leurs précédents succès internationaux.",
+      "why": "Myrath élargit l'horizon du rock progressif avec son identité culturelle distinctive, attirant un public mondial en quête de diversité sonore.",
       "category": "Rock"
     },
     {
-      "title": "Taylor Swift annonce une résidence à Las Vegas",
-      "summary": "La superstar mondiale Taylor Swift a révélé les détails de sa première résidence scénique à Las Vegas pour l'automne 2026, avec dix dates confirmées au Sphere. Ce format innovant permettra des shows immersifs avec effets visuels spectaculaires adaptés à son répertoire pop. Les billets se sont écoulés en quelques heures, confirmant son statut de phénomène commercial.",
-      "why": "Cette résidence marque un tournant dans les tournées pop et booste l'économie locale tout en innovant dans les expériences live.",
-      "category": "Pop"
+      "title": "Pop Evil publie What Remains (Midnight Edition) le 27 mars",
+      "summary": "Le groupe américain Pop Evil sort l'édition spéciale What Remains (Midnight Edition) le 27 mars 2026, enrichie de versions alternatives et de bonus inédits. Cet album post-grunge/alternative metal approfondit leurs hits radio avec une production soignée et des textes introspectifs. Les fans apprécient cette réédition qui prolonge la vie de l'opus original.",
+      "why": "Cette version deluxe consolide la popularité de Pop Evil sur les ondes rock, boostant leurs streams et ventes en pleine saison des festivals.",
+      "category": "Rock"
     },
     {
-      "title": "Drake bat un nouveau record de streams sur Spotify",
-      "summary": "Le rappeur canadien Drake a franchi la barre des 100 milliards d'écoutes cumulées sur Spotify, devenant le premier artiste à atteindre ce milestone historique. Ce record s'appuie sur ses derniers singles et albums qui dominent les classements mondiaux. Il illustre la domination persistante du hip-hop dans l'ère du streaming.",
-      "why": "Ce record souligne l'impact massif de Drake sur l'industrie musicale et les plateformes de streaming.",
-      "category": "Hip-Hop"
+      "title": "Occultation annonce son retour avec un nouvel album en mars",
+      "summary": "Les Occultation, groupe de New York Casualties, officialisent leur grand retour après sept ans de silence depuis White Line In Blood avec un nouvel album studio sorti ce mois de mars 2026. Le titre track est déjà disponible et promet une rage punk explosive avec une énergie intacte. Une édition vinyle limitée est en précommande pour les collectionneurs.",
+      "why": "Ce revival punk hardcore ravive la scène underground new-yorkaise et excite les fans nostalgiques d'un son authentique et brut.",
+      "category": "Autre"
     },
     {
-      "title": "Charlotte de Witte headliner du Tomorrowland 2026",
-      "summary": "La DJ belge Charlotte de Witte a été annoncée comme headliner du mainstage pour Tomorrowland 2026, consolidant son statut de reine de la techno. Son set promet une immersion dans des sonorités industrielles et hypnotiques sur la scène la plus prestigieuse du festival. Cette nouvelle attire déjà des milliers de fans électro à travers le monde.",
-      "why": "Cette nomination renforce la programmation électro de premier plan de Tomorrowland et propulse Charlotte de Witte vers un public encore plus large.",
-      "category": "Électro"
+      "title": "Chez Kane dévoile Reckless le 27 mars en hard rock",
+      "summary": "Le projet hard rock Chez Kane sort Reckless le 27 mars 2026, mêlant riffs accrocheurs et refrains mélodiques dans un style classique. Inspiré des années 80, l'album cible les amateurs de rock FM avec une énergie live palpable. Il s'annonce comme un hit potentiel pour les radios spécialisées.",
+      "why": "Reckless revitalise le hard rock old school au milieu des sorties metal extrême, offrant un contraste accessible et festif.",
+      "category": "Rock"
     }
   ],
   "updates": []
