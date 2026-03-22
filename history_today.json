@@ -1,33 +1,33 @@
 {
   "date": "22/03/2026",
   "subject": {
-    "name": "Jean-Baptiste Lully",
-    "type": "Personnalité",
-    "period": "1632 – 1687 · Baroque français",
-    "context": "Jean-Baptiste Lully est l'une des plus grandes figures de la musique baroque européenne et le créateur de l'opéra français. Né à Florence en 1632, il arrive en France à l'âge de quatorze ans et devient rapidement le musicien favori de Louis XIV. Il révolutionne la musique en invenant l'ouverture à la française, en codifiant le ballet de cour et en créant un style d'opéra distinctement français qui s'oppose au modèle italien. Ses compositions pour l'orchestre royal et ses ballets-tragédies établissent les fondations de la musique française classique. Lully meurt le 22 mars 1687, emporté par une gangrène après s'être blessé en dirigeant avec un bâton de direction, un accident survenu lors d'une représentation au palais de Versailles.",
+    "name": "Bataille du Vieil-Baugé",
+    "type": "Bataille",
+    "period": "1421 · Guerre de Cent Ans",
+    "context": "Au cours de la Guerre de Cent Ans, les forces françaises alliées aux Écossais affrontent une armée anglaise commandée par le duc de Clarence, frère du roi Henri V, près du Vieil-Baugé en Anjou. Les Anglais, confiants après leurs victoires précédentes, campent sans précautions suffisantes et sous-estiment leurs adversaires. Une embuscade bien orchestrée par les Franco-Écossais surprend les cavaliers anglais lors d'une charge imprudente, menant à un carnage où le duc de Clarence est tué au combat, un fait marquant car c'est le premier prince du sang anglais mort face aux Français depuis l'invasion de 1415. Cette victoire inattendue redonne espoir aux Français et freine temporairement l'expansion anglaise dans l'Ouest de la France, bien que l'avantage stratégique reste limité.",
     "dates": [
       {
-        "year": "1646",
-        "label": "Débuts à la cour de Louis XIV comme danseur et compositeur"
+        "year": "1415",
+        "label": "Début de l'invasion anglaise avec Azincourt"
       },
       {
-        "year": "1661",
-        "label": "Nomination de surintendant de la musique du roi"
+        "year": "1421",
+        "label": "Convergence des armées à Baugé"
       },
       {
-        "year": "1673",
-        "label": "Création d'Atys, son opéra majeur qui consacre le style lyrique français"
+        "year": "22 mars 1421",
+        "label": "Embuscade et mort du duc de Clarence"
       },
       {
-        "year": "1686",
-        "label": "Blessure à la jambe durant une répétition au palais de Versailles"
+        "year": "1429",
+        "label": "Jeanne d'Arc s'inspire des victoires comme celle-ci"
       },
       {
-        "year": "1687",
-        "label": "Décès le 22 mars à Paris des suites de la gangrène"
+        "year": "1453",
+        "label": "Fin de la Guerre de Cent Ans"
       }
     ],
-    "legacy": "Lully demeure le père fondateur de l'opéra français et de l'orchestration moderne. Son influence s'étend bien au-delà de son époque : les compositeurs français du XVIIIe et XIXe siècles perpétuent ses principes d'harmonie et de structure dramatique. Son système de notation musicale et ses techniques de direction d'orchestre deviennent les modèles européens. Aujourd'hui encore, ses œuvres sont jouées dans les grandes salles d'opéra du monde et restent des références pédagogiques essentielles.",
-    "why": "Lully incarne le paradoxe fascinant du génie créatif au service du pouvoir absolu : il a transformé la musique en outil politique tout en créant des chef-d'œuvres intemporels. Son mort accidentelle, survenue lors d'une représentation, rappelle que même les plus grands artistes restent vulnérables aux caprices du destin."
+    "legacy": "Cette bataille marque un tournant psychologique en démontrant la vulnérabilité anglaise et booste le moral français avant l'arrivée de Jeanne d'Arc. Elle influence les tactiques de guérilla ultérieures et reste un symbole de résistance dans l'historiographie angevine. Son impact perdure dans les récits de la Guerre de Cent Ans comme preuve que l'arrogance peut causer la chute des plus puissants.",
+    "why": "Souvent éclipsée par Azincourt, elle révèle comment une simple erreur tactique renversa le cours d'une guerre séculaire, rappelant que l'histoire bascule sur des détails imprévus."
   }
 }
