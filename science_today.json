@@ -2,33 +2,33 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Oscillations de luminosité confirmées dans la supernova superlumineuse 2024afav par quatre sursauts",
-      "summary": "Des astronomes ont observé pour la première fois quatre sursauts d'oscillations de luminosité dans la supernova superlumineuse 2024afav, avec des intervalles diminuant de 50 à 20 jours. Ces observations, réalisées avec une précision inédite, soutiennent le modèle selon lequel ces supernovas sont alimentées par des magnétars dont le disque d'accrétion précesse en raison de l'effet Lense-Thirring. À l'avenir, le télescope Vera C. Rubin permettra d'étudier des milliers de ces objets pour tester davantage ce modèle.[2]",
-      "why": "Cette découverte fournit des preuves solides pour l'origine des supernovas superlumineuses et ouvre la voie à une meilleure compréhension des phénomènes extrêmes dans l'univers.",
+      "title": "Détection de silice cristallisée dans le cratère Jezero par Perseverance",
+      "summary": "Le rover Perseverance a identifié pour la première fois de la silice cristallisée sous forme d'opale, de calcédoine et de quartz dans une roche du rebord du cratère Jezero sur Mars. Cette découverte, obtenue grâce à la spectroscopie de SuperCam, révèle des processus géologiques hydrothermaux similaires à ceux de la Terre. Elle oblige les scientifiques à prioriser les sites de forage pour le retour d'échantillons martiens.[1]",
+      "why": "Cette avancée indique un passé géologique riche en eau chaude sur Mars et pourrait révéler des indices sur l'habitabilité passée de la planète.",
       "category": "Espace"
     },
     {
-      "title": "Corrélation potentiellement importante découverte pour la matière noire",
-      "summary": "Une étude récente a identifié une corrélation significative dans les données qui pourrait révéler la nature de la matière noire, longtemps insaisissable. Cette avancée repose sur des observations précises de distributions galactiques inhabituelles. Elle pourrait révolutionner notre compréhension de la composition de l'univers.[2]",
-      "why": "Si confirmée, cette corrélation offrirait la première piste concrète sur la matière noire, représentant environ 27 % de l'univers.",
-      "category": "Physique"
+      "title": "Première identification de minéraux réox sensibles sur Mars",
+      "summary": "L'équipe de Perseverance a détecté un ensemble de minéraux réox sensibles, réagissant aux conditions d'oxydation ou de réduction chimique, dans des roches martiennes. Cette identification repose sur une combinaison d'instruments robotiques et d'analyses à distance. Elle fournit des insights inédits sur l'évolution chimique de la surface martienne.[1]",
+      "why": "Ces minéraux sensibles préservent l'histoire redox de Mars et pourraient indiquer des environnements propices à la vie microbienne ancienne.",
+      "category": "Espace"
     },
     {
-      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
-      "summary": "Des chercheurs ont découvert une protéine spécifique impliquée dans les mécanismes cérébraux de l'addiction à la cocaïne chez les mammifères. Cette protéine module les réponses dopaminergiques dans le circuit de la récompense. Elle ouvre des perspectives pour développer de nouveaux traitements contre les dépendances.[3]",
-      "why": "Cette identification permet de cibler précisément les thérapies pharmacologiques, potentiellement réduisant les rechutes chez les patients.",
+      "title": "Observation de microcharges électrostatiques sur Mars",
+      "summary": "Des grains minéraux chargés électriquement ont été observés en rencontre répétée dans l'air sec martien, produisant des microcharges électrostatiques. Ce phénomène, auparavant hypothétique, a été confirmé par les instruments du rover. Il ouvre de nouvelles perspectives sur les interactions atmosphériques et de surface sur Mars.[1]",
+      "why": "Cette découverte explique des processus électrostatiques inattendus et impacte la conception future des missions robotiques et humaines.",
+      "category": "Espace"
+    },
+    {
+      "title": "Suzetrigine : premier médicament sélectif contre la douleur périphérique",
+      "summary": "Suzetrigine, un nouveau médicament, bloque sélectivement les canaux sodiques NaV1.8 dans les neurones sensoriels périphériques de la douleur. Contrairement aux opioïdes, il évite les risques d'addiction et les effets cardiaques ou cérébraux, avec une sélectivité supérieure à 31 000 fois. Des recherches explorent aussi les canaux NaV1.7 et NaV1.9.[5]",
+      "why": "Cette percée offre une alternative non addictive aux analgésiques traditionnels et révolutionne la gestion de la douleur chronique.",
       "category": "Médecine"
     },
     {
-      "title": "Neutrino ultra-énergétique détecté, possiblement issu d'un blazar",
-      "summary": "Le neutrino le plus énergétique jamais observé a été détecté et pourrait provenir d'un blazar, un noyau galactique actif émettant des jets relativistes. Cette détection relie les messagers cosmiques de haute énergie à des sources astrophysiques précises. Elle affine les modèles de production de particules extrêmes.[3]",
-      "why": "Elle confirme l'origine cosmique des neutrinos de haute énergie et guide les futures observations multi-messagers.",
-      "category": "Physique"
-    },
-    {
-      "title": "Hérissons sensibles aux ultrasons, implications pour leur protection",
-      "summary": "Une étude révèle que les hérissons perçoivent les ultrasons émis par les infrastructures humaines, ce qui perturbe leur comportement et leur habitat. Cette sensibilité inédite explique leur déclin dans les zones urbaines. Des mesures acoustiques adaptées pourraient être mises en place pour les préserver.[3]",
-      "why": "Cette découverte permet de concevoir des stratégies de conservation efficaces contre l'urbanisation bruyante.",
+      "title": "Édition CRISPR des racines pour cultures résistantes à la sécheresse",
+      "summary": "Des équipes ont utilisé CRISPR/Cas9 et l'édition de bases pour modifier les gènes d'architecture racinaire du riz, du blé et du maïs, favorisant des racines plus profondes et efficaces en eau. Ces plantes accèdent mieux à l'humidité des couches profondes du sol sans perte de rendement. Des essais en champs confirment des rendements accrus.[5]",
+      "why": "Face au changement climatique, cette innovation assure la sécurité alimentaire en rendant les cultures résilientes aux sécheresses prolongées.",
       "category": "Biologie"
     }
   ],
