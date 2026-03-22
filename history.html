@@ -118,10 +118,6 @@ header { position:fixed; top:0; left:0; right:0; height:var(--header-h); z-index
 .timeline.scrolls {
   overflow-y:auto; -webkit-overflow-scrolling:touch; touch-action:pan-y;
 }
-.timeline.scrolls::after {
-  content:''; position:absolute; left:0; right:0; bottom:0; height:24px; pointer-events:none;
-  background:linear-gradient(to top, var(--card-bg), rgba(13,9,0,0));
-}
 
 .tl-label {
   font-size: 13px;
@@ -246,25 +242,22 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 .fav-star.fav-on { color:#fbbf24; text-shadow:0 0 12px rgba(251,191,36,0.35); }
 .fav-star:active { transform:scale(0.92); }
 
-/* ── FONT SIZE (active card) ── */
-.font-size-controls {
-  position:absolute; bottom:12px; right:14px; z-index:6; display:flex; gap:6px; pointer-events:auto;
+/* ── Taille du texte (header, carte active uniquement) ── */
+.header-font-wrap {
+  display:flex; align-items:center; gap:4px; margin-right:6px; flex-shrink:0;
 }
-.card:not(.active) .font-size-controls { visibility:hidden; pointer-events:none; }
-.font-btn {
-  background:rgba(0,0,0,0.45); border:1px solid rgba(255,255,255,0.12); border-radius:8px;
-  color:var(--ink); font-family:'DM Mono',monospace; font-size:11px; padding:6px 10px; cursor:pointer;
+.header-font-wrap .font-btn {
+  background:rgba(0,0,0,0.35); border:1px solid rgba(255,255,255,0.12); border-radius:8px;
+  color:var(--ink); font-family:'DM Mono',monospace; font-size:14px; font-weight:500;
+  line-height:1; min-width:36px; padding:6px 8px; cursor:pointer;
   transition:opacity .2s, border-color .2s;
 }
-.font-btn:active { opacity:.85; }
+.header-font-wrap .font-btn:active { opacity:.85; }
 
 .card-body.scrolls {
   overflow-y:auto; -webkit-overflow-scrolling:touch; touch-action:pan-y;
 }
-.card-body.scrolls::after {
-  content:''; position:absolute; left:0; right:0; bottom:0; height:28px; pointer-events:none;
-  background:linear-gradient(to top, var(--card-bg), rgba(13,17,23,0));
-}
+.card-body.body-expandable.scrolls::after { display:none; }
 
 /* ── FAV SAVE POPUP ── */
 #fav-overlay {
@@ -412,6 +405,10 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
     <span class="date-badge" id="header-date"></span>
   </div>
   <div class="header-right">
+    <div class="font-size-controls header-font-wrap" id="header-font-controls" aria-label="Taille du texte (carte affichée)">
+      <button type="button" class="font-btn" data-delta="-1" title="Réduire">−</button>
+      <button type="button" class="font-btn" data-delta="1" title="Agrandir">+</button>
+    </div>
     <div class="dots" id="dots"></div>
     <span class="counter" id="counter">1/3</span>
   </div>
@@ -486,7 +483,6 @@ function makeCard(slide, idx) {
 
   const askBtn = '<button type="button" class="ask-btn" onclick="openChat(this)">🔍</button>';
   const star = '<button type="button" class="fav-star" data-news-idx="' + idx + '" title="Favori" aria-label="Favori">☆</button>';
-  const fontControls = '<div class="font-size-controls" aria-label="Taille du texte"><button type="button" class="font-btn" data-delta="-1">A−</button><button type="button" class="font-btn" data-delta="1">A+</button></div>';
 
   if (type === 'profil') {
     div.innerHTML = `
@@ -504,7 +500,6 @@ function makeCard(slide, idx) {
         <div class="period-line">${subject.period || ''}</div>
         <div class="card-body">${subject.context}</div>
       </div>
-      ${fontControls}
     `;
   } else if (type === 'chronologie') {
     const dates = (subject.dates || []).map(d => `
@@ -528,7 +523,6 @@ function makeCard(slide, idx) {
       <div class="card-content">
         <div class="timeline">${dates}</div>
       </div>
-      ${fontControls}
     `;
   } else if (type === 'heritage') {
     div.innerHTML = `
@@ -546,27 +540,35 @@ function makeCard(slide, idx) {
         <div class="card-body">${subject.legacy}</div>
         <div class="why-box"><span class="why-icon">💡</span><span class="why-text">${subject.why}</span></div>
       </div>
-      ${fontControls}
     `;
   }
   return div;
 }
 
-function readDigestFontSize() {
+function fontSizeStorageKey(newsIdx) {
+  return 'digestFs_' + THEME + '_' + newsIdx;
+}
+
+function readDigestFontSizeFor(newsIdx) {
   let fs = 14;
   try {
-    const v = localStorage.getItem('digestFontSize');
+    const v = localStorage.getItem(fontSizeStorageKey(newsIdx));
     if (v != null) fs = Math.max(10, Math.min(20, parseInt(v, 10) || 14));
+    else {
+      const legacy = localStorage.getItem('digestFontSize');
+      if (legacy != null) fs = Math.max(10, Math.min(20, parseInt(legacy, 10) || 14));
+    }
   } catch (_) {}
   return fs;
 }
 
-function writeDigestFontSize(fs) {
-  try { localStorage.setItem('digestFontSize', String(fs)); } catch (_) {}
+function writeDigestFontSizeFor(newsIdx, fs) {
+  try { localStorage.setItem(fontSizeStorageKey(newsIdx), String(fs)); } catch (_) {}
 }
 
 function fitTextToBox(card) {
-  const fs = readDigestFontSize();
+  const newsIdx = parseInt(card.dataset.newsIdx, 10) || 0;
+  const fs = readDigestFontSizeFor(newsIdx);
   const body = card.querySelector('.card-body');
   if (body) {
     body.style.fontSize = fs + 'px';
@@ -1000,12 +1002,14 @@ document.getElementById('fav-save').addEventListener('click', () => {
   const card = stage.querySelector('.card[data-news-idx="' + _favTargetNewsIdx + '"]');
   const title = card?.querySelector('.card-title')?.textContent?.trim() || '';
   const note = favNote.value.trim();
+  const slideIdx = parseInt(card.dataset.idx, 10) || 0;
+  const baseUrl = location.origin + location.pathname;
   const payload = {
     title,
     theme: THEME_LABEL,
     themeColor: THEME_COLOR,
     date: digestDate,
-    url: typeof location !== 'undefined' ? location.href.split('#')[0] : '',
+    url: baseUrl + '?only=' + slideIdx,
     note,
     savedAt: Date.now()
   };
@@ -1016,16 +1020,19 @@ document.getElementById('fav-save').addEventListener('click', () => {
 });
 favOverlay.addEventListener('click', e => { if (e.target === favOverlay) favOverlay.classList.remove('open'); });
 
-/* ── FONT A− / A+ ── */
+/* ── Taille + / − (carte active uniquement) ── */
 document.addEventListener('click', e => {
-  const b = e.target.closest('.font-btn');
-  if (!b || !stage.contains(b)) return;
+  const b = e.target.closest('#header-font-controls .font-btn');
+  if (!b) return;
   e.stopPropagation();
+  const active = stage.querySelector('.card.active');
+  if (!active) return;
+  const newsIdx = parseInt(active.dataset.newsIdx, 10) || 0;
   const delta = parseInt(b.dataset.delta, 10) || 0;
-  let fs = readDigestFontSize() + delta;
+  let fs = readDigestFontSizeFor(newsIdx) + delta;
   fs = Math.max(10, Math.min(20, fs));
-  writeDigestFontSize(fs);
-  stage.querySelectorAll('.card').forEach(fitTextToBox);
+  writeDigestFontSizeFor(newsIdx, fs);
+  fitTextToBox(active);
 });
 
 /* ── INIT ── */
@@ -1045,6 +1052,14 @@ document.addEventListener('click', e => {
   document.getElementById('header-date').textContent = data.date || '';
   digestDate = data.date || '';
   buildSlides(data);
+  const params = new URLSearchParams(location.search);
+  if (params.has('only')) {
+    const o = parseInt(params.get('only'), 10);
+    if (!isNaN(o) && slides.length && o >= 0 && o < slides.length) {
+      slides = [slides[o]];
+      cur = 0;
+    }
+  }
   renderAll();
   loading.style.opacity = '0';
   setTimeout(() => loading.style.display = 'none', 500);
