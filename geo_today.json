@@ -3,42 +3,34 @@
   "news": [
     {
       "title": "Les États-Unis affirment pouvoir neutraliser l'île de Kharg, hub pétrolier iranien, à tout moment",
-      "summary": "La Maison Blanche a déclaré que les États-Unis pouvaient neutraliser l'île de Kharg, site pétrolier stratégique iranien, à n'importe quel moment, tandis que le président Donald Trump a approuvé le déploiement de plusieurs milliers de marines supplémentaires dans la région. Cette déclaration intervient dans un contexte d'escalade militaire majeure au Moyen-Orient, où les infrastructures énergétiques iraniennes sont devenues des cibles prioritaires. Elle signale une intensification de la pression américaine sur l'Iran et une volonté de maintenir la domination militaire dans le Golfe persique.",
-      "why": "Cette menace directe représente une escalade significative du conflit et pourrait déclencher une réaction iranienne majeure, menaçant la stabilité énergétique mondiale et les approvisionnements en pétrole.",
-      "category": "Conflit"
+      "summary": "Les forces américaines ont déclaré publiquement qu'elles sont en mesure de neutraliser complètement l'île de Kharg, principal centre de stockage et d'exportation de pétrole iranien, en cas de nécessité. Cette affirmation intervient dans un contexte d'escalade des tensions au Moyen-Orient où l'Iran menace de fermer le détroit d'Ormuz. Les implications géopolitiques incluent une potentielle disruption massive des approvisionnements énergétiques mondiaux et une accélération de la formation de coalitions internationales pour sécuriser les routes maritimes.",
+      "why": "Cette déclaration renforce la posture dissuasive des États-Unis face à l'Iran et pourrait précipiter une crise énergétique globale si elle mène à des frappes préventives.",
+      "category": "Énergie"
     },
     {
-      "title": "Fermeture du détroit d'Ormuz : la plus grande menace énergétique de l'histoire selon l'AIE",
-      "summary": "Fatih Birol, directeur exécutif de l'Agence internationale de l'énergie, a averti que la fermeture du détroit d'Ormuz constituerait la plus grande menace pour la sécurité énergétique mondiale de toute l'histoire. L'AIE n'exclut pas un déblocage supplémentaire des stocks stratégiques de pétrole des États membres pour atténuer les chocs de prix. Cette évaluation reflète l'extrême vulnérabilité de l'économie mondiale face aux risques d'interruption du transit pétrolier dans cette région stratégique.",
-      "why": "Le détroit d'Ormuz est le passage de 30 % du pétrole mondial transporté par voie maritime, et sa fermeture aurait des conséquences économiques catastrophiques pour l'ensemble de l'économie mondiale.",
+      "title": "Fermeture du détroit d'Ormuz qualifiée de plus grande menace énergétique de l'histoire par l'AIE",
+      "summary": "L'Agence internationale de l'énergie (AIE) a averti que la fermeture potentielle du détroit d'Ormuz par l'Iran représenterait la plus grave menace pour les marchés énergétiques mondiaux jamais enregistrée. Ce chokepoint vital transporte près de 20% du pétrole mondial, et sa perturbation entraînerait une flambée des prix et des pénuries immédiates. Les pays importateurs d'énergie, notamment en Asie et en Europe, appellent à une action concertée pour prévenir cette catastrophe.",
+      "why": "Une telle fermeture amplifierait l'instabilité économique mondiale et forcerait une réorientation stratégique des alliances énergétiques.",
       "category": "Énergie"
     },
     {
       "title": "Mojtaba Khamenei appelle à l'unité iranienne face aux menaces extérieures pour le Nouvel An persan",
-      "summary": "Le nouveau Guide suprême iranien, Mojtaba Khamenei, a diffusé un message écrit appelant les Iraniens à l'unité et à la mobilisation face aux menaces extérieures, à l'occasion du Nouvel An persan. Ce message intervient après des mois de spéculations sur l'état de santé du précédent guide suprême et dans un contexte d'escalade militaire majeure contre l'Iran. L'appel à l'unité suggère une tentative de consolider le pouvoir interne face à la pression militaire américaine et israélienne.",
-      "why": "Ce message est important car il montre comment le nouveau leadership iranien cherche à légitimer son autorité et à mobiliser la population face à une menace existentielle perçue.",
+      "summary": "Dans un discours prononcé à l'occasion du Nouvel An persan, Mojtaba Khamenei, nouveau guide suprême présumé de l'Iran, a exhorté la nation à faire preuve d'unité face aux agressions étrangères, notamment celles des États-Unis et d'Israël. Ce message survient après la destruction d'infrastructures pétrolières iraniennes et des spéculations sur sa légitimité. Il vise à consolider le pouvoir interne tout en maintenant une posture défiante sur la scène internationale.",
+      "why": "Ce discours pourrait galvaniser le régime iranien et influencer les dynamiques internes, impactant les négociations régionales sur l'énergie et la sécurité.",
       "category": "Diplomatie"
     },
     {
-      "title": "José Antonio Kast, allié de Trump, s'aligne sur les États-Unis pour contrôler les métaux stratégiques du Chili face à la Chine",
-      "summary": "Le président chilien José Antonio Kast s'aligne idéologiquement avec Donald Trump pour contrer l'influence chinoise dans l'accès aux terres rares et métaux stratégiques du Chili. Cet alignement expose le Chili à des tensions avec la Chine, son principal partenaire commercial, et reflète la compétition géopolitique croissante pour le contrôle des ressources critiques. Les États-Unis cherchent à sécuriser ses chaînes d'approvisionnement en métaux stratégiques en s'appuyant sur des alliés idéologiquement alignés en Amérique latine.",
-      "why": "Cette alliance est cruciale car elle redéfinit les rapports de force en Amérique latine et illustre comment la rivalité sino-américaine s'étend au contrôle des ressources minérales essentielles pour les technologies futures.",
+      "title": "José Antonio Kast s'aligne sur Trump pour contrer l'influence chinoise dans les métaux stratégiques du Chili",
+      "summary": "Le leader chilien José Antonio Kast, allié de Donald Trump, a annoncé une politique ferme pour limiter l'influence chinoise sur les ressources en métaux stratégiques comme le lithium et le cuivre au Chili. Cette initiative vise à sécuriser ces approvisionnements critiques pour les technologies vertes et militaires des États-Unis. Elle s'inscrit dans une rivalité sino-américaine élargie aux Amériques, avec des implications pour les chaînes d'approvisionnement mondiales.",
+      "why": "Ce rapprochement renforce l'axe Trump en Amérique latine et pourrait redessiner les flux économiques des minerais essentiels à la transition énergétique.",
       "category": "Économie"
     },
     {
-      "title": "Trump forme une coalition internationale pour sécuriser le détroit d'Ormuz et affaiblir l'Iran",
-      "summary": "Le président américain Donald Trump constitue une coalition internationale regroupant les pays du Golfe pour sécuriser le détroit d'Ormuz et contrer les menaces iraniennes. Cette coalition vise à stabiliser les marchés énergétiques mondiaux tout en affaiblissant la position stratégique de l'Iran dans la région. L'initiative reflète la stratégie américaine de mobiliser les alliés régionaux pour maintenir la liberté de navigation et prévenir une fermeture du détroit stratégique.",
-      "why": "Cette coalition est essentielle pour maintenir la stabilité énergétique mondiale et pour contrebalancer la capacité de l'Iran à perturber les approvisionnements pétroliers mondiaux.",
-      "category": "Diplomatie"
+      "title": "Ursula von der Leyen visite le Groenland pour renforcer les partenariats énergétiques et climatiques en Arctique",
+      "summary": "La présidente de la Commission européenne, Ursula von der Leyen, s'est rendue au Groenland afin de développer des partenariats sur l'énergie et le climat dans la région arctique. Cette zone émerge comme un enjeu géopolitique majeur en raison de la fonte des glaces qui ouvre de nouvelles routes maritimes et ressources minières. L'Europe cherche ainsi à diversifier ses approvisionnements face aux tensions au Moyen-Orient et à concurrencer Russie et Chine.",
+      "why": "Cette visite positionne l'UE comme acteur clé en Arctique, sécurisant ses intérêts stratégiques dans un contexte de rivalités multipolaires.",
+      "category": "Sécurité"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade militaire majeure au Moyen-Orient : destruction des infrastructures énergétiques iraniennes",
-      "original": "Escalade énergétique majeure : destruction des infrastructures pétrolières et gazières iraniennes (21/03/2026)",
-      "summary": "Les États-Unis ont intensifié leur pression militaire en affirmant explicitement leur capacité à neutraliser l'île de Kharg à tout moment, tandis que le déploiement de milliers de marines supplémentaires a été approuvé. Cette escalade représente un passage de la destruction des infrastructures à une menace directe de contrôle militaire permanent des installations pétrolières iraniennes. L'Iran, sous la direction de Mojtaba Khamenei, répond par des appels à l'unité nationale plutôt que par une escalade militaire immédiate.",
-      "why": "Ce changement de tactique américaine, passant de frappes ciblées à une menace de contrôle permanent, marque une escalade qualitative majeure qui pourrait forcer l'Iran à réagir militairement ou à négocier.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
