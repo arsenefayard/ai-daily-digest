@@ -1,35 +1,35 @@
 {
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "news": [
     {
-      "title": "La machine de Turing : l'ancêtre conceptuel de l'informatique moderne",
-      "summary": "En 1936, Alan Turing publia un article révolutionnaire décrivant une machine hypothétique capable de simuler n'importe quel algorithme sur une bande infinie de papier. Cette machine de Turing définit encore aujourd'hui ce qui est calculable par une ordinateur. Elle a posé les bases de l'informatique théorique et influencé le développement des premiers ordinateurs.",
-      "why": "Ce concept fondamental explique les limites de l'intelligence artificielle et reste au cœur des algorithmes contemporains.",
-      "category": "Science pop"
-    },
-    {
-      "title": "Le bateau de Thésée : un paradoxe philosophique millénaire",
-      "summary": "Dans l'Antiquité, les Athéniens remplaçaient pièce par pièce les planches pourries du navire d'Héraclès, posant la question : reste-t-il le même bateau ? Ce paradoxe interroge l'identité des objets et des personnes au fil du temps. Il inspire encore les débats en philosophie de l'esprit et en physique quantique.",
-      "why": "Il challenge notre perception de la continuité personnelle et matérielle dans un monde en perpétuel changement.",
+      "title": "Le paradoxe du bateau de Thésée",
+      "summary": "Le paradoxe du bateau de Thésée est un problème philosophique ancien qui interroge l'identité des objets au fil du temps. Si l'on remplace progressivement toutes les planches du bateau de Thésée par des neuves, reste-t-il le même bateau à la fin ? Ce dilemme soulève des questions profondes sur la continuité de l'identité personnelle et matérielle.",
+      "why": "Il invite à réfléchir sur notre propre identité face au changement constant des cellules corporelles et des expériences vécues.",
       "category": "Philosophie"
     },
     {
-      "title": "Le chat de Schrödinger : l'expérience mentale qui défie la réalité",
-      "summary": "En 1935, Erwin Schrödinger imagina un chat à la fois mort et vivant tant qu'on n'ouvre pas la boîte contenant un mécanisme radioactif. Ce paradoxe illustre la superposition quantique où les particules existent dans plusieurs états simultanément. Il popularisa les mystères de la mécanique quantique auprès du grand public.",
-      "why": "Cette pensée expérimentale rend accessible les fondements étranges de la physique moderne et questionne la nature de la réalité.",
-      "category": "Science pop"
-    },
-    {
-      "title": "La bibliothèque d'Alexandrie : le plus grand savoir perdu de l'Antiquité",
-      "summary": "Fondée au IIIe siècle avant J.-C., cette immense bibliothèque égyptienne abritait jusqu'à 700 000 rouleaux et attira les plus grands érudits comme Euclide. Sa destruction progressive entre 48 av. J.-C. et le VIIe siècle marqua la fin d'une ère de connaissances accumulées. On estime que 90 % des textes grecs classiques ont disparu avec elle.",
-      "why": "Elle symbolise la fragilité du savoir humain et l'importance de sa préservation numérique aujourd'hui.",
+      "title": "La tapisserie de Bayeux, chronique visuelle de la conquête normande",
+      "summary": "La tapisserie de Bayeux est une œuvre brodée du XIe siècle longue de 70 mètres qui relate la conquête de l'Angleterre par Guillaume le Conquérant en 1066. Elle dépeint avec un réalisme saisissant les scènes de bataille, les banquets et les événements politiques menant à la bataille d'Hastings. Ce chef-d'œuvre médiéval offre un témoignage unique sur la société normande et les techniques textiles de l'époque.",
+      "why": "Elle constitue l'une des plus précieuses sources visuelles sur l'histoire médiévale européenne, surpassant souvent les écrits contemporains en détails concrets.",
       "category": "Histoire"
     },
     {
-      "title": "Le syndrome de l'imposteur : quand le succès alimente le doute",
-      "summary": "Décrit en 1978 par deux psychologues américaines, ce phénomène touche des millions de personnes performantes qui attribuent leurs réussites à la chance plutôt qu'au talent. Il affecte particulièrement les femmes et les minorités dans les milieux compétitifs. Des études montrent qu'il freine les carrières malgré des compétences avérées.",
-      "why": "Comprendre ce biais psychologique aide à booster la confiance et à valoriser les mérites réels.",
-      "category": "Psychologie"
+      "title": "Le cinéma expressionniste allemand et le Cabinet du docteur Caligari",
+      "summary": "Le film 'Le Cabinet du docteur Caligari' de 1920 marque le sommet du cinéma expressionniste allemand avec ses décors déformés et ses angles obliques. Réalisé par Robert Wiene, il raconte l'histoire d'un somnambule hypnotisé pour commettre des meurtres, explorant les thèmes de la folie et de la manipulation. Cette œuvre a révolutionné le 7e art en influençant le noir et blanc stylisé et les thrillers psychologiques.",
+      "why": "Elle a posé les bases visuelles du cinéma moderne, inspirant des réalisateurs comme Tim Burton ou les films de terreur contemporains.",
+      "category": "Cinéma"
+    },
+    {
+      "title": "La plus longue rivière souterraine du monde en Slovénie",
+      "summary": "La rivière Pivka, en Slovénie, abrite la plus longue rivière souterraine du monde sur 38 kilomètres à travers le système de grottes de Postojna. Elle émerge et disparaît plusieurs fois dans un labyrinthe karstique, formant des cascades et des lacs souterrains accessibles aux visiteurs. Ce phénomène géologique résulte de l'érosion millénaire du calcaire par l'eau acide.",
+      "why": "Elle illustre magnifiquement les merveilles cachées de la géologie karstique et attire des millions de spéléologues et touristes émerveillés.",
+      "category": "Géographie"
+    },
+    {
+      "title": "L'homme qui planta un milliard d'arbres au Canada",
+      "summary": "Felix Finkbeiner, fondateur de Plant-for-the-Planet à 9 ans, a inspiré un mouvement mondial qui a conduit à la plantation d'un milliard d'arbres au Canada par le programme 1t.org. Ce jeune activiste allemand a calculé qu'il fallait un milliard d'arbres par pays pour lutter contre le changement climatique, mobilisant des millions de volontaires. Son initiative combine éducation environnementale et action concrète à grande échelle.",
+      "why": "Elle démontre le pouvoir des initiatives individuelles pour des impacts planétaires sur la reforestation et la séquestration du carbone.",
+      "category": "Insolite"
     }
   ],
   "updates": []
