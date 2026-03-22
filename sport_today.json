@@ -2,49 +2,49 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Milan-San Remo : Le classique du cyclisme sur route se dispute ce dimanche",
-      "summary": "La célèbre course cycliste Milan-San Remo se déroule ce dimanche 22 mars 2026, marquant le retour des grands classiques de printemps. Cette épreuve mythique de 298 kilomètres attire les meilleurs coureurs mondiaux qui s'affrontent sur les routes italiennes. L'enjeu est majeur pour les spécialistes des classiques qui cherchent à débuter leur saison avec une victoire prestigieuse.",
-      "why": "Milan-San Remo est l'une des cinq Monuments du cyclisme et représente un objectif majeur pour les coureurs de haut niveau. C'est un test crucial avant les autres grands classiques de printemps.",
+      "title": "Milan-San Remo : Tom Pidcock remporte le classique du cyclisme sur route",
+      "summary": "Le cycliste britannique Tom Pidcock a remporté dimanche la classique milanaise Milan-San Remo avec une attaque décisive dans les derniers kilomètres. Cette victoire confirme le retour en forme de Pidcock après une période difficile et lui permet de s'imposer face à une concurrence relevée sur l'une des plus prestigieuses courses d'une journée du calendrier cycliste mondial. Le succès de Pidcock marque un tournant important dans la saison printanière du cyclisme sur route.",
+      "why": "Milan-San Remo est l'une des cinq Monumens du cyclisme professionnel et sa victoire par un coureur britannique de haut niveau représente un résultat majeur qui redessine les hiérarchies de la saison printanière.",
       "category": "Autre"
     },
     {
-      "title": "Ligue 1 - Journée 27 : Les enjeux du championnat de France se précisent",
-      "summary": "La 27e journée de Ligue 1 se dispute ce dimanche 22 mars 2026, avec des enjeux importants pour la course au titre et la lutte pour les places européennes. Les principaux clubs français sont en action pour consolider leurs positions respectives dans le classement. Cette journée pourrait redistribuer les cartes dans la hiérarchie du championnat français.",
-      "why": "À ce stade de la saison, chaque point compte pour les équipes qui visent le titre ou les places qualificatives pour les compétitions européennes. Les résultats de cette journée auront des implications directes sur la fin de saison.",
+      "title": "Ligue 1 - Journée 27 : Lens reprend la tête du classement",
+      "summary": "À l'issue de la vingt-septième journée de Ligue 1 disputée ce week-end, le Racing Club de Lens a repris la première place du classement en devançant ses concurrents directs. Cette performance confirme la solidité de l'équipe nordiste qui maintient une dynamique positive tout au long de la saison régulière. La reprise de la tête par Lens relance la lutte pour le titre de champion de France avec plusieurs équipes toujours en lice.",
+      "why": "La reprise de la tête du classement par Lens est décisive pour la course au titre en Ligue 1 et montre l'intensité de la compétition à quelques journées de la fin de la saison régulière.",
       "category": "Football"
     },
     {
       "title": "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
-      "summary": "Le joueur de tennis français Atmane a remporté son premier match et s'est qualifié pour le deuxième tour d'une compétition importante. Cette victoire confirme le bon moment de forme du tennisman français qui continue sa progression dans les classements mondiaux. Son parcours dans ce tournoi est suivi de près par les observateurs du tennis français.",
-      "why": "Les performances des joueurs français au tennis sont importantes pour la visibilité du sport en France et pour le développement du tennis hexagonal. La progression d'Atmane représente un espoir pour le tennis français.",
+      "summary": "Le joueur français Atmane a réussi à se qualifier pour le deuxième tour d'un tournoi de tennis majeur en remportant son match d'ouverture. Cette progression confirme le potentiel du jeune talent français qui continue à progresser dans le classement mondial. La performance d'Atmane représente un signal positif pour le tennis français en cette période de printemps.",
+      "why": "La progression d'un joueur français dans un tournoi majeur est importante pour le développement du tennis hexagonal et montre l'émergence de nouveaux talents sur la scène internationale.",
       "category": "Tennis"
     },
     {
       "title": "Biathlon : Premier sacre pour Perrot",
-      "summary": "Le biathlète français Perrot a remporté sa première victoire majeure en compétition internationale, marquant un tournant dans sa carrière. Cette consécration intervient après plusieurs saisons de progression constante et de résultats encourageants. Le succès de Perrot renforce la domination française dans la discipline du biathlon.",
-      "why": "Une première victoire majeure est un moment clé dans la carrière d'un athlète et confirme son potentiel à haut niveau. Ce succès positionne Perrot parmi les favoris pour les prochaines grandes compétitions de biathlon.",
+      "summary": "Le biathlète français Perrot a remporté sa première victoire majeure en compétition internationale, marquant ainsi un tournant décisif dans sa carrière sportive. Cette consécration intervient après plusieurs années de travail acharné et de progression constante au sein de l'équipe de France de biathlon. Le succès de Perrot ouvre des perspectives prometteuses pour les compétitions à venir et renforce la position de la France dans cette discipline.",
+      "why": "Le premier sacre d'un athlète français en biathlon est un événement significatif qui marque l'émergence d'un nouveau champion et renforce la compétitivité française dans cette discipline hivernale.",
       "category": "Autre"
     },
     {
-      "title": "Football : Lens reprend la tête du classement de Ligue 1",
-      "summary": "Le Racing Club de Lens a pris la première place du classement de Ligue 1 grâce à ses récentes performances. L'équipe nordiste confirme son excellent début de saison et sa capacité à rivaliser avec les plus grands clubs français. Cette position de leader montre que Lens est un véritable prétendant au titre cette saison.",
-      "why": "La position de leader en Ligue 1 est un indicateur majeur de la force d'une équipe et de ses chances de remporter le championnat. Le succès de Lens, club historiquement moins puissant que le PSG ou l'OM, représente un scénario intéressant pour le championnat français.",
-      "category": "Football"
+      "title": "UFC Fight Night : Lemos vs Robertson à Londres",
+      "summary": "L'événement UFC Fight Night s'est déroulé samedi à la O2 Arena de Londres avec le combat principal opposant Lemos à Robertson. Cette soirée de combats de haut niveau a rassemblé les meilleures combattantes de la catégorie féminin dans un affrontement très attendu par les fans d'arts martiaux mixtes. Le déroulement de cet événement confirme le dynamisme du calendrier UFC au printemps 2026.",
+      "why": "Les événements UFC Fight Night sont des étapes importantes du calendrier des arts martiaux mixtes et attirent une audience mondiale importante, particulièrement en Europe.",
+      "category": "Autre"
     }
   ],
   "updates": [
     {
       "title": "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "original": "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
-      "summary": "Liverpool a dominé Galatasaray lors du huitième de finale retour de la Ligue des Champions et s'est qualifié pour les quarts de finale. Les Reds affronteront le Paris Saint-Germain dans la phase suivante, promettant un duel de haut niveau. Cette qualification confirme le statut de favori de Liverpool dans la compétition.",
-      "why": "La qualification de Liverpool et l'affrontement contre le PSG en quarts de finale représentent un match de très haut niveau qui captivera les amateurs de football européen. C'est un duel entre deux des plus grands clubs d'Europe.",
+      "original": "Huitièmes de finale retour de Ligue des Champions en cours",
+      "summary": "Liverpool a remporté une victoire écrasante contre Galatasaray lors du huitième de finale retour de la Ligue des Champions, se qualifiant ainsi pour les quarts de finale. Le club anglais affrontera désormais le Paris Saint-Germain dans la phase suivante de la compétition, promettant un duel de prestige entre deux géants européens. Cette qualification confirme la domination de Liverpool dans cette édition de la Ligue des Champions.",
+      "why": "La qualification de Liverpool et l'affrontement PSG-Liverpool en quarts de finale représentent un changement majeur dans le scénario de la Ligue des Champions avec un choc de très haut niveau.",
       "category": "Football"
     },
     {
       "title": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
-      "original": "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
-      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa par le Celta Vigo lors des huitièmes de finale retour. Cette élimination précoce représente une déception majeure pour le club rhodanien qui espérait progresser plus loin dans la compétition. Le Celta Vigo se qualifie pour les quarts de finale avec cette victoire.",
-      "why": "L'élimination de l'OL, l'un des clubs français majeurs, dès les huitièmes de finale est un résultat inattendu qui affecte les ambitions européennes du club. Cela réduit également la représentation française dans les compétitions continentales.",
+      "original": "Huitièmes de finale retour d'Europa League en cours",
+      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa par le Celta Vigo lors des huitièmes de finale retour, mettant fin prématurément à l'aventure européenne du club rhodanien. Cette élimination surprise représente une déception majeure pour l'OL qui visait une profonde course en Ligue Europa. Le Celta Vigo se qualifie pour les quarts de finale en réalisant un exploit face à l'équipe française.",
+      "why": "L'élimination de l'OL, un club français majeur, dès les huitièmes de finale est un résultat inattendu qui modifie significativement le paysage de la Ligue Europa.",
       "category": "Football"
     }
   ]
