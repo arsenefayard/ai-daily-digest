@@ -1,0 +1,21 @@
+---
+description: Vérifier un run GitHub Actions Daily Digest après déclenchement
+alwaysApply: true
+---
+
+# Runs GitHub Actions — vérification systématique
+
+Lorsque l’utilisateur demande de **lancer / run / déclencher** le workflow **Daily Digest** (ou un run manuel équivalent sur ce dépôt) :
+
+1. **Déclencher** le workflow (`workflow_dispatch` sur `daily-digest.yml`, branche `main`) si ce n’est pas déjà fait.
+2. **Attendre la fin** du run (polling API `actions/runs/{id}` jusqu’à `status: completed`, avec timeout raisonnable, ex. ~15–20 min max).
+3. **Vérifier et résumer** :
+   - **Conclusion globale** du run (`success`, `failure`, `cancelled`).
+   - **Jobs** : `check-time` et `send-digest` — statut et `conclusion` pour chacun.
+   - **Étapes du job `send-digest`** : au minimum confirmer que les étapes critiques sont en `success` (déploiement HTML, digests Python, **Envoyer l'email combiné**).
+   - Si **run manuel** : l’étape **« Enregistrer la complétion du digest planifié 8h »** doit être **`skipped`** (normal — réservée au cron `schedule`).
+   - En cas d’**échec** : indiquer quel job / quelle étape a échoué et le lien vers les logs GitHub.
+
+4. **Communiquer** à l’utilisateur : numéro de run, lien direct vers la page Actions, synthèse du bon fonctionnement ou de l’erreur.
+
+Ne pas se contenter d’indiquer que le dispatch a réussi : **toujours** valider le run jusqu’au bout sauf impossibilité technique (pas de token API, etc.).
