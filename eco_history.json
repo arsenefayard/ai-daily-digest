@@ -1,15 +1,5 @@
 [
   {
-    "date": "20/03/2026",
-    "titles": [
-      "Le cuivre franchit les 11 000 dollars la tonne à Londres",
-      "États-Unis proposent un Conseil commercial avec la Chine",
-      "Paraguay ratifie l'accord UE-MERCOSUR",
-      "Japon reprend les subventions sur l'essence face à la flambée des prix",
-      "Irak rétablit partiellement ses exportations pétrolières via la Turquie"
-    ]
-  },
-  {
     "date": "21/03/2026",
     "titles": [
       "La Banque centrale russe abaisse son taux directeur à 15% pour la septième fois consécutive",
@@ -67,6 +57,17 @@
       "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
       "La crise moyen-orientale détourne des millions de touristes vers l'Europe",
       "L'Agence internationale de l'énergie publie 10 mesures contre la crise énergétique"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "La guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
+      "Trump rétablit des droits de douane mondiaux de 15 % malgré l'annulation par la Cour suprême",
+      "Donald Trump nomme Kevin Warsh à la tête de la Réserve fédérale pour apaiser les tensions",
+      "Accélération des investissements des entreprises américaines malgré le ralentissement économique",
+      "Les principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
+      "Réserves pétrolières offshore s'épuisent rapidement à cause des perturbations au Golfe"
     ]
   }
 ]
