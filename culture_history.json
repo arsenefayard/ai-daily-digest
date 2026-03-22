@@ -1,16 +1,5 @@
 [
   {
-    "date": "17/03/2026",
-    "titles": [
-      "Les origines africaines du zombi révélées au Musée des Confluences de Lyon",
-      "Le Festival Paris Music 2026 : concerts dans des lieux emblématiques et insolites",
-      "Les momies Chinchorros : les plus anciens corps momifiés du monde datent de 9 000 ans",
-      "Jef Aérosol expose ses « Interstices » : street art et musique fusionnés à Paris",
-      "Le Printemps des Arts de Monte-Carlo 2026 : 27 concerts et 12 créations mondiales",
-      "Nouvelles révélations sur les origines africaines du zombi"
-    ]
-  },
-  {
     "date": "18/03/2026",
     "titles": [
       "Le paradoxe de l'écriture cunéiforme : la plus ancienne forme d'écriture humaine",
@@ -69,6 +58,16 @@
       "Le film Nosferatu de 1922 et ses effets spéciaux révolutionnaires",
       "L'effet placebo, une guérison par la croyance",
       "La cascade intérieure la plus haute du monde au Ice Hotel de Suède"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Le paradoxe de Zénon d'Élée et la flèche qui ne bouge jamais",
+      "La cité perdue de Pétrogramme en Jordanie, gravée de 100 000 images rupestres",
+      "Le film Métropolis de Fritz Lang et ses visions prophétiques de 1927",
+      "L'effet Baader-Meinhof, l'illusion de fréquence soudaine",
+      "La plus grande fleur du monde, la Rafflesia arnoldii d'Indonésie"
     ]
   }
 ]
