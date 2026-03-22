@@ -1,15 +1,5 @@
 [
   {
-    "date": "18/03/2026",
-    "titles": [
-      "Arcep publie son Baromètre du numérique 2026 : explosion des usages de l'IA générative",
-      "Le Trésor américain publie un guide sur les risques IA pour les institutions financières",
-      "Oracle annonce un carnet de commandes de 553 milliards de dollars pour son infrastructure IA",
-      "Anthropic assigne le gouvernement Trump en justice pour sanctions excessives sur l'IA",
-      "Prestataires de services IA confrontés à l'épreuve du passage à l'échelle agentique"
-    ]
-  },
-  {
     "date": "19/03/2026",
     "titles": [
       "Google lance le Pixel Drop de mars 2026 avec Gemini au centre",
@@ -67,6 +57,16 @@
       "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour Microsoft 365",
       "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
       "Alibaba lance les Qwen Glasses, lunettes IA abordables à 275 dollars au MWC"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
+      "Meta acquiert Moltbook, réseau social pour bots IA, et intègre son équipe dans ses labs",
+      "Sept IDE leaders se disputent le marché du développement multi-agent",
+      "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
+      "xAI lance Grok 4.20 Beta 2, version optimisée pour le codage"
     ]
   }
 ]
