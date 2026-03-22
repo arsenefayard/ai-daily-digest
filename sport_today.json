@@ -2,43 +2,35 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Tom Pidcock triomphe sur Milan-San Remo avec une attaque magistrale",
-      "summary": "Le Britannique Tom Pidcock a remporté la classique Milan-San Remo ce dimanche en lançant une attaque décisive dans les derniers kilomètres, devançant ses rivaux au sprint final. Cette victoire marque son premier succès dans cette course mythique du cyclisme mondial. Pidcock conforte ainsi sa position parmi les leaders de la saison printanière.",
-      "why": "Milan-San Remo est l'une des cinq monuments du cyclisme, et cette victoire inattendue de Pidcock relance la course au classement WorldTour.",
+      "title": "Tom Pidcock remporte Milan-San Remo avec une attaque magistrale",
+      "summary": "Le Britannique Tom Pidcock a triomphé sur la classique Milan-San Remo ce dimanche 22 mars, en lançant une attaque décisive dans les derniers kilomètres du Poggio. Cette victoire prestigieuse, l'une des plus grandes courses cyclistes au monde, confirme son talent polyvalent après ses succès en VTT et sur route. Pidcock devance ses rivaux dans un sprint final tendu et s'impose comme un prétendant sérieux pour les classiques printanières.",
+      "why": "Milan-San Remo est l'une des cinq monuments du cyclisme, et cette victoire propulse Pidcock au rang des favoris pour la suite de la saison.",
       "category": "Autre"
     },
     {
-      "title": "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
-      "summary": "Le RC Lens a profité des résultats de la 27e journée de Ligue 1 pour reprendre la tête du championnat de France, grâce à une victoire convaincante à domicile. Les Sang et Or comptent désormais un point d'avance sur leurs poursuivants directs. Cette performance renforce leurs ambitions pour le titre.",
-      "why": "La bataille pour le titre en Ligue 1 s'intensifie, et Lens émerge comme un outsider sérieux face aux cadors habituels.",
-      "category": "Football"
-    },
-    {
-      "title": "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont facilement remporté leurs matchs d'entrée au Miami Open, ce Masters 1000 perturbé par des averses tropicales qui ont retardé le programme. Les deux numéros un mondiaux affichent une forme impeccable en ce début de tournoi. Leurs victoires propulsent les favoris vers les phases finales.",
-      "why": "Le Miami Open est un rendez-vous clé du tennis printanier, et les performances des leaders valident leur statut avant les grands chelems.",
+      "title": "Miami Open perturbé par des pluies abondantes, Alcaraz et Swiatek en lice",
+      "summary": "Le Masters 1000 de Miami subit des interruptions dues à des pluies torrentielles depuis son début, forçant les organisateurs à reporter plusieurs matchs. Carlos Alcaraz et Iga Swiatek ont néanmoins dominé leurs premiers tours avec autorité malgré les conditions difficiles. Ces performances maintiennent les numéros un mondiaux en course pour le titre dans ce tournoi clé du printemps.",
+      "why": "Ce Masters 1000 est un rendez-vous majeur avant Roland-Garros, et les conditions météo inhabituelles testent la résilience des favoris.",
       "category": "Tennis"
     },
     {
+      "title": "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
+      "summary": "Le RC Lens a profité de la 27e journée de Ligue 1, disputée le 21 mars, pour reprendre la tête du championnat français grâce à une victoire convaincante. Les Sang et Or devancent désormais leurs poursuivants directs dans une course au titre serrée. Cette performance renforce leur statut de leader à quelques journées de la fin de la saison.",
+      "why": "La bataille pour le titre en Ligue 1 est intense, et ce changement en tête du classement relance totalement les enjeux.",
+      "category": "Football"
+    },
+    {
       "title": "Biathlon : Le Français Perrot signe son premier sacre mondial",
-      "summary": "Le biathlète français Perrot a remporté sa première médaille d'or en Coupe du monde lors d'une épreuve disputée ce week-end, marquant un tournant dans sa carrière. Sa précision au tir et sa vitesse au ski ont surpassé les favoris. Cette victoire booste le moral de l'équipe de France avant les Championnats du monde.",
-      "why": "Ce premier titre individuel propulse Perrot parmi l'élite mondiale et renforce la domination française en biathlon.",
+      "summary": "Le biathlète français Perrot a remporté son premier titre mondial lors d'une épreuve disputée ces derniers jours, marquant un tournant dans sa carrière. Cette victoire, obtenue avec une précision exemplaire au tir et une endurance remarquable en ski, propulse la France au premier plan de la discipline. Perrot devient ainsi un espoir majeur pour les prochains Championnats du monde.",
+      "why": "Ce sacre individuel met fin à une disette française en biathlon et booste la visibilité du sport en pleine saison hivernale.",
       "category": "Autre"
     },
     {
       "title": "Tennis : Atmane crée la surprise au deuxième tour d'un Masters 1000",
-      "summary": "Le Français Atmane a surpris son adversaire direct pour se qualifier au deuxième tour d'un prestigieux Masters 1000 ce week-end, confirmant sa progression fulgurante. Ce résultat inattendu met en lumière le vivier de talents tricolores. Atmane vise désormais un tableau final historique.",
-      "why": "Cette performance d'Atmane illustre l'émergence de la nouvelle génération française et dynamise le tennis hexagonal.",
+      "summary": "Le Français Atmane a surpris son adversaire au deuxième tour d'un Masters 1000 ces derniers jours, confirmant sa progression fulgurante sur le circuit ATP. Classé outsider, il a produit un jeu solide pour avancer et défier les favoris. Cette performance inattendue le positionne comme une révélation potentielle du tennis tricolore.",
+      "why": "Les Masters 1000 sont des tournois élites, et une telle avancée pour un jeune Français ravive l'espoir d'une nouvelle génération.",
       "category": "Tennis"
     }
   ],
-  "updates": [
-    {
-      "title": "Ligue Europa : L'OL éliminé de manière choc par le Celta Vigo",
-      "original": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
-      "summary": "L'Olympique Lyonnais a été sorti en huitièmes de finale retour par le Celta Vigo, confirmant une élimination précoce malgré un match aller encourageant. Les Gones ont craqué en seconde période sous la pression galicienne. Cette défaite ruine leurs espoirs européens pour cette saison.",
-      "why": "L'élimination précoce de l'OL, club historique, provoque un séisme en Ligue 1 et questionne la stratégie de l'entraîneur.",
-      "category": "Football"
-    }
-  ]
+  "updates": []
 }
