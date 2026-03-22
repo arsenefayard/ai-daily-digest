@@ -1,16 +1,5 @@
 [
   {
-    "date": "16/03/2026",
-    "titles": [
-      "Quarts de finale Ligue des Champions : Qualifications spectaculaires pour les demi-finales",
-      "Indian Wells Masters 1000 : Alcaraz et Swiatek remportent les titres en finales dominantes",
-      "NBA : Les Lakers et Celtics prolongent leurs séries victorieuses avant le All-Star Weekend",
-      "Coupe de France : Demi-finales confirmées avec Lens-Toulouse et Strasbourg-Nice",
-      "UFC 326 : Charles Oliveira soumet Max Holloway en 2e round à Las Vegas",
-      "Tournoi des 6 Nations : La France couronnée championne après la victoire sur l'Angleterre"
-    ]
-  },
-  {
     "date": "17/03/2026",
     "titles": [
       "Ligue des Champions : Huitièmes de finale retour en cours avec suspense total",
@@ -70,6 +59,18 @@
       "Ligue Conférence : Strasbourg se qualifie aux forceps pour les quarts face à Rijeka",
       "Miami Open : Le tournoi Masters 1000 perturbé par des pluies abondantes",
       "Cyclisme : Tom Pidcock remporte Milan-Turin avec une attaque décisive"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Milan-San Remo : Le classique du cyclisme sur route se dispute ce dimanche",
+      "Ligue 1 - Journée 27 : Les enjeux du championnat de France se précisent",
+      "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
+      "Biathlon : Premier sacre pour Perrot",
+      "Football : Lens reprend la tête du classement de Ligue 1",
+      "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
+      "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale"
     ]
   }
 ]
