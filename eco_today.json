@@ -2,35 +2,43 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Trump envisage l'envoi d'une force terrestre en Iran",
-      "summary": "Le président américain Donald Trump explore activement les options pour déployer une force terrestre en Iran, au-delà des frappes aériennes actuelles menées avec Israël contre les sites nucléaires et balistiques iraniens. Cette escalade potentielle vise à affaiblir ou changer le régime de Téhéran, selon des sources proches de la Maison Blanche. Les marchés financiers réagissent avec nervosité, craignant une prolongation du conflit qui maintiendrait les prix du pétrole au-dessus de 100 dollars le baril.",
-      "why": "Cette décision pourrait transformer le choc pétrolier actuel en crise prolongée, impactant la croissance mondiale et forçant les banques centrales à durcir leur politique monétaire.",
+      "title": "La guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
+      "summary": "Depuis le 28 février 2026, les frappes américano-israéliennes contre l'Iran ont déclenché une crise énergétique majeure avec la fermeture effective du détroit d'Ormuz, voie de transit pour environ 20 % de l'offre mondiale de pétrole, soit quelque 14 millions de barils par jour de brut auxquels s'ajoutent 4 millions de barils de produits raffinés. Cet événement constitue l'un des plus importants chocs énergétiques de l'histoire économique moderne. Les répercussions sur la croissance et l'inflation varient selon la durée du conflit, avec des scénarios allant d'une capitulation rapide du régime iranien à un conflit prolongé impactant durablement les économies mondiales.",
+      "why": "Ce choc énergétique remet en cause la dynamique économique mondiale et pourrait forcer les banques centrales à relever leurs taux directeurs, notamment la BCE, tout en pesant sur la croissance économique des principales zones.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Trump rétablit des droits de douane mondiaux de 15 % malgré l'annulation par la Cour suprême",
+      "summary": "Après avoir subi un revers de la Cour suprême qui avait annulé ses précédents droits de douane, le président Donald Trump a annoncé la mise en place de droits de douane mondiaux de 15 % par un autre canal législatif. Cette mesure relance les tensions commerciales mondiales et crée une incertitude majeure sur les échanges internationaux. L'administration américaine poursuit ainsi sa stratégie de protectionnisme commercial pour financer sa course stratégique face à la Chine.",
+      "why": "Ces tarifs douaniers devraient alimenter l'inflation mondiale, notamment aux États-Unis où elle est prévue à plus de 3 % en 2026, et risquent de fragmenter davantage l'économie mondiale en créant des blocs commerciaux distincts.",
       "category": "Politique monétaire"
     },
     {
-      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "summary": "Les autorités françaises ont intercepté en mer Méditerranée un tanker suspecté de faire partie de la flotte fantôme russe, utilisée pour contourner les sanctions occidentales sur le pétrole. Cette opération s'inscrit dans un renforcement des contrôles maritimes face aux perturbations géopolitiques au Moyen-Orient. Elle souligne les tensions persistantes entre l'Occident et la Russie, avec des implications sur les flux énergétiques mondiaux.",
-      "why": "L'action renforce l'application des sanctions et pourrait réduire l'offre pétrolière russe, exacerbant la flambée des prix des énergies et l'inflation mondiale.",
-      "category": "Matières premières"
+      "title": "Donald Trump nomme Kevin Warsh à la tête de la Réserve fédérale pour apaiser les tensions",
+      "summary": "Le président américain a nommé Kevin Warsh à la tête de la Réserve fédérale, remplaçant ainsi la pression qu'il exerçait précédemment pour une baisse des taux d'intérêt. Cette nomination rassure les marchés financiers qui voient en Warsh un défenseur de l'indépendance de la banque centrale américaine. Ce changement marque un apaisement relatif dans les relations entre l'exécutif américain et l'institution monétaire.",
+      "why": "Cette nomination est cruciale pour la stabilité des marchés financiers et pour maintenir la crédibilité de la politique monétaire américaine face aux défis inflationnistes et géopolitiques actuels.",
+      "category": "Banques"
     },
     {
-      "title": "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
-      "summary": "Un tanker russe battant pavillon inconnu a été signalé à la dérive dans les eaux libyennes, provoquant une alerte écologique majeure en raison du risque de marée noire. Les autorités internationales coordonnent une intervention d'urgence pour éviter une catastrophe environnementale. Cet incident complique davantage les chaînes d'approvisionnement maritimes déjà perturbées par le conflit au Moyen-Orient.",
-      "why": "Une marée noire perturberait les exportations pétrolières méditerranéennes, aggravant les pénuries et les hausses de prix des carburants en Europe.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "La crise moyen-orientale détourne des millions de touristes vers l'Europe",
-      "summary": "La guerre en Iran et les perturbations au Moyen-Orient poussent des millions de touristes à reporter leurs voyages vers des destinations européennes comme l'Espagne et la Méditerranée. Selon le Conseil mondial du voyage et du tourisme, cet afflux soudain représente une opportunité économique pour le secteur hôtelier et aérien. Les pays bénéficiaires pourraient voir leur PIB touristique bondir de 10 à 15 % au deuxième trimestre.",
-      "why": "Ce transfert de flux touristiques stimule la croissance en Europe tout en soulageant partiellement les pressions inflationnistes sur les services.",
+      "title": "Accélération des investissements des entreprises américaines malgré le ralentissement économique",
+      "summary": "Malgré un ralentissement ponctuel de la croissance lié à des facteurs temporaires, l'investissement des entreprises américaines s'accélère en ce début d'année 2026. Ce dynamisme reflète la confiance des entreprises dans la reprise économique à moyen terme et la solidité du marché du travail américain. Ce déficit d'activité temporaire devrait être récupéré au moins en partie au cours des prochains mois.",
+      "why": "Cette accélération de l'investissement privé est un signal positif pour la croissance économique américaine et contraste avec les incertitudes géopolitiques et inflationnistes, suggérant une résilience économique sous-jacente.",
       "category": "Entreprises"
     },
     {
-      "title": "L'Agence internationale de l'énergie publie 10 mesures contre la crise énergétique",
-      "summary": "L'Agence internationale de l'énergie a dévoilé dix mesures concrètes destinées aux ménages, entreprises et gouvernements pour atténuer l'impact de la guerre au Moyen-Orient sur les prix de l'énergie. Ces recommandations incluent des rationnements temporaires et des libérations de stocks stratégiques, après une première vague la semaine dernière. Elles visent à stabiliser les marchés face à la fermeture persistante du détroit d'Ormuz, transitant 20 % du pétrole mondial.",
-      "why": "Ces actions pourraient modérer la flambée des prix du pétrole et limiter l'inflation à +3-4 % dans les grandes économies, évitant une récession.",
-      "category": "Matières premières"
+      "title": "Les principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
+      "summary": "JP Morgan, Morgan Stanley et Barclays anticipent toutes une première hausse des taux d'intérêt par la Banque centrale européenne en avril 2026, en raison des risques inflationnistes liés au conflit au Moyen-Orient et à la flambée des prix du pétrole. L'inflation en zone euro devrait approcher les 4,5 % selon les scénarios de conflit prolongé, obligeant la BCE à durcir sa politique monétaire. Cette hausse des taux marquerait un tournant majeur dans la politique monétaire européenne après une période d'assouplissement.",
+      "why": "Cette anticipation de hausse des taux de la BCE aura des répercussions importantes sur les conditions de financement en Europe, les marchés obligataires et les décisions d'investissement des entreprises et des ménages.",
+      "category": "Politique monétaire"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Réserves pétrolières offshore s'épuisent rapidement à cause des perturbations au Golfe",
+      "original": "Les réserves pétrolières offshore diminuent rapidement face à la persistance du conflit au Moyen-Orient",
+      "summary": "Les stocks mondiaux de pétrole à bord des pétroliers s'épuisent à vue d'œil depuis trois semaines consécutives en raison des perturbations des approvisionnements du Golfe. Cette situation s'aggrave avec la fermeture du détroit d'Ormuz, qui bloque environ 20 % de l'offre mondiale de pétrole. L'épuisement des réserves de stockage flottant crée une pression supplémentaire sur les prix du pétrole et limite la capacité des marchés à absorber les chocs d'approvisionnement.",
+      "why": "L'épuisement des réserves de stockage flottant réduit les amortisseurs du marché pétrolier et amplifie la volatilité des prix, ce qui aggrave les pressions inflationnistes mondiales et les risques pour la croissance économique.",
+      "category": "Matières premières"
+    }
+  ]
 }
