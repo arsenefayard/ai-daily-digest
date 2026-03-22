@@ -1,36 +1,51 @@
 {
-  "date": "21/03/2026",
+  "date": "22/03/2026",
   "news": [
     {
+      "title": "Milan-San Remo : Le classique du cyclisme sur route se dispute ce dimanche",
+      "summary": "La célèbre course cycliste Milan-San Remo se déroule ce dimanche 22 mars 2026, marquant le retour des grands classiques de printemps. Cette épreuve mythique de 298 kilomètres attire les meilleurs coureurs mondiaux qui s'affrontent sur les routes italiennes. L'enjeu est majeur pour les spécialistes des classiques qui cherchent à débuter leur saison avec une victoire prestigieuse.",
+      "why": "Milan-San Remo est l'une des cinq Monuments du cyclisme et représente un objectif majeur pour les coureurs de haut niveau. C'est un test crucial avant les autres grands classiques de printemps.",
+      "category": "Autre"
+    },
+    {
+      "title": "Ligue 1 - Journée 27 : Les enjeux du championnat de France se précisent",
+      "summary": "La 27e journée de Ligue 1 se dispute ce dimanche 22 mars 2026, avec des enjeux importants pour la course au titre et la lutte pour les places européennes. Les principaux clubs français sont en action pour consolider leurs positions respectives dans le classement. Cette journée pourrait redistribuer les cartes dans la hiérarchie du championnat français.",
+      "why": "À ce stade de la saison, chaque point compte pour les équipes qui visent le titre ou les places qualificatives pour les compétitions européennes. Les résultats de cette journée auront des implications directes sur la fin de saison.",
+      "category": "Football"
+    },
+    {
+      "title": "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
+      "summary": "Le joueur de tennis français Atmane a remporté son premier match et s'est qualifié pour le deuxième tour d'une compétition importante. Cette victoire confirme le bon moment de forme du tennisman français qui continue sa progression dans les classements mondiaux. Son parcours dans ce tournoi est suivi de près par les observateurs du tennis français.",
+      "why": "Les performances des joueurs français au tennis sont importantes pour la visibilité du sport en France et pour le développement du tennis hexagonal. La progression d'Atmane représente un espoir pour le tennis français.",
+      "category": "Tennis"
+    },
+    {
+      "title": "Biathlon : Premier sacre pour Perrot",
+      "summary": "Le biathlète français Perrot a remporté sa première victoire majeure en compétition internationale, marquant un tournant dans sa carrière. Cette consécration intervient après plusieurs saisons de progression constante et de résultats encourageants. Le succès de Perrot renforce la domination française dans la discipline du biathlon.",
+      "why": "Une première victoire majeure est un moment clé dans la carrière d'un athlète et confirme son potentiel à haut niveau. Ce succès positionne Perrot parmi les favoris pour les prochaines grandes compétitions de biathlon.",
+      "category": "Autre"
+    },
+    {
+      "title": "Football : Lens reprend la tête du classement de Ligue 1",
+      "summary": "Le Racing Club de Lens a pris la première place du classement de Ligue 1 grâce à ses récentes performances. L'équipe nordiste confirme son excellent début de saison et sa capacité à rivaliser avec les plus grands clubs français. Cette position de leader montre que Lens est un véritable prétendant au titre cette saison.",
+      "why": "La position de leader en Ligue 1 est un indicateur majeur de la force d'une équipe et de ses chances de remporter le championnat. Le succès de Lens, club historiquement moins puissant que le PSG ou l'OM, représente un scénario intéressant pour le championnat français.",
+      "category": "Football"
+    }
+  ],
+  "updates": [
+    {
       "title": "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "summary": "Liverpool a dominé Galatasaray 4-0 lors des huitièmes de finale retour à Anfield, avec des buts de Szobolszlai, Ekitike, Gravenberch et Salah, renversant la défaite 0-1 de l'aller. Les Reds se qualifient ainsi pour les quarts de finale où ils défieront le Paris Saint-Germain. Ce choc entre deux clubs historiques promet un duel intense et spectaculaire.",
-      "why": "Ce tirage au sort oppose deux puissances européennes actuelles et relance l'intérêt pour les quarts de la Ligue des Champions.",
+      "original": "Huitièmes de finale retour de Ligue des Champions : les qualifications se décident",
+      "summary": "Liverpool a dominé Galatasaray lors du huitième de finale retour de la Ligue des Champions et s'est qualifié pour les quarts de finale. Les Reds affronteront le Paris Saint-Germain dans la phase suivante, promettant un duel de haut niveau. Cette qualification confirme le statut de favori de Liverpool dans la compétition.",
+      "why": "La qualification de Liverpool et l'affrontement contre le PSG en quarts de finale représentent un match de très haut niveau qui captivera les amateurs de football européen. C'est un duel entre deux des plus grands clubs d'Europe.",
       "category": "Football"
     },
     {
       "title": "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
-      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa après une performance décevante face au Celta Vigo lors des huitièmes de finale retour le 19 mars. Les Gones, déjà en difficulté, n'ont pas su se qualifier et quittent la compétition prématurément. Le coach adverse a même jubilé après cette victoire inattendue.",
-      "why": "Cette élimination précoce accentue la crise de l'OL et soulève des questions sur la gestion du club en pleine saison européenne.",
+      "original": "Huitièmes de finale retour d'Europa League : les équipes se battent pour les quarts",
+      "summary": "L'Olympique Lyonnais a été éliminé de la Ligue Europa par le Celta Vigo lors des huitièmes de finale retour. Cette élimination précoce représente une déception majeure pour le club rhodanien qui espérait progresser plus loin dans la compétition. Le Celta Vigo se qualifie pour les quarts de finale avec cette victoire.",
+      "why": "L'élimination de l'OL, l'un des clubs français majeurs, dès les huitièmes de finale est un résultat inattendu qui affecte les ambitions européennes du club. Cela réduit également la représentation française dans les compétitions continentales.",
       "category": "Football"
-    },
-    {
-      "title": "Ligue Conférence : Strasbourg se qualifie aux forceps pour les quarts face à Rijeka",
-      "summary": "Le Racing Club de Strasbourg a arraché sa qualification en quarts de finale de la Ligue Conférence après un match nul obtenu dans les dernières minutes contre Rijeka le 19 mars. Malgré un match aller compliqué, les Alsaciens ont su faire preuve de résilience pour avancer. La Fiorentina s'est également qualifiée dans cette compétition.",
-      "why": "Cette qualification surprise propulse Strasbourg parmi les outsiders européens et booste les ambitions du club en Conférence.",
-      "category": "Football"
-    },
-    {
-      "title": "Miami Open : Le tournoi Masters 1000 perturbé par des pluies abondantes",
-      "summary": "Le Miami Open, Masters 1000 ATP et WTA, a vu son programme bouleversé par des pluies intenses dès le 18 mars, retardant de nombreux matchs des favoris comme Alcaraz et Swiatek. Les organisateurs ont dû ajuster le calendrier pour rattraper les rencontres. Cette météo défavorable teste la patience des joueurs et des spectateurs.",
-      "why": "Ce Masters 1000 majeur conditionne les classements avant Roland-Garros, et les perturbations pourraient influencer les résultats finaux.",
-      "category": "Tennis"
-    },
-    {
-      "title": "Cyclisme : Tom Pidcock remporte Milan-Turin avec une attaque décisive",
-      "summary": "Tom Pidcock a gagné la 106e édition de Milan-Turin le 18 mars grâce à une attaque lancée à 600 mètres de l'arrivée, devançant Tobias Johannessen et Primoz Roglic. C'est sa deuxième victoire de la saison après le Tour d'Andalousie. Le Britannique de Pinarello - Q36.5 confirme sa forme ascendante avant Milan-San Remo.",
-      "why": "Cette classique italienne sert de préparation idéale pour Milan-San Remo ce week-end et met Pidcock en lice pour les grandes classiques printanières.",
-      "category": "Autre"
     }
-  ],
-  "updates": []
+  ]
 }
