@@ -1,16 +1,5 @@
 [
   {
-    "date": "18/03/2026",
-    "titles": [
-      "Négociations sino-américaines constructives à Paris ouvrant la voie à une visite de Trump en Chine",
-      "L'AIE libère immédiatement des réserves stratégiques de pétrole face aux perturbations du Moyen-Orient",
-      "L'économie chinoise se redresse de manière inattendue malgré les risques géopolitiques",
-      "Trump revendique l'autorité absolue pour imposer de nouveaux droits de douane malgré le rejet de la Cour suprême",
-      "Décision de la Réserve bancaire d'Australie et indices ZEW du 17 mars influençant les perspectives économiques mondiales",
-      "Escalade tarifaire américaine : Trump impose 15 % de droits de douane mondiaux après le rejet de la Cour suprême"
-    ]
-  },
-  {
     "date": "19/03/2026",
     "titles": [
       "L'or dépasse les 2 440 dollars l'once en 24 heures",
@@ -68,6 +57,16 @@
       "Perturbations au Moyen-Orient désorganisent les circuits du commerce maritime mondial",
       "Principales banques anticipent une hausse des taux de la BCE en avril face aux risques inflationnistes",
       "Stocks mondiaux de pétrole offshore s'épuisent rapidement à cause des perturbations au Golfe"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Explosion des prix des engrais en Europe due à la guerre au Moyen-Orient",
+      "Investissements des entreprises américaines s'accélèrent malgré le ralentissement économique",
+      "La crise au Moyen-Orient détourne des millions de touristes vers l'Europe",
+      "France, Royaume-Uni et alliés prêts à sécuriser le détroit d'Ormuz",
+      "Inflation persistante aux États-Unis prévue à +3,0 % en 2026 due aux tariffs et pétrole"
     ]
   }
 ]
