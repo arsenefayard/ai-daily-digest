@@ -1,16 +1,5 @@
 [
   {
-    "date": "14/03/2026",
-    "titles": [
-      "Israël étend ses frappes à Téhéran et au Liban malgré les déclarations de Trump",
-      "Brésil annonce coopération militaire avec l'Afrique du Sud face à l'interventionnisme américain",
-      "Crise au Qatar : usine de GNL de Ras Laffan à l'arrêt, impact sur l'approvisionnement mondial en hélium",
-      "Trump rencontre Xi Jinping sur commerce et sécurité régionale",
-      "UE renforce sa coopération avec l'Azerbaïdjan en sécurité et énergie",
-      "Iran intensifie ses frappes dans le Golfe, crise d'Ormuz s'aggrave avec ciblage des pays du Golfe"
-    ]
-  },
-  {
     "date": "15/03/2026",
     "titles": [
       "Nouveau guide suprême iranien Mojtaba Khamenei réaffirme blocus d'Ormuz et menace nouveaux fronts",
@@ -74,6 +63,16 @@
       "Crise du Qatar : arrêt des contrats de gaz naturel liquéfié et perturbations logistiques majeures",
       "Coalition internationale pour sécuriser le détroit d'Ormuz et stabiliser les marchés énergétiques",
       "Veto hongrois bloquant l'aide européenne à l'Ukraine lié à la crise énergétique russe"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "Les États-Unis affirment pouvoir neutraliser l'île de Kharg, hub pétrolier iranien, à tout moment",
+      "Fermeture du détroit d'Ormuz : la plus grande menace énergétique de l'histoire selon l'AIE",
+      "Mojtaba Khamenei appelle à l'unité iranienne face aux menaces extérieures pour le Nouvel An persan",
+      "Chili : José Antonio Kast s'aligne sur Trump pour contrer l'influence chinoise dans les métaux stratégiques",
+      "Trump forme une coalition avec les pays du Golfe pour affaiblir l'Iran et sécuriser la région"
     ]
   }
 ]
