@@ -2,34 +2,34 @@
   "date": "22/03/2026",
   "news": [
     {
-      "title": "Threat Signal dévoile Revelations le 27 mars en metalcore",
-      "summary": "Le groupe canadien Threat Signal, formé en 2004, publie son nouvel album Revelations le 27 mars 2026 dans un style metalcore intense et technique. Cet opus marque un retour attendu après plusieurs années d'absence, avec des riffs puissants et une production moderne qui ravira les fans du genre. Les premiers extraits promettent une explosion d'énergie live lors des prochaines tournées.",
-      "why": "Ce comeback renforce la vitalité du metalcore nord-américain en ce printemps 2026, offrant une alternative fraîche aux sorties thrash dominantes.",
+      "title": "Power Paladin annonce Beyond The Reach Of Enchantment pour le 27 mars",
+      "summary": "Le groupe islandais de power metal Power Paladin, formé en 2020, dévoile son nouvel album Beyond The Reach Of Enchantment qui sortira le 27 mars 2026. Cet opus promet des hymnes épiques et des mélodies accrocheuses typiques du genre, avec une production soignée qui met en valeur leurs riffs puissants et leurs refrains fédérateurs. Les fans attendent avec impatience ce disque qui pourrait propulser le jeune quatuor sur la scène internationale du power metal.",
+      "why": "Power Paladin représente une nouvelle génération dynamique du power metal islandais et cette sortie tombe à pic pour enrichir le calendrier chargé de mars dans le metal.",
       "category": "Métal"
     },
     {
-      "title": "Myrath sort Wilderness Of Mirrors le 27 mars en progressive metal oriental",
-      "summary": "Le groupe tunisien Myrath lance son album Wilderness Of Mirrors le 27 mars 2026, fusionnant progressive rock avec des influences orientales uniques. Cet effort explore des thèmes mystiques à travers des compositions complexes et des mélodies envoûtantes. Il s'inscrit dans la lignée de leurs précédents succès internationaux.",
-      "why": "Myrath élargit l'horizon du rock progressif avec son identité culturelle distinctive, attirant un public mondial en quête de diversité sonore.",
-      "category": "Rock"
-    },
-    {
       "title": "Pop Evil publie What Remains (Midnight Edition) le 27 mars",
-      "summary": "Le groupe américain Pop Evil sort l'édition spéciale What Remains (Midnight Edition) le 27 mars 2026, enrichie de versions alternatives et de bonus inédits. Cet album post-grunge/alternative metal approfondit leurs hits radio avec une production soignée et des textes introspectifs. Les fans apprécient cette réédition qui prolonge la vie de l'opus original.",
-      "why": "Cette version deluxe consolide la popularité de Pop Evil sur les ondes rock, boostant leurs streams et ventes en pleine saison des festivals.",
+      "summary": "Le groupe américain de rock Pop Evil sortira le 27 mars l'édition spéciale What Remains (Midnight Edition), une version enrichie de leur dernier opus avec des titres bonus et des remixes exclusifs. Cette réédition vise à prolonger l'engouement autour de leur son hard rock moderne et accessible, tout en offrant du contenu inédit aux collectionneurs. Elle s'inscrit dans une stratégie pour maintenir la visibilité du groupe en pleine tournée.",
+      "why": "Cette édition limitée renforce la présence de Pop Evil dans le rock alternatif et pourrait booster leurs streams en cette fin de mois.",
       "category": "Rock"
     },
     {
-      "title": "Occultation annonce son retour avec un nouvel album en mars",
-      "summary": "Les Occultation, groupe de New York Casualties, officialisent leur grand retour après sept ans de silence depuis White Line In Blood avec un nouvel album studio sorti ce mois de mars 2026. Le titre track est déjà disponible et promet une rage punk explosive avec une énergie intacte. Une édition vinyle limitée est en précommande pour les collectionneurs.",
-      "why": "Ce revival punk hardcore ravive la scène underground new-yorkaise et excite les fans nostalgiques d'un son authentique et brut.",
-      "category": "Autre"
+      "title": "Myrath dévoile Wilderness Of Mirrors le 27 mars",
+      "summary": "Le combo tunisien Myrath, pionnier du progressive metal oriental, lancera son album Wilderness Of Mirrors le 27 mars 2026, fusionnant influences arabes et progressives complexes. L'opus explore des thèmes mystiques avec des compositions techniques et des mélodies envoûtantes qui captivent un public mondial. Cette sortie marque un jalon dans leur carrière en exportant leur style unique vers de nouveaux horizons.",
+      "why": "Myrath brille par son originalité culturelle dans le prog metal et cet album pourrait élargir leur audience internationale.",
+      "category": "Rock"
     },
     {
-      "title": "Chez Kane dévoile Reckless le 27 mars en hard rock",
-      "summary": "Le projet hard rock Chez Kane sort Reckless le 27 mars 2026, mêlant riffs accrocheurs et refrains mélodiques dans un style classique. Inspiré des années 80, l'album cible les amateurs de rock FM avec une énergie live palpable. Il s'annonce comme un hit potentiel pour les radios spécialisées.",
-      "why": "Reckless revitalise le hard rock old school au milieu des sorties metal extrême, offrant un contraste accessible et festif.",
-      "category": "Rock"
+      "title": "Taylor Swift confirme sa résidence à Las Vegas pour 2026",
+      "summary": "La superstar mondiale Taylor Swift a officialisé une résidence exceptionnelle à Las Vegas qui débutera en 2026, avec plusieurs dates prévues dans une salle emblématique de la Strip. Ce format innovant permettra à ses fans de vivre des shows immersifs avec des setlists évolutives et des productions visuelles spectaculaires. Cette annonce s'ajoute à son calendrier chargé et renforce son statut de phénomène pop.",
+      "why": "Une résidence de Taylor Swift à Vegas représente un événement majeur pour la pop, attirant des millions de fans et boostant l'industrie live.",
+      "category": "Pop"
+    },
+    {
+      "title": "Drake pulvérise un nouveau record de streams sur Spotify",
+      "summary": "Le rappeur canadien Drake a battu un nouveau record absolu de streams mensuels sur Spotify, surpassant ses propres marques précédentes grâce à ses derniers singles viraux. Ce exploit souligne sa domination incontestée dans le streaming hip-hop, avec des chiffres astronomiques qui reflètent l'addiction mondiale à son flow et ses productions innovantes. Spotify célèbre cet accomplissement par des playlists dédiées et des promotions massives.",
+      "why": "Ce record consolide la position de Drake comme leader du hip-hop en streaming et influence les tendances algorithmiques des plateformes.",
+      "category": "Hip-Hop"
     }
   ],
   "updates": []
