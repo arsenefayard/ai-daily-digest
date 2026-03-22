@@ -1,16 +1,5 @@
 [
   {
-    "date": "17/03/2026",
-    "titles": [
-      "Anthropic déploie la génération de visuels pour Claude en bêta",
-      "Perplexity lance Personal Computer, un agent IA 24/7 sur Mac mini",
-      "Adobe généralise l'accès bêta à son assistant IA dans Photoshop",
-      "Google intègre Gemini plus profondément dans Google Workspace",
-      "USA retirent le projet de règlement sur les exportations de puces IA",
-      "Perplexity Personal Computer : expansion de l'IA agentique autonome"
-    ]
-  },
-  {
     "date": "18/03/2026",
     "titles": [
       "Arcep publie son Baromètre du numérique 2026 : explosion des usages de l'IA générative",
@@ -58,6 +47,16 @@
       "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative, une adoption fulgurante",
       "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA le 11 mars 2026",
       "Résolution du Parlement européen du 10 mars 2026 sur le droit d'auteur et l'IA générative"
+    ]
+  },
+  {
+    "date": "22/03/2026",
+    "titles": [
+      "OpenAI lance GPT-5.4, premier modèle capable de contrôler nativement un ordinateur",
+      "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres optimisé pour Huawei",
+      "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour Microsoft 365",
+      "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
+      "Alibaba lance les Qwen Glasses, lunettes IA abordables à 275 dollars au MWC"
     ]
   },
   {
