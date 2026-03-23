@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Yasuke, l'esclave africain devenu premier samouraï étranger au Japon",
-      "Le logo de Nike conçu pour seulement 35 dollars en 1971",
-      "Les faux arrêts de bus en Allemagne pour patients Alzheimer",
-      "La sueur de gladiateurs comme parfum chez les Romaines riches",
-      "Le mot 'sandwich' né d'un aristocrate joueur de cartes"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
       "L'invention des lunettes : une évolution de treize siècles",
       "Le mot « sandwich » doit son nom à un aristocrate du dix-huitième siècle",
@@ -67,6 +57,16 @@
       "Le durian, fruit interdit pour son odeur pestilentielle",
       "Les fèves de cacao, monnaie des Aztèques",
       "La Tomatina, festival mondial de la tomate en Espagne"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Le rugissement du tigre audible à trois kilomètres",
+      "Discours de la méthode de René Descartes, pilier de la philosophie moderne",
+      "La Joconde possède sa propre boîte aux lettres au Louvre",
+      "Les 20 mythes grecs incontournables façonnent la culture occidentale",
+      "Les empreintes digitales des jumeaux identiques sont uniques"
     ]
   }
 ]
