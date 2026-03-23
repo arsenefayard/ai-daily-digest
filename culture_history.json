@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Le paradoxe de Zénon d'Élée et la flèche qui ne bouge jamais",
-      "La cité perdue de Pétrogramme en Jordanie, gravée de 100 000 images rupestres",
-      "Le film Métropolis de Fritz Lang et ses visions prophétiques de 1927",
-      "L'effet Baader-Meinhof, l'illusion de fréquence soudaine",
-      "La plus grande fleur du monde, la Rafflesia arnoldii d'Indonésie"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Yasuke, l'esclave africain devenu premier samouraï étranger au Japon",
       "Le logo de Nike conçu pour seulement 35 dollars en 1971",
       "Les faux arrêts de bus en Allemagne pour patients Alzheimer",
@@ -67,6 +57,16 @@
       "La polyphonie vocale géorgienne, patrimoine immatériel de l'UNESCO",
       "L'eau nécessaire pour cultiver un seul avocat",
       "Les hiboux n'ont pas de globes oculaires"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Coca-Cola est plus ancien que la Tour Eiffel",
+      "Candide de Voltaire, satire philosophique intemporelle",
+      "Le durian, fruit interdit pour son odeur pestilentielle",
+      "Les fèves de cacao, monnaie des Aztèques",
+      "La Tomatina, festival mondial de la tomate en Espagne"
     ]
   }
 ]
