@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
-      "summary": "L'indice Chicago Fed a enregistré une amélioration inattendue en mars 2026, reflétant une résilience économique malgré les tensions géopolitiques et la hausse des prix de l'énergie. Les dépenses de construction ont également dépassé les prévisions des analystes, avec une croissance de 1,2 % sur le mois, soutenue par des investissements publics dans les infrastructures. Ces données positives surprennent les marchés et atténuent les craintes d'un ralentissement imminent aux États-Unis.",
-      "why": "Ces indicateurs renforcent la confiance dans la robustesse de l'économie américaine et pourraient influencer la Fed à maintenir une politique monétaire prudente face à l'inflation persistante.",
+      "title": "L'indice Chicago Fed et les dépenses de construction aux États-Unis surpassent les attentes",
+      "summary": "L'indice Chicago Fed et les dépenses de construction aux États-Unis ont affiché des résultats supérieurs aux prévisions le 23 mars 2026, confirmant une croissance économique américaine robuste malgré les tensions géopolitiques. Ces données macroéconomiques positives soulignent la solidité du cycle d'investissement dans les infrastructures et la construction résidentielle. Elles renforcent les attentes d'une économie américaine résiliente, avec un impact potentiel sur les rendements obligataires et le dollar.",
+      "why": "Ces chiffres inattendus apaisent les craintes de récession et influencent les anticipations de politique monétaire de la Fed, soutenant les marchés actions.",
       "category": "Marchés"
     },
     {
-      "title": "Confiance des consommateurs en zone euro montre des signes de redressement",
-      "summary": "L'indice de confiance des consommateurs en zone euro a progressé de 2,3 points en mars 2026, marquant une première amélioration après plusieurs mois de déclin dus à la crise énergétique. Cette hausse s'explique par une stabilisation relative des prix alimentaires et une anticipation de mesures de soutien budgétaire de l'Union européenne. Les économistes notent que ce rebond reste fragile face aux risques persistants liés au conflit au Moyen-Orient.",
-      "why": "Un redressement de la confiance des ménages est crucial pour relancer la consommation, principal moteur de la croissance en Europe, et pourrait éviter une récession technique.",
+      "title": "La confiance des consommateurs en zone euro montre des signes de redressement",
+      "summary": "L'indicateur de confiance des consommateurs dans la zone euro s'améliore le 23 mars 2026, signalant un possible rebond de la demande intérieure après des mois de pessimisme lié à l'inflation énergétique. Cette évolution positive contraste avec les chutes récentes des indices boursiers comme le CAC 40 et le DAX. Elle pourrait stimuler la consommation et atténuer les pressions déflationnistes dans l'Union monétaire.",
+      "why": "Un redressement de la confiance consumer est crucial pour relancer la croissance en zone euro et influencer les décisions futures de la BCE.",
       "category": "Marchés"
+    },
+    {
+      "title": "Rapport EQT AB met en lumière la performance des investissements alternatifs",
+      "summary": "Le rapport publié par EQT AB le 23 mars 2026 révèle une forte performance des investissements alternatifs, avec des rendements solides dans le private equity et les infrastructures malgré la volatilité des marchés. Cette résilience s'explique par la diversification des portefeuilles et la demande soutenue pour des actifs décorrélés des actions traditionnelles. Les investisseurs institutionnels pourraient ainsi réallouer des capitaux vers ces classes d'actifs pour mitiger les risques géopolitiques.",
+      "why": "Ce rapport valide l'attractivité des investissements alternatifs en période d'incertitude, influençant les stratégies d'allocation d'actifs mondiales.",
+      "category": "Entreprises"
     },
     {
       "title": "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
-      "summary": "Elon Musk a révélé que Tesla lancera dans sept jours le projet Terafab, une usine dédiée à la production de puces pour l'intelligence artificielle, avec un investissement initial de 5 milliards de dollars. Cette initiative vise à réduire la dépendance aux fournisseurs asiatiques et à accélérer le développement des véhicules autonomes. L'annonce a propulsé l'action Tesla de 1,11 % en séance à Wall Street.",
-      "why": "Ce projet renforce la position de Tesla dans la course à l'IA et pourrait stimuler les investissements dans la tech américaine, malgré les chocs énergétiques mondiaux.",
+      "summary": "Tesla a révélé le 23 mars 2026 le lancement imminent de son projet Terafab, une usine dédiée à la production de puces pour l'intelligence artificielle, visant à réduire la dépendance aux fournisseurs externes comme TSMC. Ce développement s'inscrit dans une stratégie d'intégration verticale pour accélérer l'autonomie des véhicules et les data centers IA. L'investissement estimé à plusieurs milliards de dollars pourrait booster les marges de Tesla à long terme.",
+      "why": "Cette avancée renforce la position de Tesla dans l'IA et les semi-conducteurs, un secteur clé pour la croissance technologique mondiale.",
       "category": "Entreprises"
     },
     {
       "title": "Micron inaugure un second site de production de puces à Taïwan",
-      "summary": "Le fabricant de semi-conducteurs Micron a annoncé l'ouverture d'un second site de production à Taïwan, avec une capacité annuelle de 20 000 wafers, pour répondre à la demande croissante en mémoire pour l'IA et les data centers. Cette expansion, évaluée à 2,5 milliards de dollars, intervient dans un contexte de tensions géopolitiques en Asie. L'action Micron a bondi de 3,68 % suite à cette nouvelle.",
-      "why": "L'élargissement des capacités de production de puces est vital pour la chaîne d'approvisionnement mondiale de la tech et soutient la croissance du secteur des semi-conducteurs.",
+      "summary": "Micron Technology a inauguré le 23 mars 2026 un second site de production de puces mémoire à Taïwan, augmentant sa capacité de fabrication de 30 % pour répondre à la demande explosive en DRAM et NAND liée à l'IA et aux centres de données. Cette expansion, d'un coût de 2,5 milliards de dollars, diversifie les risques géopolitiques en Asie et soutient la chaîne d'approvisionnement mondiale des semi-conducteurs. Elle positionne Micron comme un acteur majeur face à la concurrence sud-coréenne et américaine.",
+      "why": "L'augmentation de la production de puces est vitale pour alimenter la révolution IA et stabiliser les prix des technologies.",
       "category": "Entreprises"
-    },
-    {
-      "title": "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier",
-      "summary": "Les autorités cubaines ont rétabli l'électricité dans tout le pays le 23 mars 2026, après une seconde panne nationale en moins d'une semaine, causée par le manque de carburant lié à l'embargo américain. Deux tiers de La Havane avaient déjà du courant dimanche après-midi, grâce à des générateurs d'urgence. Cette crise met en lumière la vulnérabilité de l'île aux perturbations des marchés pétroliers mondiaux.",
-      "why": "Cette panne souligne les risques d'instabilité énergétique dans les pays dépendants des importations, avec des implications potentielles sur les migrations et la stabilité régionale.",
-      "category": "Matières premières"
     }
   ],
   "updates": []
