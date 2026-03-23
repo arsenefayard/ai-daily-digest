@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Le paradoxe du bateau de Thésée",
-      "La tapisserie de Bayeux, chronique visuelle de la conquête normande",
-      "Le cinéma expressionniste allemand et le Cabinet du docteur Caligari",
-      "La plus longue rivière souterraine du monde en Slovénie",
-      "L'homme qui planta un milliard d'arbres au Canada"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Le paradoxe du grand-père en philosophie du voyage dans le temps",
       "La cité engloutie de Pavlopetri, la plus ancienne ville submergée",
       "Le film Nosferatu de 1922 et ses effets spéciaux révolutionnaires",
@@ -67,6 +57,16 @@
       "Les larmes qui révèlent les émotions",
       "La torture par chatouilles chez les Romains",
       "Le plus ancien pays du monde : l'Égypte"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Les hiboux n'ont pas de globes oculaires",
+      "Les empreintes de langue sont aussi uniques que les empreintes digitales",
+      "La plus ancienne œuvre d'art connue remonte à 44 000 ans en Indonésie",
+      "L'étymologie du mot « sandwich » : un aristocrate du XVIIIe siècle",
+      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes"
     ]
   }
 ]
