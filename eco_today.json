@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Le Japon puise dans ses réserves stratégiques de pétrole face à la crise",
-      "summary": "Le Japon a annoncé le début d'un recours à ses réserves stratégiques de pétrole depuis lundi pour contrer les perturbations d'approvisionnement dues au conflit au Moyen-Orient. Cette mesure vise à stabiliser les prix intérieurs et à éviter une flambée inflationniste dans l'archipel dépendant des importations énergétiques. Elle souligne l'urgence mondiale face à la fermeture persistante du détroit d'Ormuz, avec des impacts potentiels sur la croissance japonaise estimée à un ralentissement de 0,5 point de PIB.",
-      "why": "Cette action inédite de Tokyo signale une accélération de la crise énergétique mondiale et pourrait inciter d'autres pays importateurs à suivre, amplifiant la volatilité des prix du pétrole.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "L'Italie réduit les taxes sur les carburants de 25 centimes par litre",
-      "summary": "Giorgia Meloni a annoncé une baisse de 25 centimes par litre sur les carburants en Italie pour atténuer l'impact de la flambée des prix due au choc pétrolier iranien. Cette mesure d'urgence, valable pour plusieurs semaines, vise à protéger le pouvoir d'achat des ménages et des entreprises face à une hausse de 40 % des prix à la pompe. Elle s'inscrit dans une série de réponses européennes à la crise, avec un coût budgétaire estimé à 2 milliards d'euros.",
-      "why": "Cette intervention étatique illustre le risque d'un endettement accru en Europe pour contrer l'inflation énergétique, potentiellement freinant les plans de consolidation budgétaire.",
+      "title": "Discours attendu du président de la Fed sur l'inflation et les taux",
+      "summary": "Le 21 mars 2026, le président de la Réserve fédérale des États-Unis doit s'exprimer sur la durabilité du nouveau cycle de pression inflationniste, la volonté de maintenir des taux élevés plus longtemps et l'impact des prix élevés de l'énergie ainsi que des chocs géopolitiques sur l'économie américaine. Les investisseurs scrutent ces déclarations pour anticiper les mouvements des devises, obligations et indices boursiers. Ce discours intervient après la dernière réunion de la Fed et dans un contexte de volatilité accrue due au conflit en Iran.",
+      "why": "Ce discours influencera directement les attentes sur la politique monétaire américaine et les marchés financiers mondiaux.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Le Royaume-Uni convoque une réunion d'urgence pour aider les vulnérables",
-      "summary": "Le Premier ministre britannique Keir Starmer a décidé d'une réunion d'urgence pour déployer une aide ciblée aux travailleurs les plus vulnérables touchés par la hausse des prix de l'énergie. Cette initiative répond à l'explosion des coûts du gaz et du pétrole, avec des subventions prévues pour 5 millions de ménages. Elle reflète les pressions inflationnistes qui pourraient porter l'inflation UK à 4 % d'ici fin 2026.",
-      "why": "Cette mesure met en lumière les tensions sociales croissantes en Europe dues à la crise, risquant d'alimenter une récession si les soutiens fiscaux s'accumulent.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "La Banque centrale russe abaisse son taux directeur à 15 % pour la septième fois",
-      "summary": "La Banque centrale russe a réduit son taux directeur de 50 points de base à 15 % le 20 mars, marquant la septième baisse consécutive pour soutenir une croissance équilibrée malgré les sanctions et le conflit régional. Cette politique accommodante vise à stimuler le crédit intérieur et à stabiliser le rouble face aux incertitudes géopolitiques élargies. Les experts prévoient une croissance russe de 2,5 % en 2026 grâce à cette flexibilité monétaire.",
-      "why": "Cette décision contraste avec le resserrement ailleurs et renforce la résilience économique russe, influençant les flux de capitaux émergents.",
+      "title": "Rapports des banques chinoises signalent un cycle de crédit fragile",
+      "summary": "Les rapports annuels des grandes banques chinoises publiés le 21 mars 2026 révèlent des indicateurs sur la qualité du cycle de crédit, l'activité économique et la demande intérieure en Chine. Ces données servent de baromètre pour l'économie asiatique dans un environnement de volatilité des matières premières. Elles sont particulièrement surveillées au vu des tensions géopolitiques affectant les flux commerciaux mondiaux.",
+      "why": "La santé du secteur bancaire chinois impacte la croissance mondiale et les investissements en Asie.",
       "category": "Banques"
     },
     {
-      "title": "Explosion des commandes de véhicules électriques en France due aux prix du carburant",
-      "summary": "Les ventes de véhicules électriques ont explosé en France ces dernières semaines, portées par la flambée des prix du carburant liée au conflit iranien, selon Le Figaro. Les commandes chez les constructeurs ont augmenté de 50 % par rapport à l'an dernier, surpassant les effets des aides fiscales passées. Ce boom soutient l'industrie automobile française, avec Renault et Stellantis prévoyant une accélération de la production électrique.",
-      "why": "Cette transition accélérée vers l'électrique dope les investissements verts en Europe mais expose les constructeurs à la volatilité des matières premières comme le lithium.",
+      "title": "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
+      "summary": "Le rapport de China Shenhua Energy du 21 mars 2026 agit comme un indicateur clé de la demande de charbon et des flux de trésorerie dans le complexe énergétique chinois. Dans un contexte de forte volatilité des prix mondiaux des matières premières, il souligne la réévaluation de la sécurité énergétique en Asie. Les investisseurs y voient un proxy pour la stabilité des grandes entreprises de commodities.",
+      "why": "Cela éclaire les dynamiques de demande énergétique en Chine, pivot de l'économie mondiale des matières premières.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Shutdown américain cause un ralentissement temporaire de la croissance",
+      "summary": "Un shutdown gouvernemental aux États-Unis a entraîné un ralentissement ponctuel de la croissance économique, mais ce déficit d'activité devrait être récupéré dans les prochains mois après deux trimestres de forte expansion. Le marché de l'emploi montre une légère amélioration, soutenant une toile de fond favorable. L'investissement des entreprises accélère malgré ces perturbations.",
+      "why": "Ce ralentissement teste la résilience de l'économie américaine face aux incertitudes géopolitiques et internes.",
       "category": "Entreprises"
+    },
+    {
+      "title": "Nasdaq en hausse grâce aux technos et à l'IA malgré les tensions",
+      "summary": "Le 23 mars 2026, Wall Street a rebondi avec le Nasdaq en tête, porté par les valeurs technologiques et l'intelligence artificielle, notamment Meta. Cette performance contraste avec les tensions géopolitiques persistantes liées au conflit en Iran. Les investisseurs parient sur la résilience du secteur tech dans un environnement incertain.",
+      "why": "Le secteur technologique démontre sa capacité à surperformer, influençant les tendances des marchés mondiaux.",
+      "category": "Marchés"
     }
   ],
   "updates": []
