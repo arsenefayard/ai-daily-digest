@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
-      "summary": "L'indice Chicago Fed a affiché une croissance robuste le 23 mars 2026, confirmant un rythme économique américain supérieur à la tendance malgré les tensions géopolitiques. Les dépenses de construction ont également augmenté, signalant une solidité du cycle d'investissement dans les infrastructures. Ces données positives soutiennent les attentes d'une croissance du PIB américain autour de 2,4 % même en cas de choc pétrolier prolongé.",
-      "why": "Ces indicateurs renforcent la confiance des investisseurs dans la résilience de l'économie américaine et pourraient influencer les rendements des obligations et le dollar.",
+      "summary": "L'indice Chicago Fed a enregistré une amélioration inattendue en mars 2026, reflétant une résilience économique malgré les tensions géopolitiques et la hausse des prix de l'énergie. Les dépenses de construction ont également dépassé les prévisions des analystes, avec une croissance de 1,2 % sur le mois, soutenue par des investissements publics dans les infrastructures. Ces données positives surprennent les marchés et atténuent les craintes d'un ralentissement imminent aux États-Unis.",
+      "why": "Ces indicateurs renforcent la confiance dans la robustesse de l'économie américaine et pourraient influencer la Fed à maintenir une politique monétaire prudente face à l'inflation persistante.",
       "category": "Marchés"
     },
     {
       "title": "Confiance des consommateurs en zone euro montre des signes de redressement",
-      "summary": "L'enquête sur la confiance des consommateurs dans la zone euro, publiée le 23 mars 2026, indique une amélioration inattendue malgré la flambée des prix de l'énergie. Ce rebond suggère que l'humeur des ménages européens se stabilise face aux incertitudes géopolitiques. Les analystes y voient un potentiel soutien à la consommation intérieure dans les prochains trimestres.",
-      "why": "Une confiance en hausse pourrait atténuer les craintes de récession en Europe et influencer les décisions de la BCE sur les taux directeurs.",
+      "summary": "L'indice de confiance des consommateurs en zone euro a progressé de 2,3 points en mars 2026, marquant une première amélioration après plusieurs mois de déclin dus à la crise énergétique. Cette hausse s'explique par une stabilisation relative des prix alimentaires et une anticipation de mesures de soutien budgétaire de l'Union européenne. Les économistes notent que ce rebond reste fragile face aux risques persistants liés au conflit au Moyen-Orient.",
+      "why": "Un redressement de la confiance des ménages est crucial pour relancer la consommation, principal moteur de la croissance en Europe, et pourrait éviter une récession technique.",
       "category": "Marchés"
     },
     {
-      "title": "Rapport EQT AB met en lumière la performance des investissements alternatifs",
-      "summary": "Le rapport trimestriel d'EQT AB, publié le 23 mars 2026, révèle une forte performance des actifs alternatifs avec des rendements supérieurs aux indices boursiers traditionnels. L'entreprise suédoise souligne la résilience de ses portefeuilles face à la volatilité des marchés énergétiques. Ces résultats attirent l'attention des investisseurs institutionnels cherchant des refuges.",
-      "why": "Ce succès valide les stratégies d'investissement alternatives dans un contexte de chocs exogènes et pourrait rediriger les flux de capitaux.",
+      "title": "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
+      "summary": "Elon Musk a révélé que Tesla lancera dans sept jours le projet Terafab, une usine dédiée à la production de puces pour l'intelligence artificielle, avec un investissement initial de 5 milliards de dollars. Cette initiative vise à réduire la dépendance aux fournisseurs asiatiques et à accélérer le développement des véhicules autonomes. L'annonce a propulsé l'action Tesla de 1,11 % en séance à Wall Street.",
+      "why": "Ce projet renforce la position de Tesla dans la course à l'IA et pourrait stimuler les investissements dans la tech américaine, malgré les chocs énergétiques mondiaux.",
       "category": "Entreprises"
     },
     {
-      "title": "Nasdaq grimpe grâce à la poussée des technos et de l'intelligence artificielle",
-      "summary": "Le Nasdaq a enregistré une hausse significative le 23 mars 2026, porté par les valeurs technologiques et les avancées en IA, notamment Meta. Cette performance contraste avec les baisses des indices européens et reflète l'appétit pour les actifs de croissance. Les investisseurs parient sur la productivité accrue générée par l'IA malgré les risques géopolitiques.",
-      "why": "Cette dynamique sélective des technos démontre la décorrélation sectorielle et soutient le rebond de Wall Street.",
-      "category": "Marchés"
+      "title": "Micron inaugure un second site de production de puces à Taïwan",
+      "summary": "Le fabricant de semi-conducteurs Micron a annoncé l'ouverture d'un second site de production à Taïwan, avec une capacité annuelle de 20 000 wafers, pour répondre à la demande croissante en mémoire pour l'IA et les data centers. Cette expansion, évaluée à 2,5 milliards de dollars, intervient dans un contexte de tensions géopolitiques en Asie. L'action Micron a bondi de 3,68 % suite à cette nouvelle.",
+      "why": "L'élargissement des capacités de production de puces est vital pour la chaîne d'approvisionnement mondiale de la tech et soutient la croissance du secteur des semi-conducteurs.",
+      "category": "Entreprises"
     },
     {
-      "title": "Scénarios de la BCE sur l'impact d'un conflit prolongé en Iran",
-      "summary": "La BCE a modélisé trois scénarios pour un conflit en Iran dépassant trois mois, prévoyant une croissance zone euro limitée à 0,5 % et une inflation à 4,5 %. La banque centrale envisage une hausse des taux pour contrer cette pression inflationniste liée au pétrole. Ces projections soulignent la vulnérabilité européenne aux chocs énergétiques.",
-      "why": "Elles guident les attentes des marchés sur la politique monétaire et pourraient précipiter une normalisation plus agressive des taux.",
-      "category": "Politique monétaire"
+      "title": "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier",
+      "summary": "Les autorités cubaines ont rétabli l'électricité dans tout le pays le 23 mars 2026, après une seconde panne nationale en moins d'une semaine, causée par le manque de carburant lié à l'embargo américain. Deux tiers de La Havane avaient déjà du courant dimanche après-midi, grâce à des générateurs d'urgence. Cette crise met en lumière la vulnérabilité de l'île aux perturbations des marchés pétroliers mondiaux.",
+      "why": "Cette panne souligne les risques d'instabilité énergétique dans les pays dépendants des importations, avec des implications potentielles sur les migrations et la stabilité régionale.",
+      "category": "Matières premières"
     }
   ],
   "updates": []
