@@ -3,32 +3,32 @@
   "news": [
     {
       "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment remporté leurs matchs du troisième tour au Miami Open, malgré les interruptions répétées dues aux pluies abondantes qui ont perturbé le tournoi. Alcaraz a dominé son adversaire en deux sets serrés, tandis que Swiatek a confirmé sa forme exceptionnelle en ne laissant aucune chance à son adversaire. Ces victoires les positionnent comme favoris pour les phases finales du Masters 1000.",
-      "why": "Ces performances renforcent leur statut de numéros un mondiaux et alimentent les attentes pour les grands chelems à venir.",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment avancé jusqu'aux huitièmes de finale du Miami Open malgré les interruptions répétées dues à des pluies abondantes qui ont perturbé le tournoi. Alcaraz a dominé ses adversaires avec une autorité impressionnante, tandis que Swiatek continue de confirmer son statut de favorite chez les femmes. Ces performances renforcent leurs ambitions pour le titre dans ce Masters 1000 prestigieux.",
+      "why": "Ce tournoi ATP et WTA majeur influence fortement les classements mondiaux à l'approche de Roland-Garros.",
       "category": "Tennis"
     },
     {
-      "title": "Tour de Catalogne : Sprinteurs au rendez-vous lors de la première étape",
-      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur vedette dans un final explosif, marquant le début en fanfare de cette course par étapes majeure du cyclisme. Les favoris du général ont surveillé les opérations sans incident majeur, préservant leurs forces pour les étapes montagneuses à venir. Cette victoire inaugure la saison européenne des courses par étapes avec intensité.",
-      "why": "Ce tournoi attire les meilleurs grimpeurs mondiaux et sert de préparation clé pour les classiques printanières.",
+      "title": "Tour de Catalogne : Victoire au sprint lors de la première étape",
+      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur vedette au terme d'une arrivée groupée explosive qui a tenu toutes ses promesses. Les favoris du classement général ont su se protéger dans le peloton, préservant ainsi leurs chances pour les étapes montagnardes à venir. Cette course UCI WorldTour marque le début de la saison européenne sur route avec un plateau de haut niveau.",
+      "why": "Ce succès au sprint lance la préparation des coureurs pour les grands tours printaniers comme le Tour de France.",
       "category": "Autre"
     },
     {
-      "title": "TOP 14 : Résultats décisifs de la 20e journée pour le podium et le maintien",
-      "summary": "La 20e journée du TOP 14 a livré des résultats cruciaux avec des victoires importantes pour les prétendants au podium et des sursauts pour les équipes en bas de tableau. Des chocs au sommet ont redistribué les cartes dans la course au titre, tandis que les promus ont arraché des points vitaux. Cette journée accentue la tension à deux mois de la fin de la phase régulière.",
-      "why": "Elle définit les contours de la course au titre et aux phases finales dans le championnat de France de rugby.",
+      "title": "TOP 14 : Résultats décisifs de la 20e journée pour le podium",
+      "summary": "La 20e journée du TOP 14 a livré des résultats cruciaux avec des victoires importantes pour les prétendants au podium et des revers inattendus pour les équipes en lutte pour le maintien. Montpellier et d'autres clubs phares ont consolidé leurs positions, tandis que les promus ont dû se battre pour éviter la relégation. Ces matchs serrés accentuent la tension à l'approche des phases finales.",
+      "why": "Le championnat français de rugby est l'un des plus compétitifs au monde et définit les enjeux européens.",
       "category": "Rugby"
     },
     {
-      "title": "Betclic Elite : Monaco accentue son avance après la 24e journée",
-      "summary": "L'AS Monaco a consolidé sa position de leader en Betclic Elite en remportant une victoire convaincante lors de la 24e journée, creusant l'écart sur ses poursuivants directs. Les surprises du jour ont secoué le milieu de tableau, avec des défaites inattendues pour des équipes favorites. Cette journée renforce la domination monégasque dans le basketball français.",
-      "why": "Monaco se rapproche du titre tandis que la bataille pour les playoffs s'intensifie derrière.",
+      "title": "Betclic Elite : Monaco creuse l'écart après la 24e journée",
+      "summary": "L'AS Monaco a accentué son avance en tête de la Betclic Elite grâce à une victoire convaincante lors de la 24e journée, profitant des faux-pas de ses poursuivants directs. Les surprises du jour ont secoué le milieu de tableau, rendant la course à la qualification européenne plus ouverte. Ce leadership renforce les ambitions européennes du club monégasque.",
+      "why": "La ligue française de basketball domine le paysage national et prépare les playoffs intenses.",
       "category": "Basketball"
     },
     {
       "title": "Athlétisme : Records du monde en salle aux Championnats de Pologne",
-      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont clôturés avec plusieurs records du monde battus dans des disciplines phares comme le saut en hauteur et le 60m haies. Des athlètes stars ont brillé sous les yeux d'un public conquis, confirmant la vitalité de l'athlétisme indoor. Ces performances préfigurent une saison estivale explosive.",
-      "why": "Les records mondiaux en salle boostent la discipline et motivent les athlètes pour les JO et Mondiaux en plein air.",
+      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont clôturés avec plusieurs records du monde battus dans des disciplines clés, marquant un temps fort de la saison hivernale. Les athlètes stars ont brillé sous les yeux d'un public enthousiaste, confirmant leur forme pour les compétitions estivales. Ces performances historiques élèvent le niveau global de l'athlétisme indoor.",
+      "why": "Les records mondiaux en salle préfigurent les enjeux des JO et des Mondiaux en plein air.",
       "category": "Autre"
     }
   ],
