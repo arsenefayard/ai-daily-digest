@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
-      "Meta acquiert Moltbook, réseau social pour bots IA, et intègre son équipe dans ses labs",
-      "Sept IDE leaders se disputent le marché du développement multi-agent",
-      "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
-      "xAI lance Grok 4.20 Beta 2, version optimisée pour le codage"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative",
       "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 des préoccupations mondiales",
       "Meta retarde son modèle Avocado à mai pour performances insuffisantes",
@@ -69,6 +59,16 @@
       "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
       "Cour des comptes valide les progrès de la stratégie nationale IA française",
       "Meta retarde Avocado à mai avec performances insuffisantes"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
+      "OpenAI déploie Codex sur Windows avec agents parallèles",
+      "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
+      "Elon Musk annonce Macrohard, fusion Tesla et xAI pour Digital Optimus",
+      "Parlement européen adopte résolution sur IA générative et droit d'auteur"
     ]
   }
 ]
