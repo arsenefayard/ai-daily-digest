@@ -2,18 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Milan-San Remo : Tom Pidcock remporte le classique du cyclisme sur route",
-      "Ligue 1 - Journée 27 : Lens reprend la tête du classement",
-      "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
-      "Biathlon : Premier sacre pour Perrot",
-      "UFC Fight Night : Lemos vs Robertson à Londres",
-      "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Tom Pidcock triomphe sur Milan-San Remo avec une attaque magistrale",
       "Ligue 1 : Lens reprend la tête du classement après la 27e journée",
       "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
@@ -69,6 +57,16 @@
       "Tour de Catalogne : Sprinteurs au rendez-vous lors de la première étape",
       "TOP 14 : Résultats décisifs de la 20e journée pour le podium et le maintien",
       "Betclic Elite : Monaco accentue son avance après la 24e journée",
+      "Athlétisme : Records du monde en salle aux Championnats de Pologne"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
+      "Tour de Catalogne : Victoire au sprint lors de la première étape",
+      "TOP 14 : Résultats décisifs de la 20e journée pour le podium",
+      "Betclic Elite : Monaco creuse l'écart après la 24e journée",
       "Athlétisme : Records du monde en salle aux Championnats de Pologne"
     ]
   }
