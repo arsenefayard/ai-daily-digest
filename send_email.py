@@ -3,6 +3,7 @@ import html
 import os
 import re
 import smtplib
+import unicodedata
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -15,52 +16,156 @@ _MONTHS_FR = (
 )
 
 _STOPWORDS = {
-    "le", "la", "les", "de", "des", "du", "d", "et", "en", "un", "une", "a",
-    "au", "aux", "pour", "sur", "dans", "avec", "par", "qui", "que", "est",
-    "son", "sa", "ses", "vers", "plus", "apres", "avant", "face", "entre",
-    "meta", "lance", "annonce", "publie", "nouveau", "nouvelle", "premier",
+    "le", "la", "les", "de", "des", "du", "et", "en", "un", "une", "a", "au",
+    "aux", "pour", "sur", "dans", "avec", "par", "qui", "que", "est", "son",
+    "sa", "ses", "vers", "plus", "apres", "avant", "face", "entre", "meta",
+    "lance", "annonce", "publie", "nouveau", "nouvelle", "premier", "jour",
+    "cette", "suite", "selon", "contre", "apres", "mars", "avril", "mai",
+}
+
+_SIGNALS = {
+    "ia": [
+        ("Modeles", ["modele", "llm", "gpt", "sonar", "agent", "inference"]),
+        ("Regulation", ["regulation", "loi", "compliance", "directive", "autorite"]),
+        ("Open-source", ["open", "source", "github", "poids", "checkpoint"]),
+        ("Infra", ["datacenter", "gpu", "puce", "semi", "cloud"]),
+        ("Produit", ["copilot", "assistant", "application", "lancement", "version"]),
+    ],
+    "geo": [
+        ("Conflits", ["guerre", "frappe", "offensive", "front", "missile"]),
+        ("Diplomatie", ["sommet", "accord", "negociation", "alliance", "onu"]),
+        ("Sanctions", ["sanction", "embargo", "restriction", "douane"]),
+        ("Elections", ["election", "vote", "coalition", "parlement", "president"]),
+        ("Energie", ["gaz", "petrole", "nucleaire", "pipeline", "opec"]),
+    ],
+    "eco": [
+        ("Marches", ["marche", "bourse", "indice", "actions", "obligation"]),
+        ("Monetaire", ["taux", "banque centrale", "fed", "bce", "inflation"]),
+        ("Entreprise", ["resultats", "fusion", "acquisition", "restructuration"]),
+        ("Commerce", ["tarif", "export", "import", "supply", "chaine"]),
+        ("Crypto", ["bitcoin", "crypto", "blockchain", "etf"]),
+    ],
+    "sport": [
+        ("Competitions", ["ligue", "championnat", "tournoi", "grand prix"]),
+        ("Transferts", ["transfert", "mercato", "signature", "contrat"]),
+        ("Performances", ["record", "victoire", "finale", "classement"]),
+        ("Blessures", ["blessure", "forfait", "retour", "suspension"]),
+        ("Calendrier", ["saison", "journee", "phase", "playoff"]),
+    ],
+    "music": [
+        ("Sorties", ["album", "single", "ep", "sortie", "track"]),
+        ("Tournees", ["tournee", "concert", "festival", "scene"]),
+        ("Industrie", ["label", "streaming", "droits", "catalogue"]),
+        ("Artistes", ["groupe", "chanteur", "guitariste", "metal", "rock"]),
+        ("Charts", ["classement", "top", "billboard", "ecoutes"]),
+    ],
+    "science": [
+        ("Recherche", ["etude", "publication", "laboratoire", "revue"]),
+        ("Sante", ["medecine", "clinique", "gene", "therapie", "virus"]),
+        ("Espace", ["nasa", "spacex", "orbite", "mission", "satellite"]),
+        ("Physique", ["quantique", "particule", "energie", "matiere"]),
+        ("Climat", ["climat", "ocean", "temperature", "co2"]),
+    ],
+    "culture": [
+        ("Idees", ["philo", "essai", "debat", "societe", "ethique"]),
+        ("Cinema", ["film", "festival", "realisateur", "sortie"]),
+        ("Medias", ["plateforme", "audience", "serie", "documentaire"]),
+        ("Tendances", ["tendance", "culture", "viral", "reseau"]),
+        ("Patrimoine", ["histoire", "musee", "archive", "heritage"]),
+    ],
+    "history": [
+        ("Contexte", ["empire", "royaume", "republique", "civilisation"]),
+        ("Chronologie", ["siecle", "annee", "periode", "regne"]),
+        ("Strategie", ["bataille", "campagne", "alliance", "frontiere"]),
+        ("Personnalites", ["roi", "general", "philosophe", "explorateur"]),
+        ("Heritage", ["memoire", "impact", "tradition", "transmission"]),
+    ],
 }
 
 
-def _extract_keywords(texts, fallback):
-    joined = " ".join(str(t or "") for t in texts)
-    tokens = re.findall(r"[A-Za-zÀ-ÿ0-9'-]+", joined.lower())
-    kept = []
+def _norm(text):
+    t = unicodedata.normalize("NFKD", str(text or ""))
+    t = "".join(ch for ch in t if not unicodedata.combining(ch))
+    return t.lower()
+
+
+def _extract_titles(payload):
+    titles = []
+    if not isinstance(payload, dict):
+        return titles
+    news = payload.get("news")
+    if isinstance(news, list):
+        titles.extend([n.get("title", "") for n in news if isinstance(n, dict)])
+    updates = payload.get("updates")
+    if isinstance(updates, list):
+        titles.extend([u.get("title", "") for u in updates if isinstance(u, dict)])
+    subject = payload.get("subject")
+    if isinstance(subject, dict):
+        titles.append(subject.get("name", ""))
+    return [t for t in titles if t]
+
+
+def _keywords_from_titles(titles, section_key, fallback):
+    blob = _norm(" | ".join(titles))
+    if not blob.strip():
+        return fallback
+
+    scored = []
+    for label, hints in _SIGNALS.get(section_key, []):
+        score = 0
+        for hint in hints:
+            if hint in blob:
+                score += 1
+        if score:
+            scored.append((score, label))
+    scored.sort(reverse=True)
+    labels = []
+    for _, label in scored:
+        if label not in labels:
+            labels.append(label)
+        if len(labels) == 3:
+            break
+    if len(labels) >= 2:
+        return " · ".join(labels)
+
+    # Fallback lexical si peu de signaux matches.
+    tokens = re.findall(r"[A-Za-z0-9'-]+", blob)
+    freq = {}
     for tok in tokens:
         tok = tok.strip("'-")
-        if len(tok) < 4:
+        if len(tok) < 5 or tok in _STOPWORDS:
             continue
-        if tok in _STOPWORDS:
-            continue
-        if tok not in kept:
-            kept.append(tok)
-        if len(kept) == 3:
-            break
-    if not kept:
-        return html.escape(fallback)
-    return html.escape(", ".join(w.capitalize() for w in kept))
+        freq[tok] = freq.get(tok, 0) + 1
+    top = [w for w, _ in sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))[:3]]
+    if top:
+        return " · ".join(w.capitalize() for w in top)
+    return fallback
 
 
-def _fetch_section_caption(base, path, fallback):
+def _fetch_caption(base, path, section_key, fallback):
     try:
         r = requests.get(f"{base}/{path}", timeout=8)
         if not r.ok:
             return html.escape(fallback)
-        data = r.json()
-        texts = []
-        if isinstance(data, dict):
-            news = data.get("news")
-            if isinstance(news, list):
-                texts.extend([n.get("title", "") for n in news[:3] if isinstance(n, dict)])
-            updates = data.get("updates")
-            if isinstance(updates, list):
-                texts.extend([u.get("title", "") for u in updates[:2] if isinstance(u, dict)])
-            subject = data.get("subject")
-            if isinstance(subject, dict):
-                texts.append(subject.get("name", ""))
-        return _extract_keywords(texts, fallback)
+        titles = _extract_titles(r.json())
+        caption = _keywords_from_titles(titles, section_key, fallback)
+        return html.escape(caption)
     except Exception:
         return html.escape(fallback)
+
+
+def _card(label, color, caption, href, padding):
+    return (
+        f'<a href="{href}" style="display:block;padding:{padding};text-decoration:none;color:inherit;">'
+        f'<div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:{color};'
+        f'font-family:Arial,sans-serif;margin-bottom:10px;">{label}</div>'
+        f'<div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;'
+        f'font-family:Georgia,serif;">{caption}</div>'
+        f'<div style="margin-top:14px;">'
+        f'<span style="display:inline-block;border:1px solid {color};color:{color};'
+        f'font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;'
+        f'padding:4px 9px;border-radius:999px;">Lire</span></div></a>'
+    )
 
 
 def send_combined_email():
@@ -80,16 +185,16 @@ def send_combined_email():
     date_header = f"{now.day} {_MONTHS_FR[now.month - 1]} {now.year}"
     year = now.year
 
-    cap_ia = _fetch_section_caption(base, "today.json", "Modeles, innovation, regulation")
-    cap_geo = _fetch_section_caption(base, "geo_today.json", "Conflits, diplomatie, elections")
-    cap_eco = _fetch_section_caption(base, "eco_today.json", "Marches, banques, inflation")
-    cap_sport = _fetch_section_caption(base, "sport_today.json", "Football, tennis, competition")
-    cap_music = _fetch_section_caption(base, "music_today.json", "Albums, artistes, industrie")
-    cap_science = _fetch_section_caption(base, "science_today.json", "Espace, sante, recherche")
-    cap_culture = _fetch_section_caption(base, "culture_today.json", "Cinema, societe, idees")
-    cap_history = _fetch_section_caption(base, "history_today.json", "Civilisations, epoques, heritage")
+    cap_ia = _fetch_caption(base, "today.json", "ia", "Modeles · Regulation · Infra")
+    cap_geo = _fetch_caption(base, "geo_today.json", "geo", "Conflits · Diplomatie · Energie")
+    cap_eco = _fetch_caption(base, "eco_today.json", "eco", "Marches · Monetaire · Entreprise")
+    cap_sport = _fetch_caption(base, "sport_today.json", "sport", "Competitions · Performances · Calendrier")
+    cap_music = _fetch_caption(base, "music_today.json", "music", "Sorties · Tournees · Industrie")
+    cap_science = _fetch_caption(base, "science_today.json", "science", "Recherche · Sante · Espace")
+    cap_culture = _fetch_caption(base, "culture_today.json", "culture", "Idees · Cinema · Tendances")
+    cap_history = _fetch_caption(base, "history_today.json", "history", "Contexte · Chronologie · Heritage")
 
-    html = f"""
+    html_body = f"""
 <html>
 <head>
   <meta charset="UTF-8">
@@ -97,17 +202,14 @@ def send_combined_email():
   <meta name="supported-color-schemes" content="dark">
   <style>
     :root {{ color-scheme: dark; }}
-    @media (prefers-color-scheme: dark) {{
-      body, table, td {{ background-color: #1a1a1a !important; color: #f0ede6 !important; }}
-    }}
   </style>
 </head>
-<body style="margin:0;padding:0;background:#1a1a1a;">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#1a1a1a;">
+<body bgcolor="#1a1a1a" style="margin:0;padding:0;background:#1a1a1a;color:#f0ede6;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#1a1a1a" style="background:#1a1a1a;">
 <tr><td align="center" style="padding:30px 16px;">
-<table width="560" cellpadding="0" cellspacing="0" border="0" style="background:#222222;max-width:560px;">
+<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#222222" style="background:#222222;max-width:560px;">
   <tr>
-    <td style="background:#1a1a1a;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
+    <td bgcolor="#1a1a1a" style="background:#1a1a1a;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td>
           <div style="font-size:9px;letter-spacing:3px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-bottom:8px;">{date_header} &middot; Edition matinale</div>
@@ -121,33 +223,58 @@ def send_combined_email():
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="50%" style="background:#2d3d2e;padding:0;vertical-align:top;"><a href="{base}/" style="display:block;padding:22px 20px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#5aaa72;font-family:Arial,sans-serif;margin-bottom:10px;">Intelligence Artificielle</div><div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_ia}</div></a></td>
+    <td width="50%" bgcolor="#2d3d2e" style="background:#2d3d2e;padding:0;vertical-align:top;">{_card("Intelligence Artificielle", "#5aaa72", cap_ia, f"{base}/", "22px 20px")}</td>
     <td width="2" style="background:#111;"></td>
-    <td width="50%" style="background:#1e2a38;padding:0;vertical-align:top;"><a href="{base}/geo.html" style="display:block;padding:22px 20px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#4a88c0;font-family:Arial,sans-serif;margin-bottom:10px;">Geopolitique</div><div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_geo}</div></a></td>
+    <td width="50%" bgcolor="#1e2a38" style="background:#1e2a38;padding:0;vertical-align:top;">{_card("Geopolitique", "#4a88c0", cap_geo, f"{base}/geo.html", "22px 20px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="50%" style="background:#382a1a;padding:0;vertical-align:top;"><a href="{base}/eco.html" style="display:block;padding:22px 20px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#c8862a;font-family:Arial,sans-serif;margin-bottom:10px;">Economie &amp; Finance</div><div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_eco}</div></a></td>
+    <td width="50%" bgcolor="#382a1a" style="background:#382a1a;padding:0;vertical-align:top;">{_card("Economie &amp; Finance", "#c8862a", cap_eco, f"{base}/eco.html", "22px 20px")}</td>
     <td width="2" style="background:#111;"></td>
-    <td width="50%" style="background:#38201e;padding:0;vertical-align:top;"><a href="{base}/sport.html" style="display:block;padding:22px 20px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#c84a4a;font-family:Arial,sans-serif;margin-bottom:10px;">Sport</div><div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_sport}</div></a></td>
+    <td width="50%" bgcolor="#38201e" style="background:#38201e;padding:0;vertical-align:top;">{_card("Sport", "#c84a4a", cap_sport, f"{base}/sport.html", "22px 20px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="33%" style="background:#261e38;padding:0;vertical-align:top;"><a href="{base}/music.html" style="display:block;padding:18px 16px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#7a5cc8;font-family:Arial,sans-serif;margin-bottom:8px;">Musique</div><div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_music}</div></a></td>
+    <td width="33%" bgcolor="#261e38" style="background:#261e38;padding:0;vertical-align:top;">{_card("Musique", "#7a5cc8", cap_music, f"{base}/music.html", "18px 16px")}</td>
     <td width="1" style="background:#111;"></td>
-    <td width="33%" style="background:#1a2e28;padding:0;vertical-align:top;"><a href="{base}/science.html" style="display:block;padding:18px 16px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#2a9e7a;font-family:Arial,sans-serif;margin-bottom:8px;">Sciences</div><div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_science}</div></a></td>
+    <td width="33%" bgcolor="#1a2e28" style="background:#1a2e28;padding:0;vertical-align:top;">{_card("Sciences", "#2a9e7a", cap_science, f"{base}/science.html", "18px 16px")}</td>
     <td width="1" style="background:#111;"></td>
-    <td width="33%" style="background:#2e1a28;padding:0;vertical-align:top;"><a href="{base}/culture.html" style="display:block;padding:18px 16px;text-decoration:none;color:inherit;"><div style="font-size:8px;letter-spacing:2px;text-transform:uppercase;color:#c84a8a;font-family:Arial,sans-serif;margin-bottom:8px;">Culture</div><div style="font-size:12px;font-weight:700;color:#f0ede6;line-height:1.3;font-family:Georgia,serif;">{cap_culture}</div></a></td>
+    <td width="33%" bgcolor="#2e1a28" style="background:#2e1a28;padding:0;vertical-align:top;">{_card("Culture", "#c84a8a", cap_culture, f"{base}/culture.html", "18px 16px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <tr><td style="background:#2a2010;padding:0;"><a href="{base}/history.html" style="display:block;padding:18px 22px;text-decoration:none;color:inherit;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;margin-bottom:6px;">Histoire</div><div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">{cap_history}</div></td></tr></table></a></td></tr>
+  <tr><td bgcolor="#2a2010" style="background:#2a2010;padding:0;">
+    <a href="{base}/history.html" style="display:block;padding:18px 22px;text-decoration:none;color:inherit;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+        <td>
+          <div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;margin-bottom:6px;">Histoire</div>
+          <div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">{cap_history}</div>
+        </td>
+        <td align="right" valign="bottom" style="padding-left:14px;">
+          <span style="display:inline-block;border:1px solid #a07840;color:#a07840;font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;padding:4px 9px;border-radius:999px;">Lire</span>
+        </td>
+      </tr></table>
+    </a>
+  </td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <tr><td style="background:#1e1c10;padding:14px 22px;border-top:1px solid #2a2418;"><a href="{base}/favorites.html" style="display:block;text-decoration:none;color:inherit;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><span style="font-size:13px;color:#c8a96e;">&#9733;</span><span style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:700;margin-left:10px;">Mes Favoris</span></td><td align="right"><span style="font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#554f3a;font-family:Arial,sans-serif;">Retrouver &rarr;</span></td></tr></table></a></td></tr>
-  <tr><td style="background:#111;padding:12px 24px;border-top:1px solid #1e1e1e;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">Diffusion restreinte &middot; Usage professionnel</td><td align="right" style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">{year}</td></tr></table></td></tr>
+  <tr><td bgcolor="#1e1c10" style="background:#1e1c10;padding:14px 22px;border-top:1px solid #2a2418;">
+    <a href="{base}/favorites.html" style="display:block;text-decoration:none;color:inherit;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+        <td><span style="font-size:13px;color:#c8a96e;">&#9733;</span><span style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:700;margin-left:10px;">Mes Favoris</span></td>
+        <td align="right" style="padding-left:16px;white-space:nowrap;"><span style="display:inline-block;border:1px solid #554f3a;color:#554f3a;font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;padding:4px 9px;border-radius:999px;">Retrouver</span></td>
+      </tr></table>
+    </a>
+  </td></tr>
+
+  <tr><td bgcolor="#111111" style="background:#111111;padding:12px 24px;border-top:1px solid #1e1e1e;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">Diffusion restreinte &middot; Usage professionnel</td>
+      <td align="right" style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">{year}</td>
+    </tr></table>
+  </td></tr>
 </table>
 </td></tr>
 </table>
@@ -161,7 +288,7 @@ def send_combined_email():
         msg["Subject"] = f"Daily Briefing - {date_str}"
         msg["From"] = sender
         msg["To"] = ", ".join(recipients)
-        msg.attach(MIMEText(html, "html", "utf-8"))
+        msg.attach(MIMEText(html_body, "html", "utf-8"))
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(sender, password)
             server.sendmail(sender, recipients, msg.as_string())
