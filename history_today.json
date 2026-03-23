@@ -1,33 +1,33 @@
 {
   "date": "23/03/2026",
   "subject": {
-    "name": "Trêve de Bordeaux",
-    "type": "Traité",
-    "period": "1357 · Guerre de Cent Ans (Moyen Âge tardif)",
-    "context": "La trêve de Bordeaux est signée le 23 mars 1357 dans un contexte de crise profonde pour le royaume de France après la défaite catastrophique de Poitiers en septembre 1356, où le roi Jean II le Bon fut capturé par les Anglais menés par le Prince Noir, Édouard de Woodstock. Ce traité, négocié par le dauphin Charles (futur Charles V), visait à suspendre les hostilités et à obtenir la libération du roi contre une rançon initiale de 4 millions d'écus d'or, tout en cédant des territoires comme la Guyenne et le Poitou à l'Angleterre. Bien que temporaire, elle permit à la France de reprendre son souffle face à la Jacquerie, soulèvement paysan contre la noblesse, et aux Grandes compagnies, bandes de mercenaires désoeuvrés semant le chaos. Peu connu du grand public, ce pacte révèle les intrigues diplomatiques et les faiblesses internes qui ont prolongé la guerre de Cent Ans.",
+    "name": "Henri VIII excommunié par le pape Clément VII",
+    "type": "Événement",
+    "period": "1534 · Époque moderne, Réforme protestante",
+    "context": "Le 23 mars 1534, le pape Clément VII excommunia le roi d'Angleterre Henri VIII en réaction à son divorce d'avec Catherine d'Aragon et à son remariage avec Anne Boleyn. Cet acte pontifical, loin d'être un simple geste disciplinaire, marqua un tournant décisif dans l'histoire religieuse et politique de l'Europe. Henri VIII, qui ne pouvait accepter une autorité supérieure à la sienne, refusa de se soumettre et prit la décision radicale de rompre définitivement avec Rome. Cette rupture entraîna la création de l'Église anglicane, placée sous l'autorité du monarque plutôt que du pape, transformant l'Angleterre en nation protestante de facto. Les conséquences de cette excommunication s'étendirent bien au-delà des frontières anglaises, redessignant la carte religieuse de l'Europe occidentale et établissant un précédent majeur : un monarque pouvait désormais défier l'autorité ecclésiastique suprême sans crainte de destruction immédiate.",
     "dates": [
       {
-        "year": "1356",
-        "label": "Bataille de Poitiers : capture de Jean II le Bon par le Prince Noir"
+        "year": "1509",
+        "label": "Accession au trône d'Henri VIII et mariage avec Catherine d'Aragon"
       },
       {
-        "year": "1357",
-        "label": "23 mars : signature de la trêve de Bordeaux pour rançon et cessez-le-feu"
+        "year": "1527",
+        "label": "Henri VIII demande l'annulation de son mariage auprès du pape"
       },
       {
-        "year": "1358",
-        "label": "Éclatement de la Jacquerie, révolte paysanne en Île-de-France"
+        "year": "1533",
+        "label": "Mariage secret d'Henri VIII avec Anne Boleyn"
       },
       {
-        "year": "1360",
-        "label": "Traité de Brétigny : libération définitive de Jean II et nouvelles cessions territoriales"
+        "year": "23 mars 1534",
+        "label": "Excommunication d'Henri VIII par le pape Clément VII"
       },
       {
-        "year": "1364",
-        "label": "Mort de Jean II après son retour volontaire en captivité anglaise"
+        "year": "1534",
+        "label": "Acte de Suprématie : Henri VIII devient chef suprême de l'Église d'Angleterre"
       }
     ],
-    "legacy": "La trêve de Bordeaux marqua un tournant dans la guerre de Cent Ans en démontrant l'efficacité temporaire de la diplomatie face à la suprématie militaire anglaise, influençant les futures négociations comme celle de Brétigny. Elle contribua à stabiliser le royaume, permettant à Charles V de réorganiser l'armée et de lancer la reconquête française au siècle suivant. Son héritage perdure dans l'étude des médiations royales et des rançons princières comme instruments de pouvoir.",
-    "why": "Cette trêve illustre comment une défaite humiliante peut paradoxalement renforcer un État par la diplomatie, une leçon intemporelle pour les crises géopolitiques actuelles où les négociations sauvent plus que les armes."
+    "legacy": "L'excommunication d'Henri VIII marqua la naissance de l'Église anglicane et l'établissement du protestantisme en Angleterre, une conséquence qui perdure jusqu'à nos jours. Cet événement démontra que le pouvoir temporel pouvait s'émanciper du pouvoir spirituel, inspirant d'autres monarques à contester l'autorité pontificale et accélérant la fragmentation religieuse de la chrétienté occidentale. L'Angleterre devint ainsi une puissance protestante majeure, remodelant les alliances géopolitiques européennes et les équilibres religieux pour les siècles suivants.",
+    "why": "Cette excommunication révèle une vérité rarement enseignée : la Réforme protestante ne fut pas qu'un mouvement de foi théologique, mais aussi un acte de rébellion politique d'un roi contre l'autorité romaine. Elle montre comment les enjeux personnels d'un monarque—son désir d'héritier mâle—ont redéfini la géographie religieuse de l'Europe et créé une tension entre pouvoir civil et autorité religieuse qui structure encore nos sociétés modernes."
   }
 }
