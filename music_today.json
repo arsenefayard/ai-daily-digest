@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Kendji Girac ajoute une date à l'Accor Arena de Paris les 14 et 15 mars 2026",
-      "summary": "À l'occasion de la sortie de son nouvel album Vivre..., Kendji Girac annonce une tournée française avec deux concerts exceptionnels à l'Accor Arena de Paris les samedi 14 et dimanche 15 mars 2026. Ces dates supplémentaires témoignent de l'engouement massif des fans pour l'artiste qui mélange pop et influences gitanes. Les billets se vendent déjà rapidement, promettant une ambiance festive et ensoleillée.",
-      "why": "Cette extension de tournée souligne la popularité persistante de Kendji Girac en France et renforce son statut de superstar pop auprès d'un public familial.",
-      "category": "Pop"
-    },
-    {
-      "title": "Electronic Peak : festival électro du 25 au 27 mars 2026",
-      "summary": "Le festival Electronic Peak se tiendra du 25 au 27 mars 2026 et proposera une programmation pointue d'artistes électro internationaux dans un cadre immersif. Cet événement attire les amateurs de beats innovants et de performances live hybrides, avec des lieux variés pour une expérience multidimensionnelle. Il s'inscrit dans la vague croissante des festivals électro en France.",
-      "why": "Electronic Peak représente un rendez-vous incontournable pour la scène électro émergente et consolide la position de la France comme hub européen de cette musique.",
-      "category": "Électro"
-    },
-    {
-      "title": "Festival Chants de mars du 12 au 28 mars 2026",
-      "summary": "Le Festival Chants de mars, dédié aux voix et à la musique vocale, se déroulera du 12 au 28 mars 2026 avec une programmation éclectique mêlant choral, world et contemporain. Des artistes du monde entier performeront dans des églises et salles parisiennes, offrant une exploration profonde des traditions vocales. Cette édition met l'accent sur des collaborations inédites entre chorales et solistes.",
-      "why": "Ce festival enrichit le paysage musical français en promouvant la diversité vocale et attire un public en quête d'expériences spirituelles et artistiques uniques.",
+      "title": "Paris Music 2026 célèbre sa 10ème édition du 18 au 22 mars",
+      "summary": "Le festival Paris Music, dédié aux happenings et performances musicales, revient pour sa dixième édition dans des lieux atypiques de la capitale du 18 au 22 mars 2026. Cet événement immersif met l'accent sur des expériences innovantes et interactives pour les amateurs de musique expérimentale. Il s'inscrit dans une programmation printanière riche en découvertes artistiques parisiennes.",
+      "why": "Cette décennale marque un jalon important pour la scène avant-gardiste parisienne et attire un public en quête d'expériences uniques.",
       "category": "Autre"
     },
     {
-      "title": "Festival Baroque de Pontoise du 10 janvier au 6 juin 2026 avec temps forts en mars",
-      "summary": "Le Festival Baroque de Pontoise, qui s'étend du 10 janvier au 6 juin 2026, propose en mars des concerts d'œuvres baroques interprétées par des ensembles spécialisés sur instruments d'époque. Les représentations dans des lieux historiques de la ville créent une atmosphère authentique et immersive. Cette programmation met en lumière des compositeurs méconnus aux côtés de grands noms comme Vivaldi.",
-      "why": "Il contribue à la redécouverte du répertoire baroque et soutient les jeunes talents de la musique classique en région parisienne.",
-      "category": "Classique"
+      "title": "Sleaford Mods reprend la route au Casino de Paris le 10 mars",
+      "summary": "Après une année de pause, le duo electro-punk britannique Sleaford Mods effectue son retour sur scène avec un concert prévu le 10 mars au Casino de Paris. Jason Williamson et Andrew Fearn puiseront dans leurs treize albums studio pour offrir un set explosif à leur public français. Ce comeback attendu relance leur dynamique live après une période de repos.",
+      "why": "Le retour de ce duo influent renforce la vitalité de la scène electro-punk en France et promet un concert mémorable.",
+      "category": "Électro"
     },
     {
-      "title": "Inrocks Festival du 10 au 15 mars 2026 au Centquatre-Paris et Rex Club",
-      "summary": "L'Inrocks Festival investit le Centquatre-Paris, le Rex Club et la Bourse du Travail du 10 au 15 mars 2026 avec une line-up indie, rock et électro. Cet événement emblématique révèle de nouveaux talents et invite des têtes d'affiche internationales pour des performances exclusives. Il s'annonce comme un moment clé du printemps musical parisien.",
-      "why": "L'Inrocks Festival est un pilier de la scène alternative française, favorisant l'émergence d'artistes et reliant les générations musicales.",
+      "title": "David Byrne lance sa tournée à La Seine Musicale les 18 et 19 mars",
+      "summary": "L'ex-leader des Talking Heads, David Byrne, inaugure sa tournée internationale les 18 et 19 mars à La Seine Musicale avec un spectacle impliquant treize musiciens, chanteurs et danseurs. Ce show s'appuie sur son récent album Who Is The Sky? sorti avec le Ghost Train Orchestra. Les deux dates parisiennes annoncent une production haute en couleur et en énergie.",
+      "why": "Cette performance exceptionnelle met en lumière le génie scénique de Byrne et attire les fans de rock alternatif.",
       "category": "Rock"
+    },
+    {
+      "title": "Marlon Magnée fête Dark Star au Supersonic le 26 mars",
+      "summary": "Marlon Magnée, cofondateur de La Femme, présente son premier album solo Dark Star sur la scène du Supersonic le 26 mars, juste après sa sortie le 6 mars. Cet événement suit le dernier concert du groupe à l'Accor Arena et marque un nouveau chapitre dans sa carrière solo. Le public pourra découvrir les sonorités personnelles de l'artiste parisien.",
+      "why": "Cette première solo d'un pilier de la scène indé française suscite un vif intérêt pour son évolution artistique.",
+      "category": "Rock"
+    },
+    {
+      "title": "Electronic Peak illumine la fin de mars du 25 au 27",
+      "summary": "Le festival Electronic Peak propose une programmation électro intense du 25 au 27 mars 2026 dans plusieurs lieux dédiés. Cet événement rassemble des artistes émergents et confirmés pour des sets immersifs et innovants. Il complète le paysage festif parisien en fin de mois avec une vibe nocturne électrisante.",
+      "why": "Ce festival électro majeur dynamise la scène électronique française et attire les clubbers en quête de nouveautés.",
+      "category": "Électro"
     }
   ],
   "updates": []
