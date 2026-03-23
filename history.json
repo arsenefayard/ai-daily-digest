@@ -1,15 +1,5 @@
 [
   {
-    "date": "21/03/2026",
-    "titles": [
-      "Conférence de presse chinoise du 20 mars 2026 sur les investissements massifs en IA et technologies de pointe",
-      "Trois employés de Super Micro Computer inculpés aux États-Unis pour exportation illégale de puces Nvidia vers la Chine",
-      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative, une adoption fulgurante",
-      "Parlement européen approuve la Convention-cadre du Conseil de l'Europe sur l'IA le 11 mars 2026",
-      "Résolution du Parlement européen du 10 mars 2026 sur le droit d'auteur et l'IA générative"
-    ]
-  },
-  {
     "date": "22/03/2026",
     "titles": [
       "OpenAI lance GPT-5.4, premier modèle capable de contrôler nativement un ordinateur",
@@ -67,6 +57,16 @@
       "xAI lance Grok 4.20 Beta 2 optimisé pour le codage",
       "Meta acquiert Moltbook, réseau social pour bots IA",
       "Alibaba lance les Qwen Glasses au MWC"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant Hollywood",
+      "Secrétaire général de l'ONU lance une commission scientifique pour le contrôle humain de l'IA",
+      "Sam Altman d'OpenAI appelle à une régulation urgente de l'IA en pleine expansion",
+      "Explosion du marché des IDE pour développement multi-agent avec sept leaders en compétition",
+      "Cour des comptes valide les progrès de la stratégie nationale IA française"
     ]
   }
 ]
