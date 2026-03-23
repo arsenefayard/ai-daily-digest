@@ -1,37 +1,33 @@
 {
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "subject": {
-    "name": "Pierre Clostermann",
-    "type": "Personnalité",
-    "period": "1921 – 2006 · Seconde Guerre mondiale et après-guerre",
-    "context": "Pierre Clostermann, aviateur français d'origine luxembourgeoise, s'engage dans les Forces françaises libres en 1942 après avoir fui l'occupation nazie. Il devient l'as le plus prolifique de l'aviation française alliée avec 33 victoires aériennes homologuées, en plus de nombreuses destructions au sol d'avions, locomotives et véhicules ennemis. Ses missions audacieuses sur Spitfire et Tempest, souvent en solitaire ou en petite formation, marquent la libération de l'Europe, notamment lors d'attaques contre des hydrobases allemandes où il coule des hydravions et endommage des appareils au sol. Peu connu du grand public malgré ses mémoires à succès, son palmarès dépasse celui de nombreux pilotes alliés et il est cité à l'ordre du jour de l'armée à seulement 24 ans.",
+    "name": "Bataille de la Chabotterie",
+    "type": "Bataille",
+    "period": "23 mars 1796 · Fin de la Deuxième guerre de Vendée",
+    "context": "La Deuxième guerre de Vendée éclate en 1795 dans l'ouest de la France, où les royalistes catholiques, menés par François-Athanase Charette de La Contrie, mènent une guérilla acharnée contre les forces républicaines pour restaurer la monarchie et la religion. Charette, charismatique et insaisissable, organise des attaques éclair depuis les marais de la Vendée, infligeant des pertes importantes aux Bleus malgré leur supériorité numérique. Le 23 mars 1796, lors de la bataille de la Chabotterie près de Legé, ses troupes sont surprises par les colonnes républicaines du général Haxo et Travot ; blessé et trahi par un de ses officiers, Charette est capturé après un combat féroce. Conduit à Nantes, il refuse les honneurs militaires et est fusillé le 29 mars devant un millier de soldats, marquant la fin effective de l'insurrection vendéenne.",
     "dates": [
       {
-        "year": "1921",
-        "label": "Naissance à Brazzaville"
+        "year": "1763",
+        "label": "Naissance de Charette à Couffé, issu d'une famille noble vendéenne"
       },
       {
-        "year": "1942",
-        "label": "Engagement dans les Free French Air Forces"
+        "year": "1793",
+        "label": "Début de la première Guerre de Vendée, Charette rejoint les chouans"
       },
       {
-        "year": "1944",
-        "label": "Premières victoires confirmées sur Spitfire"
+        "year": "1795",
+        "label": "Lancement de la Deuxième guerre de Vendée après l'exécution de l'abbé Bernier"
       },
       {
-        "year": "1945",
-        "label": "Attaques décisives sur Tempest contre hydrobases allemandes"
+        "year": "1796",
+        "label": "Bataille de la Chabotterie : capture de Charette par les républicains"
       },
       {
-        "year": "1948",
-        "label": "Publication des mémoires 'Feu du ciel'"
-      },
-      {
-        "year": "2006",
-        "label": "Disparition à l'âge de 85 ans"
+        "year": "1796",
+        "label": "Fusillade de Charette à Nantes, refusant bandeau et genoux fléchis"
       }
     ],
-    "legacy": "Clostermann influence durablement l'histoire de l'aviation de combat française et inspire des générations de pilotes par ses tactiques innovantes. Ses écrits, traduits dans plusieurs langues, popularisent le vécu des as alliés et contribuent à la mémoire collective de la Libération. Deputy européen et industriel, il incarne le passage du héros de guerre au bâtisseur de la France moderne.",
-    "why": "Dans un monde obsédé par les chiffres absolus, Clostermann rappelle que l'efficacité d'un pilote se mesure autant à ses destructions au sol qu'aux duels aériens, une leçon tactique toujours enseignée dans les écoles de chasse."
+    "legacy": "La capture de Charette met un terme à la grande révolte vendéenne, consolidant le pouvoir républicain en France mais laissant des cicatrices profondes dans l'Ouest, avec des mémoires divisées jusqu'aujourd'hui. Son image de martyr royaliste inspire encore les mouvements traditionalistes catholiques. L'événement illustre les limites de la contre-guérilla face à un chef légendaire.",
+    "why": "Charette, blessé, se fit débander le bras pour mourir debout, refusant toute soumission : un symbole de dignité inflexible qui défie encore les récits simplistes de la Révolution."
   }
 }
