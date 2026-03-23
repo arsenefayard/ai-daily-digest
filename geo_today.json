@@ -2,43 +2,35 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Israël intensifie considérablement ses frappes en Iran",
-      "summary": "Le ministre israélien de la Défense a annoncé samedi 21 mars que l'intensité des frappes aériennes contre l'Iran augmentera considérablement dans les prochains jours, probablement dès le lendemain. Les États-Unis et Israël ont frappé le complexe nucléaire de Natanz au sud de Téhéran, tandis que l'Agence internationale de l'énergie atomique n'a détecté aucune fuite de combustible nucléaire jusqu'à présent. Cette escalade militaire s'inscrit dans une campagne visant à réduire à néant la capacité militaire et nucléaire du régime iranien.",
-      "why": "Cette intensification des opérations militaires représente une escalade majeure au Moyen-Orient avec des implications directes sur la stabilité régionale et les équilibres géopolitiques mondiaux.",
+      "title": "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
+      "summary": "Le président américain Donald Trump a exhorté ses alliés à former une coalition multipays pour escorter les navires et débloquer le détroit d'Ormuz, paralysé par les actions iraniennes. Il a cité nommément cinq pays pour les inciter à soutenir les États-Unis dans cette opération cruciale pour le commerce pétrolier mondial. Cette initiative reflète une stratégie pour partager les coûts et les risques d'une intervention militaire face à la stratégie de la terre brûlée de l'Iran.",
+      "why": "Ce blocage menace 90 % des exportations pétrolières iraniennes et paralyse le commerce international, risquant une crise énergétique mondiale majeure.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Israël annonce une intensification considérable de ses frappes en Iran",
+      "summary": "Le ministre israélien de la Défense a déclaré que l'intensité des frappes sur l'Iran augmentera considérablement dans les prochains jours, suite à une évaluation de la situation. Ces opérations visent notamment le site nucléaire de Natanz, frappé récemment par des bombardements américano-israéliens sans fuite radioactive détectée. Cette escalade s'inscrit dans une campagne pour neutraliser les capacités nucléaires et militaires du régime iranien.",
+      "why": "Cette intensification pourrait précipiter un conflit régional plus large impliquant les pétromarchies du Golfe et modifier les équilibres de pouvoir au Moyen-Orient.",
       "category": "Conflit"
     },
     {
-      "title": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Le président américain Donald Trump a déclaré dimanche qu'après avoir atteint les objectifs militaires, les États-Unis envisagent de réduire progressivement leurs importants efforts militaires au Moyen-Orient face au régime iranien. Cette annonce contraste avec les déclarations précédentes fixant la durée de l'opération à six semaines et crée une certaine confusion quant à la stratégie américaine réelle. Trump refuse néanmoins de dévoiler son plan complet pour la suite des opérations.",
-      "why": "Cette position ambiguë du président américain crée une incertitude stratégique majeure et pourrait influencer les calculs des acteurs régionaux et des alliés occidentaux.",
+      "title": "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
+      "summary": "Le Pakistan a bombardé un centre de réhabilitation pour toxicomanes à Kaboul, faisant 400 morts et 250 blessés, marquant un nouveau pas dans l'escalade entre les deux pays. Cette attaque intervient dans un contexte de tensions frontalières persistantes et de rivalités régionales. Les deux nations risquent une confrontation ouverte avec des implications pour la stabilité en Asie du Sud.",
+      "why": "Cette escalade pourrait déstabiliser davantage l'Afghanistan post-retrait occidental et impliquer d'autres acteurs comme l'Inde ou la Chine dans la région.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Le président Trump a indiqué que les États-Unis sont sur le point d'atteindre leurs objectifs et envisagent de réduire leurs efforts militaires au Moyen-Orient face au régime iranien. Cette déclaration contradictoire suit des frappes continues sur des sites iraniens et survient après un déploiement de navires et de marines. Elle soulève des interrogations sur la durée réelle de l'engagement américain dans le conflit.",
+      "why": "Ce possible retrait progressif pourrait affaiblir la coalition anti-iranienne et laisser Israël seul face à une riposte potentielle de Téhéran.",
       "category": "Diplomatie"
     },
     {
-      "title": "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
-      "summary": "Le président américain a exhorté ses alliés à former une coalition multinationale chargée d'escorter les navires commerciaux et de débloquer le détroit d'Ormuz, paralysé par les actions iraniennes. Trump a nommément cité cinq pays pour appeler à leur soutien dans cette mission, reconnaissant implicitement que les États-Unis ne peuvent pas agir seuls. Cette demande d'aide intervient alors que le blocage du détroit menace une grande partie du commerce international et de l'approvisionnement énergétique mondial.",
-      "why": "Le détroit d'Ormuz est crucial pour le commerce mondial et l'énergie ; son blocage représente une menace économique majeure nécessitant une réponse coordonnée internationale.",
-      "category": "Énergie"
-    },
-    {
-      "title": "Escalade militaire Pakistan-Afghanistan : bombardement meurtrier à Kaboul",
-      "summary": "Le Pakistan a bombardé un centre de réhabilitation pour toxicomanes à Kaboul, faisant 400 morts et 250 blessés, marquant une nouvelle étape dans l'escalade militaire entre les deux pays. Cet incident représente l'une des attaques les plus meurtrières de cette phase du conflit et soulève des questions sur les limites de cette escalade. L'attaque vise officiellement des positions talibanes mais frappe une infrastructure civile, soulevant des enjeux humanitaires majeurs.",
-      "why": "Cette attaque démontre le risque d'un conflit régional incontrôlé avec des conséquences humanitaires catastrophiques et des implications pour la stabilité de l'Asie du Sud.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Attaques iraniennes contre navires et infrastructures pétrolières du Golfe",
-      "summary": "L'Iran a lancé de nouvelles attaques de drones et de missiles contre l'Arabie saoudite et le Koweït, ciblant des navires commerciaux et des infrastructures pétrolières et gazières dans le Golfe persique. Une déclaration commune des pays alliés a condamné ces attaques et demandé un moratoire immédiat et global sur les attaques d'infrastructures civiles. Ces opérations iraniennes s'inscrivent dans une stratégie de « terre brûlée » visant à paralyser l'économie régionale et mondiale.",
-      "why": "Ces attaques contre les infrastructures énergétiques menacent directement l'approvisionnement énergétique mondial et l'économie internationale, créant une crise énergétique majeure.",
-      "category": "Énergie"
+      "title": "Au Népal, élections générales après les manifestations anticorruption de 2025",
+      "summary": "Le Népal organise ses premières élections générales depuis les manifestations anticorruption de 2025, marquant un tournant pour le renouveau démocratique. Les citoyens espèrent une gouvernance plus transparente et une lutte efficace contre la corruption endémique. Ces élections pourraient redéfinir les alliances régionales avec l'Inde et la Chine dans l'Himalaya.",
+      "why": "Un résultat favorable aux réformateurs renforcerait la stabilité interne et influencerait les dynamiques géopolitiques en Asie du Sud face aux grandes puissances voisines.",
+      "category": "Élection"
     }
   ],
-  "updates": [
-    {
-      "title": "Frappes américano-israéliennes sur Natanz : confirmation et implications nucléaires",
-      "original": "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran (23/03/2026)",
-      "summary": "Les frappes du 21 mars sur le complexe nucléaire de Natanz ont été confirmées par l'Organisation iranienne de l'énergie atomique et les médias iraniens. L'Agence internationale de l'énergie atomique a indiqué qu'aucune fuite de combustible nucléaire n'avait été détectée jusqu'à présent, mais l'incident démontre la vulnérabilité des installations nucléaires iraniennes. Cette opération s'inscrit dans une campagne plus large visant à neutraliser la capacité nucléaire militaire de l'Iran.",
-      "why": "La confirmation de ces frappes et l'absence de fuite nucléaire majeure marquent une étape critique dans la campagne militaire contre l'Iran, avec des implications pour la non-prolifération nucléaire mondiale.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
