@@ -1,35 +1,35 @@
 {
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "news": [
     {
-      "title": "Fermeture du détroit d’Ormuz qualifiée de plus grande menace énergétique de l’histoire par l’AIE",
-      "summary": "Fatih Birol, directeur exécutif de l’Agence internationale de l’énergie, alerte sur la fermeture du détroit d’Ormuz comme la plus grave menace pour la sécurité énergétique mondiale jamais vue, en raison des tensions au Moyen-Orient impliquant l’Iran. Cette situation pourrait entraîner une flambée des prix du pétrole et perturber les approvisionnements mondiaux. Les pays consommateurs envisagent de libérer des stocks stratégiques pour stabiliser les marchés.[2]",
-      "why": "Cette crise menace directement l’économie mondiale en risquant une récession énergétique majeure et en accentuant les rivalités géopolitiques entre puissances exportatrices et importatrices.",
-      "category": "Énergie"
+      "title": "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
+      "summary": "Les États-Unis et Israël ont bombardé le complexe nucléaire de Natanz, situé au sud de Téhéran, le 21 mars, selon l'Organisation iranienne de l'énergie atomique. Cette opération s'inscrit dans une campagne plus large visant à détruire les capacités nucléaires et balistiques iraniennes, après des frappes initiales contre des centres de commandement des Gardiens de la Révolution. Les implications géopolitiques incluent un risque d'escalade régionale et une perturbation potentielle des marchés énergétiques mondiaux.",
+      "why": "Cette attaque directe sur des installations nucléaires marque une intensification du conflit et pourrait précipiter un changement de régime à Téhéran, redessinant les équilibres au Moyen-Orient.",
+      "category": "Conflit"
     },
     {
-      "title": "José Antonio Kast aligne le Chili sur les États-Unis pour contrer la Chine dans les métaux stratégiques",
-      "summary": "Le président chilien José Antonio Kast, allié idéologique de Donald Trump, renforce la coopération avec les États-Unis pour sécuriser l’accès aux terres rares et métaux critiques du Chili face à l’influence croissante de la Chine. Cette alliance expose le pays à des tensions avec Pékin, son principal partenaire commercial. Elle s’inscrit dans une stratégie américaine de diversification des chaînes d’approvisionnement critiques.[2][1]",
-      "why": "Le contrôle des métaux stratégiques est vital pour les technologies vertes et militaires, et ce rapprochement redessine les alliances en Amérique latine au détriment de l’hégémonie chinoise.",
-      "category": "Économie"
+      "title": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Le président américain Donald Trump a déclaré que les États-Unis sont sur le point d'atteindre leurs objectifs et prévoient de diminuer graduellement leurs efforts militaires au Moyen-Orient face au régime iranien. Cette annonce intervient après des semaines de frappes intensives, avec des déclarations contradictoires sur la durée de l'opération initialement prévue pour six semaines. Géopolitiquement, cela pourrait signaler une désescalade potentielle ou une phase de consolidation avant une nouvelle offensive.",
+      "why": "Ce revirement rhétorique de Trump influence les marchés énergétiques et les alliances régionales, en offrant un espoir de stabilisation tout en maintenant la pression sur l'Iran.",
+      "category": "Conflit"
     },
     {
-      "title": "Le Nicaragua cède 8,5 % de son territoire à la Chine pour l’exploration minière",
-      "summary": "Le régime Ortega-Murillo accorde à la Chine l’accès à 8,5 % de son territoire pour explorer et extraire des minerais, dans un geste de rapprochement avec Pékin face aux sanctions américaines. Cette concession vise à contourner les pressions économiques de Washington sur les dirigeants nicaraguayens. Elle renforce l’emprise chinoise en Amérique centrale sur les ressources naturelles.[2]",
-      "why": "Cette cession marque une victoire diplomatique pour la Chine en Amérique latine et intensifie la rivalité sino-américaine dans l’hémisphère occidental.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Offensive djihadiste majeure dans le nord-est du Nigeria avec soutien militaire américain",
-      "summary": "Les djihadistes lancent une offensive violente dans le nord-est du Nigeria, avec des attentats-suicides meurtriers à Maiduguri, les plus graves depuis 2019. Le gouvernement nigérian intensifie ses opérations antiterroristes avec l’appui direct de militaires américains. Cette résurgence menace la stabilité régionale en Afrique de l’Ouest et Sahel.[2]",
-      "why": "L’implication accrue des États-Unis souligne leur pivot sécuritaire vers l’Afrique, tandis que l’instabilité nigériane risque de propager le terrorisme vers les pays voisins.",
+      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
+      "summary": "La Marine nationale française a intercepté un navire présumé faire partie de la flotte fantôme russe, utilisée pour contourner les sanctions internationales. Cette opération renforce les efforts européens contre le contournement des embargos sur le pétrole russe. Elle s'inscrit dans un contexte de tensions persistantes liées à la guerre en Ukraine et aux flux énergétiques perturbés.",
+      "why": "Cette action navale européenne démontre une fermeté accrue contre la Russie et protège l'unité de la politique de sanctions de l'UE.",
       "category": "Sécurité"
     },
     {
-      "title": "Ursula von der Leyen visite le Groenland pour renforcer les partenariats énergétiques arctiques",
-      "summary": "La présidente de la Commission européenne, Ursula von der Leyen, s’est rendue au Groenland pour consolider les liens en matière d’énergie et de climat dans l’Arctique. Cette visite vise à sécuriser des ressources face aux ambitions russes et chinoises dans la région. Elle positionne l’UE comme acteur clé dans ce nouveau théâtre géopolitique.[1]",
-      "why": "L’Arctique émerge comme zone stratégique pour les ressources et les routes maritimes, et cette initiative européenne contrebalance les influences extra-occidentales.",
+      "title": "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
+      "summary": "Un tanker russe battant pavillon inconnu a dérivé dans les eaux libyennes, provoquant des craintes d'une marée noire majeure en Méditerranée. Les autorités libyennes et internationales surveillent la situation de près en raison des risques pour l'environnement et la navigation. Géopolitiquement, cela met en lumière les vulnérabilités des infrastructures énergétiques russes et les tensions en Libye.",
+      "why": "Cet incident pourrait aggraver les instabilités en Méditerranée et compliquer les efforts de stabilisation en Libye, avec des répercussions sur les routes maritimes européennes.",
       "category": "Énergie"
+    },
+    {
+      "title": "Le Kazakhstan adopte une nouvelle Constitution lors d'un référendum historique",
+      "summary": "Les Kazakhs ont voté une nouvelle Constitution le 21 mars, marquant un tournant politique vers plus de décentralisation et de réformes post-Karimov. Ce changement vise à stabiliser le pays riche en ressources énergétiques face aux pressions régionales de la Russie et de la Chine. Les enjeux incluent une réorientation potentielle des alliances eurasiatiques.",
+      "why": "Cette réforme constitutionnelle renforce la souveraineté kazakhe et pourrait influencer les dynamiques énergétiques en Asie centrale, au-delà de l'influence russe.",
+      "category": "Diplomatie"
     }
   ],
   "updates": []
