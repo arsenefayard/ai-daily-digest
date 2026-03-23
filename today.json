@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Nvidia dévoile de nouvelles puces et logiciels IA à sa conférence annuelle des développeurs",
-      "summary": "Lors de sa conférence annuelle des développeurs qui se tient aujourd'hui, le directeur général de Nvidia a présenté de nouvelles puces et logiciels dédiés à l'intelligence artificielle, renforçant la position du leader des semi-conducteurs dans ce domaine. Ces annonces interviennent dans un contexte de forte demande pour les infrastructures IA, avec des performances optimisées pour l'entraînement et l'inférence de modèles massifs. Les investisseurs ont réagi positivement, avec une hausse de 1,62% de l'action Nvidia en bourse.",
-      "why": "Ces innovations hardware accélèrent le développement des modèles IA avancés et consolident la domination de Nvidia sur le marché des GPU essentiels à l'IA.",
+      "title": "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
+      "summary": "Le taïwanais Foxconn, principal fabricant de serveurs pour Nvidia, a annoncé lundi une prévision de chiffre d'affaires trimestriel solide, portée par la forte demande en infrastructures IA. Cette performance reflète l'explosion des besoins en hardware pour entraîner et déployer des modèles d'IA à grande échelle. Les investisseurs saluent cette dynamique, confirmant le rôle central des fournisseurs de puces dans l'écosystème IA.",
+      "why": "Cette annonce souligne la santé explosive du marché des infrastructures IA et l'impact économique direct sur les chaînes d'approvisionnement mondiales.",
       "category": "Entreprise"
     },
     {
-      "title": "Meta prévoit de réduire ses effectifs de 20% pour financer ses investissements massifs en IA",
-      "summary": "Meta annonce une réduction d'au moins 20% de ses effectifs afin de compenser les coûts élevés de ses infrastructures d'intelligence artificielle et de préparer des gains d'efficacité grâce aux outils IA. Cette décision stratégique suit des investissements de 107 milliards de dollars et intervient après le retard de son modèle Avocado. L'action Meta a progressé de 2,32% en bourse suite à cette information.",
-      "why": "Cette restructuration illustre la priorisation extrême des investissements IA par les géants tech, au détriment des effectifs humains.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Sénatrice française Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
-      "summary": "Dans l'émission Smart Tech du 23 mars 2026, la sénatrice de l'Aube Vanina Paoli-Gagin défend l'idée que l'Europe peut se démarquer dans la course à l'IA en alignant les systèmes sur des valeurs de sécurité, transparence et éthique. Face à la domination des États-Unis et de la Chine, elle plaide pour une politique industrielle et réglementaire européenne structurée. Cette approche positionne l'alignement comme un atout compétitif plutôt qu'une contrainte.",
-      "why": "Cette vision pourrait influencer la stratégie européenne en IA, en misant sur l'éthique pour contrer les leaders mondiaux.",
+      "title": "Sénatrice Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
+      "summary": "Dans l'émission Smart Tech du 23 mars 2026, la sénatrice française Vanina Paoli-Gagin défend l'idée que l'alignement des systèmes d'IA sur des valeurs européennes de sécurité, transparence et éthique peut devenir un atout compétitif face aux États-Unis et à la Chine. Elle plaide pour une politique industrielle et réglementaire unifiée au niveau européen. Cette position vise à structurer une souveraineté technologique différenciée.",
+      "why": "Elle positionne l'Europe comme leader potentiel en IA responsable, influençant les débats réglementaires futurs.",
       "category": "Régulation"
     },
     {
-      "title": "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
-      "summary": "Le taïwanais Foxconn, principal fabricant de serveurs pour Nvidia, a annoncé lundi une prévision de chiffre d'affaires trimestriel solide, portée par la forte demande liée aux infrastructures IA. Cette performance reflète l'explosion des besoins en hardware pour supporter l'entraînement des modèles IA. L'action de Foxconn bénéficie de cette dynamique positive en bourse.",
-      "why": "Elle souligne l'impact économique en cascade de l'essor de l'IA sur la chaîne d'approvisionnement mondiale des semi-conducteurs.",
-      "category": "Entreprise"
+      "title": "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA générative, doublant en deux ans",
+      "summary": "Le Baromètre du numérique 2026 indique que 48% des Français utilisent désormais l'IA générative, contre 20% en 2023, marquant un doublement en deux ans. Cette adoption rapide dépasse même celle d'internet à ses débuts. Les données soulignent une intégration massive dans la vie quotidienne et professionnelle.",
+      "why": "Ce chiffre concret mesure l'accélération sociétale de l'IA et guide les stratégies d'adoption en entreprise et en politique publique.",
+      "category": "Application"
     },
     {
-      "title": "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA, doublant en deux ans",
-      "summary": "Selon le Baromètre du numérique 2026 du Crédoc, l'adoption de l'IA en France est passée de 20% en 2023 à 48% en 2025, un rythme plus rapide que celui d'internet il y a vingt ans. Malgré cette progression, 52% des personnes restent méfiantes, bien que la confiance ait augmenté de 5 points en un an. Parallèlement, la Cour des comptes note que le nombre de startups IA françaises a doublé depuis 2021, atteignant 1 000 en 2025.",
-      "why": "Ces chiffres mesurent l'accélération de la pénétration de l'IA dans la société et confirment la montée en puissance du secteur en France.",
+      "title": "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains pour le développement multi-agent",
+      "summary": "Cursor a lancé sa version 2.6, intégrant les MCP Apps et une compatibilité native avec JetBrains, renforçant ses capacités pour le développement multi-agent. Cette mise à jour optimise les workflows collaboratifs entre agents IA spécialisés dans le codage. Elle répond à l'explosion du marché des IDE agentiques.",
+      "why": "Elle accélère la transition vers des outils de développement autonomes, boostant la productivité des développeurs.",
       "category": "Application"
+    },
+    {
+      "title": "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant l'industrie hollywoodienne",
+      "summary": "ByteDance a présenté un modèle IA multimodal avancé capable de générer des vidéos et scripts de haute qualité, menaçant directement les studios hollywoodiens par sa rapidité et son coût réduit. Ce modèle excelle dans la création de contenus narratifs immersifs à partir de prompts simples. Les implications touchent à la production cinématographique automatisée.",
+      "why": "Cette percée chinoise défie la domination américaine en création de contenu, remodelant l'industrie du divertissement.",
+      "category": "Modèle"
     }
   ],
   "updates": []
