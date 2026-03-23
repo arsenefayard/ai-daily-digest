@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Ligue des Champions : Liverpool écrase Galatasaray et affrontera le PSG en quarts",
-      "Ligue Europa : L'OL éliminé par le Celta Vigo dès les huitièmes de finale",
-      "Ligue Conférence : Strasbourg se qualifie aux forceps pour les quarts face à Rijeka",
-      "Miami Open : Le tournoi Masters 1000 perturbé par des pluies abondantes",
-      "Cyclisme : Tom Pidcock remporte Milan-Turin avec une attaque décisive"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Milan-San Remo : Le classique du cyclisme sur route se dispute ce dimanche",
       "Ligue 1 - Journée 27 : Les enjeux du championnat de France se précisent",
       "Tennis : Atmane progresse au deuxième tour d'un tournoi majeur",
@@ -72,6 +62,16 @@
       "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
       "TOP 14 : Résultats cruciaux de la 19e journée avec des chocs au sommet",
       "Betclic Elite : La 23e journée voit des surprises en basketball français"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Miami Open : Carlos Alcaraz et Iga Swiatek passent au troisième tour malgré les interruptions pluvieuses",
+      "Tour de Catalogne : Début explosif avec les sprinteurs en vedette",
+      "TOP 14 : La 20e journée s'annonce décisive pour le maintien et le podium",
+      "Betclic Elite : La 24e journée voit Monaco creuser l'écart en tête",
+      "Athlétisme : Les Championnats du monde en salle clôturés avec des records en Pologne"
     ]
   }
 ]
