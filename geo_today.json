@@ -3,42 +3,34 @@
   "news": [
     {
       "title": "Israël annonce une intensification considérable de ses frappes en Iran",
-      "summary": "Le ministre israélien de la Défense a déclaré lors d'une réunion d'évaluation que l'intensité des frappes en Iran va augmenter considérablement dans les prochains jours, probablement dès demain. Ces opérations visent à neutraliser les capacités militaires et nucléaires iraniennes, après les récentes attaques sur le site de Natanz. Cette escalade risque de prolonger le conflit au Moyen-Orient et d'impliquer davantage d'acteurs régionaux.",
-      "why": "Cette décision marque une escalade majeure qui pourrait entraîner une réponse iranienne plus agressive et compliquer les efforts diplomatiques pour désescalader la crise.",
+      "summary": "Le ministre israélien de la Défense a déclaré lors d'une réunion d'évaluation que l'intensité des frappes sur l'Iran augmentera considérablement dans les prochains jours, probablement dès demain. Ces opérations visent à neutraliser les capacités nucléaires et militaires iraniennes, après des bombardements récents sur le site de Natanz. Cette escalade risque d'élargir le conflit régional en impliquant davantage d'acteurs au Moyen-Orient.",
+      "why": "Cette intensification marque un tournant dans le conflit israélo-iranien et pourrait précipiter une réponse iranienne massive, déstabilisant davantage la sécurité énergétique mondiale.",
       "category": "Conflit"
     },
     {
-      "title": "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Le président américain a indiqué que les États-Unis sont sur le point d'atteindre leurs objectifs et envisagent de réduire leurs efforts militaires au Moyen-Orient face au régime iranien. Cette déclaration intervient après des frappes conjointes américano-israéliennes sur des sites nucléaires iraniens, sans fuite radioactive détectée. Elle contraste avec les appels à un soutien accru des alliés occidentaux et soulève des questions sur la durée de l'engagement américain.",
-      "why": "Ce revirement potentiel de Trump pourrait signaler une désescalade, influençant les stratégies des alliés et l'évolution du conflit régional.",
+      "title": "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
+      "summary": "Le président américain exhorte ses alliés, citant nommément cinq pays, à former une coalition multipays pour escorter les navires et rouvrir le détroit bloqué par l'Iran. Cette initiative fait suite à des attaques iraniennes sur des infrastructures pétrolières et gaziers dans le Golfe. Elle vise à contrer la paralysie du commerce pétrolier international qui affecte 90 % des exportations iraniennes.",
+      "why": "Un tel appel reflète une reconnaissance de l'usure américaine et pourrait redéfinir les alliances au Moyen-Orient face à la crise énergétique.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Dans une déclaration récente, Donald Trump indique que les États-Unis sont sur le point d'atteindre leurs objectifs et prévoient de diminuer leurs efforts militaires au Moyen-Orient face au régime iranien. Cette position contraste avec les frappes continues américano-israéliennes sur des sites iraniens. Elle soulève des interrogations sur la durée et l'ampleur de l'engagement américain dans le conflit.",
+      "why": "Ce revirement potentiel pourrait signaler une désescalade ou une stratégie de sortie, influençant les calculs des alliés et adversaires régionaux.",
       "category": "Conflit"
     },
     {
-      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "summary": "Des officiers de la Marine nationale française ont arraisonné un navire suspecté de faire partie de la flotte fantôme russe, dans un contexte de tensions accrues en Méditerranée. Cette opération s'inscrit dans les efforts européens pour contrer les activités illicites de la Russie post-sanctions. Elle souligne les frictions persistantes entre l'OTAN et Moscou sur les mers.",
-      "why": "Cet incident renforce la posture sécuritaire européenne face à la Russie et pourrait entraîner de nouvelles mesures diplomatiques ou sanctions.",
-      "category": "Sécurité"
-    },
-    {
-      "title": "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
-      "summary": "Un tanker russe à la dérive dans les eaux libyennes a provoqué une alerte écologique majeure en raison du risque de marée noire. Cet événement survient dans une région déjà instable, aggravant les tensions autour des ressources énergétiques méditerranéennes. Les autorités internationales appellent à une intervention rapide pour éviter une catastrophe environnementale.",
-      "why": "Cette crise pourrait perturber le trafic maritime et pétrolier en Méditerranée, avec des implications économiques et diplomatiques pour l'Europe et l'Afrique du Nord.",
+      "title": "Le Japon puise dans ses réserves stratégiques de pétrole en raison de la crise d'Ormuz",
+      "summary": "Tokyo a annoncé depuis lundi qu'il commence à utiliser ses réserves stratégiques pour pallier les perturbations causées par le blocage du détroit d'Ormuz. Cette mesure répond à la hausse des prix et aux risques d'approvisionnement énergétique mondial. Elle met en lumière la vulnérabilité des importateurs nets de pétrole face à la stratégie iranienne.",
+      "why": "Cette action illustre l'impact économique concret de la crise sur les grandes puissances asiatiques, accélérant les tensions sur les marchés mondiaux de l'énergie.",
       "category": "Énergie"
     },
     {
-      "title": "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les reproches européens",
-      "summary": "La Hongrie a brandi la menace de nouvelles mesures contre l'Ukraine, ignorant les critiques des dirigeants européens. Cette position s'inscrit dans les tensions persistantes sur les minorités hongroises et l'aide à Kiev. Elle complique l'unité de l'UE face à la guerre russo-ukrainienne.",
-      "why": "Cette posture de Viktor Orbán risque de fracturer davantage l'Union européenne et d'affaiblir le soutien occidental à l'Ukraine.",
-      "category": "Diplomatie"
+      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
+      "summary": "Les forces navales françaises ont intercepté un navire présumé lié à la flotte fantôme russe, dans un contexte de sanctions internationales contre Moscou. Cette opération s'inscrit dans une surveillance accrue des activités maritimes russes en Méditerranée. Elle renforce la posture européenne face aux contournements de sanctions énergétiques.",
+      "why": "Cet incident souligne la persistance des tensions Est-Ouest et les efforts de l'UE pour faire respecter les mesures contre la Russie.",
+      "category": "Sécurité"
     }
   ],
-  "updates": [
-    {
-      "title": "Trump explore les options pour une force terrestre en Iran",
-      "original": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Malgré ses déclarations sur une réduction des efforts militaires, Trump explore désormais les options pour déployer une force terrestre en Iran, avec un possible enlisement du conflit. Les médias américains rapportent un nouveau déploiement de navires et de marines au Moyen-Orient. Cette ambivalence reflète les contradictions dans la stratégie américaine face à la menace du détroit d'Ormuz.",
-      "why": "Ce développement potentiel marque un revirement stratégique majeur qui pourrait prolonger et internationaliser le conflit.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
