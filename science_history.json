@@ -2,17 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Supernovas superlumineuses alimentées par des magnétars : oscillations de luminosité détectées",
-      "Doolysaurus : nouveau dinosaure juvénile découvert en Corée du Sud",
-      "Neutrino ultra-énergétique détecté : possiblement originaire d'un blazar",
-      "Découverte d'une protéine responsable de l'addiction à la cocaïne",
-      "Sensibilité des hérissons aux ultrasons : implications pour leur protection",
-      "Toutes les bases de l'ADN détectées sur l'astéroïde Bennu"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Oscillations de luminosité dans la supernova superlumineuse 2024afav confirmées par quatre sursauts",
       "Détection de silice cristallisée (opale, calcédoine, quartz) dans le cratère Jezero par Perseverance",
       "Première identification de minéraux réox sensibles sur Mars par Perseverance",
@@ -70,6 +59,16 @@
       "Confirmation des oscillations de luminosité dans la supernova superlumineuse 2024afav par quatre sursauts",
       "Découverte d'une corrélation potentiellement importante pour la matière noire",
       "Confirmation de la détection de toutes les bases de l'ADN sur l'astéroïde Bennu"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Spintronique : passage à l'échelle industrielle pour une électronique plus rapide et sobre",
+      "Métal rendu insubmersible par une innovation matériaux",
+      "Bizarrerie unique découverte chez l'ornithorynque",
+      "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
+      "Simulation majeure du cycle de vie bactérien réalisée"
     ]
   }
 ]
