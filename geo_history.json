@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Les États-Unis affirment pouvoir neutraliser l'île de Kharg, hub pétrolier iranien, à tout moment",
-      "Fermeture du détroit d'Ormuz qualifiée de plus grande menace énergétique de l'histoire par l'AIE",
-      "Mojtaba Khamenei appelle à l'unité iranienne face aux menaces extérieures pour le Nouvel An persan",
-      "José Antonio Kast s'aligne sur Trump pour contrer l'influence chinoise dans les métaux stratégiques du Chili",
-      "Ursula von der Leyen visite le Groenland pour renforcer les partenariats énergétiques et climatiques en Arctique"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Fermeture du détroit d'Ormuz : la plus grande menace énergétique de l'histoire selon l'AIE",
       "Alignement du Chili avec les États-Unis pour contrôler les métaux stratégiques face à la Chine",
       "Offensive djihadiste majeure dans le nord-est du Nigeria avec soutien militaire américain",
@@ -68,6 +58,16 @@
       "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
       "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les reproches européens",
       "Trump explore les options pour une force terrestre en Iran"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Israël annonce une intensification considérable de ses frappes en Iran",
+      "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
+      "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "Le Japon puise dans ses réserves stratégiques de pétrole en raison de la crise d'Ormuz",
+      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe"
     ]
   }
 ]
