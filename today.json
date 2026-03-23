@@ -2,35 +2,43 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant Hollywood",
-      "summary": "ByteDance, la société chinoise derrière TikTok, a lancé un nouveau modèle d'intelligence artificielle qui génère des contenus visuels et narratifs d'une qualité exceptionnelle, capable de concurrencer les productions hollywoodiennes traditionnelles. Ce modèle intègre des capacités avancées en génération vidéo et en scripting automatique, entraîné sur des datasets massifs de films et séries. Son impact potentiel sur les industries créatives soulève des débats sur la propriété intellectuelle et l'emploi dans le secteur du divertissement.",
-      "why": "Cette avancée pourrait redéfinir la production cinématographique en rendant accessible à bas coût des effets spéciaux et scénarios professionnels, menaçant les studios traditionnels.",
+      "title": "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
+      "summary": "Meta prévoit une réduction d'au moins 20% de ses effectifs pour compenser le coût massif de ses investissements dans les infrastructures d'intelligence artificielle et préparer des gains d'efficacité permis par les outils assistés par l'IA. Cette décision intervient après l'annonce du retard de son modèle Avocado à mai en raison de performances insuffisantes comparées à celles de Google, OpenAI et Anthropic. Le marché a réagi positivement avec un gain de 2,32% pour l'action Meta.",
+      "why": "Cette restructuration majeure reflète la transition critique des entreprises technologiques vers l'opérationnalisation réelle de l'IA, marquant le passage de l'euphorie des investissements à la nécessité de rentabilité et d'efficacité.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
+      "summary": "Le directeur général de Nvidia présente de nouvelles puces et logiciels lors de la conférence annuelle des développeurs du groupe, confirmant la position centrale de l'IA dans l'agenda technologique. Nvidia a progressé de 1,62% en bourse, tandis que Foxconn, principal fabricant de serveurs pour Nvidia, a publié une prévision robuste de chiffre d'affaires trimestriel. Ces annonces renforcent l'importance stratégique de l'infrastructure matérielle dans l'écosystème IA.",
+      "why": "Les annonces de Nvidia sur les puces et logiciels IA sont cruciales car elles définissent les capacités techniques disponibles pour tous les développeurs et entreprises déployant des systèmes d'IA à grande échelle.",
       "category": "Modèle"
     },
     {
-      "title": "Secrétaire général de l'ONU lance une commission scientifique pour le contrôle humain de l'IA",
-      "summary": "Antonio Guterres a annoncé lors du sommet India AI Impact 2026 le lancement d'une commission scientifique dédiée à rendre le 'contrôle humain' de l'IA une réalité technique concrète. Cette initiative vise à développer des standards techniques pour superviser les systèmes autonomes avancés et prévenir les risques existentiels. Elle implique des experts mondiaux pour mutualiser recherches et outils de vérification.",
-      "why": "Elle marque un pas vers une gouvernance technique globale de l'IA, répondant aux appels urgents de régulation face à l'autonomie croissante des modèles.",
-      "category": "Régulation"
+      "title": "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
+      "summary": "L'industrie bascule de l'IA générative « outil » (sollicitée par l'utilisateur) à l'IA « agentique » (qui agit de manière autonome et responsable), marquant un changement de paradigme fondamental. L'IA agentique devient le standard opérationnel en 2026, ne se contentant plus de suggérer des réponses mais prenant des décisions et exécutant des workflows complexes au sein des entreprises. Ce passage exige une infrastructure de confiance et une maîtrise des données que seule l'opérationnalisation immédiate permet de construire.",
+      "why": "Cette transition représente la fin de l'ère de l'IA récréative et marque l'urgence de l'industrialisation réelle, où les entreprises doivent passer de démonstrations techniques à des systèmes autonomes fiables en production.",
+      "category": "Recherche"
     },
     {
-      "title": "Sam Altman d'OpenAI appelle à une régulation urgente de l'IA en pleine expansion",
-      "summary": "Lors du sommet de New Delhi, Sam Altman a insisté sur le besoin pressant de réguler l'intelligence artificielle face à ses impacts sociétaux et environnementaux croissants. Il a mis en garde contre les risques non maîtrisés alors que les modèles atteignent des capacités natives comme le contrôle d'ordinateurs. Cette déclaration s'inscrit dans un contexte de tensions géopolitiques sur la gouvernance mondiale.",
-      "why": "L'intervention du CEO d'OpenAI amplifie le consensus sur la nécessité de cadres légaux, influençant potentiellement les politiques internationales.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Explosion du marché des IDE pour développement multi-agent avec sept leaders en compétition",
-      "summary": "Le marché des environnements de développement intégrés (IDE) spécialisés dans le développement multi-agent connaît une croissance explosive, avec sept acteurs majeurs se disputant des parts de marché. Ces outils permettent la coordination d'agents IA autonomes pour des tâches complexes comme le codage distribué et l'automatisation de workflows. Cette concurrence stimule l'innovation dans l'IA agentique, passage obligé pour 2026.",
-      "why": "Cela accélère l'adoption industrielle de l'IA agentique, transformant le développement logiciel en écosystèmes autonomes et efficaces.",
+      "title": "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
+      "summary": "Selon le baromètre du numérique 2026 du Crédoc, la diffusion de l'IA générative en France est passée de 20% en 2023 à 48% en 2025, une adoption deux fois plus rapide que celle d'internet qui avait nécessité cinq ans pour passer de 23% à 55%. L'essor concerne principalement les 18-24 ans et, dans une moindre mesure, les 25-39 ans. Cependant, 52% des personnes demeurent méfiantes vis-à-vis de l'IA, bien que la part des personnes confiantes progresse de 5 points en un an.",
+      "why": "Cette statistique démontre la pénétration extraordinaire de l'IA dans la vie quotidienne des Français et l'importance croissante de la confiance publique pour l'adoption durable de ces technologies.",
       "category": "Application"
     },
     {
       "title": "Cour des comptes valide les progrès de la stratégie nationale IA française",
-      "summary": "La Cour des comptes a évalué positivement les débuts de la stratégie nationale pour l'intelligence artificielle lancée en 2018, notant un doublement des startups IA françaises à 1 000 en 2025. La France se positionne désormais au niveau des leaders américains et chinois grâce à des investissements ciblés. Malgré des débuts contrastés, les résultats encourageants valident l'approche souveraineté.",
-      "why": "Ce rapport renforce la crédibilité de l'écosystème IA européen, attirant investissements et talents dans un contexte de compétition mondiale.",
-      "category": "Entreprise"
+      "summary": "La Cour des comptes confirme que la stratégie nationale pour l'intelligence artificielle, lancée en 2018, a connu des débuts contrastés mais encourageants. Le nombre de startups françaises en IA a doublé depuis 2021, passant à 1 000 en 2025, et la France est désormais en mesure de se comparer aux acteurs américains et chinois du secteur. Cette validation officielle reconnaît les progrès substantiels réalisés dans l'écosystème IA français.",
+      "why": "Cette validation de la Cour des comptes est importante car elle confirme que la France construit une capacité technologique autonome en IA et peut rivaliser avec les puissances technologiques mondiales.",
+      "category": "Régulation"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Meta retarde Avocado à mai avec performances insuffisantes",
+      "original": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
+      "summary": "Le retard d'Avocado à mai minimum est confirmé, avec des performances inférieures à celles de Google, OpenAI et Anthropic en raisonnement et code. Cet aveu embarrassant intervient après 107 milliards de dollars d'investissements de Meta dans l'IA, mettant en lumière l'écart entre les ambitions et les résultats concrets.",
+      "why": "Ce retard significatif illustre les défis réels de la course à l'IA et les limites des investissements massifs sans résultats technologiques à la hauteur, renforçant la nécessité pour Meta de restructurer ses opérations.",
+      "category": "Modèle"
+    }
+  ]
 }
