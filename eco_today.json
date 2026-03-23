@@ -3,32 +3,32 @@
   "news": [
     {
       "title": "Discours attendu du président de la Fed sur l'inflation et les taux",
-      "summary": "Le 21 mars 2026, le président de la Réserve fédérale des États-Unis doit s'exprimer sur la durabilité du nouveau cycle de pression inflationniste, la volonté de maintenir des taux élevés plus longtemps et l'impact des prix élevés de l'énergie ainsi que des chocs géopolitiques sur l'économie américaine. Les investisseurs scrutent ces déclarations pour anticiper les mouvements des devises, obligations et indices boursiers. Ce discours intervient après la dernière réunion de la Fed et dans un contexte de volatilité accrue due au conflit en Iran.",
-      "why": "Ce discours influencera directement les attentes sur la politique monétaire américaine et les marchés financiers mondiaux.",
+      "summary": "Le discours du président de la Réserve fédérale des États-Unis, prévu ce samedi 21 mars 2026, est scruté par les marchés pour évaluer la durabilité du nouveau cycle inflationniste lié aux prix élevés de l'énergie et aux chocs géopolitiques. Les investisseurs attendent des indications sur la volonté de la Fed de maintenir des taux élevés plus longtemps face à ces pressions externes. Ce discours pourrait influencer les devises, les obligations et les indices boursiers en clarifiant le scénario de base pour l'économie américaine.[1]",
+      "why": "Ce discours est crucial car il orientera les attentes sur la politique monétaire américaine, impactant directement les marchés mondiaux dans un contexte de volatilité géopolitique.",
       "category": "Politique monétaire"
     },
     {
       "title": "Rapports des banques chinoises signalent un cycle de crédit fragile",
-      "summary": "Les rapports annuels des grandes banques chinoises publiés le 21 mars 2026 révèlent des indicateurs sur la qualité du cycle de crédit, l'activité économique et la demande intérieure en Chine. Ces données servent de baromètre pour l'économie asiatique dans un environnement de volatilité des matières premières. Elles sont particulièrement surveillées au vu des tensions géopolitiques affectant les flux commerciaux mondiaux.",
-      "why": "La santé du secteur bancaire chinois impacte la croissance mondiale et les investissements en Asie.",
+      "summary": "Les rapports annuels des banques chinoises révèlent un cycle de crédit fragile, indiquant une qualité dégradée de l'activité économique et de la demande intérieure. Ces publications servent d'indicateur clé pour évaluer la santé du secteur bancaire chinois au milieu des tensions mondiales. Elles soulignent les défis persistants pour la reprise économique en Asie malgré les efforts de relance.[1]",
+      "why": "La fragilité du crédit chinois affecte la croissance mondiale, car la Chine représente une part majeure de la demande globale en matières premières et biens.",
       "category": "Banques"
     },
     {
       "title": "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
-      "summary": "Le rapport de China Shenhua Energy du 21 mars 2026 agit comme un indicateur clé de la demande de charbon et des flux de trésorerie dans le complexe énergétique chinois. Dans un contexte de forte volatilité des prix mondiaux des matières premières, il souligne la réévaluation de la sécurité énergétique en Asie. Les investisseurs y voient un proxy pour la stabilité des grandes entreprises de commodities.",
-      "why": "Cela éclaire les dynamiques de demande énergétique en Chine, pivot de l'économie mondiale des matières premières.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Shutdown américain cause un ralentissement temporaire de la croissance",
-      "summary": "Un shutdown gouvernemental aux États-Unis a entraîné un ralentissement ponctuel de la croissance économique, mais ce déficit d'activité devrait être récupéré dans les prochains mois après deux trimestres de forte expansion. Le marché de l'emploi montre une légère amélioration, soutenant une toile de fond favorable. L'investissement des entreprises accélère malgré ces perturbations.",
-      "why": "Ce ralentissement teste la résilience de l'économie américaine face aux incertitudes géopolitiques et internes.",
+      "summary": "China Shenhua Energy, géant du charbon, publie des rapports annuels démontrant la résilience de ses flux de trésorerie malgré la volatilité des marchés mondiaux des matières premières. Ce proxy pour le complexe énergétique chinois illustre la solidité de la demande de charbon en Asie face à la crise énergétique globale. Ces résultats rassurent sur la capacité de la Chine à maintenir sa production énergétique stratégique.[1]",
+      "why": "Cette résilience renforce la sécurité énergétique chinoise, influençant les prix mondiaux des commodities et la stratégie des investisseurs en Asie.",
       "category": "Entreprises"
     },
     {
-      "title": "Nasdaq en hausse grâce aux technos et à l'IA malgré les tensions",
-      "summary": "Le 23 mars 2026, Wall Street a rebondi avec le Nasdaq en tête, porté par les valeurs technologiques et l'intelligence artificielle, notamment Meta. Cette performance contraste avec les tensions géopolitiques persistantes liées au conflit en Iran. Les investisseurs parient sur la résilience du secteur tech dans un environnement incertain.",
-      "why": "Le secteur technologique démontre sa capacité à surperformer, influençant les tendances des marchés mondiaux.",
+      "title": "Shutdown américain cause un ralentissement temporaire de la croissance",
+      "summary": "Le shutdown gouvernemental aux États-Unis provoque un ralentissement ponctuel de la croissance économique, bien que ce déficit d'activité soit récupérable dans les prochains mois après deux trimestres de forte expansion. Le marché de l'emploi montre une légère amélioration, soutenant une toile de fond favorable malgré les tensions. Ce phénomène n'altère pas fondamentalement la dynamique positive de l'économie américaine.[3]",
+      "why": "Ce ralentissement temporaire teste la résilience économique des États-Unis, avec des implications sur la confiance des investisseurs avant les élections midterms.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
+      "summary": "Le Nasdaq a mené la hausse des indices de Wall Street, porté par les valeurs technologiques et l'intelligence artificielle, contrastant avec les tensions géopolitiques mondiales. Meta et d'autres géants tech ont tiré les marchés vers le haut ce lundi. Ce rebond souligne la décorrélation sectorielle face aux chocs externes comme la guerre en Iran.[6]",
+      "why": "Cette performance des technos démontre la force du secteur IA aux États-Unis, offrant un refuge aux investisseurs au milieu de la volatilité globale.",
       "category": "Marchés"
     }
   ],
