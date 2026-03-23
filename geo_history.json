@@ -1,15 +1,5 @@
 [
   {
-    "date": "22/03/2026",
-    "titles": [
-      "Fermeture du détroit d’Ormuz qualifiée de plus grande menace énergétique de l’histoire par l’AIE",
-      "José Antonio Kast aligne le Chili sur les États-Unis pour contrer la Chine dans les métaux stratégiques",
-      "Le Nicaragua cède 8,5 % de son territoire à la Chine pour l’exploration minière",
-      "Offensive djihadiste majeure dans le nord-est du Nigeria avec soutien militaire américain",
-      "Ursula von der Leyen visite le Groenland pour renforcer les partenariats énergétiques arctiques"
-    ]
-  },
-  {
     "date": "23/03/2026",
     "titles": [
       "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
@@ -69,6 +59,16 @@
       "Escalade militaire Pakistan-Afghanistan : bombardement meurtrier à Kaboul",
       "Attaques iraniennes contre navires et infrastructures pétrolières du Golfe",
       "Frappes américano-israéliennes sur Natanz : confirmation et implications nucléaires"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
+      "Israël annonce une intensification considérable de ses frappes en Iran",
+      "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
+      "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "Au Népal, élections générales après les manifestations anticorruption de 2025"
     ]
   }
 ]
