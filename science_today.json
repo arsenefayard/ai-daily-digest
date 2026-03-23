@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Spintronique : passage à l'échelle industrielle pour une électronique plus rapide et sobre",
-      "summary": "Des chercheurs à Grenoble ont développé la ligne pilote Spinfab qui prépare la production industrielle de technologies spintroniques, exploitant les propriétés quantiques des électrons pour traiter l'information bien plus rapidement que l'électronique classique. Cette avancée, issue de la magnétorésistance géante découverte dans les années 1980, permet une consommation d'énergie nettement réduite. Elle ouvre la voie à des dispositifs électroniques révolutionnaires dans les ordinateurs et les capteurs.",
-      "why": "Cette transition industrielle pourrait transformer l'industrie des semi-conducteurs en rendant les appareils plus performants et éco-responsables, avec des applications immédiates dans l'informatique quantique et l'IA.",
-      "category": "Physique"
+      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
+      "summary": "Des chercheurs ont découvert une protéine spécifique qui joue un rôle clé dans le développement de l'addiction à la cocaïne chez les mammifères. Cette molécule interfère avec les circuits de récompense du cerveau, amplifiant les effets euphorisants de la drogue. Les implications incluent le développement de thérapies ciblées pour traiter les troubles addictifs.",
+      "why": "Cette avancée ouvre la voie à des traitements pharmacologiques précis contre l'addiction, un problème de santé publique majeur affectant des millions de personnes.",
+      "category": "Médecine"
     },
     {
-      "title": "Un métal rendu insubmersible par une innovation en science des matériaux",
-      "summary": "Des scientifiques ont mis au point un traitement de surface qui rend un métal parfaitement insubmersible, en repoussant l'eau de manière durable même sous pression. Cette propriété repose sur une nanostructure bio-inspirée qui piège une couche d'air autour du métal. Les tests montrent une stabilité exceptionnelle comparée aux revêtements hydrophobes existants.",
-      "why": "Cette découverte pourrait révolutionner les domaines maritimes, aéronautiques et industriels en prévenant la corrosion et en améliorant l'efficacité énergétique des navires et structures offshore.",
-      "category": "Chimie"
+      "title": "Océan de magma et atmosphère soufrée révélés sur une exoplanète",
+      "summary": "Une étude spectroscopique a détecté un océan de magma en surface et une atmosphère riche en soufre sur une exoplanète rocheuse lointaine. Ces conditions extrêmes suggèrent des processus géologiques intenses similaires à ceux de la Terre primitive. Les observations, réalisées avec un télescope spatial, affinent les modèles de formation planétaire.",
+      "why": "Elle enrichit notre compréhension des mondes habitables potentiels et des dynamiques atmosphériques dans d'autres systèmes stellaires.",
+      "category": "Espace"
     },
     {
-      "title": "Hérissons sensibles aux ultrasons : une avancée clé pour leur protection",
-      "summary": "Une étude a révélé que les hérissons perçoivent les ultrasons, une capacité sensorielle inattendue qui leur permet de détecter des prédateurs ou obstacles dans l'obscurité. Les expériences en laboratoire ont mesuré leurs réponses comportementales à des fréquences supérieures à 20 kHz. Cette sensibilité ouvre de nouvelles perspectives pour des méthodes de conservation non invasives.",
-      "why": "Comprendre cette aptitude aide à concevoir des barrières sonores efficaces contre les routes et machines, contribuant à stopper le déclin des populations de hérissons en Europe.",
+      "title": "Vie possible dans l'ombre radioactive d'Europe, lune de Jupiter",
+      "summary": "Des simulations montrent que des micro-organismes pourraient survivre dans les zones sombres d'Europe grâce à l'énergie fournie par le rayonnement de Jupiter. Ce phénomène, appelé radiolyse, produit des composés chimiques utilisables comme source d'énergie. Cela renforce l'intérêt pour une future mission d'exploration de cette lune glacée.",
+      "why": "Cette découverte élargit les critères de recherche de vie extraterrestre et justifie des investissements dans les missions vers les lunes joviennes.",
       "category": "Biologie"
     },
     {
-      "title": "Selon les mathématiques, la mode suit un cycle de 20 ans",
-      "summary": "Des mathématiciens ont modélisé les tendances vestimentaires sur des décennies de données, révélant un cycle récurrent de 20 ans dans les motifs, couleurs et coupes populaires. Leur analyse utilise des équations différentielles pour prédire les retours de styles passés. Ce modèle s'applique aussi à d'autres domaines culturels comme la musique.",
-      "why": "Ce cadre mathématique permet de prévoir les évolutions culturelles avec précision, aidant les industries de la mode et du design à anticiper les marchés.",
-      "category": "Maths"
+      "title": "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
+      "summary": "Une étude épidémiologique identifie des facteurs environnementaux et alimentaires, comme la consommation accrue de viandes transformées et de plastiques, comme causes principales de cette hausse. Les changements dans le microbiote intestinal accélèrent le développement tumoral chez les jeunes adultes. Des recommandations préventives sont désormais proposées pour les politiques de santé publique.",
+      "why": "Comprendre ces mécanismes permet d'implémenter des mesures préventives précoces, réduisant potentiellement l'incidence de ces cancers agressifs.",
+      "category": "Médecine"
     },
     {
-      "title": "Mission Artemis 2 : la NASA vise un lancement dès le 1er avril 2026",
-      "summary": "La NASA a annoncé un calendrier accéléré pour Artemis 2, avec un premier vol habité autour de la Lune prévu dès le 1er avril 2026, impliquant quatre astronautes. Cette mission testera le vaisseau Orion en conditions réelles après les retards dus à des problèmes techniques. Elle pave la voie pour un atterrissage humain sur la Lune en 2027.",
-      "why": "Ce jalon accéléré renforce la course à la Lune et stimule les partenariats internationaux, avec des retombées en technologies spatiales réutilisables.",
-      "category": "Espace"
+      "title": "Neutrino le plus énergétique détecté provient probablement d'un blazar",
+      "summary": "Le détecteur IceCube a capté le neutrino le plus énergétique jamais observé, avec une origine tracée vers un blazar actif à un milliard d'années-lumière. Cette particule cosmique confirme le rôle des noyaux galactiques actifs dans l'accélération de rayonnements de haute énergie. Les données soutiennent les théories sur la production de rayons cosmiques.",
+      "why": "Cette détection révolutionne notre connaissance des accélérateurs naturels de particules et des phénomènes extrêmes dans l'univers.",
+      "category": "Physique"
     }
   ],
   "updates": []
