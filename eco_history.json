@@ -1,16 +1,5 @@
 [
   {
-    "date": "22/03/2026",
-    "titles": [
-      "La guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
-      "Trump rétablit des droits de douane mondiaux de 15 % malgré l'annulation par la Cour suprême",
-      "Donald Trump nomme Kevin Warsh à la tête de la Réserve fédérale pour apaiser les tensions",
-      "Accélération des investissements des entreprises américaines malgré le ralentissement économique",
-      "Les principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
-      "Réserves pétrolières offshore s'épuisent rapidement à cause des perturbations au Golfe"
-    ]
-  },
-  {
     "date": "23/03/2026",
     "titles": [
       "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
@@ -68,6 +57,16 @@
       "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
       "Micron inaugure un second site de production de puces à Taïwan",
       "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "L'indice Chicago Fed et les dépenses de construction aux États-Unis surpassent les attentes",
+      "La confiance des consommateurs en zone euro montre des signes de redressement",
+      "Rapport EQT AB met en lumière la performance des investissements alternatifs",
+      "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
+      "Micron inaugure un second site de production de puces à Taïwan"
     ]
   }
 ]
