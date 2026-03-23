@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
-      "summary": "Au XIIIe et XIVe siècles, l'Empire mongol s'étendait sur une superficie record de près de 24 millions de kilomètres carrés, reliant l'Asie de l'Est à l'Europe de l'Est sans interruption territoriale. Sous Gengis Khan et ses successeurs, il intégrait des peuples et cultures variés grâce à un système de relais postaux efficace et à une tolérance relative des religions. Cette expansion fulgurante a favorisé les échanges commerciaux et culturels le long de la Route de la soie.",
-      "why": "Cet empire a profondément influencé les migrations, les épidémies comme la peste noire et les échanges globaux, façonnant la géopolitique eurasienne pour des siècles.",
+      "title": "Les carottes étaient originellement blanches",
+      "summary": "Les carottes sauvages, apparues il y a des millénaires, possédaient une couleur blanche ou grisâtre avant toute intervention humaine. Il y a environ 5 000 ans, les agriculteurs européens ont sélectionné des variétés aux racines violettes et jaunes pour des raisons gustatives et décoratives. Ce n'est qu'au XVIe siècle, sous l'influence des Néerlandais, que la carotte orange emblématique a été développée en hommage à la maison d'Orange, révolutionnant ainsi notre alimentation quotidienne.",
+      "why": "Cette évolution montre comment la sélection humaine a transformé un légume banal en un aliment iconique, illustrant l'impact de l'agriculture sur notre culture culinaire.",
+      "category": "Science pop"
+    },
+    {
+      "title": "L'invention des lunettes au XIIIe siècle",
+      "summary": "Les lunettes ont été inventées vers 1286 en Italie par des moines et des savants comme Salvino D'Armate, qui les posaient simplement sur le nez sans branches. Il a fallu attendre le milieu du XVIIIe siècle pour qu'un opticien anglais ajoute des branches courtes protégeant les tempes, surtout pour les perruquiers. Rapidement, ces branches s'allongent et se courbent derrière les oreilles, donnant naissance aux lunettes modernes que nous utilisons aujourd'hui.",
+      "why": "Cette invention a permis à des millions de personnes de compenser les défauts visuels, favorisant l'accès à la lecture et à la science au fil des siècles.",
       "category": "Histoire"
     },
     {
-      "title": "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
-      "summary": "À l'époque romaine, certaines femmes riches collectionnaient la sueur de leurs gladiateurs préférés après les combats, la mélangeant à de l'huile pour créer un parfum ou une crème corporelle prisée. Cette pratique reflétait l'idéalisation des athlètes comme symboles de virilité et de force physique dans la société antique. Elle illustre les codes de beauté et de séduction de l'Antiquité, bien éloignés des normes modernes.",
-      "why": "Cette anecdote révèle les contrastes saisissants des mœurs antiques et montre comment la beauté était liée à des éléments crus et physiques dans la Rome impériale.",
+      "title": "L'explosion de mélasse de Boston en 1919",
+      "summary": "Le 15 janvier 1919, une citerne contenant près de 9 millions de litres de mélasse a explosé à Boston en raison d'une hausse brutale de température. Cette vague visqueuse a déferlé à 56 km/h, détruisant des bâtiments, des véhicules et causant la mort de 21 personnes ainsi que 150 blessés. L'événement, connu comme la 'Great Molasses Flood', a inspiré des normes de sécurité industrielle plus strictes aux États-Unis.",
+      "why": "Cet accident insolite révèle les dangers inattendus des produits courants et a influencé les réglementations sur le stockage des liquides industriels.",
       "category": "Insolite"
     },
     {
-      "title": "Le mot 'sandwich' tire son origine d'un aristocrate anglais du XVIIIe siècle",
-      "summary": "Le terme 'sandwich' provient du quatrième comte de Sandwich, John Montagu, qui en 1762 demanda à être servi de viande entre deux tranches de pain pour jouer aux cartes sans interruption. Cette invention pratique s'est rapidement popularisée dans les clubs londoniens et au-delà, devenant un aliment mondial. Elle marque l'émergence de la street food et des repas nomades dans l'histoire culinaire occidentale.",
-      "why": "Cette étymologie ludique explique un mot quotidien et illustre comment une habitude personnelle peut transformer les habitudes alimentaires globales.",
-      "category": "Linguistique"
+      "title": "Le point Némo, lieu le plus isolé de la planète",
+      "summary": "Le point Némo, situé dans l'océan Pacifique sud, est le lieu le plus éloigné de toute terre émergée, à plus de 2 688 kilomètres des îles les plus proches. Nommé en référence au capitaine Nemo de Jules Verne, il sert de cimetière à des débris spatiaux et abrite une vie marine unique due à son isolement extrême. Cette zone, aussi appelée 'pôle de l'inaccessibilité maritime', défie notre perception de la solitude sur Terre.",
+      "why": "Il symbolise les mystères des océans inexplorés et met en lumière l'immensité de notre planète encore largement inconnue.",
+      "category": "Géographie"
     },
     {
-      "title": "Au XIXe siècle, les reines européennes rédigeaient un testament avant l'accouchement",
-      "summary": "Face aux risques élevés de mortalité maternelle, les mères des familles royales européennes du XIXe siècle préparaient un testament détaillé avant chaque accouchement, assurant la transmission de leurs biens en cas de décès. Cette pratique soulignait la précarité des naissances même au sommet de la société. Elle disparaît progressivement avec les avancées médicales de l'hygiène et de l'anesthésie.",
-      "why": "Ce fait met en lumière l'évolution des conditions obstétricales et l'importance des testaments dans l'histoire des dynasties européennes.",
+      "title": "Les pièges à mammouths les plus anciens du monde",
+      "summary": "Des archéologues ont découvert en Russie des pièges datant de 15 000 ans, constitués de fosses profondes utilisées pour chasser les mammouths. Ces structures, creusées dans le permafrost, représentent la plus ancienne preuve de chasse collective à grande échelle contre ces géants préhistoriques. Elles témoignent des techniques sophistiquées des humains du Paléolithique supérieur pour survivre dans un environnement hostile.",
+      "why": "Ces découvertes éclairent les stratégies de chasse ancestrales et enrichissent notre compréhension des origines de la technologie humaine.",
       "category": "Histoire"
-    },
-    {
-      "title": "En Grèce, les défunts sont exhumés après trois ans pour gérer l'espace des cimetières",
-      "summary": "Dans certaines régions de Grèce, notamment les grandes villes, les corps sont exhumés trois ans après l'enterrement pour être placés dans des ossuaires, en raison de la pénurie d'espace funéraire. Les familles conservent alors les os dans des boîtes personnelles, une tradition liée à la surpopulation et aux rites orthodoxes. Les coûts élevés des locations prolongées rendent cette pratique quasi obligatoire.",
-      "why": "Cette coutume contemporaine illustre les adaptations culturelles aux défis démographiques et spatiaux dans les sociétés modernes.",
-      "category": "Société"
     }
   ],
   "updates": []
