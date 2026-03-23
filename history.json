@@ -1,15 +1,5 @@
 [
   {
-    "date": "22/03/2026",
-    "titles": [
-      "Oregon adopte la première loi américaine sur les chatbots IA",
-      "Mistral et la DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
-      "xAI lance Grok 4.20 Beta 2 optimisé pour le codage",
-      "Meta acquiert Moltbook, réseau social pour bots IA",
-      "Alibaba lance les Qwen Glasses au MWC"
-    ]
-  },
-  {
     "date": "23/03/2026",
     "titles": [
       "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant Hollywood",
@@ -70,6 +60,16 @@
       "Sénatrice française Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
       "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
       "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA, doublant en deux ans"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
+      "Sénatrice Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
+      "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA générative, doublant en deux ans",
+      "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains pour le développement multi-agent",
+      "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant l'industrie hollywoodienne"
     ]
   }
 ]
