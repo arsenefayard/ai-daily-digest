@@ -3,32 +3,32 @@
   "news": [
     {
       "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment franchi leurs tours précédents au Miami Open, atteignant les huitièmes de finale malgré les interruptions fréquentes dues aux averses tropicales. Les deux stars du tennis mondial ont démontré une grande résilience et une forme physique irréprochable face à des adversaires solides. Ce Masters 1000 reste un rendez-vous clé pour accumuler des points au classement ATP et WTA en vue de Roland-Garros.",
-      "why": "Leur avancée renforce leur statut de favoris pour le titre et pourrait influencer les classements mondiaux avant les tournois sur terre battue.",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment franchi le cap du troisième tour au Miami Open, démontrant une résilience impressionnante face aux interruptions pluvieuses récurrentes. Alcaraz a dominé son adversaire avec un jeu solide au service, tandis que Swiatek a imposé sa puissance en fond de court. Ces performances les positionnent comme favoris pour les phases finales du tournoi.",
+      "why": "Ce Masters 1000 est un rendez-vous clé avant Roland-Garros et leurs avancées renforcent leur statut de numéros un mondiaux.",
       "category": "Tennis"
     },
     {
       "title": "Tour de Catalogne : Victoire au sprint lors de la première étape explosive",
-      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur au terme d'une arrivée groupée très disputée, marquant le début en fanfare de cette course par étapes majeure du calendrier UCI. Les favoris du classement général ont surveillé leurs rivaux de près sans incident majeur. Cette épreuve attire les meilleurs grimpeurs et sprinteurs mondiaux en préparation des classiques printanières.",
-      "why": "Elle lance la saison européenne des courses par étapes et teste la forme des leaders avant les Grands Tours.",
+      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur au terme d'une arrivée fulgurante, marquant le début en fanfare de cette course par étapes majeure. Les favoris du général ont surveillé leurs rivaux de près dans les montées, préservant leurs forces pour les journées à venir. Cette victoire inaugure une semaine intense pour le peloton mondial.",
+      "why": "Ce tour est un test crucial pour les leaders avant les classiques ardennaises et le Tour de France.",
       "category": "Autre"
     },
     {
       "title": "Ligue 1 : PSG s'impose et prend la tête après la 27e journée",
-      "summary": "Le Paris Saint-Germain a remporté son match décisif de la 27e journée de Ligue 1, lui permettant de reprendre la tête du classement devant ses poursuivants directs. Cette victoire consolide la position des Parisiens dans la course au titre et maintient la pression sur les autres prétendants. Les enjeux du maintien et des places européennes se précisent également avec ces résultats.",
-      "why": "Le PSG renforce son avance en championnat, impactant les qualifications pour la Ligue des Champions.",
+      "summary": "Le Paris Saint-Germain a remporté son match décisif de la 27e journée de Ligue 1, lui permettant de ravir la première place au classement. Les Parisiens ont su faire la différence en seconde période grâce à leur efficacité offensive. Cette victoire relance la course au titre dans un championnat très disputé.",
+      "why": "Le PSG renforce sa position de leader à un moment charnière de la saison, avec l'Europe en ligne de mire.",
       "category": "Football"
     },
     {
       "title": "TOP 14 : Résultats cruciaux de la 20e journée avec Montpellier et Racing en forme",
-      "summary": "La 20e journée du TOP 14 a vu Montpellier s'imposer à Clermont (20-17) et le Racing 92 écraser Castres (52-21), tandis que le Stade Français a dominé Toulon (47-26). Ces résultats renforcent les positions des équipes en haut du classement pour le podium final. La Rochelle et d'autres formations ont également gagné, rendant la course au titre plus serrée.",
-      "why": "Ces victoires décisives influencent la lutte pour les phases finales et les places européennes.",
+      "summary": "La 20e journée du TOP 14 a livré des résultats déterminants, où Montpellier et le Racing 92 ont brillé par leurs performances solides face à des adversaires directs. Ces victoires les propulsent dans la course au podium et au titre. Le bas de tableau s'est également resserré avec des surprises inattendues.",
+      "why": "Cette journée décisive oriente la lutte pour les phases finales et le maintien en élite.",
       "category": "Rugby"
     },
     {
-      "title": "Athlétisme : Records du monde en salle aux Championnats de Pologne",
-      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont conclus avec plusieurs records du monde battus dans des disciplines clés comme le sprint et les sauts. Des athlètes de renom ont brillé, repoussant les limites techniques et physiques de leur sport. Cet événement marque la fin de la saison hivernale sur une note historique.",
-      "why": "Les records mondiaux en salle boostent la visibilité de l'athlétisme et préfigurent les performances estivales.",
+      "title": "Championnats du monde d'athlétisme en salle : Records du monde battus à Torun",
+      "summary": "Les Championnats du monde d'athlétisme en salle à Torun en Pologne se sont conclus avec plusieurs records du monde en saut en hauteur et autres disciplines. Les athlètes stars ont repoussé les limites dans une ambiance électrique devant un public nombreux. Ces performances historiques marquent un renouveau pour l'athlétisme indoor.",
+      "why": "Ces records élèvent le niveau mondial et motivent les athlètes pour les compétitions estivales olympiques.",
       "category": "Autre"
     }
   ],
