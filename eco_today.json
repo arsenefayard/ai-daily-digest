@@ -1,44 +1,36 @@
 {
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "news": [
     {
-      "title": "La guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
-      "summary": "Depuis le 28 février 2026, les frappes américano-israéliennes contre l'Iran ont déclenché une crise énergétique majeure avec la fermeture effective du détroit d'Ormuz, voie de transit pour environ 20 % de l'offre mondiale de pétrole, soit quelque 14 millions de barils par jour de brut auxquels s'ajoutent 4 millions de barils de produits raffinés. Cet événement constitue l'un des plus importants chocs énergétiques de l'histoire économique moderne. Les répercussions sur la croissance et l'inflation varient selon la durée du conflit, avec des scénarios allant d'une capitulation rapide du régime iranien à un conflit prolongé impactant durablement les économies mondiales.",
-      "why": "Ce choc énergétique remet en cause la dynamique économique mondiale et pourrait forcer les banques centrales à relever leurs taux directeurs, notamment la BCE, tout en pesant sur la croissance économique des principales zones.",
+      "title": "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
+      "summary": "Le Nasdaq a mené la hausse des indices américains avec une progression notable, tirée par les performances de Meta et d'autres géants technologiques investissant massivement dans l'intelligence artificielle. Ce rebond intervient après des semaines de volatilité liées au conflit en Iran, offrant un contraste avec les baisses observées en Europe. Les investisseurs parient sur la résilience du secteur tech, qui représente désormais plus de 30% de la capitalisation du S&P 500.",
+      "why": "Ce mouvement souligne la divergence entre les marchés technologiques américains et les indices traditionnels affectés par l'énergie, influençant les allocations d'actifs mondiales.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Les stocks mondiaux de pétrole offshore s'épuisent après trois semaines de perturbations au Golfe",
+      "summary": "Les réserves pétrolières transportées par les pétroliers diminuent rapidement pour la troisième semaine consécutive en raison des blocages dans le Golfe persistant. Cela accentue la pression sur les prix du baril, qui dépassent désormais les 120 dollars, avec des impacts directs sur les coûts logistiques mondiaux. Les analystes prévoient une accélération de l'inflation énergétique si les flux ne reprennent pas d'ici fin mars.",
+      "why": "Cette épuisement des stocks offshore risque de prolonger le choc pétrolier, forçant les banques centrales à réviser leurs prévisions inflationnistes à la hausse.",
       "category": "Matières premières"
     },
     {
-      "title": "Trump rétablit des droits de douane mondiaux de 15 % malgré l'annulation par la Cour suprême",
-      "summary": "Après avoir subi un revers de la Cour suprême qui avait annulé ses précédents droits de douane, le président Donald Trump a annoncé la mise en place de droits de douane mondiaux de 15 % par un autre canal législatif. Cette mesure relance les tensions commerciales mondiales et crée une incertitude majeure sur les échanges internationaux. L'administration américaine poursuit ainsi sa stratégie de protectionnisme commercial pour financer sa course stratégique face à la Chine.",
-      "why": "Ces tarifs douaniers devraient alimenter l'inflation mondiale, notamment aux États-Unis où elle est prévue à plus de 3 % en 2026, et risquent de fragmenter davantage l'économie mondiale en créant des blocs commerciaux distincts.",
-      "category": "Politique monétaire"
-    },
-    {
-      "title": "Donald Trump nomme Kevin Warsh à la tête de la Réserve fédérale pour apaiser les tensions",
-      "summary": "Le président américain a nommé Kevin Warsh à la tête de la Réserve fédérale, remplaçant ainsi la pression qu'il exerçait précédemment pour une baisse des taux d'intérêt. Cette nomination rassure les marchés financiers qui voient en Warsh un défenseur de l'indépendance de la banque centrale américaine. Ce changement marque un apaisement relatif dans les relations entre l'exécutif américain et l'institution monétaire.",
-      "why": "Cette nomination est cruciale pour la stabilité des marchés financiers et pour maintenir la crédibilité de la politique monétaire américaine face aux défis inflationnistes et géopolitiques actuels.",
-      "category": "Banques"
-    },
-    {
-      "title": "Accélération des investissements des entreprises américaines malgré le ralentissement économique",
-      "summary": "Malgré un ralentissement ponctuel de la croissance lié à des facteurs temporaires, l'investissement des entreprises américaines s'accélère en ce début d'année 2026. Ce dynamisme reflète la confiance des entreprises dans la reprise économique à moyen terme et la solidité du marché du travail américain. Ce déficit d'activité temporaire devrait être récupéré au moins en partie au cours des prochains mois.",
-      "why": "Cette accélération de l'investissement privé est un signal positif pour la croissance économique américaine et contraste avec les incertitudes géopolitiques et inflationnistes, suggérant une résilience économique sous-jacente.",
+      "title": "La flambée des prix du carburant propulse les ventes de véhicules électriques en France",
+      "summary": "Les commandes de véhicules électriques chez les concessionnaires français ont explosé ces dernières semaines, portées par la hausse des prix du carburant due au conflit moyen-oriental. Contrairement aux aides passées, cette dynamique repose sur la réduction des coûts d'utilisation, avec une augmentation de 40% des précommandes chez les constructeurs. Cela stimule le secteur automobile vert et réduit la dépendance aux importations pétrolières.",
+      "why": "Ce basculement accélère la transition énergétique en Europe, avec des implications positives pour les entreprises comme Renault et Stellantis face à la crise des matières premières.",
       "category": "Entreprises"
     },
     {
-      "title": "Les principales banques anticipent une hausse des taux de la BCE en avril en raison des risques inflationnistes",
-      "summary": "JP Morgan, Morgan Stanley et Barclays anticipent toutes une première hausse des taux d'intérêt par la Banque centrale européenne en avril 2026, en raison des risques inflationnistes liés au conflit au Moyen-Orient et à la flambée des prix du pétrole. L'inflation en zone euro devrait approcher les 4,5 % selon les scénarios de conflit prolongé, obligeant la BCE à durcir sa politique monétaire. Cette hausse des taux marquerait un tournant majeur dans la politique monétaire européenne après une période d'assouplissement.",
-      "why": "Cette anticipation de hausse des taux de la BCE aura des répercussions importantes sur les conditions de financement en Europe, les marchés obligataires et les décisions d'investissement des entreprises et des ménages.",
-      "category": "Politique monétaire"
+      "title": "JP Morgan, Morgan Stanley et Barclays anticipent une hausse des taux BCE en avril",
+      "summary": "Les grandes banques d'investissement prévoient unanimement une première hausse des taux directeurs de la BCE en avril 2026, motivée par les risques inflationnistes accrus du conflit au Moyen-Orient. Les prix de l'énergie élevés pourraient pousser l'inflation zone euro au-delà de 4%, contraignant Francfort à resserrer sa politique monétaire. Cette anticipation pèse déjà sur les obligations souveraines européennes.",
+      "why": "Une telle décision renforcerait l'euro mais freinerait la croissance, marquant un tournant dans la lutte contre l'inflation importée.",
+      "category": "Banques"
+    },
+    {
+      "title": "CAC 40 chute de 3,11% à 7 665 points, DAX perd 8,62% depuis le début de l'année",
+      "summary": "L'indice CAC 40 a clôturé vendredi sur une baisse marquée de 3,11%, à 7 665 points, portant son repli annuel à près de 6%, tandis que le DAX accuse la plus forte perte en zone euro avec 8,62%. Cette séquence de trois semaines de volatilité est amplifiée par le conflit en Iran et les incertitudes géopolitiques. Les indices européens contrastent avec la résilience relative de Wall Street.",
+      "why": "Cette dégringolade reflète la vulnérabilité européenne aux chocs énergétiques, impactant les stratégies d'investissement et les flux de capitaux.",
+      "category": "Marchés"
     }
   ],
-  "updates": [
-    {
-      "title": "Réserves pétrolières offshore s'épuisent rapidement à cause des perturbations au Golfe",
-      "original": "Les réserves pétrolières offshore diminuent rapidement face à la persistance du conflit au Moyen-Orient",
-      "summary": "Les stocks mondiaux de pétrole à bord des pétroliers s'épuisent à vue d'œil depuis trois semaines consécutives en raison des perturbations des approvisionnements du Golfe. Cette situation s'aggrave avec la fermeture du détroit d'Ormuz, qui bloque environ 20 % de l'offre mondiale de pétrole. L'épuisement des réserves de stockage flottant crée une pression supplémentaire sur les prix du pétrole et limite la capacité des marchés à absorber les chocs d'approvisionnement.",
-      "why": "L'épuisement des réserves de stockage flottant réduit les amortisseurs du marché pétrolier et amplifie la volatilité des prix, ce qui aggrave les pressions inflationnistes mondiales et les risques pour la croissance économique.",
-      "category": "Matières premières"
-    }
-  ]
+  "updates": []
 }
