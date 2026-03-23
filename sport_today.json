@@ -1,35 +1,35 @@
 {
-  "date": "22/03/2026",
+  "date": "23/03/2026",
   "news": [
     {
-      "title": "Tom Pidcock remporte Milan-San Remo avec une attaque magistrale",
-      "summary": "Le Britannique Tom Pidcock a triomphé sur la classique Milan-San Remo ce 21 mars 2026 grâce à une attaque décisive dans les derniers kilomètres. Cette victoire prestigieuse sur la course la plus longue du World Tour (près de 300 km) confirme son talent sur les monuments cyclistes. Pidcock devance ses rivaux dans un sprint final tendu, renforçant sa position parmi l'élite mondiale.",
-      "why": "Milan-San Remo est l'un des cinq monuments du cyclisme, et cette victoire marque un tournant pour Pidcock dans la saison des classiques printanières.",
-      "category": "Autre"
-    },
-    {
-      "title": "UFC Fight Night : Amanda Lemos bat Michelle Robertson à Londres",
-      "summary": "Amanda Lemos a remporté le combat principal de l'UFC Fight Night du 21 mars 2026 à l'O2 Arena de Londres face à Michelle Robertson. La Brésilienne a dominé par sa striking précise et ses takedowns, obtenant une décision unanime des juges. Cette performance consolide sa place dans la division paille et ouvre des perspectives pour un title shot.",
-      "why": "Ce main event attire des dizaines de milliers de fans en Europe et influence directement les classements UFC pour les combats à venir.",
-      "category": "Autre"
-    },
-    {
-      "title": "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont facilement remporté leurs matchs d'entrée au Miami Open, Masters 1000 perturbé par des pluies abondantes depuis le 18 mars 2026. L'Espagnol a écrasé son adversaire en deux sets secs, tandis que la Polonaise a montré sa forme impeccable sur dur. Les organisateurs gèrent les interruptions, mais les favoris avancent sereinement vers les huitièmes.",
-      "why": "Le Miami Open est un des plus grands tournois ATP/WTA, et les performances des numéros 1 mondiaux dictent les favoris pour le reste de la saison sur dur.",
+      "title": "Miami Open : Carlos Alcaraz et Iga Swiatek passent au troisième tour malgré les interruptions pluvieuses",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont dominé leurs adversaires respectifs lors du troisième tour du Miami Open, un Masters 1000 perturbé par des pluies abondantes qui ont retardé plusieurs matchs. Alcaraz a impressionné par sa solidité au service tandis que Swiatek a confirmé sa forme exceptionnelle en simple féminin. Ces victoires les positionnent comme favoris pour les phases finales du tournoi.",
+      "why": "Ce Masters 1000 est un rendez-vous clé du circuit ATP et WTA avec des points cruciaux pour le classement mondial. Les performances d'Alcaraz et Swiatek renforcent leur statut de prétendants aux grands chelems.",
       "category": "Tennis"
     },
     {
-      "title": "TOP 14 : Résultats cruciaux de la 19e journée avec des chocs au sommet",
-      "summary": "La 19e journée du TOP 14 s'est disputée le 21 mars 2026, avec des victoires importantes pour les leaders du classement comme Toulouse et Bordeaux-Bègles. Ces résultats resserrent la course au titre et à la qualification en phases finales. Les promus ont surpris en battant des cadors, accentuant la compétitivité du championnat.",
-      "why": "Le TOP 14 est le championnat de rugby le plus relevé d'Europe, et cette journée définit les enjeux pour le sprint final vers les playoffs.",
+      "title": "Tour de Catalogne : Début explosif avec les sprinteurs en vedette",
+      "summary": "Le Tour de Catalogne a démarré le 23 mars avec une première étape remportée par un sprinteur au terme d'une arrivée groupée intense. Les favoris du classement général comme Tadej Pogacar ont surveillé leurs rivaux directs sans prendre de risques majeurs. Cette course UCI World Tour attire les meilleurs grimpeurs pour les étapes montagneuses à venir.",
+      "why": "Première grande course par étapes post-Milan-San Remo, elle définit les hiérarchies avant les classiques ardennaises. Les résultats influencent la préparation pour le Tour de France.",
+      "category": "Autre"
+    },
+    {
+      "title": "TOP 14 : La 20e journée s'annonce décisive pour le maintien et le podium",
+      "summary": "La 20e journée du TOP 14 oppose des équipes en lutte pour le maintien à celles visant le podium, avec des chocs comme Toulouse contre Bordeaux-Bègles. Les résultats de la 19e journée ont resserré le classement, augmentant la pression sur les clubs en bas de tableau. Ces matchs cruciaux se disputent ce week-end sous les yeux des diffuseurs CANAL+.",
+      "why": "Le TOP 14 est le championnat de rugby le plus relevé d'Europe. Les enjeux de cette journée peuvent redistribuer les cartes pour les phases finales.",
       "category": "Rugby"
     },
     {
-      "title": "Betclic Elite : La 23e journée voit des surprises en basketball français",
-      "summary": "La 23e journée de Betclic Elite, jouée le 21 mars 2026, a apporté son lot de surprises avec des victoires d'outsiders contre les favoris comme Monaco et l'ASVEL. Ces résultats bouleversent le haut du tableau et intensifient la lutte pour les playoffs. Les meneurs au classement doivent désormais se méfier de la concurrence montante.",
-      "why": "La Betclic Elite détermine les représentants français en Euroleague, et ces bouleversements impactent la scène européenne du basketball.",
+      "title": "Betclic Elite : La 24e journée voit Monaco creuser l'écart en tête",
+      "summary": "Monaco a consolidé sa place de leader lors de la 24e journée de Betclic Elite en battant un concurrent direct, tandis que des surprises ont secoué la course aux playoffs. Les équipes comme l'ASVEL et Nanterre luttent pour se qualifier dans un championnat ultra-compétitif. Ces résultats sont diffusés sur DAZN et impactent directement les ambitions européennes.",
+      "why": "Leader du basketball français, la Betclic Elite détermine les représentants en coupes d'Europe. L'avance de Monaco renforce sa position pour le titre.",
       "category": "Basketball"
+    },
+    {
+      "title": "Athlétisme : Les Championnats du monde en salle clôturés avec des records en Pologne",
+      "summary": "Les Championnats du monde d'athlétisme en salle à Torun se sont achevés le 22 mars avec plusieurs records nationaux et des médailles inattendues chez les sprinteurs. Les athlètes français ont brillé dans les épreuves de saut en hauteur et de 60m haies. Cet événement marque la fin de la saison hivernale avant les compétitions estivales.",
+      "why": "Ces mondiaux en salle valident les performances hivernales et préparent les Jeux Olympiques. Les records battus boostent la visibilité de l'athlétisme.",
+      "category": "Autre"
     }
   ],
   "updates": []
