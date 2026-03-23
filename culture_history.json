@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
-      "L'invention des lunettes : une évolution de treize siècles",
-      "Le mot « sandwich » doit son nom à un aristocrate du dix-huitième siècle",
-      "La plus ancienne œuvre d'art connue remonte à quarante-quatre mille ans en Indonésie",
-      "L'Empire mongol : le plus grand empire terrestre contigu de l'histoire"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Les carottes étaient originellement blanches",
       "L'imprimerie inventée par Gutenberg vers 1440",
       "Le Point Némo, lieu le plus isolé de la Terre",
@@ -67,6 +57,16 @@
       "La Joconde possède sa propre boîte aux lettres au Louvre",
       "Les 20 mythes grecs incontournables façonnent la culture occidentale",
       "Les empreintes digitales des jumeaux identiques sont uniques"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Les Romains utilisaient les chèvres pour torturer par chatouilles",
+      "Le logo de Nike a été acheté pour seulement 35 dollars",
+      "Pompei abritait déjà des restaurants à emporter",
+      "Une tablette sumérienne de 5000 ans contient une recette de bière",
+      "Les lapins détectent la mort de leurs proches dans les excréments des prédateurs"
     ]
   }
 ]
