@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "OpenAI lance GPT-5.4, premier modèle capable de contrôler nativement un ordinateur",
-      "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres optimisé pour Huawei",
-      "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour Microsoft 365",
-      "Elon Musk annonce Macrohard, fusion Tesla-xAI pour Digital Optimus",
-      "Alibaba lance les Qwen Glasses, lunettes IA abordables à 275 dollars au MWC"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
       "Meta acquiert Moltbook, réseau social pour bots IA, et intègre son équipe dans ses labs",
       "Sept IDE leaders se disputent le marché du développement multi-agent",
@@ -57,6 +47,17 @@
       "Sam Altman d'OpenAI appelle à une régulation urgente de l'IA en pleine expansion",
       "Explosion du marché des IDE pour développement multi-agent avec sept leaders en compétition",
       "Cour des comptes valide les progrès de la stratégie nationale IA française"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
+      "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
+      "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
+      "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
+      "Cour des comptes valide les progrès de la stratégie nationale IA française",
+      "Meta retarde Avocado à mai avec performances insuffisantes"
     ]
   },
   {
