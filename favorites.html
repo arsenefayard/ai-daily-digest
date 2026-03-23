@@ -207,6 +207,7 @@ function render() {
   root.querySelectorAll('button[data-key]').forEach(btn => {
     btn.addEventListener('click', () => {
       const k = btn.getAttribute('data-key');
+      if (!confirm('Supprimer ce favori ?')) return;
       try { localStorage.removeItem(k); } catch (_) {}
       render();
     });

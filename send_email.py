@@ -1,4 +1,4 @@
-﻿"""
+"""
 Script d'envoi de l'email combinÃ© â€” tous les digests
 """
 import html
@@ -130,7 +130,7 @@ def send_combined_email():
 
   <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <tr><td style="background:#2a2010;padding:0;"><a href="{base}/history.html" style="display:block;padding:18px 22px;text-decoration:none;color:inherit;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="4" style="background:#a07840;vertical-align:top;padding-right:14px;"></td><td style="padding-left:14px;"><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;margin-bottom:6px;">Histoire</div><div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">{cap_history}</div></td></tr></table></a></td></tr>
+  <tr><td style="background:#2a2010;padding:0;"><a href="{base}/history.html" style="display:block;padding:18px 22px;text-decoration:none;color:inherit;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><div style="font-size:8px;letter-spacing:2.5px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;margin-bottom:6px;">Histoire</div><div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">{cap_history}</div></td></tr></table></a></td></tr>
 
   <tr><td style="height:2px;background:#111;"></td></tr>
 
