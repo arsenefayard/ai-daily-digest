@@ -3,32 +3,32 @@
   "news": [
     {
       "title": "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
-      "summary": "Meta prévoit une réduction d'au moins 20% de ses effectifs pour compenser le coût massif de ses investissements dans les infrastructures d'intelligence artificielle et préparer des gains d'efficacité permis par les outils assistés par l'IA. Cette décision intervient après l'annonce du retard de son modèle Avocado à mai en raison de performances insuffisantes comparées à celles de Google, OpenAI et Anthropic. Le marché a réagi positivement avec un gain de 2,32% pour l'action Meta.",
-      "why": "Cette restructuration majeure reflète la transition critique des entreprises technologiques vers l'opérationnalisation réelle de l'IA, marquant le passage de l'euphorie des investissements à la nécessité de rentabilité et d'efficacité.",
+      "summary": "Meta prévoit de réduire ses effectifs d'au moins 20% pour compenser le coût massif de ses investissements dans les infrastructures d'intelligence artificielle et préparer des gains d'efficacité permis par les outils assistés par l'IA. Cette décision intervient après que la société a investi plus de 107 milliards de dollars dans ses capacités IA, notamment avec le retard de son modèle Avocado. Cette réduction représente un tournant stratégique majeur pour l'entreprise, signalant que les investissements IA doivent désormais générer des retours tangibles et des économies d'échelle.",
+      "why": "Cette annonce marque un changement de paradigme : après deux ans d'euphorie autour de l'IA générative, les grandes entreprises tech passent à l'optimisation opérationnelle et à la rentabilité réelle de leurs investissements massifs.",
       "category": "Entreprise"
     },
     {
       "title": "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
-      "summary": "Le directeur général de Nvidia présente de nouvelles puces et logiciels lors de la conférence annuelle des développeurs du groupe, confirmant la position centrale de l'IA dans l'agenda technologique. Nvidia a progressé de 1,62% en bourse, tandis que Foxconn, principal fabricant de serveurs pour Nvidia, a publié une prévision robuste de chiffre d'affaires trimestriel. Ces annonces renforcent l'importance stratégique de l'infrastructure matérielle dans l'écosystème IA.",
-      "why": "Les annonces de Nvidia sur les puces et logiciels IA sont cruciales car elles définissent les capacités techniques disponibles pour tous les développeurs et entreprises déployant des systèmes d'IA à grande échelle.",
+      "summary": "Le directeur général de Nvidia présente de nouvelles puces et logiciels lors de la conférence annuelle des développeurs du groupe, confirmant que l'IA reste au centre de l'attention des marchés technologiques. Ces annonces interviennent dans un contexte où Nvidia consolide sa position dominante dans l'infrastructure IA, avec une progression de 1,62% de ses actions. Le fabricant de semi-conducteurs taïwanais Foxconn, principal fabricant de serveurs Nvidia, a également publié une prévision robuste de chiffre d'affaires trimestriel.",
+      "why": "Nvidia reste le fournisseur critique de l'infrastructure IA mondiale, et ses annonces de nouvelles puces et logiciels façonnent directement la trajectoire technologique de tous les acteurs de l'IA.",
       "category": "Modèle"
     },
     {
       "title": "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
-      "summary": "L'industrie bascule de l'IA générative « outil » (sollicitée par l'utilisateur) à l'IA « agentique » (qui agit de manière autonome et responsable), marquant un changement de paradigme fondamental. L'IA agentique devient le standard opérationnel en 2026, ne se contentant plus de suggérer des réponses mais prenant des décisions et exécutant des workflows complexes au sein des entreprises. Ce passage exige une infrastructure de confiance et une maîtrise des données que seule l'opérationnalisation immédiate permet de construire.",
-      "why": "Cette transition représente la fin de l'ère de l'IA récréative et marque l'urgence de l'industrialisation réelle, où les entreprises doivent passer de démonstrations techniques à des systèmes autonomes fiables en production.",
+      "summary": "L'industrie bascule définitivement de l'IA générative « outil » (que l'on sollicite) à l'IA « agentique » (qui agit de manière autonome et responsable), avec l'IA agentique devenant le standard opérationnel en 2026. Les premiers agents véritablement autonomes prennent en charge l'escalade d'incidents, la résolution de dossiers simples, l'analyse de risques et la prise de décision en logistique ou en service client. Ce changement ne provient pas d'un modèle révolutionnaire, mais d'un besoin fondamental : l'accès permanent à des données fraîches, compréhensibles et traçables en temps réel.",
+      "why": "Ce passage de l'IA comme assistant à l'IA comme agent autonome représente une transformation structurelle majeure de l'économie numérique, exigeant une infrastructure de confiance et une maîtrise des données sans précédent.",
       "category": "Recherche"
     },
     {
       "title": "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
-      "summary": "Selon le baromètre du numérique 2026 du Crédoc, la diffusion de l'IA générative en France est passée de 20% en 2023 à 48% en 2025, une adoption deux fois plus rapide que celle d'internet qui avait nécessité cinq ans pour passer de 23% à 55%. L'essor concerne principalement les 18-24 ans et, dans une moindre mesure, les 25-39 ans. Cependant, 52% des personnes demeurent méfiantes vis-à-vis de l'IA, bien que la part des personnes confiantes progresse de 5 points en un an.",
-      "why": "Cette statistique démontre la pénétration extraordinaire de l'IA dans la vie quotidienne des Français et l'importance croissante de la confiance publique pour l'adoption durable de ces technologies.",
+      "summary": "Selon le Baromètre du numérique 2026, la diffusion de l'IA générative en France est passée de 20% en 2023 à 48% en 2025, représentant un doublement en seulement deux ans. Cette adoption massive place la France parmi les pays les plus avancés en matière d'utilisation de l'IA générative, surpassant la courbe d'adoption d'internet qui avait nécessité cinq ans pour passer de 23% à des niveaux comparables. Cette croissance exponentielle reflète une intégration profonde de l'IA dans les usages quotidiens des Français.",
+      "why": "Cette statistique démontre que l'IA générative n'est plus une technologie de niche mais une infrastructure sociale et économique centrale, avec des implications majeures pour la compétitivité française et la transformation des métiers.",
       "category": "Application"
     },
     {
       "title": "Cour des comptes valide les progrès de la stratégie nationale IA française",
-      "summary": "La Cour des comptes confirme que la stratégie nationale pour l'intelligence artificielle, lancée en 2018, a connu des débuts contrastés mais encourageants. Le nombre de startups françaises en IA a doublé depuis 2021, passant à 1 000 en 2025, et la France est désormais en mesure de se comparer aux acteurs américains et chinois du secteur. Cette validation officielle reconnaît les progrès substantiels réalisés dans l'écosystème IA français.",
-      "why": "Cette validation de la Cour des comptes est importante car elle confirme que la France construit une capacité technologique autonome en IA et peut rivaliser avec les puissances technologiques mondiales.",
+      "summary": "La Cour des comptes a validé les progrès réalisés dans le cadre de la stratégie nationale d'intelligence artificielle française, confirmant que les investissements publics et les initiatives gouvernementales produisent des résultats tangibles. Cette validation intervient dans un contexte où la France déploie un assistant IA souverain pour 30 000 agents de l'État en partenariat avec Mistral et la DINUM, et où l'adoption de l'IA générative atteint des niveaux record. Cette approbation officielle renforce la légitimité et la continuité des politiques IA françaises.",
+      "why": "Cette validation institutionnelle de la stratégie IA française est cruciale pour maintenir les investissements publics et privés, et pour positionner la France comme acteur souverain et compétitif dans la course mondiale à l'IA.",
       "category": "Régulation"
     }
   ],
@@ -36,8 +36,8 @@
     {
       "title": "Meta retarde Avocado à mai avec performances insuffisantes",
       "original": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
-      "summary": "Le retard d'Avocado à mai minimum est confirmé, avec des performances inférieures à celles de Google, OpenAI et Anthropic en raisonnement et code. Cet aveu embarrassant intervient après 107 milliards de dollars d'investissements de Meta dans l'IA, mettant en lumière l'écart entre les ambitions et les résultats concrets.",
-      "why": "Ce retard significatif illustre les défis réels de la course à l'IA et les limites des investissements massifs sans résultats technologiques à la hauteur, renforçant la nécessité pour Meta de restructurer ses opérations.",
+      "summary": "Le retard du modèle Avocado de Meta à mai est confirmé, avec des performances inférieures à celles de Google, OpenAI et Anthropic en raisonnement et code. Cet aveu embarrassant intervient après que Meta a investi plus de 107 milliards de dollars dans ses capacités IA, et coïncide avec l'annonce de réductions d'effectifs de 20% pour optimiser les investissements IA. Le retard d'Avocado souligne les défis majeurs auxquels Meta fait face pour rattraper ses concurrents dans la course aux modèles de pointe.",
+      "why": "Ce retard prolongé et cette admission publique de performances insuffisantes affaiblissent la position concurrentielle de Meta face à OpenAI et Anthropic, et justifient les mesures drastiques de réduction de coûts annoncées par l'entreprise.",
       "category": "Modèle"
     }
   ]
