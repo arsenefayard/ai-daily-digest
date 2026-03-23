@@ -2,35 +2,43 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Bruno Mars publie enfin The Romantic après dix ans d'attente",
-      "summary": "Bruno Mars vient de dévoiler son nouvel album The Romantic, un événement très attendu par les fans après une décennie sans sortie majeure de sa part. Cet opus explore des sonorités R&B et funk revisitées avec des collaborations surprises qui enrichissent sa palette musicale habituelle. Les critiques soulignent déjà son potentiel à dominer les charts mondiaux grâce à des singles accrocheurs et une production soignée.",
-      "why": "Cette sortie marque le retour triomphal d'un des plus grands showmen de la pop, susceptible de relancer les débats sur l'évolution de la musique mainstream.",
-      "category": "Pop"
+      "title": "L2B en concert à l'Accor Arena de Paris les 26 et 27 mars 2026",
+      "summary": "Le trio de rap francophone L2B, composé de KLN, IDS et D2, annonce deux concerts consécutifs à l'Accor Arena de Paris les jeudi 26 et vendredi 27 mars 2026. Ces dates permettront au groupe de présenter en live son deuxième album studio intitulé « Nés pour briller » devant un public parisien. Cette annonce intervient alors que L2B est considéré comme l'un des groupes les plus prometteurs de la scène rap francophone actuelle.",
+      "why": "L2B représente une nouvelle génération du rap français et ces concerts à l'Accor Arena, l'une des plus grandes salles de Paris, témoignent de leur montée en puissance et de leur capacité à attirer un public important.",
+      "category": "Hip-Hop"
     },
     {
-      "title": "Carpenter Brut lâche Leather Terror, son album le plus sombre à ce jour",
-      "summary": "Le producteur français Carpenter Brut sort Leather Terror, un disque immersif dans l'univers synthwave horrifique qui pousse plus loin que jamais ses expérimentations sonores. Enregistré avec des invités spéciaux issus de la scène metal, l'album mêle riffs heavy et beats électroniques pour une expérience cinématographique intense. Les premiers extraits ont déjà conquis la communauté électro et metal underground.",
-      "why": "Cet opus renforce la position de Carpenter Brut comme pionnier du synthwave moderne et pourrait influencer une nouvelle vague de crossovers entre genres.",
-      "category": "Électro"
-    },
-    {
-      "title": "Archive fête ses 30 ans avec le nouvel album Glass Minds",
-      "summary": "Le groupe britannique Archive célèbre trois décennies de carrière avec Glass Minds, un album ambitieux qui fusionne trip-hop, rock progressif et orchestrations électroniques. Ce disque, annoncé comme un retour aux sources tout en innovant, inclut des titres épiques parfaits pour leurs lives immersifs. Les fans attendent avec impatience une tournée qui pourrait suivre cette sortie marquante.",
-      "why": "À l'occasion de cet anniversaire, Glass Minds pourrait raviver l'intérêt pour Archive auprès d'un public plus large, consolidant leur statut culte.",
+      "title": "Suede de retour à l'Olympia de Paris le 14 mars avec le nouvel album « Antidepressants »",
+      "summary": "Le groupe de rock britannique Suede annonce son retour sur scène avec un nouvel opus intitulé « Antidepressants » et une tournée européenne qui passe par la France. Le groupe se produira à l'Olympia de Paris le samedi 14 mars 2026, offrant aux fans français l'occasion de découvrir les nouvelles compositions du groupe. Cette date s'inscrit dans une tournée internationale qui marque le retour du groupe sur les routes.",
+      "why": "Le retour de Suede avec un nouvel album et une tournée européenne est un événement majeur pour les fans de rock britannique, et la date parisienne à l'Olympia est particulièrement attendue.",
       "category": "Rock"
     },
     {
-      "title": "Bleakness dévoile Blurred Visions, enregistré dans le Kentucky",
-      "summary": "Le groupe de post-metal Bleakness publie Blurred Visions, un album capté dans un studio isolé du Kentucky qui capture une intensité brute et atmosphérique. Avec des textures noisy et des dynamiques extrêmes, cet opus explore des thèmes sombres à travers une production organique et puissante. Il s'annonce comme un incontournable pour les amateurs de metal expérimental.",
-      "why": "Blurred Visions positionne Bleakness comme une force montante dans le post-metal, avec un son unique qui pourrait attirer l'attention des labels internationaux.",
-      "category": "Métal"
+      "title": "dEUS à l'Olympia de Paris le 13 mars 2026 pour célébrer ses classiques",
+      "summary": "Le groupe belge dEUS annonce son retour sur scène avec une série de concerts au printemps 2026 en Europe, dont trois dates en France. À Paris, le groupe dirigé par Tom Barman se produira à l'Olympia le vendredi 13 mars 2026 pour célébrer deux de ses albums emblématiques, « Worst Case Scenario » et « In a Bar, Under the Sea ». Cette tournée marque le retour du groupe belge après une période d'absence.",
+      "why": "Le retour de dEUS, groupe culte de la scène rock alternative européenne, avec un focus sur ses albums les plus importants, constitue un événement significatif pour les amateurs de rock indépendant et alternatif.",
+      "category": "Rock"
     },
     {
-      "title": "Monroe désignée représentante de la France à l'Eurovision 2026",
-      "summary": "La chanteuse française Monroe est officiellement choisie pour porter les couleurs de la France au concours de l'Eurovision 2026 avec une chanson pop percutante encore en préparation. Issue de la scène indépendante, elle apporte une fraîcheur électropop à la délégation tricolore après des années de sélections controversées. Les bookmakers la placent déjà parmi les favoris potentiels.",
-      "why": "Cette sélection inattendue pourrait revitaliser l'intérêt français pour l'Eurovision et propulser Monroe vers une carrière internationale.",
-      "category": "Pop"
+      "title": "Festival International de Choro de Paris du 27 au 29 mars 2026",
+      "summary": "Le Festival International de Choro de Paris se déroulera du 27 au 29 mars 2026 dans la capitale française, célébrant le choro, ce genre musical brésilien traditionnel caractérisé par son instrumentation acoustique et ses mélodies complexes. Ce festival réunit musiciens et passionnés du choro pour trois jours de concerts et de découvertes musicales. L'événement offre une plateforme importante pour la promotion de ce patrimoine musical brésilien en France.",
+      "why": "Ce festival représente une opportunité rare en France de découvrir et célébrer le choro, un genre musical brésilien riche et historiquement important, souvent méconnu du grand public français.",
+      "category": "Autre"
+    },
+    {
+      "title": "Festival Diapason Megève du 26 au 29 mars 2026 en Haute-Savoie",
+      "summary": "Le Festival Diapason Megève se tiendra du 26 au 29 mars 2026 dans la station de montagne de Megève en Haute-Savoie. Cet événement musical de quatre jours propose une programmation variée dans un cadre alpin prestigieux. Le festival attire musiciens et mélomanes en quête d'une expérience musicale dans un environnement montagnard unique.",
+      "why": "Ce festival offre une alternative musicale originale en région alpine, combinant la découverte musicale avec le cadre exceptionnel de Megève, attirant un public à la recherche d'expériences culturelles hors des sentiers battus.",
+      "category": "Classique"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Kreator, Carcass, Exodus et Nails réunis au Zénith de Paris le 24 mars 2026",
+      "original": "In Dread We Trust : festival metal à Cluses les 27 et 28 mars",
+      "summary": "Une soirée metal majeure se prépare à Paris avec la réunion exceptionnelle de quatre géants du metal : Kreator (Allemagne), Carcass (Royaume-Uni), Exodus et Nails (États-Unis). Ce concert aura lieu le mardi 24 mars 2026 au Zénith de La Villette, offrant aux fans parisiens une opportunité rare de voir ces quatre formations légendaires sur une même affiche. Cet événement représente l'un des rendez-vous metal les plus importants du printemps 2026 en France.",
+      "why": "Cette réunion exceptionnelle de quatre formations majeures du metal sur une même soirée au Zénith de Paris constitue un événement historique pour la scène metal française et attire les fans de toute l'Europe.",
+      "category": "Métal"
+    }
+  ]
 }
