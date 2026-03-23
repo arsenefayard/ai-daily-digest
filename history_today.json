@@ -1,33 +1,33 @@
 {
   "date": "23/03/2026",
   "subject": {
-    "name": "Premier bombardement longue portée sur Paris par le Pariser Geschütz",
-    "type": "Événement",
-    "period": "23 mars 1918 · Première Guerre mondiale",
-    "context": "Au printemps 1918, l'armée allemande, en pleine offensive sur le front occidental, déploie pour la première fois un canon géant surnommé Pariser Geschütz, positionné à Crepy-en-Laonnais à 120 kilomètres de Paris. Ce 23 mars, entre 7 heures et midi, il tire une vingtaine d'obus sur la capitale française sans survol d'avions, semant la panique car l'origine reste mystérieuse pour les autorités alliées. Baptisé à tort Grosse Bertha par les Français, cet engin révolutionnaire surpasse en létalité les zeppelins et bombardiers Gotha combinés, causant des centaines de morts civils au total. Son secret technique, impliquant une trajectoire balistique extrême, marque une avancée dans l'artillerie lourde qui influence les futures doctrines militaires.",
+    "name": "Trêve de Bordeaux",
+    "type": "Traité",
+    "period": "1357 · Guerre de Cent Ans (Moyen Âge tardif)",
+    "context": "La trêve de Bordeaux est signée le 23 mars 1357 dans un contexte de crise profonde pour le royaume de France après la défaite catastrophique de Poitiers en septembre 1356, où le roi Jean II le Bon fut capturé par les Anglais menés par le Prince Noir, Édouard de Woodstock. Ce traité, négocié par le dauphin Charles (futur Charles V), visait à suspendre les hostilités et à obtenir la libération du roi contre une rançon initiale de 4 millions d'écus d'or, tout en cédant des territoires comme la Guyenne et le Poitou à l'Angleterre. Bien que temporaire, elle permit à la France de reprendre son souffle face à la Jacquerie, soulèvement paysan contre la noblesse, et aux Grandes compagnies, bandes de mercenaires désoeuvrés semant le chaos. Peu connu du grand public, ce pacte révèle les intrigues diplomatiques et les faiblesses internes qui ont prolongé la guerre de Cent Ans.",
     "dates": [
       {
-        "year": "1914",
-        "label": "Déclenchement de la Première Guerre mondiale"
+        "year": "1356",
+        "label": "Bataille de Poitiers : capture de Jean II le Bon par le Prince Noir"
       },
       {
-        "year": "1916",
-        "label": "Début de la bataille de Verdun, contexte d'usure mutuelle"
+        "year": "1357",
+        "label": "23 mars : signature de la trêve de Bordeaux pour rançon et cessez-le-feu"
       },
       {
-        "year": "1918",
-        "label": "Offensive allemande du printemps sur le front occidental"
+        "year": "1358",
+        "label": "Éclatement de la Jacquerie, révolte paysanne en Île-de-France"
       },
       {
-        "year": "1918",
-        "label": "23 mars : premier tir du Pariser Geschütz sur Paris"
+        "year": "1360",
+        "label": "Traité de Brétigny : libération définitive de Jean II et nouvelles cessions territoriales"
       },
       {
-        "year": "1918",
-        "label": "Août : contre-offensive alliée qui repousse les Allemands"
+        "year": "1364",
+        "label": "Mort de Jean II après son retour volontaire en captivité anglaise"
       }
     ],
-    "legacy": "Ce bombardement inaugure l'ère des armes à longue portée stratégique, préfigurant les missiles balistiques modernes et les frappes de précision. Il cause une terreur psychologique durable sur les populations civiles, modifiant les perceptions de la guerre totale. Son impact technique inspire les développements d'artillerie du XXe siècle, comme les canons géants de la Seconde Guerre mondiale.",
-    "why": "Ce canon invisible tua plus de Parisiens que tous les raids aériens allemands réunis, démontrant que la terreur moderne naît souvent de l'invisible et non du spectaculaire."
+    "legacy": "La trêve de Bordeaux marqua un tournant dans la guerre de Cent Ans en démontrant l'efficacité temporaire de la diplomatie face à la suprématie militaire anglaise, influençant les futures négociations comme celle de Brétigny. Elle contribua à stabiliser le royaume, permettant à Charles V de réorganiser l'armée et de lancer la reconquête française au siècle suivant. Son héritage perdure dans l'étude des médiations royales et des rançons princières comme instruments de pouvoir.",
+    "why": "Cette trêve illustre comment une défaite humiliante peut paradoxalement renforcer un État par la diplomatie, une leçon intemporelle pour les crises géopolitiques actuelles où les négociations sauvent plus que les armes."
   }
 }
