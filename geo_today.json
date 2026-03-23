@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
-      "summary": "Les États-Unis et Israël ont bombardé le complexe nucléaire de Natanz, situé au sud de Téhéran, le 21 mars, selon l'Organisation iranienne de l'énergie atomique. Cette opération s'inscrit dans une campagne plus large visant à détruire les capacités nucléaires et balistiques iraniennes, après des frappes initiales contre des centres de commandement des Gardiens de la Révolution. Les implications géopolitiques incluent un risque d'escalade régionale et une perturbation potentielle des marchés énergétiques mondiaux.",
-      "why": "Cette attaque directe sur des installations nucléaires marque une intensification du conflit et pourrait précipiter un changement de régime à Téhéran, redessinant les équilibres au Moyen-Orient.",
+      "title": "Israël annonce une intensification considérable de ses frappes en Iran",
+      "summary": "Le ministre israélien de la Défense a déclaré lors d'une réunion d'évaluation que l'intensité des frappes contre l'Iran augmentera considérablement dans les prochains jours, potentiellement dès demain. Ces opérations visent à neutraliser les capacités militaires et nucléaires iraniennes dans le cadre de l'escalade régionale. Cette décision risque d'élargir le conflit au Moyen-Orient en impliquant davantage d'acteurs régionaux.",
+      "why": "Cette annonce marque une escalade majeure qui pourrait prolonger le conflit et menacer la stabilité énergétique mondiale via le détroit d'Ormuz.",
       "category": "Conflit"
     },
     {
-      "title": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Le président américain Donald Trump a déclaré que les États-Unis sont sur le point d'atteindre leurs objectifs et prévoient de diminuer graduellement leurs efforts militaires au Moyen-Orient face au régime iranien. Cette annonce intervient après des semaines de frappes intensives, avec des déclarations contradictoires sur la durée de l'opération initialement prévue pour six semaines. Géopolitiquement, cela pourrait signaler une désescalade potentielle ou une phase de consolidation avant une nouvelle offensive.",
-      "why": "Ce revirement rhétorique de Trump influence les marchés énergétiques et les alliances régionales, en offrant un espoir de stabilisation tout en maintenant la pression sur l'Iran.",
-      "category": "Conflit"
+      "title": "Coût record des opérations militaires américaines contre l'Iran dépassant 27 milliards de dollars",
+      "summary": "Les dépenses américaines pour l'opération contre l'Iran ont franchi les 27 milliards de dollars en un mois, surpassant déjà le début de la guerre en Irak de 2003 selon Newsweek. Le Pentagone réclame 200 milliards supplémentaires pour poursuivre la campagne, tandis que les stocks de munitions nécessiteront un an pour être reconstitués. Cette pression budgétaire complique les négociations au Congrès et accentue les tensions internes aux États-Unis.",
+      "why": "Ce fardeau financier record souligne les limites des capacités militaires américaines et pourrait influencer les décisions stratégiques de l'administration Trump.",
+      "category": "Économie"
     },
     {
-      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "summary": "La Marine nationale française a intercepté un navire présumé faire partie de la flotte fantôme russe, utilisée pour contourner les sanctions internationales. Cette opération renforce les efforts européens contre le contournement des embargos sur le pétrole russe. Elle s'inscrit dans un contexte de tensions persistantes liées à la guerre en Ukraine et aux flux énergétiques perturbés.",
-      "why": "Cette action navale européenne démontre une fermeté accrue contre la Russie et protège l'unité de la politique de sanctions de l'UE.",
-      "category": "Sécurité"
+      "title": "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Le président américain a indiqué que les États-Unis sont sur le point d'atteindre leurs objectifs et envisagent une réduction des efforts militaires au Moyen-Orient face au régime iranien. Cette déclaration survient après des frappes sur le site nucléaire de Natanz et intervient dans un contexte de déclarations contradictoires sur la durée de l'opération initialement prévue pour six semaines. Elle reflète une possible stratégie de désescalade malgré les pressions alliées.",
+      "why": "Ce revirement potentiel pourrait apaiser les tensions régionales mais risque de signaler une faiblesse perçue face à l'Iran et ses alliés.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
-      "summary": "Un tanker russe battant pavillon inconnu a dérivé dans les eaux libyennes, provoquant des craintes d'une marée noire majeure en Méditerranée. Les autorités libyennes et internationales surveillent la situation de près en raison des risques pour l'environnement et la navigation. Géopolitiquement, cela met en lumière les vulnérabilités des infrastructures énergétiques russes et les tensions en Libye.",
-      "why": "Cet incident pourrait aggraver les instabilités en Méditerranée et compliquer les efforts de stabilisation en Libye, avec des répercussions sur les routes maritimes européennes.",
+      "title": "Japon puise dans ses réserves stratégiques de pétrole en raison de la crise du détroit d'Ormuz",
+      "summary": "Tokyo a annoncé débuter l'utilisation de ses réserves stratégiques de pétrole depuis lundi pour contrer les perturbations causées par le blocage du détroit d'Ormuz par l'Iran. Cette mesure vise à stabiliser les approvisionnements énergétiques face à la paralysie d'une grande partie du commerce international pétrolier. Elle met en lumière la vulnérabilité des importateurs asiatiques majeurs dans cette crise géopolitique.",
+      "why": "Cette action illustre l'impact mondial de la crise iranienne sur l'économie énergétique et pourrait entraîner une hausse des prix mondiaux du pétrole.",
       "category": "Énergie"
     },
     {
-      "title": "Le Kazakhstan adopte une nouvelle Constitution lors d'un référendum historique",
-      "summary": "Les Kazakhs ont voté une nouvelle Constitution le 21 mars, marquant un tournant politique vers plus de décentralisation et de réformes post-Karimov. Ce changement vise à stabiliser le pays riche en ressources énergétiques face aux pressions régionales de la Russie et de la Chine. Les enjeux incluent une réorientation potentielle des alliances eurasiatiques.",
-      "why": "Cette réforme constitutionnelle renforce la souveraineté kazakhe et pourrait influencer les dynamiques énergétiques en Asie centrale, au-delà de l'influence russe.",
-      "category": "Diplomatie"
+      "title": "Bombardement pakistanais sur un centre de réhabilitation en Afghanistan fait 400 morts",
+      "summary": "Le Pakistan a bombardé un centre de réhabilitation pour toxicomanes à Kaboul, causant 400 morts et 250 blessés, marquant un nouveau pas dans l'escalade militaire entre Islamabad et Kaboul. Cet incident frontalier aggrave les tensions historiques entre les deux pays, alimentées par des différends sur les talibans et la sécurité régionale. Il risque de déstabiliser davantage l'Asie centrale en attirant l'attention internationale.",
+      "why": "Cette attaque massive pourrait dégénérer en conflit ouvert entre puissances nucléaires, menaçant la sécurité en Asie du Sud.",
+      "category": "Sécurité"
     }
   ],
   "updates": []
