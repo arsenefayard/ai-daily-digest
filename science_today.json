@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Doolysaurus, nouveau dinosaure juvénile découvert en Corée du Sud",
-      "summary": "Un dinosaure juvénile a été découvert en Corée du Sud et nommé Doolysaurus en hommage à un personnage culte de la culture populaire. Son crâne, resté invisible jusqu'à un scanner avancé, a révélé de nouvelles données morphologiques sur les dinosaures asiatiques du Crétacé. Cette trouvaille enrichit la compréhension de la croissance et de la diversité des théropodes dans cette région.",
-      "why": "Cette découverte fournit des insights inédits sur l'évolution des dinosaures en Asie, aidant à reconstruire leur phylogénie et leur écologie.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Hérissons sensibles aux ultrasons, une avancée pour leur protection",
-      "summary": "Des chercheurs ont démontré que les hérissons perçoivent les ultrasons, une capacité sensorielle inattendue chez ce mammifère. Cette sensibilité pourrait expliquer leurs réactions à certains bruits environnementaux modernes issus du trafic ou des éoliennes. Les résultats, publiés récemment, ouvrent des voies pour adapter les mesures de conservation en évitant les fréquences nocives.",
-      "why": "Cette percée permet de mieux protéger les hérissons menacés en modifiant les impacts anthropiques sonores sur leur habitat.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Mission Artemis 2 : la NASA vise un lancement dès le 1er avril",
-      "summary": "La NASA a annoncé viser un lancement de la mission Artemis 2 dès le 1er avril 2026, marquant le premier vol habité autour de la Lune depuis Apollo. Cette mission testera les systèmes du vaisseau Orion avec un équipage de quatre astronautes. Elle pave la voie pour les alunissages futurs et l'établissement d'une présence humaine durable sur la Lune.",
-      "why": "Ce jalon accélère le programme lunaire, renforçant les capacités d'exploration spatiale et les partenariats internationaux.",
+      "title": "Découverte de minéraux réox sensibles sur Mars par Perseverance",
+      "summary": "L'équipe scientifique de Perseverance a identifié pour la première fois un ensemble complet de minéraux dits réox sensibles dans le cratère Jezero, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique. Cette découverte révèle des processus géologiques complexes impliquant des interactions prolongées entre l'eau et la roche, similaires à ceux observés sur Terre. Ces minéraux fournissent des indices cruciaux sur l'histoire hydrogéologique ancienne de Mars et sur les conditions qui auraient pu favoriser l'émergence de la vie.",
+      "why": "Cette découverte approfondit notre compréhension de l'habitabilité passée de Mars et des processus chimiques qui ont façonné la planète rouge, ouvrant de nouvelles pistes pour la recherche de biosignatures.",
       "category": "Espace"
     },
     {
-      "title": "Selon les mathématiques, la mode suit un cycle de 20 ans",
-      "summary": "Des mathématiciens ont modélisé les tendances vestimentaires et démontré un cycle récurrent de 20 ans dans l'évolution de la mode. En analysant des données historiques sur des décennies, ils ont identifié des patterns périodiques influencés par des facteurs socio-économiques. Ce modèle prédictif pourrait s'appliquer à d'autres domaines culturels cycliques.",
-      "why": "Cette découverte mathématique éclaire les dynamiques culturelles et offre un outil pour anticiper les évolutions sociétales.",
-      "category": "Maths"
+      "title": "Observation de microcharges électrostatiques dues aux grains minéraux sur Mars",
+      "summary": "Les instruments du rover Perseverance ont détecté pour la première fois un phénomène électrostatique jusqu'alors hypothétique : la rencontre répétée de grains minéraux chargés électriquement dans l'air très sec martien produit des microcharges. Ce phénomène, confirmé par l'observation directe, révèle des interactions physico-chimiques inattendues à la surface de Mars. Les implications de cette découverte sont multiples et pourraient affecter notre compréhension de la chimie de surface martienne et de la préservation des molécules organiques.",
+      "why": "Cette observation inattendue modifie notre modèle des processus électrochimiques martiennes et pourrait avoir des conséquences importantes pour la recherche de traces de vie ancienne et la planification des futures missions habitées.",
+      "category": "Espace"
     },
     {
-      "title": "Lait infantile : la toxine céréulide identifiée chez un bébé hospitalisé en France",
-      "summary": "Une toxine appelée céréulide a été détectée chez un bébé hospitalisé en France après consommation de lait infantile contaminé par Bacillus cereus. Cette bactérie produit une émetotoxine thermostable résistante à la pasteurisation, causant des intoxications graves. L'identification rapide via des analyses avancées a permis un traitement efficace et alerte sur les contrôles microbiologiques.",
-      "why": "Cette avancée en toxicologie alimentaire renforce la sécurité des produits pour nourrissons et guide les protocoles de détection précoce.",
-      "category": "Médecine"
+      "title": "Silice cristallisée sous plusieurs formes identifiée dans le cratère Jezero",
+      "summary": "La spectroscopie Raman de Supercam a détecté une forte concentration de silice sous plusieurs formes cristallines, dont l'opale, la calcédoine et le quartz bien cristallisé, dans une roche du rebord du cratère Jezero. Cette découverte indique des processus géologiques extrêmement similaires à ceux de la Terre concernant la précipitation et la cristallisation de la silice. L'équipe scientifique doit désormais prioriser les carottes à forer en tenant compte de la présence concurrentielle de silice hydrothermale et d'argiles à base de caolinite.",
+      "why": "Cette diversité minéralogique témoigne d'une histoire géologique riche et d'interactions eau-roche prolongées, renforçant l'hypothèse d'un environnement autrefois habitable sur Mars.",
+      "category": "Espace"
+    },
+    {
+      "title": "Doolysaurus : nouveau dinosaure juvénile découvert en Corée du Sud",
+      "summary": "Un dinosaure juvénile découvert en Corée du Sud a été nommé Doolysaurus en hommage à un personnage culte de la culture populaire. Son crâne, resté invisible jusqu'à l'utilisation d'un scanner, dévoile de nouvelles données morphologiques et anatomiques sur les dinosaures asiatiques. Cette découverte enrichit notre compréhension de la diversité des dinosaures en Asie de l'Est et de leur développement ontogénétique.",
+      "why": "Cette découverte contribue à combler les lacunes de nos connaissances sur la faune dinosaurienne asiatique et offre des perspectives nouvelles sur l'évolution et la distribution géographique des espèces mésozoïques.",
+      "category": "Biologie"
+    },
+    {
+      "title": "Mission Artemis 2 : la NASA vise un lancement dès le 1er avril 2026",
+      "summary": "La NASA a annoncé que la mission lunaire Artemis 2 pourrait être lancée dès le 1er avril 2026, marquant une accélération du calendrier de retour humain à la Lune. Cette mission sans équipage sera suivie de missions habitées visant à établir une présence durable sur la Lune. Ce calendrier ambitieux reflète les progrès réalisés dans le développement du système de lancement spatial (SLS) et de la capsule Orion.",
+      "why": "Cette annonce représente une étape majeure du programme Artemis et du retour des humains sur la Lune, avec des implications pour l'exploration spatiale internationale et la recherche scientifique lunaire.",
+      "category": "Espace"
     }
   ],
   "updates": []
