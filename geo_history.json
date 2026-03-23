@@ -1,16 +1,5 @@
 [
   {
-    "date": "21/03/2026",
-    "titles": [
-      "Escalade énergétique majeure : destruction des infrastructures pétrolières et gazières iraniennes",
-      "Refus des pays du Golfe d'entrer en guerre malgré les attaques iraniennes",
-      "Objectif américain de changement politique en Iran et élimination présumée du guide suprême",
-      "Crise du Qatar : arrêt des contrats de gaz naturel liquéfié et perturbations logistiques majeures",
-      "Coalition internationale pour sécuriser le détroit d'Ormuz et stabiliser les marchés énergétiques",
-      "Veto hongrois bloquant l'aide européenne à l'Ukraine lié à la crise énergétique russe"
-    ]
-  },
-  {
     "date": "22/03/2026",
     "titles": [
       "Les États-Unis affirment pouvoir neutraliser l'île de Kharg, hub pétrolier iranien, à tout moment",
@@ -69,6 +58,16 @@
       "Le Nicaragua cède 8,5 % de son territoire à la Chine pour l’exploration minière",
       "Offensive djihadiste majeure dans le nord-est du Nigeria avec soutien militaire américain",
       "Ursula von der Leyen visite le Groenland pour renforcer les partenariats énergétiques arctiques"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
+      "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
+      "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
+      "Le Kazakhstan adopte une nouvelle Constitution lors d'un référendum historique"
     ]
   }
 ]
