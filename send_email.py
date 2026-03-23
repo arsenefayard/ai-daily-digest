@@ -228,12 +228,17 @@ def send_combined_email():
       color-scheme: dark !important;
       forced-color-adjust: none !important;
     }}
+    u + .body .gmail-blend-screen {{ background: #000000; mix-blend-mode: screen; }}
+    u + .body .gmail-blend-difference {{ background: #000000; mix-blend-mode: difference; }}
+    [data-ogsc] .force-dark-bg, [data-ogsb] .force-dark-bg {{ background-color: #0b0b0b !important; }}
+    [data-ogsc] .force-dark-card, [data-ogsb] .force-dark-card {{ background-color: #121212 !important; }}
   </style>
 </head>
-<body bgcolor="#0b0b0b" style="margin:0;padding:0;background-color:#0b0b0b !important;color:#f0ede6 !important;">
+<body class="body force-dark-bg" bgcolor="#0b0b0b" style="margin:0;padding:0;background-color:#0b0b0b !important;color:#f0ede6 !important;">
+<div class="gmail-blend-screen"><div class="gmail-blend-difference">
 <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0b0b0b" style="background-color:#0b0b0b !important;">
 <tr><td align="center" style="padding:30px 16px;">
-<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#121212" style="background-color:#121212 !important;max-width:560px;">
+<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#121212" class="force-dark-card" style="background-color:#121212 !important;max-width:560px;">
   <tr>
     <td bgcolor="#0f0f0f" style="background-color:#0f0f0f !important;padding:26px 30px 20px;border-bottom:1px solid #202020;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
@@ -304,6 +309,7 @@ def send_combined_email():
 </table>
 </td></tr>
 </table>
+</div></div>
 </body>
 </html>
 """
