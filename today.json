@@ -2,43 +2,35 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
-      "summary": "Meta prévoit de réduire ses effectifs d'au moins 20% pour compenser le coût massif de ses investissements dans les infrastructures d'intelligence artificielle et préparer des gains d'efficacité permis par les outils assistés par l'IA. Cette décision intervient après que la société a investi plus de 107 milliards de dollars dans ses capacités IA, notamment avec le retard de son modèle Avocado. Cette réduction représente un tournant stratégique majeur pour l'entreprise, signalant que les investissements IA doivent désormais générer des retours tangibles et des économies d'échelle.",
-      "why": "Cette annonce marque un changement de paradigme : après deux ans d'euphorie autour de l'IA générative, les grandes entreprises tech passent à l'optimisation opérationnelle et à la rentabilité réelle de leurs investissements massifs.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
-      "summary": "Le directeur général de Nvidia présente de nouvelles puces et logiciels lors de la conférence annuelle des développeurs du groupe, confirmant que l'IA reste au centre de l'attention des marchés technologiques. Ces annonces interviennent dans un contexte où Nvidia consolide sa position dominante dans l'infrastructure IA, avec une progression de 1,62% de ses actions. Le fabricant de semi-conducteurs taïwanais Foxconn, principal fabricant de serveurs Nvidia, a également publié une prévision robuste de chiffre d'affaires trimestriel.",
-      "why": "Nvidia reste le fournisseur critique de l'infrastructure IA mondiale, et ses annonces de nouvelles puces et logiciels façonnent directement la trajectoire technologique de tous les acteurs de l'IA.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
-      "summary": "L'industrie bascule définitivement de l'IA générative « outil » (que l'on sollicite) à l'IA « agentique » (qui agit de manière autonome et responsable), avec l'IA agentique devenant le standard opérationnel en 2026. Les premiers agents véritablement autonomes prennent en charge l'escalade d'incidents, la résolution de dossiers simples, l'analyse de risques et la prise de décision en logistique ou en service client. Ce changement ne provient pas d'un modèle révolutionnaire, mais d'un besoin fondamental : l'accès permanent à des données fraîches, compréhensibles et traçables en temps réel.",
-      "why": "Ce passage de l'IA comme assistant à l'IA comme agent autonome représente une transformation structurelle majeure de l'économie numérique, exigeant une infrastructure de confiance et une maîtrise des données sans précédent.",
-      "category": "Recherche"
-    },
-    {
-      "title": "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
-      "summary": "Selon le Baromètre du numérique 2026, la diffusion de l'IA générative en France est passée de 20% en 2023 à 48% en 2025, représentant un doublement en seulement deux ans. Cette adoption massive place la France parmi les pays les plus avancés en matière d'utilisation de l'IA générative, surpassant la courbe d'adoption d'internet qui avait nécessité cinq ans pour passer de 23% à des niveaux comparables. Cette croissance exponentielle reflète une intégration profonde de l'IA dans les usages quotidiens des Français.",
-      "why": "Cette statistique démontre que l'IA générative n'est plus une technologie de niche mais une infrastructure sociale et économique centrale, avec des implications majeures pour la compétitivité française et la transformation des métiers.",
+      "title": "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
+      "summary": "Cursor, l'IDE leader pour le développement assisté par IA, déploie sa version 2.6 qui intègre les MCP Apps pour une gestion avancée des agents multi-tâches et une compatibilité native avec JetBrains, permettant une édition de code fluide entre environnements. Cette mise à jour optimise les workflows multi-agents avec une réduction de 40% du temps de débogage grâce à des analyses prédictives en temps réel. Elle renforce la position de Cursor dans la course aux sept IDE dominants du marché agentique.",
+      "why": "Cette évolution technique accélère l'adoption des agents IA dans le développement logiciel, impactant directement la productivité des équipes engineering.",
       "category": "Application"
     },
     {
-      "title": "Cour des comptes valide les progrès de la stratégie nationale IA française",
-      "summary": "La Cour des comptes a validé les progrès réalisés dans le cadre de la stratégie nationale d'intelligence artificielle française, confirmant que les investissements publics et les initiatives gouvernementales produisent des résultats tangibles. Cette validation intervient dans un contexte où la France déploie un assistant IA souverain pour 30 000 agents de l'État en partenariat avec Mistral et la DINUM, et où l'adoption de l'IA générative atteint des niveaux record. Cette approbation officielle renforce la légitimité et la continuité des politiques IA françaises.",
-      "why": "Cette validation institutionnelle de la stratégie IA française est cruciale pour maintenir les investissements publics et privés, et pour positionner la France comme acteur souverain et compétitif dans la course mondiale à l'IA.",
+      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
+      "summary": "OpenAI étend son modèle Codex, spécialisé en codage, à Windows via une intégration native qui supporte des agents parallèles exécutant simultanément plusieurs tâches de programmation. Cette version gère des contextes étendus jusqu'à 500 000 tokens et intègre des outils comme Git et les APIs système pour une automatisation complète. Le déploiement cible les entreprises pour booster l'efficacité des pipelines DevOps.",
+      "why": "Elle marque une avancée concrète vers l'IA agentique dans les environnements professionnels, élargissant l'accès à des outils avancés de codage.",
+      "category": "Application"
+    },
+    {
+      "title": "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
+      "summary": "Google déploie le Pixel Drop mensuel de mars 2026, intégrant des améliorations IA comme la reconnaissance visuelle avancée en temps réel et des agents vocaux contextuels sur les smartphones Pixel. Cette mise à jour utilise Gemini pour une édition photo automatisée et une traduction simultanée multimodale avec faible latence. Elle vise à démocratiser l'IA embarquée sur mobile pour 100 millions d'utilisateurs.",
+      "why": "Ce lancement renforce la concurrence sur l'IA grand public et pose les bases pour des interactions plus immersives au quotidien.",
+      "category": "Application"
+    },
+    {
+      "title": "Elon Musk annonce Macrohard, fusion Tesla et xAI pour Digital Optimus",
+      "summary": "Elon Musk révèle Macrohard, une entité fusionnant Tesla et xAI pour développer Digital Optimus, un agent IA incarné dans un robot humanoïde capable d'exécuter des tâches physiques et cognitives autonomes. Ce projet combine Grok pour le raisonnement et les capteurs Tesla pour la navigation en environnement réel, avec un prototype prévu pour fin 2026. L'initiative cible l'industrie et les foyers pour une robotique ubiquitaire.",
+      "why": "Cette fusion stratégique accélère l'ère de la robotique IA, avec des implications massives sur l'automatisation industrielle et domestique.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Parlement européen adopte résolution sur IA générative et droit d'auteur",
+      "summary": "Le 10 mars 2026, le Parlement européen a adopté une résolution appelant à plus de transparence sur les données d'entraînement des modèles IA génératifs et à un cadre juridique renforcé pour l'usage de contenus protégés. Elle propose d'adapter la directive CDSM aux pratiques d'entraînement et de combattre les deepfakes via des obligations de signalement. Cette position influence la régulation européenne imminente sur l'IA.",
+      "why": "Elle définit les contours éthiques et légaux de l'IA générative, impactant les géants tech et protégeant les créateurs.",
       "category": "Régulation"
     }
   ],
-  "updates": [
-    {
-      "title": "Meta retarde Avocado à mai avec performances insuffisantes",
-      "original": "Meta retarde son modèle Avocado à mai en raison de performances insuffisantes",
-      "summary": "Le retard du modèle Avocado de Meta à mai est confirmé, avec des performances inférieures à celles de Google, OpenAI et Anthropic en raisonnement et code. Cet aveu embarrassant intervient après que Meta a investi plus de 107 milliards de dollars dans ses capacités IA, et coïncide avec l'annonce de réductions d'effectifs de 20% pour optimiser les investissements IA. Le retard d'Avocado souligne les défis majeurs auxquels Meta fait face pour rattraper ses concurrents dans la course aux modèles de pointe.",
-      "why": "Ce retard prolongé et cette admission publique de performances insuffisantes affaiblissent la position concurrentielle de Meta face à OpenAI et Anthropic, et justifient les mesures drastiques de réduction de coûts annoncées par l'entreprise.",
-      "category": "Modèle"
-    }
-  ]
+  "updates": []
 }
