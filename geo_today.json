@@ -3,33 +3,33 @@
   "news": [
     {
       "title": "Israël annonce une intensification considérable de ses frappes en Iran",
-      "summary": "Le ministre israélien de la Défense a déclaré lors d'une réunion d'évaluation que l'intensité des frappes sur l'Iran augmentera considérablement dans les prochains jours, probablement dès demain. Ces opérations visent à neutraliser les capacités nucléaires et militaires iraniennes, après des bombardements récents sur le site de Natanz. Cette escalade risque d'élargir le conflit régional en impliquant davantage d'acteurs au Moyen-Orient.",
-      "why": "Cette intensification marque un tournant dans le conflit israélo-iranien et pourrait précipiter une réponse iranienne massive, déstabilisant davantage la sécurité énergétique mondiale.",
+      "summary": "Le ministre israélien de la Défense a déclaré que l'intensité des frappes en Iran va augmenter considérablement dans les prochains jours, suite à une évaluation de la situation. Ces opérations visent à neutraliser les capacités nucléaires et militaires iraniennes, après des bombardements sur le site de Natanz. Cette escalade risque de prolonger le conflit régional et d'impliquer davantage les alliés des deux camps.",
+      "why": "Cette décision marque une escalade majeure qui pourrait déstabiliser davantage le Moyen-Orient et forcer une réponse internationale accrue.",
       "category": "Conflit"
     },
     {
-      "title": "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
-      "summary": "Le président américain exhorte ses alliés, citant nommément cinq pays, à former une coalition multipays pour escorter les navires et rouvrir le détroit bloqué par l'Iran. Cette initiative fait suite à des attaques iraniennes sur des infrastructures pétrolières et gaziers dans le Golfe. Elle vise à contrer la paralysie du commerce pétrolier international qui affecte 90 % des exportations iraniennes.",
-      "why": "Un tel appel reflète une reconnaissance de l'usure américaine et pourrait redéfinir les alliances au Moyen-Orient face à la crise énergétique.",
+      "title": "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Le président américain a indiqué que les États-Unis sont sur le point d'atteindre leurs objectifs et envisagent de diminuer leurs efforts militaires au Moyen-Orient face au régime iranien. Cette déclaration contradictoire suit des frappes conjointes américano-israéliennes sur des sites iraniens. Elle soulève des interrogations sur la stratégie à long terme et la coordination avec Israël.",
+      "why": "Ce revirement potentiel pourrait signaler une désescalade américaine, influençant les dynamiques alliées et les négociations sur le détroit d'Ormuz.",
       "category": "Diplomatie"
     },
     {
-      "title": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Dans une déclaration récente, Donald Trump indique que les États-Unis sont sur le point d'atteindre leurs objectifs et prévoient de diminuer leurs efforts militaires au Moyen-Orient face au régime iranien. Cette position contraste avec les frappes continues américano-israéliennes sur des sites iraniens. Elle soulève des interrogations sur la durée et l'ampleur de l'engagement américain dans le conflit.",
-      "why": "Ce revirement potentiel pourrait signaler une désescalade ou une stratégie de sortie, influençant les calculs des alliés et adversaires régionaux.",
+      "title": "Pakistan bombarde un centre de réhabilitation en Afghanistan faisant 400 morts",
+      "summary": "Un bombardement pakistanais sur un centre de réhabilitation pour toxicomanes à Kaboul a causé 400 morts et 250 blessés, marquant un nouveau pas dans l'escalade entre le Pakistan et l'Afghanistan. Cet incident s'inscrit dans une série de tensions frontalières et de ripostes militaires. Il aggrave les risques d'un conflit ouvert dans la région sud-asiatique.",
+      "why": "Cette attaque massive pourrait déclencher une guerre régionale impliquant des acteurs comme les talibans et menacer la stabilité en Asie du Sud.",
       "category": "Conflit"
     },
     {
-      "title": "Le Japon puise dans ses réserves stratégiques de pétrole en raison de la crise d'Ormuz",
-      "summary": "Tokyo a annoncé depuis lundi qu'il commence à utiliser ses réserves stratégiques pour pallier les perturbations causées par le blocage du détroit d'Ormuz. Cette mesure répond à la hausse des prix et aux risques d'approvisionnement énergétique mondial. Elle met en lumière la vulnérabilité des importateurs nets de pétrole face à la stratégie iranienne.",
-      "why": "Cette action illustre l'impact économique concret de la crise sur les grandes puissances asiatiques, accélérant les tensions sur les marchés mondiaux de l'énergie.",
-      "category": "Énergie"
+      "title": "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
+      "summary": "Les États-Unis et Israël ont ciblé le site nucléaire de Natanz au sud de Téhéran, sans fuite radioactive détectée selon l'AIEA. L'Iran maintient le blocage du détroit d'Ormuz en riposte, paralysant le commerce pétrolier mondial. Ces actions accentuent les tensions et les perturbations économiques globales.",
+      "why": "L'attaque sur une installation nucléaire critique élève les enjeux vers un risque de prolifération ou de guerre totale.",
+      "category": "Sécurité"
     },
     {
-      "title": "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "summary": "Les forces navales françaises ont intercepté un navire présumé lié à la flotte fantôme russe, dans un contexte de sanctions internationales contre Moscou. Cette opération s'inscrit dans une surveillance accrue des activités maritimes russes en Méditerranée. Elle renforce la posture européenne face aux contournements de sanctions énergétiques.",
-      "why": "Cet incident souligne la persistance des tensions Est-Ouest et les efforts de l'UE pour faire respecter les mesures contre la Russie.",
-      "category": "Sécurité"
+      "title": "Attaques iraniennes sur navires et infrastructures pétrolières dans le Golfe",
+      "summary": "L'Iran a lancé des attaques contre des navires, des infrastructures pétrolières et gazières dans le Golfe, provoquant des explosions à Manama en Bahreïn. Plusieurs pays du Golfe ont condamné ces actes et demandé un moratoire sur les attaques d'infrastructures civiles. Cela exacerbe la crise énergétique mondiale due au blocage persistant d'Ormuz.",
+      "why": "Ces frappes menacent directement les approvisionnements énergétiques mondiaux, avec des répercussions économiques immédiates sur l'Europe et l'Asie.",
+      "category": "Énergie"
     }
   ],
   "updates": []
