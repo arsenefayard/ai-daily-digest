@@ -2,33 +2,33 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Découverte de minéraux réox sensibles sur Mars par Perseverance",
-      "summary": "L'équipe scientifique de Perseverance a identifié pour la première fois un ensemble complet de minéraux dits réox sensibles dans le cratère Jezero, c'est-à-dire sensibles aux conditions d'oxydation ou de réduction chimique. Cette découverte révèle des processus géologiques complexes impliquant des interactions prolongées entre l'eau et la roche, similaires à ceux observés sur Terre. Ces minéraux fournissent des indices cruciaux sur l'histoire hydrogéologique ancienne de Mars et sur les conditions qui auraient pu favoriser l'émergence de la vie.",
-      "why": "Cette découverte approfondit notre compréhension de l'habitabilité passée de Mars et des processus chimiques qui ont façonné la planète rouge, ouvrant de nouvelles pistes pour la recherche de biosignatures.",
-      "category": "Espace"
+      "title": "Spintronique : passage à l'échelle industrielle pour une électronique plus rapide et sobre",
+      "summary": "Des chercheurs à Grenoble ont développé la ligne pilote Spinfab qui prépare la production industrielle de technologies spintroniques, exploitant les propriétés quantiques des électrons pour traiter l'information bien plus rapidement que l'électronique classique. Cette avancée, issue de la magnétorésistance géante découverte dans les années 1980, permet une consommation d'énergie nettement réduite. Elle ouvre la voie à des dispositifs électroniques révolutionnaires dans les ordinateurs et les capteurs.",
+      "why": "Cette transition industrielle pourrait transformer l'industrie des semi-conducteurs en rendant les appareils plus performants et éco-responsables, avec des applications immédiates dans l'informatique quantique et l'IA.",
+      "category": "Physique"
     },
     {
-      "title": "Observation de microcharges électrostatiques dues aux grains minéraux sur Mars",
-      "summary": "Les instruments du rover Perseverance ont détecté pour la première fois un phénomène électrostatique jusqu'alors hypothétique : la rencontre répétée de grains minéraux chargés électriquement dans l'air très sec martien produit des microcharges. Ce phénomène, confirmé par l'observation directe, révèle des interactions physico-chimiques inattendues à la surface de Mars. Les implications de cette découverte sont multiples et pourraient affecter notre compréhension de la chimie de surface martienne et de la préservation des molécules organiques.",
-      "why": "Cette observation inattendue modifie notre modèle des processus électrochimiques martiennes et pourrait avoir des conséquences importantes pour la recherche de traces de vie ancienne et la planification des futures missions habitées.",
-      "category": "Espace"
+      "title": "Un métal rendu insubmersible par une innovation en science des matériaux",
+      "summary": "Des scientifiques ont mis au point un traitement de surface qui rend un métal parfaitement insubmersible, en repoussant l'eau de manière durable même sous pression. Cette propriété repose sur une nanostructure bio-inspirée qui piège une couche d'air autour du métal. Les tests montrent une stabilité exceptionnelle comparée aux revêtements hydrophobes existants.",
+      "why": "Cette découverte pourrait révolutionner les domaines maritimes, aéronautiques et industriels en prévenant la corrosion et en améliorant l'efficacité énergétique des navires et structures offshore.",
+      "category": "Chimie"
     },
     {
-      "title": "Silice cristallisée sous plusieurs formes identifiée dans le cratère Jezero",
-      "summary": "La spectroscopie Raman de Supercam a détecté une forte concentration de silice sous plusieurs formes cristallines, dont l'opale, la calcédoine et le quartz bien cristallisé, dans une roche du rebord du cratère Jezero. Cette découverte indique des processus géologiques extrêmement similaires à ceux de la Terre concernant la précipitation et la cristallisation de la silice. L'équipe scientifique doit désormais prioriser les carottes à forer en tenant compte de la présence concurrentielle de silice hydrothermale et d'argiles à base de caolinite.",
-      "why": "Cette diversité minéralogique témoigne d'une histoire géologique riche et d'interactions eau-roche prolongées, renforçant l'hypothèse d'un environnement autrefois habitable sur Mars.",
-      "category": "Espace"
-    },
-    {
-      "title": "Doolysaurus : nouveau dinosaure juvénile découvert en Corée du Sud",
-      "summary": "Un dinosaure juvénile découvert en Corée du Sud a été nommé Doolysaurus en hommage à un personnage culte de la culture populaire. Son crâne, resté invisible jusqu'à l'utilisation d'un scanner, dévoile de nouvelles données morphologiques et anatomiques sur les dinosaures asiatiques. Cette découverte enrichit notre compréhension de la diversité des dinosaures en Asie de l'Est et de leur développement ontogénétique.",
-      "why": "Cette découverte contribue à combler les lacunes de nos connaissances sur la faune dinosaurienne asiatique et offre des perspectives nouvelles sur l'évolution et la distribution géographique des espèces mésozoïques.",
+      "title": "Hérissons sensibles aux ultrasons : une avancée clé pour leur protection",
+      "summary": "Une étude a révélé que les hérissons perçoivent les ultrasons, une capacité sensorielle inattendue qui leur permet de détecter des prédateurs ou obstacles dans l'obscurité. Les expériences en laboratoire ont mesuré leurs réponses comportementales à des fréquences supérieures à 20 kHz. Cette sensibilité ouvre de nouvelles perspectives pour des méthodes de conservation non invasives.",
+      "why": "Comprendre cette aptitude aide à concevoir des barrières sonores efficaces contre les routes et machines, contribuant à stopper le déclin des populations de hérissons en Europe.",
       "category": "Biologie"
     },
     {
+      "title": "Selon les mathématiques, la mode suit un cycle de 20 ans",
+      "summary": "Des mathématiciens ont modélisé les tendances vestimentaires sur des décennies de données, révélant un cycle récurrent de 20 ans dans les motifs, couleurs et coupes populaires. Leur analyse utilise des équations différentielles pour prédire les retours de styles passés. Ce modèle s'applique aussi à d'autres domaines culturels comme la musique.",
+      "why": "Ce cadre mathématique permet de prévoir les évolutions culturelles avec précision, aidant les industries de la mode et du design à anticiper les marchés.",
+      "category": "Maths"
+    },
+    {
       "title": "Mission Artemis 2 : la NASA vise un lancement dès le 1er avril 2026",
-      "summary": "La NASA a annoncé que la mission lunaire Artemis 2 pourrait être lancée dès le 1er avril 2026, marquant une accélération du calendrier de retour humain à la Lune. Cette mission sans équipage sera suivie de missions habitées visant à établir une présence durable sur la Lune. Ce calendrier ambitieux reflète les progrès réalisés dans le développement du système de lancement spatial (SLS) et de la capsule Orion.",
-      "why": "Cette annonce représente une étape majeure du programme Artemis et du retour des humains sur la Lune, avec des implications pour l'exploration spatiale internationale et la recherche scientifique lunaire.",
+      "summary": "La NASA a annoncé un calendrier accéléré pour Artemis 2, avec un premier vol habité autour de la Lune prévu dès le 1er avril 2026, impliquant quatre astronautes. Cette mission testera le vaisseau Orion en conditions réelles après les retards dus à des problèmes techniques. Elle pave la voie pour un atterrissage humain sur la Lune en 2027.",
+      "why": "Ce jalon accéléré renforce la course à la Lune et stimule les partenariats internationaux, avec des retombées en technologies spatiales réutilisables.",
       "category": "Espace"
     }
   ],
