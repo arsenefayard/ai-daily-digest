@@ -2,43 +2,35 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "L2B en concert à l'Accor Arena de Paris les 26 et 27 mars 2026",
-      "summary": "Le trio de rap francophone L2B, composé de KLN, IDS et D2, annonce deux concerts consécutifs à l'Accor Arena de Paris les jeudi 26 et vendredi 27 mars 2026. Ces dates permettront au groupe de présenter en live son deuxième album studio intitulé « Nés pour briller » devant un public parisien. Cette annonce intervient alors que L2B est considéré comme l'un des groupes les plus prometteurs de la scène rap francophone actuelle.",
-      "why": "L2B représente une nouvelle génération du rap français et ces concerts à l'Accor Arena, l'une des plus grandes salles de Paris, témoignent de leur montée en puissance et de leur capacité à attirer un public important.",
-      "category": "Hip-Hop"
+      "title": "Kendji Girac ajoute une date à l'Accor Arena de Paris les 14 et 15 mars 2026",
+      "summary": "À l'occasion de la sortie de son nouvel album Vivre..., Kendji Girac annonce une tournée française avec deux concerts exceptionnels à l'Accor Arena de Paris les samedi 14 et dimanche 15 mars 2026. Ces dates supplémentaires témoignent de l'engouement massif des fans pour l'artiste qui mélange pop et influences gitanes. Les billets se vendent déjà rapidement, promettant une ambiance festive et ensoleillée.",
+      "why": "Cette extension de tournée souligne la popularité persistante de Kendji Girac en France et renforce son statut de superstar pop auprès d'un public familial.",
+      "category": "Pop"
     },
     {
-      "title": "Suede de retour à l'Olympia de Paris le 14 mars avec le nouvel album « Antidepressants »",
-      "summary": "Le groupe de rock britannique Suede annonce son retour sur scène avec un nouvel opus intitulé « Antidepressants » et une tournée européenne qui passe par la France. Le groupe se produira à l'Olympia de Paris le samedi 14 mars 2026, offrant aux fans français l'occasion de découvrir les nouvelles compositions du groupe. Cette date s'inscrit dans une tournée internationale qui marque le retour du groupe sur les routes.",
-      "why": "Le retour de Suede avec un nouvel album et une tournée européenne est un événement majeur pour les fans de rock britannique, et la date parisienne à l'Olympia est particulièrement attendue.",
-      "category": "Rock"
+      "title": "Electronic Peak : festival électro du 25 au 27 mars 2026",
+      "summary": "Le festival Electronic Peak se tiendra du 25 au 27 mars 2026 et proposera une programmation pointue d'artistes électro internationaux dans un cadre immersif. Cet événement attire les amateurs de beats innovants et de performances live hybrides, avec des lieux variés pour une expérience multidimensionnelle. Il s'inscrit dans la vague croissante des festivals électro en France.",
+      "why": "Electronic Peak représente un rendez-vous incontournable pour la scène électro émergente et consolide la position de la France comme hub européen de cette musique.",
+      "category": "Électro"
     },
     {
-      "title": "dEUS à l'Olympia de Paris le 13 mars 2026 pour célébrer ses classiques",
-      "summary": "Le groupe belge dEUS annonce son retour sur scène avec une série de concerts au printemps 2026 en Europe, dont trois dates en France. À Paris, le groupe dirigé par Tom Barman se produira à l'Olympia le vendredi 13 mars 2026 pour célébrer deux de ses albums emblématiques, « Worst Case Scenario » et « In a Bar, Under the Sea ». Cette tournée marque le retour du groupe belge après une période d'absence.",
-      "why": "Le retour de dEUS, groupe culte de la scène rock alternative européenne, avec un focus sur ses albums les plus importants, constitue un événement significatif pour les amateurs de rock indépendant et alternatif.",
-      "category": "Rock"
-    },
-    {
-      "title": "Festival International de Choro de Paris du 27 au 29 mars 2026",
-      "summary": "Le Festival International de Choro de Paris se déroulera du 27 au 29 mars 2026 dans la capitale française, célébrant le choro, ce genre musical brésilien traditionnel caractérisé par son instrumentation acoustique et ses mélodies complexes. Ce festival réunit musiciens et passionnés du choro pour trois jours de concerts et de découvertes musicales. L'événement offre une plateforme importante pour la promotion de ce patrimoine musical brésilien en France.",
-      "why": "Ce festival représente une opportunité rare en France de découvrir et célébrer le choro, un genre musical brésilien riche et historiquement important, souvent méconnu du grand public français.",
+      "title": "Festival Chants de mars du 12 au 28 mars 2026",
+      "summary": "Le Festival Chants de mars, dédié aux voix et à la musique vocale, se déroulera du 12 au 28 mars 2026 avec une programmation éclectique mêlant choral, world et contemporain. Des artistes du monde entier performeront dans des églises et salles parisiennes, offrant une exploration profonde des traditions vocales. Cette édition met l'accent sur des collaborations inédites entre chorales et solistes.",
+      "why": "Ce festival enrichit le paysage musical français en promouvant la diversité vocale et attire un public en quête d'expériences spirituelles et artistiques uniques.",
       "category": "Autre"
     },
     {
-      "title": "Festival Diapason Megève du 26 au 29 mars 2026 en Haute-Savoie",
-      "summary": "Le Festival Diapason Megève se tiendra du 26 au 29 mars 2026 dans la station de montagne de Megève en Haute-Savoie. Cet événement musical de quatre jours propose une programmation variée dans un cadre alpin prestigieux. Le festival attire musiciens et mélomanes en quête d'une expérience musicale dans un environnement montagnard unique.",
-      "why": "Ce festival offre une alternative musicale originale en région alpine, combinant la découverte musicale avec le cadre exceptionnel de Megève, attirant un public à la recherche d'expériences culturelles hors des sentiers battus.",
+      "title": "Festival Baroque de Pontoise du 10 janvier au 6 juin 2026 avec temps forts en mars",
+      "summary": "Le Festival Baroque de Pontoise, qui s'étend du 10 janvier au 6 juin 2026, propose en mars des concerts d'œuvres baroques interprétées par des ensembles spécialisés sur instruments d'époque. Les représentations dans des lieux historiques de la ville créent une atmosphère authentique et immersive. Cette programmation met en lumière des compositeurs méconnus aux côtés de grands noms comme Vivaldi.",
+      "why": "Il contribue à la redécouverte du répertoire baroque et soutient les jeunes talents de la musique classique en région parisienne.",
       "category": "Classique"
+    },
+    {
+      "title": "Inrocks Festival du 10 au 15 mars 2026 au Centquatre-Paris et Rex Club",
+      "summary": "L'Inrocks Festival investit le Centquatre-Paris, le Rex Club et la Bourse du Travail du 10 au 15 mars 2026 avec une line-up indie, rock et électro. Cet événement emblématique révèle de nouveaux talents et invite des têtes d'affiche internationales pour des performances exclusives. Il s'annonce comme un moment clé du printemps musical parisien.",
+      "why": "L'Inrocks Festival est un pilier de la scène alternative française, favorisant l'émergence d'artistes et reliant les générations musicales.",
+      "category": "Rock"
     }
   ],
-  "updates": [
-    {
-      "title": "Kreator, Carcass, Exodus et Nails réunis au Zénith de Paris le 24 mars 2026",
-      "original": "In Dread We Trust : festival metal à Cluses les 27 et 28 mars",
-      "summary": "Une soirée metal majeure se prépare à Paris avec la réunion exceptionnelle de quatre géants du metal : Kreator (Allemagne), Carcass (Royaume-Uni), Exodus et Nails (États-Unis). Ce concert aura lieu le mardi 24 mars 2026 au Zénith de La Villette, offrant aux fans parisiens une opportunité rare de voir ces quatre formations légendaires sur une même affiche. Cet événement représente l'un des rendez-vous metal les plus importants du printemps 2026 en France.",
-      "why": "Cette réunion exceptionnelle de quatre formations majeures du metal sur une même soirée au Zénith de Paris constitue un événement historique pour la scène metal française et attire les fans de toute l'Europe.",
-      "category": "Métal"
-    }
-  ]
+  "updates": []
 }
