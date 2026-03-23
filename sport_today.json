@@ -2,33 +2,33 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Miami Open : Carlos Alcaraz et Iga Swiatek passent au troisième tour malgré les interruptions pluvieuses",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont dominé leurs adversaires respectifs lors du troisième tour du Miami Open, un Masters 1000 perturbé par des pluies abondantes qui ont retardé plusieurs matchs. Alcaraz a impressionné par sa solidité au service tandis que Swiatek a confirmé sa forme exceptionnelle en simple féminin. Ces victoires les positionnent comme favoris pour les phases finales du tournoi.",
-      "why": "Ce Masters 1000 est un rendez-vous clé du circuit ATP et WTA avec des points cruciaux pour le classement mondial. Les performances d'Alcaraz et Swiatek renforcent leur statut de prétendants aux grands chelems.",
+      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment remporté leurs matchs du troisième tour au Miami Open, malgré les interruptions répétées dues aux pluies abondantes qui ont perturbé le tournoi. Alcaraz a dominé son adversaire en deux sets serrés, tandis que Swiatek a confirmé sa forme exceptionnelle en ne laissant aucune chance à son adversaire. Ces victoires les positionnent comme favoris pour les phases finales du Masters 1000.",
+      "why": "Ces performances renforcent leur statut de numéros un mondiaux et alimentent les attentes pour les grands chelems à venir.",
       "category": "Tennis"
     },
     {
-      "title": "Tour de Catalogne : Début explosif avec les sprinteurs en vedette",
-      "summary": "Le Tour de Catalogne a démarré le 23 mars avec une première étape remportée par un sprinteur au terme d'une arrivée groupée intense. Les favoris du classement général comme Tadej Pogacar ont surveillé leurs rivaux directs sans prendre de risques majeurs. Cette course UCI World Tour attire les meilleurs grimpeurs pour les étapes montagneuses à venir.",
-      "why": "Première grande course par étapes post-Milan-San Remo, elle définit les hiérarchies avant les classiques ardennaises. Les résultats influencent la préparation pour le Tour de France.",
+      "title": "Tour de Catalogne : Sprinteurs au rendez-vous lors de la première étape",
+      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur vedette dans un final explosif, marquant le début en fanfare de cette course par étapes majeure du cyclisme. Les favoris du général ont surveillé les opérations sans incident majeur, préservant leurs forces pour les étapes montagneuses à venir. Cette victoire inaugure la saison européenne des courses par étapes avec intensité.",
+      "why": "Ce tournoi attire les meilleurs grimpeurs mondiaux et sert de préparation clé pour les classiques printanières.",
       "category": "Autre"
     },
     {
-      "title": "TOP 14 : La 20e journée s'annonce décisive pour le maintien et le podium",
-      "summary": "La 20e journée du TOP 14 oppose des équipes en lutte pour le maintien à celles visant le podium, avec des chocs comme Toulouse contre Bordeaux-Bègles. Les résultats de la 19e journée ont resserré le classement, augmentant la pression sur les clubs en bas de tableau. Ces matchs cruciaux se disputent ce week-end sous les yeux des diffuseurs CANAL+.",
-      "why": "Le TOP 14 est le championnat de rugby le plus relevé d'Europe. Les enjeux de cette journée peuvent redistribuer les cartes pour les phases finales.",
+      "title": "TOP 14 : Résultats décisifs de la 20e journée pour le podium et le maintien",
+      "summary": "La 20e journée du TOP 14 a livré des résultats cruciaux avec des victoires importantes pour les prétendants au podium et des sursauts pour les équipes en bas de tableau. Des chocs au sommet ont redistribué les cartes dans la course au titre, tandis que les promus ont arraché des points vitaux. Cette journée accentue la tension à deux mois de la fin de la phase régulière.",
+      "why": "Elle définit les contours de la course au titre et aux phases finales dans le championnat de France de rugby.",
       "category": "Rugby"
     },
     {
-      "title": "Betclic Elite : La 24e journée voit Monaco creuser l'écart en tête",
-      "summary": "Monaco a consolidé sa place de leader lors de la 24e journée de Betclic Elite en battant un concurrent direct, tandis que des surprises ont secoué la course aux playoffs. Les équipes comme l'ASVEL et Nanterre luttent pour se qualifier dans un championnat ultra-compétitif. Ces résultats sont diffusés sur DAZN et impactent directement les ambitions européennes.",
-      "why": "Leader du basketball français, la Betclic Elite détermine les représentants en coupes d'Europe. L'avance de Monaco renforce sa position pour le titre.",
+      "title": "Betclic Elite : Monaco accentue son avance après la 24e journée",
+      "summary": "L'AS Monaco a consolidé sa position de leader en Betclic Elite en remportant une victoire convaincante lors de la 24e journée, creusant l'écart sur ses poursuivants directs. Les surprises du jour ont secoué le milieu de tableau, avec des défaites inattendues pour des équipes favorites. Cette journée renforce la domination monégasque dans le basketball français.",
+      "why": "Monaco se rapproche du titre tandis que la bataille pour les playoffs s'intensifie derrière.",
       "category": "Basketball"
     },
     {
-      "title": "Athlétisme : Les Championnats du monde en salle clôturés avec des records en Pologne",
-      "summary": "Les Championnats du monde d'athlétisme en salle à Torun se sont achevés le 22 mars avec plusieurs records nationaux et des médailles inattendues chez les sprinteurs. Les athlètes français ont brillé dans les épreuves de saut en hauteur et de 60m haies. Cet événement marque la fin de la saison hivernale avant les compétitions estivales.",
-      "why": "Ces mondiaux en salle valident les performances hivernales et préparent les Jeux Olympiques. Les records battus boostent la visibilité de l'athlétisme.",
+      "title": "Athlétisme : Records du monde en salle aux Championnats de Pologne",
+      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont clôturés avec plusieurs records du monde battus dans des disciplines phares comme le saut en hauteur et le 60m haies. Des athlètes stars ont brillé sous les yeux d'un public conquis, confirmant la vitalité de l'athlétisme indoor. Ces performances préfigurent une saison estivale explosive.",
+      "why": "Les records mondiaux en salle boostent la discipline et motivent les athlètes pour les JO et Mondiaux en plein air.",
       "category": "Autre"
     }
   ],
