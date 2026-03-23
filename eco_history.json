@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Trump envisage l'envoi d'une force terrestre en Iran",
-      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
-      "La crise moyen-orientale détourne des millions de touristes vers l'Europe",
-      "L'Agence internationale de l'énergie publie 10 mesures contre la crise énergétique"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "La guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
       "Trump rétablit des droits de douane mondiaux de 15 % malgré l'annulation par la Cour suprême",
       "Donald Trump nomme Kevin Warsh à la tête de la Réserve fédérale pour apaiser les tensions",
@@ -68,6 +58,16 @@
       "Rapport EQT AB met en lumière la performance des investissements alternatifs",
       "Nasdaq grimpe grâce à la poussée des technos et de l'intelligence artificielle",
       "Scénarios de la BCE sur l'impact d'un conflit prolongé en Iran"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
+      "Confiance des consommateurs en zone euro montre des signes de redressement",
+      "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
+      "Micron inaugure un second site de production de puces à Taïwan",
+      "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier"
     ]
   }
 ]
