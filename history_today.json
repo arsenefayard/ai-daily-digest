@@ -1,33 +1,33 @@
 {
   "date": "23/03/2026",
   "subject": {
-    "name": "Bataille de la Chabotterie",
-    "type": "Bataille",
-    "period": "23 mars 1796 · Fin de la Deuxième guerre de Vendée",
-    "context": "La Deuxième guerre de Vendée éclate en 1795 dans l'ouest de la France, où les royalistes catholiques, menés par François-Athanase Charette de La Contrie, mènent une guérilla acharnée contre les forces républicaines pour restaurer la monarchie et la religion. Charette, charismatique et insaisissable, organise des attaques éclair depuis les marais de la Vendée, infligeant des pertes importantes aux Bleus malgré leur supériorité numérique. Le 23 mars 1796, lors de la bataille de la Chabotterie près de Legé, ses troupes sont surprises par les colonnes républicaines du général Haxo et Travot ; blessé et trahi par un de ses officiers, Charette est capturé après un combat féroce. Conduit à Nantes, il refuse les honneurs militaires et est fusillé le 29 mars devant un millier de soldats, marquant la fin effective de l'insurrection vendéenne.",
+    "name": "Premier bombardement longue portée sur Paris par le Pariser Geschütz",
+    "type": "Événement",
+    "period": "23 mars 1918 · Première Guerre mondiale",
+    "context": "Au printemps 1918, l'armée allemande, en pleine offensive sur le front occidental, déploie pour la première fois un canon géant surnommé Pariser Geschütz, positionné à Crepy-en-Laonnais à 120 kilomètres de Paris. Ce 23 mars, entre 7 heures et midi, il tire une vingtaine d'obus sur la capitale française sans survol d'avions, semant la panique car l'origine reste mystérieuse pour les autorités alliées. Baptisé à tort Grosse Bertha par les Français, cet engin révolutionnaire surpasse en létalité les zeppelins et bombardiers Gotha combinés, causant des centaines de morts civils au total. Son secret technique, impliquant une trajectoire balistique extrême, marque une avancée dans l'artillerie lourde qui influence les futures doctrines militaires.",
     "dates": [
       {
-        "year": "1763",
-        "label": "Naissance de Charette à Couffé, issu d'une famille noble vendéenne"
+        "year": "1914",
+        "label": "Déclenchement de la Première Guerre mondiale"
       },
       {
-        "year": "1793",
-        "label": "Début de la première Guerre de Vendée, Charette rejoint les chouans"
+        "year": "1916",
+        "label": "Début de la bataille de Verdun, contexte d'usure mutuelle"
       },
       {
-        "year": "1795",
-        "label": "Lancement de la Deuxième guerre de Vendée après l'exécution de l'abbé Bernier"
+        "year": "1918",
+        "label": "Offensive allemande du printemps sur le front occidental"
       },
       {
-        "year": "1796",
-        "label": "Bataille de la Chabotterie : capture de Charette par les républicains"
+        "year": "1918",
+        "label": "23 mars : premier tir du Pariser Geschütz sur Paris"
       },
       {
-        "year": "1796",
-        "label": "Fusillade de Charette à Nantes, refusant bandeau et genoux fléchis"
+        "year": "1918",
+        "label": "Août : contre-offensive alliée qui repousse les Allemands"
       }
     ],
-    "legacy": "La capture de Charette met un terme à la grande révolte vendéenne, consolidant le pouvoir républicain en France mais laissant des cicatrices profondes dans l'Ouest, avec des mémoires divisées jusqu'aujourd'hui. Son image de martyr royaliste inspire encore les mouvements traditionalistes catholiques. L'événement illustre les limites de la contre-guérilla face à un chef légendaire.",
-    "why": "Charette, blessé, se fit débander le bras pour mourir debout, refusant toute soumission : un symbole de dignité inflexible qui défie encore les récits simplistes de la Révolution."
+    "legacy": "Ce bombardement inaugure l'ère des armes à longue portée stratégique, préfigurant les missiles balistiques modernes et les frappes de précision. Il cause une terreur psychologique durable sur les populations civiles, modifiant les perceptions de la guerre totale. Son impact technique inspire les développements d'artillerie du XXe siècle, comme les canons géants de la Seconde Guerre mondiale.",
+    "why": "Ce canon invisible tua plus de Parisiens que tous les raids aériens allemands réunis, démontrant que la terreur moderne naît souvent de l'invisible et non du spectaculaire."
   }
 }
