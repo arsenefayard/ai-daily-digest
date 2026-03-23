@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Explosion des prix des engrais en Europe due à la guerre au Moyen-Orient",
-      "Investissements des entreprises américaines s'accélèrent malgré le ralentissement économique",
-      "La crise au Moyen-Orient détourne des millions de touristes vers l'Europe",
-      "France, Royaume-Uni et alliés prêts à sécuriser le détroit d'Ormuz",
-      "Inflation persistante aux États-Unis prévue à +3,0 % en 2026 due aux tariffs et pétrole"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Trump envisage l'envoi d'une force terrestre en Iran",
       "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
       "Alerte écologique après la dérive d'un tanker russe au large de la Libye",
@@ -68,6 +58,16 @@
       "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
       "Shutdown américain cause un ralentissement temporaire de la croissance",
       "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
+      "Confiance des consommateurs en zone euro montre des signes de redressement",
+      "Rapport EQT AB met en lumière la performance des investissements alternatifs",
+      "Nasdaq grimpe grâce à la poussée des technos et de l'intelligence artificielle",
+      "Scénarios de la BCE sur l'impact d'un conflit prolongé en Iran"
     ]
   }
 ]
