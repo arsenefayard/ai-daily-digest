@@ -207,6 +207,35 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
 #error-state h2 { font-family:'Fraunces',serif; font-size:20px; }
 #error-state p  { font-size:13px; color:var(--muted); max-width:300px; line-height:1.6; }
 
+/* ── DESKTOP ── */
+@media (min-width: 1024px) {
+  :root { --header-h: 72px; --footer-h: 54px; }
+  header { padding: 0 38px; }
+  .logo { font-size: 19px; }
+  .counter, .date-badge { font-size: 12px; }
+  #stage { left: 16px; right: 16px; }
+  .card {
+    inset: 18px auto;
+    left: 50%;
+    width: min(920px, calc(100vw - 72px));
+    transform: translateX(calc(-50% + 54px)) scale(0.98);
+    padding: 32px 34px;
+    border-radius: 24px;
+    gap: 16px;
+  }
+  .card.active { transform: translateX(-50%) scale(1); }
+  .card.prev { transform: translateX(calc(-50% - 54px)) scale(0.98); }
+  .card.next { transform: translateX(calc(-50% + 54px)) scale(0.98); }
+  .card-title { font-size: clamp(24px, 2.1vw, 33px); line-height: 1.24; }
+  .card-body { font-size: 17px; line-height: 1.9; }
+  .why-box { padding: 14px 16px; max-height: 36%; }
+  .why-text { font-size: 14px; line-height: 1.55; -webkit-line-clamp: 4; }
+  .card-num { font-size: 52px; }
+  .cat-tag { font-size: 11px; }
+  .font-btn { width: 34px; height: 28px; font-size: 15px; }
+  .hint { font-size: 12px; }
+}
+
 /* ── LANDSCAPE ── */
 @media (orientation:landscape) and (max-height:500px) {
   :root { --header-h:44px; --footer-h:28px; }
