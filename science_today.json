@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Spintronique : passage à l'échelle industrielle pour une électronique plus rapide et sobre",
-      "summary": "Des chercheurs à Grenoble ont développé la ligne pilote Spinfab qui prépare la production industrielle de technologies spintroniques, exploitant les propriétés quantiques des électrons pour traiter l'information beaucoup plus rapidement que l'électronique classique. Cette avancée, issue de la magnétorésistance géante découverte dans les années 1980, permet également une consommation d'énergie bien moindre. Elle ouvre la voie à des dispositifs électroniques révolutionnaires en termes de performance et d'efficacité énergétique.",
-      "why": "Cette percée pourrait transformer l'industrie des semi-conducteurs en rendant les ordinateurs et appareils connectés plus rapides et écologiques, avec des applications immédiates dans l'informatique quantique et l'IA.",
-      "category": "Physique"
-    },
-    {
-      "title": "Métal rendu insubmersible par une innovation matériaux",
-      "summary": "Des scientifiques ont créé un métal qui repousse totalement l'eau, le rendant insubmersible même sous pression. Cette propriété résulte d'une modification de surface inspirée des effets naturels comme la feuille de lotus. Les applications potentielles incluent des coques de navires plus résistantes à la corrosion et des équipements marins durables.",
-      "why": "Cette découverte révolutionne les matériaux pour les environnements aquatiques, réduisant les coûts d'entretien et améliorant la sécurité dans les secteurs naval et offshore.",
-      "category": "Chimie"
-    },
-    {
-      "title": "Bizarrerie unique découverte chez l'ornithorynque",
-      "summary": "Des chercheurs ont identifié une nouvelle particularité physiologique chez l'ornithorynque, ce mammifère australien déjà connu pour ses traits hybrides comme le bec de canard et la ponte d'œufs. Cette bizarrerie renforce la compréhension de son évolution unique et de ses adaptations sensorielles. Elle pourrait éclairer des mécanismes biologiques conservés chez d'autres espèces.",
-      "why": "Étudier l'ornithorynque aide à décrypter l'évolution des mammifères et pourrait inspirer des avancées en neurosciences ou en bio-ingénierie.",
+      "title": "Doolysaurus, nouveau dinosaure juvénile découvert en Corée du Sud",
+      "summary": "Un dinosaure juvénile a été découvert en Corée du Sud et nommé Doolysaurus en hommage à un personnage culte de la culture populaire. Son crâne, révélé par un scanner après avoir été invisible jusque-là, fournit de nouvelles données sur l'anatomie et le développement des dinosaures asiatiques. Cette trouvaille enrichit la compréhension de la diversité des espèces dinosauriennes dans cette région au Mésozoïque.",
+      "why": "Cette découverte pallie un manque de fossiles juvéniles en Asie, permettant de mieux reconstruire l'évolution et la phylogénie des dinosaures.",
       "category": "Biologie"
     },
     {
-      "title": "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
-      "summary": "Une étude récente analyse la montée alarmante des cancers digestifs et colorectaux chez les jeunes adultes de moins de 50 ans, attribuée à des facteurs comme l'alimentation transformée et les changements microbiotiques. Les chercheurs identifient des marqueurs précoces pour un dépistage amélioré. Cela appelle à des stratégies de prévention adaptées aux modes de vie modernes.",
-      "why": "Cette avancée permet un diagnostic plus précoce et des politiques publiques ciblées, potentiellement sauvant des vies dans une population jusque-là peu surveillée.",
-      "category": "Médecine"
+      "title": "Bizarrerie unique supplémentaire découverte chez l'ornithorynque",
+      "summary": "Des chercheurs ont identifié une nouvelle particularité anatomique ou physiologique chez l'ornithorynque, un mammifère monotréme australien déjà connu pour ses traits hybrides. Cette bizarrerie, observée via des techniques d'imagerie avancées, complète le tableau des adaptations uniques de cet animal semi-aquatique. Elle souligne la complexité évolutive des monotremes, vestiges vivants d'une lignée ancienne.",
+      "why": "Comprendre ces traits aide à éclaircir l'évolution des mammifères et les adaptations aux environnements extrêmes, avec des implications pour la conservation.",
+      "category": "Biologie"
     },
     {
-      "title": "Simulation majeure du cycle de vie bactérien réalisée",
-      "summary": "Une avancée computationnelle permet de simuler avec précision le cycle de vie complet des bactéries, intégrant croissance, division et réponses environnementales. Ce modèle intègre des données génomiques et biochimiques pour prédire les comportements bactériens en temps réel. Il révolutionne la recherche en microbiologie et les applications antibiotiques.",
-      "why": "Ce outil accélère le développement de traitements contre les infections résistantes, avec des implications pour la santé publique et l'agriculture.",
+      "title": "Hérissons sensibles aux ultrasons, une avancée pour leur protection",
+      "summary": "Une étude révèle que les hérissons perçoivent les ultrasons, une capacité sensorielle inattendue chez ces mammifères nocturnes. Cette sensibilité pourrait influencer leur comportement face aux menaces urbaines comme le bruit routier ou les prédateurs. Les chercheurs proposent d'adapter les mesures de conservation en tenant compte de cette perception sonore.",
+      "why": "Cette découverte permet de développer des stratégies de protection plus efficaces contre les perturbations anthropiques, favorisant la préservation de l'espèce.",
       "category": "Biologie"
+    },
+    {
+      "title": "Selon les mathématiques, la mode suit un cycle de 20 ans",
+      "summary": "Des mathématiciens ont modélisé les tendances vestimentaires mondiales et démontré qu'elles obéissent à un cycle récurrent de 20 ans. En analysant des données historiques de défilés et de ventes, ils ont identifié des patterns périodiques influencés par des facteurs socio-économiques. Ce modèle prédictif pourrait s'appliquer à d'autres domaines culturels cycliques.",
+      "why": "Ce résultat mathématique quantifie les dynamiques culturelles, offrant un outil pour prévoir les évolutions sociétales et économiques liées à la consommation.",
+      "category": "Maths"
+    },
+    {
+      "title": "Mission Artemis 2 : la NASA vise un lancement dès le 1er avril",
+      "summary": "La NASA a annoncé que la mission Artemis 2, premier vol habité autour de la Lune depuis Apollo, pourrait décoller dès le 1er avril 2026. Ce calendrier accéléré repose sur des tests réussis du vaisseau Orion et des préparatifs avancés de l'équipage. La mission testera les systèmes cruciaux pour les futures explorations lunaires habitées.",
+      "why": "Ce lancement marque un jalon vers le retour humain sur la Lune et prépare les bases pour Artemis 3 et les missions vers Mars.",
+      "category": "Espace"
     }
   ],
   "updates": []
