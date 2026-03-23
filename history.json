@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Baromètre du numérique 2026 : 48% des Français utilisent l'IA générative",
-      "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 des préoccupations mondiales",
-      "Meta retarde son modèle Avocado à mai pour performances insuffisantes",
-      "Meta acquiert Moltbook, réseau social pour bots IA",
-      "Sept IDE leaders se disputent le marché du développement multi-agent"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Baromètre des risques 2026 d'Allianz : l'IA entre dans le top 3 mondial des préoccupations",
       "Tendances IA 2026 : l'essor des agents autonomes et l'urgence de l'efficacité énergétique",
       "L'IA devient l'infrastructure invisible de l'économie au CES 2026",
@@ -69,6 +59,17 @@
       "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
       "Elon Musk annonce Macrohard, fusion Tesla et xAI pour Digital Optimus",
       "Parlement européen adopte résolution sur IA générative et droit d'auteur"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "OpenAI déploie GPT-5.4 avec contrôle natif d'ordinateur et 1 million de tokens",
+      "DeepSeek V4 : un modèle multimodal géant avec 1 000 milliards de paramètres",
+      "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour M365",
+      "Elon Musk annonce Macrohard : fusion Tesla et xAI pour créer Digital Optimus",
+      "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA massifs",
+      "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle"
     ]
   }
 ]
