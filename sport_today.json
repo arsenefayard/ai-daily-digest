@@ -2,33 +2,33 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment franchi le cap du troisième tour au Miami Open malgré les interruptions dues aux pluies abondantes qui ont perturbé le tournoi. Alcaraz a dominé son adversaire en deux sets secs tandis que Swiatek a confirmé son statut de favorite avec une victoire autoritaire. Ces performances les positionnent comme les grands favoris pour les phases finales du Masters 1000.",
-      "why": "Ces avancées renforcent leur domination sur le circuit ATP et WTA en ce début de saison sur dur. Elles alimentent les attentes pour un éventuel duel en finale.",
+      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment franchi leurs tours précédents au Miami Open, atteignant les huitièmes de finale malgré les interruptions fréquentes dues aux averses tropicales. Les deux stars du tennis mondial ont démontré une grande résilience et une forme physique irréprochable face à des adversaires solides. Ce Masters 1000 reste un rendez-vous clé pour accumuler des points au classement ATP et WTA en vue de Roland-Garros.",
+      "why": "Leur avancée renforce leur statut de favoris pour le titre et pourrait influencer les classements mondiaux avant les tournois sur terre battue.",
       "category": "Tennis"
     },
     {
-      "title": "Tour de Catalogne : Victoire au sprint lors de la première étape",
-      "summary": "La première étape du Tour de Catalogne s'est conclue par un sprint massif remporté par un sprinteur vedette qui a devancé le peloton dans les derniers mètres. Cette arrivée rapide a permis à plusieurs coureurs de se disputer le maillot de leader dès le coup d'envoi de cette course WorldTour. Les grimpeurs attendent désormais les étapes montantes pour inverser la tendance.",
-      "why": "Ce début explosif lance la saison européenne sur route avec intensité. Il met en lumière les sprinteurs avant les favoris du général comme Pogacar.",
+      "title": "Tour de Catalogne : Victoire au sprint lors de la première étape explosive",
+      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur au terme d'une arrivée groupée très disputée, marquant le début en fanfare de cette course par étapes majeure du calendrier UCI. Les favoris du classement général ont surveillé leurs rivaux de près sans incident majeur. Cette épreuve attire les meilleurs grimpeurs et sprinteurs mondiaux en préparation des classiques printanières.",
+      "why": "Elle lance la saison européenne des courses par étapes et teste la forme des leaders avant les Grands Tours.",
       "category": "Autre"
     },
     {
-      "title": "TOP 14 : Résultats décisifs de la 20e journée pour le podium",
-      "summary": "La 20e journée du TOP 14 a livré des résultats cruciaux avec des victoires importantes pour les prétendants au podium et des revers pour les équipes en bas de tableau. Le Stade Toulousain et le Racing 92 ont consolidé leurs positions tandis que des clubs comme Perpignan luttent pour leur maintien. Ces matchs ont resserré la course à la qualification européenne.",
-      "why": "Cette journée décisive définit les contours de la phase finale. Elle impacte directement les enjeux de titre et de relégation.",
+      "title": "Ligue 1 : PSG s'impose et prend la tête après la 27e journée",
+      "summary": "Le Paris Saint-Germain a remporté son match décisif de la 27e journée de Ligue 1, lui permettant de reprendre la tête du classement devant ses poursuivants directs. Cette victoire consolide la position des Parisiens dans la course au titre et maintient la pression sur les autres prétendants. Les enjeux du maintien et des places européennes se précisent également avec ces résultats.",
+      "why": "Le PSG renforce son avance en championnat, impactant les qualifications pour la Ligue des Champions.",
+      "category": "Football"
+    },
+    {
+      "title": "TOP 14 : Résultats cruciaux de la 20e journée avec Montpellier et Racing en forme",
+      "summary": "La 20e journée du TOP 14 a vu Montpellier s'imposer à Clermont (20-17) et le Racing 92 écraser Castres (52-21), tandis que le Stade Français a dominé Toulon (47-26). Ces résultats renforcent les positions des équipes en haut du classement pour le podium final. La Rochelle et d'autres formations ont également gagné, rendant la course au titre plus serrée.",
+      "why": "Ces victoires décisives influencent la lutte pour les phases finales et les places européennes.",
       "category": "Rugby"
     },
     {
-      "title": "Betclic Elite : Monaco creuse l'écart après la 24e journée",
-      "summary": "L'AS Monaco a accentué son avance en tête de la Betclic Elite grâce à une victoire solide lors de la 24e journée, portant son total de points à une marge confortable sur ses poursuivants. Les surprises ont marqué d'autres rencontres avec des défaites inattendues pour des équipes du haut de tableau. Cette journée consolide la hiérarchie avant les playoffs.",
-      "why": "L'avance de Monaco renforce sa position de favori pour le titre. Elle intensifie la bataille pour les places qualificatives en Europe.",
-      "category": "Basketball"
-    },
-    {
       "title": "Athlétisme : Records du monde en salle aux Championnats de Pologne",
-      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont clôturés avec plusieurs records du monde battus dans des disciplines comme le saut en longueur et le 60m haies. Des athlètes de renom ont brillé sous les yeux d'un public conquis, marquant la fin d'un rendez-vous majeur de la saison hivernale. Ces performances préfigurent des enjeux élevés pour les JO d'été.",
-      "why": "Ces records historiques élèvent le niveau mondial de l'athlétisme en salle. Ils motivent la concurrence pour les compétitions estivales.",
+      "summary": "Les Championnats du monde d'athlétisme en salle en Pologne se sont conclus avec plusieurs records du monde battus dans des disciplines clés comme le sprint et les sauts. Des athlètes de renom ont brillé, repoussant les limites techniques et physiques de leur sport. Cet événement marque la fin de la saison hivernale sur une note historique.",
+      "why": "Les records mondiaux en salle boostent la visibilité de l'athlétisme et préfigurent les performances estivales.",
       "category": "Autre"
     }
   ],
