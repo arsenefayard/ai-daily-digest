@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Discours attendu du président de la Fed sur l'inflation et les taux",
-      "summary": "Le discours du président de la Réserve fédérale des États-Unis, prévu ce samedi 21 mars 2026, est scruté par les marchés pour évaluer la durabilité du nouveau cycle inflationniste lié aux prix élevés de l'énergie et aux chocs géopolitiques. Les investisseurs attendent des indications sur la volonté de la Fed de maintenir des taux élevés plus longtemps face à ces pressions externes. Ce discours pourrait influencer les devises, les obligations et les indices boursiers en clarifiant le scénario de base pour l'économie américaine.[1]",
-      "why": "Ce discours est crucial car il orientera les attentes sur la politique monétaire américaine, impactant directement les marchés mondiaux dans un contexte de volatilité géopolitique.",
-      "category": "Politique monétaire"
+      "title": "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
+      "summary": "L'indice Chicago Fed a affiché une croissance robuste le 23 mars 2026, confirmant un rythme économique américain supérieur à la tendance malgré les tensions géopolitiques. Les dépenses de construction ont également augmenté, signalant une solidité du cycle d'investissement dans les infrastructures. Ces données positives soutiennent les attentes d'une croissance du PIB américain autour de 2,4 % même en cas de choc pétrolier prolongé.",
+      "why": "Ces indicateurs renforcent la confiance des investisseurs dans la résilience de l'économie américaine et pourraient influencer les rendements des obligations et le dollar.",
+      "category": "Marchés"
     },
     {
-      "title": "Rapports des banques chinoises signalent un cycle de crédit fragile",
-      "summary": "Les rapports annuels des banques chinoises révèlent un cycle de crédit fragile, indiquant une qualité dégradée de l'activité économique et de la demande intérieure. Ces publications servent d'indicateur clé pour évaluer la santé du secteur bancaire chinois au milieu des tensions mondiales. Elles soulignent les défis persistants pour la reprise économique en Asie malgré les efforts de relance.[1]",
-      "why": "La fragilité du crédit chinois affecte la croissance mondiale, car la Chine représente une part majeure de la demande globale en matières premières et biens.",
-      "category": "Banques"
+      "title": "Confiance des consommateurs en zone euro montre des signes de redressement",
+      "summary": "L'enquête sur la confiance des consommateurs dans la zone euro, publiée le 23 mars 2026, indique une amélioration inattendue malgré la flambée des prix de l'énergie. Ce rebond suggère que l'humeur des ménages européens se stabilise face aux incertitudes géopolitiques. Les analystes y voient un potentiel soutien à la consommation intérieure dans les prochains trimestres.",
+      "why": "Une confiance en hausse pourrait atténuer les craintes de récession en Europe et influencer les décisions de la BCE sur les taux directeurs.",
+      "category": "Marchés"
     },
     {
-      "title": "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
-      "summary": "China Shenhua Energy, géant du charbon, publie des rapports annuels démontrant la résilience de ses flux de trésorerie malgré la volatilité des marchés mondiaux des matières premières. Ce proxy pour le complexe énergétique chinois illustre la solidité de la demande de charbon en Asie face à la crise énergétique globale. Ces résultats rassurent sur la capacité de la Chine à maintenir sa production énergétique stratégique.[1]",
-      "why": "Cette résilience renforce la sécurité énergétique chinoise, influençant les prix mondiaux des commodities et la stratégie des investisseurs en Asie.",
+      "title": "Rapport EQT AB met en lumière la performance des investissements alternatifs",
+      "summary": "Le rapport trimestriel d'EQT AB, publié le 23 mars 2026, révèle une forte performance des actifs alternatifs avec des rendements supérieurs aux indices boursiers traditionnels. L'entreprise suédoise souligne la résilience de ses portefeuilles face à la volatilité des marchés énergétiques. Ces résultats attirent l'attention des investisseurs institutionnels cherchant des refuges.",
+      "why": "Ce succès valide les stratégies d'investissement alternatives dans un contexte de chocs exogènes et pourrait rediriger les flux de capitaux.",
       "category": "Entreprises"
     },
     {
-      "title": "Shutdown américain cause un ralentissement temporaire de la croissance",
-      "summary": "Le shutdown gouvernemental aux États-Unis provoque un ralentissement ponctuel de la croissance économique, bien que ce déficit d'activité soit récupérable dans les prochains mois après deux trimestres de forte expansion. Le marché de l'emploi montre une légère amélioration, soutenant une toile de fond favorable malgré les tensions. Ce phénomène n'altère pas fondamentalement la dynamique positive de l'économie américaine.[3]",
-      "why": "Ce ralentissement temporaire teste la résilience économique des États-Unis, avec des implications sur la confiance des investisseurs avant les élections midterms.",
+      "title": "Nasdaq grimpe grâce à la poussée des technos et de l'intelligence artificielle",
+      "summary": "Le Nasdaq a enregistré une hausse significative le 23 mars 2026, porté par les valeurs technologiques et les avancées en IA, notamment Meta. Cette performance contraste avec les baisses des indices européens et reflète l'appétit pour les actifs de croissance. Les investisseurs parient sur la productivité accrue générée par l'IA malgré les risques géopolitiques.",
+      "why": "Cette dynamique sélective des technos démontre la décorrélation sectorielle et soutient le rebond de Wall Street.",
       "category": "Marchés"
     },
     {
-      "title": "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
-      "summary": "Le Nasdaq a mené la hausse des indices de Wall Street, porté par les valeurs technologiques et l'intelligence artificielle, contrastant avec les tensions géopolitiques mondiales. Meta et d'autres géants tech ont tiré les marchés vers le haut ce lundi. Ce rebond souligne la décorrélation sectorielle face aux chocs externes comme la guerre en Iran.[6]",
-      "why": "Cette performance des technos démontre la force du secteur IA aux États-Unis, offrant un refuge aux investisseurs au milieu de la volatilité globale.",
-      "category": "Marchés"
+      "title": "Scénarios de la BCE sur l'impact d'un conflit prolongé en Iran",
+      "summary": "La BCE a modélisé trois scénarios pour un conflit en Iran dépassant trois mois, prévoyant une croissance zone euro limitée à 0,5 % et une inflation à 4,5 %. La banque centrale envisage une hausse des taux pour contrer cette pression inflationniste liée au pétrole. Ces projections soulignent la vulnérabilité européenne aux chocs énergétiques.",
+      "why": "Elles guident les attentes des marchés sur la politique monétaire et pourraient précipiter une normalisation plus agressive des taux.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": []
