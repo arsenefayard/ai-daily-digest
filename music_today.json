@@ -2,35 +2,43 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "In Dread We Trust : festival metal à Cluses les 27 et 28 mars",
-      "summary": "Le festival In Dread We Trust se tiendra les 27 et 28 mars 2026 à Cluses en Haute-Savoie et proposera une programmation dédiée au metal extrême avec des groupes comme Nails en tête d'affiche. Cet événement attire chaque année des milliers de fans de death metal et grindcore dans une ambiance underground authentique. Il s'agit d'une occasion rare de voir des acts internationaux dans un cadre alpin intimiste.",
-      "why": "Ce festival renforce la scène metal française en dehors des grandes villes et complète les annonces récentes comme le concert de Kreator.",
-      "category": "Métal"
-    },
-    {
-      "title": "Les Détours de Babel : festival pluridisciplinaire à Grenoble du 18 mars au 5 avril",
-      "summary": "Les Détours de Babel investit Grenoble du 18 mars au 5 avril 2026 avec une programmation mêlant musiques du monde, jazz et performances artistiques innovantes. Ce rendez-vous annuel met en lumière des artistes internationaux et locaux dans divers lieux de la ville. Il offre une expérience immersive combinant concerts, expositions et débats culturels.",
-      "why": "Il représente un pilier des festivals printaniers en France avec une diversité qui enrichit le paysage musical actuel.",
-      "category": "Autre"
-    },
-    {
-      "title": "Avec Le Temps : festival jazz à Marseille jusqu'au 24 mars",
-      "summary": "Le festival Avec Le Temps se déroule à Marseille du 5 au 24 mars 2026 et met à l'honneur le jazz contemporain avec des concerts dans des salles emblématiques comme le Docks des Suds. Des artistes comme Ibrahim Maalouf ou des trios émergents y performent, explorant les croisements entre jazz, électro et musiques méditerranéennes. La programmation culmine avec des jam sessions ouvertes au public.",
-      "why": "Ce festival vitalise la scène jazz française dans le sud et propose des découvertes uniques en fin de mois.",
-      "category": "Jazz"
-    },
-    {
-      "title": "Blues Autour Du Zinc : festival blues à Beauvais fin mars",
-      "summary": "Blues Autour Du Zinc aura lieu du 26 au 29 mars 2026 à Beauvais et réunira des bluesmen internationaux dans des lieux conviviaux comme des zincs et petites salles. La programmation inclut des légendes du Delta blues et des talents hexagonaux pour une immersion roots. L'événement met l'accent sur l'interaction directe entre artistes et public.",
-      "why": "Il préserve la tradition blues en Picardie et offre une alternative apaisée aux festivals plus bruyants.",
+      "title": "Geese en double concert à Paris : succès du trio américain après Getting Killed",
+      "summary": "Le groupe américain Geese, porté par le succès de son troisième album Getting Killed sorti en 2025 via Partisan Records, s'est produit en double concert à Paris les 6 et 7 mars 2026, d'abord au Bataclan puis à La Cigale. Ces deux dates consécutives témoignent de l'engouement croissant du public français pour ce trio qui figure parmi les groupes incontournables du moment. Cameron Winter et ses compères ont pu satisfaire leur fanbase française avec un répertoire puisant dans leur discographie riche.",
+      "why": "Geese représente une nouvelle génération de musiciens rock alternatif qui gagne en popularité internationale, et ces concerts parisiens marquent l'importance croissante de la scène française pour les artistes américains émergents.",
       "category": "Rock"
     },
     {
-      "title": "Festival de Musique Sacrée de Perpignan jusqu'au 4 avril",
-      "summary": "Le Festival de Musique Sacrée de Perpignan se tient du 16 mars au 4 avril 2026 dans des églises et cathédrales catalanes avec des œuvres baroques et sacrées interprétées par des ensembles vocaux et instrumentaux. Des compositeurs comme Bach et des contemporains y sont mis en lumière dans un cadre historique. Les concerts gratuits ou à tarif modéré attirent un public mélomane varié.",
-      "why": "Il fusionne musique classique et patrimoine religieux, attirant un public fidèle en quête d'expériences spirituelles.",
-      "category": "Classique"
+      "title": "Sleaford Mods de retour après une pause : le duo electro-punk britannique reprend la route",
+      "summary": "Après une année d'absence, le duo electro-punk britannique Sleaford Mods a repris ses activités de tournée avec un concert au Casino de Paris le 10 mars 2026. Jason Williamson et Andrew Fearn ont pu puiser dans leur impressionnante discographie de treize albums studio pour offrir une soirée riche à leurs fans parisiens. Ce retour sur scène marque la fin d'une période de pause et confirme la vitalité du projet musical.",
+      "why": "Le retour de Sleaford Mods est significatif pour la scène electro-punk britannique, et leur présence à Paris souligne l'intérêt durable du public français pour ce duo expérimental et provocateur.",
+      "category": "Électro"
+    },
+    {
+      "title": "David Byrne lance sa tournée internationale à la Seine Musicale avec 13 musiciens",
+      "summary": "L'ancien leader des Talking Heads David Byrne a lancé sa tournée internationale avec deux concerts exceptionnels à la Seine Musicale les 18 et 19 mars 2026, suite à la sortie de son album Who Is The Sky? en septembre 2025 réalisé avec le Ghost Train Orchestra. Ces représentations parisiennes se distinguent par la présence de treize musiciens, chanteurs et danseurs accompagnant Byrne sur scène, créant un spectacle visuel et sonore ambitieux. Cette tournée promet une expérience haute en couleur reflétant l'approche artistique multidisciplinaire de Byrne.",
+      "why": "Le retour de David Byrne en tournée internationale représente un événement majeur pour les fans de musique expérimentale et de post-punk, et son approche collaborative avec un grand ensemble musical redéfinit les standards des concerts solo.",
+      "category": "Rock"
+    },
+    {
+      "title": "Marlon Magnée célèbre son premier album solo Dark Star au Supersonic",
+      "summary": "Marlon Magnée, cofondateur de La Femme, l'un des groupes français les plus marquants des années 2010, a poursuivi son aventure musicale en solitaire avec la sortie de son premier album Dark Star le 6 mars 2026. Il a célébré cette nouvelle étape de sa carrière lors d'un concert au Supersonic le 26 mars 2026, marquant ainsi sa transition réussie vers une carrière solo. Cet album représente une évolution personnelle pour l'artiste après des années au sein d'un collectif influent.",
+      "why": "Le passage de Marlon Magnée à la carrière solo est un moment charnière pour la scène française, car il montre comment les figures majeures de la musique indépendante française explorent de nouvelles directions artistiques.",
+      "category": "Autre"
+    },
+    {
+      "title": "In Dread We Trust : festival metal à Cluses les 27 et 28 mars",
+      "summary": "Le festival In Dread We Trust s'est déroulé à Cluses en Haute-Savoie les 27 et 28 mars 2026, offrant une plateforme importante aux amateurs de musique metal français et européens. Cet événement régional dédié au metal a rassemblé des fans et des artistes autour de cette musique intense et passionnée. Le festival confirme la vitalité de la scène metal en France et l'importance des événements régionaux pour promouvoir ce genre musical.",
+      "why": "In Dread We Trust illustre la force de la communauté metal française et l'existence d'une infrastructure festivalière solide en régions, permettant aux fans de vivre des expériences metal authentiques en dehors des grands centres urbains.",
+      "category": "Métal"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Kreator, Carcass, Exodus et Nails réunis au Zénith de Paris le 24 mars",
+      "original": "Kreator, Carcass, Exodus et Nails réunis au Zénith de Paris le 24 mars",
+      "summary": "Le concert metal majeur réunissant Kreator, Carcass, Exodus et Nails s'est déroulé au Zénith de La Villette à Paris le 24 mars 2026, confirmant l'importance de cet événement pour la scène metal parisienne. Cette soirée a rassemblé quatre formations légendaires du metal extrême, offrant aux fans une opportunité rare de voir ces groupes en co-headlining. L'événement a marqué un moment fort pour les amateurs de metal thrash et death metal.",
+      "why": "Ce concert représente un événement exceptionnel pour la scène metal française, réunissant des légendes du genre et confirmant Paris comme destination majeure pour les tournées metal internationales.",
+      "category": "Métal"
+    }
+  ]
 }
