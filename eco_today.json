@@ -2,34 +2,34 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
-      "summary": "Le Nasdaq a mené la hausse des indices américains avec une progression notable, tirée par les performances de Meta et d'autres géants technologiques investissant massivement dans l'intelligence artificielle. Ce rebond intervient après des semaines de volatilité liées au conflit en Iran, offrant un contraste avec les baisses observées en Europe. Les investisseurs parient sur la résilience du secteur tech, qui représente désormais plus de 30% de la capitalisation du S&P 500.",
-      "why": "Ce mouvement souligne la divergence entre les marchés technologiques américains et les indices traditionnels affectés par l'énergie, influençant les allocations d'actifs mondiales.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Les stocks mondiaux de pétrole offshore s'épuisent après trois semaines de perturbations au Golfe",
-      "summary": "Les réserves pétrolières transportées par les pétroliers diminuent rapidement pour la troisième semaine consécutive en raison des blocages dans le Golfe persistant. Cela accentue la pression sur les prix du baril, qui dépassent désormais les 120 dollars, avec des impacts directs sur les coûts logistiques mondiaux. Les analystes prévoient une accélération de l'inflation énergétique si les flux ne reprennent pas d'ici fin mars.",
-      "why": "Cette épuisement des stocks offshore risque de prolonger le choc pétrolier, forçant les banques centrales à réviser leurs prévisions inflationnistes à la hausse.",
+      "title": "Le Japon puise dans ses réserves stratégiques de pétrole face à la crise",
+      "summary": "Le Japon a annoncé le début d'un recours à ses réserves stratégiques de pétrole depuis lundi pour contrer les perturbations d'approvisionnement dues au conflit au Moyen-Orient. Cette mesure vise à stabiliser les prix intérieurs et à éviter une flambée inflationniste dans l'archipel dépendant des importations énergétiques. Elle souligne l'urgence mondiale face à la fermeture persistante du détroit d'Ormuz, avec des impacts potentiels sur la croissance japonaise estimée à un ralentissement de 0,5 point de PIB.",
+      "why": "Cette action inédite de Tokyo signale une accélération de la crise énergétique mondiale et pourrait inciter d'autres pays importateurs à suivre, amplifiant la volatilité des prix du pétrole.",
       "category": "Matières premières"
     },
     {
-      "title": "La flambée des prix du carburant propulse les ventes de véhicules électriques en France",
-      "summary": "Les commandes de véhicules électriques chez les concessionnaires français ont explosé ces dernières semaines, portées par la hausse des prix du carburant due au conflit moyen-oriental. Contrairement aux aides passées, cette dynamique repose sur la réduction des coûts d'utilisation, avec une augmentation de 40% des précommandes chez les constructeurs. Cela stimule le secteur automobile vert et réduit la dépendance aux importations pétrolières.",
-      "why": "Ce basculement accélère la transition énergétique en Europe, avec des implications positives pour les entreprises comme Renault et Stellantis face à la crise des matières premières.",
-      "category": "Entreprises"
+      "title": "L'Italie réduit les taxes sur les carburants de 25 centimes par litre",
+      "summary": "Giorgia Meloni a annoncé une baisse de 25 centimes par litre sur les carburants en Italie pour atténuer l'impact de la flambée des prix due au choc pétrolier iranien. Cette mesure d'urgence, valable pour plusieurs semaines, vise à protéger le pouvoir d'achat des ménages et des entreprises face à une hausse de 40 % des prix à la pompe. Elle s'inscrit dans une série de réponses européennes à la crise, avec un coût budgétaire estimé à 2 milliards d'euros.",
+      "why": "Cette intervention étatique illustre le risque d'un endettement accru en Europe pour contrer l'inflation énergétique, potentiellement freinant les plans de consolidation budgétaire.",
+      "category": "Politique monétaire"
     },
     {
-      "title": "JP Morgan, Morgan Stanley et Barclays anticipent une hausse des taux BCE en avril",
-      "summary": "Les grandes banques d'investissement prévoient unanimement une première hausse des taux directeurs de la BCE en avril 2026, motivée par les risques inflationnistes accrus du conflit au Moyen-Orient. Les prix de l'énergie élevés pourraient pousser l'inflation zone euro au-delà de 4%, contraignant Francfort à resserrer sa politique monétaire. Cette anticipation pèse déjà sur les obligations souveraines européennes.",
-      "why": "Une telle décision renforcerait l'euro mais freinerait la croissance, marquant un tournant dans la lutte contre l'inflation importée.",
+      "title": "Le Royaume-Uni convoque une réunion d'urgence pour aider les vulnérables",
+      "summary": "Le Premier ministre britannique Keir Starmer a décidé d'une réunion d'urgence pour déployer une aide ciblée aux travailleurs les plus vulnérables touchés par la hausse des prix de l'énergie. Cette initiative répond à l'explosion des coûts du gaz et du pétrole, avec des subventions prévues pour 5 millions de ménages. Elle reflète les pressions inflationnistes qui pourraient porter l'inflation UK à 4 % d'ici fin 2026.",
+      "why": "Cette mesure met en lumière les tensions sociales croissantes en Europe dues à la crise, risquant d'alimenter une récession si les soutiens fiscaux s'accumulent.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "La Banque centrale russe abaisse son taux directeur à 15 % pour la septième fois",
+      "summary": "La Banque centrale russe a réduit son taux directeur de 50 points de base à 15 % le 20 mars, marquant la septième baisse consécutive pour soutenir une croissance équilibrée malgré les sanctions et le conflit régional. Cette politique accommodante vise à stimuler le crédit intérieur et à stabiliser le rouble face aux incertitudes géopolitiques élargies. Les experts prévoient une croissance russe de 2,5 % en 2026 grâce à cette flexibilité monétaire.",
+      "why": "Cette décision contraste avec le resserrement ailleurs et renforce la résilience économique russe, influençant les flux de capitaux émergents.",
       "category": "Banques"
     },
     {
-      "title": "CAC 40 chute de 3,11% à 7 665 points, DAX perd 8,62% depuis le début de l'année",
-      "summary": "L'indice CAC 40 a clôturé vendredi sur une baisse marquée de 3,11%, à 7 665 points, portant son repli annuel à près de 6%, tandis que le DAX accuse la plus forte perte en zone euro avec 8,62%. Cette séquence de trois semaines de volatilité est amplifiée par le conflit en Iran et les incertitudes géopolitiques. Les indices européens contrastent avec la résilience relative de Wall Street.",
-      "why": "Cette dégringolade reflète la vulnérabilité européenne aux chocs énergétiques, impactant les stratégies d'investissement et les flux de capitaux.",
-      "category": "Marchés"
+      "title": "Explosion des commandes de véhicules électriques en France due aux prix du carburant",
+      "summary": "Les ventes de véhicules électriques ont explosé en France ces dernières semaines, portées par la flambée des prix du carburant liée au conflit iranien, selon Le Figaro. Les commandes chez les constructeurs ont augmenté de 50 % par rapport à l'an dernier, surpassant les effets des aides fiscales passées. Ce boom soutient l'industrie automobile française, avec Renault et Stellantis prévoyant une accélération de la production électrique.",
+      "why": "Cette transition accélérée vers l'électrique dope les investissements verts en Europe mais expose les constructeurs à la volatilité des matières premières comme le lithium.",
+      "category": "Entreprises"
     }
   ],
   "updates": []
