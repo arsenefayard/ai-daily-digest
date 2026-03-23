@@ -219,17 +219,21 @@ footer { position:fixed; bottom:0; left:0; right:0; height:var(--footer-h); z-in
   .counter, .date-badge { font-size: 12px; }
   #stage { left: 16px; right: 16px; }
   .card {
-    inset: 18px auto;
-    left: 50%;
+    inset: 18px 0;
+    left: auto;
+    right: auto;
+    margin: 0 auto;
     width: min(920px, calc(100vw - 72px));
-    transform: translateX(calc(-50% + 54px)) scale(0.98);
+    transform: translateX(54px) scale(0.98);
     padding: 32px 34px;
     border-radius: 24px;
     gap: 16px;
+    contain: layout paint style;
+    will-change: transform, opacity;
   }
-  .card.active { transform: translateX(-50%) scale(1); }
-  .card.prev { transform: translateX(calc(-50% - 54px)) scale(0.98); }
-  .card.next { transform: translateX(calc(-50% + 54px)) scale(0.98); }
+  .card.active { transform: translateX(0) scale(1); }
+  .card.prev { transform: translateX(-54px) scale(0.98); }
+  .card.next { transform: translateX(54px) scale(0.98); }
   .card-title { font-size: clamp(24px, 2.1vw, 33px); line-height: 1.24; }
   .card-body { font-size: 17px; line-height: 1.9; }
   .why-box { padding: 14px 16px; max-height: 36%; }
