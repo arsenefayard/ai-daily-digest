@@ -20,36 +20,36 @@ _STOPWORDS = {
     "aux", "pour", "sur", "dans", "avec", "par", "qui", "que", "est", "son",
     "sa", "ses", "vers", "plus", "apres", "avant", "face", "entre", "meta",
     "lance", "annonce", "publie", "nouveau", "nouvelle", "premier", "jour",
-    "cette", "suite", "selon", "contre", "apres", "mars", "avril", "mai",
+    "cette", "suite", "selon", "contre", "mars", "avril", "mai",
 }
 
 _SIGNALS = {
     "ia": [
-        ("Modeles", ["modele", "llm", "gpt", "sonar", "agent", "inference"]),
+        ("Innovation", ["modele", "llm", "gpt", "sonar", "agent", "inference"]),
         ("Regulation", ["regulation", "loi", "compliance", "directive", "autorite"]),
-        ("Open-source", ["open", "source", "github", "poids", "checkpoint"]),
-        ("Infra", ["datacenter", "gpu", "puce", "semi", "cloud"]),
+        ("Strategie", ["ecosysteme", "positionnement", "partenariat", "acteur"]),
         ("Produit", ["copilot", "assistant", "application", "lancement", "version"]),
+        ("Industrie", ["concurrence", "editeur", "entreprise", "marche"]),
     ],
     "geo": [
-        ("Conflits", ["guerre", "frappe", "offensive", "front", "missile"]),
+        ("Securite", ["guerre", "frappe", "offensive", "front", "missile"]),
         ("Diplomatie", ["sommet", "accord", "negociation", "alliance", "onu"]),
         ("Sanctions", ["sanction", "embargo", "restriction", "douane"]),
-        ("Elections", ["election", "vote", "coalition", "parlement", "president"]),
+        ("Gouvernance", ["election", "vote", "coalition", "parlement", "president"]),
         ("Energie", ["gaz", "petrole", "nucleaire", "pipeline", "opec"]),
     ],
     "eco": [
         ("Marches", ["marche", "bourse", "indice", "actions", "obligation"]),
         ("Monetaire", ["taux", "banque centrale", "fed", "bce", "inflation"]),
         ("Entreprise", ["resultats", "fusion", "acquisition", "restructuration"]),
-        ("Commerce", ["tarif", "export", "import", "supply", "chaine"]),
+        ("Macro", ["croissance", "conjoncture", "activite", "pib", "emploi"]),
         ("Crypto", ["bitcoin", "crypto", "blockchain", "etf"]),
     ],
     "sport": [
         ("Competitions", ["ligue", "championnat", "tournoi", "grand prix"]),
         ("Transferts", ["transfert", "mercato", "signature", "contrat"]),
         ("Performances", ["record", "victoire", "finale", "classement"]),
-        ("Blessures", ["blessure", "forfait", "retour", "suspension"]),
+        ("Enjeux", ["blessure", "forfait", "retour", "suspension"]),
         ("Calendrier", ["saison", "journee", "phase", "playoff"]),
     ],
     "music": [
@@ -57,7 +57,7 @@ _SIGNALS = {
         ("Tournees", ["tournee", "concert", "festival", "scene"]),
         ("Industrie", ["label", "streaming", "droits", "catalogue"]),
         ("Artistes", ["groupe", "chanteur", "guitariste", "metal", "rock"]),
-        ("Charts", ["classement", "top", "billboard", "ecoutes"]),
+        ("Audience", ["classement", "top", "billboard", "ecoutes"]),
     ],
     "science": [
         ("Recherche", ["etude", "publication", "laboratoire", "revue"]),
@@ -76,7 +76,7 @@ _SIGNALS = {
     "history": [
         ("Contexte", ["empire", "royaume", "republique", "civilisation"]),
         ("Chronologie", ["siecle", "annee", "periode", "regne"]),
-        ("Strategie", ["bataille", "campagne", "alliance", "frontiere"]),
+        ("Pouvoirs", ["bataille", "campagne", "alliance", "frontiere"]),
         ("Personnalites", ["roi", "general", "philosophe", "explorateur"]),
         ("Heritage", ["memoire", "impact", "tradition", "transmission"]),
     ],
@@ -105,10 +105,26 @@ def _extract_titles(payload):
     return [t for t in titles if t]
 
 
+def _fallback_parts(fallback):
+    vals = [x.strip() for x in re.split(r"[,&]", fallback) if x.strip()]
+    return vals[:3]
+
+
+def _format_triptych(parts):
+    vals = [p for p in parts if p]
+    if len(vals) >= 3:
+        return f"{vals[0]}, {vals[1]} & {vals[2]}"
+    if len(vals) == 2:
+        return f"{vals[0]}, {vals[1]} & Perspectives"
+    if len(vals) == 1:
+        return f"{vals[0]}, Analyse & Perspectives"
+    return "Analyse, Tendances & Perspectives"
+
+
 def _keywords_from_titles(titles, section_key, fallback):
     blob = _norm(" | ".join(titles))
     if not blob.strip():
-        return fallback
+        return _format_triptych(_fallback_parts(fallback))
 
     scored = []
     for label, hints in _SIGNALS.get(section_key, []):
@@ -119,6 +135,7 @@ def _keywords_from_titles(titles, section_key, fallback):
         if score:
             scored.append((score, label))
     scored.sort(reverse=True)
+
     labels = []
     for _, label in scored:
         if label not in labels:
@@ -126,9 +143,14 @@ def _keywords_from_titles(titles, section_key, fallback):
         if len(labels) == 3:
             break
     if len(labels) >= 2:
-        return " · ".join(labels)
+        if len(labels) < 3:
+            for extra in _fallback_parts(fallback):
+                if extra not in labels:
+                    labels.append(extra)
+                if len(labels) == 3:
+                    break
+        return _format_triptych(labels)
 
-    # Fallback lexical si peu de signaux matches.
     tokens = re.findall(r"[A-Za-z0-9'-]+", blob)
     freq = {}
     for tok in tokens:
@@ -138,20 +160,20 @@ def _keywords_from_titles(titles, section_key, fallback):
         freq[tok] = freq.get(tok, 0) + 1
     top = [w for w, _ in sorted(freq.items(), key=lambda kv: (-kv[1], kv[0]))[:3]]
     if top:
-        return " · ".join(w.capitalize() for w in top)
-    return fallback
+        return _format_triptych([w.capitalize() for w in top])
+    return _format_triptych(_fallback_parts(fallback))
 
 
 def _fetch_caption(base, path, section_key, fallback):
     try:
         r = requests.get(f"{base}/{path}", timeout=8)
         if not r.ok:
-            return html.escape(fallback)
+            return html.escape(_format_triptych(_fallback_parts(fallback)))
         titles = _extract_titles(r.json())
         caption = _keywords_from_titles(titles, section_key, fallback)
         return html.escape(caption)
     except Exception:
-        return html.escape(fallback)
+        return html.escape(_format_triptych(_fallback_parts(fallback)))
 
 
 def _card(label, color, caption, href, padding):
@@ -162,9 +184,8 @@ def _card(label, color, caption, href, padding):
         f'<div style="font-size:14px;font-weight:700;color:#f0ede6;line-height:1.3;'
         f'font-family:Georgia,serif;">{caption}</div>'
         f'<div style="margin-top:14px;">'
-        f'<span style="display:inline-block;border:1px solid {color};color:{color};'
-        f'font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;'
-        f'padding:4px 9px;border-radius:999px;">Lire</span></div></a>'
+        f'<span style="font-size:9px;letter-spacing:1.6px;text-transform:uppercase;'
+        f'color:{color};font-family:Arial,sans-serif;">Lire &rarr;</span></div></a>'
     )
 
 
@@ -185,31 +206,36 @@ def send_combined_email():
     date_header = f"{now.day} {_MONTHS_FR[now.month - 1]} {now.year}"
     year = now.year
 
-    cap_ia = _fetch_caption(base, "today.json", "ia", "Modeles · Regulation · Infra")
-    cap_geo = _fetch_caption(base, "geo_today.json", "geo", "Conflits · Diplomatie · Energie")
-    cap_eco = _fetch_caption(base, "eco_today.json", "eco", "Marches · Monetaire · Entreprise")
-    cap_sport = _fetch_caption(base, "sport_today.json", "sport", "Competitions · Performances · Calendrier")
-    cap_music = _fetch_caption(base, "music_today.json", "music", "Sorties · Tournees · Industrie")
-    cap_science = _fetch_caption(base, "science_today.json", "science", "Recherche · Sante · Espace")
-    cap_culture = _fetch_caption(base, "culture_today.json", "culture", "Idees · Cinema · Tendances")
-    cap_history = _fetch_caption(base, "history_today.json", "history", "Contexte · Chronologie · Heritage")
+    cap_ia = _fetch_caption(base, "today.json", "ia", "Innovation, Regulation & Strategie")
+    cap_geo = _fetch_caption(base, "geo_today.json", "geo", "Securite, Diplomatie & Gouvernance")
+    cap_eco = _fetch_caption(base, "eco_today.json", "eco", "Marches, Macro & Monetaire")
+    cap_sport = _fetch_caption(base, "sport_today.json", "sport", "Competitions, Enjeux & Performances")
+    cap_music = _fetch_caption(base, "music_today.json", "music", "Sorties, Industrie & Audience")
+    cap_science = _fetch_caption(base, "science_today.json", "science", "Recherche, Sante & Espace")
+    cap_culture = _fetch_caption(base, "culture_today.json", "culture", "Idees, Cinema & Tendances")
+    cap_history = _fetch_caption(base, "history_today.json", "history", "Contexte, Chronologie & Heritage")
 
     html_body = f"""
 <html>
 <head>
   <meta charset="UTF-8">
-  <meta name="color-scheme" content="dark">
+  <meta name="color-scheme" content="dark only">
   <meta name="supported-color-schemes" content="dark">
+  <meta name="x-apple-disable-message-reformatting">
   <style>
     :root {{ color-scheme: dark; }}
+    body, table, td, div, p, span, a {{
+      color-scheme: dark !important;
+      forced-color-adjust: none !important;
+    }}
   </style>
 </head>
-<body bgcolor="#1a1a1a" style="margin:0;padding:0;background:#1a1a1a;color:#f0ede6;">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#1a1a1a" style="background:#1a1a1a;">
+<body bgcolor="#1a1a1a" style="margin:0;padding:0;background-color:#1a1a1a !important;color:#f0ede6 !important;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#1a1a1a" style="background-color:#1a1a1a !important;">
 <tr><td align="center" style="padding:30px 16px;">
-<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#222222" style="background:#222222;max-width:560px;">
+<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#222222" style="background-color:#222222 !important;max-width:560px;">
   <tr>
-    <td bgcolor="#1a1a1a" style="background:#1a1a1a;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
+    <td bgcolor="#1a1a1a" style="background-color:#1a1a1a !important;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td>
           <div style="font-size:9px;letter-spacing:3px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-bottom:8px;">{date_header} &middot; Edition matinale</div>
@@ -253,7 +279,7 @@ def send_combined_email():
           <div style="font-size:14px;font-weight:700;color:#f0ede6;font-family:Georgia,serif;">{cap_history}</div>
         </td>
         <td align="right" valign="bottom" style="padding-left:14px;">
-          <span style="display:inline-block;border:1px solid #a07840;color:#a07840;font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;padding:4px 9px;border-radius:999px;">Lire</span>
+          <span style="font-size:9px;letter-spacing:1.6px;text-transform:uppercase;color:#a07840;font-family:Arial,sans-serif;">Lire &rarr;</span>
         </td>
       </tr></table>
     </a>
@@ -264,7 +290,7 @@ def send_combined_email():
     <a href="{base}/favorites.html" style="display:block;text-decoration:none;color:inherit;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td><span style="font-size:13px;color:#c8a96e;">&#9733;</span><span style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:700;margin-left:10px;">Mes Favoris</span></td>
-        <td align="right" style="padding-left:16px;white-space:nowrap;"><span style="display:inline-block;border:1px solid #554f3a;color:#554f3a;font-size:9px;letter-spacing:1.6px;text-transform:uppercase;font-family:Arial,sans-serif;padding:4px 9px;border-radius:999px;">Retrouver</span></td>
+        <td align="right" style="padding-left:22px;white-space:nowrap;"><span style="font-size:9px;letter-spacing:1.6px;text-transform:uppercase;color:#554f3a;font-family:Arial,sans-serif;">Retrouver &rarr;</span></td>
       </tr></table>
     </a>
   </td></tr>
