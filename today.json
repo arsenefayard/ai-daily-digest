@@ -2,35 +2,43 @@
   "date": "23/03/2026",
   "news": [
     {
-      "title": "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
-      "summary": "Cursor, l'IDE leader pour le développement assisté par IA, déploie sa version 2.6 qui intègre les MCP Apps pour une gestion avancée des agents multi-tâches et une compatibilité native avec JetBrains, permettant une édition de code fluide entre environnements. Cette mise à jour optimise les workflows multi-agents avec une réduction de 40% du temps de débogage grâce à des analyses prédictives en temps réel. Elle renforce la position de Cursor dans la course aux sept IDE dominants du marché agentique.",
-      "why": "Cette évolution technique accélère l'adoption des agents IA dans le développement logiciel, impactant directement la productivité des équipes engineering.",
+      "title": "OpenAI déploie GPT-5.4 avec contrôle natif d'ordinateur et 1 million de tokens",
+      "summary": "OpenAI a lancé GPT-5.4, le premier modèle capable de contrôler nativement un ordinateur en manipulant le clavier, la souris et en capturant des écrans, avec une fenêtre de contexte de 1 million de tokens. Cette avancée majeure marque un tournant dans l'interaction homme-machine en permettant aux modèles d'IA d'automatiser directement les tâches informatiques sans API intermédiaire. Le modèle représente une étape cruciale vers l'autonomie complète des agents IA dans les environnements numériques.",
+      "why": "Cette capacité de contrôle natif d'ordinateur transforme fondamentalement la façon dont l'IA peut automatiser les workflows professionnels et personnels, ouvrant des possibilités d'agents autonomes beaucoup plus puissants et polyvalents.",
+      "category": "Modèle"
+    },
+    {
+      "title": "DeepSeek V4 : un modèle multimodal géant avec 1 000 milliards de paramètres",
+      "summary": "DeepSeek a dévoilé V4, un modèle multimodal natif capable de traiter texte, image et vidéo avec 1 000 milliards de paramètres, optimisé pour fonctionner sur les puces Huawei. Ce modèle chinois représente une avancée majeure en termes de capacités multimodales et d'efficacité énergétique sur l'infrastructure locale. Il positionne la Chine comme acteur technologique majeur dans la course aux modèles de frontier.",
+      "why": "DeepSeek V4 démontre que les acteurs chinois peuvent développer des modèles de classe mondiale tout en contournant les restrictions technologiques occidentales, intensifiant la compétition géopolitique dans l'IA.",
+      "category": "Modèle"
+    },
+    {
+      "title": "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour M365",
+      "summary": "Microsoft a lancé Copilot Cowork, intégrant nativement Claude d'Anthropic dans la suite Microsoft 365, incluant Word, Excel, PowerPoint et Outlook. Cette intégration profonde signale la domination croissante de Claude dans le secteur enterprise et renforce le partenariat stratégique entre Microsoft et Anthropic. Elle offre aux utilisateurs professionnels un accès direct aux capacités avancées de Claude dans leurs outils quotidiens.",
+      "why": "Cette intégration consolide la position de Claude comme modèle préféré des entreprises et démontre que Microsoft diversifie ses sources de modèles IA au-delà d'OpenAI pour offrir les meilleures solutions à ses clients.",
       "category": "Application"
     },
     {
-      "title": "OpenAI déploie Codex sur Windows avec agents parallèles",
-      "summary": "OpenAI étend son modèle Codex, spécialisé en codage, à Windows via une intégration native qui supporte des agents parallèles exécutant simultanément plusieurs tâches de programmation. Cette version gère des contextes étendus jusqu'à 500 000 tokens et intègre des outils comme Git et les APIs système pour une automatisation complète. Le déploiement cible les entreprises pour booster l'efficacité des pipelines DevOps.",
-      "why": "Elle marque une avancée concrète vers l'IA agentique dans les environnements professionnels, élargissant l'accès à des outils avancés de codage.",
-      "category": "Application"
-    },
-    {
-      "title": "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
-      "summary": "Google déploie le Pixel Drop mensuel de mars 2026, intégrant des améliorations IA comme la reconnaissance visuelle avancée en temps réel et des agents vocaux contextuels sur les smartphones Pixel. Cette mise à jour utilise Gemini pour une édition photo automatisée et une traduction simultanée multimodale avec faible latence. Elle vise à démocratiser l'IA embarquée sur mobile pour 100 millions d'utilisateurs.",
-      "why": "Ce lancement renforce la concurrence sur l'IA grand public et pose les bases pour des interactions plus immersives au quotidien.",
-      "category": "Application"
-    },
-    {
-      "title": "Elon Musk annonce Macrohard, fusion Tesla et xAI pour Digital Optimus",
-      "summary": "Elon Musk révèle Macrohard, une entité fusionnant Tesla et xAI pour développer Digital Optimus, un agent IA incarné dans un robot humanoïde capable d'exécuter des tâches physiques et cognitives autonomes. Ce projet combine Grok pour le raisonnement et les capteurs Tesla pour la navigation en environnement réel, avec un prototype prévu pour fin 2026. L'initiative cible l'industrie et les foyers pour une robotique ubiquitaire.",
-      "why": "Cette fusion stratégique accélère l'ère de la robotique IA, avec des implications massives sur l'automatisation industrielle et domestique.",
+      "title": "Elon Musk annonce Macrohard : fusion Tesla et xAI pour créer Digital Optimus",
+      "summary": "Elon Musk a annoncé la création de Macrohard, une fusion stratégique entre Tesla et xAI visant à développer Digital Optimus, un agent IA incarné dans un corps robotique. Ce projet ambitieux combine l'expertise en robotique de Tesla avec les capacités de modélisation avancée de xAI pour créer un système autonome complet. L'initiative représente une vision intégrée de l'IA agentique appliquée à la robotique physique.",
+      "why": "Macrohard symbolise la convergence entre l'IA générative et la robotique physique, marquant un tournant vers des agents IA capables d'interagir directement avec le monde physique plutôt que seulement numérique.",
       "category": "Entreprise"
     },
     {
-      "title": "Parlement européen adopte résolution sur IA générative et droit d'auteur",
-      "summary": "Le 10 mars 2026, le Parlement européen a adopté une résolution appelant à plus de transparence sur les données d'entraînement des modèles IA génératifs et à un cadre juridique renforcé pour l'usage de contenus protégés. Elle propose d'adapter la directive CDSM aux pratiques d'entraînement et de combattre les deepfakes via des obligations de signalement. Cette position influence la régulation européenne imminente sur l'IA.",
-      "why": "Elle définit les contours éthiques et légaux de l'IA générative, impactant les géants tech et protégeant les créateurs.",
-      "category": "Régulation"
+      "title": "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA massifs",
+      "summary": "Meta a annoncé une réduction de ses effectifs d'au moins 20% pour compenser les coûts colossaux de ses investissements en infrastructures d'intelligence artificielle et préparer des gains d'efficacité permis par les outils assistés par l'IA. Cette décision intervient après l'investissement de 107 milliards de dollars et le retard du modèle Avocado en raison de performances insuffisantes. La réduction vise à améliorer la rentabilité tout en maintenant les investissements technologiques stratégiques.",
+      "why": "Cette restructuration majeure reflète la pression croissante sur les grandes tech de transformer leurs investissements IA massifs en résultats financiers concrets, marquant la fin de l'ère de l'IA comme simple centre de coûts.",
+      "category": "Entreprise"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
+      "original": "Nvidia est attendue pour des annonces majeures lors de sa conférence annuelle des développeurs",
+      "summary": "Le directeur général de Nvidia a présenté de nouvelles puces et logiciels IA lors de la conférence annuelle des développeurs du groupe le 23 mars 2026. Ces annonces renforcent la position dominante de Nvidia dans l'infrastructure IA et répondent à la demande croissante de puissance de calcul pour les modèles de frontier. Le fabricant de semi-conducteurs a progressé de 1,62% en bourse suite à ces annonces.",
+      "why": "Ces nouvelles puces et logiciels sont critiques pour soutenir la prochaine génération de modèles IA et d'agents autonomes, consolidant le rôle indispensable de Nvidia dans l'écosystème technologique.",
+      "category": "Entreprise"
+    }
+  ]
 }
