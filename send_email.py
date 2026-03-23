@@ -230,12 +230,12 @@ def send_combined_email():
     }}
   </style>
 </head>
-<body bgcolor="#1a1a1a" style="margin:0;padding:0;background-color:#1a1a1a !important;color:#f0ede6 !important;">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#1a1a1a" style="background-color:#1a1a1a !important;">
+<body bgcolor="#0b0b0b" style="margin:0;padding:0;background-color:#0b0b0b !important;color:#f0ede6 !important;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#0b0b0b" style="background-color:#0b0b0b !important;">
 <tr><td align="center" style="padding:30px 16px;">
-<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#222222" style="background-color:#222222 !important;max-width:560px;">
+<table width="560" cellpadding="0" cellspacing="0" border="0" bgcolor="#121212" style="background-color:#121212 !important;max-width:560px;">
   <tr>
-    <td bgcolor="#1a1a1a" style="background-color:#1a1a1a !important;padding:26px 30px 20px;border-bottom:1px solid #2a2a2a;">
+    <td bgcolor="#0f0f0f" style="background-color:#0f0f0f !important;padding:26px 30px 20px;border-bottom:1px solid #202020;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td>
           <div style="font-size:9px;letter-spacing:3px;text-transform:uppercase;color:#555;font-family:Arial,sans-serif;margin-bottom:8px;">{date_header} &middot; Edition matinale</div>
@@ -249,29 +249,29 @@ def send_combined_email():
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="50%" bgcolor="#2d3d2e" style="background:#2d3d2e;padding:0;vertical-align:top;">{_card("Intelligence Artificielle", "#5aaa72", cap_ia, f"{base}/", "22px 20px")}</td>
+    <td width="50%" bgcolor="#16241a" style="background:#16241a;padding:0;vertical-align:top;">{_card("Intelligence Artificielle", "#5aaa72", cap_ia, f"{base}/", "22px 20px")}</td>
     <td width="2" style="background:#111;"></td>
-    <td width="50%" bgcolor="#1e2a38" style="background:#1e2a38;padding:0;vertical-align:top;">{_card("Geopolitique", "#4a88c0", cap_geo, f"{base}/geo.html", "22px 20px")}</td>
+    <td width="50%" bgcolor="#151e2a" style="background:#151e2a;padding:0;vertical-align:top;">{_card("Geopolitique", "#4a88c0", cap_geo, f"{base}/geo.html", "22px 20px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="50%" bgcolor="#382a1a" style="background:#382a1a;padding:0;vertical-align:top;">{_card("Economie &amp; Finance", "#c8862a", cap_eco, f"{base}/eco.html", "22px 20px")}</td>
+    <td width="50%" bgcolor="#2a1e12" style="background:#2a1e12;padding:0;vertical-align:top;">{_card("Economie &amp; Finance", "#c8862a", cap_eco, f"{base}/eco.html", "22px 20px")}</td>
     <td width="2" style="background:#111;"></td>
-    <td width="50%" bgcolor="#38201e" style="background:#38201e;padding:0;vertical-align:top;">{_card("Sport", "#c84a4a", cap_sport, f"{base}/sport.html", "22px 20px")}</td>
+    <td width="50%" bgcolor="#291818" style="background:#291818;padding:0;vertical-align:top;">{_card("Sport", "#c84a4a", cap_sport, f"{base}/sport.html", "22px 20px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
   <tr><td style="padding:0;"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
-    <td width="33%" bgcolor="#261e38" style="background:#261e38;padding:0;vertical-align:top;">{_card("Musique", "#7a5cc8", cap_music, f"{base}/music.html", "18px 16px")}</td>
+    <td width="33%" bgcolor="#1d1830" style="background:#1d1830;padding:0;vertical-align:top;">{_card("Musique", "#7a5cc8", cap_music, f"{base}/music.html", "18px 16px")}</td>
     <td width="1" style="background:#111;"></td>
-    <td width="33%" bgcolor="#1a2e28" style="background:#1a2e28;padding:0;vertical-align:top;">{_card("Sciences", "#2a9e7a", cap_science, f"{base}/science.html", "18px 16px")}</td>
+    <td width="33%" bgcolor="#132721" style="background:#132721;padding:0;vertical-align:top;">{_card("Sciences", "#2a9e7a", cap_science, f"{base}/science.html", "18px 16px")}</td>
     <td width="1" style="background:#111;"></td>
-    <td width="33%" bgcolor="#2e1a28" style="background:#2e1a28;padding:0;vertical-align:top;">{_card("Culture", "#c84a8a", cap_culture, f"{base}/culture.html", "18px 16px")}</td>
+    <td width="33%" bgcolor="#291622" style="background:#291622;padding:0;vertical-align:top;">{_card("Culture", "#c84a8a", cap_culture, f"{base}/culture.html", "18px 16px")}</td>
   </tr></table></td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <tr><td bgcolor="#2a2010" style="background:#2a2010;padding:0;">
+  <tr><td bgcolor="#22190e" style="background:#22190e;padding:0;">
     <a href="{base}/history.html" style="display:block;padding:18px 22px;text-decoration:none;color:inherit;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td>
@@ -286,7 +286,7 @@ def send_combined_email():
   </td></tr>
   <tr><td style="height:2px;background:#111;"></td></tr>
 
-  <tr><td bgcolor="#1e1c10" style="background:#1e1c10;padding:14px 22px;border-top:1px solid #2a2418;">
+  <tr><td bgcolor="#17160f" style="background:#17160f;padding:14px 22px;border-top:1px solid #2a2418;">
     <a href="{base}/favorites.html" style="display:block;text-decoration:none;color:inherit;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td><span style="font-size:13px;color:#c8a96e;">&#9733;</span><span style="font-size:9px;letter-spacing:2.5px;text-transform:uppercase;color:#c8a96e;font-family:Arial,sans-serif;font-weight:700;margin-left:10px;">Mes Favoris</span></td>
@@ -295,7 +295,7 @@ def send_combined_email():
     </a>
   </td></tr>
 
-  <tr><td bgcolor="#111111" style="background:#111111;padding:12px 24px;border-top:1px solid #1e1e1e;">
+  <tr><td bgcolor="#0d0d0d" style="background:#0d0d0d;padding:12px 24px;border-top:1px solid #1e1e1e;">
     <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
       <td style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">Diffusion restreinte &middot; Usage professionnel</td>
       <td align="right" style="font-size:9px;color:#333;letter-spacing:1.5px;text-transform:uppercase;font-family:Arial,sans-serif;">{year}</td>

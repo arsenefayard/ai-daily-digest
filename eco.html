@@ -518,9 +518,22 @@ function buildSlides(data) {
 
 const stage = document.getElementById('stage');
 
+function deriveCategory(item, fallback='Info') {
+  const raw = String(item?.category || '').trim();
+  if (raw && raw.toLowerCase() !== 'autre') return raw;
+  const text = `${item?.title || ''} ${item?.summary || ''} ${item?.why || ''}`;
+  const words = (text.match(/[A-Za-zÀ-ÿ0-9'-]+/g) || [])
+    .map(w => w.toLowerCase())
+    .filter(w => w.length >= 4 && !['avec','dans','pour','plus','cette','comme','entre','apres','avant','depuis','leurs','leurs','mais','aussi','sont','sera','etre','fait','sans','the','that'].includes(w));
+  if (!words.length) return fallback;
+  const w = words[0];
+  return w.charAt(0).toUpperCase() + w.slice(1);
+}
+
 function makeCard(slide, idx) {
   const { newsIdx, item, isUpdate } = slide;
-  const color = COLORS[item.category] || 'var(--accent)';
+  const categoryLabel = deriveCategory(item, isUpdate ? 'Mise à jour' : 'Info');
+  const color = COLORS[categoryLabel] || COLORS[item.category] || 'var(--accent)';
   const div = document.createElement('div');
   div.className = 'card' + (isUpdate ? ' update-card' : '');
   div.dataset.idx = idx;
@@ -536,7 +549,7 @@ function makeCard(slide, idx) {
     <div class="card-meta">
       ${numLabel}
       <div class="meta-right">
-        <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${item.category||'IA'}</span>
+        <span class="cat-tag" style="color:${color};border-color:${color}44;background:${color}11;">${categoryLabel}</span>
         <button type="button" class="fav-star" data-news-idx="${newsIdx}" title="Favori" aria-label="Favori">☆</button>
         <button type="button" class="ask-btn" onclick="openChat(this)">🔍</button>
       </div>
