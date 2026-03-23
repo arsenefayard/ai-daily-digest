@@ -1,15 +1,5 @@
 [
   {
-    "date": "21/03/2026",
-    "titles": [
-      "Discours attendu du président de la Réserve fédérale sur l'inflation et les taux",
-      "Rapports annuels 2025 de Ping An Bank et China Shenhua Energy publiés",
-      "Guerre en Iran provoque un choc pétrolier historique avec fermeture du détroit d'Ormuz",
-      "Trump rétablit des droits de douane mondiaux de 15% malgré l'annulation par la Cour suprême",
-      "Banques centrales mondiales adoptent une prudence accrue face à la flambée énergétique"
-    ]
-  },
-  {
     "date": "22/03/2026",
     "titles": [
       "Perturbations au Moyen-Orient désorganisent les circuits du commerce maritime mondial",
@@ -68,6 +58,16 @@
       "La flambée des prix du carburant propulse les ventes de véhicules électriques en France",
       "JP Morgan, Morgan Stanley et Barclays anticipent une hausse des taux BCE en avril",
       "CAC 40 chute de 3,11% à 7 665 points, DAX perd 8,62% depuis le début de l'année"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "Le Japon puise dans ses réserves stratégiques de pétrole face à la crise",
+      "L'Italie réduit les taxes sur les carburants de 25 centimes par litre",
+      "Le Royaume-Uni convoque une réunion d'urgence pour aider les vulnérables",
+      "La Banque centrale russe abaisse son taux directeur à 15 % pour la septième fois",
+      "Explosion des commandes de véhicules électriques en France due aux prix du carburant"
     ]
   }
 ]
