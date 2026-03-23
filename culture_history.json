@@ -2,16 +2,6 @@
   {
     "date": "22/03/2026",
     "titles": [
-      "Les carottes étaient originellement blanches",
-      "L'imprimerie inventée par Gutenberg vers 1440",
-      "Le Point Némo, lieu le plus isolé de la Terre",
-      "Les larmes révèlent la cause des émotions",
-      "Les soldats chinois s'entraînaient avec des aiguilles au col"
-    ]
-  },
-  {
-    "date": "22/03/2026",
-    "titles": [
       "Le règne record de Louis XIV",
       "L'imprimerie de Gutenberg",
       "Les larmes qui révèlent les émotions",
@@ -67,6 +57,16 @@
       "Pompei abritait déjà des restaurants à emporter",
       "Une tablette sumérienne de 5000 ans contient une recette de bière",
       "Les lapins détectent la mort de leurs proches dans les excréments des prédateurs"
+    ]
+  },
+  {
+    "date": "23/03/2026",
+    "titles": [
+      "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
+      "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
+      "Le mot 'sandwich' tire son origine d'un aristocrate anglais du XVIIIe siècle",
+      "Au XIXe siècle, les reines européennes rédigeaient un testament avant l'accouchement",
+      "En Grèce, les défunts sont exhumés après trois ans pour gérer l'espace des cimetières"
     ]
   }
 ]
