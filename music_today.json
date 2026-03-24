@@ -1,35 +1,35 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "Paris Music 2026 célèbre sa 10ème édition du 18 au 22 mars",
-      "summary": "Le festival Paris Music, dédié aux happenings et performances musicales, revient pour sa dixième édition dans des lieux atypiques de la capitale du 18 au 22 mars 2026. Cet événement immersif met l'accent sur des expériences innovantes et interactives pour les amateurs de musique expérimentale. Il s'inscrit dans une programmation printanière riche en découvertes artistiques parisiennes.",
-      "why": "Cette décennale marque un jalon important pour la scène avant-gardiste parisienne et attire un public en quête d'expériences uniques.",
+      "title": "Megadeth en tournée d'adieu à Québec",
+      "summary": "Megadeth, pilier du thrash metal mené par Dave Mustaine, se produit à Québec dans le cadre de sa tournée d'adieu, offrant une soirée intense avec des décibels puissants. Fondé en 1983 après le départ de Mustaine de Metallica, le groupe jouera des classiques comme ceux de Peace Sells et Rust in Peace, ainsi que des titres de son dernier album paru en janvier. Cette performance marque une occasion unique pour les fans de voir l'un des géants du genre une dernière fois sur scène.",
+      "why": "Cette tournée d'adieu de Megadeth représente un événement historique pour les amateurs de thrash metal, clôturant potentiellement une carrière légendaire.",
+      "category": "Métal"
+    },
+    {
+      "title": "Feu! Chatterton de retour au Canada après huit ans",
+      "summary": "Le groupe parisien Feu! Chatterton revient au Québec après huit ans d'absence avec deux concerts : le 4 mars au MTelus dans le cadre de Montréal en lumière, et le 5 mars au Théâtre Capitole. Porté par le charisme d'Arthur Teboul, le quintette présentera son quatrième album Labyrinthe (2025) avec des titres comme Allons Voir et Mille vagues, mêlés à des classiques tels que La Malinche. Les dates affichent déjà complet, confirmant l'engouement pour leurs prestations électrisantes.",
+      "why": "Ce retour attendu ravive l'intérêt pour la chanson française littéraire et renforce la présence internationale du groupe.",
+      "category": "Rock"
+    },
+    {
+      "title": "Twice en concert au Centre Bell de Montréal",
+      "summary": "Le girl group sud-coréen Twice se produit le 3 mars au Centre Bell dans le cadre des spectacles majeurs de mars 2026 au Québec. Connu pour ses hits K-pop dynamiques et ses chorégraphies synchronisées, le groupe attire une fanbase massive avec son énergie contagieuse. Cette date s'inscrit dans une série de shows internationaux soulignant la popularité croissante de la K-pop en Amérique du Nord.",
+      "why": "Twice consolide l'ascension de la K-pop sur la scène mondiale, attirant un public jeune et diversifié.",
+      "category": "Pop"
+    },
+    {
+      "title": "Jazz en Nord prolonge jusqu'au 4 mai",
+      "summary": "Le festival Jazz en Nord, qui a débuté le 20 janvier à Marcq-en-Baroeul, se poursuit jusqu'au 4 mai 2026 avec une programmation riche en concerts jazz variés. Cet événement met en lumière des artistes locaux et internationaux dans des lieux emblématiques du Nord de la France. Il offre une immersion prolongée dans le jazz contemporain pour les amateurs de la région.",
+      "why": "Ce festival étendu renforce la vitalité de la scène jazz en France et attire un public fidèle sur plusieurs mois.",
       "category": "Autre"
     },
     {
-      "title": "Sleaford Mods reprend la route au Casino de Paris le 10 mars",
-      "summary": "Après une année de pause, le duo electro-punk britannique Sleaford Mods effectue son retour sur scène avec un concert prévu le 10 mars au Casino de Paris. Jason Williamson et Andrew Fearn puiseront dans leurs treize albums studio pour offrir un set explosif à leur public français. Ce comeback attendu relance leur dynamique live après une période de repos.",
-      "why": "Le retour de ce duo influent renforce la vitalité de la scène electro-punk en France et promet un concert mémorable.",
-      "category": "Électro"
-    },
-    {
-      "title": "David Byrne lance sa tournée à La Seine Musicale les 18 et 19 mars",
-      "summary": "L'ex-leader des Talking Heads, David Byrne, inaugure sa tournée internationale les 18 et 19 mars à La Seine Musicale avec un spectacle impliquant treize musiciens, chanteurs et danseurs. Ce show s'appuie sur son récent album Who Is The Sky? sorti avec le Ghost Train Orchestra. Les deux dates parisiennes annoncent une production haute en couleur et en énergie.",
-      "why": "Cette performance exceptionnelle met en lumière le génie scénique de Byrne et attire les fans de rock alternatif.",
-      "category": "Rock"
-    },
-    {
-      "title": "Marlon Magnée fête Dark Star au Supersonic le 26 mars",
-      "summary": "Marlon Magnée, cofondateur de La Femme, présente son premier album solo Dark Star sur la scène du Supersonic le 26 mars, juste après sa sortie le 6 mars. Cet événement suit le dernier concert du groupe à l'Accor Arena et marque un nouveau chapitre dans sa carrière solo. Le public pourra découvrir les sonorités personnelles de l'artiste parisien.",
-      "why": "Cette première solo d'un pilier de la scène indé française suscite un vif intérêt pour son évolution artistique.",
-      "category": "Rock"
-    },
-    {
-      "title": "Electronic Peak illumine la fin de mars du 25 au 27",
-      "summary": "Le festival Electronic Peak propose une programmation électro intense du 25 au 27 mars 2026 dans plusieurs lieux dédiés. Cet événement rassemble des artistes émergents et confirmés pour des sets immersifs et innovants. Il complète le paysage festif parisien en fin de mois avec une vibe nocturne électrisante.",
-      "why": "Ce festival électro majeur dynamise la scène électronique française et attire les clubbers en quête de nouveautés.",
-      "category": "Électro"
+      "title": "Les Bistrots d'Hiver jusqu'au 29 mars en Corrèze",
+      "summary": "Le festival Les Bistrots d'Hiver, lancé le 10 janvier, se termine le 29 mars 2026 dans plusieurs communes comme Millevaches en Corrèze, avec des concerts intimistes en bistros. Cette formule décentralisée met en avant des artistes variés dans une ambiance conviviale et accessible. Il favorise la découverte musicale en milieu rural jusqu'à la fin du mois.",
+      "why": "Ce format original démocratise la musique live et soutient les scènes locales en zones rurales.",
+      "category": "Autre"
     }
   ],
   "updates": []
