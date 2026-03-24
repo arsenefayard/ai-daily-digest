@@ -1,15 +1,5 @@
 [
   {
-    "date": "22/03/2026",
-    "titles": [
-      "Tom Pidcock remporte Milan-San Remo avec une attaque magistrale",
-      "UFC Fight Night : Amanda Lemos bat Michelle Robertson à Londres",
-      "Miami Open : Alcaraz et Swiatek dominent leurs premiers tours malgré les pluies",
-      "TOP 14 : Résultats cruciaux de la 19e journée avec des chocs au sommet",
-      "Betclic Elite : La 23e journée voit des surprises en basketball français"
-    ]
-  },
-  {
     "date": "23/03/2026",
     "titles": [
       "Miami Open : Carlos Alcaraz et Iga Swiatek passent au troisième tour malgré les interruptions pluvieuses",
@@ -67,6 +57,17 @@
       "Ligue 1 : PSG s'impose et prend la tête après la 27e journée",
       "TOP 14 : Résultats cruciaux de la 20e journée avec Montpellier et Racing en forme",
       "Championnats du monde d'athlétisme en salle : Records du monde battus à Torun"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "Miami Open : Carlos Alcaraz et Iga Swiatek se qualifient pour les quarts de finale",
+      "Tour de Catalogne : Mads Pedersen remporte la 2e étape au sprint",
+      "Ligue 1 : L'OM bat le PSG dans le choc de la 28e journée et reprend la tête",
+      "NBA : Les Lakers signent une victoire cruciale contre les Celtics et reviennent dans la course aux playoffs",
+      "Formule 1 : Max Verstappen domine les essais libres du Grand Prix d'Arabie Saoudite",
+      "Miami Open : Alcaraz et Swiatek passent des huitièmes aux quarts de finale"
     ]
   }
 ]
