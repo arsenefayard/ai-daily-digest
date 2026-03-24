@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Frappes américano-israéliennes sur le site nucléaire de Natanz en Iran",
-      "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
-      "Le Kazakhstan adopte une nouvelle Constitution lors d'un référendum historique"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Israël annonce une intensification considérable de ses frappes en Iran",
       "Coût record des opérations militaires américaines contre l'Iran dépassant 27 milliards de dollars",
       "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
@@ -69,6 +59,17 @@
       "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
       "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
       "Au Népal, élections générales après les manifestations anticorruption de 2025"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
+      "Ursula von der Leyen en visite au Groenland pour renforcer les partenariats énergétiques et climatiques",
+      "Élections générales au Népal après les manifestations anticorruption de 2025",
+      "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les critiques européennes",
+      "Cuba paralysé par une pénurie aiguë de pétrole",
+      "Trump explore les options pour une force terrestre en Iran"
     ]
   }
 ]
