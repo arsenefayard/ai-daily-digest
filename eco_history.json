@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques",
-      "Les stocks mondiaux de pétrole offshore s'épuisent après trois semaines de perturbations au Golfe",
-      "La flambée des prix du carburant propulse les ventes de véhicules électriques en France",
-      "JP Morgan, Morgan Stanley et Barclays anticipent une hausse des taux BCE en avril",
-      "CAC 40 chute de 3,11% à 7 665 points, DAX perd 8,62% depuis le début de l'année"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Le Japon puise dans ses réserves stratégiques de pétrole face à la crise",
       "L'Italie réduit les taxes sur les carburants de 25 centimes par litre",
       "Le Royaume-Uni convoque une réunion d'urgence pour aider les vulnérables",
@@ -67,6 +57,16 @@
       "Rapport EQT AB met en lumière la performance des investissements alternatifs",
       "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
       "Micron inaugure un second site de production de puces à Taïwan"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "L'inflation sous-jacente japonaise atteint son plus bas niveau en deux ans à 2% en janvier",
+      "La balance commerciale de la zone euro passe en déficit de 1,9 milliard d'euros",
+      "L'indice ZEW allemand s'effondre à -0,5 en mars, bien en-dessous des attentes",
+      "La Fed anticipe une seule baisse de taux en 2026 malgré une inflation PCE relevée à 2,7%",
+      "Les taux allemands remontent fortement avec le 2 ans à 2,44% et le 10 ans à 2,98%"
     ]
   }
 ]
