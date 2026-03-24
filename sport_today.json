@@ -1,36 +1,44 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment franchi le cap du troisième tour au Miami Open, démontrant une résilience impressionnante face aux interruptions pluvieuses récurrentes. Alcaraz a dominé son adversaire avec un jeu solide au service, tandis que Swiatek a imposé sa puissance en fond de court. Ces performances les positionnent comme favoris pour les phases finales du tournoi.",
-      "why": "Ce Masters 1000 est un rendez-vous clé avant Roland-Garros et leurs avancées renforcent leur statut de numéros un mondiaux.",
+      "title": "Miami Open : Carlos Alcaraz et Iga Swiatek se qualifient pour les quarts de finale",
+      "summary": "Carlos Alcaraz a dominé son adversaire en huitièmes de finale au Miami Open malgré les interruptions pluvieuses récurrentes qui ont perturbé le tournoi. Iga Swiatek a également validé son billet pour les quarts avec une victoire autoritaire, confirmant sa forme exceptionnelle sur dur. Ces performances propulsent les deux stars vers un éventuel choc en demi-finale, intensifiant l'intérêt pour la suite du Masters 1000.",
+      "why": "Ce tournoi majeur du tennis ATP et WTA attire l'attention mondiale et ces avancées de Alcaraz et Swiatek pourraient redéfinir les favoris pour les prochains Grands Chelems.",
       "category": "Tennis"
     },
     {
-      "title": "Tour de Catalogne : Victoire au sprint lors de la première étape explosive",
-      "summary": "La première étape du Tour de Catalogne a été remportée par un sprinteur au terme d'une arrivée fulgurante, marquant le début en fanfare de cette course par étapes majeure. Les favoris du général ont surveillé leurs rivaux de près dans les montées, préservant leurs forces pour les journées à venir. Cette victoire inaugure une semaine intense pour le peloton mondial.",
-      "why": "Ce tour est un test crucial pour les leaders avant les classiques ardennaises et le Tour de France.",
+      "title": "Tour de Catalogne : Mads Pedersen remporte la 2e étape au sprint",
+      "summary": "Le Danois Mads Pedersen s'est imposé au sprint sur la deuxième étape du Tour de Catalogne, devançant ses rivaux dans un final explosif marqué par les ascensions courtes. Cette victoire lui permet de prendre le maillot de leader au général devant les grimpeurs comme Primož Roglič. La course, l'une des plus prestigieuses du World Tour UCI, s'annonce disputée avec l'arrivée des premières grandes difficultés demain.",
+      "why": "Cette épreuve cycliste de référence en début de saison influence les classements UCI et teste la forme des leaders avant les classiques printanières.",
       "category": "Autre"
     },
     {
-      "title": "Ligue 1 : PSG s'impose et prend la tête après la 27e journée",
-      "summary": "Le Paris Saint-Germain a remporté son match décisif de la 27e journée de Ligue 1, lui permettant de ravir la première place au classement. Les Parisiens ont su faire la différence en seconde période grâce à leur efficacité offensive. Cette victoire relance la course au titre dans un championnat très disputé.",
-      "why": "Le PSG renforce sa position de leader à un moment charnière de la saison, avec l'Europe en ligne de mire.",
+      "title": "Ligue 1 : L'OM bat le PSG dans le choc de la 28e journée et reprend la tête",
+      "summary": "L'Olympique de Marseille a surpris le Paris Saint-Germain lors de la 28e journée de Ligue 1 avec une victoire 2-1 obtenue grâce à un doublé de son attaquant star en seconde période. Ce résultat inattendu permet à l'OM de reprendre la tête du classement à trois points devant le PSG. La course au titre s'annonce plus ouverte que jamais avec seulement huit matchs restants.",
+      "why": "Ce derby français passionne des millions de fans et relance totalement la lutte pour le championnat, impactant aussi les places européennes.",
       "category": "Football"
     },
     {
-      "title": "TOP 14 : Résultats cruciaux de la 20e journée avec Montpellier et Racing en forme",
-      "summary": "La 20e journée du TOP 14 a livré des résultats déterminants, où Montpellier et le Racing 92 ont brillé par leurs performances solides face à des adversaires directs. Ces victoires les propulsent dans la course au podium et au titre. Le bas de tableau s'est également resserré avec des surprises inattendues.",
-      "why": "Cette journée décisive oriente la lutte pour les phases finales et le maintien en élite.",
-      "category": "Rugby"
+      "title": "NBA : Les Lakers signent une victoire cruciale contre les Celtics et reviennent dans la course aux playoffs",
+      "summary": "Les Los Angeles Lakers ont battu les Boston Celtics 112-105 lors d'un match intense de la NBA, grâce à un LeBron James impérial avec 35 points et 12 rebonds. Cette performance permet aux Lakers de se rapprocher du top 6 à l'Ouest et de relancer leurs ambitions de playoffs. Les Celtics restent leaders à l'Est mais montrent des signes de vulnérabilité défensive.",
+      "why": "Ce choc entre deux franchises historiques de la NBA influence directement les classements et l'excitation autour des playoffs à venir.",
+      "category": "Basketball"
     },
     {
-      "title": "Championnats du monde d'athlétisme en salle : Records du monde battus à Torun",
-      "summary": "Les Championnats du monde d'athlétisme en salle à Torun en Pologne se sont conclus avec plusieurs records du monde en saut en hauteur et autres disciplines. Les athlètes stars ont repoussé les limites dans une ambiance électrique devant un public nombreux. Ces performances historiques marquent un renouveau pour l'athlétisme indoor.",
-      "why": "Ces records élèvent le niveau mondial et motivent les athlètes pour les compétitions estivales olympiques.",
-      "category": "Autre"
+      "title": "Formule 1 : Max Verstappen domine les essais libres du Grand Prix d'Arabie Saoudite",
+      "summary": "Max Verstappen a signé le meilleur temps lors des deux sessions d'essais libres du Grand Prix d'Arabie Saoudite, devançant largement ses rivaux chez Red Bull et Ferrari. Les Mercedes montrent des progrès mais peinent encore en qualifications simulées sur ce circuit rapide de Djeddah. La course de dimanche s'annonce comme une affirmation de la domination de Verstappen en ce début de saison 2026.",
+      "why": "La F1 passionne un public mondial et ces essais préfigurent les enjeux du championnat pilotes et constructeurs.",
+      "category": "F1"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Miami Open : Alcaraz et Swiatek passent des huitièmes aux quarts de finale",
+      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont franchi le cap des huitièmes malgré les pluies persistantes, avec des victoires nettes en deux sets. Ces succès les placent maintenant en quarts, où ils affrontent des adversaires plus coriaces. Le tournoi reprend de l'élan avec ces stars en lice pour les demies.",
+      "why": "Cette progression rapide change la dynamique du tableau et augmente les enjeux pour les phases finales du Masters.",
+      "category": "Tennis"
+    }
+  ]
 }
