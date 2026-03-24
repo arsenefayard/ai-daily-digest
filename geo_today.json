@@ -1,36 +1,44 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
-      "summary": "Le président américain Donald Trump a exhorté ses alliés à former une coalition multipays pour escorter les navires et débloquer le détroit d'Ormuz, paralysé par les actions iraniennes. Il a cité nommément cinq pays pour les inciter à soutenir les États-Unis dans cette opération cruciale pour le commerce pétrolier mondial. Cette initiative reflète une stratégie pour partager les coûts et les risques d'une intervention militaire face à la stratégie de la terre brûlée de l'Iran.",
-      "why": "Ce blocage menace 90 % des exportations pétrolières iraniennes et paralyse le commerce international, risquant une crise énergétique mondiale majeure.",
+      "title": "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
+      "summary": "Le président américain Donald Trump a émis un ultimatum de 48 heures à l'Iran, menaçant de frapper ses centrales électriques si le détroit d'Ormuz n'est pas rouvert sans menace. Cette déclaration intervient après des frappes israélo-américaines sur le site nucléaire de Natanz et des attaques iraniennes sur des infrastructures pétrolières dans le Golfe. Les marchés boursiers asiatiques ont plongé en réaction à cette escalade, soulignant les risques d'une perturbation majeure des flux énergétiques mondiaux.",
+      "why": "Cette menace directe risque d'aggraver le conflit au Moyen-Orient et de provoquer une flambée des prix du pétrole, impactant l'économie mondiale entière.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Ursula von der Leyen en visite au Groenland pour renforcer les partenariats énergétiques et climatiques",
+      "summary": "La présidente de la Commission européenne s'est rendue au Groenland afin de consolider les liens en matière d'énergie et de climat dans l'Arctique. Cette région émerge comme un enjeu géopolitique majeur où convergent les défis environnementaux et les ambitions économiques des grandes puissances. L'initiative vise à sécuriser les ressources face à la fonte des glaces et à la compétition russo-chinoise.",
+      "why": "L'Arctique devient un nouveau théâtre de rivalités stratégiques, avec des implications directes sur l'accès aux ressources minérales et aux routes maritimes futures.",
       "category": "Énergie"
     },
     {
-      "title": "Israël annonce une intensification considérable de ses frappes en Iran",
-      "summary": "Le ministre israélien de la Défense a déclaré que l'intensité des frappes sur l'Iran augmentera considérablement dans les prochains jours, suite à une évaluation de la situation. Ces opérations visent notamment le site nucléaire de Natanz, frappé récemment par des bombardements américano-israéliens sans fuite radioactive détectée. Cette escalade s'inscrit dans une campagne pour neutraliser les capacités nucléaires et militaires du régime iranien.",
-      "why": "Cette intensification pourrait précipiter un conflit régional plus large impliquant les pétromarchies du Golfe et modifier les équilibres de pouvoir au Moyen-Orient.",
-      "category": "Conflit"
+      "title": "Élections générales au Népal après les manifestations anticorruption de 2025",
+      "summary": "Le Népal organise ses premières élections générales depuis les vastes manifestations anticorruption de 2025, marquant un espoir de renouveau démocratique. Les citoyens attendent une lutte plus efficace contre la corruption endémique qui mine l'économie et la gouvernance. Ces scrutins pourraient redéfinir les alliances régionales avec l'Inde et la Chine.",
+      "why": "Un changement de pouvoir au Népal pourrait influencer l'équilibre himalayen et les projets d'infrastructures sino-indiens dans la région.",
+      "category": "Élection"
     },
     {
-      "title": "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
-      "summary": "Le Pakistan a bombardé un centre de réhabilitation pour toxicomanes à Kaboul, faisant 400 morts et 250 blessés, marquant un nouveau pas dans l'escalade entre les deux pays. Cette attaque intervient dans un contexte de tensions frontalières persistantes et de rivalités régionales. Les deux nations risquent une confrontation ouverte avec des implications pour la stabilité en Asie du Sud.",
-      "why": "Cette escalade pourrait déstabiliser davantage l'Afghanistan post-retrait occidental et impliquer d'autres acteurs comme l'Inde ou la Chine dans la région.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Le président Trump a indiqué que les États-Unis sont sur le point d'atteindre leurs objectifs et envisagent de réduire leurs efforts militaires au Moyen-Orient face au régime iranien. Cette déclaration contradictoire suit des frappes continues sur des sites iraniens et survient après un déploiement de navires et de marines. Elle soulève des interrogations sur la durée réelle de l'engagement américain dans le conflit.",
-      "why": "Ce possible retrait progressif pourrait affaiblir la coalition anti-iranienne et laisser Israël seul face à une riposte potentielle de Téhéran.",
+      "title": "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les critiques européennes",
+      "summary": "Le Premier ministre hongrois Viktor Orbán a menacé de prendre de nouvelles mesures contre l'Ukraine, malgré les reproches des dirigeants de l'UE. Cette position s'inscrit dans un contexte de tensions sur les droits des minorités hongroises en Ukraine et de blocage des aides européennes. Orbán revendique une victoire au sommet de l'UE sur les questions ukrainiennes et iraniennes.",
+      "why": "Ces menaces fragilisent l'unité européenne face à la Russie et compliquent le soutien à Kiev dans le conflit en cours.",
       "category": "Diplomatie"
     },
     {
-      "title": "Au Népal, élections générales après les manifestations anticorruption de 2025",
-      "summary": "Le Népal organise ses premières élections générales depuis les manifestations anticorruption de 2025, marquant un tournant pour le renouveau démocratique. Les citoyens espèrent une gouvernance plus transparente et une lutte efficace contre la corruption endémique. Ces élections pourraient redéfinir les alliances régionales avec l'Inde et la Chine dans l'Himalaya.",
-      "why": "Un résultat favorable aux réformateurs renforcerait la stabilité interne et influencerait les dynamiques géopolitiques en Asie du Sud face aux grandes puissances voisines.",
-      "category": "Élection"
+      "title": "Cuba paralysé par une pénurie aiguë de pétrole",
+      "summary": "Cuba fait face à une paralysie économique et sociale due à une pénurie sévère de pétrole, aggravée par les sanctions et les perturbations mondiales des approvisionnements. Les transports publics sont à l'arrêt, les usines fermées, et les files d'attente pour l'essence s'allongent, provoquant des tensions sociales. Cette crise renforce la dépendance de l'île envers ses alliés comme le Venezuela et la Russie.",
+      "why": "La situation humanitaire à Cuba met en lumière les vulnérabilités des régimes alliés à Moscou et pourrait inciter à une réévaluation des sanctions américaines.",
+      "category": "Économie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Trump explore les options pour une force terrestre en Iran",
+      "original": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
+      "summary": "Alors que Trump envisageait auparavant une réduction des opérations, il examine désormais l'envoi d'une force terrestre en Iran suite à l'escalade. Cette évolution reflète une surenchère après les frappes sur Natanz et l'ultimatum sur Ormuz. Les discussions internes à Washington portent sur une implication plus directe face à la menace iranienne persistante.",
+      "why": "Ce pivot vers une option terrestre marque une escalade militaire significative qui pourrait transformer le conflit en guerre ouverte.",
+      "category": "Conflit"
+    }
+  ]
 }
