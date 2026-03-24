@@ -1,33 +1,33 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "subject": {
-    "name": "Henri VIII excommunié par le pape Clément VII",
-    "type": "Événement",
-    "period": "1534 · Époque moderne, Réforme protestante",
-    "context": "Le 23 mars 1534, le pape Clément VII excommunia le roi d'Angleterre Henri VIII en réaction à son divorce d'avec Catherine d'Aragon et à son remariage avec Anne Boleyn. Cet acte pontifical, loin d'être un simple geste disciplinaire, marqua un tournant décisif dans l'histoire religieuse et politique de l'Europe. Henri VIII, qui ne pouvait accepter une autorité supérieure à la sienne, refusa de se soumettre et prit la décision radicale de rompre définitivement avec Rome. Cette rupture entraîna la création de l'Église anglicane, placée sous l'autorité du monarque plutôt que du pape, transformant l'Angleterre en nation protestante de facto. Les conséquences de cette excommunication s'étendirent bien au-delà des frontières anglaises, redessignant la carte religieuse de l'Europe occidentale et établissant un précédent majeur : un monarque pouvait désormais défier l'autorité ecclésiastique suprême sans crainte de destruction immédiate.",
+    "name": "Robert Koch découvre le bacille de la tuberculose",
+    "type": "Découverte",
+    "period": "1882 · Révolution scientifique du XIXe siècle",
+    "context": "Le 24 mars 1882, le médecin et microbiologiste allemand Robert Koch annonce publiquement à Berlin l'identification du bacille responsable de la tuberculose, une maladie qui décimait les populations européennes depuis des siècles. Cette découverte révolutionne la médecine en démontrant scientifiquement l'existence d'agents pathogènes spécifiques, validant ainsi la théorie microbienne de la maladie face aux sceptiques de l'époque. Koch utilise pour la première fois une technique de coloration révolutionnaire permettant de visualiser les bactéries au microscope, ouvrant la voie à l'identification d'autres microbes responsables de maladies infectieuses. Bien que le remède efficace ne soit découvert que cinquante ans plus tard, cette identification marque le tournant décisif dans la lutte contre une épidémie qui tuait un tiers de la population urbaine. L'impact est tel que l'Organisation mondiale de la santé déclare le 24 mars Journée mondiale de lutte contre la tuberculose en son honneur.",
     "dates": [
       {
-        "year": "1509",
-        "label": "Accession au trône d'Henri VIII et mariage avec Catherine d'Aragon"
+        "year": "1876",
+        "label": "Koch démontre que l'anthrax est causée par une bactérie spécifique"
       },
       {
-        "year": "1527",
-        "label": "Henri VIII demande l'annulation de son mariage auprès du pape"
+        "year": "1882",
+        "label": "Identification du bacille de la tuberculose (Mycobacterium tuberculosis)"
       },
       {
-        "year": "1533",
-        "label": "Mariage secret d'Henri VIII avec Anne Boleyn"
+        "year": "1883",
+        "label": "Koch reçoit le Prix Prussien pour sa découverte"
       },
       {
-        "year": "23 mars 1534",
-        "label": "Excommunication d'Henri VIII par le pape Clément VII"
+        "year": "1905",
+        "label": "Koch reçoit le Prix Nobel de physiologie ou médecine"
       },
       {
-        "year": "1534",
-        "label": "Acte de Suprématie : Henri VIII devient chef suprême de l'Église d'Angleterre"
+        "year": "1943",
+        "label": "Découverte de la streptomycine, premier traitement efficace contre la tuberculose"
       }
     ],
-    "legacy": "L'excommunication d'Henri VIII marqua la naissance de l'Église anglicane et l'établissement du protestantisme en Angleterre, une conséquence qui perdure jusqu'à nos jours. Cet événement démontra que le pouvoir temporel pouvait s'émanciper du pouvoir spirituel, inspirant d'autres monarques à contester l'autorité pontificale et accélérant la fragmentation religieuse de la chrétienté occidentale. L'Angleterre devint ainsi une puissance protestante majeure, remodelant les alliances géopolitiques européennes et les équilibres religieux pour les siècles suivants.",
-    "why": "Cette excommunication révèle une vérité rarement enseignée : la Réforme protestante ne fut pas qu'un mouvement de foi théologique, mais aussi un acte de rébellion politique d'un roi contre l'autorité romaine. Elle montre comment les enjeux personnels d'un monarque—son désir d'héritier mâle—ont redéfini la géographie religieuse de l'Europe et créé une tension entre pouvoir civil et autorité religieuse qui structure encore nos sociétés modernes."
+    "legacy": "La découverte de Koch fonde la bactériologie moderne et établit les postulats de causalité microbienne qui dominent la médecine jusqu'à nos jours. Elle inspire des générations de chercheurs à identifier les agents responsables des maladies infectieuses, transformant la médecine d'une discipline empirique en science rigoureuse. La tuberculose reste aujourd'hui une menace sanitaire mondiale, tuant plus d'un million de personnes annuellement, rappelant l'héritage durable de cette découverte fondatrice.",
+    "why": "Alors que les vaccins et antibiotiques semblent avoir vaincu les maladies infectieuses au XXe siècle, la tuberculose persiste comme l'une des principales causes de mortalité mondiale, montrant que la découverte scientifique seule ne suffit pas sans accès équitable aux soins et une lutte constante contre les résistances bactériennes."
   }
 }
