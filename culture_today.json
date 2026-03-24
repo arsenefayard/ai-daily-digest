@@ -1,35 +1,35 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "Les carottes étaient originellement blanches",
-      "summary": "Les carottes sauvages, apparues il y a des millénaires, possédaient une couleur blanche ou grisâtre avant toute intervention humaine. Il y a environ 5 000 ans, les agriculteurs européens ont sélectionné des variétés aux racines violettes et jaunes pour des raisons gustatives et décoratives. Ce n'est qu'au XVIe siècle, sous l'influence des Néerlandais, que la carotte orange emblématique a été développée en hommage à la maison d'Orange, révolutionnant ainsi notre alimentation quotidienne.",
-      "why": "Cette évolution montre comment la sélection humaine a transformé un légume banal en un aliment iconique, illustrant l'impact de l'agriculture sur notre culture culinaire.",
-      "category": "Science pop"
-    },
-    {
-      "title": "L'invention des lunettes au XIIIe siècle",
-      "summary": "Les lunettes ont été inventées vers 1286 en Italie par des moines et des savants comme Salvino D'Armate, qui les posaient simplement sur le nez sans branches. Il a fallu attendre le milieu du XVIIIe siècle pour qu'un opticien anglais ajoute des branches courtes protégeant les tempes, surtout pour les perruquiers. Rapidement, ces branches s'allongent et se courbent derrière les oreilles, donnant naissance aux lunettes modernes que nous utilisons aujourd'hui.",
-      "why": "Cette invention a permis à des millions de personnes de compenser les défauts visuels, favorisant l'accès à la lecture et à la science au fil des siècles.",
+      "title": "L'imprimerie inventée par Gutenberg vers 1440",
+      "summary": "Johannes Gutenberg a révolutionné le partage des connaissances en inventant l'imprimerie à caractères mobiles vers 1440 en Allemagne. Cette innovation a permis la production massive de livres, rendant l'information accessible à un public bien plus large qu'auparavant. Elle a joué un rôle clé dans la diffusion des idées pendant la Renaissance et la Réforme.",
+      "why": "Cette invention a transformé la société en démocratisant le savoir et en accélérant les progrès scientifiques et culturels.",
       "category": "Histoire"
     },
     {
-      "title": "L'explosion de mélasse de Boston en 1919",
-      "summary": "Le 15 janvier 1919, une citerne contenant près de 9 millions de litres de mélasse a explosé à Boston en raison d'une hausse brutale de température. Cette vague visqueuse a déferlé à 56 km/h, détruisant des bâtiments, des véhicules et causant la mort de 21 personnes ainsi que 150 blessés. L'événement, connu comme la 'Great Molasses Flood', a inspiré des normes de sécurité industrielle plus strictes aux États-Unis.",
-      "why": "Cet accident insolite révèle les dangers inattendus des produits courants et a influencé les réglementations sur le stockage des liquides industriels.",
-      "category": "Insolite"
-    },
-    {
-      "title": "Le point Némo, lieu le plus isolé de la planète",
-      "summary": "Le point Némo, situé dans l'océan Pacifique sud, est le lieu le plus éloigné de toute terre émergée, à plus de 2 688 kilomètres des îles les plus proches. Nommé en référence au capitaine Nemo de Jules Verne, il sert de cimetière à des débris spatiaux et abrite une vie marine unique due à son isolement extrême. Cette zone, aussi appelée 'pôle de l'inaccessibilité maritime', défie notre perception de la solitude sur Terre.",
-      "why": "Il symbolise les mystères des océans inexplorés et met en lumière l'immensité de notre planète encore largement inconnue.",
-      "category": "Géographie"
-    },
-    {
-      "title": "Les pièges à mammouths les plus anciens du monde",
-      "summary": "Des archéologues ont découvert en Russie des pièges datant de 15 000 ans, constitués de fosses profondes utilisées pour chasser les mammouths. Ces structures, creusées dans le permafrost, représentent la plus ancienne preuve de chasse collective à grande échelle contre ces géants préhistoriques. Elles témoignent des techniques sophistiquées des humains du Paléolithique supérieur pour survivre dans un environnement hostile.",
-      "why": "Ces découvertes éclairent les stratégies de chasse ancestrales et enrichissent notre compréhension des origines de la technologie humaine.",
+      "title": "Louis XIV et son règne record de 72 ans",
+      "summary": "Le roi de France Louis XIV a détenu le record du règne le plus long de l'histoire avec 72 ans et 110 jours, de 1643 à 1715. Surnommé le Roi-Soleil, il a centralisé le pouvoir absolu et fait de Versailles le symbole de la monarchie française. Son ère a marqué l'apogée de la culture et de l'art baroques en Europe.",
+      "why": "Ce règne exceptionnel illustre l'évolution du pouvoir monarchique et influence encore l'image de la France comme nation culturelle.",
       "category": "Histoire"
+    },
+    {
+      "title": "Les larmes révèlent la cause des émotions",
+      "summary": "Les scientifiques ont observé que la première goutte de larme coulant de l'œil droit indique des larmes de joie, tandis que celles de l'œil gauche signalent du chagrin. Cette distinction chimique et physiologique permettrait en théorie d'identifier l'origine émotionnelle des pleurs. Bien que débattue, cette particularité fascine en psychologie humaine.",
+      "why": "Elle met en lumière les mécanismes subtils du corps dans l'expression des sentiments, enrichissant notre compréhension des émotions.",
+      "category": "Psychologie"
+    },
+    {
+      "title": "Les soldats chinois s'entraînaient avec des aiguilles sur le col",
+      "summary": "En Chine ancienne, les nouveaux soldats apprenaient à garder la tête haute en plaçant de petites aiguilles sur leur col pour corriger leur posture. Cette méthode rigoureuse visait à inculquer discipline et droiture physique dès l'entraînement. Elle reflète les traditions martiales strictes de l'empire chinois.",
+      "why": "Cette anecdote révèle les techniques innovantes et disciplinaires des armées historiques, influençant les méthodes militaires modernes.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Les contes comme Les Trois Petits Cochons enseignent la persévérance",
+      "summary": "Le conte des Trois Petits Cochons, originaire du XVIIIe siècle et transmis oralement avant d'être publié, raconte comment deux cochons paresseux voient leurs maisons détruites par le loup, tandis que le troisième, prudent, survit grâce à sa maison de briques. Cette fable met en garde contre la paresse et valorise la sagesse. Adaptée dans de nombreuses cultures, elle reste un pilier de l'éducation enfantine.",
+      "why": "Ces récits intemporels transmettent des leçons morales universelles sur l'effort et la prévoyance à travers les générations.",
+      "category": "Littérature"
     }
   ],
   "updates": []
