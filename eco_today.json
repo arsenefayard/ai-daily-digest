@@ -1,35 +1,35 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "L'indice Chicago Fed et les dépenses de construction aux États-Unis surpassent les attentes",
-      "summary": "L'indice Chicago Fed et les dépenses de construction aux États-Unis ont affiché des résultats supérieurs aux prévisions le 23 mars 2026, confirmant une croissance économique américaine robuste malgré les tensions géopolitiques. Ces données macroéconomiques positives soulignent la solidité du cycle d'investissement dans les infrastructures et la construction résidentielle. Elles renforcent les attentes d'une économie américaine résiliente, avec un impact potentiel sur les rendements obligataires et le dollar.",
-      "why": "Ces chiffres inattendus apaisent les craintes de récession et influencent les anticipations de politique monétaire de la Fed, soutenant les marchés actions.",
+      "title": "L'inflation sous-jacente japonaise atteint son plus bas niveau en deux ans à 2% en janvier",
+      "summary": "Les données d'inflation japonaise publiées récemment indiquent que l'inflation sous-jacente annuelle a chuté à 2% en janvier, soit son niveau le plus bas depuis deux ans et conforme à l'objectif de la Banque du Japon. Malgré la crise au Moyen-Orient qui affecte les prix de l'énergie importée, la BoJ a maintenu ses taux inchangés tout en adoptant un ton restrictif pour contrer les pressions inflationnistes. Cette situation influence le cycle de resserrement monétaire nippon dans un contexte de volatilité mondiale.",
+      "why": "Cette donnée clé détermine les futures décisions de politique monétaire de la BoJ et impacte les marchés obligataires et actions asiatiques face à l'inflation énergétique importée.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "La balance commerciale de la zone euro passe en déficit de 1,9 milliard d'euros",
+      "summary": "La balance commerciale de la zone euro a basculé en territoire négatif, passant d'un excédent de 11,2 milliards d'euros à un déficit de 1,9 milliard d'euros sur la période récente. Ce retournement spectaculaire est attribué à la flambée des prix de l'énergie due au conflit en Iran et à la hausse des importations pétrolières. Les exportations européennes peinent à compenser ces coûts accrus, aggravant les pressions sur la croissance régionale.",
+      "why": "Ce déficit marque une vulnérabilité accrue de l'Europe aux chocs énergétiques et pourrait accélérer les anticipations de hausses de taux par la BCE.",
       "category": "Marchés"
     },
     {
-      "title": "La confiance des consommateurs en zone euro montre des signes de redressement",
-      "summary": "L'indicateur de confiance des consommateurs dans la zone euro s'améliore le 23 mars 2026, signalant un possible rebond de la demande intérieure après des mois de pessimisme lié à l'inflation énergétique. Cette évolution positive contraste avec les chutes récentes des indices boursiers comme le CAC 40 et le DAX. Elle pourrait stimuler la consommation et atténuer les pressions déflationnistes dans l'Union monétaire.",
-      "why": "Un redressement de la confiance consumer est crucial pour relancer la croissance en zone euro et influencer les décisions futures de la BCE.",
+      "title": "L'indice ZEW allemand s'effondre à -0,5 en mars, bien en-dessous des attentes",
+      "summary": "L'indice ZEW du sentiment économique en Allemagne a chuté de 58,3 à -0,5 en mars, contre un consensus à 39 points, reflétant un choc de confiance majeur. Ce retournement est provoqué par le conflit en Iran et la flambée des prix de l'énergie qui pèsent sur les perspectives industrielles. Les investisseurs allemands anticipent désormais une récession plus profonde dans la première économie européenne.",
+      "why": "Cet effondrement signale un risque imminent de ralentissement économique en zone euro et influence les valorisations des actions européennes.",
       "category": "Marchés"
     },
     {
-      "title": "Rapport EQT AB met en lumière la performance des investissements alternatifs",
-      "summary": "Le rapport publié par EQT AB le 23 mars 2026 révèle une forte performance des investissements alternatifs, avec des rendements solides dans le private equity et les infrastructures malgré la volatilité des marchés. Cette résilience s'explique par la diversification des portefeuilles et la demande soutenue pour des actifs décorrélés des actions traditionnelles. Les investisseurs institutionnels pourraient ainsi réallouer des capitaux vers ces classes d'actifs pour mitiger les risques géopolitiques.",
-      "why": "Ce rapport valide l'attractivité des investissements alternatifs en période d'incertitude, influençant les stratégies d'allocation d'actifs mondiales.",
-      "category": "Entreprises"
+      "title": "La Fed anticipe une seule baisse de taux en 2026 malgré une inflation PCE relevée à 2,7%",
+      "summary": "Le FOMC a révisé à la hausse ses prévisions d'inflation PCE à 2,7% fin 2026 contre 2,5% précédemment, tout en maintenant son taux directeur à 3,50%-3,75%. Les événements en Iran et la hausse des prix de l'énergie ont tempéré les anticipations de baisses de taux, limitées désormais à une seule de 25 points de base cette année. La Fed reste prudente face à son double mandat de stabilité des prix et plein emploi.",
+      "why": "Cette révision modifie les attentes des marchés sur la trajectoire monétaire américaine et soutient les rendements obligataires à long terme.",
+      "category": "Politique monétaire"
     },
     {
-      "title": "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
-      "summary": "Tesla a révélé le 23 mars 2026 le lancement imminent de son projet Terafab, une usine dédiée à la production de puces pour l'intelligence artificielle, visant à réduire la dépendance aux fournisseurs externes comme TSMC. Ce développement s'inscrit dans une stratégie d'intégration verticale pour accélérer l'autonomie des véhicules et les data centers IA. L'investissement estimé à plusieurs milliards de dollars pourrait booster les marges de Tesla à long terme.",
-      "why": "Cette avancée renforce la position de Tesla dans l'IA et les semi-conducteurs, un secteur clé pour la croissance technologique mondiale.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Micron inaugure un second site de production de puces à Taïwan",
-      "summary": "Micron Technology a inauguré le 23 mars 2026 un second site de production de puces mémoire à Taïwan, augmentant sa capacité de fabrication de 30 % pour répondre à la demande explosive en DRAM et NAND liée à l'IA et aux centres de données. Cette expansion, d'un coût de 2,5 milliards de dollars, diversifie les risques géopolitiques en Asie et soutient la chaîne d'approvisionnement mondiale des semi-conducteurs. Elle positionne Micron comme un acteur majeur face à la concurrence sud-coréenne et américaine.",
-      "why": "L'augmentation de la production de puces est vitale pour alimenter la révolution IA et stabiliser les prix des technologies.",
-      "category": "Entreprises"
+      "title": "Les taux allemands remontent fortement avec le 2 ans à 2,44% et le 10 ans à 2,98%",
+      "summary": "Début mars, les taux obligataires allemands ont grimpé à 2,44% pour le 2 ans et 2,98% pour le 10 ans, reflétant les anticipations de deux hausses de taux de 25 points de base par la BCE d'ici fin 2026. Cette remontée est alimentée par la crise énergétique et les prévisions d'inflation révisées à la hausse en zone euro. Les marchés obligataires subissent une pression accrue due aux chocs exogènes.",
+      "why": "Cette hausse des rendements impacte directement les coûts d'emprunt européens et pèse sur les valorisations des actions growth.",
+      "category": "Marchés"
     }
   ],
   "updates": []
