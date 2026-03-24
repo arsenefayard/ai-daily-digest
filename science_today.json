@@ -1,35 +1,35 @@
 {
-  "date": "23/03/2026",
+  "date": "24/03/2026",
   "news": [
     {
-      "title": "Protéine responsable de l'addiction à la cocaïne identifiée",
-      "summary": "Des chercheurs ont découvert une protéine spécifique qui joue un rôle clé dans le développement de l'addiction à la cocaïne chez les mammifères. Cette molécule interfère avec les circuits de récompense du cerveau, amplifiant les effets euphorisants de la drogue. Les implications incluent le développement de thérapies ciblées pour traiter les troubles addictifs.",
-      "why": "Cette avancée ouvre la voie à des traitements pharmacologiques précis contre l'addiction, un problème de santé publique majeur affectant des millions de personnes.",
+      "title": "COVID-19 : la cause de la perte durable du goût enfin identifiée",
+      "summary": "Des chercheurs ont découvert le mécanisme précis responsable de l'agueusie persistante chez certains patients post-COVID-19, impliquant une altération spécifique des récepteurs gustatifs dans la langue. Cette avancée repose sur des analyses moléculaires détaillées montrant une inflammation prolongée qui perturbe la régénération des cellules sensorielles. Elle ouvre la voie à des traitements ciblés pour restaurer ce sens essentiel chez des millions de personnes affectées.",
+      "why": "Cette découverte fondamentale en médecine pourrait révolutionner la prise en charge des séquelles longues du COVID-19 et améliorer la qualité de vie des patients.",
       "category": "Médecine"
     },
     {
-      "title": "Océan de magma et atmosphère soufrée révélés sur une exoplanète",
-      "summary": "Une étude spectroscopique a détecté un océan de magma en surface et une atmosphère riche en soufre sur une exoplanète rocheuse lointaine. Ces conditions extrêmes suggèrent des processus géologiques intenses similaires à ceux de la Terre primitive. Les observations, réalisées avec un télescope spatial, affinent les modèles de formation planétaire.",
-      "why": "Elle enrichit notre compréhension des mondes habitables potentiels et des dynamiques atmosphériques dans d'autres systèmes stellaires.",
+      "title": "L'Antarctique a perdu 13 000 km² de glace ancrée",
+      "summary": "Une étude récente révèle que l'Antarctique a perdu 13 000 kilomètres carrés de glace dite 'ancrée', ces barrières flottantes qui stabilisaient les calottes glaciaires. Cette fonte accélérée, mesurée par satellite, libère des glaciers massifs vers l'océan, augmentant le niveau des mers. Les implications climatiques sont majeures pour les côtes mondiales dans les décennies à venir.",
+      "why": "Cette perte massive accentue les prévisions de montée des océans et souligne l'urgence d'actions climatiques globales.",
+      "category": "Autre"
+    },
+    {
+      "title": "Détection de kaolinite blanche dans le cratère Jezero par Perseverance",
+      "summary": "Le rover Perseverance a identifié des roches blanches riches en kaolinite, une argile formée par un lessivage profond nécessitant d'abondantes eaux de surface il y a 3 milliards d'années. Ces analyses par SuperCam et Mastcam-Z confirment un climat martien autrefois tropical et humide à grande échelle. Cette kaolinite, marqueur de conditions superficielles, éclaire l'évolution climatique de la planète rouge.",
+      "why": "Elle renforce l'hypothèse d'un Mars habitable dans le passé et guide les priorités pour le retour d'échantillons.",
       "category": "Espace"
     },
     {
-      "title": "Vie possible dans l'ombre radioactive d'Europe, lune de Jupiter",
-      "summary": "Des simulations montrent que des micro-organismes pourraient survivre dans les zones sombres d'Europe grâce à l'énergie fournie par le rayonnement de Jupiter. Ce phénomène, appelé radiolyse, produit des composés chimiques utilisables comme source d'énergie. Cela renforce l'intérêt pour une future mission d'exploration de cette lune glacée.",
-      "why": "Cette découverte élargit les critères de recherche de vie extraterrestre et justifie des investissements dans les missions vers les lunes joviennes.",
+      "title": "Traces d'eau anciennes révélées dans la météorite martienne Black Beauty",
+      "summary": "Une équipe internationale a utilisé la tomographie aux rayons X et neutronique pour détecter sans destruction des minéraux hydratés riches en hydrogène dans la météorite Black Beauty. Ces signatures chimiques indiquent une circulation d'eau plus abondante dans la croûte martienne qu'estimé auparavant. Les résultats, publiés en janvier 2026, corroborent les observations de Perseverance dans Jezero.",
+      "why": "Cette méthode non invasive révolutionne l'étude des météorites et affine notre compréhension de l'hydrologie passée de Mars.",
+      "category": "Espace"
+    },
+    {
+      "title": "Rides fossiles de chimiosynthèse profondes identifiées dans l'Atlas",
+      "summary": "Des chercheurs ont découvert dans le bassin atlasique des rides fossiles formées il y a 180 millions d'années par chimiosynthèse à plus de 200 mètres de profondeur dans les océans. Ces structures témoignent d'une vie microbienne prospère dans des environnements extrêmes sans lumière solaire. Elles repoussent les limites connues de l'habitabilité océanique ancienne.",
+      "why": "Cette trouvaille élargit notre vision de la vie sur Terre primitive et inspire la recherche de biosignatures sur d'autres mondes.",
       "category": "Biologie"
-    },
-    {
-      "title": "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
-      "summary": "Une étude épidémiologique identifie des facteurs environnementaux et alimentaires, comme la consommation accrue de viandes transformées et de plastiques, comme causes principales de cette hausse. Les changements dans le microbiote intestinal accélèrent le développement tumoral chez les jeunes adultes. Des recommandations préventives sont désormais proposées pour les politiques de santé publique.",
-      "why": "Comprendre ces mécanismes permet d'implémenter des mesures préventives précoces, réduisant potentiellement l'incidence de ces cancers agressifs.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Neutrino le plus énergétique détecté provient probablement d'un blazar",
-      "summary": "Le détecteur IceCube a capté le neutrino le plus énergétique jamais observé, avec une origine tracée vers un blazar actif à un milliard d'années-lumière. Cette particule cosmique confirme le rôle des noyaux galactiques actifs dans l'accélération de rayonnements de haute énergie. Les données soutiennent les théories sur la production de rayons cosmiques.",
-      "why": "Cette détection révolutionne notre connaissance des accélérateurs naturels de particules et des phénomènes extrêmes dans l'univers.",
-      "category": "Physique"
     }
   ],
   "updates": []
