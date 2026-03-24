@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant Hollywood",
-      "Secrétaire général de l'ONU lance une commission scientifique pour le contrôle humain de l'IA",
-      "Sam Altman d'OpenAI appelle à une régulation urgente de l'IA en pleine expansion",
-      "Explosion du marché des IDE pour développement multi-agent avec sept leaders en compétition",
-      "Cour des comptes valide les progrès de la stratégie nationale IA française"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
       "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
       "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
@@ -70,6 +60,17 @@
       "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA générative, doublant en deux ans",
       "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains pour le développement multi-agent",
       "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant l'industrie hollywoodienne"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "Meta élargit les partenariats avec les médias internationaux pour enrichir son assistant IA",
+      "L'IA physique émerge comme tendance majeure de 2026 avec les robots en environnements simulés",
+      "Future Intelligence 2026 se concentre sur l'IA de confiance au service de la défense et la sécurité",
+      "Les opérateurs mobiles intègrent l'IA pour offrir des assistants personnels et détecter les fraudes",
+      "L'UNESCO organise une journée dédiée à l'IA avec exposition technologique et innovations en robotique",
+      "Anthropic et le Pentagone : escalade du conflit autour de l'accès militaire à Claude"
     ]
   }
 ]
