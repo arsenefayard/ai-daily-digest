@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "In Dread We Trust : festival metal à Cluses les 27 et 28 mars",
-      "Les Détours de Babel : festival pluridisciplinaire à Grenoble du 18 mars au 5 avril",
-      "Avec Le Temps : festival jazz à Marseille jusqu'au 24 mars",
-      "Blues Autour Du Zinc : festival blues à Beauvais fin mars",
-      "Festival de Musique Sacrée de Perpignan jusqu'au 4 avril"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Geese en double concert à Paris : succès du trio américain après Getting Killed",
       "Sleaford Mods de retour après une pause : le duo electro-punk britannique reprend la route",
       "David Byrne lance sa tournée internationale à la Seine Musicale avec 13 musiciens",
@@ -69,6 +59,16 @@
       "David Byrne lance sa tournée à La Seine Musicale les 18 et 19 mars",
       "Marlon Magnée fête Dark Star au Supersonic le 26 mars",
       "Electronic Peak illumine la fin de mars du 25 au 27"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "Megadeth en tournée d'adieu à Québec",
+      "Feu! Chatterton de retour au Canada après huit ans",
+      "Twice en concert au Centre Bell de Montréal",
+      "Jazz en Nord prolonge jusqu'au 4 mai",
+      "Les Bistrots d'Hiver jusqu'au 29 mars en Corrèze"
     ]
   }
 ]
