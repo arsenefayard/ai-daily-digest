@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Les hiboux n'ont pas de globes oculaires",
-      "Les empreintes de langue sont aussi uniques que les empreintes digitales",
-      "La plus ancienne œuvre d'art connue remonte à 44 000 ans en Indonésie",
-      "L'étymologie du mot « sandwich » : un aristocrate du XVIIIe siècle",
-      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Les empreintes de langue, aussi uniques que les empreintes digitales",
       "Le fromage, aliment le plus volé au monde",
       "La polyphonie vocale géorgienne, patrimoine immatériel de l'UNESCO",
@@ -67,6 +57,16 @@
       "L'explosion de mélasse de Boston en 1919",
       "Le point Némo, lieu le plus isolé de la planète",
       "Les pièges à mammouths les plus anciens du monde"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "L'imprimerie inventée par Gutenberg vers 1440",
+      "Louis XIV et son règne record de 72 ans",
+      "Les larmes révèlent la cause des émotions",
+      "Les soldats chinois s'entraînaient avec des aiguilles sur le col",
+      "Les contes comme Les Trois Petits Cochons enseignent la persévérance"
     ]
   }
 ]
