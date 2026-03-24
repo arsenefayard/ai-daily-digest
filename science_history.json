@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Spintronique : passage à l'échelle industrielle pour une électronique plus rapide et sobre",
-      "Métal rendu insubmersible par une innovation matériaux",
-      "Bizarrerie unique découverte chez l'ornithorynque",
-      "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
-      "Simulation majeure du cycle de vie bactérien réalisée"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Doolysaurus, nouveau dinosaure juvénile découvert en Corée du Sud",
       "Bizarrerie unique supplémentaire découverte chez l'ornithorynque",
       "Hérissons sensibles aux ultrasons, une avancée pour leur protection",
@@ -67,6 +57,16 @@
       "Vie possible dans l'ombre radioactive d'Europe, lune de Jupiter",
       "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
       "Neutrino le plus énergétique détecté provient probablement d'un blazar"
+    ]
+  },
+  {
+    "date": "24/03/2026",
+    "titles": [
+      "COVID-19 : la cause de la perte durable du goût enfin identifiée",
+      "L'Antarctique a perdu 13 000 km² de glace ancrée",
+      "Détection de kaolinite blanche dans le cratère Jezero par Perseverance",
+      "Traces d'eau anciennes révélées dans la météorite martienne Black Beauty",
+      "Rides fossiles de chimiosynthèse profondes identifiées dans l'Atlas"
     ]
   }
 ]
