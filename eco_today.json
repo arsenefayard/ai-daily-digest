@@ -1,35 +1,35 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "L'inflation sous-jacente japonaise atteint son plus bas niveau en deux ans à 2% en janvier",
-      "summary": "Les données d'inflation japonaise publiées récemment indiquent que l'inflation sous-jacente annuelle a chuté à 2% en janvier, soit son niveau le plus bas depuis deux ans et conforme à l'objectif de la Banque du Japon. Malgré la crise au Moyen-Orient qui affecte les prix de l'énergie importée, la BoJ a maintenu ses taux inchangés tout en adoptant un ton restrictif pour contrer les pressions inflationnistes. Cette situation influence le cycle de resserrement monétaire nippon dans un contexte de volatilité mondiale.",
-      "why": "Cette donnée clé détermine les futures décisions de politique monétaire de la BoJ et impacte les marchés obligataires et actions asiatiques face à l'inflation énergétique importée.",
+      "title": "Administration Trump annonce un consortium de 1000 milliards de dollars pour énergie, minéraux et semi-conducteurs",
+      "summary": "L'administration Trump a déclaré son intention de créer un consortium investissant plus de 1000 milliards de dollars dans des projets énergétiques, des minéraux critiques et des semi-conducteurs afin de développer une nouvelle source de biens essentiels contrôlés par les États-Unis. Cette initiative vise à renforcer l'indépendance stratégique face aux tensions géopolitiques actuelles. Elle pourrait stimuler la croissance économique américaine et influencer les chaînes d'approvisionnement mondiales.",
+      "why": "Cette annonce massive renforce la position des États-Unis dans les secteurs stratégiques et pourrait relancer les investissements domestiques face à la guerre dans le Golfe.",
       "category": "Politique monétaire"
     },
     {
-      "title": "La balance commerciale de la zone euro passe en déficit de 1,9 milliard d'euros",
-      "summary": "La balance commerciale de la zone euro a basculé en territoire négatif, passant d'un excédent de 11,2 milliards d'euros à un déficit de 1,9 milliard d'euros sur la période récente. Ce retournement spectaculaire est attribué à la flambée des prix de l'énergie due au conflit en Iran et à la hausse des importations pétrolières. Les exportations européennes peinent à compenser ces coûts accrus, aggravant les pressions sur la croissance régionale.",
-      "why": "Ce déficit marque une vulnérabilité accrue de l'Europe aux chocs énergétiques et pourrait accélérer les anticipations de hausses de taux par la BCE.",
-      "category": "Marchés"
+      "title": "Trump accorde près d'un milliard de dollars à TotalEnergies pour abandonner ses parcs éoliens offshore",
+      "summary": "L'administration Trump versera près d'un milliard de dollars au géant français de l'énergie TotalEnergies pour qu'il renonce à ses projets de construction de parcs éoliens au large de la côte Est américaine. Cette décision, annoncée par le ministère de l'Intérieur, reflète une préférence pour d'autres formes d'énergie face au choc pétrolier actuel. Elle marque un revirement dans la politique énergétique des États-Unis.",
+      "why": "Ce paiement souligne le pivot vers les énergies fossiles et impacte les investissements renouvelables mondiaux.",
+      "category": "Entreprises"
     },
     {
-      "title": "L'indice ZEW allemand s'effondre à -0,5 en mars, bien en-dessous des attentes",
-      "summary": "L'indice ZEW du sentiment économique en Allemagne a chuté de 58,3 à -0,5 en mars, contre un consensus à 39 points, reflétant un choc de confiance majeur. Ce retournement est provoqué par le conflit en Iran et la flambée des prix de l'énergie qui pèsent sur les perspectives industrielles. Les investisseurs allemands anticipent désormais une récession plus profonde dans la première économie européenne.",
-      "why": "Cet effondrement signale un risque imminent de ralentissement économique en zone euro et influence les valorisations des actions européennes.",
-      "category": "Marchés"
+      "title": "BCE révise ses prévisions et publie des scénarios sur l'impact de la guerre au Moyen-Orient",
+      "summary": "La Banque centrale européenne a maintenu ses taux inchangés mais a substantiellement révisé ses prévisions économiques en raison de la guerre au Moyen-Orient, évoquant un choc majeur avec des risques inflationnistes à la hausse et de croissance à la baisse. Dans ses scénarios, l'inflation moyenne atteindrait 4,4% en 2026 et 4,8% en 2027, tandis que la croissance se replierait à 0,4% puis 0,9%. Les marchés anticipent désormais trois hausses de taux de 25 points de base d'ici fin d'année.",
+      "why": "Ces scénarios alimentent les attentes de resserrement monétaire en Europe et accentuent la volatilité des marchés.",
+      "category": "Banques"
     },
     {
-      "title": "La Fed anticipe une seule baisse de taux en 2026 malgré une inflation PCE relevée à 2,7%",
-      "summary": "Le FOMC a révisé à la hausse ses prévisions d'inflation PCE à 2,7% fin 2026 contre 2,5% précédemment, tout en maintenant son taux directeur à 3,50%-3,75%. Les événements en Iran et la hausse des prix de l'énergie ont tempéré les anticipations de baisses de taux, limitées désormais à une seule de 25 points de base cette année. La Fed reste prudente face à son double mandat de stabilité des prix et plein emploi.",
-      "why": "Cette révision modifie les attentes des marchés sur la trajectoire monétaire américaine et soutient les rendements obligataires à long terme.",
-      "category": "Politique monétaire"
+      "title": "Prix du Brent grimpe à 114 USD/b et TTF européen à 60 EUR/MWh amid escalade dans le Golfe",
+      "summary": "Les frappes sur les installations pétro-gazières dans le Golfe ont intensifié l'escalade, poussant le prix du Brent à 114 USD le baril, soit une hausse de 13%, et le TTF européen à 60 EUR/MWh, en hausse de 23% sur la semaine. L'AIE a détaillé la libération de 400 millions de barils de stocks stratégiques, majoritairement du brut, avec une contribution européenne en produits pétroliers. Les pays producteurs américains augmentent leur production pour compenser.",
+      "why": "Cette flambée des matières premières exacerbe l'inflation mondiale et contraint les banques centrales à des politiques plus restrictives.",
+      "category": "Matières premières"
     },
     {
-      "title": "Les taux allemands remontent fortement avec le 2 ans à 2,44% et le 10 ans à 2,98%",
-      "summary": "Début mars, les taux obligataires allemands ont grimpé à 2,44% pour le 2 ans et 2,98% pour le 10 ans, reflétant les anticipations de deux hausses de taux de 25 points de base par la BCE d'ici fin 2026. Cette remontée est alimentée par la crise énergétique et les prévisions d'inflation révisées à la hausse en zone euro. Les marchés obligataires subissent une pression accrue due aux chocs exogènes.",
-      "why": "Cette hausse des rendements impacte directement les coûts d'emprunt européens et pèse sur les valorisations des actions growth.",
-      "category": "Marchés"
+      "title": "Banques d'investissement prévoient hausses de taux de la BCE dès avril 2026",
+      "summary": "JP Morgan, Morgan Stanley et Barclays anticipent une première hausse des taux d'intérêt par la BCE en avril 2026, suivie d'ajustements supplémentaires, en raison des risques inflationnistes liés au conflit au Moyen-Orient. Barclays et JP Morgan tablent sur des hausses au deuxième et troisième trimestres, tandis que Morgan Stanley prévoit deux relèvements de 0,25 point en juin et septembre. Ces prévisions reflètent un consensus sur un resserrement monétaire imminent.",
+      "why": "Ces attentes des grandes banques influencent directement les marchés obligataires et les stratégies d'investissement en zone euro.",
+      "category": "Banques"
     }
   ],
   "updates": []
