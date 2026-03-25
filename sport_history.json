@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Miami Open : Carlos Alcaraz et Iga Swiatek passent au troisième tour malgré les interruptions pluvieuses",
-      "Tour de Catalogne : Début explosif avec les sprinteurs en vedette",
-      "TOP 14 : La 20e journée s'annonce décisive pour le maintien et le podium",
-      "Betclic Elite : La 24e journée voit Monaco creuser l'écart en tête",
-      "Athlétisme : Les Championnats du monde en salle clôturés avec des records en Pologne"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
       "Tour de Catalogne : Sprinteurs au rendez-vous lors de la première étape",
       "TOP 14 : Résultats décisifs de la 20e journée pour le podium et le maintien",
@@ -68,6 +58,17 @@
       "NBA : Les Lakers signent une victoire cruciale contre les Celtics et reviennent dans la course aux playoffs",
       "Formule 1 : Max Verstappen domine les essais libres du Grand Prix d'Arabie Saoudite",
       "Miami Open : Alcaraz et Swiatek passent des huitièmes aux quarts de finale"
+    ]
+  },
+  {
+    "date": "25/03/2026",
+    "titles": [
+      "Ligue des champions féminine : les quarts de finale aller se jouent les 24 et 25 mars",
+      "Yann Schrub remporte la médaille de bronze au championnat du monde d'athlétisme en salle",
+      "Cyclocross : Godon domine Evenepoel dans une belle performance",
+      "Équipe de France de football : dévoilement du nouveau maillot pour la Coupe du monde 2026",
+      "Tennis : Carlos Alcaraz et Iga Swiatek progressent aux quarts de finale du Miami Open",
+      "Miami Open : Alcaraz et Swiatek avancent aux quarts de finale"
     ]
   }
 ]
