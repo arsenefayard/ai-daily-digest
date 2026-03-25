@@ -1,35 +1,35 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "COVID-19 : la cause de la perte durable du goût enfin identifiée",
-      "summary": "Des chercheurs ont découvert le mécanisme précis responsable de l'agueusie persistante chez certains patients post-COVID-19, impliquant une altération spécifique des récepteurs gustatifs dans la langue. Cette avancée repose sur des analyses moléculaires détaillées montrant une inflammation prolongée qui perturbe la régénération des cellules sensorielles. Elle ouvre la voie à des traitements ciblés pour restaurer ce sens essentiel chez des millions de personnes affectées.",
-      "why": "Cette découverte fondamentale en médecine pourrait révolutionner la prise en charge des séquelles longues du COVID-19 et améliorer la qualité de vie des patients.",
+      "title": "Explication du signal régulier émis par le pulsar du Crabe",
+      "summary": "Des astronomes ont identifié la cause d'un signal radio curieux et périodique émis par le pulsar du Crabe, une étoile à neutrons située au cœur de la nébuleuse du même nom. Cette découverte repose sur des observations récentes qui révèlent des interactions spécifiques entre le champ magnétique du pulsar et son environnement. Elle permet de mieux comprendre les mécanismes d'émission des pulsars et leurs évolutions dynamiques.",
+      "why": "Cette avancée éclaire les processus physiques extrêmes dans les étoiles à neutrons et pourrait améliorer les modèles de formation des nébuleuses.",
+      "category": "Espace"
+    },
+    {
+      "title": "Première observation d'un trou noir de masse intermédiaire en action",
+      "summary": "Une équipe d'astrophysiciens a détecté pour la première fois un trou noir de masse intermédiaire, entre celles des trous noirs stellaires et supermassifs, en train d'accréter de la matière. Cette observation, réalisée via des télescopes X, montre des flambées d'émission caractéristiques de ce phénomène rare. Elle comble un vide dans notre compréhension de la hiérarchie des trous noirs dans l'univers.",
+      "why": "Elle valide l'existence de ces objets intermédiaires et ouvre des perspectives sur la formation des trous noirs supermassifs dans les galaxies.",
+      "category": "Physique"
+    },
+    {
+      "title": "Alerte sur les compléments alimentaires affectant le sommeil et la croissance des adolescents",
+      "summary": "Une étude récente met en lumière les effets négatifs de certains compléments alimentaires couramment utilisés par les adolescents, qui perturbent leur sommeil et freinent leur croissance. Les analyses biochimiques révèlent des interactions hormonales imprévues dues à des dosages excessifs. Les autorités sanitaires recommandent une régulation plus stricte de ces produits.",
+      "why": "Cette découverte protège la santé des jeunes en exposant des risques insoupçonnés et incite à une utilisation plus prudente des suppléments.",
       "category": "Médecine"
     },
     {
-      "title": "L'Antarctique a perdu 13 000 km² de glace ancrée",
-      "summary": "Une étude récente révèle que l'Antarctique a perdu 13 000 kilomètres carrés de glace dite 'ancrée', ces barrières flottantes qui stabilisaient les calottes glaciaires. Cette fonte accélérée, mesurée par satellite, libère des glaciers massifs vers l'océan, augmentant le niveau des mers. Les implications climatiques sont majeures pour les côtes mondiales dans les décennies à venir.",
-      "why": "Cette perte massive accentue les prévisions de montée des océans et souligne l'urgence d'actions climatiques globales.",
-      "category": "Autre"
-    },
-    {
-      "title": "Détection de kaolinite blanche dans le cratère Jezero par Perseverance",
-      "summary": "Le rover Perseverance a identifié des roches blanches riches en kaolinite, une argile formée par un lessivage profond nécessitant d'abondantes eaux de surface il y a 3 milliards d'années. Ces analyses par SuperCam et Mastcam-Z confirment un climat martien autrefois tropical et humide à grande échelle. Cette kaolinite, marqueur de conditions superficielles, éclaire l'évolution climatique de la planète rouge.",
-      "why": "Elle renforce l'hypothèse d'un Mars habitable dans le passé et guide les priorités pour le retour d'échantillons.",
-      "category": "Espace"
-    },
-    {
-      "title": "Traces d'eau anciennes révélées dans la météorite martienne Black Beauty",
-      "summary": "Une équipe internationale a utilisé la tomographie aux rayons X et neutronique pour détecter sans destruction des minéraux hydratés riches en hydrogène dans la météorite Black Beauty. Ces signatures chimiques indiquent une circulation d'eau plus abondante dans la croûte martienne qu'estimé auparavant. Les résultats, publiés en janvier 2026, corroborent les observations de Perseverance dans Jezero.",
-      "why": "Cette méthode non invasive révolutionne l'étude des météorites et affine notre compréhension de l'hydrologie passée de Mars.",
-      "category": "Espace"
-    },
-    {
-      "title": "Rides fossiles de chimiosynthèse profondes identifiées dans l'Atlas",
-      "summary": "Des chercheurs ont découvert dans le bassin atlasique des rides fossiles formées il y a 180 millions d'années par chimiosynthèse à plus de 200 mètres de profondeur dans les océans. Ces structures témoignent d'une vie microbienne prospère dans des environnements extrêmes sans lumière solaire. Elles repoussent les limites connues de l'habitabilité océanique ancienne.",
-      "why": "Cette trouvaille élargit notre vision de la vie sur Terre primitive et inspire la recherche de biosignatures sur d'autres mondes.",
+      "title": "Cannabinoïdes efficaces contre la stéatose hépatique non alcoolique",
+      "summary": "Des chercheurs ont démontré que les cannabinoïdes naturels réduisent significativement l'accumulation de graisse dans le foie chez des modèles animaux atteints de stéatose hépatique. Ce mécanisme agit via la modulation des récepteurs endocannabinoïdes, favorisant la lipolyse. Les résultats précliniques ouvrent la voie à de nouveaux traitements pour cette maladie métabolique en hausse.",
+      "why": "Elle propose une piste thérapeutique innovante pour une pathologie touchant des millions de personnes, sans les effets psychoactifs classiques.",
       "category": "Biologie"
+    },
+    {
+      "title": "Vaccin thérapeutique ARN-messager personnalisé contre le cancer",
+      "summary": "Stéphanie Corgnac et son équipe à l'Institut Gustave Roussy développent un vaccin ARN-messager adapté à chaque tumeur pour réactiver le système immunitaire des patients cancéreux. Cette approche analyse la composition tumorale pour cibler précisément les antigènes uniques. Présenté lors de la Soirée de la recherche médicale le 19 mars, il promet une immunothérapie sur mesure.",
+      "why": "Cette innovation personnalisée pourrait révolutionner le traitement des cancers avancés en boostant efficacement les défenses immunitaires.",
+      "category": "Médecine"
     }
   ],
   "updates": []
