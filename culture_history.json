@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Les empreintes de langue, aussi uniques que les empreintes digitales",
-      "Le fromage, aliment le plus volé au monde",
-      "La polyphonie vocale géorgienne, patrimoine immatériel de l'UNESCO",
-      "L'eau nécessaire pour cultiver un seul avocat",
-      "Les hiboux n'ont pas de globes oculaires"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Coca-Cola est plus ancien que la Tour Eiffel",
       "Candide de Voltaire, satire philosophique intemporelle",
       "Le durian, fruit interdit pour son odeur pestilentielle",
@@ -67,6 +57,16 @@
       "Les larmes révèlent la cause des émotions",
       "Les soldats chinois s'entraînaient avec des aiguilles sur le col",
       "Les contes comme Les Trois Petits Cochons enseignent la persévérance"
+    ]
+  },
+  {
+    "date": "25/03/2026",
+    "titles": [
+      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
+      "L'imprimerie de Gutenberg vers 1440, révolution du partage de l'information",
+      "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
+      "Le Soudan possède plus de pyramides que l'Égypte",
+      "L'étymologie du mot « sandwich » remonte à un aristocrate anglais du XVIIIe siècle"
     ]
   }
 ]
