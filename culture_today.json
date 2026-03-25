@@ -1,35 +1,35 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "L'imprimerie inventée par Gutenberg vers 1440",
-      "summary": "Johannes Gutenberg a révolutionné le partage des connaissances en inventant l'imprimerie à caractères mobiles vers 1440 en Allemagne. Cette innovation a permis la production massive de livres, rendant l'information accessible à un public bien plus large qu'auparavant. Elle a joué un rôle clé dans la diffusion des idées pendant la Renaissance et la Réforme.",
-      "why": "Cette invention a transformé la société en démocratisant le savoir et en accélérant les progrès scientifiques et culturels.",
+      "title": "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
+      "summary": "Marie Curie a reçu le prix Nobel de physique en 1903 pour ses travaux pionniers sur la radioactivité, puis le prix Nobel de chimie en 1911 pour la découverte du radium et du polonium. Cette double distinction reste exceptionnelle dans l'histoire scientifique, car très peu de chercheurs ont obtenu deux prix Nobel, et encore moins dans des domaines aussi distincts. Son parcours illustre l'excellence scientifique et la persévérance face aux obstacles que rencontraient les femmes dans la recherche au début du XXe siècle.",
+      "why": "Marie Curie incarne le dépassement des limites et l'excellence scientifique intemporelle. Son héritage inspire les générations futures de chercheurs et rappelle l'importance de la contribution des femmes à la science.",
       "category": "Histoire"
     },
     {
-      "title": "Louis XIV et son règne record de 72 ans",
-      "summary": "Le roi de France Louis XIV a détenu le record du règne le plus long de l'histoire avec 72 ans et 110 jours, de 1643 à 1715. Surnommé le Roi-Soleil, il a centralisé le pouvoir absolu et fait de Versailles le symbole de la monarchie française. Son ère a marqué l'apogée de la culture et de l'art baroques en Europe.",
-      "why": "Ce règne exceptionnel illustre l'évolution du pouvoir monarchique et influence encore l'image de la France comme nation culturelle.",
+      "title": "L'imprimerie de Gutenberg vers 1440, révolution du partage de l'information",
+      "summary": "Johannes Gutenberg a inventé l'imprimerie à caractères mobiles vers 1440, une innovation qui a transformé radicalement la diffusion du savoir en Europe. Avant cette invention, les livres étaient recopiés à la main par des moines et des scribes, ce qui les rendait rares et extrêmement coûteux. L'imprimerie a permis la reproduction en masse de textes, accélérant la Renaissance, la Réforme protestante et l'émergence de la pensée moderne.",
+      "why": "L'imprimerie de Gutenberg est un tournant civilisationnel qui a démocratisé l'accès au savoir et jeté les bases de la société de l'information. C'est un fait fondateur pour comprendre la modernité.",
       "category": "Histoire"
     },
     {
-      "title": "Les larmes révèlent la cause des émotions",
-      "summary": "Les scientifiques ont observé que la première goutte de larme coulant de l'œil droit indique des larmes de joie, tandis que celles de l'œil gauche signalent du chagrin. Cette distinction chimique et physiologique permettrait en théorie d'identifier l'origine émotionnelle des pleurs. Bien que débattue, cette particularité fascine en psychologie humaine.",
-      "why": "Elle met en lumière les mécanismes subtils du corps dans l'expression des sentiments, enrichissant notre compréhension des émotions.",
-      "category": "Psychologie"
+      "title": "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
+      "summary": "L'Empire mongol, qui s'est étendu aux XIIIe et XIVe siècles sous le règne de Gengis Khan et de ses successeurs, reste le plus grand empire terrestre contigu jamais constitué. À son apogée, il s'étendait de la Chine à l'Europe de l'Est, couvrant une superficie immense et reliant des civilisations jusque-là isolées. Cet empire a favorisé les échanges commerciaux, culturels et technologiques via la Route de la Soie, transformant profondément l'Eurasie.",
+      "why": "L'Empire mongol illustre la capacité de mobilisation militaire et administrative à grande échelle, et ses impacts sur les échanges mondiaux restent visibles aujourd'hui. C'est un repère essentiel pour comprendre la géopolitique historique.",
+      "category": "Géographie"
     },
     {
-      "title": "Les soldats chinois s'entraînaient avec des aiguilles sur le col",
-      "summary": "En Chine ancienne, les nouveaux soldats apprenaient à garder la tête haute en plaçant de petites aiguilles sur leur col pour corriger leur posture. Cette méthode rigoureuse visait à inculquer discipline et droiture physique dès l'entraînement. Elle reflète les traditions martiales strictes de l'empire chinois.",
-      "why": "Cette anecdote révèle les techniques innovantes et disciplinaires des armées historiques, influençant les méthodes militaires modernes.",
-      "category": "Histoire"
+      "title": "Le Soudan possède plus de pyramides que l'Égypte",
+      "summary": "Contrairement à l'idée reçue, le Soudan compte plus de 250 pyramides, tandis que l'Égypte en possède environ 138. Ces pyramides soudanaises, construites par le royaume de Koush entre le VIIIe siècle avant notre ère et le IVe siècle de notre ère, témoignent d'une civilisation prospère et influencée par l'Égypte ancienne. Bien que moins célèbres que les pyramides égyptiennes, elles constituent un patrimoine archéologique majeur et souvent méconnu.",
+      "why": "Ce fait remet en question nos présupposés géographiques et historiques, et souligne l'importance des civilisations africaines au-delà de l'Égypte. Il enrichit notre compréhension du patrimoine mondial.",
+      "category": "Géographie"
     },
     {
-      "title": "Les contes comme Les Trois Petits Cochons enseignent la persévérance",
-      "summary": "Le conte des Trois Petits Cochons, originaire du XVIIIe siècle et transmis oralement avant d'être publié, raconte comment deux cochons paresseux voient leurs maisons détruites par le loup, tandis que le troisième, prudent, survit grâce à sa maison de briques. Cette fable met en garde contre la paresse et valorise la sagesse. Adaptée dans de nombreuses cultures, elle reste un pilier de l'éducation enfantine.",
-      "why": "Ces récits intemporels transmettent des leçons morales universelles sur l'effort et la prévoyance à travers les générations.",
-      "category": "Littérature"
+      "title": "L'étymologie du mot « sandwich » remonte à un aristocrate anglais du XVIIIe siècle",
+      "summary": "Le mot « sandwich » provient du quatrième Comte de Sandwich, un aristocrate anglais du XVIIIe siècle. Selon la légende, ce noble aurait demandé qu'on lui serve de la viande entre deux tranches de pain pour pouvoir manger sans interrompre ses jeux de cartes. Cette pratique commode s'est popularisée et le nom du Comte a donné son nom à ce type de repas, devenant un terme universel dans de nombreuses langues.",
+      "why": "Cette étymologie illustre comment les noms propres peuvent devenir des mots communs et comment les habitudes des personnages historiques influencent le langage quotidien. C'est une anecdote linguistique qui enrichit la compréhension des origines des mots.",
+      "category": "Linguistique"
     }
   ],
   "updates": []
