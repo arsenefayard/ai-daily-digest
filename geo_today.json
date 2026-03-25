@@ -1,43 +1,50 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
-      "summary": "Le président américain Donald Trump a émis un ultimatum de 48 heures à l'Iran, menaçant de frapper ses centrales électriques si le détroit d'Ormuz n'est pas rouvert sans menace. Cette déclaration intervient après des frappes israélo-américaines sur le site nucléaire de Natanz et des attaques iraniennes sur des infrastructures pétrolières dans le Golfe. Les marchés boursiers asiatiques ont plongé en réaction à cette escalade, soulignant les risques d'une perturbation majeure des flux énergétiques mondiaux.",
-      "why": "Cette menace directe risque d'aggraver le conflit au Moyen-Orient et de provoquer une flambée des prix du pétrole, impactant l'économie mondiale entière.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Ursula von der Leyen en visite au Groenland pour renforcer les partenariats énergétiques et climatiques",
-      "summary": "La présidente de la Commission européenne s'est rendue au Groenland afin de consolider les liens en matière d'énergie et de climat dans l'Arctique. Cette région émerge comme un enjeu géopolitique majeur où convergent les défis environnementaux et les ambitions économiques des grandes puissances. L'initiative vise à sécuriser les ressources face à la fonte des glaces et à la compétition russo-chinoise.",
-      "why": "L'Arctique devient un nouveau théâtre de rivalités stratégiques, avec des implications directes sur l'accès aux ressources minérales et aux routes maritimes futures.",
-      "category": "Énergie"
-    },
-    {
-      "title": "Élections générales au Népal après les manifestations anticorruption de 2025",
-      "summary": "Le Népal organise ses premières élections générales depuis les vastes manifestations anticorruption de 2025, marquant un espoir de renouveau démocratique. Les citoyens attendent une lutte plus efficace contre la corruption endémique qui mine l'économie et la gouvernance. Ces scrutins pourraient redéfinir les alliances régionales avec l'Inde et la Chine.",
-      "why": "Un changement de pouvoir au Népal pourrait influencer l'équilibre himalayen et les projets d'infrastructures sino-indiens dans la région.",
-      "category": "Élection"
-    },
-    {
-      "title": "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les critiques européennes",
-      "summary": "Le Premier ministre hongrois Viktor Orbán a menacé de prendre de nouvelles mesures contre l'Ukraine, malgré les reproches des dirigeants de l'UE. Cette position s'inscrit dans un contexte de tensions sur les droits des minorités hongroises en Ukraine et de blocage des aides européennes. Orbán revendique une victoire au sommet de l'UE sur les questions ukrainiennes et iraniennes.",
-      "why": "Ces menaces fragilisent l'unité européenne face à la Russie et compliquent le soutien à Kiev dans le conflit en cours.",
+      "title": "Donald Trump rencontre Xi Jinping sur le commerce et la sécurité régionale",
+      "summary": "Le président américain Donald Trump s'est entretenu avec le président chinois Xi Jinping pour aborder les questions commerciales et de sécurité en Asie-Pacifique. Cette rencontre met en lumière la rivalité stratégique entre Washington et Pékin tout en soulignant la nécessité d'une coopération minimale pour éviter une escalade militaire. Les discussions pourraient influencer les chaînes d'approvisionnement mondiales et la stabilité régionale face aux tensions actuelles au Moyen-Orient.",
+      "why": "Cette rencontre bilatérale majeure pourrait atténuer les risques d'un conflit sino-américain et stabiliser les marchés mondiaux, avec des implications directes sur l'économie globale.",
       "category": "Diplomatie"
     },
     {
-      "title": "Cuba paralysé par une pénurie aiguë de pétrole",
-      "summary": "Cuba fait face à une paralysie économique et sociale due à une pénurie sévère de pétrole, aggravée par les sanctions et les perturbations mondiales des approvisionnements. Les transports publics sont à l'arrêt, les usines fermées, et les files d'attente pour l'essence s'allongent, provoquant des tensions sociales. Cette crise renforce la dépendance de l'île envers ses alliés comme le Venezuela et la Russie.",
-      "why": "La situation humanitaire à Cuba met en lumière les vulnérabilités des régimes alliés à Moscou et pourrait inciter à une réévaluation des sanctions américaines.",
+      "title": "La Russie intensifie ses frappes contre l'Ukraine dans sa plus grande attaque depuis des semaines",
+      "summary": "La Russie a lancé une offensive aérienne massive contre l'Ukraine, marquant sa plus grande attaque en plusieurs semaines avec des frappes sur des infrastructures critiques. Cette escalade survient dans un contexte de tensions persistantes et de soutien occidental à Kiev. Les implications incluent un risque accru de prolongation du conflit et de crise humanitaire en Europe de l'Est.",
+      "why": "Cette intensification militaire renforce les divisions en Europe et pourrait entraîner de nouvelles sanctions ou une réponse accrue de l'OTAN, affectant la sécurité continentale.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Élections législatives au Danemark : les sociaux-démocrates en tête mais en recul",
+      "summary": "Les sociaux-démocrates de Mette Frederiksen arrivent en tête des élections législatives danoises, mais enregistrent un recul par rapport aux scrutins précédents. Ce vote reflète les débats sur l'immigration, la défense et l'économie dans un pays clé de l'OTAN. Les résultats pourraient influencer la politique nordique vis-à-vis de la Russie et de l'UE.",
+      "why": "Ce scrutin détermine l'orientation future de la politique étrangère danoise, particulièrement sur l'Ukraine et l'Arctique, avec des répercussions sur l'unité européenne.",
+      "category": "Élection"
+    },
+    {
+      "title": "Marchés boursiers asiatiques en chute après l'ultimatum de Trump à l'Iran",
+      "summary": "Les bourses asiatiques ont plongé suite à l'ultimatum de 48 heures lancé par Donald Trump à l'Iran pour rouvrir le détroit d'Ormuz, menaçant ses centrales électriques. Cette réaction reflète les craintes d'une perturbation des approvisionnements pétroliers mondiaux. Les enjeux économiques mondiaux s'aggravent avec des risques de récession si le conflit s'étend.",
+      "why": "La volatilité des marchés souligne la vulnérabilité de l'économie mondiale aux tensions au Moyen-Orient, impactant directement l'énergie et l'inflation globale.",
       "category": "Économie"
+    },
+    {
+      "title": "Explosion près de l'ambassade américaine à Oslo",
+      "summary": "Une explosion s'est produite près de l'ambassade des États-Unis à Oslo dans la nuit, dans un contexte de tensions géopolitiques élevées. Les autorités norvégiennes enquêtent sur un possible acte terroriste lié aux conflits au Moyen-Orient. Cet incident renforce les mesures de sécurité en Europe du Nord et met en lumière les risques de délocalisation des menaces.",
+      "why": "Cet événement illustre la propagation des tensions moyen-orientales en Europe, augmentant les préoccupations sécuritaires pour les alliés de l'OTAN.",
+      "category": "Sécurité"
     }
   ],
   "updates": [
     {
-      "title": "Trump explore les options pour une force terrestre en Iran",
-      "original": "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "summary": "Alors que Trump envisageait auparavant une réduction des opérations, il examine désormais l'envoi d'une force terrestre en Iran suite à l'escalade. Cette évolution reflète une surenchère après les frappes sur Natanz et l'ultimatum sur Ormuz. Les discussions internes à Washington portent sur une implication plus directe face à la menace iranienne persistante.",
-      "why": "Ce pivot vers une option terrestre marque une escalade militaire significative qui pourrait transformer le conflit en guerre ouverte.",
+      "title": "Trump renonce à son ultimatum de 48 heures à l'Iran",
+      "original": "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
+      "summary": "Donald Trump a retiré son ultimatum de 48 heures adressé à l'Iran concernant la réouverture du détroit d'Ormuz, optant pour une approche plus mesurée. Cette décision intervient après des frappes continues et des menaces iraniennes de ripostes pétrolières. Elle marque un possible ralentissement de l'escalade militaire au Moyen-Orient.",
+      "why": "Ce revirement diplomatique réduit le risque immédiat d'une guerre totale et stabilise temporairement les prix du pétrole, mais laisse persister les tensions sous-jacentes.",
+      "category": "Diplomatie"
+    },
+    {
+      "title": "Élection de Mojtaba Khamenei comme nouveau guide suprême iranien",
+      "original": "Israël annonce une intensification considérable de ses frappes en Iran",
+      "summary": "L'Iran a nommé Mojtaba Khamenei, fils de l'ancien guide, comme nouveau guide suprême au neuvième jour du conflit avec Israël et les États-Unis. Donald Trump a menacé ce leadership naissant en déclarant qu'il ne tiendrait pas sans son aval. Cette succession rapide au milieu des frappes change la dynamique interne du régime iranien.",
+      "why": "Cette transition de pouvoir en pleine guerre pourrait durcir ou modérer la posture iranienne, influençant les négociations futures et la stabilité régionale.",
       "category": "Conflit"
     }
   ]
