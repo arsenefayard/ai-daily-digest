@@ -1,33 +1,33 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/1655",
   "subject": {
-    "name": "Robert Koch découvre le bacille de la tuberculose",
+    "name": "Christiaan Huygens découvre Titan, la plus grande lune de Saturne",
     "type": "Découverte",
-    "period": "1882 · Révolution scientifique du XIXe siècle",
-    "context": "Le 24 mars 1882, le médecin et microbiologiste allemand Robert Koch annonce publiquement à Berlin l'identification du bacille responsable de la tuberculose, une maladie qui décimait les populations européennes depuis des siècles. Cette découverte révolutionne la médecine en démontrant scientifiquement l'existence d'agents pathogènes spécifiques, validant ainsi la théorie microbienne de la maladie face aux sceptiques de l'époque. Koch utilise pour la première fois une technique de coloration révolutionnaire permettant de visualiser les bactéries au microscope, ouvrant la voie à l'identification d'autres microbes responsables de maladies infectieuses. Bien que le remède efficace ne soit découvert que cinquante ans plus tard, cette identification marque le tournant décisif dans la lutte contre une épidémie qui tuait un tiers de la population urbaine. L'impact est tel que l'Organisation mondiale de la santé déclare le 24 mars Journée mondiale de lutte contre la tuberculose en son honneur.",
+    "period": "1629 – 1695 · Âge d'or de l'astronomie",
+    "context": "Le mathématicien et astronome néerlandais Christiaan Huygens, fils du poète Constantin Huygens et brillant savant de l'époque moderne, a révolutionné l'observation céleste en perfectionnant la lunette astronomique. Le 25 mars 1655, en utilisant un télescope de sa propre conception, il détecte pour la première fois Titan autour de Saturne, un satellite si massif qu'il deviendra le deuxième plus grand de tout le système solaire. Cette découverte intervient à une période où Saturne fascine les astronomes : quelques décennies plus tôt, Galilée avait observé ses anneaux sans les comprendre, les prenant pour des appendices bizarres. Huygens apporte ainsi une nouvelle pièce au puzzle du cosmos et démontre la puissance des instruments optiques perfectionnés, ouvrant la voie à des décennies de progrès astronomique.",
     "dates": [
       {
-        "year": "1876",
-        "label": "Koch démontre que l'anthrax est causée par une bactérie spécifique"
+        "year": "1629",
+        "label": "Naissance de Christiaan Huygens à La Haye"
       },
       {
-        "year": "1882",
-        "label": "Identification du bacille de la tuberculose (Mycobacterium tuberculosis)"
+        "year": "1650",
+        "label": "Huygens améliore la conception des télescopes avec des lentilles achromatiques"
       },
       {
-        "year": "1883",
-        "label": "Koch reçoit le Prix Prussien pour sa découverte"
+        "year": "25 mars 1655",
+        "label": "Découverte de Titan, la lune de Saturne"
       },
       {
-        "year": "1905",
-        "label": "Koch reçoit le Prix Nobel de physiologie ou médecine"
+        "year": "1659",
+        "label": "Publication du 'Systema Saturnium' expliquant les anneaux de Saturne"
       },
       {
-        "year": "1943",
-        "label": "Découverte de la streptomycine, premier traitement efficace contre la tuberculose"
+        "year": "1690",
+        "label": "Huygens publie son 'Traité de la lumière' révolutionnant l'optique"
       }
     ],
-    "legacy": "La découverte de Koch fonde la bactériologie moderne et établit les postulats de causalité microbienne qui dominent la médecine jusqu'à nos jours. Elle inspire des générations de chercheurs à identifier les agents responsables des maladies infectieuses, transformant la médecine d'une discipline empirique en science rigoureuse. La tuberculose reste aujourd'hui une menace sanitaire mondiale, tuant plus d'un million de personnes annuellement, rappelant l'héritage durable de cette découverte fondatrice.",
-    "why": "Alors que les vaccins et antibiotiques semblent avoir vaincu les maladies infectieuses au XXe siècle, la tuberculose persiste comme l'une des principales causes de mortalité mondiale, montrant que la découverte scientifique seule ne suffit pas sans accès équitable aux soins et une lutte constante contre les résistances bactériennes."
+    "legacy": "Titan reste à ce jour un objet d'étude majeur pour l'astronomie moderne, notamment depuis l'arrivée de la sonde Cassini-Huygens en 2004. La découverte de Huygens a établi les fondations de notre compréhension du système saturnien et a inspiré trois siècles de recherche. Bien au-delà de l'astronomie, Huygens a incarné l'esprit de la révolution scientifique du XVIIe siècle, montrant comment l'ingéniosité technologique et l'observation rigoureuse pouvaient percer les mystères de l'univers.",
+    "why": "À l'ère des missions spatiales et des découvertes exoplanétaires, Titan nous rappelle que les plus grandes aventures scientifiques naissent souvent d'une simple amélioration technologique et d'une curiosité inépuisable : Huygens a changé notre vision du cosmos avec un télescope, nous pouvons imaginer ce que la science d'aujourd'hui révélera demain."
   }
 }
