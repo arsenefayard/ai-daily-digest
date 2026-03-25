@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Le Japon puise dans ses réserves stratégiques de pétrole face à la crise",
-      "L'Italie réduit les taxes sur les carburants de 25 centimes par litre",
-      "Le Royaume-Uni convoque une réunion d'urgence pour aider les vulnérables",
-      "La Banque centrale russe abaisse son taux directeur à 15 % pour la septième fois",
-      "Explosion des commandes de véhicules électriques en France due aux prix du carburant"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Discours attendu du président de la Fed sur l'inflation et les taux",
       "Rapports des banques chinoises signalent un cycle de crédit fragile",
       "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
@@ -67,6 +57,16 @@
       "L'indice ZEW allemand s'effondre à -0,5 en mars, bien en-dessous des attentes",
       "La Fed anticipe une seule baisse de taux en 2026 malgré une inflation PCE relevée à 2,7%",
       "Les taux allemands remontent fortement avec le 2 ans à 2,44% et le 10 ans à 2,98%"
+    ]
+  },
+  {
+    "date": "25/03/2026",
+    "titles": [
+      "Administration Trump annonce un consortium de 1000 milliards de dollars pour énergie, minéraux et semi-conducteurs",
+      "Trump accorde près d'un milliard de dollars à TotalEnergies pour abandonner ses parcs éoliens offshore",
+      "BCE révise ses prévisions et publie des scénarios sur l'impact de la guerre au Moyen-Orient",
+      "Prix du Brent grimpe à 114 USD/b et TTF européen à 60 EUR/MWh amid escalade dans le Golfe",
+      "Banques d'investissement prévoient hausses de taux de la BCE dès avril 2026"
     ]
   }
 ]
