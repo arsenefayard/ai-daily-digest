@@ -13,17 +13,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Meta réduit ses effectifs de 20% pour optimiser ses investissements IA",
-      "Nvidia présente de nouvelles puces et logiciels IA à sa conférence annuelle",
-      "Transition massive vers l'IA agentique comme standard opérationnel en 2026",
-      "Adoption de l'IA générative atteint 48% en France, doublant en deux ans",
-      "Cour des comptes valide les progrès de la stratégie nationale IA française",
-      "Meta retarde Avocado à mai avec performances insuffisantes"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
       "OpenAI déploie Codex sur Windows avec agents parallèles",
       "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
@@ -71,6 +60,16 @@
       "Les opérateurs mobiles intègrent l'IA pour offrir des assistants personnels et détecter les fraudes",
       "L'UNESCO organise une journée dédiée à l'IA avec exposition technologique et innovations en robotique",
       "Anthropic et le Pentagone : escalade du conflit autour de l'accès militaire à Claude"
+    ]
+  },
+  {
+    "date": "25/03/2026",
+    "titles": [
+      "INSEE alerte sur 5 millions d'emplois menacés par l'IA en France",
+      "Conseil d'État rend son avis sur la présomption d'exploitation des contenus culturels par les IA",
+      "OpenClo émerge comme agent IA autonome révolutionnant le marché",
+      "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster la compétitivité",
+      "EMSI et UM6P organisent une Spring School sur les applications concrètes de l'IA au Maroc"
     ]
   }
 ]
