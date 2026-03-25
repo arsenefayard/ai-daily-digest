@@ -3,16 +3,6 @@
     "date": "23/03/2026",
     "titles": [
       "Israël annonce une intensification considérable de ses frappes en Iran",
-      "Coût record des opérations militaires américaines contre l'Iran dépassant 27 milliards de dollars",
-      "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "Japon puise dans ses réserves stratégiques de pétrole en raison de la crise du détroit d'Ormuz",
-      "Bombardement pakistanais sur un centre de réhabilitation en Afghanistan fait 400 morts"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
-      "Israël annonce une intensification considérable de ses frappes en Iran",
       "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
       "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
       "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
@@ -70,6 +60,18 @@
       "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les critiques européennes",
       "Cuba paralysé par une pénurie aiguë de pétrole",
       "Trump explore les options pour une force terrestre en Iran"
+    ]
+  },
+  {
+    "date": "25/03/2026",
+    "titles": [
+      "Donald Trump rencontre Xi Jinping sur le commerce et la sécurité régionale",
+      "La Russie intensifie ses frappes contre l'Ukraine dans sa plus grande attaque depuis des semaines",
+      "Élections législatives au Danemark : les sociaux-démocrates en tête mais en recul",
+      "Marchés boursiers asiatiques en chute après l'ultimatum de Trump à l'Iran",
+      "Explosion près de l'ambassade américaine à Oslo",
+      "Trump renonce à son ultimatum de 48 heures à l'Iran",
+      "Élection de Mojtaba Khamenei comme nouveau guide suprême iranien"
     ]
   }
 ]
