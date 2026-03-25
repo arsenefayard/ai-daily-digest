@@ -1,44 +1,36 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "Meta élargit les partenariats avec les médias internationaux pour enrichir son assistant IA",
-      "summary": "Meta a annoncé des accords avec plusieurs grands titres de presse internationale, dont Le Figaro, Prisa, Süddeutsche Zeitung et News Corp, pour intégrer leurs contenus à son assistant IA. L'accord avec News Corp pourrait atteindre 50 millions de dollars par an selon le Wall Street Journal. Cette initiative vise à améliorer la fiabilité des réponses de Meta AI en diversifiant les sources d'information et en redirigeant les utilisateurs vers les articles sources, tout en élargissant l'audience des éditeurs partenaires.",
-      "why": "Cette stratégie répond aux limitations observées de Meta AI, notamment son incapacité à répondre précisément à des questions élémentaires en 2024, et positionne Meta comme un acteur majeur dans la course à l'IA générative en intégrant du contenu éditorial de qualité.",
+      "title": "INSEE alerte sur 5 millions d'emplois menacés par l'IA en France",
+      "summary": "L'INSEE a publié une étude révélant que l'intelligence artificielle pourrait menacer jusqu'à 5 millions d'emplois en France sur un total de plus de 30 millions, en automatisant des tâches quotidiennes de plus en plus complexes. Cette alerte intervient dans un contexte où l'IA est utilisée pour simplifier les processus professionnels, comme discuté lors de l'émission 'On refait le monde' du 24 mars avec des experts tels que Gilles Babinet. Les impacts concernent particulièrement les secteurs administratifs et répétitifs, poussant à une adaptation urgente des compétences des travailleurs.",
+      "why": "Cette projection chiffrée met en lumière l'urgence d'une reconversion massive de la main-d'œuvre, influençant les politiques publiques en matière d'emploi et de formation professionnelle.",
+      "category": "Application"
+    },
+    {
+      "title": "Conseil d'État rend son avis sur la présomption d'exploitation des contenus culturels par les IA",
+      "summary": "Le Sénat a publié l'avis du Conseil d'État concernant une proposition de loi instaurant une présomption d'exploitation des contenus culturels par les fournisseurs d'intelligence artificielle, visant à protéger les droits d'auteur conformément au règlement européen 2024/1689. Cette mesure oblige les fournisseurs de modèles d'IA à démontrer qu'ils n'utilisent pas illégalement des œuvres protégées pour entraîner leurs systèmes. L'avis souligne l'importance d'aider les titulaires de droits à faire respecter leur législation au sein de l'Union européenne.",
+      "why": "Cette décision pourrait redéfinir les obligations légales des entreprises d'IA en Europe, renforçant la protection des créateurs face à l'entraînement des modèles sur des données culturelles.",
+      "category": "Régulation"
+    },
+    {
+      "title": "OpenClo émerge comme agent IA autonome révolutionnant le marché",
+      "summary": "OpenClo, présenté comme le phénomène tech du mois, est un agent d'intelligence artificielle capable de planifier, décider et exécuter des tâches de manière autonome, contrairement aux chatbots classiques comme ChatGPT. Discuté dans le Débrief de la tech du 23 mars, cet outil rebats les cartes de l'IA en intégrant des capacités d'action réelle, y compris le contrôle de PC via des systèmes comme Claude. Son développement est soutenu par des initiatives gouvernementales encourageant l'innovation en entreprise.",
+      "why": "L'autonomie d'OpenClo marque un pas vers l'IA agentique généralisée, potentiellement transformant les workflows professionnels et personnels.",
+      "category": "Application"
+    },
+    {
+      "title": "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster la compétitivité",
+      "summary": "Une étude récente montre que 58% des dirigeants de PME en France ont pleinement intégré l'intelligence artificielle dans leurs activités, tandis que 46% estiment qu'elle est indispensable pour rivaliser avec les concurrents. Malgré des freins comme le manque de compétences et la confiance limitée, 79% des dirigeants font davantage confiance à l'IA qu'il y a un an, avec des initiatives en formation et sécurisation des données. L'adoption soulève aussi des enjeux éthiques et de responsabilité, 35% réclamant des directives plus claires.",
+      "why": "Cette adoption massive par les PME démontre l'entrée de l'IA dans le tissu économique réel, accélérant la transformation numérique des petites entreprises.",
       "category": "Entreprise"
     },
     {
-      "title": "L'IA physique émerge comme tendance majeure de 2026 avec les robots en environnements simulés",
-      "summary": "EY Suisse identifie l'IA physique, c'est-à-dire l'utilisation de l'IA pour piloter des robots et des machines, comme l'une des grandes tendances de 2026. Les entreprises utilisent des jumeaux numériques pour entraîner les robots dans des environnements virtuels entièrement simulés, reproduisant des millions d'heures de processus de travail avant de transférer ces connaissances au monde physique. Les robots pilotés par l'IA physique génèrent des données opérationnelles précieuses sur les sources d'erreur et les tolérances, créant un avantage concurrentiel majeur pour les entreprises pionnières.",
-      "why": "Contrairement aux débats publics focalisés sur les chatbots, l'IA physique transforme silencieusement la fabrication et la logistique, et les entreprises qui maîtrisent cette technologie accumulent des données d'entraînement que les concurrents ne peuvent pas reproduire sans accès direct aux environnements de production réels.",
+      "title": "EMSI et UM6P organisent une Spring School sur les applications concrètes de l'IA au Maroc",
+      "summary": "L'EMSI et l'Université Mohammed VI Polytechnique (UM6P) réunissent experts, chercheurs et professionnels pour une Spring School 2026 axée sur les applications de l'IA en santé, agriculture de précision et logistique. L'événement, qui inclut des interventions internationales et des profils variés comme data scientists et ingénieurs en machine learning, vise à passer de la recherche à des déploiements à grande échelle. Il s'inscrit dans la stratégie nationale marocaine pour positionner le pays comme hub technologique.",
+      "why": "Cette initiative renforce les collaborations Afrique-Europe en IA appliquée, favorisant des innovations concrètes dans des secteurs stratégiques.",
       "category": "Recherche"
-    },
-    {
-      "title": "Future Intelligence 2026 se concentre sur l'IA de confiance au service de la défense et la sécurité",
-      "summary": "La conférence Future Intelligence se tient le 24 mars 2026 à l'ISAE-SUPAERO à Toulouse, réunissant experts et acteurs de différentes industries pour discuter de l'IA de confiance utile. L'événement adopte une approche multi-sectorielle couvrant la mobilité, le spatial, l'aéronautique, la santé et d'autres domaines, avec un focus particulier cette année sur l'IA au service de la défense et la sécurité. Les sessions de haut niveau mettent en lumière les dernières avancées en recherche et développement, tandis que les opportunités de networking favorisent la collaboration entre experts, entreprises et décideurs.",
-      "why": "Cet événement positionne l'IA de confiance comme un catalyseur pour résoudre des problèmes complexes de manière responsable et éthique, reflétant une préoccupation croissante pour l'alignement des systèmes IA avec les valeurs sociétales et les besoins de sécurité.",
-      "category": "Régulation"
-    },
-    {
-      "title": "Les opérateurs mobiles intègrent l'IA pour offrir des assistants personnels et détecter les fraudes",
-      "summary": "Les opérateurs mobiles déploient l'IA pour créer des assistants personnels accessibles via un simple appel mobile et pour détecter en temps réel les appels frauduleux. Cette initiative marque une tentative des opérateurs de reprendre la main sur la technologie IA en l'intégrant directement dans leurs services de base. L'objectif est d'améliorer l'expérience utilisateur tout en renforçant la sécurité des communications.",
-      "why": "Cette évolution montre comment l'IA générative s'étend au-delà des chatbots pour transformer les services de télécommunications, créant de nouvelles opportunités de valeur ajoutée pour les opérateurs face à la concurrence croissante des géants technologiques.",
-      "category": "Application"
-    },
-    {
-      "title": "L'UNESCO organise une journée dédiée à l'IA avec exposition technologique et innovations en robotique",
-      "summary": "L'UNESCO organise une journée sur l'intelligence artificielle le 27 mars 2026, centrée sur la jeunesse et la transformation numérique. L'événement comprend un espace d'exposition technologique présentant des innovations en robotique et intelligence artificielle développées par des entreprises telles que DOBOT. Cette initiative vise à sensibiliser les jeunes aux applications concrètes de l'IA et à explorer comment la technologie peut contribuer à la transformation numérique.",
-      "why": "Cette action de l'UNESCO souligne l'importance croissante de l'éducation et de la sensibilisation aux technologies IA pour les générations futures, tout en mettant en avant les innovations pratiques qui façonnent déjà notre société.",
-      "category": "Application"
     }
   ],
-  "updates": [
-    {
-      "title": "Anthropic et le Pentagone : escalade du conflit autour de l'accès militaire à Claude",
-      "original": "Le Pentagone cesse toute collaboration avec Anthropic et se tourne vers OpenAI",
-      "summary": "Le conflit entre Anthropic et le Pentagone s'intensifie : le ministère de la défense américain a adressé un ultimatum à la start-up pour lever les restrictions sur son modèle Claude, menaçant de l'inscrire sur une liste noire si elle refuse. Anthropic a refusé d'ouvrir sans restriction son IA à l'armée américaine et a promis de saisir la justice. Le Pentagone a finalement signé un accord avec OpenAI, marquant un tournant stratégique majeur dans les partenariats militaires IA.",
-      "why": "Ce revirement stratégique révèle les tensions géopolitiques autour du contrôle de l'IA militaire et montre comment les différences éthiques entre les entreprises IA influencent les décisions gouvernementales en matière de défense.",
-      "category": "Régulation"
-    }
-  ]
+  "updates": []
 }
