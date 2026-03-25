@@ -1,43 +1,43 @@
 {
-  "date": "24/03/2026",
+  "date": "25/03/2026",
   "news": [
     {
-      "title": "Miami Open : Carlos Alcaraz et Iga Swiatek se qualifient pour les quarts de finale",
-      "summary": "Carlos Alcaraz a dominé son adversaire en huitièmes de finale au Miami Open malgré les interruptions pluvieuses récurrentes qui ont perturbé le tournoi. Iga Swiatek a également validé son billet pour les quarts avec une victoire autoritaire, confirmant sa forme exceptionnelle sur dur. Ces performances propulsent les deux stars vers un éventuel choc en demi-finale, intensifiant l'intérêt pour la suite du Masters 1000.",
-      "why": "Ce tournoi majeur du tennis ATP et WTA attire l'attention mondiale et ces avancées de Alcaraz et Swiatek pourraient redéfinir les favoris pour les prochains Grands Chelems.",
-      "category": "Tennis"
-    },
-    {
-      "title": "Tour de Catalogne : Mads Pedersen remporte la 2e étape au sprint",
-      "summary": "Le Danois Mads Pedersen s'est imposé au sprint sur la deuxième étape du Tour de Catalogne, devançant ses rivaux dans un final explosif marqué par les ascensions courtes. Cette victoire lui permet de prendre le maillot de leader au général devant les grimpeurs comme Primož Roglič. La course, l'une des plus prestigieuses du World Tour UCI, s'annonce disputée avec l'arrivée des premières grandes difficultés demain.",
-      "why": "Cette épreuve cycliste de référence en début de saison influence les classements UCI et teste la forme des leaders avant les classiques printanières.",
-      "category": "Autre"
-    },
-    {
-      "title": "Ligue 1 : L'OM bat le PSG dans le choc de la 28e journée et reprend la tête",
-      "summary": "L'Olympique de Marseille a surpris le Paris Saint-Germain lors de la 28e journée de Ligue 1 avec une victoire 2-1 obtenue grâce à un doublé de son attaquant star en seconde période. Ce résultat inattendu permet à l'OM de reprendre la tête du classement à trois points devant le PSG. La course au titre s'annonce plus ouverte que jamais avec seulement huit matchs restants.",
-      "why": "Ce derby français passionne des millions de fans et relance totalement la lutte pour le championnat, impactant aussi les places européennes.",
+      "title": "Ligue des champions féminine : les quarts de finale aller se jouent les 24 et 25 mars",
+      "summary": "Les quarts de finale aller de la Ligue des champions féminine se sont déroulés les 24 et 25 mars 2026, marquant une étape cruciale de la compétition européenne. Ces rencontres opposent les meilleures équipes féminines d'Europe dans une phase décisive avant les demi-finales. Les résultats de ces matchs détermineront les équipes qui progresseront vers les étapes suivantes de la compétition continentale.",
+      "why": "Les quarts de finale de la Ligue des champions féminine représentent un moment clé du calendrier européen du football féminin, attirant l'attention des supporters et des médias sportifs sur la qualité du jeu féminin en Europe.",
       "category": "Football"
     },
     {
-      "title": "NBA : Les Lakers signent une victoire cruciale contre les Celtics et reviennent dans la course aux playoffs",
-      "summary": "Les Los Angeles Lakers ont battu les Boston Celtics 112-105 lors d'un match intense de la NBA, grâce à un LeBron James impérial avec 35 points et 12 rebonds. Cette performance permet aux Lakers de se rapprocher du top 6 à l'Ouest et de relancer leurs ambitions de playoffs. Les Celtics restent leaders à l'Est mais montrent des signes de vulnérabilité défensive.",
-      "why": "Ce choc entre deux franchises historiques de la NBA influence directement les classements et l'excitation autour des playoffs à venir.",
-      "category": "Basketball"
+      "title": "Yann Schrub remporte la médaille de bronze au championnat du monde d'athlétisme en salle",
+      "summary": "Le coureur sarregueminois Yann Schrub a décroché la troisième place au championnat du monde d'athlétisme en salle, confirmant le succès français dans cette compétition internationale. Cette performance place le coureur français parmi les meilleurs athlètes mondiaux dans sa discipline. La médaille de bronze représente une belle réussite pour l'athlétisme français sur la scène mondiale.",
+      "why": "Cette médaille mondiale souligne la compétitivité de l'athlétisme français et constitue une performance remarquable pour Yann Schrub au plus haut niveau de la compétition internationale.",
+      "category": "Autre"
     },
     {
-      "title": "Formule 1 : Max Verstappen domine les essais libres du Grand Prix d'Arabie Saoudite",
-      "summary": "Max Verstappen a signé le meilleur temps lors des deux sessions d'essais libres du Grand Prix d'Arabie Saoudite, devançant largement ses rivaux chez Red Bull et Ferrari. Les Mercedes montrent des progrès mais peinent encore en qualifications simulées sur ce circuit rapide de Djeddah. La course de dimanche s'annonce comme une affirmation de la domination de Verstappen en ce début de saison 2026.",
-      "why": "La F1 passionne un public mondial et ces essais préfigurent les enjeux du championnat pilotes et constructeurs.",
-      "category": "F1"
+      "title": "Cyclocross : Godon domine Evenepoel dans une belle performance",
+      "summary": "Le cycliste Godon a remporté une victoire impressionnante face à Evenepoel dans une épreuve de cyclocross, démontrant une excellente forme physique et une maîtrise tactique. Cette victoire confirme le retour en force de Godon dans les compétitions de haut niveau. La performance du vainqueur face à un concurrent de calibre international souligne la qualité de la compétition cycliste actuelle.",
+      "why": "Cette victoire est importante car elle montre la hiérarchie changeante dans le cyclocross et confirme que Godon figure parmi les meilleurs coureurs de la discipline.",
+      "category": "Autre"
+    },
+    {
+      "title": "Équipe de France de football : dévoilement du nouveau maillot pour la Coupe du monde 2026",
+      "summary": "La Fédération française de football a présenté le nouveau maillot officiel des Bleus pour la Coupe du monde 2026, marquant un moment symbolique avant la grande compétition mondiale. Ce nouveau design représente l'identité visuelle de l'équipe de France pour l'un des plus grands événements du football international. Le maillot revêt une importance particulière car il accompagnera les Bleus dans leur quête de succès au Mondial.",
+      "why": "Le dévoilement du maillot de la Coupe du monde est un événement majeur pour les supporters français et symbolise l'imminence de la plus grande compétition de football, générant une forte mobilisation médiatique et émotionnelle.",
+      "category": "Football"
+    },
+    {
+      "title": "Tennis : Carlos Alcaraz et Iga Swiatek progressent aux quarts de finale du Miami Open",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont tous deux réussi à se qualifier pour les quarts de finale du Miami Open, l'un des plus importants tournois de tennis de la saison. Les deux champions ont surmonté les défis des huitièmes de finale malgré les conditions météorologiques difficiles, notamment les interruptions pluvieuses. Leurs progressions respectives confirment leur statut de favoris dans ce tournoi de prestige.",
+      "why": "La progression d'Alcaraz et Swiatek aux quarts de finale du Miami Open est significative car elle montre la domination des meilleurs joueurs mondiaux et maintient l'intérêt pour ce tournoi majeur du calendrier tennistique.",
+      "category": "Tennis"
     }
   ],
   "updates": [
     {
-      "title": "Miami Open : Alcaraz et Swiatek passent des huitièmes aux quarts de finale",
-      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont franchi le cap des huitièmes malgré les pluies persistantes, avec des victoires nettes en deux sets. Ces succès les placent maintenant en quarts, où ils affrontent des adversaires plus coriaces. Le tournoi reprend de l'élan avec ces stars en lice pour les demies.",
-      "why": "Cette progression rapide change la dynamique du tableau et augmente les enjeux pour les phases finales du Masters.",
+      "title": "Miami Open : Alcaraz et Swiatek avancent aux quarts de finale",
+      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies (24/03/2026)",
+      "summary": "Après leur qualification pour les huitièmes de finale le 24 mars, Carlos Alcaraz et Iga Swiatek ont poursuivi leur progression en remportant leurs matchs des huitièmes de finale. Les deux champions se sont qualifiés pour les quarts de finale du Miami Open, franchissant une étape supplémentaire dans la compétition. Cette avancée confirme leur trajectoire positive dans le tournoi malgré les conditions difficiles.",
+      "why": "Cette progression est importante car elle montre que les deux favoris maintiennent leur dynamique positive et restent en position de force pour remporter le tournoi.",
       "category": "Tennis"
     }
   ]
