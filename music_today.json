@@ -1,35 +1,35 @@
 {
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "news": [
     {
-      "title": "Solane en double concert au Zénith de Paris ce soir",
-      "summary": "La révélation de l'année Solane se produit en double concert au Zénith de Paris les 25 mars, marquant un moment clé de sa carrière fulgurante. Ces shows sold-out attirent des milliers de fans impatients de découvrir ses nouveaux titres live. L'événement souligne l'ascension rapide de cette artiste française dans le paysage pop actuel.[1]",
-      "why": "Ce double concert représente un jalon majeur pour Solane, confirmant son statut de star montante avec une affluence massive au Zénith.",
+      "title": "Solane triomphe au Zénith de Paris en double concert sold-out",
+      "summary": "La chanteuse Solane a enflammé le Zénith de Paris hier soir avec un double concert qui a attiré des milliers de fans en liesse. Ce spectacle marque un moment clé dans sa carrière ascendante après ses succès récents en streaming. Les critiques saluent déjà sa performance vocale et sa connexion avec le public comme un tournant décisif.",
+      "why": "Cet événement confirme l'ascension fulgurante de Solane dans la scène pop française et pourrait propulser sa popularité internationale.",
       "category": "Pop"
     },
     {
-      "title": "Retour triomphal des BTS sur scène à Séoul avec 260 000 fans",
-      "summary": "Les BTS ont fait leur grand retour sur scène le 21 mars à Séoul après quatre ans d'absence due au service militaire obligatoire de ses membres. Plus de 260 000 fans, les ARMYs, se sont réunis pour cet événement diffusé en direct sur Netflix. Ce concert précède une tournée mondiale de 82 dates, incluant deux passages en France.[3]",
-      "why": "Le comeback des BTS génère un engouement planétaire et relance la K-pop au sommet des charts mondiaux.",
-      "category": "Pop"
+      "title": "Kreator, Carcass, Exodus et Nails déchaînent le Zénith de Paris",
+      "summary": "Le Zénith de Paris a vibré hier soir lors d'un concert metal historique réunissant Kreator, Carcass, Exodus et Nails. Cette affiche exceptionnelle a attiré des milliers de fans pour une soirée de thrash et death metal brut. L'événement s'inscrit dans une tournée européenne majeure pour ces légendes du genre.",
+      "why": "Cette réunion de groupes iconiques renforce la vitalité de la scène metal en France et attire une nouvelle génération de headbangers.",
+      "category": "Métal"
     },
     {
-      "title": "Oxmo Puccino annonce sa tournée d'adieu avec un dernier album",
-      "summary": "Oxmo Puccino tire sa révérence avec une tournée d'adieu en 2026 pour accompagner son 8e et ultime album intitulé La hauteur de la Lune. Ce rappeur emblématique français offre une dernière étreinte à son public fidèle après des décennies de carrière. Les dates s'annoncent déjà très demandées par les fans.[2]",
-      "why": "Cette annonce marque la fin d'une ère pour le rap français, avec un album final qui pourrait dominer les classements.",
+      "title": "Placebo annonce un concert au Zénith de Toulouse le 5 mai",
+      "summary": "Le groupe de rock alternatif Placebo se produira au Zénith de Toulouse Métropole le lundi 5 mai 2026 dans le cadre de leur tournée européenne. Cette date s'ajoute à une programmation riche incluant d'autres artistes majeurs au même lieu. Les billets sont déjà en vente, promettant une soirée électrisante pour les fans.",
+      "why": "Placebo, pilier du rock des années 2000, continue de fédérer un public fidèle et renouvelle son impact sur la scène live.",
+      "category": "Rock"
+    },
+    {
+      "title": "Bigflo & Oli prêts à conquérir le Zénith de Toulouse dès le 17 avril",
+      "summary": "Le duo de rappeurs français Bigflo & Oli se produira à partir du vendredi 17 avril 2026 au Zénith de Toulouse Métropole pour une série de dates exceptionnelles. Connu pour leur humour et leurs textes percutants, ils reviennent avec un spectacle immersif mêlant rap et mise en scène. Cet événement marque leur retour en force après plusieurs succès.",
+      "why": "Bigflo & Oli représentent une nouvelle vague du rap français accessible et innovant, attirant un large public familial.",
       "category": "Hip-Hop"
     },
     {
-      "title": "Succès sold-out pour Bars en Fête #18 avec Marguerite et GiedRé",
-      "summary": "Le festival Bars en Fête #18, du 11 au 21 mars 2026, affiche complet pour les concerts de Marguerite, Sam Sauvage et GiedRé dans divers lieux parisiens. Cet événement off du festival Voix de Fête met en lumière la scène indépendante française avec une programmation éclectique. Les organisateurs lancent des concours pour les derniers billets.[2]",
-      "why": "Ce succès reflète la vitalité des festivals intimistes et la popularité croissante de ces artistes alternatifs.",
-      "category": "Autre"
-    },
-    {
-      "title": "Festival Jazz à Commercy séduit 160 spectateurs par soir",
-      "summary": "Du 20 au 22 mars, le festival Jazz à Commercy a transformé le cinéma Truffo en scène intimiste pour des groupes du Grand Est, attirant plus de 160 spectateurs chaque soir. Les performances mêlant standards et compositions récentes sur le thème de l'amour ont conquis un public initialement hésitant. L'alchimie entre musiciens locaux et renommés a été le temps fort de l'édition.[4]",
-      "why": "Cet événement met en valeur le jazz régional et prouve l'attrait pour des formats concerts intimistes en province.",
-      "category": "Jazz"
+      "title": "Dirty Dancing In Concert arrive au Zénith de Toulouse le 3 avril",
+      "summary": "Le spectacle musical Dirty Dancing In Concert fera escale au Zénith de Toulouse Métropole le vendredi 3 avril 2026, recréant les hits iconiques du film avec danseurs et orchestre live. Cette production immersive transporte le public dans l'univers des années 80 pour une soirée nostalgique. Les places se vendent rapidement auprès des fans du classique cinématographique.",
+      "why": "Ce show hybride entre concert et comédie musicale élargit l'accès à la musique pop des 80s et booste les spectacles familiaux en live.",
+      "category": "Pop"
     }
   ],
   "updates": []
