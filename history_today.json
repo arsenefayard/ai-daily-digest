@@ -1,33 +1,33 @@
 {
-  "date": "25/03/1655",
+  "date": "26/03/2026",
   "subject": {
-    "name": "Christiaan Huygens découvre Titan, la plus grande lune de Saturne",
-    "type": "Découverte",
-    "period": "1629 – 1695 · Âge d'or de l'astronomie",
-    "context": "Le mathématicien et astronome néerlandais Christiaan Huygens, fils du poète Constantin Huygens et brillant savant de l'époque moderne, a révolutionné l'observation céleste en perfectionnant la lunette astronomique. Le 25 mars 1655, en utilisant un télescope de sa propre conception, il détecte pour la première fois Titan autour de Saturne, un satellite si massif qu'il deviendra le deuxième plus grand de tout le système solaire. Cette découverte intervient à une période où Saturne fascine les astronomes : quelques décennies plus tôt, Galilée avait observé ses anneaux sans les comprendre, les prenant pour des appendices bizarres. Huygens apporte ainsi une nouvelle pièce au puzzle du cosmos et démontre la puissance des instruments optiques perfectionnés, ouvrant la voie à des décennies de progrès astronomique.",
+    "name": "Exécution du comte de Horn",
+    "type": "Événement",
+    "period": "1720 · Suède sous la loi du Land",
+    "context": "Le comte Fredrik Sparre de Horn, noble suédois influent, fut impliqué dans un scandale financier majeur connu sous le nom de Système Horn, un réseau de spéculation boursière effrénée inspiré de la bulle spéculative sud-sea en Angleterre. Accusé de corruption et de trahison pour avoir ruiné les finances publiques en favorisant des prêts usuraires et des manipulations monétaires, il fut jugé par un tribunal spécial lors de la Diète de Stockholm. Malgré ses dénégations et l'intervention de proches du roi, le verdict fut sans appel : condamnation à mort par décapitation, exécutée publiquement le 26 mars 1720 devant une foule immense. Cet événement marqua la fin brutale d'une ère de libéralisme économique hasardeux sous Charles XII, révélant les tensions entre aristocratie et bourgeoisie montante.",
     "dates": [
       {
-        "year": "1629",
-        "label": "Naissance de Christiaan Huygens à La Haye"
+        "year": "1670",
+        "label": "Naissance de Fredrik Sparre de Horn dans une famille noble suédoise"
       },
       {
-        "year": "1650",
-        "label": "Huygens améliore la conception des télescopes avec des lentilles achromatiques"
+        "year": "1718",
+        "label": "Mort de Charles XII ; avènement d'Ulrique Éléonore et début des réformes financières"
       },
       {
-        "year": "25 mars 1655",
-        "label": "Découverte de Titan, la lune de Saturne"
+        "year": "1719",
+        "label": "Lancement du Système Horn : création de la banque de Stockholm et boom spéculatif"
       },
       {
-        "year": "1659",
-        "label": "Publication du 'Systema Saturnium' expliquant les anneaux de Saturne"
+        "year": "1720",
+        "label": "Effondrement de la bulle ; arrestation de Horn pour corruption"
       },
       {
-        "year": "1690",
-        "label": "Huygens publie son 'Traité de la lumière' révolutionnant l'optique"
+        "year": "26 mars 1720",
+        "label": "Exécution par décapitation place Stortorget à Stockholm"
       }
     ],
-    "legacy": "Titan reste à ce jour un objet d'étude majeur pour l'astronomie moderne, notamment depuis l'arrivée de la sonde Cassini-Huygens en 2004. La découverte de Huygens a établi les fondations de notre compréhension du système saturnien et a inspiré trois siècles de recherche. Bien au-delà de l'astronomie, Huygens a incarné l'esprit de la révolution scientifique du XVIIe siècle, montrant comment l'ingéniosité technologique et l'observation rigoureuse pouvaient percer les mystères de l'univers.",
-    "why": "À l'ère des missions spatiales et des découvertes exoplanétaires, Titan nous rappelle que les plus grandes aventures scientifiques naissent souvent d'une simple amélioration technologique et d'une curiosité inépuisable : Huygens a changé notre vision du cosmos avec un télescope, nous pouvons imaginer ce que la science d'aujourd'hui révélera demain."
+    "legacy": "La loi du Land de 1720, promulguée dans la foulée, instaura un parlementarisme précoce en Suède, limitant le pouvoir royal et favorisant un âge d'or démocratique jusqu'en 1772. Cet épisode influença les débats européens sur la régulation financière et préfigura les crises boursières modernes. Sa postérité perdure dans l'historiographie suédoise comme symbole de la lutte contre l'impunité nobiliaire.",
+    "why": "Cet exécution spectaculaire d'un favori royal démontre comment une bulle spéculière du XVIIIe siècle a enfanté l'un des premiers systèmes parlementaires d'Europe, rappelant que les krachs financiers forgent souvent les démocraties."
   }
 }
