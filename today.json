@@ -1,35 +1,35 @@
 {
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "news": [
     {
-      "title": "INSEE alerte sur 5 millions d'emplois menacés par l'IA en France",
-      "summary": "L'INSEE a publié une étude révélant que l'intelligence artificielle pourrait menacer jusqu'à 5 millions d'emplois en France sur un total de plus de 30 millions, en automatisant des tâches quotidiennes de plus en plus complexes. Cette alerte intervient dans un contexte où l'IA est utilisée pour simplifier les processus professionnels, comme discuté lors de l'émission 'On refait le monde' du 24 mars avec des experts tels que Gilles Babinet. Les impacts concernent particulièrement les secteurs administratifs et répétitifs, poussant à une adaptation urgente des compétences des travailleurs.",
-      "why": "Cette projection chiffrée met en lumière l'urgence d'une reconversion massive de la main-d'œuvre, influençant les politiques publiques en matière d'emploi et de formation professionnelle.",
-      "category": "Application"
-    },
-    {
-      "title": "Conseil d'État rend son avis sur la présomption d'exploitation des contenus culturels par les IA",
-      "summary": "Le Sénat a publié l'avis du Conseil d'État concernant une proposition de loi instaurant une présomption d'exploitation des contenus culturels par les fournisseurs d'intelligence artificielle, visant à protéger les droits d'auteur conformément au règlement européen 2024/1689. Cette mesure oblige les fournisseurs de modèles d'IA à démontrer qu'ils n'utilisent pas illégalement des œuvres protégées pour entraîner leurs systèmes. L'avis souligne l'importance d'aider les titulaires de droits à faire respecter leur législation au sein de l'Union européenne.",
-      "why": "Cette décision pourrait redéfinir les obligations légales des entreprises d'IA en Europe, renforçant la protection des créateurs face à l'entraînement des modèles sur des données culturelles.",
-      "category": "Régulation"
-    },
-    {
-      "title": "OpenClo émerge comme agent IA autonome révolutionnant le marché",
-      "summary": "OpenClo, présenté comme le phénomène tech du mois, est un agent d'intelligence artificielle capable de planifier, décider et exécuter des tâches de manière autonome, contrairement aux chatbots classiques comme ChatGPT. Discuté dans le Débrief de la tech du 23 mars, cet outil rebats les cartes de l'IA en intégrant des capacités d'action réelle, y compris le contrôle de PC via des systèmes comme Claude. Son développement est soutenu par des initiatives gouvernementales encourageant l'innovation en entreprise.",
-      "why": "L'autonomie d'OpenClo marque un pas vers l'IA agentique généralisée, potentiellement transformant les workflows professionnels et personnels.",
-      "category": "Application"
-    },
-    {
-      "title": "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster la compétitivité",
-      "summary": "Une étude récente montre que 58% des dirigeants de PME en France ont pleinement intégré l'intelligence artificielle dans leurs activités, tandis que 46% estiment qu'elle est indispensable pour rivaliser avec les concurrents. Malgré des freins comme le manque de compétences et la confiance limitée, 79% des dirigeants font davantage confiance à l'IA qu'il y a un an, avec des initiatives en formation et sécurisation des données. L'adoption soulève aussi des enjeux éthiques et de responsabilité, 35% réclamant des directives plus claires.",
-      "why": "Cette adoption massive par les PME démontre l'entrée de l'IA dans le tissu économique réel, accélérant la transformation numérique des petites entreprises.",
+      "title": "Mark Zuckerberg développe un agent IA personnel pour assister son rôle de PDG chez Meta",
+      "summary": "Mark Zuckerberg utilise un agent IA comme bras droit quotidien pour optimiser ses décisions stratégiques chez Meta. Le groupe a investi dans l'acquisition de MyClo, un outil d'agent personnel, et de Maltbook, un réseau social dédié aux agents IA. Meta prévoit d'investir plus de 115 milliards de dollars en IA cette année, poussant ses employés à adopter massivement ces technologies.",
+      "why": "Cette initiative illustre l'intégration de l'IA au plus haut niveau exécutif, démontrant un impact concret sur la productivité des dirigeants et potentiellement sur la stratégie globale de Meta.",
       "category": "Entreprise"
     },
     {
-      "title": "EMSI et UM6P organisent une Spring School sur les applications concrètes de l'IA au Maroc",
-      "summary": "L'EMSI et l'Université Mohammed VI Polytechnique (UM6P) réunissent experts, chercheurs et professionnels pour une Spring School 2026 axée sur les applications de l'IA en santé, agriculture de précision et logistique. L'événement, qui inclut des interventions internationales et des profils variés comme data scientists et ingénieurs en machine learning, vise à passer de la recherche à des déploiements à grande échelle. Il s'inscrit dans la stratégie nationale marocaine pour positionner le pays comme hub technologique.",
-      "why": "Cette initiative renforce les collaborations Afrique-Europe en IA appliquée, favorisant des innovations concrètes dans des secteurs stratégiques.",
+      "title": "OpenAI prévoit de doubler ses effectifs avec 4500 recrutements malgré l'impact destructeur de l'IA sur l'emploi",
+      "summary": "OpenAI annonce le recrutement de 4500 personnes cette année pour accélérer ses développements, paradoxalement alors que l'IA génère des suppressions d'emplois massives. Cette expansion vise à renforcer les équipes en recherche et ingénierie pour concurrencer les géants comme Meta et Microsoft. Le CEO Sam Altman met en garde contre les risques commerciaux posés par Microsoft, partenaire clé.",
+      "why": "Ce mouvement souligne la course aux talents dans l'IA et les tensions internes dans les partenariats stratégiques, influençant la dynamique concurrentielle du secteur.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Deloitte publie Tech Trends 2026 : l'IA passe à l'échelle industrielle et contraint les entreprises à se réinventer",
+      "summary": "Selon le rapport Tech Trends 2026 de Deloitte, l'adoption de l'IA atteint un stade d'industrialisation massive, défiant les prévisions avec une courbe d'accélération inédite. Les entreprises doivent repenser leurs processus pour intégrer l'IA à grande échelle, passant des prototypes aux déploiements productifs. Ce rapport met l'accent sur la résilience organisationnelle face à cette transformation.",
+      "why": "Ce baromètre autoritaire prédit une accélération structurelle de l'IA en entreprise, forçant une adaptation rapide sous peine de perte de compétitivité.",
       "category": "Recherche"
+    },
+    {
+      "title": "L'IA dépasse les moteurs de recherche chez les Français : 73% l'utilisent pour la recherche d'information",
+      "summary": "Une étude révèle que l'IA a surpassé les moteurs de recherche traditionnels auprès des Français, avec 73% des utilisateurs privilégiant cette technologie pour trouver des informations. Les cas d'usage se structurent rapidement autour de la recherche, de l'analyse et de la génération de contenu. Cette révolution silencieuse marque un basculement comportemental durable dans l'accès à l'information.",
+      "why": "Ce changement d'habitude massif indique une maturité croissante de l'IA comme outil quotidien, redéfinissant les modèles économiques des plateformes de recherche.",
+      "category": "Application"
+    },
+    {
+      "title": "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster leur compétitivité",
+      "summary": "Plus de 58% des dirigeants de PME françaises ont pleinement intégré l'IA dans leurs opérations, contre 46% qui estiment devoir l'adopter pour rivaliser avec les concurrents. 79% accordent plus de confiance à l'IA qu'il y a un an, la voyant comme un levier de résilience et d'efficacité. Dans un contexte économique incertain, l'IA devient stratégique pour la transformation des PME.",
+      "why": "Cette adoption rapide par les PME démocratise l'IA au-delà des grands groupes, renforçant la compétitivité économique française face à la concurrence internationale.",
+      "category": "Application"
     }
   ],
   "updates": []
