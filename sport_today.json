@@ -1,44 +1,36 @@
 {
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "news": [
     {
-      "title": "Ligue des champions féminine : les quarts de finale aller se jouent les 24 et 25 mars",
-      "summary": "Les quarts de finale aller de la Ligue des champions féminine se sont déroulés les 24 et 25 mars 2026, marquant une étape cruciale de la compétition européenne. Ces rencontres opposent les meilleures équipes féminines d'Europe dans une phase décisive avant les demi-finales. Les résultats de ces matchs détermineront les équipes qui progresseront vers les étapes suivantes de la compétition continentale.",
-      "why": "Les quarts de finale de la Ligue des champions féminine représentent un moment clé du calendrier européen du football féminin, attirant l'attention des supporters et des médias sportifs sur la qualité du jeu féminin en Europe.",
-      "category": "Football"
-    },
-    {
-      "title": "Yann Schrub remporte la médaille de bronze au championnat du monde d'athlétisme en salle",
-      "summary": "Le coureur sarregueminois Yann Schrub a décroché la troisième place au championnat du monde d'athlétisme en salle, confirmant le succès français dans cette compétition internationale. Cette performance place le coureur français parmi les meilleurs athlètes mondiaux dans sa discipline. La médaille de bronze représente une belle réussite pour l'athlétisme français sur la scène mondiale.",
-      "why": "Cette médaille mondiale souligne la compétitivité de l'athlétisme français et constitue une performance remarquable pour Yann Schrub au plus haut niveau de la compétition internationale.",
+      "title": "Tadej Pogačar remporte Milan-San Remo",
+      "summary": "Le coureur slovène Tadej Pogačar a dominé la classique Milan-San Remo le 22 mars 2026, s'imposant au sprint final après une course intense marquée par les ascensions du Poggio. Cette victoire prestigieuse renforce sa position de favori pour les classiques printanières et les Grands Tours. Pogačar démontre ainsi sa polyvalence en s'adjugeant l'une des plus anciennes courses cyclistes du monde.",
+      "why": "Milan-San Remo est la première des cinq Monumentales du cyclisme, et cette victoire consolide la suprématie de Pogačar dans le peloton mondial.",
       "category": "Autre"
     },
     {
-      "title": "Cyclocross : Godon domine Evenepoel dans une belle performance",
-      "summary": "Le cycliste Godon a remporté une victoire impressionnante face à Evenepoel dans une épreuve de cyclocross, démontrant une excellente forme physique et une maîtrise tactique. Cette victoire confirme le retour en force de Godon dans les compétitions de haut niveau. La performance du vainqueur face à un concurrent de calibre international souligne la qualité de la compétition cycliste actuelle.",
-      "why": "Cette victoire est importante car elle montre la hiérarchie changeante dans le cyclocross et confirme que Godon figure parmi les meilleurs coureurs de la discipline.",
-      "category": "Autre"
-    },
-    {
-      "title": "Équipe de France de football : dévoilement du nouveau maillot pour la Coupe du monde 2026",
-      "summary": "La Fédération française de football a présenté le nouveau maillot officiel des Bleus pour la Coupe du monde 2026, marquant un moment symbolique avant la grande compétition mondiale. Ce nouveau design représente l'identité visuelle de l'équipe de France pour l'un des plus grands événements du football international. Le maillot revêt une importance particulière car il accompagnera les Bleus dans leur quête de succès au Mondial.",
-      "why": "Le dévoilement du maillot de la Coupe du monde est un événement majeur pour les supporters français et symbolise l'imminence de la plus grande compétition de football, générant une forte mobilisation médiatique et émotionnelle.",
+      "title": "FIFA impose une règle : une femme obligatoire dans les staffs des équipes féminines",
+      "summary": "La FIFA a annoncé une nouvelle réglementation obligeant chaque équipe féminine de football à inclure au moins une femme dans le rôle d'entraîneuse principale ou d'assistante. Cette mesure vise à promouvoir l'égalité des genres et à développer les compétences féminines dans le coaching. Elle entrera en vigueur pour les prochaines compétitions internationales.",
+      "why": "Cette décision marque un tournant pour la parité dans le football féminin et influencera les staffs de toutes les sélections et clubs.",
       "category": "Football"
     },
     {
-      "title": "Tennis : Carlos Alcaraz et Iga Swiatek progressent aux quarts de finale du Miami Open",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont tous deux réussi à se qualifier pour les quarts de finale du Miami Open, l'un des plus importants tournois de tennis de la saison. Les deux champions ont surmonté les défis des huitièmes de finale malgré les conditions météorologiques difficiles, notamment les interruptions pluvieuses. Leurs progressions respectives confirment leur statut de favoris dans ce tournoi de prestige.",
-      "why": "La progression d'Alcaraz et Swiatek aux quarts de finale du Miami Open est significative car elle montre la domination des meilleurs joueurs mondiaux et maintient l'intérêt pour ce tournoi majeur du calendrier tennistique.",
+      "title": "Victor Wembanyama offre un titre de division aux Spurs",
+      "summary": "Victor Wembanyama et les San Antonio Spurs ont remporté le titre de champions de la Southwest Division NBA après une victoire convaincante contre le Heat le 23 mars 2026. Le phénomène français a brillé avec 26 points, 15 rebonds et 5 contres en seulement 26 minutes de jeu. C'est le premier titre de division pour la franchise depuis 2016-2017.",
+      "why": "Ce succès inattendu propulse les Spurs dans la course aux playoffs et confirme l'ascension de Wembanyama comme superstar NBA.",
+      "category": "Basketball"
+    },
+    {
+      "title": "Quarts de finale aller de la Ligue des champions féminine lancés",
+      "summary": "Les quarts de finale aller de la Ligue des champions féminine de football se sont déroulés les 24 et 25 mars 2026, avec des matchs intenses impliquant des cadors comme Wolfsburg et Lyon. Ces rencontres promettent une phase finale explosive avec des enjeux cruciaux pour la qualification. Les résultats influenceront la dynamique des retours prévus prochainement.",
+      "why": "Cette compétition regroupe les meilleures équipes européennes et détermine le champion d'Europe féminin.",
+      "category": "Football"
+    },
+    {
+      "title": "Théo Atmane réalise l'exploit en dominant un top joueur",
+      "summary": "Le Français Théo Atmane a signé une victoire remarquée en trois sets (6-3, 1-6, 6-3) contre un joueur du top 10 mondial lors d'un tournoi ATP récent. Ce succès marque son troisième top 10 en carrière et témoigne de son potentiel croissant. Atmane continue de progresser sur le circuit principal.",
+      "why": "Cette performance booste la visibilité du tennis français et positionne Atmane comme une révélation à suivre.",
       "category": "Tennis"
     }
   ],
-  "updates": [
-    {
-      "title": "Miami Open : Alcaraz et Swiatek avancent aux quarts de finale",
-      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies (24/03/2026)",
-      "summary": "Après leur qualification pour les huitièmes de finale le 24 mars, Carlos Alcaraz et Iga Swiatek ont poursuivi leur progression en remportant leurs matchs des huitièmes de finale. Les deux champions se sont qualifiés pour les quarts de finale du Miami Open, franchissant une étape supplémentaire dans la compétition. Cette avancée confirme leur trajectoire positive dans le tournoi malgré les conditions difficiles.",
-      "why": "Cette progression est importante car elle montre que les deux favoris maintiennent leur dynamique positive et restent en position de force pour remporter le tournoi.",
-      "category": "Tennis"
-    }
-  ]
+  "updates": []
 }
