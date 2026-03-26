@@ -1,35 +1,35 @@
 {
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "news": [
     {
-      "title": "Administration Trump annonce un consortium de 1000 milliards de dollars pour énergie, minéraux et semi-conducteurs",
-      "summary": "L'administration Trump a déclaré son intention de créer un consortium investissant plus de 1000 milliards de dollars dans des projets énergétiques, des minéraux critiques et des semi-conducteurs afin de développer une nouvelle source de biens essentiels contrôlés par les États-Unis. Cette initiative vise à renforcer l'indépendance stratégique face aux tensions géopolitiques actuelles. Elle pourrait stimuler la croissance économique américaine et influencer les chaînes d'approvisionnement mondiales.",
-      "why": "Cette annonce massive renforce la position des États-Unis dans les secteurs stratégiques et pourrait relancer les investissements domestiques face à la guerre dans le Golfe.",
+      "title": "Les marchés anticipent un statu quo des taux de la Fed jusqu'en 2026 et des hausses pour la BCE et la BoE",
+      "summary": "Les marchés des swaps indexés au jour le jour prévoient désormais que la Fed maintiendra ses taux inchangés jusqu'en 2026, tandis que la BCE et la Banque d'Angleterre devraient procéder à trois hausses de 25 points de base chacune. Ce revirement radical par rapport au début de l'année, où deux baisses étaient anticipées pour la Fed et la BoE, reflète l'impact des tensions géopolitiques sur les attentes inflationnistes. Sur le marché du crédit corporate, les conditions restent ordonnées malgré une performance légèrement négative des sous-classes d'actifs.",
+      "why": "Ce changement d'anticipations modifie profondément les stratégies d'investissement mondiales et renforce la pression sur les économies endettées.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Trump accorde près d'un milliard de dollars à TotalEnergies pour abandonner ses parcs éoliens offshore",
-      "summary": "L'administration Trump versera près d'un milliard de dollars au géant français de l'énergie TotalEnergies pour qu'il renonce à ses projets de construction de parcs éoliens au large de la côte Est américaine. Cette décision, annoncée par le ministère de l'Intérieur, reflète une préférence pour d'autres formes d'énergie face au choc pétrolier actuel. Elle marque un revirement dans la politique énergétique des États-Unis.",
-      "why": "Ce paiement souligne le pivot vers les énergies fossiles et impacte les investissements renouvelables mondiaux.",
-      "category": "Entreprises"
+      "title": "L'or chute vers sa plus longue série de baisses historiques en dix jours",
+      "summary": "Le cours de l'or a connu une baisse le 24 mars 2026, confirmant une série de dix jours de déclin qui pourrait devenir la plus longue jamais enregistrée pour ce métal précieux. Les inquiétudes liées au conflit au Moyen-Orient pèsent sur les perspectives d'inflation mondiale et de croissance économique. Cette tendance reflète un repositionnement des investisseurs vers d'autres actifs malgré la volatilité géopolitique.",
+      "why": "La chute prolongée de l'or signale un affaiblissement de son rôle refuge et impacte les portefeuilles diversifiés des investisseurs institutionnels.",
+      "category": "Marchés"
     },
     {
-      "title": "BCE révise ses prévisions et publie des scénarios sur l'impact de la guerre au Moyen-Orient",
-      "summary": "La Banque centrale européenne a maintenu ses taux inchangés mais a substantiellement révisé ses prévisions économiques en raison de la guerre au Moyen-Orient, évoquant un choc majeur avec des risques inflationnistes à la hausse et de croissance à la baisse. Dans ses scénarios, l'inflation moyenne atteindrait 4,4% en 2026 et 4,8% en 2027, tandis que la croissance se replierait à 0,4% puis 0,9%. Les marchés anticipent désormais trois hausses de taux de 25 points de base d'ici fin d'année.",
-      "why": "Ces scénarios alimentent les attentes de resserrement monétaire en Europe et accentuent la volatilité des marchés.",
+      "title": "Forum de Boao prévoit une croissance économique asiatique à 4,5 % en 2026",
+      "summary": "Le Forum de Boao pour l'Asie a publié le 24 mars son rapport annuel indiquant une croissance attendue à 4,5 % pour l'Asie en 2026, soutenue par l'Inde et un redressement graduel du Japon. La Chine évolue dans un contexte de faible inflation tandis que les coûts élevés des carburants affectent les prix des biens essentiels sur le continent. Les pénuries d'approvisionnement pour les raffineries asiatiques limitent la production de produits raffinés.",
+      "why": "Cette prévision modérée souligne la résilience asiatique face aux chocs énergétiques mais alerte sur les risques d'inflation importée.",
+      "category": "Marchés"
+    },
+    {
+      "title": "La Turquie envisage d'utiliser ses 135 milliards de dollars de réserves d'or pour défendre la lire",
+      "summary": "La Banque centrale turque discute de swaps d'or contre des devises étrangères sur le marché londonien pour utiliser ses réserves de 135 milliards de dollars et stabiliser sa monnaie. Cette mesure intervient dans un contexte de pressions inflationnistes et de volatilité des changes. Elle vise à renforcer les réserves en devises face aux turbulences régionales.",
+      "why": "Cette stratégie pourrait influencer les prix mondiaux de l'or et signaler des risques de contagion sur les marchés émergents.",
       "category": "Banques"
     },
     {
-      "title": "Prix du Brent grimpe à 114 USD/b et TTF européen à 60 EUR/MWh amid escalade dans le Golfe",
-      "summary": "Les frappes sur les installations pétro-gazières dans le Golfe ont intensifié l'escalade, poussant le prix du Brent à 114 USD le baril, soit une hausse de 13%, et le TTF européen à 60 EUR/MWh, en hausse de 23% sur la semaine. L'AIE a détaillé la libération de 400 millions de barils de stocks stratégiques, majoritairement du brut, avec une contribution européenne en produits pétroliers. Les pays producteurs américains augmentent leur production pour compenser.",
-      "why": "Cette flambée des matières premières exacerbe l'inflation mondiale et contraint les banques centrales à des politiques plus restrictives.",
+      "title": "Scénarios de la guerre en Iran prévoient un ralentissement de la croissance mondiale et une inflation accrue",
+      "summary": "L'intervention militaire américaine en Iran depuis fin février 2026 entraine une flambée du pétrole susceptible de freiner la croissance mondiale, avec trois scénarios envisagés allant d'un conflit court à une guerre prolongée de trois mois. En zone euro, la croissance pourrait tomber à +0,5 % avec une inflation à +4,5 %, obligeant la BCE à relever ses taux. Aux États-Unis, le PIB résisterait mieux à +2,4 % malgré une inflation à +3,6 %.",
+      "why": "Ces projections impactent directement les politiques monétaires et les prévisions budgétaires des grandes économies.",
       "category": "Matières premières"
-    },
-    {
-      "title": "Banques d'investissement prévoient hausses de taux de la BCE dès avril 2026",
-      "summary": "JP Morgan, Morgan Stanley et Barclays anticipent une première hausse des taux d'intérêt par la BCE en avril 2026, suivie d'ajustements supplémentaires, en raison des risques inflationnistes liés au conflit au Moyen-Orient. Barclays et JP Morgan tablent sur des hausses au deuxième et troisième trimestres, tandis que Morgan Stanley prévoit deux relèvements de 0,25 point en juin et septembre. Ces prévisions reflètent un consensus sur un resserrement monétaire imminent.",
-      "why": "Ces attentes des grandes banques influencent directement les marchés obligataires et les stratégies d'investissement en zone euro.",
-      "category": "Banques"
     }
   ],
   "updates": []
