@@ -1,34 +1,34 @@
 {
-  "date": "25/03/2026",
+  "date": "26/03/2026",
   "news": [
     {
-      "title": "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
-      "summary": "Marie Curie a reçu le prix Nobel de physique en 1903 pour ses travaux pionniers sur la radioactivité, puis le prix Nobel de chimie en 1911 pour la découverte du radium et du polonium. Cette double distinction reste exceptionnelle dans l'histoire scientifique, car très peu de chercheurs ont obtenu deux prix Nobel, et encore moins dans des domaines aussi distincts. Son parcours illustre l'excellence scientifique et la persévérance face aux obstacles que rencontraient les femmes dans la recherche au début du XXe siècle.",
-      "why": "Marie Curie incarne le dépassement des limites et l'excellence scientifique intemporelle. Son héritage inspire les générations futures de chercheurs et rappelle l'importance de la contribution des femmes à la science.",
+      "title": "Les Vikings ne portaient pas de casques à cornes",
+      "summary": "L'image populaire des Vikings avec des casques à cornes est une invention du XIXe siècle, popularisée par les opéras wagnériens et les costumes de théâtre. En réalité, les casques vikings découverts lors de fouilles archéologiques sont simples et sans cornes, car celles-ci auraient été inutiles au combat et dangereuses. Cette légende persiste dans la culture moderne malgré les preuves historiques contraires.",
+      "why": "Cette anecdote corrige un stéréotype tenace et montre comment l'art et le divertissement façonnent notre vision du passé de manière inexacte.",
       "category": "Histoire"
     },
     {
-      "title": "L'imprimerie de Gutenberg vers 1440, révolution du partage de l'information",
-      "summary": "Johannes Gutenberg a inventé l'imprimerie à caractères mobiles vers 1440, une innovation qui a transformé radicalement la diffusion du savoir en Europe. Avant cette invention, les livres étaient recopiés à la main par des moines et des scribes, ce qui les rendait rares et extrêmement coûteux. L'imprimerie a permis la reproduction en masse de textes, accélérant la Renaissance, la Réforme protestante et l'émergence de la pensée moderne.",
-      "why": "L'imprimerie de Gutenberg est un tournant civilisationnel qui a démocratisé l'accès au savoir et jeté les bases de la société de l'information. C'est un fait fondateur pour comprendre la modernité.",
-      "category": "Histoire"
+      "title": "Le fromage est l’aliment le plus volé au monde",
+      "summary": "Malgré son apparence anodine, le fromage dépasse tous les autres produits alimentaires en termes de vols organisés dans les entrepôts et camions de transport. Les mafias et réseaux criminels le ciblent pour sa haute valeur marchande et sa facilité de revente sur le marché noir. Cette curieuse statistique s'explique par les prix élevés des variétés comme le parmesan ou le roquefort.",
+      "why": "Elle révèle les réalités inattendues de l'économie mondiale et les priorités surprenantes des vols organisés.",
+      "category": "Insolite"
     },
     {
-      "title": "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
-      "summary": "L'Empire mongol, qui s'est étendu aux XIIIe et XIVe siècles sous le règne de Gengis Khan et de ses successeurs, reste le plus grand empire terrestre contigu jamais constitué. À son apogée, il s'étendait de la Chine à l'Europe de l'Est, couvrant une superficie immense et reliant des civilisations jusque-là isolées. Cet empire a favorisé les échanges commerciaux, culturels et technologiques via la Route de la Soie, transformant profondément l'Eurasie.",
-      "why": "L'Empire mongol illustre la capacité de mobilisation militaire et administrative à grande échelle, et ses impacts sur les échanges mondiaux restent visibles aujourd'hui. C'est un repère essentiel pour comprendre la géopolitique historique.",
+      "title": "Les Sentinelles vivent isolées depuis des millénaires",
+      "summary": "Les Sentinelles, peuple de chasseurs-cueilleurs de l'île Sentinel du Nord dans l'océan Indien, rejettent tout contact extérieur et défendent farouchement leur territoire avec des arcs et flèches. Ils ont résisté à toutes les tentatives d'approche, y compris des missions gouvernementales indiennes, préservant ainsi leur mode de vie néolithique. Leur isolement total en fait l'un des derniers peuples non contactés de la planète.",
+      "why": "Cette histoire illustre la diversité humaine persistante et pose des questions éthiques sur le respect des cultures primitives.",
       "category": "Géographie"
     },
     {
-      "title": "Le Soudan possède plus de pyramides que l'Égypte",
-      "summary": "Contrairement à l'idée reçue, le Soudan compte plus de 250 pyramides, tandis que l'Égypte en possède environ 138. Ces pyramides soudanaises, construites par le royaume de Koush entre le VIIIe siècle avant notre ère et le IVe siècle de notre ère, témoignent d'une civilisation prospère et influencée par l'Égypte ancienne. Bien que moins célèbres que les pyramides égyptiennes, elles constituent un patrimoine archéologique majeur et souvent méconnu.",
-      "why": "Ce fait remet en question nos présupposés géographiques et historiques, et souligne l'importance des civilisations africaines au-delà de l'Égypte. Il enrichit notre compréhension du patrimoine mondial.",
-      "category": "Géographie"
+      "title": "Les larmes trahissent la nature des émotions",
+      "summary": "Les scientifiques ont montré que la composition chimique des larmes varie selon l'émotion : les larmes de joie coulent souvent de l'œil droit en premier et diffèrent des larmes de tristesse par leur teneur hormonale. Cette distinction permettrait théoriquement d'identifier la cause du chagrin ou de la joie par analyse. Bien que controversée, cette idée fascine en psychologie.",
+      "why": "Elle met en lumière les mystères du corps humain et les liens subtils entre physiologie et sentiments.",
+      "category": "Psychologie"
     },
     {
-      "title": "L'étymologie du mot « sandwich » remonte à un aristocrate anglais du XVIIIe siècle",
-      "summary": "Le mot « sandwich » provient du quatrième Comte de Sandwich, un aristocrate anglais du XVIIIe siècle. Selon la légende, ce noble aurait demandé qu'on lui serve de la viande entre deux tranches de pain pour pouvoir manger sans interrompre ses jeux de cartes. Cette pratique commode s'est popularisée et le nom du Comte a donné son nom à ce type de repas, devenant un terme universel dans de nombreuses langues.",
-      "why": "Cette étymologie illustre comment les noms propres peuvent devenir des mots communs et comment les habitudes des personnages historiques influencent le langage quotidien. C'est une anecdote linguistique qui enrichit la compréhension des origines des mots.",
+      "title": "Le mot denim tire ses origines de France et d'Italie",
+      "summary": "Le denim, tissu emblématique des jeans, provient du français 'serge de Nîmes' (Nîmes étant une ville textile) et du 'bleu de Gênes' italien pour sa teinture. Introduit aux États-Unis au XIXe siècle, il s'est popularisé avec les vêtements de travail Levi Strauss. Cette étymologie relie un symbole américain à l'héritage européen.",
+      "why": "Elle démontre comment les mots voyagent et évoluent, reliant mode contemporaine à l'histoire linguistique.",
       "category": "Linguistique"
     }
   ],
