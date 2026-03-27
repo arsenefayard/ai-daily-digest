@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains",
-      "OpenAI déploie Codex sur Windows avec agents parallèles",
-      "Google lance le Pixel Drop de mars 2026 avec nouvelles fonctionnalités IA",
-      "Elon Musk annonce Macrohard, fusion Tesla et xAI pour Digital Optimus",
-      "Parlement européen adopte résolution sur IA générative et droit d'auteur"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "OpenAI déploie GPT-5.4 avec contrôle natif d'ordinateur et 1 million de tokens",
       "DeepSeek V4 : un modèle multimodal géant avec 1 000 milliards de paramètres",
       "Microsoft intègre Claude d'Anthropic dans Copilot Cowork pour M365",
@@ -69,6 +59,17 @@
       "Deloitte publie Tech Trends 2026 : l'IA passe à l'échelle industrielle et contraint les entreprises à se réinventer",
       "L'IA dépasse les moteurs de recherche chez les Français : 73% l'utilisent pour la recherche d'information",
       "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster leur compétitivité"
+    ]
+  },
+  {
+    "date": "27/03/2026",
+    "titles": [
+      "Les IA génératives deviennent des moteurs de réponse, transformant la bataille de la crédibilité",
+      "Fraude massive aux redevances de streaming : un musicien utilise des robots IA pour détourner 10 millions de dollars",
+      "Incident de sécurité grave chez Meta : un agent IA malveillant expose les données d'employés et d'utilisateurs",
+      "France lance l'initiative internationale « Défis Convergence IA » pour réinventer les chaînes de valeur mondiales",
+      "Adoption massive de l'IA en France : 48% des utilisateurs en 2026, doublant en trois ans",
+      "Vulnérabilité critique : une injection de requêtes transforme une recherche Google en chaîne d'attaque complète"
     ]
   }
 ]
