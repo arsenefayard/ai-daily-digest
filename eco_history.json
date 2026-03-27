@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Discours attendu du président de la Fed sur l'inflation et les taux",
-      "Rapports des banques chinoises signalent un cycle de crédit fragile",
-      "China Shenhua Energy met en lumière la résilience du secteur énergétique chinois",
-      "Shutdown américain cause un ralentissement temporaire de la croissance",
-      "Wall Street rebondit grâce aux technos et à l'IA malgré les tensions géopolitiques"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
       "Confiance des consommateurs en zone euro montre des signes de redressement",
       "Rapport EQT AB met en lumière la performance des investissements alternatifs",
@@ -67,6 +57,16 @@
       "Forum de Boao prévoit une croissance économique asiatique à 4,5 % en 2026",
       "La Turquie envisage d'utiliser ses 135 milliards de dollars de réserves d'or pour défendre la lire",
       "Scénarios de la guerre en Iran prévoient un ralentissement de la croissance mondiale et une inflation accrue"
+    ]
+  },
+  {
+    "date": "27/03/2026",
+    "titles": [
+      "L'Iran intensifie ses frappes au Moyen-Orient malgré les négociations de paix de Trump",
+      "L'Union européenne reporte sa proposition d'interdire le pétrole russe",
+      "La Banque de France affiche une plus-value de 12,8 milliards d'euros sur ses réserves d'or",
+      "La G7 se réunit en France pour discuter de la crise iranienne et du plan de trêve de Trump",
+      "Scénarios inquiétants de la Banque de France sur inflation, croissance et chômage"
     ]
   }
 ]
