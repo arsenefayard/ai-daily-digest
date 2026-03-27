@@ -1,35 +1,35 @@
 {
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "news": [
     {
-      "title": "Les marchés anticipent un statu quo des taux de la Fed jusqu'en 2026 et des hausses pour la BCE et la BoE",
-      "summary": "Les marchés des swaps indexés au jour le jour prévoient désormais que la Fed maintiendra ses taux inchangés jusqu'en 2026, tandis que la BCE et la Banque d'Angleterre devraient procéder à trois hausses de 25 points de base chacune. Ce revirement radical par rapport au début de l'année, où deux baisses étaient anticipées pour la Fed et la BoE, reflète l'impact des tensions géopolitiques sur les attentes inflationnistes. Sur le marché du crédit corporate, les conditions restent ordonnées malgré une performance légèrement négative des sous-classes d'actifs.",
-      "why": "Ce changement d'anticipations modifie profondément les stratégies d'investissement mondiales et renforce la pression sur les économies endettées.",
-      "category": "Politique monétaire"
+      "title": "L'Iran intensifie ses frappes au Moyen-Orient malgré les négociations de paix de Trump",
+      "summary": "L'Iran a accru ses attaques militaires dans la région du Moyen-Orient, rejetant le plan de paix en 15 points proposé par les États-Unis sous la présidence Trump. Cette escalade intervient alors que des négociations étaient annoncées, prolongeant l'incertitude géopolitique qui pèse sur les marchés énergétiques mondiaux. Les prix du pétrole Brent restent sous pression à plus de 110 dollars le baril en raison de la fermeture persistante du détroit d'Ormuz.",
+      "why": "Cette intensification risque d'aggraver la crise énergétique mondiale et de relancer l'inflation, impactant directement la croissance économique et les anticipations des banques centrales.",
+      "category": "Matières premières"
     },
     {
-      "title": "L'or chute vers sa plus longue série de baisses historiques en dix jours",
-      "summary": "Le cours de l'or a connu une baisse le 24 mars 2026, confirmant une série de dix jours de déclin qui pourrait devenir la plus longue jamais enregistrée pour ce métal précieux. Les inquiétudes liées au conflit au Moyen-Orient pèsent sur les perspectives d'inflation mondiale et de croissance économique. Cette tendance reflète un repositionnement des investisseurs vers d'autres actifs malgré la volatilité géopolitique.",
-      "why": "La chute prolongée de l'or signale un affaiblissement de son rôle refuge et impacte les portefeuilles diversifiés des investisseurs institutionnels.",
-      "category": "Marchés"
+      "title": "L'Union européenne reporte sa proposition d'interdire le pétrole russe",
+      "summary": "L'UE a décidé de reporter son projet d'interdiction totale des importations de pétrole russe, face aux tensions accrues au Moyen-Orient et à la dépendance persistante en énergie. Cette mesure vise à éviter une flambée supplémentaire des prix du gaz et du pétrole sur le marché européen. Le TTF européen oscille autour de 60 euros/MWh dans ce contexte volatile.",
+      "why": "Ce report maintient la vulnérabilité énergétique de l'Europe et influence les stratégies des investisseurs sur les commodities, avec des implications sur l'inflation et la politique monétaire de la BCE.",
+      "category": "Matières premières"
     },
     {
-      "title": "Forum de Boao prévoit une croissance économique asiatique à 4,5 % en 2026",
-      "summary": "Le Forum de Boao pour l'Asie a publié le 24 mars son rapport annuel indiquant une croissance attendue à 4,5 % pour l'Asie en 2026, soutenue par l'Inde et un redressement graduel du Japon. La Chine évolue dans un contexte de faible inflation tandis que les coûts élevés des carburants affectent les prix des biens essentiels sur le continent. Les pénuries d'approvisionnement pour les raffineries asiatiques limitent la production de produits raffinés.",
-      "why": "Cette prévision modérée souligne la résilience asiatique face aux chocs énergétiques mais alerte sur les risques d'inflation importée.",
-      "category": "Marchés"
-    },
-    {
-      "title": "La Turquie envisage d'utiliser ses 135 milliards de dollars de réserves d'or pour défendre la lire",
-      "summary": "La Banque centrale turque discute de swaps d'or contre des devises étrangères sur le marché londonien pour utiliser ses réserves de 135 milliards de dollars et stabiliser sa monnaie. Cette mesure intervient dans un contexte de pressions inflationnistes et de volatilité des changes. Elle vise à renforcer les réserves en devises face aux turbulences régionales.",
-      "why": "Cette stratégie pourrait influencer les prix mondiaux de l'or et signaler des risques de contagion sur les marchés émergents.",
+      "title": "La Banque de France affiche une plus-value de 12,8 milliards d'euros sur ses réserves d'or",
+      "summary": "La Banque de France a enregistré une plus-value exceptionnelle de 12,8 milliards d'euros sur ses avoirs en or, grâce à la hausse des cours mondiaux du métal précieux. Cette performance renforce la solidité de ses réserves et illustre la stratégie de diversification des banques centrales face aux incertitudes géopolitiques. Les cours de l'or ont toutefois connu une série de baisses récentes, rendant cette plus-value particulièrement opportune.",
+      "why": "Cette plus-value améliore la position financière de la banque centrale française et signale un regain d'intérêt pour l'or comme actif refuge dans un contexte de tensions mondiales.",
       "category": "Banques"
     },
     {
-      "title": "Scénarios de la guerre en Iran prévoient un ralentissement de la croissance mondiale et une inflation accrue",
-      "summary": "L'intervention militaire américaine en Iran depuis fin février 2026 entraine une flambée du pétrole susceptible de freiner la croissance mondiale, avec trois scénarios envisagés allant d'un conflit court à une guerre prolongée de trois mois. En zone euro, la croissance pourrait tomber à +0,5 % avec une inflation à +4,5 %, obligeant la BCE à relever ses taux. Aux États-Unis, le PIB résisterait mieux à +2,4 % malgré une inflation à +3,6 %.",
-      "why": "Ces projections impactent directement les politiques monétaires et les prévisions budgétaires des grandes économies.",
-      "category": "Matières premières"
+      "title": "La G7 se réunit en France pour discuter de la crise iranienne et du plan de trêve de Trump",
+      "summary": "Le G7 s'est réuni en France pour aborder l'escalade des tensions avec l'Iran, qui a rejeté le plan de trêve proposé par Trump, et ses répercussions sur l'économie mondiale. Les discussions portent sur des mesures coordonnées pour stabiliser les marchés énergétiques et contrer les pressions inflationnistes. Cette rencontre souligne l'urgence d'une réponse multilatérale à la fermeture du détroit d'Ormuz.",
+      "why": "Les décisions du G7 pourraient influencer les flux commerciaux mondiaux et les politiques budgétaires, avec un impact direct sur la croissance et les taux d'intérêt globaux.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Scénarios inquiétants de la Banque de France sur inflation, croissance et chômage",
+      "summary": "La Banque de France a publié des scénarios alarmants prévoyant une accélération de l'inflation, un ralentissement de la croissance et une hausse du chômage en cas de prolongation du conflit au Moyen-Orient. Ces projections intègrent l'impact des hausses des prix de l'énergie sur le pouvoir d'achat et l'activité économique en zone euro. La BCE est appelée à ajuster sa palette d'options pour réagir à ces risques.",
+      "why": "Ces prévisions influencent les anticipations des marchés sur les taux directeurs et orientent les stratégies d'investissement vers des actifs plus résilients.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": []
