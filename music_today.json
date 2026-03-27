@@ -1,34 +1,34 @@
 {
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "news": [
     {
-      "title": "Solane triomphe au Zénith de Paris en double concert sold-out",
-      "summary": "La chanteuse Solane a enflammé le Zénith de Paris hier soir avec un double concert qui a attiré des milliers de fans en liesse. Ce spectacle marque un moment clé dans sa carrière ascendante après ses succès récents en streaming. Les critiques saluent déjà sa performance vocale et sa connexion avec le public comme un tournant décisif.",
-      "why": "Cet événement confirme l'ascension fulgurante de Solane dans la scène pop française et pourrait propulser sa popularité internationale.",
+      "title": "Rosalia de retour en France avec des concerts très attendus à l'Accor Arena",
+      "summary": "La chanteuse espagnole Rosalia fait son grand retour en France après des années d'absence avec des concerts programmés à l'Accor Arena de Paris en mars 2026. Ces représentations promettent un spectacle immersif mêlant flamenco moderne et hits planétaires qui ont conquis le monde. Les fans français, impatients, anticipent déjà une soirée mémorable dans l'une des plus grandes salles du pays.",
+      "why": "Ce retour marque un événement majeur pour la scène pop internationale en France et souligne l'ascension continue de Rosalia comme icône mondiale.",
       "category": "Pop"
     },
     {
-      "title": "Kreator, Carcass, Exodus et Nails déchaînent le Zénith de Paris",
-      "summary": "Le Zénith de Paris a vibré hier soir lors d'un concert metal historique réunissant Kreator, Carcass, Exodus et Nails. Cette affiche exceptionnelle a attiré des milliers de fans pour une soirée de thrash et death metal brut. L'événement s'inscrit dans une tournée européenne majeure pour ces légendes du genre.",
-      "why": "Cette réunion de groupes iconiques renforce la vitalité de la scène metal en France et attire une nouvelle génération de headbangers.",
-      "category": "Métal"
+      "title": "Lara Fabian enflamme l'Accor Arena le 10 mars avec ses balades puissantes",
+      "summary": "La légendaire chanteuse Lara Fabian se produit le 10 mars 2026 à l'Accor Arena de Paris, ravivant sa voix émouvante et son répertoire intemporel. Fidèle à son public français, elle proposera un show chargé d'émotions où ses ballades iconiques résonneront dans la grande arène. Cette date s'inscrit dans une série de concerts célébrant sa carrière prolifique.",
+      "why": "Lara Fabian reste une figure incontournable de la chanson francophone, et ce concert renforce son lien indéfectible avec le public parisien.",
+      "category": "Pop"
     },
     {
-      "title": "Placebo annonce un concert au Zénith de Toulouse le 5 mai",
-      "summary": "Le groupe de rock alternatif Placebo se produira au Zénith de Toulouse Métropole le lundi 5 mai 2026 dans le cadre de leur tournée européenne. Cette date s'ajoute à une programmation riche incluant d'autres artistes majeurs au même lieu. Les billets sont déjà en vente, promettant une soirée électrisante pour les fans.",
-      "why": "Placebo, pilier du rock des années 2000, continue de fédérer un public fidèle et renouvelle son impact sur la scène live.",
-      "category": "Rock"
+      "title": "Festival Jazz à Commercy séduit plus de 160 spectateurs par soir dans un cadre intimiste",
+      "summary": "Le festival Jazz à Commercy, tenu du 20 au 22 mars 2026 au cinéma Truffaut, a attiré plus de 160 spectateurs chaque soir avec des groupes du Grand Est. Les performances mêlant piano, trompette et voix ont créé une alchimie palpable entre musiciens locaux et renommés autour du thème de l'amour. Le public, initialement hésitant, a été conquis par cette ambiance conviviale et les compositions inédites.",
+      "why": "Ce succès met en lumière la vitalité de la scène jazz régionale et prouve l'attrait pour des événements intimistes en pleine explosion des festivals.",
+      "category": "Jazz"
     },
     {
-      "title": "Bigflo & Oli prêts à conquérir le Zénith de Toulouse dès le 17 avril",
-      "summary": "Le duo de rappeurs français Bigflo & Oli se produira à partir du vendredi 17 avril 2026 au Zénith de Toulouse Métropole pour une série de dates exceptionnelles. Connu pour leur humour et leurs textes percutants, ils reviennent avec un spectacle immersif mêlant rap et mise en scène. Cet événement marque leur retour en force après plusieurs succès.",
-      "why": "Bigflo & Oli représentent une nouvelle vague du rap français accessible et innovant, attirant un large public familial.",
-      "category": "Hip-Hop"
+      "title": "Printemps de la Musique au Signal de Botrange propose un éclectique du 20 mars au 18 avril",
+      "summary": "Le Printemps de la Musique 2026 au Signal de Botrange en Belgique débute le 20 mars avec un programme varié allant du folk au classique en passant par la chanson française. Des artistes reconnus comme Rivage, avec Chantal Mélot et Jean-Marc Ramet, se produiront notamment le 27 mars à 20h. Cette édition met l'accent sur des talents locaux et une programmation accessible en pleine nature.",
+      "why": "Ce festival illustre la diversité musicale européenne et offre une alternative rafraîchissante aux grands événements urbains.",
+      "category": "Autre"
     },
     {
-      "title": "Dirty Dancing In Concert arrive au Zénith de Toulouse le 3 avril",
-      "summary": "Le spectacle musical Dirty Dancing In Concert fera escale au Zénith de Toulouse Métropole le vendredi 3 avril 2026, recréant les hits iconiques du film avec danseurs et orchestre live. Cette production immersive transporte le public dans l'univers des années 80 pour une soirée nostalgique. Les places se vendent rapidement auprès des fans du classique cinématographique.",
-      "why": "Ce show hybride entre concert et comédie musicale élargit l'accès à la musique pop des 80s et booste les spectacles familiaux en live.",
+      "title": "Jade lance sa carrière solo à la Salle Pleyel le 11 mars après Little Mix",
+      "summary": "L'ancienne membre de Little Mix, Jade, investit la Salle Pleyel le 11 mars 2026 pour marquer son entrée en solo avec un répertoire audacieux. Ce concert représente un tournant décisif après l'explosion de sa popularité au sein du groupe. Les spectateurs découvriront une artiste affirmée prête à conquérir la scène individuelle.",
+      "why": "Ce passage en solo d'une star de la pop britannique dynamise la scène R&B et pop en France avec une nouvelle venue prometteuse.",
       "category": "Pop"
     }
   ],
