@@ -1,51 +1,36 @@
 {
-  "date": "25/03/2026",
+  "date": "27/03/2026",
   "news": [
     {
-      "title": "Donald Trump rencontre Xi Jinping sur le commerce et la sécurité régionale",
-      "summary": "Le président américain Donald Trump s'est entretenu avec le président chinois Xi Jinping pour aborder les questions commerciales et de sécurité en Asie-Pacifique. Cette rencontre met en lumière la rivalité stratégique entre Washington et Pékin tout en soulignant la nécessité d'une coopération minimale pour éviter une escalade militaire. Les discussions pourraient influencer les chaînes d'approvisionnement mondiales et la stabilité régionale face aux tensions actuelles au Moyen-Orient.",
-      "why": "Cette rencontre bilatérale majeure pourrait atténuer les risques d'un conflit sino-américain et stabiliser les marchés mondiaux, avec des implications directes sur l'économie globale.",
+      "title": "L'Iran rejette le plan de paix en 15 points proposé par les États-Unis",
+      "summary": "Téhéran a formellement rejeté le plan de paix en 15 points présenté par Washington, qui exigeait la destruction du programme nucléaire iranien, le transfert des stocks d'uranium enrichi à l'AIEA et la cessation du soutien aux groupes armés proxies. Malgré les annonces de Donald Trump sur des négociations en cours avec des points d'accord majeurs, l'Iran dément et intensifie ses frappes contre Israël et les infrastructures pétrolières des pays voisins du Golfe. Cette escalade risque de prolonger la fermeture du détroit d'Ormuz, menaçant les approvisionnements énergétiques mondiaux.",
+      "why": "Ce rejet complique les efforts diplomatiques de Trump et accentue les tensions au Moyen-Orient, avec des implications directes sur les prix du pétrole et la stabilité régionale.",
       "category": "Diplomatie"
     },
     {
-      "title": "La Russie intensifie ses frappes contre l'Ukraine dans sa plus grande attaque depuis des semaines",
-      "summary": "La Russie a lancé une offensive aérienne massive contre l'Ukraine, marquant sa plus grande attaque en plusieurs semaines avec des frappes sur des infrastructures critiques. Cette escalade survient dans un contexte de tensions persistantes et de soutien occidental à Kiev. Les implications incluent un risque accru de prolongation du conflit et de crise humanitaire en Europe de l'Est.",
-      "why": "Cette intensification militaire renforce les divisions en Europe et pourrait entraîner de nouvelles sanctions ou une réponse accrue de l'OTAN, affectant la sécurité continentale.",
-      "category": "Conflit"
+      "title": "La Hongrie annonce l'arrêt progressif des livraisons de gaz à l'Ukraine",
+      "summary": "Le gouvernement hongrois a déclaré qu'il mettrait fin progressivement aux livraisons de gaz naturel vers Kyiv, dans un contexte de tensions persistantes avec l'Union européenne sur la politique anti-ukrainienne de Budapest. Cette décision s'inscrit dans une série de mesures unilatérales malgré les critiques européennes, aggravant les vulnérabilités énergétiques de l'Ukraine en pleine guerre. Elle souligne les fractures internes au sein de l'UE sur la gestion de la crise russo-ukrainienne.",
+      "why": "Cette mesure affaiblit le front européen uni contre la Russie et expose l'Ukraine à une crise énergétique accrue, influençant les négociations de paix.",
+      "category": "Énergie"
     },
     {
-      "title": "Élections législatives au Danemark : les sociaux-démocrates en tête mais en recul",
-      "summary": "Les sociaux-démocrates de Mette Frederiksen arrivent en tête des élections législatives danoises, mais enregistrent un recul par rapport aux scrutins précédents. Ce vote reflète les débats sur l'immigration, la défense et l'économie dans un pays clé de l'OTAN. Les résultats pourraient influencer la politique nordique vis-à-vis de la Russie et de l'UE.",
-      "why": "Ce scrutin détermine l'orientation future de la politique étrangère danoise, particulièrement sur l'Ukraine et l'Arctique, avec des répercussions sur l'unité européenne.",
-      "category": "Élection"
-    },
-    {
-      "title": "Marchés boursiers asiatiques en chute après l'ultimatum de Trump à l'Iran",
-      "summary": "Les bourses asiatiques ont plongé suite à l'ultimatum de 48 heures lancé par Donald Trump à l'Iran pour rouvrir le détroit d'Ormuz, menaçant ses centrales électriques. Cette réaction reflète les craintes d'une perturbation des approvisionnements pétroliers mondiaux. Les enjeux économiques mondiaux s'aggravent avec des risques de récession si le conflit s'étend.",
-      "why": "La volatilité des marchés souligne la vulnérabilité de l'économie mondiale aux tensions au Moyen-Orient, impactant directement l'énergie et l'inflation globale.",
-      "category": "Économie"
-    },
-    {
-      "title": "Explosion près de l'ambassade américaine à Oslo",
-      "summary": "Une explosion s'est produite près de l'ambassade des États-Unis à Oslo dans la nuit, dans un contexte de tensions géopolitiques élevées. Les autorités norvégiennes enquêtent sur un possible acte terroriste lié aux conflits au Moyen-Orient. Cet incident renforce les mesures de sécurité en Europe du Nord et met en lumière les risques de délocalisation des menaces.",
-      "why": "Cet événement illustre la propagation des tensions moyen-orientales en Europe, augmentant les préoccupations sécuritaires pour les alliés de l'OTAN.",
+      "title": "En Algérie, Abdelmadjid Tebboune renforce ses pouvoirs via une révision constitutionnelle",
+      "summary": "Le Parlement algérien a adopté une révision constitutionnelle qui accroît considérablement les pouvoirs du président Abdelmadjid Tebboune, notamment sur les nominations judiciaires et le contrôle des élections. Cette réforme verrouille davantage le régime en place, limitant les contre-pouvoirs dans un pays clé pour l'approvisionnement gazier de l'Europe. Elle intervient dans un contexte de tensions régionales au Maghreb et de dépendance européenne aux hydrocarbures algériens.",
+      "why": "Ce durcissement autoritaire stabilise le régime mais risque d'isoler l'Algérie diplomatiquement, impactant la sécurité énergétique européenne.",
       "category": "Sécurité"
+    },
+    {
+      "title": "Pascal Canfin appelle l'Europe à adapter sa stratégie énergétique face à la crise d'Ormuz",
+      "summary": "Dans une tribune au Monde, l'eurodéputé Pascal Canfin analyse la fermeture du détroit d'Ormuz comme un test majeur pour l'Europe, plus vulnérable que la Chine à la dépendance aux énergies fossiles. Il plaide pour une révision urgente de la stratégie énergétique européenne afin de réduire cette exposition et renforcer la résilience face aux chocs géopolitiques. L'UE reporte par ailleurs sa proposition d'interdire le pétrole russe, soulignant ses dilemmes internes.",
+      "why": "Cette analyse met en lumière les faiblesses structurelles de l'Europe en matière d'énergie, cruciales dans un contexte de tensions au Moyen-Orient et avec la Russie.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Le Pakistan se positionne comme médiateur potentiel entre États-Unis et Iran",
+      "summary": "Islamabad émerge comme intermédiaire pour d'éventuels pourparlers directs entre Washington et Téhéran, grâce à son traité de défense avec l'Arabie saoudite et les bonnes relations de son chef d'armée Asim Munir avec Donald Trump. Le pays, qui abrite une importante minorité chiite, pourrait faciliter un déblocage diplomatique au Moyen-Orient. Cette initiative survient alors que les négociations directes américano-iraniennes patinent.",
+      "why": "Le rôle du Pakistan pourrait ouvrir une voie diplomatique inattendue, diversifiant les acteurs et potentiellement apaisant les tensions autour du détroit d'Ormuz.",
+      "category": "Diplomatie"
     }
   ],
-  "updates": [
-    {
-      "title": "Trump renonce à son ultimatum de 48 heures à l'Iran",
-      "original": "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
-      "summary": "Donald Trump a retiré son ultimatum de 48 heures adressé à l'Iran concernant la réouverture du détroit d'Ormuz, optant pour une approche plus mesurée. Cette décision intervient après des frappes continues et des menaces iraniennes de ripostes pétrolières. Elle marque un possible ralentissement de l'escalade militaire au Moyen-Orient.",
-      "why": "Ce revirement diplomatique réduit le risque immédiat d'une guerre totale et stabilise temporairement les prix du pétrole, mais laisse persister les tensions sous-jacentes.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "Élection de Mojtaba Khamenei comme nouveau guide suprême iranien",
-      "original": "Israël annonce une intensification considérable de ses frappes en Iran",
-      "summary": "L'Iran a nommé Mojtaba Khamenei, fils de l'ancien guide, comme nouveau guide suprême au neuvième jour du conflit avec Israël et les États-Unis. Donald Trump a menacé ce leadership naissant en déclarant qu'il ne tiendrait pas sans son aval. Cette succession rapide au milieu des frappes change la dynamique interne du régime iranien.",
-      "why": "Cette transition de pouvoir en pleine guerre pourrait durcir ou modérer la posture iranienne, influençant les négociations futures et la stabilité régionale.",
-      "category": "Conflit"
-    }
-  ]
+  "updates": []
 }
