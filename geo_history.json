@@ -3,17 +3,6 @@
     "date": "23/03/2026",
     "titles": [
       "Israël annonce une intensification considérable de ses frappes en Iran",
-      "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "La France arraisonne un navire suspecté d'appartenir à la flotte fantôme russe",
-      "Tanker russe à la dérive dans les eaux libyennes déclenche une alerte écologique",
-      "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les reproches européens",
-      "Trump explore les options pour une force terrestre en Iran"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
-      "Israël annonce une intensification considérable de ses frappes en Iran",
       "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
       "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
       "Le Japon puise dans ses réserves stratégiques de pétrole en raison de la crise d'Ormuz",
@@ -72,6 +61,16 @@
       "Explosion près de l'ambassade américaine à Oslo",
       "Trump renonce à son ultimatum de 48 heures à l'Iran",
       "Élection de Mojtaba Khamenei comme nouveau guide suprême iranien"
+    ]
+  },
+  {
+    "date": "27/03/2026",
+    "titles": [
+      "L'Iran rejette le plan de paix en 15 points proposé par les États-Unis",
+      "La Hongrie annonce l'arrêt progressif des livraisons de gaz à l'Ukraine",
+      "En Algérie, Abdelmadjid Tebboune renforce ses pouvoirs via une révision constitutionnelle",
+      "Pascal Canfin appelle l'Europe à adapter sa stratégie énergétique face à la crise d'Ormuz",
+      "Le Pakistan se positionne comme médiateur potentiel entre États-Unis et Iran"
     ]
   }
 ]
