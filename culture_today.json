@@ -1,34 +1,34 @@
 {
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "news": [
     {
-      "title": "Les Vikings ne portaient pas de casques à cornes",
-      "summary": "L'image populaire des Vikings avec des casques à cornes est une invention du XIXe siècle, popularisée par les opéras wagnériens et les costumes de théâtre. En réalité, les casques vikings découverts lors de fouilles archéologiques sont simples et sans cornes, car celles-ci auraient été inutiles au combat et dangereuses. Cette légende persiste dans la culture moderne malgré les preuves historiques contraires.",
-      "why": "Cette anecdote corrige un stéréotype tenace et montre comment l'art et le divertissement façonnent notre vision du passé de manière inexacte.",
+      "title": "La plus ancienne peinture connue date de plus de 51 200 ans",
+      "summary": "Découverte dans une grotte indonésienne, cette peinture rupestre représente trois personnes et un cochon, datant de plus de 51 200 ans. Elle repousse les origines de l'art humain bien au-delà des estimations précédentes, qui se situaient autour de 44 000 ans pour une œuvre similaire sur l'île de Sulawesi. Cette trouvaille illustre la précocité de la créativité artistique chez nos ancêtres.",
+      "why": "Elle révolutionne notre compréhension des capacités cognitives des premiers humains et de l'émergence universelle de l'expression artistique.",
       "category": "Histoire"
     },
     {
-      "title": "Le fromage est l’aliment le plus volé au monde",
-      "summary": "Malgré son apparence anodine, le fromage dépasse tous les autres produits alimentaires en termes de vols organisés dans les entrepôts et camions de transport. Les mafias et réseaux criminels le ciblent pour sa haute valeur marchande et sa facilité de revente sur le marché noir. Cette curieuse statistique s'explique par les prix élevés des variétés comme le parmesan ou le roquefort.",
-      "why": "Elle révèle les réalités inattendues de l'économie mondiale et les priorités surprenantes des vols organisés.",
+      "title": "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
+      "summary": "À l'époque romaine, certaines femmes riches collectionnaient la sueur de leurs gladiateurs préférés après les combats pour en faire un parfum ou une crème cosmétique. Cette pratique étrange reflétait l'admiration pour la force et la virilité des combattants d'arène. Elle met en lumière les codes sociaux et les standards de beauté de l'Antiquité.",
+      "why": "Cette anecdote révèle les aspects les plus inattendus des mœurs romaines et questionne nos perceptions modernes de l'hygiène et de l'esthétique.",
       "category": "Insolite"
     },
     {
-      "title": "Les Sentinelles vivent isolées depuis des millénaires",
-      "summary": "Les Sentinelles, peuple de chasseurs-cueilleurs de l'île Sentinel du Nord dans l'océan Indien, rejettent tout contact extérieur et défendent farouchement leur territoire avec des arcs et flèches. Ils ont résisté à toutes les tentatives d'approche, y compris des missions gouvernementales indiennes, préservant ainsi leur mode de vie néolithique. Leur isolement total en fait l'un des derniers peuples non contactés de la planète.",
-      "why": "Cette histoire illustre la diversité humaine persistante et pose des questions éthiques sur le respect des cultures primitives.",
+      "title": "Jésus-Christ est né avant l'invention du calendrier qui le désigne",
+      "summary": "Le calendrier grégorien, qui compte les années 'avant' et 'après' Jésus-Christ, a été établi des siècles après sa naissance supposée vers 4 à 6 av. J.-C. Ainsi, Jésus est techniquement né 'avant Jésus-Christ' selon cette convention. Cette paradoxe historique provient d'erreurs de calcul lors de la création du système diocésien par Denys le Petit au VIe siècle.",
+      "why": "Ce fait insolite souligne les imperfections des conventions historiques et invite à une réflexion sur la précision des repères temporels.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Les Malgaches descendent de femmes venues d'Indonésie il y a 1200 ans",
+      "summary": "Des analyses ADN révèlent que les Malgaches actuels proviennent en grande partie d'un groupe de femmes arrivées d'Indonésie il y a environ 1200 ans, qui se sont mélangées aux populations africaines locales. Cette migration transocéanique, couvrant plus de 7000 kilomètres, témoigne d'exploits maritimes anciens et oubliés. Elle explique la diversité linguistique et culturelle unique de Madagascar.",
+      "why": "Cette découverte réécrit l'histoire des migrations humaines et met en évidence les connexions inattendues entre l'Asie du Sud-Est et l'Afrique.",
       "category": "Géographie"
     },
     {
-      "title": "Les larmes trahissent la nature des émotions",
-      "summary": "Les scientifiques ont montré que la composition chimique des larmes varie selon l'émotion : les larmes de joie coulent souvent de l'œil droit en premier et diffèrent des larmes de tristesse par leur teneur hormonale. Cette distinction permettrait théoriquement d'identifier la cause du chagrin ou de la joie par analyse. Bien que controversée, cette idée fascine en psychologie.",
-      "why": "Elle met en lumière les mystères du corps humain et les liens subtils entre physiologie et sentiments.",
-      "category": "Psychologie"
-    },
-    {
-      "title": "Le mot denim tire ses origines de France et d'Italie",
-      "summary": "Le denim, tissu emblématique des jeans, provient du français 'serge de Nîmes' (Nîmes étant une ville textile) et du 'bleu de Gênes' italien pour sa teinture. Introduit aux États-Unis au XIXe siècle, il s'est popularisé avec les vêtements de travail Levi Strauss. Cette étymologie relie un symbole américain à l'héritage européen.",
-      "why": "Elle démontre comment les mots voyagent et évoluent, reliant mode contemporaine à l'histoire linguistique.",
+      "title": "On parle plus de 7000 langues dans le monde aujourd'hui",
+      "summary": "Le monde compte actuellement plus de 7000 langues distinctes, dont beaucoup sont parlées par moins de 1000 personnes et risquent de disparaître. Cette diversité linguistique reflète l'histoire fragmentée des populations humaines et leurs adaptations locales. La majorité de ces langues se concentrent en Asie, en Afrique et en Océanie.",
+      "why": "Cette richesse linguistique est un trésor culturel en péril, soulignant l'urgence de la préservation face à la mondialisation.",
       "category": "Linguistique"
     }
   ],
