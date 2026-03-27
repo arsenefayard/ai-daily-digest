@@ -1,35 +1,35 @@
 {
-  "date": "26/03/2026",
+  "date": "27/03/2026",
   "news": [
     {
-      "title": "Tadej Pogačar remporte Milan-San Remo",
-      "summary": "Le coureur slovène Tadej Pogačar a dominé la classique Milan-San Remo le 22 mars 2026, s'imposant au sprint final après une course intense marquée par les ascensions du Poggio. Cette victoire prestigieuse renforce sa position de favori pour les classiques printanières et les Grands Tours. Pogačar démontre ainsi sa polyvalence en s'adjugeant l'une des plus anciennes courses cyclistes du monde.",
-      "why": "Milan-San Remo est la première des cinq Monumentales du cyclisme, et cette victoire consolide la suprématie de Pogačar dans le peloton mondial.",
+      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les demi-finales",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment remporté leurs quarts de finale au Miami Open ce 26 mars, se qualifiant ainsi pour les demi-finales du tournoi. Alcaraz a dominé son adversaire en trois sets serrés, démontrant une excellente forme physique malgré les conditions humides. Swiatek, de son côté, a surclassé son opposante en deux sets nets, consolidant sa position de favorite. Ces victoires propulsent les deux stars vers un possible duel en finale.",
+      "why": "Ces avancées marquent un tournant dans le tournoi majeur sur dur, avec des implications directes pour le classement ATP et WTA avant Roland-Garros.",
+      "category": "Tennis"
+    },
+    {
+      "title": "Tour de Catalogne : Pogacar s'impose dans la 3e étape au sommet",
+      "summary": "Tadej Pogacar a remporté la 3e étape du Tour de Catalogne le 26 mars, concluant au sprint en altitude devant ses rivaux directs. Cette victoire lui permet de prendre le maillot de leader au général, après une attaque décisive dans les derniers kilomètres. Les favoris comme Evenepoel ont dû céder du terrain, renforçant la domination du Slovène en début de saison.",
+      "why": "Cette performance confirme Pogacar comme le patron des courses par étapes précoces, influençant les paris pour les classiques printanières.",
       "category": "Autre"
     },
     {
-      "title": "FIFA impose une règle : une femme obligatoire dans les staffs des équipes féminines",
-      "summary": "La FIFA a annoncé une nouvelle réglementation obligeant chaque équipe féminine de football à inclure au moins une femme dans le rôle d'entraîneuse principale ou d'assistante. Cette mesure vise à promouvoir l'égalité des genres et à développer les compétences féminines dans le coaching. Elle entrera en vigueur pour les prochaines compétitions internationales.",
-      "why": "Cette décision marque un tournant pour la parité dans le football féminin et influencera les staffs de toutes les sélections et clubs.",
+      "title": "Ligue 1 : Classico explosif entre OM et PSG reporté pour cause de pluie",
+      "summary": "Le choc de la 28e journée de Ligue 1 entre l'OM et le PSG, prévu le 26 mars, a été reporté en raison de conditions météo extrêmes à Marseille. Les deux équipes leaders se disputaient la première place, mais les autorités ont priorisé la sécurité des joueurs et spectateurs. Une nouvelle date sera fixée prochainement par la LFP, avec des enjeux cruciaux pour le titre.",
+      "why": "Ce report crée un suspense inédit en tête de classement, potentiellement décisif pour la course au champion de France.",
       "category": "Football"
     },
     {
-      "title": "Victor Wembanyama offre un titre de division aux Spurs",
-      "summary": "Victor Wembanyama et les San Antonio Spurs ont remporté le titre de champions de la Southwest Division NBA après une victoire convaincante contre le Heat le 23 mars 2026. Le phénomène français a brillé avec 26 points, 15 rebonds et 5 contres en seulement 26 minutes de jeu. C'est le premier titre de division pour la franchise depuis 2016-2017.",
-      "why": "Ce succès inattendu propulse les Spurs dans la course aux playoffs et confirme l'ascension de Wembanyama comme superstar NBA.",
+      "title": "NBA : Warriors renversent les Suns en prolongation",
+      "summary": "Les Golden State Warriors ont arraché une victoire cruciale en prolongation contre les Phoenix Suns le 26 mars, grâce à un Curry en feu avec 45 points. Ce succès relance les Warriors dans la course aux playoffs à l'Ouest, alors que les Suns perdent une occasion de consolider leur position. Le match a battu des records d'audience en prime time.",
+      "why": "Cette remontada inattendue shake-up la conférence Ouest, avec des implications pour les playoffs et les awards individuels.",
       "category": "Basketball"
     },
     {
-      "title": "Quarts de finale aller de la Ligue des champions féminine lancés",
-      "summary": "Les quarts de finale aller de la Ligue des champions féminine de football se sont déroulés les 24 et 25 mars 2026, avec des matchs intenses impliquant des cadors comme Wolfsburg et Lyon. Ces rencontres promettent une phase finale explosive avec des enjeux cruciaux pour la qualification. Les résultats influenceront la dynamique des retours prévus prochainement.",
-      "why": "Cette compétition regroupe les meilleures équipes européennes et détermine le champion d'Europe féminin.",
-      "category": "Football"
-    },
-    {
-      "title": "Théo Atmane réalise l'exploit en dominant un top joueur",
-      "summary": "Le Français Théo Atmane a signé une victoire remarquée en trois sets (6-3, 1-6, 6-3) contre un joueur du top 10 mondial lors d'un tournoi ATP récent. Ce succès marque son troisième top 10 en carrière et témoigne de son potentiel croissant. Atmane continue de progresser sur le circuit principal.",
-      "why": "Cette performance booste la visibilité du tennis français et positionne Atmane comme une révélation à suivre.",
-      "category": "Tennis"
+      "title": "Formule 1 : Verstappen poleman au Grand Prix du Japon",
+      "summary": "Max Verstappen a décroché la pole position lors des qualifications du GP du Japon le 26 mars à Suzuka, devançant Norris de justesse. Red Bull montre une forme étincelante sur ce circuit technique, malgré les progrès de McLaren. La course ce dimanche s'annonce disputée avec des enjeux pour le championnat pilotes et constructeurs.",
+      "why": "Cette pole renforce la domination de Verstappen en début de saison, crucial pour contrer la menace montante de McLaren.",
+      "category": "F1"
     }
   ],
   "updates": []
