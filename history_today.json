@@ -1,33 +1,37 @@
 {
-  "date": "26/03/2026",
+  "date": "28/03/2026",
   "subject": {
-    "name": "Exécution du comte de Horn",
-    "type": "Événement",
-    "period": "1720 · Suède sous la loi du Land",
-    "context": "Le comte Fredrik Sparre de Horn, noble suédois influent, fut impliqué dans un scandale financier majeur connu sous le nom de Système Horn, un réseau de spéculation boursière effrénée inspiré de la bulle spéculative sud-sea en Angleterre. Accusé de corruption et de trahison pour avoir ruiné les finances publiques en favorisant des prêts usuraires et des manipulations monétaires, il fut jugé par un tribunal spécial lors de la Diète de Stockholm. Malgré ses dénégations et l'intervention de proches du roi, le verdict fut sans appel : condamnation à mort par décapitation, exécutée publiquement le 26 mars 1720 devant une foule immense. Cet événement marqua la fin brutale d'une ère de libéralisme économique hasardeux sous Charles XII, révélant les tensions entre aristocratie et bourgeoisie montante.",
+    "name": "Henri Fabre et le premier vol d'hydravion",
+    "type": "Découverte",
+    "period": "1910 · Ère pionnière de l'aviation (début XXe siècle)",
+    "context": "Henri Fabre, ingénieur et aviateur français passionné par l'aéronautique, conçut l'hydravion dans un contexte où les frères Wright venaient de réussir les premiers vols motorisés, mais les appareils terrestres restaient limités par les infrastructures. Le 28 mars 1910, depuis l'étang de Berre près de Marseille, son appareil baptisé Le Canard décolla pour la première fois sur 800 mètres, démontrant la faisabilité des atterrissages et décollages sur l'eau sans roues ni patins. Cette innovation résolvait un problème majeur pour l'exploration maritime et militaire, en rendant les aéronefs indépendants des pistes solides. Peu connu du grand public, Fabre testa son prototype en secret pendant des mois, finançant lui-même les expérimentations malgré les scepticismes des contemporains.",
     "dates": [
       {
-        "year": "1670",
-        "label": "Naissance de Fredrik Sparre de Horn dans une famille noble suédoise"
+        "year": "1882",
+        "label": "Naissance d'Henri Fabre à Marseille, dans une famille d'armateurs"
       },
       {
-        "year": "1718",
-        "label": "Mort de Charles XII ; avènement d'Ulrique Éléonore et début des réformes financières"
+        "year": "1909",
+        "label": "Fabre dépose un brevet pour son système de flotteurs hydrodynamiques"
       },
       {
-        "year": "1719",
-        "label": "Lancement du Système Horn : création de la banque de Stockholm et boom spéculatif"
+        "year": "1910",
+        "label": "Premier vol réussi de l'hydravion Le Canard sur l'étang de Berre"
       },
       {
-        "year": "1720",
-        "label": "Effondrement de la bulle ; arrestation de Horn pour corruption"
+        "year": "1911",
+        "label": "Vente du brevet à une société aéronautique, lançant la production industrielle"
       },
       {
-        "year": "26 mars 1720",
-        "label": "Exécution par décapitation place Stortorget à Stockholm"
+        "year": "1930",
+        "label": "Fabre fonde sa propre entreprise d'hydravions pour la Marine française"
+      },
+      {
+        "year": "1982",
+        "label": "Décès d'Henri Fabre, pionnier oublié de l'hydroaviation"
       }
     ],
-    "legacy": "La loi du Land de 1720, promulguée dans la foulée, instaura un parlementarisme précoce en Suède, limitant le pouvoir royal et favorisant un âge d'or démocratique jusqu'en 1772. Cet épisode influença les débats européens sur la régulation financière et préfigura les crises boursières modernes. Sa postérité perdure dans l'historiographie suédoise comme symbole de la lutte contre l'impunité nobiliaire.",
-    "why": "Cet exécution spectaculaire d'un favori royal démontre comment une bulle spéculière du XVIIIe siècle a enfanté l'un des premiers systèmes parlementaires d'Europe, rappelant que les krachs financiers forgent souvent les démocraties."
+    "legacy": "L'invention de l'hydravion par Fabre posa les bases de l'aviation navale moderne, influençant les porte-avions et les opérations de sauvetage en mer qui sauvent des milliers de vies aujourd'hui. Son principe de flotteurs intégrés se retrouve dans les seaplanes contemporains utilisés pour la surveillance environnementale et le tourisme. Postérieurement, elle contribua à l'essor de l'industrie aéronautique française au XXe siècle.",
+    "why": "Dans un monde obsédé par les vols spatiaux, cette prouesse aquatique rappelle que les vraies révolutions technologiques naissent souvent de solutions simples et audacieuses face aux contraintes du terrain."
   }
 }
