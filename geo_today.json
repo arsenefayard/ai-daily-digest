@@ -1,36 +1,44 @@
 {
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "news": [
     {
-      "title": "L'Iran rejette le plan de paix en 15 points proposé par les États-Unis",
-      "summary": "Téhéran a formellement rejeté le plan de paix en 15 points présenté par Washington, qui exigeait la destruction du programme nucléaire iranien, le transfert des stocks d'uranium enrichi à l'AIEA et la cessation du soutien aux groupes armés proxies. Malgré les annonces de Donald Trump sur des négociations en cours avec des points d'accord majeurs, l'Iran dément et intensifie ses frappes contre Israël et les infrastructures pétrolières des pays voisins du Golfe. Cette escalade risque de prolonger la fermeture du détroit d'Ormuz, menaçant les approvisionnements énergétiques mondiaux.",
-      "why": "Ce rejet complique les efforts diplomatiques de Trump et accentue les tensions au Moyen-Orient, avec des implications directes sur les prix du pétrole et la stabilité régionale.",
+      "title": "Négociations Iran-États-Unis : Trump annonce une pause dans les attaques contre les infrastructures énergétiques iraniennes",
+      "summary": "Le président Donald Trump a ordonné au Département de la Guerre de reporter de cinq jours toutes les attaques contre les centrales électriques et les infrastructures énergétiques iraniennes après avoir annoncé des « discussions très bonnes et productives » avec l'Iran sur une résolution complète des hostilités au Moyen-Orient. Parallèlement, le secrétaire au Trésor Scott Bessent a confirmé que les États-Unis autorisaient le passage des pétroliers iraniens afin de stabiliser l'approvisionnement mondial, révélant une contradiction entre la rhétorique belliqueuse et les nécessités économiques. L'Iran a cependant nié tout contact direct avec les États-Unis, créant une ambiguïté sur l'état réel des négociations.",
+      "why": "Cette annonce marque un tournant potentiel dans l'escalade militaire au Moyen-Orient après un mois de guerre intense, avec des implications majeures pour la stabilité énergétique mondiale et les prix du pétrole.",
       "category": "Diplomatie"
     },
     {
-      "title": "La Hongrie annonce l'arrêt progressif des livraisons de gaz à l'Ukraine",
-      "summary": "Le gouvernement hongrois a déclaré qu'il mettrait fin progressivement aux livraisons de gaz naturel vers Kyiv, dans un contexte de tensions persistantes avec l'Union européenne sur la politique anti-ukrainienne de Budapest. Cette décision s'inscrit dans une série de mesures unilatérales malgré les critiques européennes, aggravant les vulnérabilités énergétiques de l'Ukraine en pleine guerre. Elle souligne les fractures internes au sein de l'UE sur la gestion de la crise russo-ukrainienne.",
-      "why": "Cette mesure affaiblit le front européen uni contre la Russie et expose l'Ukraine à une crise énergétique accrue, influençant les négociations de paix.",
+      "title": "Révélations sur un plan d'élimination conjointe de Khamenei entre Netanyahu et Trump",
+      "summary": "Reuters a révélé que le Premier ministre israélien Benjamin Netanyahu aurait convaincu le président Donald Trump de procéder à l'élimination conjointe du guide suprême iranien Khamenei, marquant une escalade majeure dans les objectifs militaires affichés. Cette information intervient alors que les États-Unis et Israël poursuivent leurs frappes aériennes coordonnées contre des cibles iraniennes, notamment des sites nucléaires comme Natanz. Cette révélation soulève des questions sur la viabilité des négociations diplomatiques annoncées simultanément par Trump.",
+      "why": "Cette escalade potentielle vers un changement de régime en Iran représente un risque majeur de conflagration régionale et mondiale, dépassant largement les objectifs initiaux de la crise du détroit d'Ormuz.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Crise énergétique mondiale : l'Europe fait face à des difficultés d'approvisionnement en carburant dues au blocage du détroit d'Ormuz",
+      "summary": "Le gouvernement français a autorisé les stations-service à vendre un gazole moins résistant au froid à titre exceptionnel, invoquant explicitement les « difficultés exceptionnelles d'approvisionnement rencontrées dans le contexte de la guerre en Iran et du blocage du détroit d'Ormuz ». Cette mesure illustre l'impact économique direct de la crise géopolitique sur les consommateurs européens et la fragilité des chaînes d'approvisionnement énergétique du continent. Le blocage du détroit d'Ormuz, par lequel transite environ 30 % du pétrole mondial, crée des perturbations structurelles dans l'économie mondiale.",
+      "why": "Cette crise énergétique démontre comment la confrontation militaire au Moyen-Orient se traduit en impacts concrets sur la vie quotidienne des Européens et menace la stabilité économique mondiale.",
       "category": "Énergie"
     },
     {
-      "title": "En Algérie, Abdelmadjid Tebboune renforce ses pouvoirs via une révision constitutionnelle",
-      "summary": "Le Parlement algérien a adopté une révision constitutionnelle qui accroît considérablement les pouvoirs du président Abdelmadjid Tebboune, notamment sur les nominations judiciaires et le contrôle des élections. Cette réforme verrouille davantage le régime en place, limitant les contre-pouvoirs dans un pays clé pour l'approvisionnement gazier de l'Europe. Elle intervient dans un contexte de tensions régionales au Maghreb et de dépendance européenne aux hydrocarbures algériens.",
-      "why": "Ce durcissement autoritaire stabilise le régime mais risque d'isoler l'Algérie diplomatiquement, impactant la sécurité énergétique européenne.",
-      "category": "Sécurité"
+      "title": "Élargissement du conflit au-delà de l'Iran : escalade militaire impliquant le Liban et multiplication des fronts",
+      "summary": "Les frappes aériennes israéliennes se sont étendues au Liban, créant une situation où plusieurs conflits se superposent et où l'embrasement n'est plus limité à l'Iran seul. L'Iran a choisi une stratégie d'escalade horizontale, notamment en lançant des drones Shahed contre les positions américaines et alliées, transformant le conflit en une guerre multi-théâtres. Cette expansion géographique du conflit complique considérablement les efforts diplomatiques et augmente les risques d'implication d'autres puissances régionales.",
+      "why": "L'élargissement du conflit à plusieurs fronts régionaux augmente exponentiellement les risques d'une guerre régionale majeure et complique les perspectives de désescalade diplomatique.",
+      "category": "Conflit"
     },
     {
-      "title": "Pascal Canfin appelle l'Europe à adapter sa stratégie énergétique face à la crise d'Ormuz",
-      "summary": "Dans une tribune au Monde, l'eurodéputé Pascal Canfin analyse la fermeture du détroit d'Ormuz comme un test majeur pour l'Europe, plus vulnérable que la Chine à la dépendance aux énergies fossiles. Il plaide pour une révision urgente de la stratégie énergétique européenne afin de réduire cette exposition et renforcer la résilience face aux chocs géopolitiques. L'UE reporte par ailleurs sa proposition d'interdire le pétrole russe, soulignant ses dilemmes internes.",
-      "why": "Cette analyse met en lumière les faiblesses structurelles de l'Europe en matière d'énergie, cruciales dans un contexte de tensions au Moyen-Orient et avec la Russie.",
-      "category": "Énergie"
-    },
-    {
-      "title": "Le Pakistan se positionne comme médiateur potentiel entre États-Unis et Iran",
-      "summary": "Islamabad émerge comme intermédiaire pour d'éventuels pourparlers directs entre Washington et Téhéran, grâce à son traité de défense avec l'Arabie saoudite et les bonnes relations de son chef d'armée Asim Munir avec Donald Trump. Le pays, qui abrite une importante minorité chiite, pourrait faciliter un déblocage diplomatique au Moyen-Orient. Cette initiative survient alors que les négociations directes américano-iraniennes patinent.",
-      "why": "Le rôle du Pakistan pourrait ouvrir une voie diplomatique inattendue, diversifiant les acteurs et potentiellement apaisant les tensions autour du détroit d'Ormuz.",
+      "title": "Tensions diplomatiques au G7 : les États-Unis font pression pour exclure l'Afrique du Sud de la réunion en France",
+      "summary": "Paris s'est résolu à ne pas inviter le président sud-africain Cyril Ramaphosa au G7 en France après des pressions exercées par le président américain Donald Trump, qui accuse Pretoria de persécutions contre les Afrikaners et les fermiers blancs du pays. Cette décision reflète les tensions croissantes entre les États-Unis et l'Afrique du Sud sur les questions de droits de l'homme et de politique intérieure. Cette exclusion illustre comment les tensions géopolitiques actuelles influencent les alliances diplomatiques traditionnelles.",
+      "why": "Cette exclusion diplomatique révèle les fractures au sein des alliances occidentales et l'utilisation de la diplomatie multilatérale comme outil de pression politique par les États-Unis.",
       "category": "Diplomatie"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Appel à la désescalade : la France et les alliés européens intensifient les efforts diplomatiques",
+      "original": "Crise du détroit d'Ormuz et escalade militaire Iran-États-Unis-Israël",
+      "summary": "Face à l'escalade militaire continue, la France organise des réunions diplomatiques à proximité de Paris pour convaincre les acteurs d'une désescalade, avec l'arrivée du chef de la diplomatie américaine Marco Rubio. Les efforts diplomatiques français visent à contrebalancer la rhétorique belliqueuse et à explorer des voies de sortie du conflit, particulièrement en raison des impacts économiques majeurs du blocage du détroit d'Ormuz sur l'Europe. Cette initiative reflète une prise de conscience européenne que la poursuite de l'escalade menace directement les intérêts économiques et sécuritaires du continent.",
+      "why": "L'engagement diplomatique français et européen représente une tentative de créer un contrepoids aux dynamiques d'escalade militaire et de protéger les intérêts énergétiques et économiques européens.",
+      "category": "Diplomatie"
+    }
+  ]
 }
