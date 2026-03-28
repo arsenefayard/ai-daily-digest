@@ -1,35 +1,35 @@
 {
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "news": [
     {
-      "title": "L'Iran intensifie ses frappes au Moyen-Orient malgré les négociations de paix de Trump",
-      "summary": "L'Iran a accru ses attaques militaires dans la région du Moyen-Orient, rejetant le plan de paix en 15 points proposé par les États-Unis sous la présidence Trump. Cette escalade intervient alors que des négociations étaient annoncées, prolongeant l'incertitude géopolitique qui pèse sur les marchés énergétiques mondiaux. Les prix du pétrole Brent restent sous pression à plus de 110 dollars le baril en raison de la fermeture persistante du détroit d'Ormuz.",
-      "why": "Cette intensification risque d'aggraver la crise énergétique mondiale et de relancer l'inflation, impactant directement la croissance économique et les anticipations des banques centrales.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "L'Union européenne reporte sa proposition d'interdire le pétrole russe",
-      "summary": "L'UE a décidé de reporter son projet d'interdiction totale des importations de pétrole russe, face aux tensions accrues au Moyen-Orient et à la dépendance persistante en énergie. Cette mesure vise à éviter une flambée supplémentaire des prix du gaz et du pétrole sur le marché européen. Le TTF européen oscille autour de 60 euros/MWh dans ce contexte volatile.",
-      "why": "Ce report maintient la vulnérabilité énergétique de l'Europe et influence les stratégies des investisseurs sur les commodities, avec des implications sur l'inflation et la politique monétaire de la BCE.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "La Banque de France affiche une plus-value de 12,8 milliards d'euros sur ses réserves d'or",
-      "summary": "La Banque de France a enregistré une plus-value exceptionnelle de 12,8 milliards d'euros sur ses avoirs en or, grâce à la hausse des cours mondiaux du métal précieux. Cette performance renforce la solidité de ses réserves et illustre la stratégie de diversification des banques centrales face aux incertitudes géopolitiques. Les cours de l'or ont toutefois connu une série de baisses récentes, rendant cette plus-value particulièrement opportune.",
-      "why": "Cette plus-value améliore la position financière de la banque centrale française et signale un regain d'intérêt pour l'or comme actif refuge dans un contexte de tensions mondiales.",
+      "title": "UBS suspend les retraits d'un fonds immobilier pour manque de liquidités",
+      "summary": "La banque suisse UBS a suspendu les retraits sur l'un de ses fonds immobiliers en raison d'un manque de liquidités, une mesure prise pour protéger les investisseurs face à la volatilité des marchés immobiliers. Cette décision intervient dans un contexte de tensions géopolitiques et de remontée des taux d'intérêt qui pèsent sur le secteur. Elle souligne les risques de contagion dans le segment des fonds alternatifs.",
+      "why": "Cette suspension ravive les craintes de crise immobilière similaire à celle de 2022 et pourrait entraîner une aversion accrue pour les actifs illiquides.",
       "category": "Banques"
     },
     {
-      "title": "La G7 se réunit en France pour discuter de la crise iranienne et du plan de trêve de Trump",
-      "summary": "Le G7 s'est réuni en France pour aborder l'escalade des tensions avec l'Iran, qui a rejeté le plan de trêve proposé par Trump, et ses répercussions sur l'économie mondiale. Les discussions portent sur des mesures coordonnées pour stabiliser les marchés énergétiques et contrer les pressions inflationnistes. Cette rencontre souligne l'urgence d'une réponse multilatérale à la fermeture du détroit d'Ormuz.",
-      "why": "Les décisions du G7 pourraient influencer les flux commerciaux mondiaux et les politiques budgétaires, avec un impact direct sur la croissance et les taux d'intérêt globaux.",
+      "title": "Vinci acquiert neuf concessions autoroutières à péage en Inde",
+      "summary": "Le groupe français Vinci a annoncé l'acquisition de neuf concessions autoroutières à péage en Inde, renforçant sa présence sur ce marché en forte croissance. Cette opération, d'une valeur non précisée, s'inscrit dans une stratégie d'expansion internationale pour diversifier ses revenus face à la saturation en Europe. Elle illustre l'attractivité des infrastructures émergentes pour les majors européennes.",
+      "why": "Cette acquisition booste les perspectives de croissance de Vinci et met en lumière les opportunités d'investissements dans les infrastructures indiennes.",
+      "category": "Entreprises"
+    },
+    {
+      "title": "Inflation au Royaume-Uni à 2,3% en avril, dépassant les attentes",
+      "summary": "L'inflation annuelle au Royaume-Uni a reculé à 2,3% en avril contre 3,2% en mars, mais a dépassé les prévisions de 2,1%, portée par une inflation des services persistante à 5,9%. Cette donnée repousse les anticipations de baisse des taux de la Banque d'Angleterre à plus tard dans l'année. Les marchés obligataires britanniques ont réagi par une hausse des rendements.",
+      "why": "Ce chiffre inattendu renforce la prudence des investisseurs sur la politique monétaire britannique et impacte les prévisions de croissance.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Scénarios inquiétants de la Banque de France sur inflation, croissance et chômage",
-      "summary": "La Banque de France a publié des scénarios alarmants prévoyant une accélération de l'inflation, un ralentissement de la croissance et une hausse du chômage en cas de prolongation du conflit au Moyen-Orient. Ces projections intègrent l'impact des hausses des prix de l'énergie sur le pouvoir d'achat et l'activité économique en zone euro. La BCE est appelée à ajuster sa palette d'options pour réagir à ces risques.",
-      "why": "Ces prévisions influencent les anticipations des marchés sur les taux directeurs et orientent les stratégies d'investissement vers des actifs plus résilients.",
-      "category": "Politique monétaire"
+      "title": "La Bourse de Paris rechute de 0,98% après trois jours de hausse",
+      "summary": "Le CAC 40 a clôturé en baisse de 0,98% à 8 115 points, marquant une rechute après trois séances de reprise, sous l'effet de l'aversion au risque liée aux tensions au Moyen-Orient. Les valeurs cycliques et le secteur du luxe ont particulièrement souffert, tandis que le pétrole remontait. Les indices européens ont fini en nette baisse globale.",
+      "why": "Cette correction reflète le retour de la prudence géopolitique et pourrait signaler une volatilité accrue sur les marchés actions.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Pernod Ricard et Brown-Forman envisagent une fusion selon des sources",
+      "summary": "Pernod Ricard et Brown-Forman, deux géants des spiritueux, ont tenu des discussions préliminaires sur une possible fusion, d'après des sources proches du dossier. Une telle opération créerait un leader mondial avec un portefeuille premium renforcé, incluant Jack Daniel's et des marques françaises iconiques. Les négociations restent à un stade exploratoire sans accord ferme.",
+      "why": "Une fusion consoliderait le secteur face à la concurrence et aux pressions réglementaires sur l'alcool, avec un impact potentiel sur la valorisation boursière.",
+      "category": "Entreprises"
     }
   ],
   "updates": []
