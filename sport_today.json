@@ -1,36 +1,44 @@
 {
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "news": [
     {
-      "title": "Miami Open : Alcaraz et Swiatek qualifiés pour les demi-finales",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont brillamment remporté leurs quarts de finale au Miami Open ce 26 mars, se qualifiant ainsi pour les demi-finales du tournoi. Alcaraz a dominé son adversaire en trois sets serrés, démontrant une excellente forme physique malgré les conditions humides. Swiatek, de son côté, a surclassé son opposante en deux sets nets, consolidant sa position de favorite. Ces victoires propulsent les deux stars vers un possible duel en finale.",
-      "why": "Ces avancées marquent un tournant dans le tournoi majeur sur dur, avec des implications directes pour le classement ATP et WTA avant Roland-Garros.",
-      "category": "Tennis"
-    },
-    {
-      "title": "Tour de Catalogne : Pogacar s'impose dans la 3e étape au sommet",
-      "summary": "Tadej Pogacar a remporté la 3e étape du Tour de Catalogne le 26 mars, concluant au sprint en altitude devant ses rivaux directs. Cette victoire lui permet de prendre le maillot de leader au général, après une attaque décisive dans les derniers kilomètres. Les favoris comme Evenepoel ont dû céder du terrain, renforçant la domination du Slovène en début de saison.",
-      "why": "Cette performance confirme Pogacar comme le patron des courses par étapes précoces, influençant les paris pour les classiques printanières.",
+      "title": "UFC Fight Night : Adesanya affronte Pyfer à Seattle",
+      "summary": "L'événement UFC Fight Night se déroule ce samedi 28 mars 2026 à la Climate Pledge Arena de Seattle, avec le combat principal opposant Adesanya à Pyfer. Cet affrontement représente un enjeu majeur dans la division des poids moyens, avec des implications directes pour le classement des contendants. L'événement attire l'attention des fans de MMA du monde entier en raison du calibre des combattants engagés.",
+      "why": "Ce combat UFC est un événement de premier plan du week-end sportif, mettant en vedette des athlètes de haut niveau dans une compétition de combat majeure.",
       "category": "Autre"
     },
     {
-      "title": "Ligue 1 : Classico explosif entre OM et PSG reporté pour cause de pluie",
-      "summary": "Le choc de la 28e journée de Ligue 1 entre l'OM et le PSG, prévu le 26 mars, a été reporté en raison de conditions météo extrêmes à Marseille. Les deux équipes leaders se disputaient la première place, mais les autorités ont priorisé la sécurité des joueurs et spectateurs. Une nouvelle date sera fixée prochainement par la LFP, avec des enjeux cruciaux pour le titre.",
-      "why": "Ce report crée un suspense inédit en tête de classement, potentiellement décisif pour la course au champion de France.",
-      "category": "Football"
+      "title": "TOP 14 : La 20e journée se joue ce samedi 28 mars",
+      "summary": "La 20e journée du TOP 14 français se dispute ce samedi 28 mars 2026, avec des matchs décisifs pour la course aux places qualificatives en phase finale. Cette journée intervient à un moment critique de la saison où les équipes cherchent à consolider leur position au classement. Les résultats de cette journée auront des répercussions importantes sur la hiérarchie du rugby français.",
+      "why": "Cette journée de TOP 14 est cruciale pour déterminer les trajectoires des clubs en vue des phases finales du championnat de France.",
+      "category": "Rugby"
     },
     {
-      "title": "NBA : Warriors renversent les Suns en prolongation",
-      "summary": "Les Golden State Warriors ont arraché une victoire cruciale en prolongation contre les Phoenix Suns le 26 mars, grâce à un Curry en feu avec 45 points. Ce succès relance les Warriors dans la course aux playoffs à l'Ouest, alors que les Suns perdent une occasion de consolider leur position. Le match a battu des records d'audience en prime time.",
-      "why": "Cette remontada inattendue shake-up la conférence Ouest, avec des implications pour les playoffs et les awards individuels.",
+      "title": "Betclic Elite : La 24e journée de basket français en cours",
+      "summary": "La 24e journée de la Betclic Elite, le championnat français de basketball professionnel, se déroule ce samedi 28 mars 2026. Cette journée intervient dans la phase décisive de la saison régulière où les équipes se battent pour les meilleures positions en vue des playoffs. Les enjeux sont importants pour les clubs qui cherchent à sécuriser leur qualification aux phases finales.",
+      "why": "Cette journée de Betclic Elite est significative pour la course aux playoffs du basketball français, avec des implications directes sur les seedings finaux.",
       "category": "Basketball"
     },
     {
-      "title": "Formule 1 : Verstappen poleman au Grand Prix du Japon",
-      "summary": "Max Verstappen a décroché la pole position lors des qualifications du GP du Japon le 26 mars à Suzuka, devançant Norris de justesse. Red Bull montre une forme étincelante sur ce circuit technique, malgré les progrès de McLaren. La course ce dimanche s'annonce disputée avec des enjeux pour le championnat pilotes et constructeurs.",
-      "why": "Cette pole renforce la domination de Verstappen en début de saison, crucial pour contrer la menace montante de McLaren.",
+      "title": "Harlem Globetrotters : Spectacle de basketball à l'Accor Arena pour les 100 ans",
+      "summary": "Les légendaires Harlem Globetrotters font leur grand retour à Paris les 28 et 29 mars 2026 à l'Accor Arena pour célébrer leur 100e anniversaire. Ce spectacle unique conjugue basketball de haut niveau, humour et acrobaties impressionnantes, offrant une expérience divertissante aux spectateurs parisiens. Cet événement marque une étape importante dans l'histoire centenaire de cette institution du basketball mondial.",
+      "why": "Cet événement est un moment historique célébrant un siècle d'excellence et d'innovation du basketball spectaculaire, attirant les fans de tous les âges.",
+      "category": "Basketball"
+    },
+    {
+      "title": "Grand Prix du Japon de Formule 1 : Verstappen en pole position à Suzuka",
+      "summary": "Le Grand Prix du Japon de Formule 1 se déroule le 27-29 mars 2026 à Suzuka, avec Max Verstappen en pole position selon les essais libres du vendredi 27 mars. Ce circuit légendaire est l'un des plus exigeants du calendrier F1, demandant une maîtrise technique exceptionnelle des pilotes. La domination de Verstappen en qualifications suggère une course compétitive où Red Bull cherchera à consolider sa position au championnat.",
+      "why": "Ce Grand Prix est un événement majeur du calendrier F1 sur l'un des circuits les plus prestigieux, avec des enjeux importants pour le championnat mondial.",
       "category": "F1"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Miami Open : Alcaraz et Swiatek en demi-finales",
+      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les quarts de finale",
+      "summary": "Carlos Alcaraz et Iga Swiatek ont progressé au-delà des quarts de finale du Miami Open et se sont qualifiés pour les demi-finales du tournoi. Cette avancée confirme la domination des deux joueurs dans ce Masters 1000 prestigieux. Les deux champions sont désormais à deux victoires de remporter le titre à Miami.",
+      "why": "Cette progression des deux têtes de série est significative car elle les rapproche du titre du Miami Open, l'un des plus importants tournois de la saison.",
+      "category": "Tennis"
+    }
+  ]
 }
