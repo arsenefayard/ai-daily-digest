@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Les Romains utilisaient les chèvres pour torturer par chatouilles",
-      "Le logo de Nike a été acheté pour seulement 35 dollars",
-      "Pompei abritait déjà des restaurants à emporter",
-      "Une tablette sumérienne de 5000 ans contient une recette de bière",
-      "Les lapins détectent la mort de leurs proches dans les excréments des prédateurs"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
       "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
       "Le mot 'sandwich' tire son origine d'un aristocrate anglais du XVIIIe siècle",
@@ -67,6 +57,16 @@
       "Jésus-Christ est né avant l'invention du calendrier qui le désigne",
       "Les Malgaches descendent de femmes venues d'Indonésie il y a 1200 ans",
       "On parle plus de 7000 langues dans le monde aujourd'hui"
+    ]
+  },
+  {
+    "date": "28/03/2026",
+    "titles": [
+      "Les carottes étaient originellement blanches",
+      "Le fromage est l’aliment le plus volé au monde",
+      "Les Trois Petits Cochons enseignent la persévérance dès le XVIIIe siècle",
+      "Les 7000 langues parlées dans le monde aujourd’hui",
+      "La plus ancienne peinture connue représente un cochon en Indonésie"
     ]
   }
 ]
