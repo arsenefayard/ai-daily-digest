@@ -1,44 +1,36 @@
 {
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "news": [
     {
-      "title": "Découverte d'une 29e lune autour d'Uranus",
-      "summary": "Les astronomes ont identifié une nouvelle lune orbitant autour d'Uranus, portant le nombre total de satellites connus de cette planète de 28 à 29. Cette découverte, rendue possible par les nouvelles données des télescopes spatiaux et des sondes interplanétaires en 2026, confirme que le système uranien est bien plus riche en objets célestes que les observations précédentes ne l'indiquaient. Cette trouvaille s'inscrit dans une meilleure compréhension de la structure et de la dynamique des systèmes planétaires géants.",
-      "why": "Cette découverte élargit notre connaissance des systèmes planétaires et démontre que les télescopes modernes continuent de révéler des objets célestes jusque-là cachés, améliorant notre compréhension de l'architecture du système solaire.",
+      "title": "Première mondiale : le Cern transporte de l'antimatière",
+      "summary": "Une équipe du Cern a réussi pour la première fois à transporter de l'antimatière sur une distance significative sans qu'elle s'annihile au contact de la matière ordinaire. Cette avancée repose sur un nouveau système de pièges magnétiques avancés qui maintiennent les atomes d'antihydrogène en lévitation et en mouvement contrôlé. Les implications concernent potentiellement le stockage et l'utilisation future de l'antimatière dans des expériences de physique fondamentale ou même des applications énergétiques.",
+      "why": "Cette prouesse technique ouvre la voie à des manipulations plus complexes de l'antimatière, essentielle pour tester les symétries fondamentales de l'Univers et comprendre pourquoi il est dominé par la matière.",
+      "category": "Physique"
+    },
+    {
+      "title": "Un excès de courant efface la mémoire des supraconducteurs",
+      "summary": "Des physiciens ont découvert qu'un excès de courant électrique dans des supraconducteurs provoque l'effacement instantané de la mémoire quantique stockée dans ces matériaux. Cette observation, obtenue via des mesures précises sur des jonctions Josephson, révèle un mécanisme de décohérence lié à la dynamique des quasiparticules. Elle contraint les designs de futurs ordinateurs quantiques hybrides utilisant la supraconductivité.",
+      "why": "Cette découverte identifie une limite critique pour les technologies quantiques, guidant les ingénieurs vers des matériaux et protocoles plus robustes pour la mémoire à long terme.",
+      "category": "Physique"
+    },
+    {
+      "title": "Observation directe de deux planètes en formation autour d'une étoile jeune",
+      "summary": "Des astronomes ont imagé directement deux protoplanètes en pleine formation autour du système WISPIT 2, une étoile de seulement 5 millions d'années. Utilisant des télescopes infrarouges de pointe, ils ont capturé les disques de poussière et gaz en train de s'accumuler pour former ces mondes. Ce système offre un aperçu rare des étapes initiales de la formation planétaire, potentiellement similaire à celle du Système solaire primitif.",
+      "why": "Elle fournit des données observationnelles inédites sur la naissance des planètes, affinant les modèles théoriques et les prédictions sur l'émergence de systèmes habitables.",
       "category": "Espace"
     },
     {
-      "title": "Détection de molécules organiques complexes dans l'astéroïde Bennu",
-      "summary": "Les analyses des échantillons prélevés sur l'astéroïde Bennu ont révélé la présence de nucléobases, les briques élémentaires de l'ARN, ainsi que du glucose, un sucre fondamental qui alimente les réactions métaboliques chez les êtres vivants. Les scientifiques ont détaillé la répartition exacte de ces molécules organiques et évalué leur stabilité en les comparant à d'autres échantillons d'astéroïdes et de météorites tombées sur Terre. Cette découverte indique que Bennu renferme non seulement les éléments de base pour la constitution de la vie, mais aussi des composés organiques complexes.",
-      "why": "Cette trouvaille renforce l'hypothèse que les astéroïdes ont pu transporter les précurseurs chimiques de la vie vers la Terre primitive, ouvrant de nouvelles perspectives sur l'origine de la vie et la panspermie.",
-      "category": "Chimie"
-    },
-    {
-      "title": "Rajeunissement de propriétés de cellules souches âgées",
-      "summary": "Des scientifiques ont réussi à rétablir certaines propriétés caractéristiques des cellules souches jeunes chez des cellules souches âgées, marquant une avancée significative en biologie du vieillissement. Cette technique ouvre des perspectives prometteuses pour régénérer les tissus endommagés et combattre les effets du vieillissement cellulaire. Les résultats suggèrent qu'il est possible d'inverser partiellement le processus de sénescence cellulaire.",
-      "why": "Cette avancée pourrait révolutionner la médecine régénérative et les traitements anti-âge, offrant de nouveaux espoirs pour traiter les maladies liées au vieillissement et prolonger la qualité de vie.",
+      "title": "Effondrement mutationnel : limite au clonage indéfini des mammifères",
+      "summary": "Des biologistes ont démontré qu'un 'effondrement mutationnel' survient après quelques générations de clonage chez les mammifères, accumulant des erreurs génétiques irréparables. L'étude, menée sur des lignées clonées de souris, montre une dégradation rapide de la viabilité cellulaire due à des instabilités épigénétiques. Cela explique les échecs répétés du clonage à grande échelle chez les grands mammifères.",
+      "why": "Cette limite biologique freine les avancées en médecine régénérative et en préservation d'espèces, mais oriente vers des thérapies géniques alternatives plus viables.",
       "category": "Biologie"
     },
     {
-      "title": "Cartographie 3D de la lumière cachée entre les galaxies",
-      "summary": "Les astrophysiciens ont créé une carte tridimensionnelle détaillée de la lumière diffuse présente dans l'espace intergalactique, révélant la distribution de la matière et de l'énergie entre les galaxies. Cette cartographie, rendue possible par les données des télescopes spatiaux modernes, permet de mieux comprendre la structure à grande échelle de l'univers et la distribution de la matière noire. Cette visualisation offre une nouvelle perspective sur la géométrie et la composition de l'univers observable.",
-      "why": "Cette cartographie améliore notre compréhension de la structure cosmique et de la distribution de la matière dans l'univers, contribuant à valider ou affiner les modèles cosmologiques actuels.",
-      "category": "Astrophysique"
-    },
-    {
-      "title": "Identification d'un mécanisme viral de transport : le « cheval de Troie » des deltavirus",
-      "summary": "Les virologues ont découvert comment un virus peut en transporter un autre, utilisant un mécanisme comparable au cheval de Troie de la mythologie grecque. Ce phénomène, observé chez les deltavirus, révèle une stratégie de parasitisme viral où un virus exploite les mécanismes de transmission d'un autre virus pour se propager. Cette découverte améliore la compréhension des interactions complexes entre virus et ouvre de nouvelles questions sur l'évolution virale.",
-      "why": "Cette découverte a des implications importantes pour la virologie et la santé publique, car elle révèle des mécanismes de transmission virale jusqu'alors méconnus et pourrait influencer les stratégies de prévention des maladies infectieuses.",
-      "category": "Biologie"
+      "title": "Troisième nuage de gaz détecté près du trou noir supermassif de la Voie lactée",
+      "summary": "Des observations télescopiques ont révélé un troisième nuage de gaz dense orbitant à proximité du trou noir supermassif Sagittarius A* au centre de notre galaxie. Ce nuage, plus compact que les précédents, montre des signes de disruption gravitationnelle et pourrait être sur le point de plonger dans le trou noir. Les données confirment une dynamique galactique plus active que prévu autour de ce monstre cosmique.",
+      "why": "Cette détection enrichit la compréhension des interactions matière-trou noir, testant les théories de la relativité générale dans des conditions extrêmes.",
+      "category": "Espace"
     }
   ],
-  "updates": [
-    {
-      "title": "Fusion nucléaire contrôlée : l'EAST atteint un régime permanent à cent millions de degrés",
-      "original": "Spintronique et innovations en science des matériaux (23/03/2026)",
-      "summary": "L'installation EAST (Experimental Advanced Superconducting Tokamak) en Chine a atteint un fonctionnement en régime permanent à cent millions de degrés Celsius, marquant une étape cruciale vers la maîtrise de la fusion nucléaire contrôlée. Cette réussite, reconnue comme l'une des dix principales avancées scientifiques chinoises de 2025, démontre que le maintien stable du plasma à des températures extrêmes est techniquement réalisable. Ce progrès rapproche significativement la possibilité d'une source d'énergie de fusion nucléaire viable à l'échelle industrielle.",
-      "why": "Cette avancée représente un tournant majeur dans la quête d'une énergie propre et inépuisable, confirmant que la fusion nucléaire contrôlée n'est plus un rêve lointain mais une réalité technologique en cours de maturation.",
-      "category": "Physique"
-    }
-  ]
+  "updates": []
 }
