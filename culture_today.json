@@ -1,35 +1,35 @@
 {
-  "date": "27/03/2026",
+  "date": "28/03/2026",
   "news": [
     {
-      "title": "La plus ancienne peinture connue date de plus de 51 200 ans",
-      "summary": "Découverte dans une grotte indonésienne, cette peinture rupestre représente trois personnes et un cochon, datant de plus de 51 200 ans. Elle repousse les origines de l'art humain bien au-delà des estimations précédentes, qui se situaient autour de 44 000 ans pour une œuvre similaire sur l'île de Sulawesi. Cette trouvaille illustre la précocité de la créativité artistique chez nos ancêtres.",
-      "why": "Elle révolutionne notre compréhension des capacités cognitives des premiers humains et de l'émergence universelle de l'expression artistique.",
-      "category": "Histoire"
+      "title": "Les carottes étaient originellement blanches",
+      "summary": "Les carottes sauvages, apparues il y a environ 5 000 ans en Europe, étaient à l'origine blanches ou jaunes pâles. Les agriculteurs ont progressivement sélectionné des variétés violettes, puis orange au XVIe siècle, en hommage à la maison de Nassau. Cette évolution a donné la carotte orange moderne que nous consommons aujourd'hui.",
+      "why": "Ce fait illustre comment la sélection humaine a transformé les aliments au fil des siècles, influençant notre alimentation quotidienne.",
+      "category": "Science pop"
     },
     {
-      "title": "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
-      "summary": "À l'époque romaine, certaines femmes riches collectionnaient la sueur de leurs gladiateurs préférés après les combats pour en faire un parfum ou une crème cosmétique. Cette pratique étrange reflétait l'admiration pour la force et la virilité des combattants d'arène. Elle met en lumière les codes sociaux et les standards de beauté de l'Antiquité.",
-      "why": "Cette anecdote révèle les aspects les plus inattendus des mœurs romaines et questionne nos perceptions modernes de l'hygiène et de l'esthétique.",
+      "title": "Le fromage est l’aliment le plus volé au monde",
+      "summary": "Malgré sa banalité, le fromage détient le record mondial des vols dans les supermarchés et entrepôts, surpassant même les produits high-tech. Ce phénomène s'explique par sa valeur élevée, sa facilité de revente et sa demande constante sur le marché noir. Les fromageries européennes en sont particulièrement touchées.",
+      "why": "Il révèle des dynamiques économiques inattendues dans l'industrie agroalimentaire et les comportements criminels quotidiens.",
       "category": "Insolite"
     },
     {
-      "title": "Jésus-Christ est né avant l'invention du calendrier qui le désigne",
-      "summary": "Le calendrier grégorien, qui compte les années 'avant' et 'après' Jésus-Christ, a été établi des siècles après sa naissance supposée vers 4 à 6 av. J.-C. Ainsi, Jésus est techniquement né 'avant Jésus-Christ' selon cette convention. Cette paradoxe historique provient d'erreurs de calcul lors de la création du système diocésien par Denys le Petit au VIe siècle.",
-      "why": "Ce fait insolite souligne les imperfections des conventions historiques et invite à une réflexion sur la précision des repères temporels.",
-      "category": "Histoire"
+      "title": "Les Trois Petits Cochons enseignent la persévérance dès le XVIIIe siècle",
+      "summary": "Ce conte populaire, transmis oralement au XVIIIe siècle avant d'être publié, raconte comment trois porcelets construisent des maisons de paille, de bois et de brique face au loup. Seule la maison solide résiste, symbolisant l'importance du travail durable. Adapté dans de nombreuses cultures, il éduque les enfants à la résilience.",
+      "why": "Il montre comment les contes traditionnels transmettent des leçons morales intemporelles sur l'effort et la prévoyance.",
+      "category": "Littérature"
     },
     {
-      "title": "Les Malgaches descendent de femmes venues d'Indonésie il y a 1200 ans",
-      "summary": "Des analyses ADN révèlent que les Malgaches actuels proviennent en grande partie d'un groupe de femmes arrivées d'Indonésie il y a environ 1200 ans, qui se sont mélangées aux populations africaines locales. Cette migration transocéanique, couvrant plus de 7000 kilomètres, témoigne d'exploits maritimes anciens et oubliés. Elle explique la diversité linguistique et culturelle unique de Madagascar.",
-      "why": "Cette découverte réécrit l'histoire des migrations humaines et met en évidence les connexions inattendues entre l'Asie du Sud-Est et l'Afrique.",
-      "category": "Géographie"
-    },
-    {
-      "title": "On parle plus de 7000 langues dans le monde aujourd'hui",
-      "summary": "Le monde compte actuellement plus de 7000 langues distinctes, dont beaucoup sont parlées par moins de 1000 personnes et risquent de disparaître. Cette diversité linguistique reflète l'histoire fragmentée des populations humaines et leurs adaptations locales. La majorité de ces langues se concentrent en Asie, en Afrique et en Océanie.",
-      "why": "Cette richesse linguistique est un trésor culturel en péril, soulignant l'urgence de la préservation face à la mondialisation.",
+      "title": "Les 7000 langues parlées dans le monde aujourd’hui",
+      "summary": "La planète compte plus de 7 000 langues actives, dont beaucoup sont parlées par moins de 1 000 personnes et risquent de disparaître. Cette diversité linguistique reflète l'histoire migratoire et culturelle de l'humanité. Des efforts de préservation visent à documenter ces langues avant leur extinction.",
+      "why": "Cette richesse linguistique est un trésor culturel menacé, soulignant l'urgence de la sauvegarde du patrimoine immatériel.",
       "category": "Linguistique"
+    },
+    {
+      "title": "La plus ancienne peinture connue représente un cochon en Indonésie",
+      "summary": "Une œuvre datant de plus de 51 200 ans, découverte dans une grotte indonésienne, dépeint trois figures humaines et un cochon sauvage. Elle témoigne d'un art rupestre sophistiqué bien avant les peintures européennes célèbres. Cette découverte repousse les origines de l'expression artistique humaine.",
+      "why": "Elle révolutionne notre compréhension des capacités cognitives des premiers humains et de la diffusion précoce de l'art.",
+      "category": "Histoire"
     }
   ],
   "updates": []
