@@ -4,16 +4,6 @@
     "titles": [
       "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
       "Confiance des consommateurs en zone euro montre des signes de redressement",
-      "Rapport EQT AB met en lumière la performance des investissements alternatifs",
-      "Nasdaq grimpe grâce à la poussée des technos et de l'intelligence artificielle",
-      "Scénarios de la BCE sur l'impact d'un conflit prolongé en Iran"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
-      "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
-      "Confiance des consommateurs en zone euro montre des signes de redressement",
       "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
       "Micron inaugure un second site de production de puces à Taïwan",
       "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier"
@@ -67,6 +57,16 @@
       "La Banque de France affiche une plus-value de 12,8 milliards d'euros sur ses réserves d'or",
       "La G7 se réunit en France pour discuter de la crise iranienne et du plan de trêve de Trump",
       "Scénarios inquiétants de la Banque de France sur inflation, croissance et chômage"
+    ]
+  },
+  {
+    "date": "28/03/2026",
+    "titles": [
+      "UBS suspend les retraits d'un fonds immobilier pour manque de liquidités",
+      "Vinci acquiert neuf concessions autoroutières à péage en Inde",
+      "Inflation au Royaume-Uni à 2,3% en avril, dépassant les attentes",
+      "La Bourse de Paris rechute de 0,98% après trois jours de hausse",
+      "Pernod Ricard et Brown-Forman envisagent une fusion selon des sources"
     ]
   }
 ]
