@@ -1,44 +1,36 @@
 {
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "news": [
     {
-      "title": "UFC Fight Night : Adesanya affronte Pyfer à Seattle",
-      "summary": "L'événement UFC Fight Night se déroule ce samedi 28 mars 2026 à la Climate Pledge Arena de Seattle, avec le combat principal opposant Adesanya à Pyfer. Cet affrontement représente un enjeu majeur dans la division des poids moyens, avec des implications directes pour le classement des contendants. L'événement attire l'attention des fans de MMA du monde entier en raison du calibre des combattants engagés.",
-      "why": "Ce combat UFC est un événement de premier plan du week-end sportif, mettant en vedette des athlètes de haut niveau dans une compétition de combat majeure.",
+      "title": "Championnats du monde de patinage artistique : finale en cours en République Tchèque",
+      "summary": "Les championnats du monde de patinage artistique se déroulent du 25 au 29 mars 2026 en République Tchèque, avec les finales individuelles et par équipes prévues ce dimanche. Les patineurs français comme Siao Him Fa visent un podium après des performances prometteuses en qualifications. Cet événement réunit les meilleurs mondiaux et clôture une saison intense avant les JO d'hiver.",
+      "why": "C'est un rendez-vous majeur du patinage qui couronne les champions mondiaux et influence les classements olympiques.",
       "category": "Autre"
     },
     {
-      "title": "TOP 14 : La 20e journée se joue ce samedi 28 mars",
-      "summary": "La 20e journée du TOP 14 français se dispute ce samedi 28 mars 2026, avec des matchs décisifs pour la course aux places qualificatives en phase finale. Cette journée intervient à un moment critique de la saison où les équipes cherchent à consolider leur position au classement. Les résultats de cette journée auront des répercussions importantes sur la hiérarchie du rugby français.",
-      "why": "Cette journée de TOP 14 est cruciale pour déterminer les trajectoires des clubs en vue des phases finales du championnat de France.",
+      "title": "Coupe du monde de natation artistique à Paris : premières médailles décernées",
+      "summary": "La Coupe du monde de natation artistique débute ce week-end du 27 au 29 mars 2026 à Paris, avec des épreuves de duos et d'équipes qui ont déjà livré des résultats intenses. Les athlètes français espèrent briller à domicile face à la concurrence internationale. Cette compétition ouvre le calendrier aquatique 2026 sous l'égide d'Eurovision Sport.",
+      "why": "Elle lance la saison mondiale des sports aquatiques et offre une visibilité cruciale aux nations candidates aux JO.",
+      "category": "Autre"
+    },
+    {
+      "title": "Miami Open : demi-finales explosives avec Alcaraz et Swiatek en lice",
+      "summary": "Au Miami Open, Carlos Alcaraz et Iga Swiatek se préparent pour les demi-finales après leurs victoires en quarts de finale ces derniers jours. Les conditions climatiques ont enfin permis un programme complet, avec des matches intenses contre des adversaires redoutables. Ce Masters 1000 approche de son dénouement avec des enjeux de classement ATP et WTA majeurs.",
+      "why": "Les demi-finales déterminent les finalistes d'un tournoi prestigieux et boostent les leaders du tennis mondial.",
+      "category": "Tennis"
+    },
+    {
+      "title": "UFC Fight Night : Adesanya bat Pyfer dans un combat spectaculaire à Seattle",
+      "summary": "Lors de l'UFC Fight Night du 28 mars 2026 à Seattle, Israel Adesanya a dominé Joe Pyfer par décision unanime dans le main event, confirmant son retour en force. Ce choc en poids moyens a offert des échanges techniques et violents devant une arène comble. Adesanya renforce ainsi sa position pour un title shot futur.",
+      "why": "La victoire d'Adesanya, ex-champion, redessine la hiérarchie des moyens et hype les prochaines cartes UFC.",
+      "category": "Autre"
+    },
+    {
+      "title": "TOP 14 : Résultats décisifs de la 20e journée avec des chocs au sommet",
+      "summary": "La 20e journée du TOP 14 s'est jouée le 28 mars 2026, avec des victoires cruciales pour Montpellier et le Racing 92 qui consolident leurs places en playoffs. Des matchs tendus ont vu des upsets et des bonus défensifs changer la course au titre. Cette journée renforce la concurrence derrière Toulouse leader.",
+      "why": "Elle définit les prétendants aux phases finales et intensifie la bataille pour le Bouclier de Brennus.",
       "category": "Rugby"
-    },
-    {
-      "title": "Betclic Elite : La 24e journée de basket français en cours",
-      "summary": "La 24e journée de la Betclic Elite, le championnat français de basketball professionnel, se déroule ce samedi 28 mars 2026. Cette journée intervient dans la phase décisive de la saison régulière où les équipes se battent pour les meilleures positions en vue des playoffs. Les enjeux sont importants pour les clubs qui cherchent à sécuriser leur qualification aux phases finales.",
-      "why": "Cette journée de Betclic Elite est significative pour la course aux playoffs du basketball français, avec des implications directes sur les seedings finaux.",
-      "category": "Basketball"
-    },
-    {
-      "title": "Harlem Globetrotters : Spectacle de basketball à l'Accor Arena pour les 100 ans",
-      "summary": "Les légendaires Harlem Globetrotters font leur grand retour à Paris les 28 et 29 mars 2026 à l'Accor Arena pour célébrer leur 100e anniversaire. Ce spectacle unique conjugue basketball de haut niveau, humour et acrobaties impressionnantes, offrant une expérience divertissante aux spectateurs parisiens. Cet événement marque une étape importante dans l'histoire centenaire de cette institution du basketball mondial.",
-      "why": "Cet événement est un moment historique célébrant un siècle d'excellence et d'innovation du basketball spectaculaire, attirant les fans de tous les âges.",
-      "category": "Basketball"
-    },
-    {
-      "title": "Grand Prix du Japon de Formule 1 : Verstappen en pole position à Suzuka",
-      "summary": "Le Grand Prix du Japon de Formule 1 se déroule le 27-29 mars 2026 à Suzuka, avec Max Verstappen en pole position selon les essais libres du vendredi 27 mars. Ce circuit légendaire est l'un des plus exigeants du calendrier F1, demandant une maîtrise technique exceptionnelle des pilotes. La domination de Verstappen en qualifications suggère une course compétitive où Red Bull cherchera à consolider sa position au championnat.",
-      "why": "Ce Grand Prix est un événement majeur du calendrier F1 sur l'un des circuits les plus prestigieux, avec des enjeux importants pour le championnat mondial.",
-      "category": "F1"
     }
   ],
-  "updates": [
-    {
-      "title": "Miami Open : Alcaraz et Swiatek en demi-finales",
-      "original": "Miami Open : Alcaraz et Swiatek qualifiés pour les quarts de finale",
-      "summary": "Carlos Alcaraz et Iga Swiatek ont progressé au-delà des quarts de finale du Miami Open et se sont qualifiés pour les demi-finales du tournoi. Cette avancée confirme la domination des deux joueurs dans ce Masters 1000 prestigieux. Les deux champions sont désormais à deux victoires de remporter le titre à Miami.",
-      "why": "Cette progression des deux têtes de série est significative car elle les rapproche du titre du Miami Open, l'un des plus importants tournois de la saison.",
-      "category": "Tennis"
-    }
-  ]
+  "updates": []
 }
