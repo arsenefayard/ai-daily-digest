@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Nvidia dévoile de nouvelles puces et logiciels IA à sa conférence annuelle des développeurs",
-      "Meta prévoit de réduire ses effectifs de 20% pour financer ses investissements massifs en IA",
-      "Sénatrice française Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
-      "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
-      "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA, doublant en deux ans"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
       "Sénatrice Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
       "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA générative, doublant en deux ans",
@@ -70,6 +60,16 @@
       "Explosion de nouveaux outils IA en mars 2026 : plus de 60 solutions innovantes lancées",
       "2026 marque le tournant de l'application concrète de l'AI Act et de l'industrialisation des solutions deeptech",
       "Agents IA autonomes : passage de la théorie à la pratique opérationnelle"
+    ]
+  },
+  {
+    "date": "29/03/2026",
+    "titles": [
+      "OpenAI lance GPT-5.4, premier modèle capable de contrôler nativement un ordinateur",
+      "DeepSeek dévoile V4, modèle multimodal chinois de 1000 milliards de paramètres",
+      "Mistral et DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
+      "Oregon adopte la première loi américaine sur les chatbots IA",
+      "Anthropic met à jour Claude Code v2.1.68 avec Opus 4.6 et Memory gratuit"
     ]
   }
 ]
