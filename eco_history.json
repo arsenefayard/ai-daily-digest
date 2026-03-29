@@ -2,16 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Indice Chicago Fed et dépenses de construction aux États-Unis surpassent les attentes",
-      "Confiance des consommateurs en zone euro montre des signes de redressement",
-      "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
-      "Micron inaugure un second site de production de puces à Taïwan",
-      "Retour de l'électricité à Cuba après une panne totale due à l'embargo pétrolier"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "L'indice Chicago Fed et les dépenses de construction aux États-Unis surpassent les attentes",
       "La confiance des consommateurs en zone euro montre des signes de redressement",
       "Rapport EQT AB met en lumière la performance des investissements alternatifs",
@@ -67,6 +57,16 @@
       "Inflation au Royaume-Uni à 2,3% en avril, dépassant les attentes",
       "La Bourse de Paris rechute de 0,98% après trois jours de hausse",
       "Pernod Ricard et Brown-Forman envisagent une fusion selon des sources"
+    ]
+  },
+  {
+    "date": "29/03/2026",
+    "titles": [
+      "La Chine lance deux enquêtes commerciales contre les États-Unis",
+      "Producteurs du Moyen-Orient libèrent des réserves de pétrole au Japon",
+      "Prix du pétrole pourrait atteindre 200 USD/baril si conflit persiste",
+      "Indice de confiance des consommateurs Michigan publié aux États-Unis",
+      "Arcep encadre économiquement les réseaux fibre optique en France"
     ]
   }
 ]
