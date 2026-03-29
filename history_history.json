@@ -1,10 +1,6 @@
 [
   {
     "date": "12/03/2026",
-    "subject": "Mathieu Orfila"
-  },
-  {
-    "date": "12/03/2026",
     "subject": "Marche du Sel"
   },
   {
@@ -118,5 +114,9 @@
   {
     "date": "28/03/2026",
     "subject": "Henri Fabre et le premier vol d'hydravion"
+  },
+  {
+    "date": "29/03/2026",
+    "subject": "Nicolas de Condorcet"
   }
 ]
