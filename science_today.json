@@ -1,36 +1,5 @@
 {
-  "date": "28/03/2026",
-  "news": [
-    {
-      "title": "Première mondiale : le Cern transporte de l'antimatière",
-      "summary": "Une équipe du Cern a réussi pour la première fois à transporter de l'antimatière sur une distance significative sans qu'elle s'annihile au contact de la matière ordinaire. Cette avancée repose sur un nouveau système de pièges magnétiques avancés qui maintiennent les atomes d'antihydrogène en lévitation et en mouvement contrôlé. Les implications concernent potentiellement le stockage et l'utilisation future de l'antimatière dans des expériences de physique fondamentale ou même des applications énergétiques.",
-      "why": "Cette prouesse technique ouvre la voie à des manipulations plus complexes de l'antimatière, essentielle pour tester les symétries fondamentales de l'Univers et comprendre pourquoi il est dominé par la matière.",
-      "category": "Physique"
-    },
-    {
-      "title": "Un excès de courant efface la mémoire des supraconducteurs",
-      "summary": "Des physiciens ont découvert qu'un excès de courant électrique dans des supraconducteurs provoque l'effacement instantané de la mémoire quantique stockée dans ces matériaux. Cette observation, obtenue via des mesures précises sur des jonctions Josephson, révèle un mécanisme de décohérence lié à la dynamique des quasiparticules. Elle contraint les designs de futurs ordinateurs quantiques hybrides utilisant la supraconductivité.",
-      "why": "Cette découverte identifie une limite critique pour les technologies quantiques, guidant les ingénieurs vers des matériaux et protocoles plus robustes pour la mémoire à long terme.",
-      "category": "Physique"
-    },
-    {
-      "title": "Observation directe de deux planètes en formation autour d'une étoile jeune",
-      "summary": "Des astronomes ont imagé directement deux protoplanètes en pleine formation autour du système WISPIT 2, une étoile de seulement 5 millions d'années. Utilisant des télescopes infrarouges de pointe, ils ont capturé les disques de poussière et gaz en train de s'accumuler pour former ces mondes. Ce système offre un aperçu rare des étapes initiales de la formation planétaire, potentiellement similaire à celle du Système solaire primitif.",
-      "why": "Elle fournit des données observationnelles inédites sur la naissance des planètes, affinant les modèles théoriques et les prédictions sur l'émergence de systèmes habitables.",
-      "category": "Espace"
-    },
-    {
-      "title": "Effondrement mutationnel : limite au clonage indéfini des mammifères",
-      "summary": "Des biologistes ont démontré qu'un 'effondrement mutationnel' survient après quelques générations de clonage chez les mammifères, accumulant des erreurs génétiques irréparables. L'étude, menée sur des lignées clonées de souris, montre une dégradation rapide de la viabilité cellulaire due à des instabilités épigénétiques. Cela explique les échecs répétés du clonage à grande échelle chez les grands mammifères.",
-      "why": "Cette limite biologique freine les avancées en médecine régénérative et en préservation d'espèces, mais oriente vers des thérapies géniques alternatives plus viables.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Troisième nuage de gaz détecté près du trou noir supermassif de la Voie lactée",
-      "summary": "Des observations télescopiques ont révélé un troisième nuage de gaz dense orbitant à proximité du trou noir supermassif Sagittarius A* au centre de notre galaxie. Ce nuage, plus compact que les précédents, montre des signes de disruption gravitationnelle et pourrait être sur le point de plonger dans le trou noir. Les données confirment une dynamique galactique plus active que prévu autour de ce monstre cosmique.",
-      "why": "Cette détection enrichit la compréhension des interactions matière-trou noir, testant les théories de la relativité générale dans des conditions extrêmes.",
-      "category": "Espace"
-    }
-  ],
+  "date": "29/03/2026",
+  "news": [],
   "updates": []
 }
