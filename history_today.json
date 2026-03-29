@@ -1,37 +1,37 @@
 {
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "subject": {
-    "name": "Henri Fabre et le premier vol d'hydravion",
-    "type": "Découverte",
-    "period": "1910 · Ère pionnière de l'aviation (début XXe siècle)",
-    "context": "Henri Fabre, ingénieur et aviateur français passionné par l'aéronautique, conçut l'hydravion dans un contexte où les frères Wright venaient de réussir les premiers vols motorisés, mais les appareils terrestres restaient limités par les infrastructures. Le 28 mars 1910, depuis l'étang de Berre près de Marseille, son appareil baptisé Le Canard décolla pour la première fois sur 800 mètres, démontrant la faisabilité des atterrissages et décollages sur l'eau sans roues ni patins. Cette innovation résolvait un problème majeur pour l'exploration maritime et militaire, en rendant les aéronefs indépendants des pistes solides. Peu connu du grand public, Fabre testa son prototype en secret pendant des mois, finançant lui-même les expérimentations malgré les scepticismes des contemporains.",
+    "name": "Nicolas de Condorcet",
+    "type": "Personnalité",
+    "period": "1743 – 1794 · Siècle des Lumières et Révolution française",
+    "context": "Nicolas de Condorcet, philosophe, mathématicien et homme politique français, naquit dans une famille noble et se distingua précocement par ses travaux en probabilités et en analyse, devenant secrétaire perpétuel de l'Académie des sciences. Proche des Encyclopédistes, il milita pour l'abolition de l'esclavage et les droits des femmes, publiant en 1790 son 'Esquisse d'un tableau historique des progrès de l'esprit humain' où il expose sa foi inébranlable au progrès humain par la raison et la science. Engagé dans la Révolution française, il fut élu à la Convention mais s'opposa violemment aux excès jacobins, ce qui le contraignit à la clandestinité. Arrêté en mars 1794, il fut retrouvé mort dans sa cellule, probablement par suicide via le poison, évitant ainsi la guillotine lors de la Terreur.",
     "dates": [
       {
-        "year": "1882",
-        "label": "Naissance d'Henri Fabre à Marseille, dans une famille d'armateurs"
+        "year": "1743",
+        "label": "Naissance à Ribemont dans l'Aisne"
       },
       {
-        "year": "1909",
-        "label": "Fabre dépose un brevet pour son système de flotteurs hydrodynamiques"
+        "year": "1765",
+        "label": "Élu à l'Académie des sciences à 22 ans"
       },
       {
-        "year": "1910",
-        "label": "Premier vol réussi de l'hydravion Le Canard sur l'étang de Berre"
+        "year": "1782",
+        "label": "Publication du mémoire sur le calcul des probabilités"
       },
       {
-        "year": "1911",
-        "label": "Vente du brevet à une société aéronautique, lançant la production industrielle"
+        "year": "1790",
+        "label": "Sortie de l'Esquisse des progrès de l'esprit humain"
       },
       {
-        "year": "1930",
-        "label": "Fabre fonde sa propre entreprise d'hydravions pour la Marine française"
+        "year": "1791",
+        "label": "Élection à l'Assemblée législative"
       },
       {
-        "year": "1982",
-        "label": "Décès d'Henri Fabre, pionnier oublié de l'hydroaviation"
+        "year": "1794",
+        "label": "Mort suspecte en prison à Bourg-la-Reine"
       }
     ],
-    "legacy": "L'invention de l'hydravion par Fabre posa les bases de l'aviation navale moderne, influençant les porte-avions et les opérations de sauvetage en mer qui sauvent des milliers de vies aujourd'hui. Son principe de flotteurs intégrés se retrouve dans les seaplanes contemporains utilisés pour la surveillance environnementale et le tourisme. Postérieurement, elle contribua à l'essor de l'industrie aéronautique française au XXe siècle.",
-    "why": "Dans un monde obsédé par les vols spatiaux, cette prouesse aquatique rappelle que les vraies révolutions technologiques naissent souvent de solutions simples et audacieuses face aux contraintes du terrain."
+    "legacy": "Ses idées sur le progrès indéfini de l'humanité influencèrent profondément le positivisme et les utopies modernes, tandis que son système de jugement majoritaire par scrutin inspira les théories contemporaines de la démocratie et de la décision collective. Condorcet reste une figure emblématique des Lumières, célébrée pour sa vision optimiste de la science au service de l'égalité sociale. Son œuvre philosophique continue d'alimenter les débats sur l'éthique en intelligence artificielle et les inégalités persistantes.",
+    "why": "Condorcet anticipa l'ère numérique en formalisant mathématiquement la 'sagesse des foules', une idée qui régit aujourd'hui les algorithmes de Google ou les sondages en ligne sans que nous nous en doutions."
   }
 }
