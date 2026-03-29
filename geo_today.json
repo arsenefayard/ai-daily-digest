@@ -1,44 +1,36 @@
 {
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "news": [
     {
-      "title": "Négociations Iran-États-Unis : Trump annonce une pause dans les attaques contre les infrastructures énergétiques iraniennes",
-      "summary": "Le président Donald Trump a ordonné au Département de la Guerre de reporter de cinq jours toutes les attaques contre les centrales électriques et les infrastructures énergétiques iraniennes après avoir annoncé des « discussions très bonnes et productives » avec l'Iran sur une résolution complète des hostilités au Moyen-Orient. Parallèlement, le secrétaire au Trésor Scott Bessent a confirmé que les États-Unis autorisaient le passage des pétroliers iraniens afin de stabiliser l'approvisionnement mondial, révélant une contradiction entre la rhétorique belliqueuse et les nécessités économiques. L'Iran a cependant nié tout contact direct avec les États-Unis, créant une ambiguïté sur l'état réel des négociations.",
-      "why": "Cette annonce marque un tournant potentiel dans l'escalade militaire au Moyen-Orient après un mois de guerre intense, avec des implications majeures pour la stabilité énergétique mondiale et les prix du pétrole.",
+      "title": "Donald Trump reporte son ultimatum à l'Iran concernant le détroit d'Ormuz",
+      "summary": "Donald Trump a annoncé le report de son ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz, bloqué militairement en représailles aux frappes américano-israéliennes. Cette décision intervient alors qu'une coalition de 35 pays se prépare à sécuriser la voie maritime une fois les combats terminés. Les négociations se poursuivent avec de nouveaux acteurs comme le Pakistan, au milieu d'une flambée des prix du carburant en Europe.",
+      "why": "Ce report évite une escalade immédiate mais prolonge la crise énergétique mondiale, affectant le commerce pétrolier et les économies dépendantes du Golfe.",
       "category": "Diplomatie"
     },
     {
-      "title": "Révélations sur un plan d'élimination conjointe de Khamenei entre Netanyahu et Trump",
-      "summary": "Reuters a révélé que le Premier ministre israélien Benjamin Netanyahu aurait convaincu le président Donald Trump de procéder à l'élimination conjointe du guide suprême iranien Khamenei, marquant une escalade majeure dans les objectifs militaires affichés. Cette information intervient alors que les États-Unis et Israël poursuivent leurs frappes aériennes coordonnées contre des cibles iraniennes, notamment des sites nucléaires comme Natanz. Cette révélation soulève des questions sur la viabilité des négociations diplomatiques annoncées simultanément par Trump.",
-      "why": "Cette escalade potentielle vers un changement de régime en Iran représente un risque majeur de conflagration régionale et mondiale, dépassant largement les objectifs initiaux de la crise du détroit d'Ormuz.",
-      "category": "Conflit"
+      "title": "José Manuel Barroso propose d'exclure la Hongrie des discussions importantes de l'UE",
+      "summary": "L'ancien président de la Commission européenne José Manuel Barroso estime que Bruxelles peut exclure la Hongrie des discussions clés de l'Union européenne en raison de ses positions divergentes. Cette déclaration s'inscrit dans les tensions persistantes avec Budapest, notamment sur l'Ukraine et l'énergie. Elle reflète les divisions internes au sein de l'UE face aux crises géopolitiques actuelles.",
+      "why": "Une telle exclusion pourrait affaiblir l'unité européenne et accentuer les fractures au sein du bloc, influençant les décisions sur la sécurité et l'économie.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Crise énergétique mondiale : l'Europe fait face à des difficultés d'approvisionnement en carburant dues au blocage du détroit d'Ormuz",
-      "summary": "Le gouvernement français a autorisé les stations-service à vendre un gazole moins résistant au froid à titre exceptionnel, invoquant explicitement les « difficultés exceptionnelles d'approvisionnement rencontrées dans le contexte de la guerre en Iran et du blocage du détroit d'Ormuz ». Cette mesure illustre l'impact économique direct de la crise géopolitique sur les consommateurs européens et la fragilité des chaînes d'approvisionnement énergétique du continent. Le blocage du détroit d'Ormuz, par lequel transite environ 30 % du pétrole mondial, crée des perturbations structurelles dans l'économie mondiale.",
-      "why": "Cette crise énergétique démontre comment la confrontation militaire au Moyen-Orient se traduit en impacts concrets sur la vie quotidienne des Européens et menace la stabilité économique mondiale.",
+      "title": "La Russie fournit du renseignement à l'Iran pour cibler des Américains, selon Kaja Kallas",
+      "summary": "La Première ministre estonienne Kaja Kallas accuse Moscou de fournir à Téhéran des renseignements utilisés pour tuer des Américains dans le cadre de la guerre en Iran. Cette allégation met en lumière l'axe Russie-Iran face à l'Occident. Elle survient alors que les frappes contre l'Iran se poursuivent et que Trump affirme être en avance sur son calendrier militaire.",
+      "why": "Cette coopération renforce l'alliance anti-occidentale et complique les efforts diplomatiques pour désescalader le conflit au Moyen-Orient.",
+      "category": "Sécurité"
+    },
+    {
+      "title": "Coalition de 35 pays prête à débloquer le détroit d'Ormuz après les combats",
+      "summary": "Lors du G7 près de Paris, une coalition de 35 pays a décidé de participer au déblocage du détroit d'Ormuz une fois les combats terminés entre les États-Unis, Israël et l'Iran. Cette initiative vise à restaurer le transit pétrolier mondial perturbé par le blocus iranien. Elle s'accompagne d'aides françaises pour atténuer la flambée des prix du carburant.",
+      "why": "Le déblocage est crucial pour stabiliser les marchés énergétiques mondiaux et éviter une récession due à la crise actuelle.",
       "category": "Énergie"
     },
     {
-      "title": "Élargissement du conflit au-delà de l'Iran : escalade militaire impliquant le Liban et multiplication des fronts",
-      "summary": "Les frappes aériennes israéliennes se sont étendues au Liban, créant une situation où plusieurs conflits se superposent et où l'embrasement n'est plus limité à l'Iran seul. L'Iran a choisi une stratégie d'escalade horizontale, notamment en lançant des drones Shahed contre les positions américaines et alliées, transformant le conflit en une guerre multi-théâtres. Cette expansion géographique du conflit complique considérablement les efforts diplomatiques et augmente les risques d'implication d'autres puissances régionales.",
-      "why": "L'élargissement du conflit à plusieurs fronts régionaux augmente exponentiellement les risques d'une guerre régionale majeure et complique les perspectives de désescalade diplomatique.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Tensions diplomatiques au G7 : les États-Unis font pression pour exclure l'Afrique du Sud de la réunion en France",
-      "summary": "Paris s'est résolu à ne pas inviter le président sud-africain Cyril Ramaphosa au G7 en France après des pressions exercées par le président américain Donald Trump, qui accuse Pretoria de persécutions contre les Afrikaners et les fermiers blancs du pays. Cette décision reflète les tensions croissantes entre les États-Unis et l'Afrique du Sud sur les questions de droits de l'homme et de politique intérieure. Cette exclusion illustre comment les tensions géopolitiques actuelles influencent les alliances diplomatiques traditionnelles.",
-      "why": "Cette exclusion diplomatique révèle les fractures au sein des alliances occidentales et l'utilisation de la diplomatie multilatérale comme outil de pression politique par les États-Unis.",
+      "title": "Maria Kolesnikova appelle l'UE à dialoguer avec Loukachenko au Bélarus",
+      "summary": "L'opposante bélarusse Maria Kolesnikova estime que l'Union européenne doit discuter avec le président Alexandre Loukachenko pour résoudre la crise politique. Cette position surprenante intervient dans un contexte de répression persistante à Minsk et de rapprochement avec la Russie. Elle souligne les défis diplomatiques de l'UE en Europe de l'Est.",
+      "why": "Un dialogue pourrait ouvrir des voies de désescalade mais risque de légitimer un régime autoritaire, impactant la sécurité régionale.",
       "category": "Diplomatie"
     }
   ],
-  "updates": [
-    {
-      "title": "Appel à la désescalade : la France et les alliés européens intensifient les efforts diplomatiques",
-      "original": "Crise du détroit d'Ormuz et escalade militaire Iran-États-Unis-Israël",
-      "summary": "Face à l'escalade militaire continue, la France organise des réunions diplomatiques à proximité de Paris pour convaincre les acteurs d'une désescalade, avec l'arrivée du chef de la diplomatie américaine Marco Rubio. Les efforts diplomatiques français visent à contrebalancer la rhétorique belliqueuse et à explorer des voies de sortie du conflit, particulièrement en raison des impacts économiques majeurs du blocage du détroit d'Ormuz sur l'Europe. Cette initiative reflète une prise de conscience européenne que la poursuite de l'escalade menace directement les intérêts économiques et sécuritaires du continent.",
-      "why": "L'engagement diplomatique français et européen représente une tentative de créer un contrepoids aux dynamiques d'escalade militaire et de protéger les intérêts énergétiques et économiques européens.",
-      "category": "Diplomatie"
-    }
-  ]
+  "updates": []
 }
