@@ -1,35 +1,35 @@
 {
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "news": [
     {
-      "title": "Les carottes étaient originellement blanches",
-      "summary": "Les carottes sauvages, apparues il y a environ 5 000 ans en Europe, étaient à l'origine blanches ou jaunes pâles. Les agriculteurs ont progressivement sélectionné des variétés violettes, puis orange au XVIe siècle, en hommage à la maison de Nassau. Cette évolution a donné la carotte orange moderne que nous consommons aujourd'hui.",
-      "why": "Ce fait illustre comment la sélection humaine a transformé les aliments au fil des siècles, influençant notre alimentation quotidienne.",
-      "category": "Science pop"
+      "title": "Les Romains utilisaient des chèvres pour torturer par le chatouillement",
+      "summary": "Dans l'Antiquité romaine, les tortionnaires trempaient les pieds des victimes dans de l'eau salée avant de lâcher des chèvres qui les léchaient, provoquant un chatouillement insupportable et prolongé. Cette méthode exploitait la sensibilité extrême des plantes des pieds pour extraire des confessions sans causer de blessures visibles. Elle illustre l'ingéniosité cruelle des pratiques pénales de l'époque.[8]",
+      "why": "Ce fait révèle les aspects méconnus et sadiques des méthodes de torture antiques, montrant comment les Romains combinaient science et souffrance pour contrôler les populations.",
+      "category": "Histoire"
     },
     {
-      "title": "Le fromage est l’aliment le plus volé au monde",
-      "summary": "Malgré sa banalité, le fromage détient le record mondial des vols dans les supermarchés et entrepôts, surpassant même les produits high-tech. Ce phénomène s'explique par sa valeur élevée, sa facilité de revente et sa demande constante sur le marché noir. Les fromageries européennes en sont particulièrement touchées.",
-      "why": "Il révèle des dynamiques économiques inattendues dans l'industrie agroalimentaire et les comportements criminels quotidiens.",
+      "title": "Le logo de Nike a été conçu pour seulement 35 dollars",
+      "summary": "En 1971, l'étudiante Carolyn Davidson a créé le célèbre swoosh de Nike pour la modique somme de 35 dollars, sans imaginer qu'il deviendrait un symbole mondial. Cette icône minimaliste s'inspire de la déesse grecque de la victoire et représente le mouvement fluide. Aujourd'hui, sa valeur symbolique dépasse les milliards, soulignant l'impact d'un design simple.[8]",
+      "why": "Cette anecdote met en lumière comment une création modeste peut transformer une marque en empire mondial, valorisant l'innovation accessible dans le monde du design.",
       "category": "Insolite"
     },
     {
-      "title": "Les Trois Petits Cochons enseignent la persévérance dès le XVIIIe siècle",
-      "summary": "Ce conte populaire, transmis oralement au XVIIIe siècle avant d'être publié, raconte comment trois porcelets construisent des maisons de paille, de bois et de brique face au loup. Seule la maison solide résiste, symbolisant l'importance du travail durable. Adapté dans de nombreuses cultures, il éduque les enfants à la résilience.",
-      "why": "Il montre comment les contes traditionnels transmettent des leçons morales intemporelles sur l'effort et la prévoyance.",
-      "category": "Littérature"
-    },
-    {
-      "title": "Les 7000 langues parlées dans le monde aujourd’hui",
-      "summary": "La planète compte plus de 7 000 langues actives, dont beaucoup sont parlées par moins de 1 000 personnes et risquent de disparaître. Cette diversité linguistique reflète l'histoire migratoire et culturelle de l'humanité. Des efforts de préservation visent à documenter ces langues avant leur extinction.",
-      "why": "Cette richesse linguistique est un trésor culturel menacé, soulignant l'urgence de la sauvegarde du patrimoine immatériel.",
-      "category": "Linguistique"
-    },
-    {
-      "title": "La plus ancienne peinture connue représente un cochon en Indonésie",
-      "summary": "Une œuvre datant de plus de 51 200 ans, découverte dans une grotte indonésienne, dépeint trois figures humaines et un cochon sauvage. Elle témoigne d'un art rupestre sophistiqué bien avant les peintures européennes célèbres. Cette découverte repousse les origines de l'expression artistique humaine.",
-      "why": "Elle révolutionne notre compréhension des capacités cognitives des premiers humains et de la diffusion précoce de l'art.",
+      "title": "À Pompéi, des restaurants proposaient déjà la restauration à emporter",
+      "summary": "Des fouilles archéologiques à Pompéi ont révélé des comptoirs de vente de nourriture chaude à emporter, avec des jarres contenant des plats prêts à consommer dès l'Antiquité romaine. Ces thermopolia servaient une clientèle variée, des riches aux ouvriers, avec des menus incluant du pain, des olives et des vins épicés. Cela prouve que le concept de fast-food existait il y a deux millénaires.[8]",
+      "why": "Ce découverte bouscule notre vision moderne de la restauration rapide, montrant que certaines habitudes alimentaires persistent depuis l'Antiquité.",
       "category": "Histoire"
+    },
+    {
+      "title": "Les koalas possèdent des empreintes digitales identiques à celles des humains",
+      "summary": "Les empreintes digitales des koalas sont si similaires à celles des humains qu'elles pourraient tromper les experts forensiques lors d'analyses au microscope. Ces motifs spiralés servent aux koalas pour grimper aux eucalyptus et saisir les feuilles. Cette convergence évolutive fascinante relie deux espèces éloignées par la phylogénie.[1]",
+      "why": "Ce phénomène illustre les mystères de l'évolution convergente, où des adaptations similaires émergent indépendamment chez des animaux distants.",
+      "category": "Science pop"
+    },
+    {
+      "title": "Jane Austen décrit moins de 12 baisers dans tous ses romans",
+      "summary": "Malgré leur romantisme légendaire, les six romans de Jane Austen ne contiennent que onze baisers au total, reflétant les normes victoriennes pudiques. L'auteure privilégie les tensions émotionnelles et les dialogues subtils pour exprimer l'amour. Cette retenue renforce l'intensité psychologique de ses intrigues amoureuses.[4]",
+      "why": "Cela souligne la maîtrise narrative d'Austen, qui excelle à suggérer plutôt qu'à montrer, influençant encore la littérature romantique contemporaine.",
+      "category": "Littérature"
     }
   ],
   "updates": []
