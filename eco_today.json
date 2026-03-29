@@ -1,34 +1,34 @@
 {
-  "date": "28/03/2026",
+  "date": "29/03/2026",
   "news": [
     {
-      "title": "UBS suspend les retraits d'un fonds immobilier pour manque de liquidités",
-      "summary": "La banque suisse UBS a suspendu les retraits sur l'un de ses fonds immobiliers en raison d'un manque de liquidités, une mesure prise pour protéger les investisseurs face à la volatilité des marchés immobiliers. Cette décision intervient dans un contexte de tensions géopolitiques et de remontée des taux d'intérêt qui pèsent sur le secteur. Elle souligne les risques de contagion dans le segment des fonds alternatifs.",
-      "why": "Cette suspension ravive les craintes de crise immobilière similaire à celle de 2022 et pourrait entraîner une aversion accrue pour les actifs illiquides.",
-      "category": "Banques"
-    },
-    {
-      "title": "Vinci acquiert neuf concessions autoroutières à péage en Inde",
-      "summary": "Le groupe français Vinci a annoncé l'acquisition de neuf concessions autoroutières à péage en Inde, renforçant sa présence sur ce marché en forte croissance. Cette opération, d'une valeur non précisée, s'inscrit dans une stratégie d'expansion internationale pour diversifier ses revenus face à la saturation en Europe. Elle illustre l'attractivité des infrastructures émergentes pour les majors européennes.",
-      "why": "Cette acquisition booste les perspectives de croissance de Vinci et met en lumière les opportunités d'investissements dans les infrastructures indiennes.",
-      "category": "Entreprises"
-    },
-    {
-      "title": "Inflation au Royaume-Uni à 2,3% en avril, dépassant les attentes",
-      "summary": "L'inflation annuelle au Royaume-Uni a reculé à 2,3% en avril contre 3,2% en mars, mais a dépassé les prévisions de 2,1%, portée par une inflation des services persistante à 5,9%. Cette donnée repousse les anticipations de baisse des taux de la Banque d'Angleterre à plus tard dans l'année. Les marchés obligataires britanniques ont réagi par une hausse des rendements.",
-      "why": "Ce chiffre inattendu renforce la prudence des investisseurs sur la politique monétaire britannique et impacte les prévisions de croissance.",
+      "title": "La Chine lance deux enquêtes commerciales contre les États-Unis",
+      "summary": "La Chine a initié deux enquêtes sur des pratiques commerciales américaines concernant les chaînes d'approvisionnement et les produits d'énergies renouvelables. Cette action est perçue comme une riposte directe aux enquêtes lancées par les États-Unis juste avant un sommet bilatéral. Elle risque d'intensifier les tensions commerciales sino-américaines et de perturber les flux mondiaux de biens critiques.",
+      "why": "Cette escalade pourrait entraîner des hausses de tarifs douaniers et affecter les chaînes d'approvisionnement mondiales, impactant directement les coûts pour les entreprises et les consommateurs.",
       "category": "Politique monétaire"
     },
     {
-      "title": "La Bourse de Paris rechute de 0,98% après trois jours de hausse",
-      "summary": "Le CAC 40 a clôturé en baisse de 0,98% à 8 115 points, marquant une rechute après trois séances de reprise, sous l'effet de l'aversion au risque liée aux tensions au Moyen-Orient. Les valeurs cycliques et le secteur du luxe ont particulièrement souffert, tandis que le pétrole remontait. Les indices européens ont fini en nette baisse globale.",
-      "why": "Cette correction reflète le retour de la prudence géopolitique et pourrait signaler une volatilité accrue sur les marchés actions.",
+      "title": "Producteurs du Moyen-Orient libèrent des réserves de pétrole au Japon",
+      "summary": "Les producteurs du Moyen-Orient ont commencé à débloquer des réserves de pétrole stockées conjointement au Japon, comme annoncé par le ministre japonais de l'Économie. Cette mesure complète les réserves publiques et privées pour stabiliser l'approvisionnement. Elle répond aux craintes liées au conflit en cours au Moyen-Orient qui menace les livraisons.",
+      "why": "Elle atténue temporairement les risques de pénurie au Japon, deuxième plus grand importateur mondial, et pourrait influencer les prix pétroliers à court terme.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Prix du pétrole pourrait atteindre 200 USD/baril si conflit persiste",
+      "summary": "Macquarie Group prévoit que le pétrole pourrait grimper à 200 USD/baril si le conflit États-Unis-Israël-Iran dure jusqu'en juin 2026 avec blocage du détroit d'Ormuz. Cette flambée s'explique par la réduction des approvisionnements mondiaux. L'indice Bloomberg du dollar a déjà gagné plus de 2% depuis début mars grâce aux flux refuges.",
+      "why": "Un tel niveau record propulserait l'inflation énergétique mondiale et forcerait les banques centrales à revoir leurs politiques monétaires.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Indice de confiance des consommateurs Michigan publié aux États-Unis",
+      "summary": "L'indice Michigan Consumer Sentiment et les attentes d'inflation ont été révélés le 27 mars, focalisant l'attention sur la solidité des consommateurs américains. Ces données influencent les perspectives sur l'inflation et la politique de la Fed. Elles interviennent dans un contexte de sensibilité accrue des marchés boursiers mondiaux.",
+      "why": "Des attentes d'inflation élevées pourraient freiner les baisses de taux attendues et peser sur les actions de croissance.",
       "category": "Marchés"
     },
     {
-      "title": "Pernod Ricard et Brown-Forman envisagent une fusion selon des sources",
-      "summary": "Pernod Ricard et Brown-Forman, deux géants des spiritueux, ont tenu des discussions préliminaires sur une possible fusion, d'après des sources proches du dossier. Une telle opération créerait un leader mondial avec un portefeuille premium renforcé, incluant Jack Daniel's et des marques françaises iconiques. Les négociations restent à un stade exploratoire sans accord ferme.",
-      "why": "Une fusion consoliderait le secteur face à la concurrence et aux pressions réglementaires sur l'alcool, avec un impact potentiel sur la valorisation boursière.",
+      "title": "Arcep encadre économiquement les réseaux fibre optique en France",
+      "summary": "L'Arcep a mis en consultation un modèle de coûts pour le maintien opérationnel des réseaux FttH d'initiative publique, visant à adapter les tarifs d'accès. Les coûts plus élevés en zones rurales fragilisent les RIP, nécessitant une évolution du modèle économique. La consultation est ouverte jusqu'au 22 mai 2026.",
+      "why": "Cette réforme pourrait stabiliser les investissements dans les infrastructures télécoms rurales et influencer les prix pour les opérateurs.",
       "category": "Entreprises"
     }
   ],
