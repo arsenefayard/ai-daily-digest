@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "Paris Music 2026 célèbre sa 10ème édition du 18 au 22 mars",
-      "Sleaford Mods reprend la route au Casino de Paris le 10 mars",
-      "David Byrne lance sa tournée à La Seine Musicale les 18 et 19 mars",
-      "Marlon Magnée fête Dark Star au Supersonic le 26 mars",
-      "Electronic Peak illumine la fin de mars du 25 au 27"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "Megadeth en tournée d'adieu à Québec",
@@ -67,6 +57,16 @@
       "Courtney Barnett publie un nouvel album le 27 mars 2026",
       "Dosseh balance un nouvel album hip-hop le 27 mars 2026",
       "Marina Viotti sort un album baroque avec airs de Vivaldi et Porpora"
+    ]
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "Kungs enflamme le Zénith de Paris ce soir",
+      "Archive en concert à La Seine Musicale ce soir",
+      "OPRF interprète Stravinsky à l'Auditorium de Radio France",
+      "Festival Mythos débute aujourd'hui à Rennes",
+      "Dry Cleaning au Trianon le 14 avril"
     ]
   }
 ]
