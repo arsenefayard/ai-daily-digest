@@ -1,35 +1,35 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "news": [
     {
-      "title": "Donald Trump reporte son ultimatum à l'Iran concernant le détroit d'Ormuz",
-      "summary": "Donald Trump a annoncé le report de son ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz, bloqué militairement en représailles aux frappes américano-israéliennes. Cette décision intervient alors qu'une coalition de 35 pays se prépare à sécuriser la voie maritime une fois les combats terminés. Les négociations se poursuivent avec de nouveaux acteurs comme le Pakistan, au milieu d'une flambée des prix du carburant en Europe.",
-      "why": "Ce report évite une escalade immédiate mais prolonge la crise énergétique mondiale, affectant le commerce pétrolier et les économies dépendantes du Golfe.",
-      "category": "Diplomatie"
+      "title": "Quatrième jour de guerre israélo-américaine contre l'Iran avec de nouvelles frappes massives",
+      "summary": "Israël et les États-Unis poursuivent leur offensive militaire contre l'Iran au quatrième jour de conflit, avec des bombardements ciblant des bases aériennes, des infrastructures et l'institution chargée d'élire un nouveau guide suprême. Téhéran riposte par des tirs de missiles sur Israël et les monarchies du Golfe, tandis que le bilan humain s'élève à 800 morts côté iranien. Cette escalade marque une rupture avec les frappes ponctuelles passées, visant simultanément plusieurs piliers du régime.",
+      "why": "Cette campagne structurée risque de déstabiliser durablement le Moyen-Orient et d'impliquer d'autres acteurs régionaux, avec des répercussions mondiales sur l'énergie et la sécurité.",
+      "category": "Conflit"
     },
     {
-      "title": "José Manuel Barroso propose d'exclure la Hongrie des discussions importantes de l'UE",
-      "summary": "L'ancien président de la Commission européenne José Manuel Barroso estime que Bruxelles peut exclure la Hongrie des discussions clés de l'Union européenne en raison de ses positions divergentes. Cette déclaration s'inscrit dans les tensions persistantes avec Budapest, notamment sur l'Ukraine et l'énergie. Elle reflète les divisions internes au sein de l'UE face aux crises géopolitiques actuelles.",
-      "why": "Une telle exclusion pourrait affaiblir l'unité européenne et accentuer les fractures au sein du bloc, influençant les décisions sur la sécurité et l'économie.",
-      "category": "Diplomatie"
-    },
-    {
-      "title": "La Russie fournit du renseignement à l'Iran pour cibler des Américains, selon Kaja Kallas",
-      "summary": "La Première ministre estonienne Kaja Kallas accuse Moscou de fournir à Téhéran des renseignements utilisés pour tuer des Américains dans le cadre de la guerre en Iran. Cette allégation met en lumière l'axe Russie-Iran face à l'Occident. Elle survient alors que les frappes contre l'Iran se poursuivent et que Trump affirme être en avance sur son calendrier militaire.",
-      "why": "Cette coopération renforce l'alliance anti-occidentale et complique les efforts diplomatiques pour désescalader le conflit au Moyen-Orient.",
+      "title": "Emmanuel Macron déploie le Charles de Gaulle et des renforts au Moyen-Orient",
+      "summary": "Le président français a annoncé l'envoi du porte-avions Charles de Gaulle et de frégates en Méditerranée pour renforcer la présence militaire française au Moyen-Orient face à l'escalade israélo-iranienne. Cette décision s'inscrit dans un contexte de bombardements croisés impliquant l'Iran, le Liban et Israël. Elle vise à soutenir les efforts de stabilisation tout en protégeant les intérêts européens.",
+      "why": "Ce déploiement marque un engagement accru de la France dans le conflit, potentiellement influençant les dynamiques OTAN et européennes face à une 'longue guerre' promise par Téhéran.",
       "category": "Sécurité"
     },
     {
-      "title": "Coalition de 35 pays prête à débloquer le détroit d'Ormuz après les combats",
-      "summary": "Lors du G7 près de Paris, une coalition de 35 pays a décidé de participer au déblocage du détroit d'Ormuz une fois les combats terminés entre les États-Unis, Israël et l'Iran. Cette initiative vise à restaurer le transit pétrolier mondial perturbé par le blocus iranien. Elle s'accompagne d'aides françaises pour atténuer la flambée des prix du carburant.",
-      "why": "Le déblocage est crucial pour stabiliser les marchés énergétiques mondiaux et éviter une récession due à la crise actuelle.",
-      "category": "Énergie"
+      "title": "Donald Trump déclare que 'tout a été détruit' en Iran et exclut les négociations",
+      "summary": "Le président américain Donald Trump affirme que la plupart des responsables iraniens visés sont morts et que 'tout a été détruit' en Iran, excluant toute nouvelle négociation avec Téhéran. L'ayatollah Ali Khamenei sera inhumé à Machhad, tandis que les États-Unis se disent prêts à une opération terrestre si nécessaire. Cette rhétorique dure accompagne les frappes continues contre les infrastructures iraniennes.",
+      "why": "Ces déclarations signalent une fermeté absolue de Washington, risquant une prolongation du conflit et une polarisation accrue des alliances internationales.",
+      "category": "Diplomatie"
     },
     {
-      "title": "Maria Kolesnikova appelle l'UE à dialoguer avec Loukachenko au Bélarus",
-      "summary": "L'opposante bélarusse Maria Kolesnikova estime que l'Union européenne doit discuter avec le président Alexandre Loukachenko pour résoudre la crise politique. Cette position surprenante intervient dans un contexte de répression persistante à Minsk et de rapprochement avec la Russie. Elle souligne les défis diplomatiques de l'UE en Europe de l'Est.",
-      "why": "Un dialogue pourrait ouvrir des voies de désescalade mais risque de légitimer un régime autoritaire, impactant la sécurité régionale.",
-      "category": "Diplomatie"
+      "title": "Israël intensifie son offensive contre le Hezbollah au Liban",
+      "summary": "Parallèlement aux frappes en Iran, Israël poursuit son offensive contre le Hezbollah au Liban, dans un élargissement du conflit régional. Les bombardements récents ont visé le Liban, aggravant les tensions frontalières. Cette multi-frontalité complique les efforts humanitaires de l'ONU au Moyen-Orient.",
+      "why": "L'extension du front libanais menace de transformer le conflit en guerre régionale impliquant plusieurs acteurs, avec des risques humanitaires massifs.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Suspension des vols Air France vers le Moyen-Orient jusqu'au 5 avril",
+      "summary": "Air France a suspendu ses vols vers le Moyen-Orient jusqu'au 5 avril en raison de l'escalade militaire, tandis que les autorités françaises assurent l'absence de risque immédiat sur les approvisionnements en gaz et essence. Des otages français attendent toujours leur rapatriement. Cette mesure reflète l'impact direct du conflit sur la connectivité aérienne civile.",
+      "why": "Elle illustre les retombées immédiates sur l'aviation commerciale et l'économie, soulignant la vulnérabilité des chaînes logistiques mondiales face à la crise.",
+      "category": "Sécurité"
     }
   ],
   "updates": []
