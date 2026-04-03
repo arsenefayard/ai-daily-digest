@@ -1,35 +1,35 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "news": [
     {
-      "title": "Les Romains utilisaient des chèvres pour torturer par le chatouillement",
-      "summary": "Dans l'Antiquité romaine, les tortionnaires trempaient les pieds des victimes dans de l'eau salée avant de lâcher des chèvres qui les léchaient, provoquant un chatouillement insupportable et prolongé. Cette méthode exploitait la sensibilité extrême des plantes des pieds pour extraire des confessions sans causer de blessures visibles. Elle illustre l'ingéniosité cruelle des pratiques pénales de l'époque.[8]",
-      "why": "Ce fait révèle les aspects méconnus et sadiques des méthodes de torture antiques, montrant comment les Romains combinaient science et souffrance pour contrôler les populations.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Le logo de Nike a été conçu pour seulement 35 dollars",
-      "summary": "En 1971, l'étudiante Carolyn Davidson a créé le célèbre swoosh de Nike pour la modique somme de 35 dollars, sans imaginer qu'il deviendrait un symbole mondial. Cette icône minimaliste s'inspire de la déesse grecque de la victoire et représente le mouvement fluide. Aujourd'hui, sa valeur symbolique dépasse les milliards, soulignant l'impact d'un design simple.[8]",
-      "why": "Cette anecdote met en lumière comment une création modeste peut transformer une marque en empire mondial, valorisant l'innovation accessible dans le monde du design.",
-      "category": "Insolite"
-    },
-    {
-      "title": "À Pompéi, des restaurants proposaient déjà la restauration à emporter",
-      "summary": "Des fouilles archéologiques à Pompéi ont révélé des comptoirs de vente de nourriture chaude à emporter, avec des jarres contenant des plats prêts à consommer dès l'Antiquité romaine. Ces thermopolia servaient une clientèle variée, des riches aux ouvriers, avec des menus incluant du pain, des olives et des vins épicés. Cela prouve que le concept de fast-food existait il y a deux millénaires.[8]",
-      "why": "Ce découverte bouscule notre vision moderne de la restauration rapide, montrant que certaines habitudes alimentaires persistent depuis l'Antiquité.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Les koalas possèdent des empreintes digitales identiques à celles des humains",
-      "summary": "Les empreintes digitales des koalas sont si similaires à celles des humains qu'elles pourraient tromper les experts forensiques lors d'analyses au microscope. Ces motifs spiralés servent aux koalas pour grimper aux eucalyptus et saisir les feuilles. Cette convergence évolutive fascinante relie deux espèces éloignées par la phylogénie.[1]",
-      "why": "Ce phénomène illustre les mystères de l'évolution convergente, où des adaptations similaires émergent indépendamment chez des animaux distants.",
+      "title": "Ératosthène a calculé la circonférence de la Terre avec une ombre et un puits",
+      "summary": "Vers 230 avant Jésus-Christ, le savant grec Ératosthène a réalisé un exploit scientifique remarquable en déterminant la circonférence de la Terre en utilisant uniquement une ombre et un puits. Cette méthode géométrique simple mais ingénieuse démontre comment l'observation et le raisonnement mathématique peuvent résoudre des problèmes apparemment insurmontables. Cette prouesse intellectuelle, réalisée sans instruments modernes, reste l'une des plus grandes contributions de l'Antiquité à la science.",
+      "why": "Ce fait illustre comment les anciens Grecs ont jeté les bases de la méthode scientifique bien avant l'époque moderne, en combinant observation empirique et déduction logique pour comprendre le monde.",
       "category": "Science pop"
     },
     {
-      "title": "Jane Austen décrit moins de 12 baisers dans tous ses romans",
-      "summary": "Malgré leur romantisme légendaire, les six romans de Jane Austen ne contiennent que onze baisers au total, reflétant les normes victoriennes pudiques. L'auteure privilégie les tensions émotionnelles et les dialogues subtils pour exprimer l'amour. Cette retenue renforce l'intensité psychologique de ses intrigues amoureuses.[4]",
-      "why": "Cela souligne la maîtrise narrative d'Austen, qui excelle à suggérer plutôt qu'à montrer, influençant encore la littérature romantique contemporaine.",
-      "category": "Littérature"
+      "title": "Galilée a inventé la lunette astronomique pour réconcilier les théories du ciel",
+      "summary": "Entre 1564 et 1642, Galilée a créé la lunette astronomique, un instrument révolutionnaire qui a permis d'observer les phénomènes célestes et de réconcilier les théories de Copernic, Kepler et Tycho Brahé. En rendant ces découvertes compréhensibles et observables par tous, Galilée a « laïcisé » le ciel en prouvant que l'Univers ne fonctionnait pas selon les croyances religieuses établies. Cet acte de démocratisation du savoir scientifique lui a valu d'être accusé d'hérésie par l'Église.",
+      "why": "Galilée incarne le passage de la science d'une élite réservée à une connaissance accessible, transformant ainsi la relation entre science et société.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Un officier britannique a fait arrêter un arbre qu'il croyait vivant",
+      "summary": "Au cours de l'histoire coloniale britannique, un officier complètement saoul a cru qu'un arbre se déplaçait et l'a fait arrêter avec des chaînes, le retenant prisonnier pendant plus de cent vingt ans pour s'assurer qu'il ne s'échappe pas. Cette anecdote absurde révèle les excès de l'époque coloniale et l'autorité arbitraire exercée par certains officiers. L'arbre, bien entendu, n'a jamais tenté de s'enfuir, mais cette histoire persiste comme symbole de l'absurdité bureaucratique.",
+      "why": "Cette histoire insolite illustre comment l'ivresse, l'autorité sans limites et la crédulité peuvent produire des situations surréalistes qui perdurent dans la mémoire collective.",
+      "category": "Insolite"
+    },
+    {
+      "title": "Une tablette sumérienne vieille de quatre à cinq mille ans contient une recette de bière",
+      "summary": "Les archéologues ont découvert une tablette écrite en sumérien datant de quatre à cinq mille ans qui renferme une recette pour fabriquer de la bière avec des ingrédients spécifiques. Cette découverte révèle que la fermentation et la brasserie constituaient des pratiques sophistiquées et documentées dans les civilisations anciennes. Elle témoigne également de l'importance culturelle et économique de la bière dans les sociétés mésopotamiennes, où elle était consommée quotidiennement et considérée comme une boisson nutritive.",
+      "why": "Ce document ancien montre que les civilisations anciennes possédaient des connaissances techniques avancées et que la transmission écrite du savoir-faire remonte à l'aube de l'écriture.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Le voyage dans le temps est un thème central de la science-fiction moderne",
+      "summary": "Le voyage dans le temps s'est imposé comme l'un des grands thèmes de la littérature de science-fiction et du fantastique, explorant les paradoxes temporels et les implications philosophiques du déplacement à travers les époques. Des œuvres comme « Le Voyageur imprudent » de René Barjavel et « La Fin de l'Éternité » d'Isaac Asimov ont posé des questions fondamentales sur la causalité et l'identité personnelle. Plus récemment, le film « Interstellar » de Christopher Nolan a intégré la théorie de la relativité générale d'Einstein pour décrire comment le temps se déforme près d'un trou noir.",
+      "why": "Le voyage dans le temps fascine car il combine rigueur scientifique et exploration philosophique, permettant aux auteurs d'interroger la nature même du temps et de la réalité.",
+      "category": "Cinéma"
     }
   ],
   "updates": []
