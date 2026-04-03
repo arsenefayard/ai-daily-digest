@@ -1,35 +1,35 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "news": [
     {
-      "title": "La Chine lance deux enquêtes commerciales contre les États-Unis",
-      "summary": "La Chine a initié deux enquêtes sur des pratiques commerciales américaines concernant les chaînes d'approvisionnement et les produits d'énergies renouvelables. Cette action est perçue comme une riposte directe aux enquêtes lancées par les États-Unis juste avant un sommet bilatéral. Elle risque d'intensifier les tensions commerciales sino-américaines et de perturber les flux mondiaux de biens critiques.",
-      "why": "Cette escalade pourrait entraîner des hausses de tarifs douaniers et affecter les chaînes d'approvisionnement mondiales, impactant directement les coûts pour les entreprises et les consommateurs.",
+      "title": "La France annonce de nouvelles aides ciblées contre la flambée des prix des carburants",
+      "summary": "Le ministre Sébastien Lecornu a déclaré jeudi 2 avril à Bordeaux qu'il envisageait de nouvelles aides ciblées pour compenser la hausse des prix des carburants, à mettre en place en début de semaine prochaine. Ces mesures visent à soutenir les secteurs vulnérables sans créer de pénurie, dans un contexte de tensions géopolitiques au Moyen-Orient. Les aides incluent environ 50 millions d'euros pour les transporteurs routiers, équivalant à 20 centimes par litre, une exonération fiscale pour les agriculteurs et un soutien pour les pêcheurs.",
+      "why": "Ces aides sont cruciales pour atténuer l'impact inflationniste des carburants sur l'économie française et préserver la compétitivité des secteurs clés comme le transport et l'agriculture.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Producteurs du Moyen-Orient libèrent des réserves de pétrole au Japon",
-      "summary": "Les producteurs du Moyen-Orient ont commencé à débloquer des réserves de pétrole stockées conjointement au Japon, comme annoncé par le ministre japonais de l'Économie. Cette mesure complète les réserves publiques et privées pour stabiliser l'approvisionnement. Elle répond aux craintes liées au conflit en cours au Moyen-Orient qui menace les livraisons.",
-      "why": "Elle atténue temporairement les risques de pénurie au Japon, deuxième plus grand importateur mondial, et pourrait influencer les prix pétroliers à court terme.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Prix du pétrole pourrait atteindre 200 USD/baril si conflit persiste",
-      "summary": "Macquarie Group prévoit que le pétrole pourrait grimper à 200 USD/baril si le conflit États-Unis-Israël-Iran dure jusqu'en juin 2026 avec blocage du détroit d'Ormuz. Cette flambée s'explique par la réduction des approvisionnements mondiaux. L'indice Bloomberg du dollar a déjà gagné plus de 2% depuis début mars grâce aux flux refuges.",
-      "why": "Un tel niveau record propulserait l'inflation énergétique mondiale et forcerait les banques centrales à revoir leurs politiques monétaires.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Indice de confiance des consommateurs Michigan publié aux États-Unis",
-      "summary": "L'indice Michigan Consumer Sentiment et les attentes d'inflation ont été révélés le 27 mars, focalisant l'attention sur la solidité des consommateurs américains. Ces données influencent les perspectives sur l'inflation et la politique de la Fed. Elles interviennent dans un contexte de sensibilité accrue des marchés boursiers mondiaux.",
-      "why": "Des attentes d'inflation élevées pourraient freiner les baisses de taux attendues et peser sur les actions de croissance.",
+      "title": "Le Trésor français place 12,5 milliards d'euros de dette aux taux les plus élevés depuis quinze ans",
+      "summary": "Le Trésor a réussi à placer 12,5 milliards d'euros de dettes jeudi 2 avril sur le marché, à des taux record depuis quinze ans en raison du choc pétrolier. Cette opération reflète la pression accrue sur les finances publiques françaises face à la flambée des prix de l'énergie. Les investisseurs exigent des rendements plus élevés, aggravant le coût de la dette nationale.",
+      "why": "Cette hausse des taux d'endettement renchérit le financement de l'État et pourrait peser sur le budget 2026, limitant les marges de manœuvre face à la récession.",
       "category": "Marchés"
     },
     {
-      "title": "Arcep encadre économiquement les réseaux fibre optique en France",
-      "summary": "L'Arcep a mis en consultation un modèle de coûts pour le maintien opérationnel des réseaux FttH d'initiative publique, visant à adapter les tarifs d'accès. Les coûts plus élevés en zones rurales fragilisent les RIP, nécessitant une évolution du modèle économique. La consultation est ouverte jusqu'au 22 mai 2026.",
-      "why": "Cette réforme pourrait stabiliser les investissements dans les infrastructures télécoms rurales et influencer les prix pour les opérateurs.",
+      "title": "Donald Trump impose des droits de douane sur certains médicaments pour favoriser la réimplantation d'usines aux États-Unis",
+      "summary": "L'administration Trump a annoncé des surtaxes douanières sur certains médicaments afin d'accélérer le rapatriement de la production pharmaceutique sur le sol américain. Cette mesure protectionniste vise à réduire la dépendance aux importations et à stimuler l'emploi industriel. Elle intervient dans un contexte de tensions commerciales mondiales croissantes.",
+      "why": "Cette politique pourrait perturber les chaînes d'approvisionnement pharmaceutiques mondiales et entraîner une hausse des prix des médicaments, impactant les coûts de santé à l'échelle internationale.",
       "category": "Entreprises"
+    },
+    {
+      "title": "La prime d'activité en France augmente de 50 euros par mois en moyenne à partir d'avril 2026",
+      "summary": "La prime d'activité, versée aux salariés modestes gagnant moins de 2000 euros net par mois, sera revalorisée de 50 euros en moyenne dès le 1er avril 2026, grâce à une réforme budgétaire. Cette mesure concerne 3 millions de bénéficiaires autour de 1,15 SMIC sur les 4 millions actuels, pour compenser l'inflation. L'effet sera visible en mai, basé sur les revenus de mars.",
+      "why": "Cette revalorisation soutient le pouvoir d'achat des classes populaires face à l'inflation persistante, stimulant la consommation intérieure en période de ralentissement économique.",
+      "category": "Politique monétaire"
+    },
+    {
+      "title": "Créations d'emploi attendues à 48 000 en France pour mars, après une chute surprise",
+      "summary": "Le calendrier économique prévoit la publication vendredi 3 avril des créations d'emploi pour mars à 48 000, après une baisse inattendue de 92 000 en février et un consensus à 4,5% pour le chômage. Le taux de chômage était à 4,4% précédemment, indiquant une tension sur le marché du travail. Cette donnée est classée d'importance haute et pourrait influencer les attentes sur la croissance.",
+      "why": "Ces chiffres cruciaux sur l'emploi influenceront les anticipations de croissance et les décisions de politique monétaire de la BCE face aux signes de récession.",
+      "category": "Marchés"
     }
   ],
   "updates": []
