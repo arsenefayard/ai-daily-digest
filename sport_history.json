@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "Miami Open : Alcaraz et Swiatek qualifiés pour les huitièmes de finale malgré les pluies",
-      "Tour de Catalogne : Victoire au sprint lors de la première étape explosive",
-      "Ligue 1 : PSG s'impose et prend la tête après la 27e journée",
-      "TOP 14 : Résultats cruciaux de la 20e journée avec Montpellier et Racing en forme",
-      "Championnats du monde d'athlétisme en salle : Records du monde battus à Torun"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "Miami Open : Carlos Alcaraz et Iga Swiatek se qualifient pour les quarts de finale",
@@ -70,6 +60,16 @@
       "Miami Open : demi-finales explosives avec Alcaraz et Swiatek en lice",
       "UFC Fight Night : Adesanya bat Pyfer dans un combat spectaculaire à Seattle",
       "TOP 14 : Résultats décisifs de la 20e journée avec des chocs au sommet"
+    ]
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "F1 : Kimi Antonelli remporte le Grand Prix du Japon et prend la tête du championnat",
+      "Football : Toutes les 48 équipes qualifiées pour la Coupe du monde 2026 sont connues",
+      "Tennis : Arthur Fils déclare forfait pour le Masters 1000 de Monte-Carlo",
+      "Football : PSG écrase Chelsea et se qualifie pour les quarts de finale de la Ligue des champions",
+      "Patinage : Laurence Fournier Beaudry et Guillaume Cizeron champions du monde"
     ]
   }
 ]
