@@ -1,35 +1,35 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "news": [
     {
-      "title": "Championnats du monde de patinage artistique : finale en cours en République Tchèque",
-      "summary": "Les championnats du monde de patinage artistique se déroulent du 25 au 29 mars 2026 en République Tchèque, avec les finales individuelles et par équipes prévues ce dimanche. Les patineurs français comme Siao Him Fa visent un podium après des performances prometteuses en qualifications. Cet événement réunit les meilleurs mondiaux et clôture une saison intense avant les JO d'hiver.",
-      "why": "C'est un rendez-vous majeur du patinage qui couronne les champions mondiaux et influence les classements olympiques.",
-      "category": "Autre"
+      "title": "F1 : Kimi Antonelli remporte le Grand Prix du Japon et prend la tête du championnat",
+      "summary": "Le jeune pilote italien Kimi Antonelli a créé la sensation en remportant le Grand Prix du Japon devant un public conquis, marquant ainsi sa première victoire en Formule 1. Cette performance inattendue lui permet de s'emparer de la tête du classement des pilotes avec une avance confortable sur ses rivaux directs. Les écuries adverses, y compris Red Bull, analysent déjà les données pour contrer sa montée en puissance lors des prochaines courses.",
+      "why": "Cette victoire bouleverse la hiérarchie du championnat et propulse un nouveau talent au sommet, modifiant les enjeux pour le reste de la saison.",
+      "category": "F1"
     },
     {
-      "title": "Coupe du monde de natation artistique à Paris : premières médailles décernées",
-      "summary": "La Coupe du monde de natation artistique débute ce week-end du 27 au 29 mars 2026 à Paris, avec des épreuves de duos et d'équipes qui ont déjà livré des résultats intenses. Les athlètes français espèrent briller à domicile face à la concurrence internationale. Cette compétition ouvre le calendrier aquatique 2026 sous l'égide d'Eurovision Sport.",
-      "why": "Elle lance la saison mondiale des sports aquatiques et offre une visibilité cruciale aux nations candidates aux JO.",
-      "category": "Autre"
+      "title": "Football : Toutes les 48 équipes qualifiées pour la Coupe du monde 2026 sont connues",
+      "summary": "L'Irak s'est qualifié in extremis en battant la Bolivie lors des barrages intercontinentaux, complétant ainsi la liste des 48 nations participantes au Mondial 2026. Le calendrier complet des matchs a été dévoilé, avec l'équipe de France affrontant l'Irak dans le groupe I aux côtés d'autres adversaires relevés. Cette annonce finale intensifie les préparatifs des sélections nationales pour l'événement élargi.",
+      "why": "L'officialisation des qualifiés et du calendrier marque la fin d'une longue phase éliminatoire et lance concrètement la course à la compétition mondiale.",
+      "category": "Football"
     },
     {
-      "title": "Miami Open : demi-finales explosives avec Alcaraz et Swiatek en lice",
-      "summary": "Au Miami Open, Carlos Alcaraz et Iga Swiatek se préparent pour les demi-finales après leurs victoires en quarts de finale ces derniers jours. Les conditions climatiques ont enfin permis un programme complet, avec des matches intenses contre des adversaires redoutables. Ce Masters 1000 approche de son dénouement avec des enjeux de classement ATP et WTA majeurs.",
-      "why": "Les demi-finales déterminent les finalistes d'un tournoi prestigieux et boostent les leaders du tennis mondial.",
+      "title": "Tennis : Arthur Fils déclare forfait pour le Masters 1000 de Monte-Carlo",
+      "summary": "Le Français Arthur Fils, 28e joueur mondial, a annoncé son forfait pour le Rolex Monte-Carlo Masters en raison d'une blessure qui compromet sa préparation. Ce Masters 1000, qui débute bientôt sur les courts monégasques, perd ainsi un représentant tricolore prometteur dans la course aux points cruciaux du circuit ATP. Fils espère un retour rapide pour les tournois suivants et viser un bon classement avant Roland-Garros.",
+      "why": "Ce forfait prive le tennis français d'un atout majeur sur terre battue et souligne les défis physiques des joueurs du circuit.",
       "category": "Tennis"
     },
     {
-      "title": "UFC Fight Night : Adesanya bat Pyfer dans un combat spectaculaire à Seattle",
-      "summary": "Lors de l'UFC Fight Night du 28 mars 2026 à Seattle, Israel Adesanya a dominé Joe Pyfer par décision unanime dans le main event, confirmant son retour en force. Ce choc en poids moyens a offert des échanges techniques et violents devant une arène comble. Adesanya renforce ainsi sa position pour un title shot futur.",
-      "why": "La victoire d'Adesanya, ex-champion, redessine la hiérarchie des moyens et hype les prochaines cartes UFC.",
-      "category": "Autre"
+      "title": "Football : PSG écrase Chelsea et se qualifie pour les quarts de finale de la Ligue des champions",
+      "summary": "Le Paris Saint-Germain a dominé Chelsea 3-0 à l'extérieur lors du match retour, se qualifiant ainsi brillamment pour les quarts de finale de la Ligue des champions. Cette victoire autoritaire, malgré les enjeux, propulse le PSG vers un choc probable contre Liverpool, avec Luis Enrique louant la maîtrise collective de son équipe. Le club parisien reprend aussi la tête de la Ligue 1 après un succès 4-0 à Nice.",
+      "why": "Cette qualification prestigieuse renforce les ambitions européennes du PSG et relance le débat sur son titre en championnat domestique.",
+      "category": "Football"
     },
     {
-      "title": "TOP 14 : Résultats décisifs de la 20e journée avec des chocs au sommet",
-      "summary": "La 20e journée du TOP 14 s'est jouée le 28 mars 2026, avec des victoires cruciales pour Montpellier et le Racing 92 qui consolident leurs places en playoffs. Des matchs tendus ont vu des upsets et des bonus défensifs changer la course au titre. Cette journée renforce la concurrence derrière Toulouse leader.",
-      "why": "Elle définit les prétendants aux phases finales et intensifie la bataille pour le Bouclier de Brennus.",
-      "category": "Rugby"
+      "title": "Patinage : Laurence Fournier Beaudry et Guillaume Cizeron champions du monde",
+      "summary": "Le duo franco-canadien Laurence Fournier Beaudry et Guillaume Cizeron a remporté le titre mondial de danse sur glace lors des championnats en République tchèque. Leur programme impeccable a surpassé la concurrence dans une finale intense, confirmant leur domination dans la discipline. Cette médaille d'or marque un doublé historique pour les Français après leurs précédents succès olympiques.",
+      "why": "Ce titre mondial consolide la suprématie française en patinage artistique et inspire la nouvelle génération de patineurs.",
+      "category": "Autre"
     }
   ],
   "updates": []
