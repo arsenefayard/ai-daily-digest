@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "L'indice Chicago Fed et les dépenses de construction aux États-Unis surpassent les attentes",
-      "La confiance des consommateurs en zone euro montre des signes de redressement",
-      "Rapport EQT AB met en lumière la performance des investissements alternatifs",
-      "Tesla annonce le lancement imminent du projet Terafab pour la production de puces IA",
-      "Micron inaugure un second site de production de puces à Taïwan"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "L'inflation sous-jacente japonaise atteint son plus bas niveau en deux ans à 2% en janvier",
@@ -67,6 +57,16 @@
       "Prix du pétrole pourrait atteindre 200 USD/baril si conflit persiste",
       "Indice de confiance des consommateurs Michigan publié aux États-Unis",
       "Arcep encadre économiquement les réseaux fibre optique en France"
+    ]
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "La France annonce de nouvelles aides ciblées contre la flambée des prix des carburants",
+      "Le Trésor français place 12,5 milliards d'euros de dette aux taux les plus élevés depuis quinze ans",
+      "Donald Trump impose des droits de douane sur certains médicaments pour favoriser la réimplantation d'usines aux États-Unis",
+      "La prime d'activité en France augmente de 50 euros par mois en moyenne à partir d'avril 2026",
+      "Créations d'emploi attendues à 48 000 en France pour mars, après une chute surprise"
     ]
   }
 ]
