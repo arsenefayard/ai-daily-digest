@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "Protéine responsable de l'addiction à la cocaïne identifiée",
-      "Océan de magma et atmosphère soufrée révélés sur une exoplanète",
-      "Vie possible dans l'ombre radioactive d'Europe, lune de Jupiter",
-      "Hausse des cancers digestifs chez les moins de 50 ans expliquée",
-      "Neutrino le plus énergétique détecté provient probablement d'un blazar"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "COVID-19 : la cause de la perte durable du goût enfin identifiée",
@@ -63,5 +53,15 @@
   {
     "date": "29/03/2026",
     "titles": []
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "Premier antidote au monde contre la ricine approuvé en France",
+      "Cellules solaires tandem perovskite-silicium dépassent 34% d'efficacité",
+      "Suzetrigine, nouveau médicament sélectif contre la douleur périphérique",
+      "Revêtements auto-réparants commerciaux pour infrastructures industrielles",
+      "Gisement d'hydrogène naturel unique découvert en Moselle"
+    ]
   }
 ]
