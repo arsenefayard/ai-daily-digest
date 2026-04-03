@@ -1,35 +1,35 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "news": [
     {
-      "title": "Hellripper sort un nouvel album le 27 mars 2026",
-      "summary": "Le groupe de black/thrash metal écossais Hellripper a publié son dernier album le vendredi 27 mars 2026, marquant un événement majeur pour les fans du genre extrême. Cet opus promet des riffs agressifs et une énergie brute typique du projet solo de James Tynan. Les critiques anticipent un succès auprès de la scène underground metal.",
-      "why": "Hellripper représente l'une des sorties metal les plus attendues de la semaine, renforçant la vitalité du black/thrash sur la scène internationale.",
-      "category": "Métal"
+      "title": "Kungs enflamme le Zénith de Paris ce soir",
+      "summary": "Le DJ et producteur électro français Kungs se produit ce vendredi 3 avril 2026 au Zénith de La Villette pour un concert haut en énergie. Les fans pourront danser sur ses hits endiablés qui ont marqué la scène électro internationale. Cette date unique promet une soirée mémorable dans l'une des plus grandes salles parisiennes.[1][2]",
+      "why": "Kungs représente la French Touch moderne et ce concert au Zénith attire un large public en quête de vibrations électro intenses.",
+      "category": "Électro"
     },
     {
-      "title": "Iron Savior dévoile un nouveau disque le 27 mars 2026",
-      "summary": "Le groupe de power metal allemand Iron Savior a sorti son nouvel album le 27 mars 2026, fidèle à son style épique et technique mené par Piet Sielck. Cet effort s'inscrit dans la longue discographie du combo, avec des compositions riches en mélodies accrocheuses et thèmes de science-fiction. Les amateurs de metal européen saluent ce retour.",
-      "why": "Cette sortie consolide la position d'Iron Savior comme pilier du power metal, offrant un contraste bienvenu avec les tendances plus extrêmes.",
-      "category": "Métal"
-    },
-    {
-      "title": "Courtney Barnett publie un nouvel album le 27 mars 2026",
-      "summary": "La chanteuse australienne Courtney Barnett a lancé son dernier opus le vendredi 27 mars 2026, explorant des thèmes introspectifs avec son indie rock signature. Connu pour ses textes poétiques et sa guitare incisive, cet album prolonge son influence dans la scène alternative. Les plateformes de streaming mettent déjà en avant ses singles phares.",
-      "why": "Barnett reste une voix essentielle du rock indépendant, et cette sortie ravive l'intérêt pour l'indie rock australien.",
+      "title": "Archive en concert à La Seine Musicale ce soir",
+      "summary": "Le groupe britannique Archive donne un concert ce vendredi 3 avril 2026 à la Grande Seine de La Seine Musicale à Boulogne-Billancourt. Réputé pour son rock atmosphérique et expérimental, le groupe propose des places allant de 49,90 à 73 euros. Les billets restent disponibles pour cette performance immersive dans un lieu prestigieux.[5]",
+      "why": "Archive offre une expérience sonore unique qui séduit les amateurs de rock progressif et attire un public fidèle en Île-de-France.",
       "category": "Rock"
     },
     {
-      "title": "Dosseh balance un nouvel album hip-hop le 27 mars 2026",
-      "summary": "Le rappeur français Dosseh a sorti son nouveau projet le 27 mars 2026, mêlant flows techniques et productions trap percutantes. Ce disque s'adresse aux fans de rap urbain français avec des collaborations potentielles et des textes crus sur la vie de quartier. Il marque un retour remarqué après une période d'absence.",
-      "why": "Dosseh renforce la scène hip-hop francophone avec une sortie qui pourrait dominer les classements streaming en France.",
-      "category": "Hip-Hop"
+      "title": "OPRF interprète Stravinsky à l'Auditorium de Radio France",
+      "summary": "L'Orchestre Philharmonique de Radio France, dirigé par Alain Altinoglu, joue ce soir à 20h l'Oiseau de feu de Stravinsky à l'Auditorium de Radio France. Au programme figurent aussi Pacific 231 de Honegger, un concerto pour violon de Frank Martin et une œuvre de Pascal Dusapin, avec Frank Peter Zimmermann au violon. Une avant-concert à 19h présente un manuscrit original de Mozart.[4]",
+      "why": "Ce concert classical de haut niveau met en lumière des compositeurs emblématiques et accessibles un large public mélomane.",
+      "category": "Classique"
     },
     {
-      "title": "Marina Viotti sort un album baroque avec airs de Vivaldi et Porpora",
-      "summary": "La soprano Marina Viotti publie en mars 2026 un disque intitulé Prime donne, compilant des airs de Vivaldi, Porpora et Porta chez CVS. Ce recueil met en lumière des héroïnes lyriques du baroque, interprétées avec sa virtuosité vocale légendaire. Les critiques de Diapason saluent cette plongée dans le répertoire italien du XVIIIe siècle.",
-      "why": "Cette parution enrichit le catalogue baroque contemporain et attire les passionnés de musique classique avec une star internationale.",
-      "category": "Classique"
+      "title": "Festival Mythos débute aujourd'hui à Rennes",
+      "summary": "Le Festival Mythos ouvre ses portes ce 3 avril 2026 à Rennes et se prolonge jusqu'au 12 avril avec une programmation éclectique mêlant théâtre, musique et humour. Cet événement annuel attire des milliers de spectateurs dans la capitale bretonne pour des spectacles variés. Les concerts et performances live en font un rendez-vous incontournable du printemps.[3][7]",
+      "why": "Mythos combine musique et arts de la scène, boostant la vie culturelle régionale et offrant une diversité artistique rafraîchissante.",
+      "category": "Autre"
+    },
+    {
+      "title": "Dry Cleaning au Trianon le 14 avril",
+      "summary": "Le groupe post-punk londonien Dry Cleaning se produit le 14 avril 2026 au Trianon à Paris, porté par leur nouvel album Secret Love sorti en janvier chez 4AD. Leur style mêle spoken word hypnotique et riffs acérés pour une performance intense et avant-gardiste. Ce concert très attendu embarque le public dans un univers sonore captivant.[3]",
+      "why": "Dry Cleaning incarne le renouveau post-punk et ce passage à Paris renforce leur popularité croissante en Europe.",
+      "category": "Rock"
     }
   ],
   "updates": []
