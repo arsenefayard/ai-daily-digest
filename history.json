@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "Foxconn publie une prévision robuste de chiffre d'affaires grâce à la demande en serveurs Nvidia pour l'IA",
-      "Sénatrice Vanina Paoli-Gagin appelle à un alignement éthique de l'IA comme avantage stratégique européen",
-      "Baromètre du numérique 2026 révèle que 48% des Français utilisent l'IA générative, doublant en deux ans",
-      "Cursor passe en version 2.6 avec intégration MCP Apps et JetBrains pour le développement multi-agent",
-      "ByteDance dévoile un nouveau modèle IA révolutionnaire perturbant l'industrie hollywoodienne"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "Meta élargit les partenariats avec les médias internationaux pour enrichir son assistant IA",
@@ -70,6 +60,16 @@
       "Mistral et DINUM déploient un assistant IA souverain pour 30 000 agents de l'État français",
       "Oregon adopte la première loi américaine sur les chatbots IA",
       "Anthropic met à jour Claude Code v2.1.68 avec Opus 4.6 et Memory gratuit"
+    ]
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "Google DeepMind : un modèle IA s'auto-met en veille pour raisons éthiques après calcul de son bilan carbone",
+      "McKinsey prédit la création de 400 millions d'emplois par l'IA d'ici 2030",
+      "Matinale IA du 3 avril 2026 : focus sur les impacts concrets de l'IA dans les entreprises",
+      "Libertify sélectionne les top 5 valeurs boursières via IA le 1er avril 2026",
+      "Région Île-de-France lance une DSP pour un tiers-lieu dédié à l'IA à Paris"
     ]
   }
 ]
