@@ -1,37 +1,33 @@
 {
-  "date": "29/03/2026",
+  "date": "03/04/2026",
   "subject": {
-    "name": "Nicolas de Condorcet",
-    "type": "Personnalité",
-    "period": "1743 – 1794 · Siècle des Lumières et Révolution française",
-    "context": "Nicolas de Condorcet, philosophe, mathématicien et homme politique français, naquit dans une famille noble et se distingua précocement par ses travaux en probabilités et en analyse, devenant secrétaire perpétuel de l'Académie des sciences. Proche des Encyclopédistes, il milita pour l'abolition de l'esclavage et les droits des femmes, publiant en 1790 son 'Esquisse d'un tableau historique des progrès de l'esprit humain' où il expose sa foi inébranlable au progrès humain par la raison et la science. Engagé dans la Révolution française, il fut élu à la Convention mais s'opposa violemment aux excès jacobins, ce qui le contraignit à la clandestinité. Arrêté en mars 1794, il fut retrouvé mort dans sa cellule, probablement par suicide via le poison, évitant ainsi la guillotine lors de la Terreur.",
+    "name": "Fondation de la Sécession de Vienne",
+    "type": "Mouvement",
+    "period": "1897 · Fin XIXe siècle, Autriche",
+    "context": "Au cœur de la Belle Époque viennoise, le peintre Gustav Klimt et une quarantaine d'artistes radicaux rompent avec l'association conservatrice des artistes viennois, jugée trop académique et étouffante pour l'innovation. Ils fondent la Sécession, un mouvement artistique indépendant visant à renouveler l'art autrichien en s'ouvrant aux influences internationales comme l'Art nouveau et le symbolisme. Ce groupe expose dans un pavillon emblématique conçu par Joseph Maria Olbrich, affichant comme devise 'Ver sacrum' (Printemps sacré), symbolisant un renouveau printanier de l'art. Peu connu du grand public, ce schisme révèle les tensions entre tradition impériale et modernité naissante dans l'Empire des Habsbourg, préfigurant les avant-gardes du XXe siècle.",
     "dates": [
       {
-        "year": "1743",
-        "label": "Naissance à Ribemont dans l'Aisne"
+        "year": "1897",
+        "label": "Gustav Klimt quitte l'association des artistes viennois"
       },
       {
-        "year": "1765",
-        "label": "Élu à l'Académie des sciences à 22 ans"
+        "year": "03/04/1897",
+        "label": "Fondation officielle de la Sécession avec 40 membres"
       },
       {
-        "year": "1782",
-        "label": "Publication du mémoire sur le calcul des probabilités"
+        "year": "1898",
+        "label": "Inauguration du pavillon de la Sécession à Vienne"
       },
       {
-        "year": "1790",
-        "label": "Sortie de l'Esquisse des progrès de l'esprit humain"
+        "year": "1898",
+        "label": "Première exposition collective sous le signe de Ver sacrum"
       },
       {
-        "year": "1791",
-        "label": "Élection à l'Assemblée législative"
-      },
-      {
-        "year": "1794",
-        "label": "Mort suspecte en prison à Bourg-la-Reine"
+        "year": "1905",
+        "label": "Rupture de Klimt avec la Sécession pour créer la Nouvelle Sécession"
       }
     ],
-    "legacy": "Ses idées sur le progrès indéfini de l'humanité influencèrent profondément le positivisme et les utopies modernes, tandis que son système de jugement majoritaire par scrutin inspira les théories contemporaines de la démocratie et de la décision collective. Condorcet reste une figure emblématique des Lumières, célébrée pour sa vision optimiste de la science au service de l'égalité sociale. Son œuvre philosophique continue d'alimenter les débats sur l'éthique en intelligence artificielle et les inégalités persistantes.",
-    "why": "Condorcet anticipa l'ère numérique en formalisant mathématiquement la 'sagesse des foules', une idée qui régit aujourd'hui les algorithmes de Google ou les sondages en ligne sans que nous nous en doutions."
+    "legacy": "La Sécession de Vienne a révolutionné l'art autrichien en introduisant un style ornemental et expressif qui a influencé le modernisme européen, notamment via des figures comme Egon Schiele et Oskar Kokoschka. Son pavillon reste un monument emblématique de Vienne, témoignant de l'ébullition culturelle pré-Sezessionniste. Aujourd'hui, ses œuvres ornent les musées mondiaux, incarnant l'esprit d'indépendance artistique qui inspire encore les mouvements contestataires.",
+    "why": "Dans un monde saturé de conformisme culturel, la Sécession rappelle que les plus grandes révolutions artistiques naissent souvent d'une poignée de dissidents prêts à briser les chaînes de la tradition."
   }
 }
