@@ -2,17 +2,6 @@
   {
     "date": "23/03/2026",
     "titles": [
-      "Israël intensifie considérablement ses frappes en Iran",
-      "Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
-      "Escalade militaire Pakistan-Afghanistan : bombardement meurtrier à Kaboul",
-      "Attaques iraniennes contre navires et infrastructures pétrolières du Golfe",
-      "Frappes américano-israéliennes sur Natanz : confirmation et implications nucléaires"
-    ]
-  },
-  {
-    "date": "23/03/2026",
-    "titles": [
       "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
       "Israël annonce une intensification considérable de ses frappes en Iran",
       "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
@@ -72,6 +61,16 @@
       "La Russie fournit du renseignement à l'Iran pour cibler des Américains, selon Kaja Kallas",
       "Coalition de 35 pays prête à débloquer le détroit d'Ormuz après les combats",
       "Maria Kolesnikova appelle l'UE à dialoguer avec Loukachenko au Bélarus"
+    ]
+  },
+  {
+    "date": "03/04/2026",
+    "titles": [
+      "Quatrième jour de guerre israélo-américaine contre l'Iran avec de nouvelles frappes massives",
+      "Emmanuel Macron déploie le Charles de Gaulle et des renforts au Moyen-Orient",
+      "Donald Trump déclare que 'tout a été détruit' en Iran et exclut les négociations",
+      "Israël intensifie son offensive contre le Hezbollah au Liban",
+      "Suspension des vols Air France vers le Moyen-Orient jusqu'au 5 avril"
     ]
   }
 ]
