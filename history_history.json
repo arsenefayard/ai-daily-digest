@@ -1,9 +1,5 @@
 [
   {
-    "date": "12/03/2026",
-    "subject": "Marche du Sel"
-  },
-  {
     "date": "13/03/2026",
     "subject": "René-Robert Cavelier de La Salle"
   },
@@ -118,5 +114,9 @@
   {
     "date": "29/03/2026",
     "subject": "Nicolas de Condorcet"
+  },
+  {
+    "date": "03/04/2026",
+    "subject": "Fondation de la Sécession de Vienne"
   }
 ]
