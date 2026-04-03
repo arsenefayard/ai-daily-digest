@@ -1,5 +1,36 @@
 {
-  "date": "29/03/2026",
-  "news": [],
+  "date": "03/04/2026",
+  "news": [
+    {
+      "title": "Premier antidote au monde contre la ricine approuvé en France",
+      "summary": "Une entreprise lyonnaise a développé le premier antidote contre la ricine, le poison végétal le plus puissant et une menace bioterroriste majeure, comme l'ont montré des attentats déjoués en Allemagne en 2018 et 2023. Ce traitement à base d'anticorps polyclonaux a obtenu son Autorisation de Mise sur le Marché le 13 janvier 2026. Les premières commandes pour l'export vers des pays européens sont déjà en cours, renforçant la sécurité mondiale face aux agents biologiques.",
+      "why": "Cette avancée protège contre une arme biologique redoutable et ouvre la voie à des contre-mesures rapides pour d'autres toxines.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Cellules solaires tandem perovskite-silicium dépassent 34% d'efficacité",
+      "summary": "Les cellules solaires hybrides combinant perovskite et silicium ont atteint plus de 34% d'efficacité de conversion, surpassant les panneaux commerciaux à base de silicium limités à 24%. Ces progrès résultent d'améliorations en passivation d'interface, ajustement compositionnel avec rubidium et césium, et meilleure stabilité. Elles promettent d'étendre les systèmes d'énergie renouvelable à petite échelle de manière plus viable économiquement.",
+      "why": "Cette percée accélère la transition vers des énergies propres plus efficaces et abordables, cruciale pour la décarbonation mondiale.",
+      "category": "Chimie"
+    },
+    {
+      "title": "Suzetrigine, nouveau médicament sélectif contre la douleur périphérique",
+      "summary": "Suzetrigine est le premier médicament d'une classe bloquant sélectivement les canaux sodiques NaV1.8 dans les neurones sensoriels périphériques de la douleur. Contrairement aux opioïdes addictifs ou aux bloqueurs anciens affectant cœur et cerveau, il offre une sélectivité supérieure à 31 000 fois pour les voies douloureuses. Des recherches explorent aussi les canaux NaV1.7 et NaV1.9 pour élargir les options thérapeutiques.",
+      "why": "Il révolutionne la gestion de la douleur chronique sans risques d'addiction ni effets secondaires systémiques majeurs.",
+      "category": "Médecine"
+    },
+    {
+      "title": "Revêtements auto-réparants commerciaux pour infrastructures industrielles",
+      "summary": "Les avancées en ingénierie de microcapsules améliorent la stabilité des coques, les mécanismes de libération contrôlée et la chimie des agents de réparation. Lors d'un dommage, les microcapsules se rompent et libèrent des agents qui polymérisent pour sceller les brèches en quelques heures, même en environnements hostiles. Des déploiements précoces concernent ponts, plateformes offshore et pipelines, avec des applications biomédicales potentielles.",
+      "why": "Ces matériaux prolongent la durée de vie des infrastructures critiques et réduisent les coûts de maintenance drastiquement.",
+      "category": "Chimie"
+    },
+    {
+      "title": "Gisement d'hydrogène naturel unique découvert en Moselle",
+      "summary": "Un gisement d'hydrogène naturel, étendu sur la Moselle, la Belgique, le Luxembourg et l'Allemagne, contiendrait environ 34 millions de tonnes selon le CNRS. Cette source d'énergie décarbonée promet une décarbonation rapide et une indépendance énergétique accrue. Tous les indicateurs techniques sont positifs pour son exploitation future.",
+      "why": "Il offre une alternative propre et abondante aux énergies fossiles, boostant la transition énergétique européenne.",
+      "category": "Autre"
+    }
+  ],
   "updates": []
 }
