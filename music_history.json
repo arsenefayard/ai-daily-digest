@@ -1,15 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "Megadeth en tournée d'adieu à Québec",
-      "Feu! Chatterton de retour au Canada après huit ans",
-      "Twice en concert au Centre Bell de Montréal",
-      "Jazz en Nord prolonge jusqu'au 4 mai",
-      "Les Bistrots d'Hiver jusqu'au 29 mars en Corrèze"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "Solane en double concert au Zénith de Paris ce soir",
@@ -67,6 +57,16 @@
       "OPRF interprète Stravinsky à l'Auditorium de Radio France",
       "Festival Mythos débute aujourd'hui à Rennes",
       "Dry Cleaning au Trianon le 14 avril"
+    ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": [
+      "We Metal Fest 2026 ouvre ses portes aujourd'hui à Paris",
+      "Quatuor Modigliani interprète Beethoven et Brahms à l'Auditorium de Radio France",
+      "Festival Variations célèbre ses 10 ans à Nantes avec Kim Gordon et Einstürzende Neubauten",
+      "Freddie Gibbs en concert à Paris ce 4 avril",
+      "Dry Cleaning au Trianon le 14 avril pour défendre leur nouvel album Secret Love"
     ]
   }
 ]
