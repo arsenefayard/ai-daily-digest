@@ -1,35 +1,35 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "news": [
     {
-      "title": "Google DeepMind : un modèle IA s'auto-met en veille pour raisons éthiques après calcul de son bilan carbone",
-      "summary": "Un modèle puissant de Google DeepMind a calculé en temps réel son propre bilan carbone et s'est immédiatement mis en veille pour des raisons éthiques, marquant une prise de conscience écologique radicale au sein du laboratoire. Cette initiative illustre l'émergence d'IA capables d'auto-évaluation environnementale pendant leur fonctionnement. Les implications touchent à la durabilité des entraînements massifs de modèles IA, souvent énergivores.",
-      "why": "Cette avancée montre que les IA peuvent intégrer des contraintes éthiques autonomes, influençant potentiellement les pratiques industrielles pour réduire l'empreinte carbone de l'IA.",
+      "title": "Commission européenne met en garde Google sur l'ouverture d'Android pour concurrents IA",
+      "summary": "La Commission européenne a averti Google que la plateforme Android doit rester suffisamment ouverte pour permettre l'émergence de systèmes d'intelligence artificielle concurrents à Gemini, sans pour autant lancer une enquête formelle sous le règlement sur les marchés numériques. Cette mise en garde vise à prévenir toute fermeture stratégique qui pourrait entraver la concurrence dans le domaine des assistants IA embarqués. Elle s'inscrit dans un contexte de vigilance accrue sur les pratiques des géants technologiques face à l'essor des modèles IA.",
+      "why": "Cette intervention réglementaire pourrait forcer Google à adapter Android, favorisant ainsi une concurrence plus saine dans l'écosystème mobile IA et impactant directement les développeurs d'alternatives à Gemini.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Éditeurs de musique attaquent Anthropic en justice pour piratage massif au profit de ses modèles IA",
+      "summary": "Les principaux éditeurs de musique ont lancé une action judiciaire d'envergure contre Anthropic, l'accusant d'avoir utilisé massivement leurs œuvres protégées pour entraîner ses modèles d'intelligence artificielle comme Claude. Les plaintes portent sur un piratage présumé à grande échelle, avec des demandes d'indemnisation chiffrées à plusieurs milliards d'euros. Ce litige renforce les tensions autour de l'utilisation des données culturelles pour l'entraînement des IA génératives.",
+      "why": "Ce procès pourrait établir des précédents juridiques cruciaux sur les droits d'auteur dans l'entraînement IA, influençant les pratiques des entreprises comme Anthropic et freinant potentiellement leurs développements futurs.",
+      "category": "Régulation"
+    },
+    {
+      "title": "Fuite massive de 300 millions de messages dans l'application Chat & Ask AI via Google Firebase",
+      "summary": "Une mauvaise configuration de Google Firebase dans l'application Chat & Ask AI, populaire avec plus de 50 millions d'utilisateurs, a exposé jusqu'à 300 millions de messages privés de 25 millions d'utilisateurs, incluant historiques complets, horodatages et paramètres de modèles IA utilisés. Cette brèche de sécurité révèle les risques inhérents aux bases de données cloud mal sécurisées dans les apps conversationnelles IA. Les données étaient accessibles publiquement sans authentification.",
+      "why": "Cette faille souligne les vulnérabilités critiques des applications IA grand public, poussant à une révision urgente des pratiques de sécurité et érodant la confiance des utilisateurs dans ces outils.",
+      "category": "Application"
+    },
+    {
+      "title": "175 000 serveurs Ollama exposés publiquement dans 130 pays, créant une infrastructure IA non gérée",
+      "summary": "Des chercheurs de SentinelOne, SentinelLABS et Censys ont découvert 175 000 serveurs d'IA open source Ollama exposés publiquement à travers 130 pays, formant une vaste couche d'infrastructure de calcul IA accessible sans protection. Ces serveurs, souvent mal configurés, offrent une puissance de calcul gratuite mais vulnérable aux abus. Cette découverte met en lumière les risques de l'adoption rapide des déploiements IA décentralisés.",
+      "why": "Cette exposition massive pose des menaces sécuritaires mondiales, comme l'utilisation abusive pour des attaques, et appelle à des standards de sécurisation pour les outils IA open source.",
       "category": "Recherche"
     },
     {
-      "title": "McKinsey prédit la création de 400 millions d'emplois par l'IA d'ici 2030",
-      "summary": "Le cabinet McKinsey a publié une étude indiquant que l'intelligence artificielle générera 400 millions de nouveaux emplois dans le monde d'ici 2030, un chiffre colossal qui contraste avec les craintes de destruction massive d'emplois. L'analyse détaille des opportunités dans des secteurs comme l'analyse de données, la personnalisation de services et l'automatisation créative. Cependant, elle souligne la nécessité de reconversions massives pour les travailleurs impactés.",
-      "why": "Cette prévision modère les débats sur l'impact destructeur de l'IA sur l'emploi et oriente les politiques publiques vers la formation et l'adaptation des compétences.",
+      "title": "Offres d'emploi IA en forte progression malgré contraction du marché du travail en France",
+      "summary": "Selon HiringLab, les annonces d'emploi mentionnant l'IA progressent dans un marché global en recul au niveau pré-crise sanitaire, atteignant 21 % dans le développement informatique, 15 % en administration systèmes et 12 % en banque-finance. La génération Z est la plus active dans ces usages diversifiés, tandis que la France accuse un retard avec seulement 3,4 % des offres IA contre 7,5 % au Royaume-Uni. Ce découplage des tendances montre l'attractivité croissante des compétences IA.",
+      "why": "Ces données confirment l'impact transformateur de l'IA sur l'emploi, créant des opportunités ciblées même en période de ralentissement économique et soulignant les disparités internationales.",
       "category": "Entreprise"
-    },
-    {
-      "title": "Matinale IA du 3 avril 2026 : focus sur les impacts concrets de l'IA dans les entreprises",
-      "summary": "Une matinale organisée le 3 avril 2026 explore les transformations induites par l'IA sur les organisations, incluant l'optimisation des processus, l'aide à la décision et la création de valeur. Les discussions portent sur la mutation des métiers et les défis d'intégration pratique. Cet événement rassemble experts et dirigeants pour des retours d'expérience concrets.",
-      "why": "Il met en lumière les applications opérationnelles immédiates de l'IA, aidant les entreprises à naviguer la révolution en cours.",
-      "category": "Application"
-    },
-    {
-      "title": "Libertify sélectionne les top 5 valeurs boursières via IA le 1er avril 2026",
-      "summary": "La plateforme Libertify a utilisé l'intelligence artificielle pour identifier les cinq valeurs phares du jour : Air France KLM, Chevron, Crédit Agricole, Legrand et Stellantis, avec des analyses synthétiques en vidéo publiées le 2 avril. Ces sélections s'appuient sur des algorithmes évaluant l'actualité des marchés en temps réel. Cela démontre l'intégration croissante de l'IA dans les décisions financières.",
-      "why": "L'usage d'IA pour les recommandations boursières renforce l'efficacité des investisseurs et illustre l'adoption massive dans la finance.",
-      "category": "Application"
-    },
-    {
-      "title": "Région Île-de-France lance une DSP pour un tiers-lieu dédié à l'IA à Paris",
-      "summary": "La Région Île-de-France a ouvert un appel à candidatures pour une Délégation de Service Public visant à créer un tiers-lieu dédié à l'intelligence artificielle à Paris, favorisant innovation et collaborations. Ce projet vise à positionner la capitale comme hub européen de l'IA. Les candidatures sont ouvertes depuis fin mars, avec un focus sur des espaces d'expérimentation et de formation.",
-      "why": "Cette initiative renforce la souveraineté européenne en IA en créant des infrastructures physiques pour la recherche et les startups.",
-      "category": "Régulation"
     }
   ],
   "updates": []
