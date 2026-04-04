@@ -1,35 +1,35 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "news": [
     {
-      "title": "F1 : Kimi Antonelli remporte le Grand Prix du Japon et prend la tête du championnat",
-      "summary": "Le jeune pilote italien Kimi Antonelli a créé la sensation en remportant le Grand Prix du Japon devant un public conquis, marquant ainsi sa première victoire en Formule 1. Cette performance inattendue lui permet de s'emparer de la tête du classement des pilotes avec une avance confortable sur ses rivaux directs. Les écuries adverses, y compris Red Bull, analysent déjà les données pour contrer sa montée en puissance lors des prochaines courses.",
-      "why": "Cette victoire bouleverse la hiérarchie du championnat et propulse un nouveau talent au sommet, modifiant les enjeux pour le reste de la saison.",
-      "category": "F1"
-    },
-    {
-      "title": "Football : Toutes les 48 équipes qualifiées pour la Coupe du monde 2026 sont connues",
-      "summary": "L'Irak s'est qualifié in extremis en battant la Bolivie lors des barrages intercontinentaux, complétant ainsi la liste des 48 nations participantes au Mondial 2026. Le calendrier complet des matchs a été dévoilé, avec l'équipe de France affrontant l'Irak dans le groupe I aux côtés d'autres adversaires relevés. Cette annonce finale intensifie les préparatifs des sélections nationales pour l'événement élargi.",
-      "why": "L'officialisation des qualifiés et du calendrier marque la fin d'une longue phase éliminatoire et lance concrètement la course à la compétition mondiale.",
+      "title": "Ligue 1 : Dembélé signe un doublé et le PSG s'impose 3-1 contre Toulouse",
+      "summary": "Ousmane Dembélé a été l'homme du match lors de la 28e journée de Ligue 1 en inscrivant un doublé pour le PSG face à Toulouse au Parc des Princes. Les Parisiens ont ainsi pris provisoirement quatre points d'avance sur Lens malgré un match de retard. Cette victoire arrive à point nommé avant le quart de finale aller de Ligue des champions contre Liverpool.",
+      "why": "Ce succès renforce la position du PSG en tête du championnat et booste la confiance avant un choc européen crucial.",
       "category": "Football"
     },
     {
-      "title": "Tennis : Arthur Fils déclare forfait pour le Masters 1000 de Monte-Carlo",
-      "summary": "Le Français Arthur Fils, 28e joueur mondial, a annoncé son forfait pour le Rolex Monte-Carlo Masters en raison d'une blessure qui compromet sa préparation. Ce Masters 1000, qui débute bientôt sur les courts monégasques, perd ainsi un représentant tricolore prometteur dans la course aux points cruciaux du circuit ATP. Fils espère un retour rapide pour les tournois suivants et viser un bon classement avant Roland-Garros.",
-      "why": "Ce forfait prive le tennis français d'un atout majeur sur terre battue et souligne les défis physiques des joueurs du circuit.",
+      "title": "NBA : Les Spurs gagnent sans Wembanyama, Lakers inquiets après la défaite face au Thunder",
+      "summary": "San Antonio a remporté une nouvelle victoire contre les Clippers de Los Angeles sans son star Victor Wembanyama. De son côté, le Thunder d'Oklahoma a écrasé les Lakers lors d'une soirée difficile pour l'équipe californienne. Les Lakers s'inquiètent particulièrement pour Luka Doncic, sorti sur blessure lors de ce match.",
+      "why": "Ces résultats soulignent la résilience des Spurs et les difficultés croissantes des Lakers dans la course aux playoffs.",
+      "category": "Basketball"
+    },
+    {
+      "title": "Rolex Monte-Carlo Masters : Début du tournoi ATP à Paris La Défense Arena",
+      "summary": "Le Rolex Monte-Carlo Masters, un Masters 1000 ATP, a débuté ce 4 avril 2026 à Paris La Défense Arena avec les premiers matchs du tableau principal. Ce tournoi sur dur indoor attire les meilleurs joueurs mondiaux dans une atmosphère électrique. Il marque le retour d'un événement majeur en France après le forfait récent d'Arthur Fils à Monte-Carlo.",
+      "why": "Ce Masters 1000 est un rendez-vous incontournable du circuit ATP qui peut influencer le classement mondial avant Roland-Garros.",
       "category": "Tennis"
     },
     {
-      "title": "Football : PSG écrase Chelsea et se qualifie pour les quarts de finale de la Ligue des champions",
-      "summary": "Le Paris Saint-Germain a dominé Chelsea 3-0 à l'extérieur lors du match retour, se qualifiant ainsi brillamment pour les quarts de finale de la Ligue des champions. Cette victoire autoritaire, malgré les enjeux, propulse le PSG vers un choc probable contre Liverpool, avec Luis Enrique louant la maîtrise collective de son équipe. Le club parisien reprend aussi la tête de la Ligue 1 après un succès 4-0 à Nice.",
-      "why": "Cette qualification prestigieuse renforce les ambitions européennes du PSG et relance le débat sur son titre en championnat domestique.",
-      "category": "Football"
+      "title": "JO d'hiver 2026 : Cérémonie d'ouverture à Milan-Cortina avec allumage des vasques",
+      "summary": "La cérémonie d'ouverture des Jeux olympiques d'hiver 2026 s'est déroulée sur quatre sites, conclue par l'allumage des vasques olympiques à Milan par Alberto Tomba et Deborah Compagnoni, et à Cortina par Sofia Goggia. Les premières compétitions ont vu les Bleues du hockey sur glace s'incliner et les Français sortir du top 5 en patinage artistique par équipe. Les Jeux sont officiellement lancés dans une ambiance festive.",
+      "why": "L'ouverture des JO d'hiver représente un événement mondial majeur qui mobilise des millions de téléspectateurs et lance deux semaines de compétitions intenses.",
+      "category": "Autre"
     },
     {
-      "title": "Patinage : Laurence Fournier Beaudry et Guillaume Cizeron champions du monde",
-      "summary": "Le duo franco-canadien Laurence Fournier Beaudry et Guillaume Cizeron a remporté le titre mondial de danse sur glace lors des championnats en République tchèque. Leur programme impeccable a surpassé la concurrence dans une finale intense, confirmant leur domination dans la discipline. Cette médaille d'or marque un doublé historique pour les Français après leurs précédents succès olympiques.",
-      "why": "Ce titre mondial consolide la suprématie française en patinage artistique et inspire la nouvelle génération de patineurs.",
-      "category": "Autre"
+      "title": "Ligue 1 : Grave blessure au genou pour Joaquin Panichelli, meilleur buteur de Strasbourg",
+      "summary": "Joaquin Panichelli, l'attaquant argentin et meilleur buteur du Racing Club de Strasbourg, s'est gravement blessé au genou lors d'un récent match. Cette absence longue durée bouleverse les plans de l'entraîneur Gary O’Neil qui doit repenser son attaque. Strasbourg, huitième avec 40 points, affronte Nice ce samedi dans un contexte compliqué.",
+      "why": "La perte de son meilleur élément fragilise Strasbourg dans la course à l'Europe et illustre les aléas des blessures en Ligue 1.",
+      "category": "Football"
     }
   ],
   "updates": []
