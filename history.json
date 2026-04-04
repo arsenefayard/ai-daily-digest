@@ -1,16 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "Meta élargit les partenariats avec les médias internationaux pour enrichir son assistant IA",
-      "L'IA physique émerge comme tendance majeure de 2026 avec les robots en environnements simulés",
-      "Future Intelligence 2026 se concentre sur l'IA de confiance au service de la défense et la sécurité",
-      "Les opérateurs mobiles intègrent l'IA pour offrir des assistants personnels et détecter les fraudes",
-      "L'UNESCO organise une journée dédiée à l'IA avec exposition technologique et innovations en robotique",
-      "Anthropic et le Pentagone : escalade du conflit autour de l'accès militaire à Claude"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "INSEE alerte sur 5 millions d'emplois menacés par l'IA en France",
@@ -70,6 +59,16 @@
       "Matinale IA du 3 avril 2026 : focus sur les impacts concrets de l'IA dans les entreprises",
       "Libertify sélectionne les top 5 valeurs boursières via IA le 1er avril 2026",
       "Région Île-de-France lance une DSP pour un tiers-lieu dédié à l'IA à Paris"
+    ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": [
+      "Commission européenne met en garde Google sur l'ouverture d'Android pour concurrents IA",
+      "Éditeurs de musique attaquent Anthropic en justice pour piratage massif au profit de ses modèles IA",
+      "Fuite massive de 300 millions de messages dans l'application Chat & Ask AI via Google Firebase",
+      "175 000 serveurs Ollama exposés publiquement dans 130 pays, créant une infrastructure IA non gérée",
+      "Offres d'emploi IA en forte progression malgré contraction du marché du travail en France"
     ]
   }
 ]
