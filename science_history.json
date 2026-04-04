@@ -1,15 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "COVID-19 : la cause de la perte durable du goût enfin identifiée",
-      "L'Antarctique a perdu 13 000 km² de glace ancrée",
-      "Détection de kaolinite blanche dans le cratère Jezero par Perseverance",
-      "Traces d'eau anciennes révélées dans la météorite martienne Black Beauty",
-      "Rides fossiles de chimiosynthèse profondes identifiées dans l'Atlas"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "Explication du signal régulier émis par le pulsar du Crabe",
@@ -63,5 +53,9 @@
       "Revêtements auto-réparants commerciaux pour infrastructures industrielles",
       "Gisement d'hydrogène naturel unique découvert en Moselle"
     ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": []
   }
 ]
