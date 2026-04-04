@@ -1,15 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "L'inflation sous-jacente japonaise atteint son plus bas niveau en deux ans à 2% en janvier",
-      "La balance commerciale de la zone euro passe en déficit de 1,9 milliard d'euros",
-      "L'indice ZEW allemand s'effondre à -0,5 en mars, bien en-dessous des attentes",
-      "La Fed anticipe une seule baisse de taux en 2026 malgré une inflation PCE relevée à 2,7%",
-      "Les taux allemands remontent fortement avec le 2 ans à 2,44% et le 10 ans à 2,98%"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "Administration Trump annonce un consortium de 1000 milliards de dollars pour énergie, minéraux et semi-conducteurs",
@@ -67,6 +57,16 @@
       "Donald Trump impose des droits de douane sur certains médicaments pour favoriser la réimplantation d'usines aux États-Unis",
       "La prime d'activité en France augmente de 50 euros par mois en moyenne à partir d'avril 2026",
       "Créations d'emploi attendues à 48 000 en France pour mars, après une chute surprise"
+    ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": [
+      "États-Unis : rebond des créations d'emplois en mars avec 178 000 postes ajoutés",
+      "Trump demande au Congrès un budget de défense de 1 500 milliards de dollars",
+      "France : accélération des défaillances d'entreprises de 4,6 % en février",
+      "Inflation en Turquie ralentit à 30,9 % sur un an en mars",
+      "Conséquences économiques mondiales de la guerre au Moyen-Orient au 35e jour"
     ]
   }
 ]
