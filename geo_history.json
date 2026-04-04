@@ -1,15 +1,5 @@
 [
   {
-    "date": "23/03/2026",
-    "titles": [
-      "Donald Trump appelle à une coalition internationale pour débloquer le détroit d'Ormuz",
-      "Israël annonce une intensification considérable de ses frappes en Iran",
-      "Escalade militaire entre le Pakistan et l'Afghanistan après un bombardement meurtrier",
-      "Donald Trump envisage de réduire progressivement les opérations militaires contre l'Iran",
-      "Au Népal, élections générales après les manifestations anticorruption de 2025"
-    ]
-  },
-  {
     "date": "24/03/2026",
     "titles": [
       "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
@@ -71,6 +61,17 @@
       "Donald Trump déclare que 'tout a été détruit' en Iran et exclut les négociations",
       "Israël intensifie son offensive contre le Hezbollah au Liban",
       "Suspension des vols Air France vers le Moyen-Orient jusqu'au 5 avril"
+    ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": [
+      "Escalade militaire majeure : cinq fronts ouverts en 48 heures",
+      "Attaques talibans au Pakistan : 18 morts dans une caserne",
+      "Venezuela menace les installations pétrolières du Guyana",
+      "Emmanuel Macron propose une protection nucléaire française pour l'Europe",
+      "Impasse dans les négociations entre Israël et le Hamas sur les otages",
+      "Opérations militaires américaines et israéliennes contre l'Iran : quatrième jour de guerre"
     ]
   }
 ]
