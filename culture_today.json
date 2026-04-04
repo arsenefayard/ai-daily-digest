@@ -1,35 +1,35 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "news": [
     {
-      "title": "Ératosthène a calculé la circonférence de la Terre avec une ombre et un puits",
-      "summary": "Vers 230 avant Jésus-Christ, le savant grec Ératosthène a réalisé un exploit scientifique remarquable en déterminant la circonférence de la Terre en utilisant uniquement une ombre et un puits. Cette méthode géométrique simple mais ingénieuse démontre comment l'observation et le raisonnement mathématique peuvent résoudre des problèmes apparemment insurmontables. Cette prouesse intellectuelle, réalisée sans instruments modernes, reste l'une des plus grandes contributions de l'Antiquité à la science.",
-      "why": "Ce fait illustre comment les anciens Grecs ont jeté les bases de la méthode scientifique bien avant l'époque moderne, en combinant observation empirique et déduction logique pour comprendre le monde.",
-      "category": "Science pop"
-    },
-    {
-      "title": "Galilée a inventé la lunette astronomique pour réconcilier les théories du ciel",
-      "summary": "Entre 1564 et 1642, Galilée a créé la lunette astronomique, un instrument révolutionnaire qui a permis d'observer les phénomènes célestes et de réconcilier les théories de Copernic, Kepler et Tycho Brahé. En rendant ces découvertes compréhensibles et observables par tous, Galilée a « laïcisé » le ciel en prouvant que l'Univers ne fonctionnait pas selon les croyances religieuses établies. Cet acte de démocratisation du savoir scientifique lui a valu d'être accusé d'hérésie par l'Église.",
-      "why": "Galilée incarne le passage de la science d'une élite réservée à une connaissance accessible, transformant ainsi la relation entre science et société.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Un officier britannique a fait arrêter un arbre qu'il croyait vivant",
-      "summary": "Au cours de l'histoire coloniale britannique, un officier complètement saoul a cru qu'un arbre se déplaçait et l'a fait arrêter avec des chaînes, le retenant prisonnier pendant plus de cent vingt ans pour s'assurer qu'il ne s'échappe pas. Cette anecdote absurde révèle les excès de l'époque coloniale et l'autorité arbitraire exercée par certains officiers. L'arbre, bien entendu, n'a jamais tenté de s'enfuir, mais cette histoire persiste comme symbole de l'absurdité bureaucratique.",
-      "why": "Cette histoire insolite illustre comment l'ivresse, l'autorité sans limites et la crédulité peuvent produire des situations surréalistes qui perdurent dans la mémoire collective.",
+      "title": "L'arbre enchaîné du Pakistan par un officier britannique ivre",
+      "summary": "En 1898, dans l'actuel Pakistan, un officier britannique complètement saoul a cru qu'un arbre se déplaçait et l'a fait arrêter avec des chaînes pour l'empêcher de s'enfuir. Plus de cent vingt ans plus tard, l'arbre est toujours enchaîné autour du tronc, formant une étrange attraction locale. Cette anecdote illustre les excès coloniaux et les légendes persistantes nées d'un moment d'ivresse.",
+      "why": "Elle révèle comment un incident absurde peut perdurer des siècles et symboliser les bizarreries de l'histoire coloniale.",
       "category": "Insolite"
     },
     {
-      "title": "Une tablette sumérienne vieille de quatre à cinq mille ans contient une recette de bière",
-      "summary": "Les archéologues ont découvert une tablette écrite en sumérien datant de quatre à cinq mille ans qui renferme une recette pour fabriquer de la bière avec des ingrédients spécifiques. Cette découverte révèle que la fermentation et la brasserie constituaient des pratiques sophistiquées et documentées dans les civilisations anciennes. Elle témoigne également de l'importance culturelle et économique de la bière dans les sociétés mésopotamiennes, où elle était consommée quotidiennement et considérée comme une boisson nutritive.",
-      "why": "Ce document ancien montre que les civilisations anciennes possédaient des connaissances techniques avancées et que la transmission écrite du savoir-faire remonte à l'aube de l'écriture.",
+      "title": "L'inondation de mélasse de Boston en 1919",
+      "summary": "Le 15 janvier 1919 à Boston, une citerne industrielle a explosé, libérant près de neuf millions de litres de mélasse qui ont inondé les rues à grande vitesse. Cette catastrophe a tué 21 personnes, blessé 150 autres et détruit des bâtiments entiers dans un raz-de-marée collant. L'événement, surnommé 'la vague de mélasse', reste l'une des pires catastrophes industrielles liées à un aliment.",
+      "why": "Ce désastre inattendu montre les dangers cachés des infrastructures industrielles et enrichit l'histoire des accidents triviaux mais mortels.",
       "category": "Histoire"
     },
     {
-      "title": "Le voyage dans le temps est un thème central de la science-fiction moderne",
-      "summary": "Le voyage dans le temps s'est imposé comme l'un des grands thèmes de la littérature de science-fiction et du fantastique, explorant les paradoxes temporels et les implications philosophiques du déplacement à travers les époques. Des œuvres comme « Le Voyageur imprudent » de René Barjavel et « La Fin de l'Éternité » d'Isaac Asimov ont posé des questions fondamentales sur la causalité et l'identité personnelle. Plus récemment, le film « Interstellar » de Christopher Nolan a intégré la théorie de la relativité générale d'Einstein pour décrire comment le temps se déforme près d'un trou noir.",
-      "why": "Le voyage dans le temps fascine car il combine rigueur scientifique et exploration philosophique, permettant aux auteurs d'interroger la nature même du temps et de la réalité.",
-      "category": "Cinéma"
+      "title": "Virginia Oldoini, comtesse de Castiglione, espionne séductrice de Napoléon III",
+      "summary": "Au XIXe siècle, la comtesse italienne Virginia Oldoini a été envoyée à Paris par le royaume de Piémont-Sardaigne pour séduire l'empereur Napoléon III et influencer la politique en faveur de l'unification italienne. Star de la photographie de l'époque, elle posa pour des centaines de portraits extravagants qui anticipaient la mode des selfies. Ses intrigues et son image audacieuse en firent une figure emblématique de l'espionnage glamour.",
+      "why": "Son histoire met en lumière le rôle des femmes dans la diplomatie secrète et l'évolution de la photographie comme outil de pouvoir.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Les photos avec ours polaires costumés au zoo de Berlin dans les années 1920",
+      "summary": "Au début des années 1920, le zoo de Berlin a accueilli deux ours polaires si populaires que des hommes en costumes d'ours polaires posaient avec les visiteurs pour des photos souvenirs. Cette pratique a duré des décennies, même pendant la Seconde Guerre mondiale, générant des centaines d'images archivées. Elle reflète l'engouement précoce pour les interactions animales et les attractions touristiques primitives.",
+      "why": "Cette curiosité préfigure les parcs à thème modernes et montre comment les zoos ont évolué en lieux de divertissement interactif.",
+      "category": "Insolite"
+    },
+    {
+      "title": "Le paradoxe du voyageur imprudent dans le roman de René Barjavel",
+      "summary": "Dans 'Le Voyageur imprudent' de René Barjavel (1944), l'explorateur Pierre Saint-Menoux se rencontre lui-même après un saut temporel de quelques heures, créant un dilemme insoluble sur qui doit repartir dans le passé. Les deux versions de lui-même sont identiques sauf pour une légère différence de mémoire, rendant impossible une distinction claire. Ce paradoxe fondateur explore les impossibilités logiques du voyage dans le temps.",
+      "why": "Il pose les bases philosophiques des paradoxes temporels, influençant la science-fiction et les débats sur la causalité.",
+      "category": "Littérature"
     }
   ],
   "updates": []
