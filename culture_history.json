@@ -1,15 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "L'imprimerie inventée par Gutenberg vers 1440",
-      "Louis XIV et son règne record de 72 ans",
-      "Les larmes révèlent la cause des émotions",
-      "Les soldats chinois s'entraînaient avec des aiguilles sur le col",
-      "Les contes comme Les Trois Petits Cochons enseignent la persévérance"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
@@ -67,6 +57,16 @@
       "Un officier britannique a fait arrêter un arbre qu'il croyait vivant",
       "Une tablette sumérienne vieille de quatre à cinq mille ans contient une recette de bière",
       "Le voyage dans le temps est un thème central de la science-fiction moderne"
+    ]
+  },
+  {
+    "date": "04/04/2026",
+    "titles": [
+      "L'arbre enchaîné du Pakistan par un officier britannique ivre",
+      "L'inondation de mélasse de Boston en 1919",
+      "Virginia Oldoini, comtesse de Castiglione, espionne séductrice de Napoléon III",
+      "Les photos avec ours polaires costumés au zoo de Berlin dans les années 1920",
+      "Le paradoxe du voyageur imprudent dans le roman de René Barjavel"
     ]
   }
 ]
