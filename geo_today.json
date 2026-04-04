@@ -1,36 +1,44 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "news": [
     {
-      "title": "Quatrième jour de guerre israélo-américaine contre l'Iran avec de nouvelles frappes massives",
-      "summary": "Israël et les États-Unis poursuivent leur offensive militaire contre l'Iran au quatrième jour de conflit, avec des bombardements ciblant des bases aériennes, des infrastructures et l'institution chargée d'élire un nouveau guide suprême. Téhéran riposte par des tirs de missiles sur Israël et les monarchies du Golfe, tandis que le bilan humain s'élève à 800 morts côté iranien. Cette escalade marque une rupture avec les frappes ponctuelles passées, visant simultanément plusieurs piliers du régime.",
-      "why": "Cette campagne structurée risque de déstabiliser durablement le Moyen-Orient et d'impliquer d'autres acteurs régionaux, avec des répercussions mondiales sur l'énergie et la sécurité.",
+      "title": "Escalade militaire majeure : cinq fronts ouverts en 48 heures",
+      "summary": "Entre le 1er et le 3 avril 2026, cinq fronts militaires majeurs se sont simultanément ouverts à travers le monde, marquant une escalade sans précédent de la situation géopolitique. Les États-Unis et Israël poursuivent leurs opérations contre l'Iran tandis que de nouveaux théâtres de conflit émergent, notamment au Pakistan avec des attaques talibans meurtrières et au Venezuela avec des menaces contre les installations pétrolières du Guyana. Cette multiplication des crises crée un environnement d'instabilité globale qui redessine les équilibres régionaux et internationaux.",
+      "why": "Cette convergence de crises militaires sur plusieurs continents représente un tournant critique dans l'ordre géopolitique mondial, avec des risques d'escalade incontrôlée et des implications majeures pour la stabilité internationale et les approvisionnements énergétiques.",
       "category": "Conflit"
     },
     {
-      "title": "Emmanuel Macron déploie le Charles de Gaulle et des renforts au Moyen-Orient",
-      "summary": "Le président français a annoncé l'envoi du porte-avions Charles de Gaulle et de frégates en Méditerranée pour renforcer la présence militaire française au Moyen-Orient face à l'escalade israélo-iranienne. Cette décision s'inscrit dans un contexte de bombardements croisés impliquant l'Iran, le Liban et Israël. Elle vise à soutenir les efforts de stabilisation tout en protégeant les intérêts européens.",
-      "why": "Ce déploiement marque un engagement accru de la France dans le conflit, potentiellement influençant les dynamiques OTAN et européennes face à une 'longue guerre' promise par Téhéran.",
+      "title": "Attaques talibans au Pakistan : 18 morts dans une caserne",
+      "summary": "Des militants talibans ont lancé des attaques à la voiture bélier contre une caserne militaire pakistanaise, tuant 18 personnes dont sept enfants, et provoquant des explosions qui ont détruit des maisons et une mosquée. L'armée pakistanaise a affirmé avoir neutralisé les seize attaquants responsables de l'assaut. Ces attaques s'inscrivent dans une série croissante d'incidents violents au Pakistan depuis la prise de pouvoir des talibans en Afghanistan en 2021.",
+      "why": "Cette escalade de la violence talibane au Pakistan démontre l'instabilité régionale croissante en Asie du Sud et les défis sécuritaires majeurs auxquels fait face Islamabad, avec des implications pour la stabilité de toute la région.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Venezuela menace les installations pétrolières du Guyana",
+      "summary": "Des navires de la marine vénézuélienne ont pénétré dans les eaux territoriales du Guyana pour menacer des installations pétrolières stratégiques, dans le contexte de la revendication de Nicolas Maduro sur l'Essequibo, une région riche en ressources naturelles. Les États-Unis ont menacé de représailles si de tels incidents venaient à se reproduire, signalant une implication directe des puissances occidentales dans ce différend régional. Cette tension illustre les enjeux énergétiques croissants en Amérique du Sud et les risques de conflit pour le contrôle des ressources.",
+      "why": "Le contrôle de l'Essequibo et de ses ressources pétrolières représente un enjeu stratégique majeur pour la région, et l'implication des États-Unis indique que ce différend pourrait devenir un point de friction géopolitique plus large.",
+      "category": "Énergie"
+    },
+    {
+      "title": "Emmanuel Macron propose une protection nucléaire française pour l'Europe",
+      "summary": "Le président français Emmanuel Macron a proposé d'ouvrir un débat sur la mise en place d'une protection nucléaire de la France pour le reste de l'Europe, la France conservant le contrôle de son arsenal nucléaire. Cette initiative intervient dans un contexte de tensions accrues en Europe de l'Est et de remise en question de la garantie de sécurité américaine. La proposition reflète la volonté de Paris de renforcer l'autonomie stratégique européenne face aux menaces géopolitiques croissantes.",
+      "why": "Cette proposition marque un tournant dans la politique de défense européenne en proposant une alternative à la dépendance vis-à-vis de la dissuasion nucléaire américaine, avec des implications majeures pour l'architecture de sécurité du continent.",
       "category": "Sécurité"
     },
     {
-      "title": "Donald Trump déclare que 'tout a été détruit' en Iran et exclut les négociations",
-      "summary": "Le président américain Donald Trump affirme que la plupart des responsables iraniens visés sont morts et que 'tout a été détruit' en Iran, excluant toute nouvelle négociation avec Téhéran. L'ayatollah Ali Khamenei sera inhumé à Machhad, tandis que les États-Unis se disent prêts à une opération terrestre si nécessaire. Cette rhétorique dure accompagne les frappes continues contre les infrastructures iraniennes.",
-      "why": "Ces déclarations signalent une fermeté absolue de Washington, risquant une prolongation du conflit et une polarisation accrue des alliances internationales.",
+      "title": "Impasse dans les négociations entre Israël et le Hamas sur les otages",
+      "summary": "Donald Trump a lancé un dernier avertissement au Hamas pour forcer la libération des otages israéliens toujours retenus à Gaza, mais le groupe islamiste a refusé de se soumettre aux demandes américaines. Le Hamas a annoncé qu'il ne libérerait les otages que si une trêve durable était signée, ce qui a plongé les négociations dans une impasse. Les pourparlers se poursuivent mais sans progrès significatif, prolongeant l'incertitude sur la situation humanitaire à Gaza.",
+      "why": "Cette impasse diplomatique illustre l'impossibilité croissante de résoudre le conflit israélo-palestinien par la coercition seule et soulève des questions sur la viabilité des efforts de médiation américains dans la région.",
       "category": "Diplomatie"
-    },
-    {
-      "title": "Israël intensifie son offensive contre le Hezbollah au Liban",
-      "summary": "Parallèlement aux frappes en Iran, Israël poursuit son offensive contre le Hezbollah au Liban, dans un élargissement du conflit régional. Les bombardements récents ont visé le Liban, aggravant les tensions frontalières. Cette multi-frontalité complique les efforts humanitaires de l'ONU au Moyen-Orient.",
-      "why": "L'extension du front libanais menace de transformer le conflit en guerre régionale impliquant plusieurs acteurs, avec des risques humanitaires massifs.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Suspension des vols Air France vers le Moyen-Orient jusqu'au 5 avril",
-      "summary": "Air France a suspendu ses vols vers le Moyen-Orient jusqu'au 5 avril en raison de l'escalade militaire, tandis que les autorités françaises assurent l'absence de risque immédiat sur les approvisionnements en gaz et essence. Des otages français attendent toujours leur rapatriement. Cette mesure reflète l'impact direct du conflit sur la connectivité aérienne civile.",
-      "why": "Elle illustre les retombées immédiates sur l'aviation commerciale et l'économie, soulignant la vulnérabilité des chaînes logistiques mondiales face à la crise.",
-      "category": "Sécurité"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Opérations militaires américaines et israéliennes contre l'Iran : quatrième jour de guerre",
+      "original": "Quatrième jour de guerre israélo-américaine contre l'Iran avec de nouvelles frappes massives (03/04/2026)",
+      "summary": "Les opérations militaires conjointes américaines et israéliennes contre l'Iran se poursuivent avec intensité, marquant une escalade continue depuis le début du conflit. Donald Trump a déclaré que « tout a été détruit » en Iran et a exclu les négociations, durcissant la position américaine. Parallèlement, le Pentagone étudie des scénarios d'opérations terrestres majeures, notamment la sécurisation de stocks d'uranium hautement enrichi, ce qui représenterait l'une des plus importantes opérations terrestres américaines depuis l'Irak.",
+      "why": "Cette escalade militaire continue et l'exclusion des négociations par Trump marquent un tournant vers une confrontation prolongée avec l'Iran, avec des risques majeurs de déstabilisation régionale et d'impact sur les approvisionnements énergétiques mondiaux.",
+      "category": "Conflit"
+    }
+  ]
 }
