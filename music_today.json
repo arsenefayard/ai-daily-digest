@@ -1,34 +1,34 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/2026",
   "news": [
     {
-      "title": "Kungs enflamme le Zénith de Paris ce soir",
-      "summary": "Le DJ et producteur électro français Kungs se produit ce vendredi 3 avril 2026 au Zénith de La Villette pour un concert haut en énergie. Les fans pourront danser sur ses hits endiablés qui ont marqué la scène électro internationale. Cette date unique promet une soirée mémorable dans l'une des plus grandes salles parisiennes.[1][2]",
-      "why": "Kungs représente la French Touch moderne et ce concert au Zénith attire un large public en quête de vibrations électro intenses.",
-      "category": "Électro"
+      "title": "We Metal Fest 2026 ouvre ses portes aujourd'hui à Paris",
+      "summary": "Le We Metal Fest 2026 lance sa première journée ce samedi 4 avril à Paris avec une programmation explosive dédiée au métal. Cet événement rassemble des groupes emblématiques du genre pour des performances intenses devant un public passionné. Il marque le coup d'envoi d'un week-end dédié aux headbangers dans la capitale.",
+      "why": "Ce festival renforce la scène métal en France en offrant une vitrine majeure aux artistes du genre, attirant des milliers de fans et boostant l'énergie live post-hiver.",
+      "category": "Métal"
     },
     {
-      "title": "Archive en concert à La Seine Musicale ce soir",
-      "summary": "Le groupe britannique Archive donne un concert ce vendredi 3 avril 2026 à la Grande Seine de La Seine Musicale à Boulogne-Billancourt. Réputé pour son rock atmosphérique et expérimental, le groupe propose des places allant de 49,90 à 73 euros. Les billets restent disponibles pour cette performance immersive dans un lieu prestigieux.[5]",
-      "why": "Archive offre une expérience sonore unique qui séduit les amateurs de rock progressif et attire un public fidèle en Île-de-France.",
-      "category": "Rock"
-    },
-    {
-      "title": "OPRF interprète Stravinsky à l'Auditorium de Radio France",
-      "summary": "L'Orchestre Philharmonique de Radio France, dirigé par Alain Altinoglu, joue ce soir à 20h l'Oiseau de feu de Stravinsky à l'Auditorium de Radio France. Au programme figurent aussi Pacific 231 de Honegger, un concerto pour violon de Frank Martin et une œuvre de Pascal Dusapin, avec Frank Peter Zimmermann au violon. Une avant-concert à 19h présente un manuscrit original de Mozart.[4]",
-      "why": "Ce concert classical de haut niveau met en lumière des compositeurs emblématiques et accessibles un large public mélomane.",
+      "title": "Quatuor Modigliani interprète Beethoven et Brahms à l'Auditorium de Radio France",
+      "summary": "Ce soir à 20h, le Quatuor Modigliani se produit à l'Auditorium de Radio France avec un programme incluant les Microludes de György Kurtág, le Quatuor opus 18 n°6 de Beethoven et le Quatuor n°2 de Brahms. Cette soirée met en lumière des œuvres classiques exigeantes jouées par l'un des meilleurs quatuors européens. Une présentation du manuscrit original de Mozart précédera le concert.",
+      "why": "Cette prestation élève le niveau de la musique de chambre à Paris et attire les amateurs de classique pour une expérience intime et raffinée.",
       "category": "Classique"
     },
     {
-      "title": "Festival Mythos débute aujourd'hui à Rennes",
-      "summary": "Le Festival Mythos ouvre ses portes ce 3 avril 2026 à Rennes et se prolonge jusqu'au 12 avril avec une programmation éclectique mêlant théâtre, musique et humour. Cet événement annuel attire des milliers de spectateurs dans la capitale bretonne pour des spectacles variés. Les concerts et performances live en font un rendez-vous incontournable du printemps.[3][7]",
-      "why": "Mythos combine musique et arts de la scène, boostant la vie culturelle régionale et offrant une diversité artistique rafraîchissante.",
-      "category": "Autre"
+      "title": "Festival Variations célèbre ses 10 ans à Nantes avec Kim Gordon et Einstürzende Neubauten",
+      "summary": "Du 4 au 12 avril, le Festival Variations à Nantes marque son dixième anniversaire avec une affiche avant-gardiste incluant Kim Gordon, Einstürzende Neubauten, Smerz, Malibu et Jim O’Rourke avec Eiko Ishibashi. Ce rendez-vous met l'accent sur les musiques expérimentales et électroniques innovantes. Il propose des performances immersives dans divers lieux nantais.",
+      "why": "Cet événement consolide Nantes comme hub des musiques d'avant-garde et offre une plateforme rare pour des légendes internationales.",
+      "category": "Électro"
     },
     {
-      "title": "Dry Cleaning au Trianon le 14 avril",
-      "summary": "Le groupe post-punk londonien Dry Cleaning se produit le 14 avril 2026 au Trianon à Paris, porté par leur nouvel album Secret Love sorti en janvier chez 4AD. Leur style mêle spoken word hypnotique et riffs acérés pour une performance intense et avant-gardiste. Ce concert très attendu embarque le public dans un univers sonore captivant.[3]",
-      "why": "Dry Cleaning incarne le renouveau post-punk et ce passage à Paris renforce leur popularité croissante en Europe.",
+      "title": "Freddie Gibbs en concert à Paris ce 4 avril",
+      "summary": "Le rappeur américain Freddie Gibbs se produit ce soir à Paris dans le cadre des concerts du 4 avril, apportant son flow incisif et ses productions percutantes. Connu pour ses albums acclamés, il promet un show énergique mêlant hip-hop street et lyrics introspectifs. Cette date s'inscrit dans une série d'événements urbains parisiens.",
+      "why": "La venue de Freddie Gibbs enrichit la scène hip-hop française et attire un public jeune en quête de rap authentique et international.",
+      "category": "Hip-Hop"
+    },
+    {
+      "title": "Dry Cleaning au Trianon le 14 avril pour défendre leur nouvel album Secret Love",
+      "summary": "Le groupe post-punk londonien Dry Cleaning sera au Trianon le 14 avril à Paris pour présenter Secret Love, sorti en janvier chez 4AD. Leur style unique allie spoken word hypnotique de Florence Shaw et riffs acérés pour une performance intense. Ce concert très attendu prolonge la tournée de leur dernier opus.",
+      "why": "Dry Cleaning incarne le renouveau post-punk et ce live parisien permettra aux fans français de découvrir leur évolution sonore live.",
       "category": "Rock"
     }
   ],
