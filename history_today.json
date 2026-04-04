@@ -1,33 +1,33 @@
 {
-  "date": "03/04/2026",
+  "date": "04/04/1949",
   "subject": {
-    "name": "Fondation de la Sécession de Vienne",
-    "type": "Mouvement",
-    "period": "1897 · Fin XIXe siècle, Autriche",
-    "context": "Au cœur de la Belle Époque viennoise, le peintre Gustav Klimt et une quarantaine d'artistes radicaux rompent avec l'association conservatrice des artistes viennois, jugée trop académique et étouffante pour l'innovation. Ils fondent la Sécession, un mouvement artistique indépendant visant à renouveler l'art autrichien en s'ouvrant aux influences internationales comme l'Art nouveau et le symbolisme. Ce groupe expose dans un pavillon emblématique conçu par Joseph Maria Olbrich, affichant comme devise 'Ver sacrum' (Printemps sacré), symbolisant un renouveau printanier de l'art. Peu connu du grand public, ce schisme révèle les tensions entre tradition impériale et modernité naissante dans l'Empire des Habsbourg, préfigurant les avant-gardes du XXe siècle.",
+    "name": "Fondation de l'OTAN",
+    "type": "Événement",
+    "period": "4 avril 1949 · Guerre froide",
+    "context": "Le 4 avril 1949, douze nations démocratiques d'Europe occidentale et d'Amérique du Nord signent à Washington le traité constitutif de l'Organisation du traité de l'Atlantique Nord (OTAN), marquant un tournant décisif dans l'histoire geopolitique du XXe siècle. Cette alliance collective naît de la tension croissante entre les blocs occidental et soviétique, alors que l'Union soviétique consolide son emprise sur l'Europe de l'Est et que la Chine communiste vient de basculer sous le contrôle de Mao. L'OTAN transforme la Guerre froide en une confrontation institutionnalisée et structurée, remplaçant l'improvisation diplomatique par des mécanismes de défense permanents. L'article 5 du traité, stipulant que l'attaque contre un membre constitue une attaque contre tous, devient le fondement d'une solidarité militaire inédite en temps de paix. Cette alliance redéfinit l'équilibre des forces mondiales et crée un cadre de sécurité collective qui perdure jusqu'à nos jours.",
     "dates": [
       {
-        "year": "1897",
-        "label": "Gustav Klimt quitte l'association des artistes viennois"
+        "year": "1947",
+        "label": "Doctrine Truman : engagement américain en faveur de la containment du communisme"
       },
       {
-        "year": "03/04/1897",
-        "label": "Fondation officielle de la Sécession avec 40 membres"
+        "year": "1948",
+        "label": "Blocus de Berlin : première grande crise de la Guerre froide"
       },
       {
-        "year": "1898",
-        "label": "Inauguration du pavillon de la Sécession à Vienne"
+        "year": "1949",
+        "label": "Signature du traité de l'Atlantique Nord à Washington"
       },
       {
-        "year": "1898",
-        "label": "Première exposition collective sous le signe de Ver sacrum"
+        "year": "1952",
+        "label": "Adhésion de la Grèce et de la Turquie à l'OTAN"
       },
       {
-        "year": "1905",
-        "label": "Rupture de Klimt avec la Sécession pour créer la Nouvelle Sécession"
+        "year": "1955",
+        "label": "Adhésion de l'Allemagne de l'Ouest ; création du Pacte de Varsovie en réaction"
       }
     ],
-    "legacy": "La Sécession de Vienne a révolutionné l'art autrichien en introduisant un style ornemental et expressif qui a influencé le modernisme européen, notamment via des figures comme Egon Schiele et Oskar Kokoschka. Son pavillon reste un monument emblématique de Vienne, témoignant de l'ébullition culturelle pré-Sezessionniste. Aujourd'hui, ses œuvres ornent les musées mondiaux, incarnant l'esprit d'indépendance artistique qui inspire encore les mouvements contestataires.",
-    "why": "Dans un monde saturé de conformisme culturel, la Sécession rappelle que les plus grandes révolutions artistiques naissent souvent d'une poignée de dissidents prêts à briser les chaînes de la tradition."
+    "legacy": "L'OTAN devient l'alliance militaire la plus puissante et la plus durable du monde contemporain, établissant des normes de sécurité collective qui inspirent d'autres organisations régionales. Elle survit à la Guerre froide et s'élargit progressivement vers l'Est après 1991, accueillant des anciennes nations du bloc soviétique. Son article 5 n'est invoqué qu'une seule fois dans son histoire, après les attentats du 11 septembre 2001 contre les États-Unis, symbolisant son rôle central dans la sécurité occidentale.",
+    "why": "L'OTAN illustre comment les démocraties, face à une menace existentielle perçue, peuvent transcender leurs rivalités nationales pour construire une architecture de paix durable—une leçon d'autant plus pertinente aujourd'hui qu'elle rappelle que les alliances multilatérales restent le meilleur rempart contre l'autoritarisme."
   }
 }
