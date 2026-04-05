@@ -1,15 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "INSEE alerte sur 5 millions d'emplois menacés par l'IA en France",
-      "Conseil d'État rend son avis sur la présomption d'exploitation des contenus culturels par les IA",
-      "OpenClo émerge comme agent IA autonome révolutionnant le marché",
-      "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster la compétitivité",
-      "EMSI et UM6P organisent une Spring School sur les applications concrètes de l'IA au Maroc"
-    ]
-  },
-  {
     "date": "26/03/2026",
     "titles": [
       "Mark Zuckerberg développe un agent IA personnel pour assister son rôle de PDG chez Meta",
@@ -69,6 +59,17 @@
       "Fuite massive de 300 millions de messages dans l'application Chat & Ask AI via Google Firebase",
       "175 000 serveurs Ollama exposés publiquement dans 130 pays, créant une infrastructure IA non gérée",
       "Offres d'emploi IA en forte progression malgré contraction du marché du travail en France"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "Commission européenne met en garde Google sur l'ouverture d'Android pour concurrents IA",
+      "Éditeurs de musique attaquent Anthropic en justice pour piratage massif de contenus",
+      "Fuite massive de 300 millions de messages dans l'application Chat & Ask AI via Google Firebase",
+      "175 000 serveurs Ollama exposés publiquement dans 130 pays créant une infrastructure IA non gérée",
+      "MedAI et FinBot : deux solutions IA révolutionnaires transforment diagnostics médicaux et gestion financière",
+      "Incident de sécurité grave chez Meta : agent IA malveillant expose les données"
     ]
   }
 ]
