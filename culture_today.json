@@ -1,35 +1,35 @@
 {
-  "date": "04/04/2026",
+  "date": "05/04/2026",
   "news": [
     {
-      "title": "L'arbre enchaîné du Pakistan par un officier britannique ivre",
-      "summary": "En 1898, dans l'actuel Pakistan, un officier britannique complètement saoul a cru qu'un arbre se déplaçait et l'a fait arrêter avec des chaînes pour l'empêcher de s'enfuir. Plus de cent vingt ans plus tard, l'arbre est toujours enchaîné autour du tronc, formant une étrange attraction locale. Cette anecdote illustre les excès coloniaux et les légendes persistantes nées d'un moment d'ivresse.",
-      "why": "Elle révèle comment un incident absurde peut perdurer des siècles et symboliser les bizarreries de l'histoire coloniale.",
-      "category": "Insolite"
-    },
-    {
-      "title": "L'inondation de mélasse de Boston en 1919",
-      "summary": "Le 15 janvier 1919 à Boston, une citerne industrielle a explosé, libérant près de neuf millions de litres de mélasse qui ont inondé les rues à grande vitesse. Cette catastrophe a tué 21 personnes, blessé 150 autres et détruit des bâtiments entiers dans un raz-de-marée collant. L'événement, surnommé 'la vague de mélasse', reste l'une des pires catastrophes industrielles liées à un aliment.",
-      "why": "Ce désastre inattendu montre les dangers cachés des infrastructures industrielles et enrichit l'histoire des accidents triviaux mais mortels.",
+      "title": "Les Aztèques utilisaient les fèves de cacao comme monnaie",
+      "summary": "Au XVIe siècle, les Aztèques considéraient le cacao comme un cadeau des dieux et l'utilisaient comme moyen d'échange courant dans leurs transactions quotidiennes. Les fèves de cacao servaient à acheter des biens essentiels, des esclaves ou même à payer des impôts, démontrant leur valeur économique élevée. Cette pratique a influencé l'histoire du chocolat qui est passé d'une boisson amère à une douceur mondiale.",
+      "why": "Cela révèle l'origine monétaire du cacao et montre comment un aliment peut structurer une économie ancienne.",
       "category": "Histoire"
     },
     {
-      "title": "Virginia Oldoini, comtesse de Castiglione, espionne séductrice de Napoléon III",
-      "summary": "Au XIXe siècle, la comtesse italienne Virginia Oldoini a été envoyée à Paris par le royaume de Piémont-Sardaigne pour séduire l'empereur Napoléon III et influencer la politique en faveur de l'unification italienne. Star de la photographie de l'époque, elle posa pour des centaines de portraits extravagants qui anticipaient la mode des selfies. Ses intrigues et son image audacieuse en firent une figure emblématique de l'espionnage glamour.",
-      "why": "Son histoire met en lumière le rôle des femmes dans la diplomatie secrète et l'évolution de la photographie comme outil de pouvoir.",
+      "title": "Le lac Baïkal est le plus profond du monde",
+      "summary": "Situé en Sibérie, le lac Baïkal atteint une profondeur maximale de 1 642 mètres et contient environ 20 % de toutes les eaux douces liquides non gelées de la planète. Ce lac ancien, âgé de 25 millions d'années, abrite une biodiversité unique avec plus de 1 700 espèces endémiques. Malgré sa taille impressionnante, il ne représente que 0,2 % de la surface des eaux continentales mondiales.",
+      "why": "Il illustre la géographie extrême de la Terre et souligne l'importance de la préservation des écosystèmes uniques.",
+      "category": "Géographie"
+    },
+    {
+      "title": "Chaque personne possède une empreinte de langue unique",
+      "summary": "Tout comme les empreintes digitales, l'empreinte de la langue de chaque individu est distincte en raison de ses motifs papillaire uniques. Cette caractéristique est utilisée en biométrie pour l'identification sécurisée dans certains systèmes high-tech. Elle reste stable tout au long de la vie et varie même chez les jumeaux identiques.",
+      "why": "Cette curiosité biologique met en lumière les mécanismes d'identification naturelle du corps humain.",
+      "category": "Science pop"
+    },
+    {
+      "title": "La journée de 24 heures provient des anciens Égyptiens",
+      "summary": "Les anciens Égyptiens ont divisé le jour en 24 heures en utilisant des cadrans solaires pour mesurer 12 heures de jour et 12 heures de nuit. Ils ont ajouté une heure pour l'aube et une pour le crépuscule, créant ainsi notre système horaire actuel. Cette division pratique s'est perpétuée à travers les civilisations malgré les évolutions astronomiques.",
+      "why": "Elle explique l'origine quotidienne de notre mesure du temps et son héritage antique.",
       "category": "Histoire"
     },
     {
-      "title": "Les photos avec ours polaires costumés au zoo de Berlin dans les années 1920",
-      "summary": "Au début des années 1920, le zoo de Berlin a accueilli deux ours polaires si populaires que des hommes en costumes d'ours polaires posaient avec les visiteurs pour des photos souvenirs. Cette pratique a duré des décennies, même pendant la Seconde Guerre mondiale, générant des centaines d'images archivées. Elle reflète l'engouement précoce pour les interactions animales et les attractions touristiques primitives.",
-      "why": "Cette curiosité préfigure les parcs à thème modernes et montre comment les zoos ont évolué en lieux de divertissement interactif.",
-      "category": "Insolite"
-    },
-    {
-      "title": "Le paradoxe du voyageur imprudent dans le roman de René Barjavel",
-      "summary": "Dans 'Le Voyageur imprudent' de René Barjavel (1944), l'explorateur Pierre Saint-Menoux se rencontre lui-même après un saut temporel de quelques heures, créant un dilemme insoluble sur qui doit repartir dans le passé. Les deux versions de lui-même sont identiques sauf pour une légère différence de mémoire, rendant impossible une distinction claire. Ce paradoxe fondateur explore les impossibilités logiques du voyage dans le temps.",
-      "why": "Il pose les bases philosophiques des paradoxes temporels, influençant la science-fiction et les débats sur la causalité.",
-      "category": "Littérature"
+      "title": "Zorro est le personnage de bande dessinée le plus filmé",
+      "summary": "Créé par Johnston McCulley en 1919, Zorro a inspiré 69 films, le plaçant en tête des adaptations cinématographiques de héros de BD. Son premier grand film, Le Signe de Zorro en 1920, a lancé une saga durable marquée par des duels masqués et des combats pour la justice. Ce record souligne sa popularité intemporelle dans le cinéma d'aventure.",
+      "why": "Cela témoigne de l'impact culturel des personnages fictifs sur le septième art.",
+      "category": "Cinéma"
     }
   ],
   "updates": []
