@@ -1,15 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "Administration Trump annonce un consortium de 1000 milliards de dollars pour énergie, minéraux et semi-conducteurs",
-      "Trump accorde près d'un milliard de dollars à TotalEnergies pour abandonner ses parcs éoliens offshore",
-      "BCE révise ses prévisions et publie des scénarios sur l'impact de la guerre au Moyen-Orient",
-      "Prix du Brent grimpe à 114 USD/b et TTF européen à 60 EUR/MWh amid escalade dans le Golfe",
-      "Banques d'investissement prévoient hausses de taux de la BCE dès avril 2026"
-    ]
-  },
-  {
     "date": "26/03/2026",
     "titles": [
       "Les marchés anticipent un statu quo des taux de la Fed jusqu'en 2026 et des hausses pour la BCE et la BoE",
@@ -67,6 +57,16 @@
       "France : accélération des défaillances d'entreprises de 4,6 % en février",
       "Inflation en Turquie ralentit à 30,9 % sur un an en mars",
       "Conséquences économiques mondiales de la guerre au Moyen-Orient au 35e jour"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "L'Iran lance des missiles et drones sur Israël et le Koweït après l'ultimatum de Trump",
+      "Attaques iraniennes causent des dégâts majeurs aux centrales électriques du Koweït",
+      "Trump impose de nouveaux droits de douane jusqu'à 100% sur les médicaments américains",
+      "Roland Lescure saisit la Commission européenne sur les marges des raffineries",
+      "Automobile française épargnée par les droits de douane américains de Trump"
     ]
   }
 ]
