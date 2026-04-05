@@ -1,16 +1,5 @@
 [
   {
-    "date": "24/03/2026",
-    "titles": [
-      "Donald Trump lance un ultimatum de 48 heures à l'Iran pour rouvrir le détroit d'Ormuz",
-      "Ursula von der Leyen en visite au Groenland pour renforcer les partenariats énergétiques et climatiques",
-      "Élections générales au Népal après les manifestations anticorruption de 2025",
-      "La Hongrie menace de nouvelles mesures anti-Ukraine malgré les critiques européennes",
-      "Cuba paralysé par une pénurie aiguë de pétrole",
-      "Trump explore les options pour une force terrestre en Iran"
-    ]
-  },
-  {
     "date": "25/03/2026",
     "titles": [
       "Donald Trump rencontre Xi Jinping sur le commerce et la sécurité régionale",
@@ -72,6 +61,18 @@
       "Emmanuel Macron propose une protection nucléaire française pour l'Europe",
       "Impasse dans les négociations entre Israël et le Hamas sur les otages",
       "Opérations militaires américaines et israéliennes contre l'Iran : quatrième jour de guerre"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "L'Iran lance une nouvelle attaque de missiles et drones contre Israël et le Koweït",
+      "Trump rejette toute négociation avec l'Iran et menace une escalade militaire supplémentaire",
+      "Emmanuel Macron déploie le porte-avions Charles de Gaulle et des renforts militaires en Méditerranée",
+      "Israël poursuit son offensive contre le Hezbollah au Liban dans un contexte de guerre multi-fronts",
+      "L'Iran promet une « longue guerre » et intensifie ses attaques contre les pays du Golfe",
+      "Escalade majeure : passage de la cinquième à la sixième journée de guerre israélo-américaine contre l'Iran",
+      "Fermeture définitive des canaux diplomatiques : Trump exclut les négociations avec l'Iran"
     ]
   }
 ]
