@@ -1,16 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "Ligue des champions féminine : les quarts de finale aller se jouent les 24 et 25 mars",
-      "Yann Schrub remporte la médaille de bronze au championnat du monde d'athlétisme en salle",
-      "Cyclocross : Godon domine Evenepoel dans une belle performance",
-      "Équipe de France de football : dévoilement du nouveau maillot pour la Coupe du monde 2026",
-      "Tennis : Carlos Alcaraz et Iga Swiatek progressent aux quarts de finale du Miami Open",
-      "Miami Open : Alcaraz et Swiatek avancent aux quarts de finale"
-    ]
-  },
-  {
     "date": "26/03/2026",
     "titles": [
       "Tadej Pogačar remporte Milan-San Remo",
@@ -69,6 +58,16 @@
       "Rolex Monte-Carlo Masters : Début du tournoi ATP à Paris La Défense Arena",
       "JO d'hiver 2026 : Cérémonie d'ouverture à Milan-Cortina avec allumage des vasques",
       "Ligue 1 : Grave blessure au genou pour Joaquin Panichelli, meilleur buteur de Strasbourg"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "Ligue 1 : Lille humilie Lens dans le derby du Nord et relance la course au podium",
+      "Liga : Barcelone renverse l'Atlético Madrid et prend ses distances en tête",
+      "Ligue 1 : Rennes bat Brest dans un match fou et met la pression sur Lille et Lyon",
+      "JO d'hiver 2026 : Les biathlètes français décrochent l'or au relais masculin",
+      "Rolex Monte-Carlo Masters : Début du tournoi ATP Masters 1000 à Paris La Défense Arena"
     ]
   }
 ]
