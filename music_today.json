@@ -1,35 +1,35 @@
 {
-  "date": "04/04/2026",
+  "date": "05/04/2026",
   "news": [
     {
-      "title": "We Metal Fest 2026 ouvre ses portes aujourd'hui à Paris",
-      "summary": "Le We Metal Fest 2026 lance sa première journée ce samedi 4 avril à Paris avec une programmation explosive dédiée au métal. Cet événement rassemble des groupes emblématiques du genre pour des performances intenses devant un public passionné. Il marque le coup d'envoi d'un week-end dédié aux headbangers dans la capitale.",
-      "why": "Ce festival renforce la scène métal en France en offrant une vitrine majeure aux artistes du genre, attirant des milliers de fans et boostant l'énergie live post-hiver.",
+      "title": "We Metal Fest 2026 Jour 2 bat son plein à Paris",
+      "summary": "Le We Metal Fest 2026 entre dans sa deuxième journée aujourd'hui à Paris avec une programmation explosive de groupes de métal extrême. Les fans se pressent pour assister à des performances intenses qui prolongent l'euphorie du jour d'ouverture d'hier. Cet événement confirme le regain d'intérêt pour le métal live en France au printemps 2026.",
+      "why": "Ce festival majeur attire des milliers de passionnés et renforce la scène métal hexagonale avec des acts internationaux.",
       "category": "Métal"
     },
     {
-      "title": "Quatuor Modigliani interprète Beethoven et Brahms à l'Auditorium de Radio France",
-      "summary": "Ce soir à 20h, le Quatuor Modigliani se produit à l'Auditorium de Radio France avec un programme incluant les Microludes de György Kurtág, le Quatuor opus 18 n°6 de Beethoven et le Quatuor n°2 de Brahms. Cette soirée met en lumière des œuvres classiques exigeantes jouées par l'un des meilleurs quatuors européens. Une présentation du manuscrit original de Mozart précédera le concert.",
-      "why": "Cette prestation élève le niveau de la musique de chambre à Paris et attire les amateurs de classique pour une expérience intime et raffinée.",
-      "category": "Classique"
-    },
-    {
-      "title": "Festival Variations célèbre ses 10 ans à Nantes avec Kim Gordon et Einstürzende Neubauten",
-      "summary": "Du 4 au 12 avril, le Festival Variations à Nantes marque son dixième anniversaire avec une affiche avant-gardiste incluant Kim Gordon, Einstürzende Neubauten, Smerz, Malibu et Jim O’Rourke avec Eiko Ishibashi. Ce rendez-vous met l'accent sur les musiques expérimentales et électroniques innovantes. Il propose des performances immersives dans divers lieux nantais.",
-      "why": "Cet événement consolide Nantes comme hub des musiques d'avant-garde et offre une plateforme rare pour des légendes internationales.",
-      "category": "Électro"
-    },
-    {
-      "title": "Freddie Gibbs en concert à Paris ce 4 avril",
-      "summary": "Le rappeur américain Freddie Gibbs se produit ce soir à Paris dans le cadre des concerts du 4 avril, apportant son flow incisif et ses productions percutantes. Connu pour ses albums acclamés, il promet un show énergique mêlant hip-hop street et lyrics introspectifs. Cette date s'inscrit dans une série d'événements urbains parisiens.",
-      "why": "La venue de Freddie Gibbs enrichit la scène hip-hop française et attire un public jeune en quête de rap authentique et international.",
+      "title": "Favé en concert à Paris ce soir",
+      "summary": "Le rappeur Favé se produit ce 5 avril 2026 à Paris dans une salle combles, porté par le succès de ses récents singles urbains. Ce live marque un moment clé de sa tournée printanière qui enchaîne les dates sold-out. Les spectateurs attendent un set énergique mêlant nouveaux titres et classiques.",
+      "why": "Favé incarne la nouvelle génération du rap français et ce concert consolide son ascension fulgurante.",
       "category": "Hip-Hop"
     },
     {
-      "title": "Dry Cleaning au Trianon le 14 avril pour défendre leur nouvel album Secret Love",
-      "summary": "Le groupe post-punk londonien Dry Cleaning sera au Trianon le 14 avril à Paris pour présenter Secret Love, sorti en janvier chez 4AD. Leur style unique allie spoken word hypnotique de Florence Shaw et riffs acérés pour une performance intense. Ce concert très attendu prolonge la tournée de leur dernier opus.",
-      "why": "Dry Cleaning incarne le renouveau post-punk et ce live parisien permettra aux fans français de découvrir leur évolution sonore live.",
+      "title": "Ensemble royal de Paris interprète Vivaldi ce dimanche",
+      "summary": "L'Ensemble royal de Paris propose ce 5 avril 2026 à l'Église Saint-Julien-le-Pauvre une soirée dédiée aux classiques de Vivaldi avec le violoniste Dorian Rambaud et la chanteuse Olga Vojnovic. Ce concert immersif d'une heure offre une expérience baroque authentique dans un cadre historique. Il s'inscrit dans une série de représentations jusqu'en août.",
+      "why": "Ces interprétations fidèles ravivent l'intérêt pour la musique baroque et attirent un public classique exigeant.",
+      "category": "Classique"
+    },
+    {
+      "title": "Marc Ribot et François Couturier en concert à Radio France le 25 avril",
+      "summary": "Le 25 avril 2026, Marc Ribot présentera son Hurry Red Telephone Quartet au Studio 104 de Radio France, accompagné de François Couturier et Dominique Pifarély pour Preludes and Songs. Ce programme fusionne jazz, rock et improvisation dans une soirée avant-gardiste. L'événement promet une rencontre rare entre ces maîtres de l'expérimental.",
+      "why": "Cette collaboration intergénérationnelle enrichit la programmation jazz de Radio France et attire les amateurs d'innovation.",
       "category": "Rock"
+    },
+    {
+      "title": "Elena en concert au Zénith de Paris le 2 avril",
+      "summary": "Elena a enflammé le Zénith de Paris le 2 avril 2026 avec un show triomphal, surfant sur le succès de son premier album issu d'une émission télé phares. La salle était comble pour cette date clé de sa tournée nationale. Les critiques saluent son énergie pop et sa connexion avec le public.",
+      "why": "Ce succès sold-out propulse Elena comme nouvelle star pop et illustre l'impact des télé-réalités musicales.",
+      "category": "Pop"
     }
   ],
   "updates": []
