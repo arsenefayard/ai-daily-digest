@@ -1,15 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "Marie Curie, seule femme à avoir remporté deux prix Nobel dans deux disciplines différentes",
-      "L'imprimerie de Gutenberg vers 1440, révolution du partage de l'information",
-      "L'Empire mongol, le plus vaste empire terrestre contigu de l'histoire",
-      "Le Soudan possède plus de pyramides que l'Égypte",
-      "L'étymologie du mot « sandwich » remonte à un aristocrate anglais du XVIIIe siècle"
-    ]
-  },
-  {
     "date": "26/03/2026",
     "titles": [
       "Les Vikings ne portaient pas de casques à cornes",
@@ -67,6 +57,16 @@
       "Virginia Oldoini, comtesse de Castiglione, espionne séductrice de Napoléon III",
       "Les photos avec ours polaires costumés au zoo de Berlin dans les années 1920",
       "Le paradoxe du voyageur imprudent dans le roman de René Barjavel"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "Les Aztèques utilisaient les fèves de cacao comme monnaie",
+      "Le lac Baïkal est le plus profond du monde",
+      "Chaque personne possède une empreinte de langue unique",
+      "La journée de 24 heures provient des anciens Égyptiens",
+      "Zorro est le personnage de bande dessinée le plus filmé"
     ]
   }
 ]
