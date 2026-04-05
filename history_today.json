@@ -1,33 +1,37 @@
 {
-  "date": "04/04/1949",
+  "date": "05/04/2026",
   "subject": {
-    "name": "Fondation de l'OTAN",
-    "type": "Événement",
-    "period": "4 avril 1949 · Guerre froide",
-    "context": "Le 4 avril 1949, douze nations démocratiques d'Europe occidentale et d'Amérique du Nord signent à Washington le traité constitutif de l'Organisation du traité de l'Atlantique Nord (OTAN), marquant un tournant décisif dans l'histoire geopolitique du XXe siècle. Cette alliance collective naît de la tension croissante entre les blocs occidental et soviétique, alors que l'Union soviétique consolide son emprise sur l'Europe de l'Est et que la Chine communiste vient de basculer sous le contrôle de Mao. L'OTAN transforme la Guerre froide en une confrontation institutionnalisée et structurée, remplaçant l'improvisation diplomatique par des mécanismes de défense permanents. L'article 5 du traité, stipulant que l'attaque contre un membre constitue une attaque contre tous, devient le fondement d'une solidarité militaire inédite en temps de paix. Cette alliance redéfinit l'équilibre des forces mondiales et crée un cadre de sécurité collective qui perdure jusqu'à nos jours.",
+    "name": "Découverte de l'île de Pâques par Jacob Roggeveen",
+    "type": "Découverte",
+    "period": "5 avril 1722 · Époque des explorations européennes dans le Pacifique",
+    "context": "L'explorateur hollandais Jacob Roggeveen, à la tête d'une expédition de trois navires financée par la Compagnie néerlandaise des Indes orientales, repère une île isolée au milieu de l'océan Pacifique après des mois de navigation périlleuse. Ses habitants, les Rapanui, l'accueillent avec curiosité, mais les interactions tournent rapidement à la violence en raison de malentendus et de la supériorité technologique des Européens. Roggeveen baptise l'île 'Paquesinsel' car il l'aborde un dimanche de Pâques, nom qui s'impose en français comme 'île de Pâques'. Cette rencontre révèle aux Occidentaux les célèbres statues moaï, monuments mégalithiques érigés par une civilisation polynésienne avancée, bien que l'expédition ne comprenne pas pleinement leur signification culturelle et spirituelle.",
     "dates": [
       {
-        "year": "1947",
-        "label": "Doctrine Truman : engagement américain en faveur de la containment du communisme"
+        "year": "1659",
+        "label": "Naissance de Jacob Roggeveen à Middelbourg, en Hollande"
       },
       {
-        "year": "1948",
-        "label": "Blocus de Berlin : première grande crise de la Guerre froide"
+        "year": "1721",
+        "label": "Départ de l'expédition depuis le port de Texel avec trois navires"
       },
       {
-        "year": "1949",
-        "label": "Signature du traité de l'Atlantique Nord à Washington"
+        "year": "1722",
+        "label": "Découverte de l'île de Pâques le 5 avril, baptême en l'honneur de Pâques"
       },
       {
-        "year": "1952",
-        "label": "Adhésion de la Grèce et de la Turquie à l'OTAN"
+        "year": "1722",
+        "label": "Premier contact violent avec les habitants Rapanui et observation des moaï"
       },
       {
-        "year": "1955",
-        "label": "Adhésion de l'Allemagne de l'Ouest ; création du Pacte de Varsovie en réaction"
+        "year": "1723",
+        "label": "Retour à Batavia (Jakarta) après avoir perdu un navire dans une tempête"
+      },
+      {
+        "year": "1729",
+        "label": "Mort de Roggeveen à Batavia sans avoir vu sa relation de voyage publiée"
       }
     ],
-    "legacy": "L'OTAN devient l'alliance militaire la plus puissante et la plus durable du monde contemporain, établissant des normes de sécurité collective qui inspirent d'autres organisations régionales. Elle survit à la Guerre froide et s'élargit progressivement vers l'Est après 1991, accueillant des anciennes nations du bloc soviétique. Son article 5 n'est invoqué qu'une seule fois dans son histoire, après les attentats du 11 septembre 2001 contre les États-Unis, symbolisant son rôle central dans la sécurité occidentale.",
-    "why": "L'OTAN illustre comment les démocraties, face à une menace existentielle perçue, peuvent transcender leurs rivalités nationales pour construire une architecture de paix durable—une leçon d'autant plus pertinente aujourd'hui qu'elle rappelle que les alliances multilatérales restent le meilleur rempart contre l'autoritarisme."
+    "legacy": "Cette découverte introduit l'île de Pâques dans la conscience occidentale, stimulant les spéculations sur les civilisations isolées et les théories de diffusion culturelle à travers le Pacifique. Les moaï sont devenus un symbole universel de mystère archéologique, inspirant recherches scientifiques et protections patrimoniales par l'UNESCO. Aujourd'hui, l'île, ou Rapa Nui, attire des millions de visiteurs et pose des questions écologiques sur la résilience des sociétés insulaires face au changement climatique.",
+    "why": "L'île de Pâques démontre comment une civilisation isolée a bâti des chefs-d'œuvre mégalithiques sans influence extérieure, défiant les idées reçues sur l'évolution humaine et rappelant que l'isolement peut engendrer des génies culturels inattendus."
   }
 }
