@@ -1,35 +1,35 @@
 {
-  "date": "04/04/2026",
+  "date": "05/04/2026",
   "news": [
     {
-      "title": "États-Unis : rebond des créations d'emplois en mars avec 178 000 postes ajoutés",
-      "summary": "Les États-Unis ont créé 178 000 emplois en mars 2026, après une destruction quasi équivalente le mois précédent, selon les données officielles publiées le 3 avril. Le taux de chômage s'est replié à 4,3 %, marquant un léger reflux sur le marché du travail. Ce rebond dépasse les attentes des économistes et renforce la résilience de l'économie américaine face aux tensions géopolitiques.",
-      "why": "Cette amélioration inattendue des créations d'emplois pourrait influencer les décisions de la Fed sur les taux d'intérêt et soutenir la confiance des investisseurs sur les marchés mondiaux.",
-      "category": "Marchés"
+      "title": "L'Iran lance des missiles et drones sur Israël et le Koweït après l'ultimatum de Trump",
+      "summary": "L'Iran a tiré tôt dimanche des missiles et drones vers Israël et le Koweït, au lendemain de l'ultimatum de 48 heures lancé par Donald Trump exigeant la réouverture du détroit d'Ormuz sous peine de 'l'enfer'. Les défenses aériennes ont intercepté la plupart des projectiles, mais des tensions persistent dans la région du Golfe. Cette escalade risque de perturber davantage les flux pétroliers mondiaux et d'accentuer la flambée des prix de l'énergie.",
+      "why": "Cette attaque directe menace la stabilité des approvisionnements énergétiques mondiaux et pourrait propulser les prix du pétrole à des niveaux records, impactant l'inflation globale.",
+      "category": "Matières premières"
     },
     {
-      "title": "Trump demande au Congrès un budget de défense de 1 500 milliards de dollars",
-      "summary": "Au 35e jour du conflit au Moyen-Orient, le président américain Donald Trump a réclamé au Congrès une augmentation massive du budget de défense à 1 500 milliards de dollars. Cette demande s'inscrit dans le contexte des escalades régionales et vise à renforcer les capacités militaires des États-Unis. Elle pourrait alourdir le déficit budgétaire américain déjà élevé.",
-      "why": "Ce budget colossal impactera les finances publiques américaines et les marchés obligataires, tout en signalant une intensification des dépenses liées à la géopolitique mondiale.",
+      "title": "Attaques iraniennes causent des dégâts majeurs aux centrales électriques du Koweït",
+      "summary": "Le Koweït a subi dimanche une salve de missiles et drones iraniens visant un complexe gouvernemental et deux centrales électriques de dessalement d'eau, entraînant leur mise à l'arrêt partielle. Les autorités koweïtiennes rapportent des dégâts importants affectant la production d'électricité et d'eau potable. Ces frappes soulignent la vulnérabilité des infrastructures critiques dans le Golfe face à l'escalade du conflit.",
+      "why": "La perturbation de la production énergétique au Koweït pourrait aggraver les pénuries régionales et faire grimper les prix mondiaux de l'énergie, avec des répercussions sur les chaînes d'approvisionnement.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Trump impose de nouveaux droits de douane jusqu'à 100% sur les médicaments américains",
+      "summary": "Donald Trump a signé un décret imposant des surtaxes pouvant atteindre 100% sur les produits pharmaceutiques importés pour favoriser la réimplantation d'usines aux États-Unis, tout en ajustant les droits sur les métaux. Cette mesure vise à relocaliser la production critique de médicaments face aux tensions géopolitiques. Elle pourrait renchérir les coûts pour les importateurs et stimuler les investissements domestiques.",
+      "why": "Ces tariffs disruptifs pourraient réorganiser les chaînes d'approvisionnement pharmaceutiques mondiales et influencer les cours des actions des entreprises du secteur.",
       "category": "Politique monétaire"
     },
     {
-      "title": "France : accélération des défaillances d'entreprises de 4,6 % en février",
-      "summary": "Le nombre de défaillances d'entreprises en France a augmenté de 4,6 % en février 2026 par rapport à l'année précédente, atteignant 69 392 cas sur douze mois glissants, selon la Banque de France. Ce taux, qui ralentissait depuis début 2023, marque une hausse pour le deuxième mois consécutif. Cette tendance reflète les pressions inflationnistes et les coûts énergétiques persistants.",
-      "why": "L'aggravation des faillites signale une fragilité croissante du tissu économique français et pourrait peser sur la croissance et l'emploi dans les mois à venir.",
+      "title": "Roland Lescure saisit la Commission européenne sur les marges des raffineries",
+      "summary": "Le ministre français de l'Économie, Roland Lescure, a demandé à la Commission européenne d'enquêter sur les marges pratiquées par les raffineries européennes amid la flambée des prix des carburants due à la guerre au Moyen-Orient. Cette saisine vise à détecter tout abus de position dominante dans un contexte de tensions sur les marchés pétroliers. Une enquête positive pourrait mener à des sanctions et à une baisse des prix à la pompe.",
+      "why": "Cette initiative pourrait modérer les prix des carburants en Europe et atténuer l'impact inflationniste sur les ménages et les entreprises.",
       "category": "Entreprises"
     },
     {
-      "title": "Inflation en Turquie ralentit à 30,9 % sur un an en mars",
-      "summary": "L'inflation annuelle en Turquie a décéléré à 30,9 % en mars 2026, marquant un ralentissement par rapport aux mois précédents malgré une économie volatile. Cette baisse s'explique par une politique monétaire plus orthodoxe et une stabilisation partielle de la lire. Cependant, le niveau reste élevé et challenge la Banque centrale turque.",
-      "why": "Ce recul de l'inflation pourrait stabiliser les marchés émergents et attirer des investissements étrangers, mais tout rebond risquerait d'amplifier la volatilité régionale.",
-      "category": "Marchés"
-    },
-    {
-      "title": "Conséquences économiques mondiales de la guerre au Moyen-Orient au 35e jour",
-      "summary": "Au 35e jour du conflit au Moyen-Orient, les évolutions économiques mondiales incluent des hausses des prix de l'énergie et des perturbations des chaînes d'approvisionnement. Les analyses soulignent un impact sur la croissance globale et l'inflation importée dans les pays occidentaux. Les marchés boursiers restent tendus face à ces incertitudes prolongées.",
-      "why": "La prolongation du conflit exacerbe les risques inflationnistes et ralentit la croissance mondiale, forçant les banques centrales à ajuster leurs politiques monétaires.",
-      "category": "Matières premières"
+      "title": "Automobile française épargnée par les droits de douane américains de Trump",
+      "summary": "Les constructeurs automobiles français comme Peugeot, Citroën et Renault échappent aux nouveaux droits de douane de 15% imposés par Trump sur les importations aux États-Unis, faute d'y vendre significativement. À l'inverse, les groupes allemands seront lourdement impactés par ces mesures protectionnistes. Cela préserve la compétitivité des firmes françaises sur d'autres marchés tout en accentuant les pressions sur leurs concurrents européens.",
+      "why": "Cette asymétrie renforce la position relative des constructeurs français et pourrait modifier les dynamiques concurrentielles dans l'industrie automobile mondiale.",
+      "category": "Entreprises"
     }
   ],
   "updates": []
