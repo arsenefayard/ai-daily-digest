@@ -1,15 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "Solane en double concert au Zénith de Paris ce soir",
-      "Retour triomphal des BTS sur scène à Séoul avec 260 000 fans",
-      "Oxmo Puccino annonce sa tournée d'adieu avec un dernier album",
-      "Succès sold-out pour Bars en Fête #18 avec Marguerite et GiedRé",
-      "Festival Jazz à Commercy séduit 160 spectateurs par soir"
-    ]
-  },
-  {
     "date": "26/03/2026",
     "titles": [
       "Solane triomphe au Zénith de Paris en double concert sold-out",
@@ -67,6 +57,16 @@
       "Festival Variations célèbre ses 10 ans à Nantes avec Kim Gordon et Einstürzende Neubauten",
       "Freddie Gibbs en concert à Paris ce 4 avril",
       "Dry Cleaning au Trianon le 14 avril pour défendre leur nouvel album Secret Love"
+    ]
+  },
+  {
+    "date": "05/04/2026",
+    "titles": [
+      "We Metal Fest 2026 Jour 2 bat son plein à Paris",
+      "Favé en concert à Paris ce soir",
+      "Ensemble royal de Paris interprète Vivaldi ce dimanche",
+      "Marc Ribot et François Couturier en concert à Radio France le 25 avril",
+      "Elena en concert au Zénith de Paris le 2 avril"
     ]
   }
 ]
