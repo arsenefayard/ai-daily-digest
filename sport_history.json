@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Tadej Pogačar remporte Milan-San Remo",
-      "FIFA impose une règle : une femme obligatoire dans les staffs des équipes féminines",
-      "Victor Wembanyama offre un titre de division aux Spurs",
-      "Quarts de finale aller de la Ligue des champions féminine lancés",
-      "Théo Atmane réalise l'exploit en dominant un top joueur"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "Miami Open : Alcaraz et Swiatek qualifiés pour les demi-finales",
@@ -68,6 +58,16 @@
       "Ligue 1 : Rennes bat Brest dans un match fou et met la pression sur Lille et Lyon",
       "JO d'hiver 2026 : Les biathlètes français décrochent l'or au relais masculin",
       "Rolex Monte-Carlo Masters : Début du tournoi ATP Masters 1000 à Paris La Défense Arena"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "Ligue 1 : L'OM se relance face à Metz et grimpe sur le podium",
+      "Liga : Le Real Madrid tenu en échec par Gérone, le titre s'éloigne",
+      "Tennis : Vacherot crée la sensation en battant De Minaur au Monte-Carlo Masters",
+      "Ligue 1 : Le Paris FC humilie Monaco (4-1) et brise sa série",
+      "Cyclisme : Paul Seixas remporte l'étape reine du Tour du Pays basque"
     ]
   }
 ]
