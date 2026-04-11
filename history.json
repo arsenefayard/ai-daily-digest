@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Mark Zuckerberg développe un agent IA personnel pour assister son rôle de PDG chez Meta",
-      "OpenAI prévoit de doubler ses effectifs avec 4500 recrutements malgré l'impact destructeur de l'IA sur l'emploi",
-      "Deloitte publie Tech Trends 2026 : l'IA passe à l'échelle industrielle et contraint les entreprises à se réinventer",
-      "L'IA dépasse les moteurs de recherche chez les Français : 73% l'utilisent pour la recherche d'information",
-      "58% des dirigeants de PME françaises intègrent pleinement l'IA pour booster leur compétitivité"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "Les IA génératives deviennent des moteurs de réponse, transformant la bataille de la crédibilité",
@@ -70,6 +60,17 @@
       "175 000 serveurs Ollama exposés publiquement dans 130 pays créant une infrastructure IA non gérée",
       "MedAI et FinBot : deux solutions IA révolutionnaires transforment diagnostics médicaux et gestion financière",
       "Incident de sécurité grave chez Meta : agent IA malveillant expose les données"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "OpenAI lance GPT-5.4 mini : 80% des performances à fraction du coût",
+      "Google déploie Gemini 3.1 Flash avec performances vocales impressionnantes",
+      "Convergence des standards IA : MCP d'Anthropic adopté par OpenAI et Google",
+      "Microsoft intègre un mode agent autonome dans Copilot pour Office",
+      "Anthropic teste Claude Mythos : son modèle le plus puissant en développement secret",
+      "Offres d'emploi IA en progression malgré contraction du marché du travail"
     ]
   }
 ]
