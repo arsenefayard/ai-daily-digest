@@ -1,35 +1,35 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "news": [
     {
-      "title": "Les Aztèques utilisaient les fèves de cacao comme monnaie",
-      "summary": "Au XVIe siècle, les Aztèques considéraient le cacao comme un cadeau des dieux et l'utilisaient comme moyen d'échange courant dans leurs transactions quotidiennes. Les fèves de cacao servaient à acheter des biens essentiels, des esclaves ou même à payer des impôts, démontrant leur valeur économique élevée. Cette pratique a influencé l'histoire du chocolat qui est passé d'une boisson amère à une douceur mondiale.",
-      "why": "Cela révèle l'origine monétaire du cacao et montre comment un aliment peut structurer une économie ancienne.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Le lac Baïkal est le plus profond du monde",
-      "summary": "Situé en Sibérie, le lac Baïkal atteint une profondeur maximale de 1 642 mètres et contient environ 20 % de toutes les eaux douces liquides non gelées de la planète. Ce lac ancien, âgé de 25 millions d'années, abrite une biodiversité unique avec plus de 1 700 espèces endémiques. Malgré sa taille impressionnante, il ne représente que 0,2 % de la surface des eaux continentales mondiales.",
-      "why": "Il illustre la géographie extrême de la Terre et souligne l'importance de la préservation des écosystèmes uniques.",
-      "category": "Géographie"
-    },
-    {
-      "title": "Chaque personne possède une empreinte de langue unique",
-      "summary": "Tout comme les empreintes digitales, l'empreinte de la langue de chaque individu est distincte en raison de ses motifs papillaire uniques. Cette caractéristique est utilisée en biométrie pour l'identification sécurisée dans certains systèmes high-tech. Elle reste stable tout au long de la vie et varie même chez les jumeaux identiques.",
-      "why": "Cette curiosité biologique met en lumière les mécanismes d'identification naturelle du corps humain.",
+      "title": "Les homards produisent une enzyme qui répare leurs cellules indéfiniment",
+      "summary": "Contrairement au mythe de leur immortalité biologique, les homards sécrètent une enzyme appelée télomérase qui répare leurs cellules et permet à leur ADN de se répliquer sans limite. Cela leur confère une longévité exceptionnelle tant qu'ils ne sont pas tués par des prédateurs ou la maladie. Ce mécanisme explique pourquoi certains spécimens atteignent des tailles et des âges impressionnants en captivité.",
+      "why": "Cette découverte démystifie un fait populaire et illustre les merveilles de la biologie marine, invitant à une meilleure compréhension des processus cellulaires.",
       "category": "Science pop"
     },
     {
-      "title": "La journée de 24 heures provient des anciens Égyptiens",
-      "summary": "Les anciens Égyptiens ont divisé le jour en 24 heures en utilisant des cadrans solaires pour mesurer 12 heures de jour et 12 heures de nuit. Ils ont ajouté une heure pour l'aube et une pour le crépuscule, créant ainsi notre système horaire actuel. Cette division pratique s'est perpétuée à travers les civilisations malgré les évolutions astronomiques.",
-      "why": "Elle explique l'origine quotidienne de notre mesure du temps et son héritage antique.",
+      "title": "Le mot sandwich provient d'un aristocrate anglais du XVIIIe siècle",
+      "summary": "Le terme 'sandwich' tire son origine du quatrième comte de Sandwich, John Montagu, qui en 1762 demanda qu'on lui apporte de la viande entre deux tranches de pain pour manger sans interrompre sa partie de cartes. Cette pratique se popularisa rapidement parmi la noblesse britannique et donna naissance à un aliment mondial. Aujourd'hui, le sandwich est un pilier de la cuisine rapide dans le monde entier.",
+      "why": "Cette étymologie révèle comment une habitude personnelle d'un noble a transformé les habitudes alimentaires globales.",
       "category": "Histoire"
     },
     {
-      "title": "Zorro est le personnage de bande dessinée le plus filmé",
-      "summary": "Créé par Johnston McCulley en 1919, Zorro a inspiré 69 films, le plaçant en tête des adaptations cinématographiques de héros de BD. Son premier grand film, Le Signe de Zorro en 1920, a lancé une saga durable marquée par des duels masqués et des combats pour la justice. Ce record souligne sa popularité intemporelle dans le cinéma d'aventure.",
-      "why": "Cela témoigne de l'impact culturel des personnages fictifs sur le septième art.",
+      "title": "Zorro est le personnage de bande dessinée le plus adapté au cinéma",
+      "summary": "Créé par Johnston McCulley en 1919, Zorro a inspiré 69 films, faisant de lui le héros de bande dessinée le plus filmé de l'histoire. Son premier long métrage, 'Le Signe de Zorro' en 1920, posa les bases de son image de justicier masqué luttant contre l'injustice en Californie espagnole. Ces adaptations ont popularisé le genre des vengeurs masqués dans le cinéma mondial.",
+      "why": "Ce record souligne l'impact durable d'un personnage fictif sur la culture populaire et le cinéma d'aventure.",
       "category": "Cinéma"
+    },
+    {
+      "title": "En 1838, la plus ancienne photo connue capture un homme se faisant cirer les chaussures",
+      "summary": "Prise par Louis Daguerre sur le boulevard du Temple à Paris, cette image de 1838 est la plus ancienne photographie conservée montrant un être humain. Elle ne révèle qu'un homme immobile se faisant cirer les chaussures, car les temps d'exposition longs effaçaient les passants en mouvement. Cette œuvre pionnière marque le début de la photographie comme art documentaire.",
+      "why": "Elle incarne le seuil technique entre invention et usage pratique de la photographie, révolutionnant la capture du réel.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Les soldats chinois anciens s'entraînaient avec des aiguilles sur le col pour garder la tête haute",
+      "summary": "Dans la Chine impériale, les recrues militaires subissaient un entraînement rigoureux où de petites aiguilles étaient placées sur leur col pour les forcer à redresser la tête et adopter une posture irréprochable. Cette méthode visait à inculquer discipline et fierté au sein de l'armée. Elle reflète les valeurs confucéennes de rectitude physique et morale.",
+      "why": "Cette pratique illustre comment les cultures antiques intégraient le corps dans la formation morale et militaire.",
+      "category": "Histoire"
     }
   ],
   "updates": []
