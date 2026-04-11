@@ -1,35 +1,35 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "news": [
     {
-      "title": "L'Iran lance des missiles et drones sur Israël et le Koweït après l'ultimatum de Trump",
-      "summary": "L'Iran a tiré tôt dimanche des missiles et drones vers Israël et le Koweït, au lendemain de l'ultimatum de 48 heures lancé par Donald Trump exigeant la réouverture du détroit d'Ormuz sous peine de 'l'enfer'. Les défenses aériennes ont intercepté la plupart des projectiles, mais des tensions persistent dans la région du Golfe. Cette escalade risque de perturber davantage les flux pétroliers mondiaux et d'accentuer la flambée des prix de l'énergie.",
-      "why": "Cette attaque directe menace la stabilité des approvisionnements énergétiques mondiaux et pourrait propulser les prix du pétrole à des niveaux records, impactant l'inflation globale.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Attaques iraniennes causent des dégâts majeurs aux centrales électriques du Koweït",
-      "summary": "Le Koweït a subi dimanche une salve de missiles et drones iraniens visant un complexe gouvernemental et deux centrales électriques de dessalement d'eau, entraînant leur mise à l'arrêt partielle. Les autorités koweïtiennes rapportent des dégâts importants affectant la production d'électricité et d'eau potable. Ces frappes soulignent la vulnérabilité des infrastructures critiques dans le Golfe face à l'escalade du conflit.",
-      "why": "La perturbation de la production énergétique au Koweït pourrait aggraver les pénuries régionales et faire grimper les prix mondiaux de l'énergie, avec des répercussions sur les chaînes d'approvisionnement.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Trump impose de nouveaux droits de douane jusqu'à 100% sur les médicaments américains",
-      "summary": "Donald Trump a signé un décret imposant des surtaxes pouvant atteindre 100% sur les produits pharmaceutiques importés pour favoriser la réimplantation d'usines aux États-Unis, tout en ajustant les droits sur les métaux. Cette mesure vise à relocaliser la production critique de médicaments face aux tensions géopolitiques. Elle pourrait renchérir les coûts pour les importateurs et stimuler les investissements domestiques.",
-      "why": "Ces tariffs disruptifs pourraient réorganiser les chaînes d'approvisionnement pharmaceutiques mondiales et influencer les cours des actions des entreprises du secteur.",
+      "title": "Inflation en zone euro à 2,5 % en mars, plus haut depuis deux ans",
+      "summary": "L’inflation dans la zone euro a nettement remonté à 2,5 % en mars contre 1,9 % en février, sous l’effet principal de la hausse des prix de l’énergie liée aux tensions géopolitiques. L’inflation sous-jacente reste stable à 2,3 %, indiquant qu’il n’y a pas encore de transmission généralisée des chocs énergétiques à l’ensemble de l’économie. Cette accélération complique les décisions de la BCE sur les taux d’intérêt dans un contexte de croissance fragile.",
+      "why": "Cette hausse inattendue de l’inflation renforce les pressions sur la BCE pour maintenir une politique monétaire restrictive, impactant directement les marchés obligataires et les coûts d’emprunt pour les entreprises et les États.",
       "category": "Politique monétaire"
     },
     {
-      "title": "Roland Lescure saisit la Commission européenne sur les marges des raffineries",
-      "summary": "Le ministre français de l'Économie, Roland Lescure, a demandé à la Commission européenne d'enquêter sur les marges pratiquées par les raffineries européennes amid la flambée des prix des carburants due à la guerre au Moyen-Orient. Cette saisine vise à détecter tout abus de position dominante dans un contexte de tensions sur les marchés pétroliers. Une enquête positive pourrait mener à des sanctions et à une baisse des prix à la pompe.",
-      "why": "Cette initiative pourrait modérer les prix des carburants en Europe et atténuer l'impact inflationniste sur les ménages et les entreprises.",
-      "category": "Entreprises"
+      "title": "Inflation bondit aux États-Unis sous l’effet de la guerre en Iran",
+      "summary": "L’inflation américaine a fortement augmenté ces dernières semaines, attribuée directement aux conséquences économiques de la guerre en Iran initiée sous Donald Trump, avec une hausse des prix des carburants et des biens importés. Les ménages américains subissent une facture énergétique plus lourde, tandis que la Fed observe une résilience de la croissance mais un marché du travail qui se fragilise. Cette dynamique incite la Fed à la prudence sur d’éventuelles baisses de taux.",
+      "why": "Cette flambée inflationniste aux États-Unis, première économie mondiale, risque de prolonger les taux élevés et d’affecter la consommation mondiale ainsi que les flux de capitaux vers les marchés émergents.",
+      "category": "Marchés"
     },
     {
-      "title": "Automobile française épargnée par les droits de douane américains de Trump",
-      "summary": "Les constructeurs automobiles français comme Peugeot, Citroën et Renault échappent aux nouveaux droits de douane de 15% imposés par Trump sur les importations aux États-Unis, faute d'y vendre significativement. À l'inverse, les groupes allemands seront lourdement impactés par ces mesures protectionnistes. Cela préserve la compétitivité des firmes françaises sur d'autres marchés tout en accentuant les pressions sur leurs concurrents européens.",
-      "why": "Cette asymétrie renforce la position relative des constructeurs français et pourrait modifier les dynamiques concurrentielles dans l'industrie automobile mondiale.",
-      "category": "Entreprises"
+      "title": "Production industrielle de la zone euro en baisse de 1,2 % en janvier",
+      "summary": "La production industrielle de la zone euro a reculé de 1,2 % en glissement annuel en janvier 2026, marquant sa première baisse depuis un an et décevant les attentes des analystes qui prévoyaient une croissance de 1,4 %. Ce déclin s’inscrit dans un contexte de tensions géopolitiques et de hausse des coûts énergétiques. Les indicateurs avancés montrent un secteur manufacturier en expansion modérée mais des services en faiblesse.",
+      "why": "Ce recul industriel signale un ralentissement économique en Europe, avec des implications sur l’emploi et les investissements, aggravant les divergences avec la résilience américaine.",
+      "category": "Marchés"
+    },
+    {
+      "title": "Prix des carburants en France baissent lentement malgré forte hausse préalable",
+      "summary": "Les prix du diesel ont bondi de 33 % et du sans-plomb 95 de 16 % depuis fin février en raison de l’attaque américano-israélienne sur l’Iran, mais ils ne redescendent que très lentement à la pompe. Cette asymétrie s’explique par les marges des raffineries et les stocks spéculatifs. Le gouvernement français monitorise la situation pour éviter une inflation importée durable.",
+      "why": "Cette évolution des prix des carburants impacte directement le pouvoir d’achat des ménages et les coûts des entreprises de transport, alimentant les tensions inflationnistes en Europe.",
+      "category": "Matières premières"
+    },
+    {
+      "title": "Mesures françaises pour accélérer l’électrification des transports et logements",
+      "summary": "Le ministre Sébastien Lecornu a annoncé des mesures pour interdire progressivement les chaudières à gaz et offrir des aides aux gros rouleurs en véhicules électriques, visant à réduire la dépendance au gaz et au pétrole dont les prix ont explosé. Ces incitations incluent des subventions pour l’électrification du logement et des transports. Elles s’inscrivent dans une stratégie de transition énergétique accélérée face aux chocs géopolitiques.",
+      "why": "Ces politiques publiques pourraient stimuler les investissements dans les secteurs verts, créer des emplois dans l’électrique, mais augmentent les besoins en financement public dans un contexte budgétaire tendu.",
+      "category": "Politique monétaire"
     }
   ],
   "updates": []
