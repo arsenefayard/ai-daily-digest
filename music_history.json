@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Solane triomphe au Zénith de Paris en double concert sold-out",
-      "Kreator, Carcass, Exodus et Nails déchaînent le Zénith de Paris",
-      "Placebo annonce un concert au Zénith de Toulouse le 5 mai",
-      "Bigflo & Oli prêts à conquérir le Zénith de Toulouse dès le 17 avril",
-      "Dirty Dancing In Concert arrive au Zénith de Toulouse le 3 avril"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "Rosalia de retour en France avec des concerts très attendus à l'Accor Arena",
@@ -67,6 +57,16 @@
       "Ensemble royal de Paris interprète Vivaldi ce dimanche",
       "Marc Ribot et François Couturier en concert à Radio France le 25 avril",
       "Elena en concert au Zénith de Paris le 2 avril"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "Focus New Music 2026 : la création musicale française à l'honneur à la Philharmonie de Paris",
+      "Festival Chorus 2026 : 60 artistes et une programmation jeune public inédite à La Seine Musicale",
+      "Festival Explore : la musique contemporaine et expérimentale investit la Philharmonie du 10 au 13 avril",
+      "Nouveautés musicales d'avril 2026 : une vague d'albums indie, post-punk et expérimentaux",
+      "Paris accueille 82 concerts le samedi 11 avril 2026 : une journée musicale exceptionnelle"
     ]
   }
 ]
