@@ -1,17 +1,5 @@
 [
   {
-    "date": "25/03/2026",
-    "titles": [
-      "Donald Trump rencontre Xi Jinping sur le commerce et la sécurité régionale",
-      "La Russie intensifie ses frappes contre l'Ukraine dans sa plus grande attaque depuis des semaines",
-      "Élections législatives au Danemark : les sociaux-démocrates en tête mais en recul",
-      "Marchés boursiers asiatiques en chute après l'ultimatum de Trump à l'Iran",
-      "Explosion près de l'ambassade américaine à Oslo",
-      "Trump renonce à son ultimatum de 48 heures à l'Iran",
-      "Élection de Mojtaba Khamenei comme nouveau guide suprême iranien"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "L'Iran rejette le plan de paix en 15 points proposé par les États-Unis",
@@ -73,6 +61,16 @@
       "L'Iran promet une « longue guerre » et intensifie ses attaques contre les pays du Golfe",
       "Escalade majeure : passage de la cinquième à la sixième journée de guerre israélo-américaine contre l'Iran",
       "Fermeture définitive des canaux diplomatiques : Trump exclut les négociations avec l'Iran"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "États-Unis et Iran conviennent d'un cessez-le-feu de deux semaines au Moyen-Orient",
+      "Poutine annonce un cessez-le-feu pour Pâques en Ukraine après proposition de Kyiv",
+      "Le vice-président américain Vance soutient Orbán et critique Bruxelles lors d'une réunion",
+      "Cessez-le-feu en Iran : chute du pétrole et rebond des marchés européens",
+      "Netanyahu exclut un cessez-le-feu avec le Hezbollah malgré discussions avec le Liban"
     ]
   }
 ]
