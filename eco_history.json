@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Les marchés anticipent un statu quo des taux de la Fed jusqu'en 2026 et des hausses pour la BCE et la BoE",
-      "L'or chute vers sa plus longue série de baisses historiques en dix jours",
-      "Forum de Boao prévoit une croissance économique asiatique à 4,5 % en 2026",
-      "La Turquie envisage d'utiliser ses 135 milliards de dollars de réserves d'or pour défendre la lire",
-      "Scénarios de la guerre en Iran prévoient un ralentissement de la croissance mondiale et une inflation accrue"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "L'Iran intensifie ses frappes au Moyen-Orient malgré les négociations de paix de Trump",
@@ -67,6 +57,16 @@
       "Trump impose de nouveaux droits de douane jusqu'à 100% sur les médicaments américains",
       "Roland Lescure saisit la Commission européenne sur les marges des raffineries",
       "Automobile française épargnée par les droits de douane américains de Trump"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "Inflation en zone euro à 2,5 % en mars, plus haut depuis deux ans",
+      "Inflation bondit aux États-Unis sous l’effet de la guerre en Iran",
+      "Production industrielle de la zone euro en baisse de 1,2 % en janvier",
+      "Prix des carburants en France baissent lentement malgré forte hausse préalable",
+      "Mesures françaises pour accélérer l’électrification des transports et logements"
     ]
   }
 ]
