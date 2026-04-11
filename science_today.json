@@ -1,44 +1,5 @@
 {
-  "date": "05/04/2026",
-  "news": [
-    {
-      "title": "Artemis II : le décollage historique vers la Lune",
-      "summary": "La mission Artemis II a décollé le 4 avril 2026, marquant le retour des astronautes vers la Lune pour la première fois depuis un demi-siècle. Quatre astronautes ont quitté la Terre en direction de notre satellite naturel, ouvrant une nouvelle ère d'exploration lunaire habitée. Cette mission représente une étape majeure du programme Artemis de la NASA, qui vise à établir une présence humaine durable sur la Lune.",
-      "why": "Ce décollage est crucial car il relance l'exploration lunaire habitée après 50 ans d'absence et pose les fondations pour les futures missions d'exploration spatiale, y compris les négociations européennes pour participer aux missions lunaires futures.",
-      "category": "Espace"
-    },
-    {
-      "title": "Réactivation d'un cerveau de souris cryogénisé",
-      "summary": "Des chercheurs ont réussi à réactiver un cerveau de souris qui avait été cryogénisé, démontrant la possibilité de préserver et de restaurer les fonctions cérébrales après congélation. Cette avancée majeure en cryobiologie ouvre des perspectives révolutionnaires pour la préservation des tissus nerveux et la compréhension des mécanismes de protection cellulaire contre les dommages du froid. Les implications pour la médecine régénérative et la neurobiologie sont considérables.",
-      "why": "Cette découverte pourrait transformer les approches thérapeutiques en neurologie et en médecine régénérative, offrant de nouvelles voies pour traiter les lésions cérébrales et explorer la cryoconservation des tissus complexes.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Chiffrement de messages grâce à l'ADN par une équipe franco-japonaise",
-      "summary": "Une collaboration franco-japonaise a réussi à développer une méthode innovante de chiffrement de messages en utilisant l'ADN comme support d'information. Cette technique exploite les propriétés uniques de la molécule d'ADN pour encoder et protéger des données sensibles de manière révolutionnaire. Cette avancée combine la biologie moléculaire et la cryptographie pour créer un nouveau paradigme de sécurité informatique.",
-      "why": "Cette innovation représente une percée majeure en cybersécurité et en stockage d'information, offrant une méthode potentiellement inviolable pour protéger les données sensibles grâce aux propriétés biologiques de l'ADN.",
-      "category": "Biologie"
-    },
-    {
-      "title": "Découverte d'une bactérie capable de détruire les tumeurs de l'intérieur",
-      "summary": "Des chercheurs ont identifié une bactérie capable de pénétrer et de détruire les tumeurs cancéreuses de l'intérieur, ouvrant une nouvelle approche thérapeutique contre le cancer. Cette bactérie peut cibler spécifiquement les cellules tumorales et les éliminer sans endommager les tissus sains environnants. Cette découverte représente une application novatrice de la microbiologie à la lutte contre le cancer.",
-      "why": "Cette approche bactérienne offre une alternative prometteuse aux traitements conventionnels du cancer, avec un potentiel de ciblage précis et de réduction des effets secondaires.",
-      "category": "Médecine"
-    },
-    {
-      "title": "Identification de la plus vieille chélicère et trajectoire évolutive des araignées",
-      "summary": "La découverte de la plus vieille chélicère connue a permis aux paléontologues de mieux comprendre la trajectoire évolutive des araignées et de leurs ancêtres arthropodes. Cette structure fossile exceptionnelle éclaire les mécanismes d'évolution des appendices spécialisés chez les arachnides. Cette trouvaille contribue à reconstituer l'histoire évolutive des arthropodes sur plusieurs centaines de millions d'années.",
-      "why": "Cette découverte paléontologique est importante pour comprendre l'évolution des arthropodes et l'adaptation des structures corporelles au fil du temps, enrichissant notre connaissance de la biodiversité ancienne.",
-      "category": "Biologie"
-    }
-  ],
-  "updates": [
-    {
-      "title": "Artemis II : confirmation du lancement et implications pour l'exploration lunaire",
-      "original": "Artemis II annoncée comme prochaine mission lunaire habitée",
-      "summary": "Le lancement d'Artemis II le 4 avril 2026 confirme l'avancée du programme Artemis et ouvre des négociations avec l'Europe pour sa participation aux futures missions lunaires. Cette confirmation du décollage marque le passage de la phase de préparation à la phase opérationnelle du retour humain sur la Lune. Les discussions entre la NASA et l'Agence spatiale européenne sur la présence européenne dans les missions lunaires futures s'intensifient suite à ce succès.",
-      "why": "Ce lancement réussi valide les années de préparation et renforce la position de la NASA dans les négociations internationales pour les futures missions d'exploration lunaire et spatiale.",
-      "category": "Espace"
-    }
-  ]
+  "date": "11/04/2026",
+  "news": [],
+  "updates": []
 }
