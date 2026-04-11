@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Découverte d'un mécanisme engendrant les métastases du cancer du sein",
-      "Une IA conçoit des batteries du futur plus performantes",
-      "Des microbes capables de voyager d'une planète à l'autre",
-      "La nouvelle comète MAPS visible début avril si elle survit à son périhélie",
-      "Leviers identifiés pour réduire l’imprégnation au cadmium dans la population"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "Découverte d'une 29e lune autour d'Uranus",
@@ -58,5 +48,9 @@
       "Identification de la plus vieille chélicère et trajectoire évolutive des araignées",
       "Artemis II : confirmation du lancement et implications pour l'exploration lunaire"
     ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": []
   }
 ]
