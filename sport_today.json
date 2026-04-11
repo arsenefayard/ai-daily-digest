@@ -1,35 +1,35 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "news": [
     {
-      "title": "Ligue 1 : Lille humilie Lens dans le derby du Nord et relance la course au podium",
-      "summary": "Le LOSC Lille a largement dominé le RC Lens par 3-0 lors de la 28e journée de Ligue 1 au Stade Pierre-Mauroy. Les buts ont été inscrits par Hakon Haraldsson, Félix Correia et Matias Fernandez-Pardo, permettant aux Dogues de frapper un grand coup dans la course au podium. Ce derby du Nord remporté haut la main renforce la position de Lille dans la bataille pour les places européennes.",
-      "why": "Cette victoire surprise dans un match aussi stratégique change la dynamique du championnat français et met la pression sur les poursuivants directs.",
+      "title": "Ligue 1 : L'OM se relance face à Metz et grimpe sur le podium",
+      "summary": "L'Olympique de Marseille a renoué avec la victoire en s'imposant contre le FC Metz lors de l'ouverture de la 29e journée de Ligue 1, grâce à des buts d'Aubameyang et Paixao. Cette performance réalisée devant leur nouveau président a permis aux Marseillais de grimper sur le podium du championnat. Les stats du match soulignent une avalanche de tirs et une boulette décisive qui ont fait la différence.",
+      "why": "Ce succès relance complètement l'OM dans la course à la Ligue des champions et renforce la dynamique du club sous sa nouvelle direction.",
       "category": "Football"
     },
     {
-      "title": "Liga : Barcelone renverse l'Atlético Madrid et prend ses distances en tête",
-      "summary": "Le FC Barcelone s'est imposé 2-1 sur la pelouse de l'Atlético Madrid lors de la 30e journée de Liga au Wanda Metropolitano. Giuliano Simeone avait ouvert le score pour les Colchoneros, mais les Catalans ont égalisé avant la pause et Robert Lewandowski a offert la victoire en fin de match. Cette rencontre servait d'avant-goût au quart de finale de Ligue des Champions entre les deux équipes dans quelques jours.",
-      "why": "Ce succès crucial permet au Barça de creuser l'écart en tête du championnat et alimente l'excitation autour de leur affrontement européen imminent.",
+      "title": "Liga : Le Real Madrid tenu en échec par Gérone, le titre s'éloigne",
+      "summary": "Le Real Madrid n'a pas réussi à s'imposer face à Gérone (1-1) lors de la 31e journée de Liga, enchaînant un troisième match sans victoire. Une frappe magistrale de Thomas Lemar a permis aux Catalans d'égaliser au Santiago Bernabéu. Kylian Mbappé et ses coéquipiers pointent désormais à plusieurs longueurs du leader Barcelone.",
+      "why": "Cette contre-performance fragilise les Madrilènes dans la course au titre et arrive au pire moment avant les quarts de finale retour de Ligue des champions.",
       "category": "Football"
     },
     {
-      "title": "Ligue 1 : Rennes bat Brest dans un match fou et met la pression sur Lille et Lyon",
-      "summary": "Le Stade Rennais a remporté une victoire spectaculaire 4-3 face à Brest lors de la 28e journée de Ligue 1. Ce match haletant a vu les Rennais arracher trois points précieux dans la course à l'Europe. Cette performance met désormais une pression accrue sur Lille et Lyon dans la bataille pour les places qualificatives.",
-      "why": "Ce résultat inattendu dans un choc breton intensifie la concurrence en haut de tableau et pourrait redessiner les ambitions européennes des clubs français.",
-      "category": "Football"
-    },
-    {
-      "title": "JO d'hiver 2026 : Les biathlètes français décrochent l'or au relais masculin",
-      "summary": "L'équipe de France de biathlon a remporté la médaille d'or au relais masculin lors des JO de Milan-Cortina 2026 à Antholz. Fabien Claude, Émilien Jacquelin, Quentin Fillon Maillet et Éric Perrot ont triomphé, portant le total de médailles françaises à 16 et dépassant ainsi le record précédent. Cette deuxième breloque d'or après le relais mixte confirme la domination des Bleus dans cette discipline.",
-      "why": "Cette performance historique renforce la position de la France au classement des nations et booste le moral de la délégation tricolore aux JO.",
-      "category": "Autre"
-    },
-    {
-      "title": "Rolex Monte-Carlo Masters : Début du tournoi ATP Masters 1000 à Paris La Défense Arena",
-      "summary": "Le Rolex Monte-Carlo Masters, tournoi ATP Masters 1000, a débuté ce week-end à Paris La Défense Arena en raison de contraintes logistiques. Les premiers matchs ont vu des favoris comme Carlos Alcaraz et Iga Swiatek en lice dans un tableau explosif. Cette édition inattendue en France marque un changement majeur dans le calendrier tennistique européen.",
-      "why": "Ce déplacement exceptionnel du tournoi prestigieux vers Paris attire l'attention mondiale et pourrait influencer les classements avant Roland-Garros.",
+      "title": "Tennis : Vacherot crée la sensation en battant De Minaur au Monte-Carlo Masters",
+      "summary": "Le Monégasque Valentin Vacherot a qualifié pour sa première demi-finale au Rolex Monte-Carlo Masters en éliminant l'Australien Alex de Minaur (6e mondial) 6-4, 3-6, 6-3 en 2h24. Ce succès à domicile marque un exploit majeur pour le joueur local lors du tournoi disputé à Paris La Défense Arena. Vacherot affrontera désormais un adversaire du top 10 en demi.",
+      "why": "Cette victoire inattendue propulse Vacherot parmi l'élite et offre un rayon d'espoir au tennis monégasque sur la scène internationale.",
       "category": "Tennis"
+    },
+    {
+      "title": "Ligue 1 : Le Paris FC humilie Monaco (4-1) et brise sa série",
+      "summary": "Le Paris FC a créé la surprise en ouverture de la 29e journée de Ligue 1 en s'imposant 4-1 face à l'AS Monaco à Jean-Bouin. Les Parisiens ont fait le spectacle et mis fin à la belle série des Monégasques, relançant ainsi la course au podium. Paul Pogba est entré en jeu 21 minutes pour Monaco sans pouvoir inverser la tendance.",
+      "why": "Ce résultat majeur renverse la hiérarchie en Ligue 1 et intensifie la bataille pour les places européennes qualificatives.",
+      "category": "Football"
+    },
+    {
+      "title": "Cyclisme : Paul Seixas remporte l'étape reine du Tour du Pays basque",
+      "summary": "Paul Seixas a dominé l'étape reine du Tour du Pays basque avec une performance magistrale en solitaire au sommet. Cette victoire consolide sa position au général et met en lumière sa forme exceptionnelle en cette période printanière. Le Français s'impose devant une concurrence relevée des grimpeurs mondiaux.",
+      "why": "Ce succès sur une étape décisive renforce les chances de Seixas pour le classement final et annonce un printemps compétitif pour le cyclisme français.",
+      "category": "Autre"
     }
   ],
   "updates": []
