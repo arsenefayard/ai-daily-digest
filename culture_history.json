@@ -1,15 +1,5 @@
 [
   {
-    "date": "26/03/2026",
-    "titles": [
-      "Les Vikings ne portaient pas de casques à cornes",
-      "Le fromage est l’aliment le plus volé au monde",
-      "Les Sentinelles vivent isolées depuis des millénaires",
-      "Les larmes trahissent la nature des émotions",
-      "Le mot denim tire ses origines de France et d'Italie"
-    ]
-  },
-  {
     "date": "27/03/2026",
     "titles": [
       "La plus ancienne peinture connue date de plus de 51 200 ans",
@@ -67,6 +57,16 @@
       "Chaque personne possède une empreinte de langue unique",
       "La journée de 24 heures provient des anciens Égyptiens",
       "Zorro est le personnage de bande dessinée le plus filmé"
+    ]
+  },
+  {
+    "date": "11/04/2026",
+    "titles": [
+      "Les homards produisent une enzyme qui répare leurs cellules indéfiniment",
+      "Le mot sandwich provient d'un aristocrate anglais du XVIIIe siècle",
+      "Zorro est le personnage de bande dessinée le plus adapté au cinéma",
+      "En 1838, la plus ancienne photo connue capture un homme se faisant cirer les chaussures",
+      "Les soldats chinois anciens s'entraînaient avec des aiguilles sur le col pour garder la tête haute"
     ]
   }
 ]
