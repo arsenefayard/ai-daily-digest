@@ -1,37 +1,33 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "subject": {
-    "name": "Découverte de l'île de Pâques par Jacob Roggeveen",
-    "type": "Découverte",
-    "period": "5 avril 1722 · Époque des explorations européennes dans le Pacifique",
-    "context": "L'explorateur hollandais Jacob Roggeveen, à la tête d'une expédition de trois navires financée par la Compagnie néerlandaise des Indes orientales, repère une île isolée au milieu de l'océan Pacifique après des mois de navigation périlleuse. Ses habitants, les Rapanui, l'accueillent avec curiosité, mais les interactions tournent rapidement à la violence en raison de malentendus et de la supériorité technologique des Européens. Roggeveen baptise l'île 'Paquesinsel' car il l'aborde un dimanche de Pâques, nom qui s'impose en français comme 'île de Pâques'. Cette rencontre révèle aux Occidentaux les célèbres statues moaï, monuments mégalithiques érigés par une civilisation polynésienne avancée, bien que l'expédition ne comprenne pas pleinement leur signification culturelle et spirituelle.",
+    "name": "Bataille de Ravenne et Gaston de Foix",
+    "type": "Bataille",
+    "period": "1512 · Guerres d'Italie (Renaissance)",
+    "context": "Au cœur des guerres d'Italie, opposant Français, Espagnols, Vénitiens et le Saint-Siège, la Sainte Ligue formée par le pape Jules II unit les ennemis de la France pour contrer l'influence de Louis XII. Gaston de Foix, jeune duc de Nemours âgé de 23 ans et neveu du roi, prend le commandement des forces françaises en Italie du Nord avec une audace remarquable. Le 11 avril 1512, à Ravenne, ses troupes infligent une défaite sanglante à la coalition malgré une infériorité numérique, grâce à une charge de cavalerie décisive et un usage innovant de l'artillerie. Tragiquement, Gaston trouve la mort dans l'euphorie de la victoire, percé de coups lors d'une poursuite imprudente, privant la France de son meilleur général. Cet épisode marque un sommet de la guerre de Renaissance, alliant génie tactique et ironie du sort.",
     "dates": [
       {
-        "year": "1659",
-        "label": "Naissance de Jacob Roggeveen à Middelbourg, en Hollande"
+        "year": "1489",
+        "label": "Naissance à Mazères, en Béarn, d'un prodige militaire formé dès l'enfance."
       },
       {
-        "year": "1721",
-        "label": "Départ de l'expédition depuis le port de Texel avec trois navires"
+        "year": "1511",
+        "label": "Nommé lieutenant général en Italie par Louis XII pour contrer la Sainte Ligue."
       },
       {
-        "year": "1722",
-        "label": "Découverte de l'île de Pâques le 5 avril, baptême en l'honneur de Pâques"
+        "year": "1512",
+        "label": "Victoire éclatante à Ravenne le 11 avril contre Vénitiens et Espagnols."
       },
       {
-        "year": "1722",
-        "label": "Premier contact violent avec les habitants Rapanui et observation des moaï"
+        "year": "1512",
+        "label": "Mort au combat le même jour, à 23 ans, lors de la poursuite des fuyards."
       },
       {
-        "year": "1723",
-        "label": "Retour à Batavia (Jakarta) après avoir perdu un navire dans une tempête"
-      },
-      {
-        "year": "1729",
-        "label": "Mort de Roggeveen à Batavia sans avoir vu sa relation de voyage publiée"
+        "year": "1512",
+        "label": "Défaite française ultérieure à Novare, conséquence de sa disparition."
       }
     ],
-    "legacy": "Cette découverte introduit l'île de Pâques dans la conscience occidentale, stimulant les spéculations sur les civilisations isolées et les théories de diffusion culturelle à travers le Pacifique. Les moaï sont devenus un symbole universel de mystère archéologique, inspirant recherches scientifiques et protections patrimoniales par l'UNESCO. Aujourd'hui, l'île, ou Rapa Nui, attire des millions de visiteurs et pose des questions écologiques sur la résilience des sociétés insulaires face au changement climatique.",
-    "why": "L'île de Pâques démontre comment une civilisation isolée a bâti des chefs-d'œuvre mégalithiques sans influence extérieure, défiant les idées reçues sur l'évolution humaine et rappelant que l'isolement peut engendrer des génies culturels inattendus."
+    "legacy": "La bataille de Ravenne illustre l'apogée des tactiques de la Renaissance, influençant les doctrines militaires européennes par son usage combiné d'infanterie, cavalerie et artillerie. Gaston de Foix est célébré comme un héros tragique dans la littérature et l'historiographie française, symbolisant le potentiel inabouti d'une génération brillante. Son souvenir perdure dans les récits épiques, rappelant les fragilités du commandement suprême.",
+    "why": "Dans un monde obsédé par les leaders charismatiques, l'histoire de Gaston montre qu'une victoire absolue peut se muer en désastre par l'imprudence d'un seul homme, une leçon intemporelle sur les limites de l'audace."
   }
 }
