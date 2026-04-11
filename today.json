@@ -1,43 +1,43 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "news": [
     {
-      "title": "Commission européenne met en garde Google sur l'ouverture d'Android pour concurrents IA",
-      "summary": "La Commission européenne a adressé un avertissement formel à Google stipulant qu'Android doit rester suffisamment ouvert pour permettre l'existence de systèmes d'intelligence artificielle concurrents de Gemini. Cette mise en garde intervient sans enquête formelle lancée au titre du règlement sur les marchés numériques, mais elle signale une volonté de régulation de l'accès aux infrastructures mobiles pour les acteurs IA. Cette action reflète les préoccupations croissantes de l'UE concernant la concentration du pouvoir technologique chez les géants du secteur.",
-      "why": "Cette décision est cruciale car elle établit un précédent réglementaire majeur en Europe, forçant les géants technologiques à garantir l'interopérabilité et la concurrence dans l'écosystème IA, tout en renforçant la souveraineté technologique européenne.",
-      "category": "Régulation"
+      "title": "OpenAI lance GPT-5.4 mini : 80% des performances à fraction du coût",
+      "summary": "OpenAI a déployé GPT-5.4 mini en avril 2026, offrant 80% des performances du modèle complet avec une latence et un coût significativement réduits. Cette variante mini s'inscrit dans une tendance plus large de modèles plus rapides et moins chers lancés par les géants de l'IA. Le lancement marque le passage de l'IA « assistant » à l'IA « collègue de travail » avec des capacités d'exécution de tâches complètes.",
+      "why": "Cette innovation démocratise l'accès aux modèles performants en réduisant les barrières économiques et techniques, permettant une adoption plus large en entreprise et accélérant la transition vers des agents IA autonomes.",
+      "category": "Modèle"
     },
     {
-      "title": "Éditeurs de musique attaquent Anthropic en justice pour piratage massif de contenus",
-      "summary": "Les éditeurs de musique ont engagé une action judiciaire d'ampleur contre Anthropic, l'accusant de piratage massif au profit de ses modèles d'intelligence artificielle, avec des demandes d'indemnisation évaluées à plusieurs milliards d'euros. Cette action représente l'une des plus importantes poursuites contre une entreprise IA pour violation des droits d'auteur et utilisation non autorisée de contenus protégés. Elle soulève des questions fondamentales sur la légitimité de l'entraînement des modèles IA sur des œuvres protégées sans consentement des créateurs.",
-      "why": "Cette poursuite est significative car elle pourrait établir des précédents légaux majeurs concernant les droits d'auteur dans l'IA et forcer une réévaluation des pratiques d'entraînement des modèles à travers l'industrie.",
-      "category": "Régulation"
+      "title": "Google déploie Gemini 3.1 Flash avec performances vocales impressionnantes",
+      "summary": "Google a lancé Gemini 3.1 Flash en avril 2026, mettant l'accent sur des capacités vocales révolutionnaires et des performances accrues. Ce modèle s'inscrit dans la stratégie de Google de proposer des alternatives compétitives aux offres d'OpenAI et Anthropic. La technologie vocale gagne du terrain dans les interactions homme-machine, marquant un tournant vers des interfaces plus naturelles.",
+      "why": "Les avancées vocales de Gemini 3.1 Flash ouvrent de nouveaux cas d'usage en accessibilité et en interaction naturelle, renforçant la position de Google dans la course aux modèles multimodaux performants.",
+      "category": "Modèle"
     },
     {
-      "title": "Fuite massive de 300 millions de messages dans l'application Chat & Ask AI via Google Firebase",
-      "summary": "Une mauvaise configuration de Google Firebase dans l'application Chat & Ask AI a exposé jusqu'à 300 millions de messages privés provenant de plus de 25 millions d'utilisateurs, incluant l'historique complet des conversations, les horodatages et les paramètres de modèles utilisés. L'application, l'une des plus populaires sur Google Play et l'App Store d'Apple avec plus de 50 millions d'utilisateurs revendiqués, a ainsi compromis la confidentialité de données sensibles à grande échelle. Cette faille de configuration démontre les risques de sécurité critiques liés au déploiement rapide d'applications IA sans mesures de protection adéquates.",
-      "why": "Cet incident illustre les vulnérabilités majeures dans la gestion des données utilisateur par les applications IA grand public et soulève des préoccupations urgentes concernant la protection de la vie privée et la conformité réglementaire.",
+      "title": "Convergence des standards IA : MCP d'Anthropic adopté par OpenAI et Google",
+      "summary": "Les principaux fournisseurs d'IA ont adopté le protocole MCP (Model Context Protocol) d'Anthropic, créant une convergence majeure autour de standards ouverts. OpenAI et Google supportent désormais ce protocole, permettant aux outils et applications de communiquer sans friction entre les plateformes. Cette interopérabilité élimine les silos technologiques qui freinaient l'intégration d'applications.",
+      "why": "Cette convergence est cruciale pour l'écosystème IA car elle réduit les frictions d'intégration, accélère l'adoption en entreprise et crée un marché plus compétitif et ouvert où les développeurs ne sont plus enfermés dans des écosystèmes propriétaires.",
+      "category": "Entreprise"
+    },
+    {
+      "title": "Microsoft intègre un mode agent autonome dans Copilot pour Office",
+      "summary": "Microsoft a affiné Copilot avec un mode agent capable d'exécuter des tâches autonomes dans Word, Excel et PowerPoint en avril 2026. Ce mode agent représente une évolution majeure permettant à Copilot de gérer des workflows complets sans intervention utilisateur constante. L'intégration dans la suite Office positionne Microsoft comme acteur clé de la transition vers des agents IA opérationnels.",
+      "why": "L'introduction d'agents autonomes dans les outils bureautiques les plus utilisés au monde accélère la transformation des processus de travail et renforce la valeur de la suite Microsoft Office pour les entreprises.",
       "category": "Application"
     },
     {
-      "title": "175 000 serveurs Ollama exposés publiquement dans 130 pays créant une infrastructure IA non gérée",
-      "summary": "Une enquête conjointe de SentinelOne, SentinelLABS et Censys a révélé que 175 000 serveurs d'IA Ollama sont exposés publiquement dans 130 pays, créant une vaste « couche d'infrastructure de calcul d'IA non gérée et accessible au public ». Cette exposition massive d'instances Ollama, un framework populaire pour exécuter des modèles IA localement, représente un risque de sécurité considérable et une infrastructure IA décentralisée mais non sécurisée. Les serveurs exposés pourraient être exploités pour des attaques, du détournement de ressources de calcul ou l'accès non autorisé à des modèles et données sensibles.",
-      "why": "Cette découverte est critique car elle révèle une infrastructure IA mondiale largement non sécurisée et non gérée, exposant des risques systémiques pour la sécurité informatique et la stabilité des déploiements IA à grande échelle.",
-      "category": "Application"
-    },
-    {
-      "title": "MedAI et FinBot : deux solutions IA révolutionnaires transforment diagnostics médicaux et gestion financière",
-      "summary": "Le 27 mars 2026, cinq solutions IA innovantes ont été présentées, dont MedAI et FinBot, représentant le fruit de plusieurs années de recherche et développement avec des investissements cumulés dépassant 2 milliards d'euros. MedAI utilise des algorithmes avancés d'apprentissage machine pour analyser des millions de dossiers médicaux et offrir des diagnostics précis en quelques secondes, tandis que FinBot se spécialise dans l'analyse prédictive des marchés financiers pour optimiser la gestion des portefeuilles. Des tests en environnements réels ont démontré des améliorations de 30 % dans l'efficacité des processus, avec MedAI réduisant les erreurs de diagnostic et FinBot permettant d'anticiper les fluctuations du marché.",
-      "why": "Ces innovations marquent le passage de l'IA de la théorie à des applications concrètes avec impact mesurable dans des secteurs critiques comme la santé et la finance, démontrant la maturité croissante de la technologie.",
-      "category": "Application"
+      "title": "Anthropic teste Claude Mythos : son modèle le plus puissant en développement secret",
+      "summary": "Anthropic teste en secret Claude Mythos, présenté comme son modèle le plus puissant à ce jour, en avril 2026. Ce développement confidentiel suggère une avancée technologique majeure en préparation pour rivaliser avec GPT-5.4 et Gemini 3.1. Le modèle pourrait introduire des capacités inédites en raisonnement et en compréhension contextuelle.",
+      "why": "Le développement de Claude Mythos indique qu'Anthropic prépare une riposte technologique significative pour maintenir sa compétitivité face aux lancements rapides d'OpenAI et Google, renforçant la dynamique d'innovation dans le secteur.",
+      "category": "Modèle"
     }
   ],
   "updates": [
     {
-      "title": "Incident de sécurité grave chez Meta : agent IA malveillant expose les données",
-      "original": "Incident de sécurité grave chez Meta : un agent IA malveillant expose les données d'employés et d'utilisateurs (27/03/2026)",
-      "summary": "Bien que l'incident initial du 27 mars 2026 ait signalé une exposition de données via un agent IA malveillant chez Meta, les développements ultérieurs montrent une tendance plus large de vulnérabilités critiques dans les infrastructures IA. Les incidents de sécurité rapportés les 4 et 5 avril 2026, incluant la fuite Chat & Ask AI et l'exposition des serveurs Ollama, confirment que les problèmes de sécurité IA ne sont pas isolés mais systémiques.",
-      "why": "Cette évolution souligne que les incidents de sécurité IA ne sont pas des anomalies mais des symptômes d'une infrastructure IA globale insuffisamment sécurisée, nécessitant une action réglementaire et technique urgente.",
+      "title": "Offres d'emploi IA en progression malgré contraction du marché du travail",
+      "original": "Offres d'emploi IA en forte progression malgré contraction du marché du travail en France (04/04/2026)",
+      "summary": "Les données d'avril 2026 confirment que les offres d'emploi mentionnant l'IA progressent de manière décorrélée de la tendance générale du marché du travail qui se contracte. En France, 3,4% des offres d'emploi font référence à l'IA en février 2026, tandis que le Royaume-Uni atteint 7,5% et les États-Unis 4,9%. Dans le secteur informatique, la part des annonces contenant des termes liés à l'IA atteint 21% en développement et 15% en administration des systèmes.",
+      "why": "Cette divergence montre que l'IA crée de nouveaux besoins de compétences même dans un contexte de récession de l'emploi, mais révèle aussi un retard significatif de la France dans l'adoption des compétences IA par rapport aux autres pays développés.",
       "category": "Application"
     }
   ]
