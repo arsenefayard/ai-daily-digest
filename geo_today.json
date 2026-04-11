@@ -1,51 +1,36 @@
 {
-  "date": "05/04/2026",
+  "date": "11/04/2026",
   "news": [
     {
-      "title": "L'Iran lance une nouvelle attaque de missiles et drones contre Israël et le Koweït",
-      "summary": "L'Iran a tiré dimanche matin des missiles et drones vers Israël et le Koweït, en réaction à l'ultimatum de 48 heures lancé par Donald Trump exigeant la conclusion d'un accord ou la réouverture du détroit d'Ormuz sous peine de représailles massives. Cette attaque intervient au cinquième jour de la guerre israélo-américaine contre l'Iran, marquant une escalade significative des hostilités au Moyen-Orient. Les défenses aériennes des pays visés ont été activées pour intercepter les projectiles iraniens.",
-      "why": "Cette attaque représente une escalade directe du conflit régional et démontre la détermination de l'Iran à riposter malgré les menaces américaines, risquant une expansion incontrôlée du conflit au-delà des frontières iraniennes.",
+      "title": "États-Unis et Iran conviennent d'un cessez-le-feu de deux semaines au Moyen-Orient",
+      "summary": "Les États-Unis et l'Iran ont annoncé un cessez-le-feu temporaire de deux semaines pour mettre fin à l'escalade militaire qui a ouvert plusieurs fronts ces derniers jours. Cette trêve intervient après des frappes massives et des attaques de missiles, visant à stabiliser la région et à rouvrir le détroit d'Ormuz bloqué. Les implications géopolitiques incluent une possible désescalade mais aussi des risques de reprise des hostilités si les pourparlers échouent.",
+      "why": "Ce cessez-le-feu marque un tournant dans la guerre israélo-américaine contre l'Iran, influençant les prix du pétrole mondial et les alliances régionales.",
       "category": "Conflit"
     },
     {
-      "title": "Trump rejette toute négociation avec l'Iran et menace une escalade militaire supplémentaire",
-      "summary": "Donald Trump a déclaré dimanche que toute nouvelle négociation avec l'Iran était exclue, fermant la porte à tout processus diplomatique malgré les efforts du Pakistan pour faciliter des pourparlers de paix. Cette position durcit considérablement la posture américaine et suggère une poursuite de la stratégie militaire sans limite de temps définie. Les États-Unis ont également indiqué ne pas avoir écarté une opération militaire terrestre en Iran.",
-      "why": "Le rejet catégorique des négociations par Trump élimine les derniers canaux de désescalade diplomatique et augmente le risque d'une guerre prolongée et d'une implication terrestre américaine majeure au Moyen-Orient.",
+      "title": "Poutine annonce un cessez-le-feu pour Pâques en Ukraine après proposition de Kyiv",
+      "summary": "Vladimir Poutine a accepté une courte trêve pour Pâques en Ukraine, proposée depuis des semaines par Kyiv, malgré des frappes russes récentes sur Soumy et Odessa. Cette pause humanitaire pourrait soulager les fronts ukrainiens enlisés dans une guerre d'attrition dominée par les drones. Géopolitiquement, elle teste la volonté de négociation entre Moscou et l'Occident au milieu des tensions persistantes.",
+      "why": "Cette trêve offre une rare fenêtre diplomatique dans le conflit russo-ukrainien, potentiellement influençant l'aide occidentale et les dynamiques européennes.",
+      "category": "Conflit"
+    },
+    {
+      "title": "Le vice-président américain Vance soutient Orbán et critique Bruxelles lors d'une réunion",
+      "summary": "Le vice-président américain J.D. Vance a attaqué Bruxelles et promis un soutien à Viktor Orbán à l'issue d'une réunion clé, accentuant les divisions transatlantiques. Cette position renforce les tensions entre les États-Unis de Trump et l'Union européenne sur des dossiers comme l'Ukraine et l'énergie. Elle souligne un repositionnement américain favorisant les leaders populistes en Europe de l'Est.",
+      "why": "Ce soutien public fragilise l'unité de l'OTAN et de l'UE, impactant les stratégies face à la Russie et à la Chine.",
       "category": "Diplomatie"
     },
     {
-      "title": "Emmanuel Macron déploie le porte-avions Charles de Gaulle et des renforts militaires en Méditerranée",
-      "summary": "La France a annoncé l'envoi du porte-avions Charles de Gaulle et de son escorte de frégates en direction de la Méditerranée pour renforcer sa présence militaire au Moyen-Orient face à l'escalade du conflit. Emmanuel Macron a également ordonné l'affrètement de deux vols pour rapatrier les ressortissants français, dont le pays compte environ 400 000 sur place. Cette mobilisation représente une intervention militaire française directe dans la crise régionale.",
-      "why": "Le déploiement français signale une volonté européenne de se positionner comme acteur militaire indépendant au Moyen-Orient et de protéger ses intérêts et ses ressortissants face à l'escalade israélo-américaine.",
+      "title": "Cessez-le-feu en Iran : chute du pétrole et rebond des marchés européens",
+      "summary": "Suite à l'annonce du cessez-le-feu entre les États-Unis et l'Iran, les prix du pétrole ont fortement chuté tandis que les bourses européennes ont bondi. La perspective de réouverture du détroit d'Ormuz soulage les marchés mondiaux affectés par la crise énergétique. Cette évolution économique atténue les pressions inflationnistes mais expose les vulnérabilités des chaînes d'approvisionnement globales.",
+      "why": "La stabilisation des prix énergétiques influence l'économie mondiale et les politiques intérieures en Europe face à la dépendance aux importations.",
+      "category": "Économie"
+    },
+    {
+      "title": "Netanyahu exclut un cessez-le-feu avec le Hezbollah malgré discussions avec le Liban",
+      "summary": "Benjamin Netanyahu a annoncé des discussions avec le Liban mais a fermement exclu tout cessez-le-feu avec le Hezbollah, après une roquette frappant Safed et des frappes persistantes au sud Liban. Cette position maintient l'escalade sur le front libanais dans le contexte de la guerre multi-fronts. Géopolitiquement, elle complique les efforts de paix régionaux et risque d'élargir le conflit.",
+      "why": "L'absence de trêve au Liban menace la stabilité du Levant et les relations Israël-Liban, avec des répercussions sur l'Iran et les alliés du Hezbollah.",
       "category": "Sécurité"
-    },
-    {
-      "title": "Israël poursuit son offensive contre le Hezbollah au Liban dans un contexte de guerre multi-fronts",
-      "summary": "Israël a continué ses bombardements contre le Hezbollah au Liban au quatrième jour de la guerre déclenchée par l'offensive israélo-américaine contre l'Iran, ouvrant un deuxième front majeur dans la région. Cette offensive s'ajoute aux opérations militaires en cours contre l'Iran et aux tensions persistantes avec les Palestiniens, créant une situation de conflit multi-fronts sans précédent. Les frappes aériennes israéliennes visent les positions du Hezbollah dans le sud du Liban.",
-      "why": "L'expansion du conflit au Liban risque de déstabiliser davantage la région, d'impliquer de nouveaux acteurs régionaux et de transformer le conflit israélo-iranien en guerre régionale généralisée impliquant plusieurs États et groupes armés.",
-      "category": "Conflit"
-    },
-    {
-      "title": "L'Iran promet une « longue guerre » et intensifie ses attaques contre les pays du Golfe",
-      "summary": "Téhéran a promis une « longue guerre » et continue de cibler les pays du Golfe où se trouvent plusieurs bases militaires américaines, signalant sa détermination à prolonger le conflit malgré la supériorité militaire américaine et israélienne. Cette rhétorique iranienne suggère une stratégie d'usure visant à imposer des coûts élevés aux États-Unis et à ses alliés régionaux. Les attaques iraniennes contre les installations du Golfe menacent directement les intérêts énergétiques et militaires américains.",
-      "why": "La promesse iranienne d'une guerre prolongée indique que le conflit pourrait s'étendre bien au-delà des opérations militaires actuelles, avec des implications majeures pour la stabilité régionale, l'approvisionnement énergétique mondial et les pertes humaines.",
-      "category": "Conflit"
     }
   ],
-  "updates": [
-    {
-      "title": "Escalade majeure : passage de la cinquième à la sixième journée de guerre israélo-américaine contre l'Iran",
-      "original": "Quatrième jour de guerre israélo-américaine contre l'Iran avec de nouvelles frappes massives (04/04/2026)",
-      "summary": "Le conflit a franchi un nouveau seuil avec le passage au cinquième jour de guerre et l'intensification des attaques iraniennes contre Israël et le Koweït dimanche matin. Contrairement aux jours précédents où les États-Unis et Israël menaient principalement les opérations offensives, l'Iran a désormais lancé une contre-attaque massive de missiles et drones, marquant un changement qualitatif dans la nature du conflit. Cette riposte iranienne démontre que Téhéran dispose toujours de capacités offensives significatives malgré les bombardements américains et israéliens.",
-      "why": "Ce changement de dynamique militaire indique que le conflit ne sera pas résolu rapidement par la supériorité aérienne américaine et israélienne, et que l'Iran possède les moyens de prolonger la guerre, augmentant considérablement les risques d'escalade incontrôlée.",
-      "category": "Conflit"
-    },
-    {
-      "title": "Fermeture définitive des canaux diplomatiques : Trump exclut les négociations avec l'Iran",
-      "original": "Négociations Iran-États-Unis : Trump annonce une pause dans les attaques contre les infrastructures énergétiques iraniennes (28/03/2026)",
-      "summary": "Après avoir annoncé une pause dans les attaques contre les infrastructures énergétiques iraniennes le 28 mars, Trump a complètement inversé sa position dimanche en rejetant catégoriquement toute négociation avec l'Iran. Cette volte-face élimine les derniers espoirs de résolution diplomatique et confirme que la stratégie américaine repose désormais exclusivement sur la domination militaire. Le Pakistan, qui tentait de faciliter des pourparlers de paix, voit ses efforts de médiation complètement invalidés.",
-      "why": "L'abandon de la diplomatie au profit d'une stratégie militaire totale augmente dramatiquement le risque d'une guerre prolongée et d'une implication terrestre américaine, tout en fermant les portes à une résolution négociée du conflit.",
-      "category": "Diplomatie"
-    }
-  ]
+  "updates": []
 }
