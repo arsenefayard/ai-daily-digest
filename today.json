@@ -1,44 +1,36 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "OpenAI lance GPT-5.4 mini : 80% des performances à fraction du coût",
-      "summary": "OpenAI a déployé GPT-5.4 mini en avril 2026, offrant 80% des performances du modèle complet avec une latence et un coût significativement réduits. Cette variante mini s'inscrit dans une tendance plus large de modèles plus rapides et moins chers lancés par les géants de l'IA. Le lancement marque le passage de l'IA « assistant » à l'IA « collègue de travail » avec des capacités d'exécution de tâches complètes.",
-      "why": "Cette innovation démocratise l'accès aux modèles performants en réduisant les barrières économiques et techniques, permettant une adoption plus large en entreprise et accélérant la transition vers des agents IA autonomes.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Google déploie Gemini 3.1 Flash avec performances vocales impressionnantes",
-      "summary": "Google a lancé Gemini 3.1 Flash en avril 2026, mettant l'accent sur des capacités vocales révolutionnaires et des performances accrues. Ce modèle s'inscrit dans la stratégie de Google de proposer des alternatives compétitives aux offres d'OpenAI et Anthropic. La technologie vocale gagne du terrain dans les interactions homme-machine, marquant un tournant vers des interfaces plus naturelles.",
-      "why": "Les avancées vocales de Gemini 3.1 Flash ouvrent de nouveaux cas d'usage en accessibilité et en interaction naturelle, renforçant la position de Google dans la course aux modèles multimodaux performants.",
-      "category": "Modèle"
-    },
-    {
-      "title": "Convergence des standards IA : MCP d'Anthropic adopté par OpenAI et Google",
-      "summary": "Les principaux fournisseurs d'IA ont adopté le protocole MCP (Model Context Protocol) d'Anthropic, créant une convergence majeure autour de standards ouverts. OpenAI et Google supportent désormais ce protocole, permettant aux outils et applications de communiquer sans friction entre les plateformes. Cette interopérabilité élimine les silos technologiques qui freinaient l'intégration d'applications.",
-      "why": "Cette convergence est cruciale pour l'écosystème IA car elle réduit les frictions d'intégration, accélère l'adoption en entreprise et crée un marché plus compétitif et ouvert où les développeurs ne sont plus enfermés dans des écosystèmes propriétaires.",
-      "category": "Entreprise"
-    },
-    {
-      "title": "Microsoft intègre un mode agent autonome dans Copilot pour Office",
-      "summary": "Microsoft a affiné Copilot avec un mode agent capable d'exécuter des tâches autonomes dans Word, Excel et PowerPoint en avril 2026. Ce mode agent représente une évolution majeure permettant à Copilot de gérer des workflows complets sans intervention utilisateur constante. L'intégration dans la suite Office positionne Microsoft comme acteur clé de la transition vers des agents IA opérationnels.",
-      "why": "L'introduction d'agents autonomes dans les outils bureautiques les plus utilisés au monde accélère la transformation des processus de travail et renforce la valeur de la suite Microsoft Office pour les entreprises.",
+      "title": "États-Unis : émergence d'un nouveau salarié dopé à l'IA mesurant la performance en tokens",
+      "summary": "Aux États-Unis, particulièrement dans la Silicon Valley, les entreprises redéfinissent les critères d'évaluation des employés en utilisant des tokens d'IA plutôt que les heures travaillées traditionnelles. Cette mesure quantifie la productivité en fonction de l'utilisation et de l'efficacité des outils IA intégrés au workflow quotidien. Ce changement marque une transformation profonde des normes du travail, où l'IA devient un amplificateur direct de performance humaine.",
+      "why": "Cette évolution pourrait révolutionner le marché du travail en priorisant l'efficacité IA sur le temps passé, avec des implications sur les salaires et les embauches.",
       "category": "Application"
     },
     {
-      "title": "Anthropic teste Claude Mythos : son modèle le plus puissant en développement secret",
-      "summary": "Anthropic teste en secret Claude Mythos, présenté comme son modèle le plus puissant à ce jour, en avril 2026. Ce développement confidentiel suggère une avancée technologique majeure en préparation pour rivaliser avec GPT-5.4 et Gemini 3.1. Le modèle pourrait introduire des capacités inédites en raisonnement et en compréhension contextuelle.",
-      "why": "Le développement de Claude Mythos indique qu'Anthropic prépare une riposte technologique significative pour maintenir sa compétitivité face aux lancements rapides d'OpenAI et Google, renforçant la dynamique d'innovation dans le secteur.",
-      "category": "Modèle"
+      "title": "Le studio Pickmon déploie une solution IA pour différencier son jeu de Pokémon",
+      "summary": "Le studio derrière le jeu Pickmon a développé une technologie IA innovante qui permet aux utilisateurs de ne plus confondre son produit avec Pokémon grâce à une reconnaissance visuelle et sémantique avancée. Cette solution analyse en temps réel les éléments graphiques et contextuels pour clarifier l'identité du jeu auprès des joueurs. Elle s'inscrit dans un contexte de tensions croissantes autour des similitudes dans l'industrie du gaming.",
+      "why": "Cette avancée technique protège les studios indépendants contre les confusions de marque et démontre l'utilité croissante de l'IA en résolution de litiges créatifs.",
+      "category": "Application"
+    },
+    {
+      "title": "Tesla démontre une autonomie IA sur routes complexes dans une nouvelle vidéo",
+      "summary": "Tesla a publié une démonstration vidéo montrant son véhicule autonome naviguant avec succès sur des routes particulièrement difficiles, grâce à des améliorations récentes de son système IA Full Self-Driving. Les algorithmes gèrent des scénarios imprévus comme des obstacles dynamiques et des conditions météo variables en temps réel. Cette avancée renforce la confiance dans les capacités pratiques des voitures autonomes.",
+      "why": "Elle accélère l'adoption des véhicules autonomes en prouvant des performances réelles sur des terrains challengants, impactant directement le secteur automobile.",
+      "category": "Application"
+    },
+    {
+      "title": "En Ukraine, l'usage militaire de l'IA franchit un nouveau cap dans le conflit",
+      "summary": "Le conflit en Ukraine a vu une escalade dans l'utilisation de l'intelligence artificielle pour des applications militaires, avec des systèmes IA déployés pour la reconnaissance de cibles et la coordination tactique en temps réel. Ces technologies permettent une analyse plus rapide des données de drones et de satellites par rapport aux méthodes humaines traditionnelles. Cette évolution soulève des questions éthiques sur l'automatisation de la guerre.",
+      "why": "Ce franchissement de cap modifie les dynamiques géopolitiques et accélère le développement mondial d'IA militaire.",
+      "category": "Application"
+    },
+    {
+      "title": "Poller publie son dernier digest IA avec les actualités clés des 48 dernières heures",
+      "summary": "Poller, plateforme spécialisée, a sorti un nouveau digest récapitulant les avancées IA les plus marquantes des dernières 48 heures, incluant des percées en agents autonomes et optimisations de modèles. Ce rapport synthétise des informations de sources multiples pour offrir une vue d'ensemble accessible aux professionnels. Il met l'accent sur des tendances comme la réduction des coûts des modèles et l'intégration multi-plateformes.",
+      "why": "Ce digest fournit une synthèse fiable et actualisée, essentielle pour suivre le rythme effréné des innovations IA.",
+      "category": "Entreprise"
     }
   ],
-  "updates": [
-    {
-      "title": "Offres d'emploi IA en progression malgré contraction du marché du travail",
-      "original": "Offres d'emploi IA en forte progression malgré contraction du marché du travail en France (04/04/2026)",
-      "summary": "Les données d'avril 2026 confirment que les offres d'emploi mentionnant l'IA progressent de manière décorrélée de la tendance générale du marché du travail qui se contracte. En France, 3,4% des offres d'emploi font référence à l'IA en février 2026, tandis que le Royaume-Uni atteint 7,5% et les États-Unis 4,9%. Dans le secteur informatique, la part des annonces contenant des termes liés à l'IA atteint 21% en développement et 15% en administration des systèmes.",
-      "why": "Cette divergence montre que l'IA crée de nouveaux besoins de compétences même dans un contexte de récession de l'emploi, mais révèle aussi un retard significatif de la France dans l'adoption des compétences IA par rapport aux autres pays développés.",
-      "category": "Application"
-    }
-  ]
+  "updates": []
 }
