@@ -1,15 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "Rosalia de retour en France avec des concerts très attendus à l'Accor Arena",
-      "Lara Fabian enflamme l'Accor Arena le 10 mars avec ses balades puissantes",
-      "Festival Jazz à Commercy séduit plus de 160 spectateurs par soir dans un cadre intimiste",
-      "Printemps de la Musique au Signal de Botrange propose un éclectique du 20 mars au 18 avril",
-      "Jade lance sa carrière solo à la Salle Pleyel le 11 mars après Little Mix"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "BTS triomphent à Séoul avec 260 000 fans pour leur retour sur scène",
@@ -67,6 +57,16 @@
       "Festival Explore : la musique contemporaine et expérimentale investit la Philharmonie du 10 au 13 avril",
       "Nouveautés musicales d'avril 2026 : une vague d'albums indie, post-punk et expérimentaux",
       "Paris accueille 82 concerts le samedi 11 avril 2026 : une journée musicale exceptionnelle"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "Printemps de Bourges bat son plein ce 18 avril avec une programmation explosive au W",
+      "Disquaire Day célèbre le vinyle ce 18 avril à Paris",
+      "Louis Tomlinson investit l'Accor Arena le 21 avril pour son troisième album",
+      "Good Rockin Tonight rocke Bourg-en-Bresse du 16 au 20 avril",
+      "Anaïs MVA passe du Cigale au Trianon le 11 avril après sold-out"
     ]
   }
 ]
