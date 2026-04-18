@@ -1,36 +1,44 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "Ligue 1 : L'OM se relance face à Metz et grimpe sur le podium",
-      "summary": "L'Olympique de Marseille a renoué avec la victoire en s'imposant contre le FC Metz lors de l'ouverture de la 29e journée de Ligue 1, grâce à des buts d'Aubameyang et Paixao. Cette performance réalisée devant leur nouveau président a permis aux Marseillais de grimper sur le podium du championnat. Les stats du match soulignent une avalanche de tirs et une boulette décisive qui ont fait la différence.",
-      "why": "Ce succès relance complètement l'OM dans la course à la Ligue des champions et renforce la dynamique du club sous sa nouvelle direction.",
-      "category": "Football"
-    },
-    {
-      "title": "Liga : Le Real Madrid tenu en échec par Gérone, le titre s'éloigne",
-      "summary": "Le Real Madrid n'a pas réussi à s'imposer face à Gérone (1-1) lors de la 31e journée de Liga, enchaînant un troisième match sans victoire. Une frappe magistrale de Thomas Lemar a permis aux Catalans d'égaliser au Santiago Bernabéu. Kylian Mbappé et ses coéquipiers pointent désormais à plusieurs longueurs du leader Barcelone.",
-      "why": "Cette contre-performance fragilise les Madrilènes dans la course au titre et arrive au pire moment avant les quarts de finale retour de Ligue des champions.",
-      "category": "Football"
-    },
-    {
-      "title": "Tennis : Vacherot crée la sensation en battant De Minaur au Monte-Carlo Masters",
-      "summary": "Le Monégasque Valentin Vacherot a qualifié pour sa première demi-finale au Rolex Monte-Carlo Masters en éliminant l'Australien Alex de Minaur (6e mondial) 6-4, 3-6, 6-3 en 2h24. Ce succès à domicile marque un exploit majeur pour le joueur local lors du tournoi disputé à Paris La Défense Arena. Vacherot affrontera désormais un adversaire du top 10 en demi.",
-      "why": "Cette victoire inattendue propulse Vacherot parmi l'élite et offre un rayon d'espoir au tennis monégasque sur la scène internationale.",
+      "title": "Arthur Fils surclasse Musetti et file en demi-finale à Barcelone",
+      "summary": "Le numéro 2 français Arthur Fils a dominé sans trembler le joueur italien Lorenzo Musetti avec un score de 6-3, 6-4 pour atteindre les demi-finales du tournoi de Barcelone. Cette victoire convaincante démontre la confiance retrouvée du joueur français qui continue sa progression dans les grands tournois. Fils affrontera désormais un adversaire de haut niveau en demi-finale, ce qui représente une belle opportunité pour confirmer son statut de leader du tennis français.",
+      "why": "Arthur Fils est l'un des plus grands espoirs du tennis français et chaque victoire contre des joueurs du top 20 mondial renforce sa crédibilité sur le circuit ATP.",
       "category": "Tennis"
     },
     {
-      "title": "Ligue 1 : Le Paris FC humilie Monaco (4-1) et brise sa série",
-      "summary": "Le Paris FC a créé la surprise en ouverture de la 29e journée de Ligue 1 en s'imposant 4-1 face à l'AS Monaco à Jean-Bouin. Les Parisiens ont fait le spectacle et mis fin à la belle série des Monégasques, relançant ainsi la course au podium. Paul Pogba est entré en jeu 21 minutes pour Monaco sans pouvoir inverser la tendance.",
-      "why": "Ce résultat majeur renverse la hiérarchie en Ligue 1 et intensifie la bataille pour les places européennes qualificatives.",
+      "title": "Monaco remporte sa septième victoire consécutive en Ligue 1 face à Marseille",
+      "summary": "L'AS Monaco a obtenu une victoire décisive contre l'Olympique de Marseille sur le score de 2-1, marquant ainsi sa septième victoire consécutive en Ligue 1. Cette performance exceptionnelle permet à Monaco de revenir à hauteur de Marseille au classement et de se rapprocher à un point seulement de la troisième place occupée par Lille, qui offre le dernier ticket direct pour la Ligue des champions. Cette série impressionnante positionne Monaco comme un prétendant sérieux pour les places européennes.",
+      "why": "Cette série de sept victoires consécutives est remarquable et montre que Monaco est en pleine forme au moment crucial de la saison, avec des enjeux majeurs pour la qualification européenne.",
       "category": "Football"
     },
     {
-      "title": "Cyclisme : Paul Seixas remporte l'étape reine du Tour du Pays basque",
-      "summary": "Paul Seixas a dominé l'étape reine du Tour du Pays basque avec une performance magistrale en solitaire au sommet. Cette victoire consolide sa position au général et met en lumière sa forme exceptionnelle en cette période printanière. Le Français s'impose devant une concurrence relevée des grimpeurs mondiaux.",
-      "why": "Ce succès sur une étape décisive renforce les chances de Seixas pour le classement final et annonce un printemps compétitif pour le cyclisme français.",
-      "category": "Autre"
+      "title": "Fenerbahçe et Galatasaray se qualifient pour la finale d'Euroligue féminine de basket",
+      "summary": "Fenerbahçe et Galatasaray ont tous deux remporté leurs demi-finales d'Euroligue féminine de basket vendredi, en dominant respectivement Gérone (76-59) et Saragosse (63-56) en Espagne. Cette qualification crée un choc 100% stambouliote en finale, ce qui est un événement exceptionnel dans l'histoire de la compétition européenne. Les deux clubs turcs affronteront donc l'un l'autre pour le titre continental, marquant une domination remarquable du basket féminin turc.",
+      "why": "Une finale 100% turque en Euroligue féminine est un événement historique qui souligne la montée en puissance du basket féminin turc au niveau européen.",
+      "category": "Basketball"
+    },
+    {
+      "title": "Lens crée la sensation en battant Toulouse 3-2 en ouverture de la 30e journée de Ligue 1",
+      "summary": "Le Racing Club de Lens a remporté une victoire spectaculaire contre le Stade Toulousain sur le score de 3-2 lors de l'ouverture de la 30e journée de Ligue 1. Ce résultat surprenant montre que Lens peut rivaliser avec les meilleures équipes du championnat et crée une dynamique positive pour les Lensois. Cette victoire sur le fil démontre le potentiel offensif de Lens et sa capacité à revenir au score dans les moments critiques.",
+      "why": "Cette victoire contre Toulouse, l'une des équipes en forme du championnat, est un résultat majeur qui pourrait relancer les ambitions de Lens pour la fin de saison.",
+      "category": "Football"
+    },
+    {
+      "title": "Gael Monfils remporte son dernier match d'invitation au Masters 1000 de Monte-Carlo",
+      "summary": "Gael Monfils, jouant sa dernière invitation au Masters 1000 de Monte-Carlo, a remporté une victoire de prestige contre le 30e mondial Tallon Griekspoor avec un score de 6-7, 6-1, 6-4. Cette performance honorable lors de son dernier tournoi en tant qu'invité montre que le champion français peut encore rivaliser avec les meilleurs joueurs du circuit. Monfils affrontera Alexander Bublik au deuxième tour, offrant une belle opportunité de continuer son parcours dans le tournoi.",
+      "why": "La victoire de Monfils dans ce qui pourrait être l'une de ses dernières participations au Masters 1000 de Monte-Carlo est symbolique et montre que le champion français reste compétitif malgré son âge avancé.",
+      "category": "Tennis"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "UBB se qualifie pour le quart de finale face à Toulouse après sa victoire contre Leicester",
+      "original": "Rugby : Quart de finale UBB-Toulouse en fin de semaine",
+      "summary": "L'Union Bordeaux-Bègles a remporté une victoire écrasante contre Leicester (64-14) lors de son quart de finale de Coupe d'Europe, avec notamment un triplé du joueur Salesi Rayasi. Les tenants du titre retrouveront donc le Stade Toulousain en fin de semaine pour un quart de finale très attendu entre les deux monstres français du rugby. Ce match dimanche à 16h s'annonce comme un affrontement de haut niveau entre les deux meilleures équipes françaises.",
+      "why": "Cette victoire massive de l'UBB confirme son statut de favori et crée un affrontement français de prestige en quart de finale, ce qui est un événement majeur du rugby européen.",
+      "category": "Rugby"
+    }
+  ]
 }
