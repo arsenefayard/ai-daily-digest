@@ -1,33 +1,33 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "subject": {
-    "name": "Bataille de Ravenne et Gaston de Foix",
-    "type": "Bataille",
-    "period": "1512 · Guerres d'Italie (Renaissance)",
-    "context": "Au cœur des guerres d'Italie, opposant Français, Espagnols, Vénitiens et le Saint-Siège, la Sainte Ligue formée par le pape Jules II unit les ennemis de la France pour contrer l'influence de Louis XII. Gaston de Foix, jeune duc de Nemours âgé de 23 ans et neveu du roi, prend le commandement des forces françaises en Italie du Nord avec une audace remarquable. Le 11 avril 1512, à Ravenne, ses troupes infligent une défaite sanglante à la coalition malgré une infériorité numérique, grâce à une charge de cavalerie décisive et un usage innovant de l'artillerie. Tragiquement, Gaston trouve la mort dans l'euphorie de la victoire, percé de coups lors d'une poursuite imprudente, privant la France de son meilleur général. Cet épisode marque un sommet de la guerre de Renaissance, alliant génie tactique et ironie du sort.",
+    "name": "Raid de Doolittle sur Tokyo",
+    "type": "Événement",
+    "period": "18 avril 1942 · Seconde Guerre mondiale, théâtre du Pacifique",
+    "context": "Le 18 avril 1942, soit seulement cinq mois après l'attaque surprise de Pearl Harbor, le colonel américain James Harold Doolittle lance un raid audacieux sur Tokyo avec seize bombardiers B-25 Mitchell. Cet exploit militaire revêt une importance symbolique majeure : c'est le premier bombardement du territoire japonais par les forces aériennes américaines, brisant le mythe de l'invulnérabilité japonaise et redonnant l'espoir à l'opinion publique américaine après les défaites initiales du Pacifique. Les bombardiers, décollant exceptionnellement d'un porte-avions, l'USS Hornet, parcourent plus de 2 400 kilomètres pour atteindre leur cible. Bien que les dégâts matériels restent limités, l'impact psychologique et moral de cette mission transforme la perception de la guerre et démontre la détermination américaine à frapper au cœur de l'ennemi.",
     "dates": [
       {
-        "year": "1489",
-        "label": "Naissance à Mazères, en Béarn, d'un prodige militaire formé dès l'enfance."
+        "year": "1941",
+        "label": "Attaque de Pearl Harbor, entrée en guerre des États-Unis"
       },
       {
-        "year": "1511",
-        "label": "Nommé lieutenant général en Italie par Louis XII pour contrer la Sainte Ligue."
+        "year": "avril 1942",
+        "label": "Préparation du raid : seize bombardiers B-25 embarqués sur l'USS Hornet"
       },
       {
-        "year": "1512",
-        "label": "Victoire éclatante à Ravenne le 11 avril contre Vénitiens et Espagnols."
+        "year": "18 avril 1942",
+        "label": "Raid de Doolittle : premier bombardement aérien sur Tokyo"
       },
       {
-        "year": "1512",
-        "label": "Mort au combat le même jour, à 23 ans, lors de la poursuite des fuyards."
+        "year": "1943",
+        "label": "Doolittle reçoit la Medal of Honor pour son leadership"
       },
       {
-        "year": "1512",
-        "label": "Défaite française ultérieure à Novare, conséquence de sa disparition."
+        "year": "1944",
+        "label": "Intensification des bombardements stratégiques sur le Japon"
       }
     ],
-    "legacy": "La bataille de Ravenne illustre l'apogée des tactiques de la Renaissance, influençant les doctrines militaires européennes par son usage combiné d'infanterie, cavalerie et artillerie. Gaston de Foix est célébré comme un héros tragique dans la littérature et l'historiographie française, symbolisant le potentiel inabouti d'une génération brillante. Son souvenir perdure dans les récits épiques, rappelant les fragilités du commandement suprême.",
-    "why": "Dans un monde obsédé par les leaders charismatiques, l'histoire de Gaston montre qu'une victoire absolue peut se muer en désastre par l'imprudence d'un seul homme, une leçon intemporelle sur les limites de l'audace."
+    "legacy": "Le raid de Doolittle marque un tournant psychologique décisif dans la Seconde Guerre mondiale en Asie-Pacifique. Il inspire les générations futures de pilotes et devient un symbole de courage militaire, enseigné dans les académies aériennes du monde entier. Cet événement démontre que les objectifs apparemment impossibles peuvent être atteints par l'audace, la préparation et l'innovation tactique, influençant les doctrines militaires modernes de projection de puissance à longue distance.",
+    "why": "Cet événement révèle comment une seule mission audacieuse, aux résultats militaires modestes, peut transformer le cours d'une guerre en restaurant la confiance d'une nation vaincue et en forçant l'ennemi à repenser sa stratégie défensive."
   }
 }
