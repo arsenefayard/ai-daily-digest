@@ -1,35 +1,35 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "Les homards produisent une enzyme qui répare leurs cellules indéfiniment",
-      "summary": "Contrairement au mythe de leur immortalité biologique, les homards sécrètent une enzyme appelée télomérase qui répare leurs cellules et permet à leur ADN de se répliquer sans limite. Cela leur confère une longévité exceptionnelle tant qu'ils ne sont pas tués par des prédateurs ou la maladie. Ce mécanisme explique pourquoi certains spécimens atteignent des tailles et des âges impressionnants en captivité.",
-      "why": "Cette découverte démystifie un fait populaire et illustre les merveilles de la biologie marine, invitant à une meilleure compréhension des processus cellulaires.",
+      "title": "La guerre anglo-zanzibarite, la plus courte de l'histoire",
+      "summary": "En 1896, le sultan de Zanzibar refuse de céder le pouvoir au candidat britannique et bombarde le palais du protectorat. Les navires britanniques répondent par un feu nourri qui détruit la flotte zanzibarite en seulement 38 minutes. Cette guerre ultra-brève met fin au conflit sans effusion de sang supplémentaire et illustre la supériorité technologique de l'époque coloniale.",
+      "why": "Ce fait révèle comment une disproportion de forces peut clore un conflit en un temps record, soulignant les dynamiques impérialistes du XIXe siècle.",
+      "category": "Histoire"
+    },
+    {
+      "title": "Le mot chat se prononçait miaou en Égypte ancienne",
+      "summary": "Dans l'Égypte antique, les Égyptiens appelaient les chats 'méou' ou 'miaou', un onomatopée imitant directement leur cri caractéristique. Ce terme reflète une observation attentive des sons animaux dans leur langue hiéroglyphique. Cette étymologie montre comment les anciens intégraient la nature dans leur vocabulaire quotidien.",
+      "why": "Cela met en lumière l'origine linguistique intuitive des mots et la proximité des civilisations antiques avec le monde animal.",
+      "category": "Linguistique"
+    },
+    {
+      "title": "Trivial Pursuit, inventé par deux journalistes canadiens",
+      "summary": "En 1979, les journalistes montréalais Chris Haney et Scott Abbott créent Trivial Pursuit lors d'une partie de Scrabble manquante en pièces. Ils rédigent 6000 questions couvrant géographie, sciences, divertissement, littérature, histoire et sport pour la première édition Genus. Ce jeu devient un phénomène mondial avec des éditions thématiques dans de nombreuses langues.",
+      "why": "Il démocratise la culture générale et montre comment un hasard ludique peut générer un succès commercial intemporel.",
+      "category": "Insolite"
+    },
+    {
+      "title": "Les serviteurs royaux d'Henri VIII pour l'hygiène intime",
+      "summary": "Le roi Henri VIII d'Angleterre employait des 'Grooms of Stool' chargés de l'assister aux toilettes et de l'essuyer. Ces fonctionnaires intimes accédaient à des informations confidentielles sur la santé royale. Cette pratique reflète les hiérarchies et les tabous hygiéniques de la cour Tudor au XVIe siècle.",
+      "why": "Ce détail insolite dévoile les aspects prosaïques du pouvoir absolu et les normes corporelles d'une époque révolue.",
+      "category": "Histoire"
+    },
+    {
+      "title": "0,5% des hommes descendent de Genghis Khan",
+      "summary": "Une étude génétique de 2003 révèle que près de 16 millions d'hommes partagent le chromosome Y de Genghis Khan. Cela représente environ 0,5% de la population masculine mondiale actuelle. L'empereur mongol et ses descendants auraient eu un impact démographique massif via leurs conquêtes et harems.",
+      "why": "Ce fait illustre le pouvoir de la génétique pour retracer l'héritage d'un conquérant historique sur l'humanité moderne.",
       "category": "Science pop"
-    },
-    {
-      "title": "Le mot sandwich provient d'un aristocrate anglais du XVIIIe siècle",
-      "summary": "Le terme 'sandwich' tire son origine du quatrième comte de Sandwich, John Montagu, qui en 1762 demanda qu'on lui apporte de la viande entre deux tranches de pain pour manger sans interrompre sa partie de cartes. Cette pratique se popularisa rapidement parmi la noblesse britannique et donna naissance à un aliment mondial. Aujourd'hui, le sandwich est un pilier de la cuisine rapide dans le monde entier.",
-      "why": "Cette étymologie révèle comment une habitude personnelle d'un noble a transformé les habitudes alimentaires globales.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Zorro est le personnage de bande dessinée le plus adapté au cinéma",
-      "summary": "Créé par Johnston McCulley en 1919, Zorro a inspiré 69 films, faisant de lui le héros de bande dessinée le plus filmé de l'histoire. Son premier long métrage, 'Le Signe de Zorro' en 1920, posa les bases de son image de justicier masqué luttant contre l'injustice en Californie espagnole. Ces adaptations ont popularisé le genre des vengeurs masqués dans le cinéma mondial.",
-      "why": "Ce record souligne l'impact durable d'un personnage fictif sur la culture populaire et le cinéma d'aventure.",
-      "category": "Cinéma"
-    },
-    {
-      "title": "En 1838, la plus ancienne photo connue capture un homme se faisant cirer les chaussures",
-      "summary": "Prise par Louis Daguerre sur le boulevard du Temple à Paris, cette image de 1838 est la plus ancienne photographie conservée montrant un être humain. Elle ne révèle qu'un homme immobile se faisant cirer les chaussures, car les temps d'exposition longs effaçaient les passants en mouvement. Cette œuvre pionnière marque le début de la photographie comme art documentaire.",
-      "why": "Elle incarne le seuil technique entre invention et usage pratique de la photographie, révolutionnant la capture du réel.",
-      "category": "Histoire"
-    },
-    {
-      "title": "Les soldats chinois anciens s'entraînaient avec des aiguilles sur le col pour garder la tête haute",
-      "summary": "Dans la Chine impériale, les recrues militaires subissaient un entraînement rigoureux où de petites aiguilles étaient placées sur leur col pour les forcer à redresser la tête et adopter une posture irréprochable. Cette méthode visait à inculquer discipline et fierté au sein de l'armée. Elle reflète les valeurs confucéennes de rectitude physique et morale.",
-      "why": "Cette pratique illustre comment les cultures antiques intégraient le corps dans la formation morale et militaire.",
-      "category": "Histoire"
     }
   ],
   "updates": []
