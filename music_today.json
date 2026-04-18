@@ -1,34 +1,34 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "Focus New Music 2026 : la création musicale française à l'honneur à la Philharmonie de Paris",
-      "summary": "Du 11 au 13 avril 2026, le Centre national de la musique et l'Institut français organisent un Focus consacré aux musiques de création à la Philharmonie de Paris. Vingt professionnels internationaux, directeurs de festivals et curateurs, sont invités pour découvrir des artistes et des projets accompagnés par les Centres nationaux de création musicale et le festival Musica. Le programme débute samedi 11 avril par un déjeuner d'accueil, une visite de la Philharmonie et un concert de l'Ensemble 0, suivi dimanche 12 avril par des concerts de Claudine Simon et de l'ensemble Dedalus.",
-      "why": "Cet événement met en lumière l'écosystème de la création musicale française auprès d'une audience internationale influente, renforçant la visibilité des compositeurs et projets contemporains français.",
-      "category": "Classique"
+      "title": "Printemps de Bourges bat son plein ce 18 avril avec une programmation explosive au W",
+      "summary": "Le Printemps de Bourges Credit Mutuel Festival, qui se déroule du 14 au 19 avril à Bourges, propose ce samedi 18 avril une soirée au W avec des artistes comme Josman, Zola, La Mano 1.9, L2B, Maureen et Danyl dès 18h. Cette scène met en lumière des talents émergents et confirmés de la scène rap et urbaine française. L'événement attire des milliers de spectateurs et confirme le statut du festival comme un rendez-vous incontournable du printemps musical.[3][4]",
+      "why": "Ce festival majeur réunit une diversité d'artistes et booste la visibilité des nouvelles générations de rappeurs français.",
+      "category": "Hip-Hop"
     },
     {
-      "title": "Festival Chorus 2026 : 60 artistes et une programmation jeune public inédite à La Seine Musicale",
-      "summary": "Le Festival Chorus des Hauts-de-Seine se déroule du 10 au 12 avril 2026 à La Seine Musicale avec 60 artistes répartis sur quatre scènes. La programmation couvre la pop, les scènes urbaines, le rock et les musiques hybrides, offrant une diversité esthétique remarquable. Nouveauté majeure cette année : le Chorus des Enfants, un volet jeune public intégré au festival, qui ouvre ses portes dès 10h le samedi 11 avril avec une programmation dédiée à la découverte artistique et poétique.",
-      "why": "Ce festival représente un rendez-vous incontournable des musiques actuelles en Île-de-France, et l'ajout d'une programmation familiale élargit son accessibilité et son impact auprès de nouveaux publics.",
+      "title": "Disquaire Day célèbre le vinyle ce 18 avril à Paris",
+      "summary": "Le Disquaire Day se tient aujourd'hui 18 avril 2026 à Paris et dans plusieurs villes françaises, avec des éditions limitées de vinyles et des animations en boutiques indépendantes. Cet événement annuel met l'accent sur le support physique et rassemble collectionneurs et amateurs de musique. Il souligne la résilience du marché du vinyle face au streaming dominant.[3]",
+      "why": "Il ravive l'intérêt pour les disquaires indépendants et les sorties physiques, un contrepoids culturel au numérique.",
+      "category": "Autre"
+    },
+    {
+      "title": "Louis Tomlinson investit l'Accor Arena le 21 avril pour son troisième album",
+      "summary": "L'ex-membre des One Direction, Louis Tomlinson, se produira le 21 avril à l'Accor Arena de Paris pour défendre son troisième album solo. Ce concert marque un retour en force de l'artiste dans la capitale française après des succès mondiaux. Les billets partent rapidement, confirmant son statut de star pop internationale.[2]",
+      "why": "Ce show arena démontre la longévité de sa carrière post-boyband et attire un public intergénérationnel.",
       "category": "Pop"
     },
     {
-      "title": "Festival Explore : la musique contemporaine et expérimentale investit la Philharmonie du 10 au 13 avril",
-      "summary": "Le festival Explore se déploie du 10 au 13 avril 2026 à la Philharmonie de Paris et à la Cité de la musique avec une programmation riche en expérimentations sonores. Au programme figurent des concerts de Caterina Barbieri, Laurie Anderson with Sexmob, l'Ensemble 0, ainsi que des performances hybrides comme une nuit expérimentale au Musée de la musique avec Mary Lattimore et Julianna Barwick. Le festival propose également des ateliers et des visites-découvertes en famille.",
-      "why": "Ce festival positionne Paris comme capitale de la musique contemporaine et expérimentale, attirant des artistes de renommée internationale et offrant une plateforme aux créateurs avant-gardistes.",
-      "category": "Électro"
-    },
-    {
-      "title": "Nouveautés musicales d'avril 2026 : une vague d'albums indie, post-punk et expérimentaux",
-      "summary": "Avril 2026 marque l'arrivée de nombreuses sorties musicales variées, dont des albums d'artistes comme Lowmoon en indie new wave post-punk, Turzi en alt rock électronique, et A Place to Bury Strangers en noise rock. Des projets plus expérimentaux comme Dodudaboum en electronic dofus-tronic et Société Étrange en experimental dub électronique enrichissent l'offre musicale du mois. Cette diversité reflète une scène musicale dynamique et fragmentée, avec des genres hybrides et des approches novatrices.",
-      "why": "Ces sorties témoignent de la vitalité de la scène musicale indépendante et expérimentale, offrant aux auditeurs une palette large d'innovations sonores et d'esthétiques alternatives.",
+      "title": "Good Rockin Tonight rocke Bourg-en-Bresse du 16 au 20 avril",
+      "summary": "Le festival Good Rockin Tonight anime Bourg-en-Bresse du 16 au 20 avril 2026 avec une programmation dédiée au rock classique et aux guitares électriques. Cet événement familial propose des concerts en plein air et des animations thématiques autour du rock'n'roll. Il attire un public fidèle des amateurs de musique roots.[3]",
+      "why": "Il perpétue l'héritage du rock traditionnel en région et offre une alternative aux festivals mainstream.",
       "category": "Rock"
     },
     {
-      "title": "Paris accueille 82 concerts le samedi 11 avril 2026 : une journée musicale exceptionnelle",
-      "summary": "Le samedi 11 avril 2026, Paris propose une programmation musicale exceptionnelle avec 82 concerts répartis dans diverses salles de concert. Cette offre couvre tous les genres musicaux : classique, jazz, rock, hip-hop, gospel et chanson française, reflétant la richesse de l'écosystème musical parisien. L'Officiel des spectacles recense l'intégralité de cette programmation, permettant aux mélomanes de découvrir des spectacles variés tout au long de la journée.",
-      "why": "Cette concentration de concerts illustre l'importance de Paris comme capitale musicale européenne et offre aux spectateurs une opportunité rare de choisir parmi une offre musicale exceptionnellement diversifiée.",
+      "title": "Anaïs MVA passe du Cigale au Trianon le 11 avril après sold-out",
+      "summary": "Anaïs MVA, nouvelle figure majeure de la soul en France, s'est produite le 11 avril au Trianon après avoir rempli La Cigale. Ce concert parisien met en avant son style soulful et ses compositions introspectives. Elle gagne rapidement en popularité sur la scène hexagonale.[2]",
+      "why": "Son ascension rapide illustre la vitalité de la soul française et son passage réussi vers des salles plus grandes.",
       "category": "Autre"
     }
   ],
