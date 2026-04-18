@@ -1,35 +1,35 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "Inflation en zone euro à 2,5 % en mars, plus haut depuis deux ans",
-      "summary": "L’inflation dans la zone euro a nettement remonté à 2,5 % en mars contre 1,9 % en février, sous l’effet principal de la hausse des prix de l’énergie liée aux tensions géopolitiques. L’inflation sous-jacente reste stable à 2,3 %, indiquant qu’il n’y a pas encore de transmission généralisée des chocs énergétiques à l’ensemble de l’économie. Cette accélération complique les décisions de la BCE sur les taux d’intérêt dans un contexte de croissance fragile.",
-      "why": "Cette hausse inattendue de l’inflation renforce les pressions sur la BCE pour maintenir une politique monétaire restrictive, impactant directement les marchés obligataires et les coûts d’emprunt pour les entreprises et les États.",
-      "category": "Politique monétaire"
+      "title": "Altice ouvre des négociations exclusives pour la vente de SFR",
+      "summary": "Altice France a annoncé le 17 avril l'ouverture de négociations exclusives avec Bouygues Telecom, Iliad et Orange pour la cession de SFR, évaluée à 20,35 milliards d'euros et portant sur la majorité des actifs de l'opérateur. Cette transaction vise à restructurer le groupe Altice face à ses difficultés financières. Elle pourrait redessiner le paysage des télécoms français en consolidant les acteurs principaux.",
+      "why": "Cette opération majeure pourrait renforcer la concurrence et la stabilité du secteur des télécommunications en France, avec des implications sur les prix et les investissements dans les infrastructures.",
+      "category": "Entreprises"
     },
     {
-      "title": "Inflation bondit aux États-Unis sous l’effet de la guerre en Iran",
-      "summary": "L’inflation américaine a fortement augmenté ces dernières semaines, attribuée directement aux conséquences économiques de la guerre en Iran initiée sous Donald Trump, avec une hausse des prix des carburants et des biens importés. Les ménages américains subissent une facture énergétique plus lourde, tandis que la Fed observe une résilience de la croissance mais un marché du travail qui se fragilise. Cette dynamique incite la Fed à la prudence sur d’éventuelles baisses de taux.",
-      "why": "Cette flambée inflationniste aux États-Unis, première économie mondiale, risque de prolonger les taux élevés et d’affecter la consommation mondiale ainsi que les flux de capitaux vers les marchés émergents.",
+      "title": "Chine : PIB en hausse de 5 % au premier trimestre malgré la crise au Moyen-Orient",
+      "summary": "Le produit intérieur brut chinois a progressé de 5 % au premier trimestre 2026, selon les données officielles publiées le 16 avril, démontrant une résilience économique face aux tensions géopolitiques. Pékin affirme que son économie tient bon malgré les perturbations liées au conflit. Cette performance dépasse les attentes dans un contexte mondial tendu.",
+      "why": "Cette croissance chinoise, deuxième économie mondiale, rassure les marchés internationaux et influence les prévisions sur la demande mondiale en matières premières et biens de consommation.",
       "category": "Marchés"
     },
     {
-      "title": "Production industrielle de la zone euro en baisse de 1,2 % en janvier",
-      "summary": "La production industrielle de la zone euro a reculé de 1,2 % en glissement annuel en janvier 2026, marquant sa première baisse depuis un an et décevant les attentes des analystes qui prévoyaient une croissance de 1,4 %. Ce déclin s’inscrit dans un contexte de tensions géopolitiques et de hausse des coûts énergétiques. Les indicateurs avancés montrent un secteur manufacturier en expansion modérée mais des services en faiblesse.",
-      "why": "Ce recul industriel signale un ralentissement économique en Europe, avec des implications sur l’emploi et les investissements, aggravant les divergences avec la résilience américaine.",
-      "category": "Marchés"
+      "title": "Stegra lève 1,4 milliard d'euros pour éviter la faillite et produire de l'acier vert",
+      "summary": "Le producteur suédois d'acier vert Stegra a annoncé le 16 avril une levée de fonds de 1,4 milliard d'euros auprès d'investisseurs privés, dont la famille Wallenberg, pour financer son projet ambitieux de réduction de 95 % des émissions de CO₂ dans la sidérurgie. Cette injection de capitaux éloigne la menace de faillite. Elle marque un pas vers la transition écologique dans un secteur polluant.",
+      "why": "Ce financement illustre l'engagement croissant des investisseurs dans les technologies vertes et pourrait accélérer la décarbonation de l'industrie lourde européenne.",
+      "category": "Entreprises"
     },
     {
-      "title": "Prix des carburants en France baissent lentement malgré forte hausse préalable",
-      "summary": "Les prix du diesel ont bondi de 33 % et du sans-plomb 95 de 16 % depuis fin février en raison de l’attaque américano-israélienne sur l’Iran, mais ils ne redescendent que très lentement à la pompe. Cette asymétrie s’explique par les marges des raffineries et les stocks spéculatifs. Le gouvernement français monitorise la situation pour éviter une inflation importée durable.",
-      "why": "Cette évolution des prix des carburants impacte directement le pouvoir d’achat des ménages et les coûts des entreprises de transport, alimentant les tensions inflationnistes en Europe.",
-      "category": "Matières premières"
-    },
-    {
-      "title": "Mesures françaises pour accélérer l’électrification des transports et logements",
-      "summary": "Le ministre Sébastien Lecornu a annoncé des mesures pour interdire progressivement les chaudières à gaz et offrir des aides aux gros rouleurs en véhicules électriques, visant à réduire la dépendance au gaz et au pétrole dont les prix ont explosé. Ces incitations incluent des subventions pour l’électrification du logement et des transports. Elles s’inscrivent dans une stratégie de transition énergétique accélérée face aux chocs géopolitiques.",
-      "why": "Ces politiques publiques pourraient stimuler les investissements dans les secteurs verts, créer des emplois dans l’électrique, mais augmentent les besoins en financement public dans un contexte budgétaire tendu.",
+      "title": "UE prépare le déblocage de 90 milliards d'euros d'aide à l'Ukraine",
+      "summary": "À la faveur du changement de Premier ministre en Hongrie, l'Union européenne prévoit de débuter au deuxième trimestre le déblocage d'un prêt de 90 milliards d'euros à l'Ukraine, a déclaré le commissaire Valdis Dombrovskis le 17 avril. Cette décision survient après des mois de blocages politiques. Elle vise à soutenir l'économie ukrainienne en guerre.",
+      "why": "Ce déblocage massif d'aide financière stabilisera l'Ukraine et soulage les budgets européens, tout en influençant les relations géopolitiques avec la Russie.",
       "category": "Politique monétaire"
+    },
+    {
+      "title": "Taux des crédits immobiliers en légère hausse en France autour de 3,22 %",
+      "summary": "Les taux des crédits immobiliers en France, stables autour de 3,22 % depuis le début de l'année, devraient légèrement augmenter dans les prochains mois selon l'Observatoire Crédit Logement CSA. L'impact du conflit au Moyen-Orient reste limité pour l'instant. Cette évolution reflète une prudence des banques face aux incertitudes économiques.",
+      "why": "Cette hausse potentielle freinera le marché immobilier résidentiel et influencera les décisions d'achat des ménages, avec des répercussions sur la construction et l'économie domestique.",
+      "category": "Marchés"
     }
   ],
   "updates": []
