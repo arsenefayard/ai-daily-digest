@@ -1,15 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "Miami Open : Alcaraz et Swiatek qualifiés pour les demi-finales",
-      "Tour de Catalogne : Pogacar s'impose dans la 3e étape au sommet",
-      "Ligue 1 : Classico explosif entre OM et PSG reporté pour cause de pluie",
-      "NBA : Warriors renversent les Suns en prolongation",
-      "Formule 1 : Verstappen poleman au Grand Prix du Japon"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "UFC Fight Night : Adesanya affronte Pyfer à Seattle",
@@ -68,6 +58,17 @@
       "Tennis : Vacherot crée la sensation en battant De Minaur au Monte-Carlo Masters",
       "Ligue 1 : Le Paris FC humilie Monaco (4-1) et brise sa série",
       "Cyclisme : Paul Seixas remporte l'étape reine du Tour du Pays basque"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "Arthur Fils surclasse Musetti et file en demi-finale à Barcelone",
+      "Monaco remporte sa septième victoire consécutive en Ligue 1 face à Marseille",
+      "Fenerbahçe et Galatasaray se qualifient pour la finale d'Euroligue féminine de basket",
+      "Lens crée la sensation en battant Toulouse 3-2 en ouverture de la 30e journée de Ligue 1",
+      "Gael Monfils remporte son dernier match d'invitation au Masters 1000 de Monte-Carlo",
+      "UBB se qualifie pour le quart de finale face à Toulouse après sa victoire contre Leicester"
     ]
   }
 ]
