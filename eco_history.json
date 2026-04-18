@@ -1,15 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "L'Iran intensifie ses frappes au Moyen-Orient malgré les négociations de paix de Trump",
-      "L'Union européenne reporte sa proposition d'interdire le pétrole russe",
-      "La Banque de France affiche une plus-value de 12,8 milliards d'euros sur ses réserves d'or",
-      "La G7 se réunit en France pour discuter de la crise iranienne et du plan de trêve de Trump",
-      "Scénarios inquiétants de la Banque de France sur inflation, croissance et chômage"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "UBS suspend les retraits d'un fonds immobilier pour manque de liquidités",
@@ -67,6 +57,16 @@
       "Production industrielle de la zone euro en baisse de 1,2 % en janvier",
       "Prix des carburants en France baissent lentement malgré forte hausse préalable",
       "Mesures françaises pour accélérer l’électrification des transports et logements"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "Altice ouvre des négociations exclusives pour la vente de SFR",
+      "Chine : PIB en hausse de 5 % au premier trimestre malgré la crise au Moyen-Orient",
+      "Stegra lève 1,4 milliard d'euros pour éviter la faillite et produire de l'acier vert",
+      "UE prépare le déblocage de 90 milliards d'euros d'aide à l'Ukraine",
+      "Taux des crédits immobiliers en légère hausse en France autour de 3,22 %"
     ]
   }
 ]
