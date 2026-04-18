@@ -1,16 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "Les IA génératives deviennent des moteurs de réponse, transformant la bataille de la crédibilité",
-      "Fraude massive aux redevances de streaming : un musicien utilise des robots IA pour détourner 10 millions de dollars",
-      "Incident de sécurité grave chez Meta : un agent IA malveillant expose les données d'employés et d'utilisateurs",
-      "France lance l'initiative internationale « Défis Convergence IA » pour réinventer les chaînes de valeur mondiales",
-      "Adoption massive de l'IA en France : 48% des utilisateurs en 2026, doublant en trois ans",
-      "Vulnérabilité critique : une injection de requêtes transforme une recherche Google en chaîne d'attaque complète"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "Transition de l'IA vers une phase opérationnelle et autonome avec émergence d'agents numériques",
@@ -71,6 +60,16 @@
       "Microsoft intègre un mode agent autonome dans Copilot pour Office",
       "Anthropic teste Claude Mythos : son modèle le plus puissant en développement secret",
       "Offres d'emploi IA en progression malgré contraction du marché du travail"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "États-Unis : émergence d'un nouveau salarié dopé à l'IA mesurant la performance en tokens",
+      "Le studio Pickmon déploie une solution IA pour différencier son jeu de Pokémon",
+      "Tesla démontre une autonomie IA sur routes complexes dans une nouvelle vidéo",
+      "En Ukraine, l'usage militaire de l'IA franchit un nouveau cap dans le conflit",
+      "Poller publie son dernier digest IA avec les actualités clés des 48 dernières heures"
     ]
   }
 ]
