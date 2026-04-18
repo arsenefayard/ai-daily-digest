@@ -1,15 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "La plus ancienne peinture connue date de plus de 51 200 ans",
-      "Les femmes romaines utilisaient la sueur de gladiateurs comme parfum",
-      "Jésus-Christ est né avant l'invention du calendrier qui le désigne",
-      "Les Malgaches descendent de femmes venues d'Indonésie il y a 1200 ans",
-      "On parle plus de 7000 langues dans le monde aujourd'hui"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "Les carottes étaient originellement blanches",
@@ -67,6 +57,16 @@
       "Zorro est le personnage de bande dessinée le plus adapté au cinéma",
       "En 1838, la plus ancienne photo connue capture un homme se faisant cirer les chaussures",
       "Les soldats chinois anciens s'entraînaient avec des aiguilles sur le col pour garder la tête haute"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "La guerre anglo-zanzibarite, la plus courte de l'histoire",
+      "Le mot chat se prononçait miaou en Égypte ancienne",
+      "Trivial Pursuit, inventé par deux journalistes canadiens",
+      "Les serviteurs royaux d'Henri VIII pour l'hygiène intime",
+      "0,5% des hommes descendent de Genghis Khan"
     ]
   }
 ]
