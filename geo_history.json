@@ -1,15 +1,5 @@
 [
   {
-    "date": "27/03/2026",
-    "titles": [
-      "L'Iran rejette le plan de paix en 15 points proposé par les États-Unis",
-      "La Hongrie annonce l'arrêt progressif des livraisons de gaz à l'Ukraine",
-      "En Algérie, Abdelmadjid Tebboune renforce ses pouvoirs via une révision constitutionnelle",
-      "Pascal Canfin appelle l'Europe à adapter sa stratégie énergétique face à la crise d'Ormuz",
-      "Le Pakistan se positionne comme médiateur potentiel entre États-Unis et Iran"
-    ]
-  },
-  {
     "date": "28/03/2026",
     "titles": [
       "Négociations Iran-États-Unis : Trump annonce une pause dans les attaques contre les infrastructures énergétiques iraniennes",
@@ -71,6 +61,17 @@
       "Le vice-président américain Vance soutient Orbán et critique Bruxelles lors d'une réunion",
       "Cessez-le-feu en Iran : chute du pétrole et rebond des marchés européens",
       "Netanyahu exclut un cessez-le-feu avec le Hezbollah malgré discussions avec le Liban"
+    ]
+  },
+  {
+    "date": "18/04/2026",
+    "titles": [
+      "Trump annonce un blocus naval américain du détroit d'Ormuz après l'échec des négociations avec l'Iran",
+      "L'Iran menace de refermer le détroit d'Ormuz en riposte au blocus américain",
+      "Conférence des non-belligérants : Macron appelle à la pleine réouverture du détroit d'Ormuz",
+      "Guerre en Ukraine : l'UE prévoit un prêt de 90 milliards d'euros et la Russie renforce ses défenses à Leningrad",
+      "Bulgarie : huitièmes élections législatives imminentes dans un climat de manifestations",
+      "Échec des négociations à Islamabad et instauration d'un blocus naval américain"
     ]
   }
 ]
