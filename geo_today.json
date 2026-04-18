@@ -1,36 +1,44 @@
 {
-  "date": "11/04/2026",
+  "date": "18/04/2026",
   "news": [
     {
-      "title": "États-Unis et Iran conviennent d'un cessez-le-feu de deux semaines au Moyen-Orient",
-      "summary": "Les États-Unis et l'Iran ont annoncé un cessez-le-feu temporaire de deux semaines pour mettre fin à l'escalade militaire qui a ouvert plusieurs fronts ces derniers jours. Cette trêve intervient après des frappes massives et des attaques de missiles, visant à stabiliser la région et à rouvrir le détroit d'Ormuz bloqué. Les implications géopolitiques incluent une possible désescalade mais aussi des risques de reprise des hostilités si les pourparlers échouent.",
-      "why": "Ce cessez-le-feu marque un tournant dans la guerre israélo-américaine contre l'Iran, influençant les prix du pétrole mondial et les alliances régionales.",
+      "title": "Trump annonce un blocus naval américain du détroit d'Ormuz après l'échec des négociations avec l'Iran",
+      "summary": "Malgré les pourparlers tenus à Islamabad entre Washington et Téhéran, Donald Trump a déclaré un blocus naval américain du détroit d'Ormuz, artère vitale pour le transport pétrolier mondial. Cette décision marque une escalade majeure après l'absence d'accord sur le nucléaire iranien. Elle risque de perturber les approvisionnements énergétiques globaux et d'attiser les tensions régionales au Moyen-Orient.",
+      "why": "Ce blocus menace directement l'économie mondiale en contrôlant 20 % des exportations pétrolières, potentiellement provoquant une flambée des prix du pétrole et des répercussions sur les chaînes d'approvisionnement internationales.",
       "category": "Conflit"
     },
     {
-      "title": "Poutine annonce un cessez-le-feu pour Pâques en Ukraine après proposition de Kyiv",
-      "summary": "Vladimir Poutine a accepté une courte trêve pour Pâques en Ukraine, proposée depuis des semaines par Kyiv, malgré des frappes russes récentes sur Soumy et Odessa. Cette pause humanitaire pourrait soulager les fronts ukrainiens enlisés dans une guerre d'attrition dominée par les drones. Géopolitiquement, elle teste la volonté de négociation entre Moscou et l'Occident au milieu des tensions persistantes.",
-      "why": "Cette trêve offre une rare fenêtre diplomatique dans le conflit russo-ukrainien, potentiellement influençant l'aide occidentale et les dynamiques européennes.",
-      "category": "Conflit"
+      "title": "L'Iran menace de refermer le détroit d'Ormuz en riposte au blocus américain",
+      "summary": "Téhéran a averti qu'il refermerait le détroit d'Ormuz si les États-Unis maintenaient leur blocus des ports iraniens, après avoir rouvert le passage aux navires commerciaux la veille. Cette menace réciproque intervient dans un contexte de trêve fragile au Moyen-Orient. Elle accentue les risques d'une confrontation navale ouverte dans cette zone stratégique.",
+      "why": "Une fermeture du détroit paralyserait les flux pétroliers mondiaux, entraînant une crise énergétique aiguë pour l'Europe et l'Asie, et pourrait impliquer d'autres puissances comme la Chine dans le conflit.",
+      "category": "Énergie"
     },
     {
-      "title": "Le vice-président américain Vance soutient Orbán et critique Bruxelles lors d'une réunion",
-      "summary": "Le vice-président américain J.D. Vance a attaqué Bruxelles et promis un soutien à Viktor Orbán à l'issue d'une réunion clé, accentuant les divisions transatlantiques. Cette position renforce les tensions entre les États-Unis de Trump et l'Union européenne sur des dossiers comme l'Ukraine et l'énergie. Elle souligne un repositionnement américain favorisant les leaders populistes en Europe de l'Est.",
-      "why": "Ce soutien public fragilise l'unité de l'OTAN et de l'UE, impactant les stratégies face à la Russie et à la Chine.",
+      "title": "Conférence des non-belligérants : Macron appelle à la pleine réouverture du détroit d'Ormuz",
+      "summary": "Lors d'un sommet des pays non-belligérants, Emmanuel Macron a exigé la réouverture immédiate et inconditionnelle du détroit d'Ormuz par toutes les parties impliquées. Cette initiative diplomatique vise à désamorcer la crise post-négociations d'Islamabad. Elle positionne la France comme un acteur clé dans la médiation européenne face à l'escalade américano-iranienne.",
+      "why": "Cette pression multilatérale pourrait forcer un compromis et éviter une guerre totale, préservant ainsi la stabilité des marchés énergétiques mondiaux.",
       "category": "Diplomatie"
     },
     {
-      "title": "Cessez-le-feu en Iran : chute du pétrole et rebond des marchés européens",
-      "summary": "Suite à l'annonce du cessez-le-feu entre les États-Unis et l'Iran, les prix du pétrole ont fortement chuté tandis que les bourses européennes ont bondi. La perspective de réouverture du détroit d'Ormuz soulage les marchés mondiaux affectés par la crise énergétique. Cette évolution économique atténue les pressions inflationnistes mais expose les vulnérabilités des chaînes d'approvisionnement globales.",
-      "why": "La stabilisation des prix énergétiques influence l'économie mondiale et les politiques intérieures en Europe face à la dépendance aux importations.",
-      "category": "Économie"
+      "title": "Guerre en Ukraine : l'UE prévoit un prêt de 90 milliards d'euros et la Russie renforce ses défenses à Leningrad",
+      "summary": "L'Union européenne s'apprête à débloquer un prêt massif de 90 milliards d'euros pour l'Ukraine dès le deuxième trimestre, soutenant son effort de guerre face à la Russie. Moscou annonce simultanément un renforcement de sa défense antiaérienne dans la région de Leningrad. Ces développements prolongent le conflit au jour 1514, avec des enjeux croissants pour l'unité européenne.",
+      "why": "Ce financement massif consolide le soutien occidental à Kyiv mais expose l'UE à des tensions internes sur le budget, tandis que les mouvements russes signalent une possible escalade nordique.",
+      "category": "Conflit"
     },
     {
-      "title": "Netanyahu exclut un cessez-le-feu avec le Hezbollah malgré discussions avec le Liban",
-      "summary": "Benjamin Netanyahu a annoncé des discussions avec le Liban mais a fermement exclu tout cessez-le-feu avec le Hezbollah, après une roquette frappant Safed et des frappes persistantes au sud Liban. Cette position maintient l'escalade sur le front libanais dans le contexte de la guerre multi-fronts. Géopolitiquement, elle complique les efforts de paix régionaux et risque d'élargir le conflit.",
-      "why": "L'absence de trêve au Liban menace la stabilité du Levant et les relations Israël-Liban, avec des répercussions sur l'Iran et les alliés du Hezbollah.",
-      "category": "Sécurité"
+      "title": "Bulgarie : huitièmes élections législatives imminentes dans un climat de manifestations",
+      "summary": "Les Bulgares votent dimanche 19 avril pour leurs huitièmes élections législatives depuis 2021, après des manifestations massives en décembre 2025 contre la corruption. Cette instabilité chronique paralyse la formation d'un gouvernement stable au sein de l'UE. Elle affaiblit la cohésion de l'Union face aux crises externes comme l'Ukraine.",
+      "why": "Une nouvelle impasse pourrait isoler la Bulgarie en Europe de l'Est, favorisant l'influence russe et compliquant les décisions collectives de l'UE sur la sécurité régionale.",
+      "category": "Élection"
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "title": "Échec des négociations à Islamabad et instauration d'un blocus naval américain",
+      "original": "États-Unis et Iran conviennent d'un cessez-le-feu de deux semaines au Moyen-Orient (11/04/2026)",
+      "summary": "Après l'échec des pourparlers à Islamabad sans accord entre Washington et Téhéran, Trump a imposé un blocus naval du détroit d'Ormuz, rompant la trêve fragile. L'Iran a répondu par des menaces de fermeture du détroit, escaladant les tensions. Cette rupture marque un revirement diplomatique majeur en moins d'une semaine.",
+      "why": "Ce changement d'escalade militaire directe menace la stabilité énergétique mondiale et pourrait relancer un conflit ouvert au Moyen-Orient.",
+      "category": "Conflit"
+    }
+  ]
 }
